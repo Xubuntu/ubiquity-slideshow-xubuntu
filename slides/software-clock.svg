@@ -216,8 +216,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="252.96719"
-     inkscape:cy="119.66293"
+     inkscape:cx="331.25717"
+     inkscape:cy="53.272727"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -381,7 +381,7 @@
      id="layer4"
      inkscape:label="Content">
     <image
-       y="98"
+       y="86"
        x="474.5"
        id="image3263"
        height="304"
@@ -390,7 +390,7 @@
        xlink:href="graphics/clock-locations.png"
        style="filter:url(#filter3612)" />
     <image
-       y="99"
+       y="87"
        x="205.5"
        id="image2520"
        height="304"
@@ -399,7 +399,7 @@
        xlink:href="graphics/clock-appointments.png"
        style="filter:url(#filter3612)" />
     <image
-       y="75.5"
+       y="73.5"
        x="30"
        id="image2546"
        height="25"
@@ -431,7 +431,7 @@
        xml:space="preserve"
        id="flowRoot3209"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(-17.999999,31)"><flowRegion
+       transform="translate(-17.999999,49)"><flowRegion
          id="flowRegion3211"><rect
            id="rect3213"
            width="196"
@@ -450,5 +450,9 @@
            x="1"
            y="434" /></flowRegion><flowPara
          id="flowPara2603"
-         style="font-size:16">[FIXME: Description of world clock does not accommodate extra-terrestrials and currently is not entirely accurate in saying &quot;anywhere&quot; -- hopefully the relevant bug will be fixed by Jackalope, though]</flowPara></flowRoot>  </g>
+         style="font-size:16px">FIXME: Description of world clock does not accommodate extra-terrestrials and currently is not entirely accurate in saying &quot;anywhere&quot; -- hopefully the relevant bug will be fixed by Jackalope, though</flowPara><flowPara
+         style="font-size:16px"
+         id="flowPara2605" /><flowPara
+         style="font-size:16px"
+         id="flowPara2607">FIXME: Times are totally inconsistent and screenshots are ugly for some reason. Looks like we need some screenshot-taking rocket scientists!</flowPara></flowRoot>  </g>
 </svg>
