@@ -7,8 +7,10 @@ Slideshow to display with the Ubiquity GTK front-end for Ubuntu
 
 Quick design guidelines for slides:
 
-We have a size limit! This should fit on a screen resolution below 800x600 along with the Ubiquity progress bar and information. Thus, slides should be designed to the size of 700x420 pixels. It will look very ugly if the slideshow keeps changing size, so let's try sticking to the same dimensions here.
+We have a size limit! The slideshow should fit on a screen resolution below 800x600 along with the Ubiquity progress bar and information. Thus, slides should be designed to the size of 700x420 pixels. It will look very ugly if the slideshow keeps changing size, so let's try sticking to the same dimensions here.
 
-Please use slides/slide-template.svg as a base for your slides. This way, we will be able to maintain a standard format.
+Please use slides/slide-template.svg as a base for your slides. This way, we will be able to maintain a standard format. Of course, if you feel that a different template would work better, let us know.
 
-More to come. For now, this project is in early days, so there is no real art direction. Feel free to take liberties with your design and ideas; let's see what can be done here!
+Keep an eye on SVG metadata for things like licenses, credits, language details and keywords for your slides. This type of information could be very useful and is the tidiest way we can keep track of it. It's always a bit embarassing when the template metadata is still there for a finished product! That metadata can be nicely explored in Inkscape. Just go to the "File" menu, then "Document Metadata".
+
+More to come. For now, this project is in early days, so there is no real art direction. Feel free to take liberties with your design and ideas; let's see what can be done!
