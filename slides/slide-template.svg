@@ -15,7 +15,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.46"
    version="1.0"
-   sodipodi:docname="welcome.svg"
+   sodipodi:docname="slide-template.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
@@ -74,34 +74,6 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective2498"
-       inkscape:persp3d-origin="64 : 42.666667 : 1"
-       inkscape:vp_z="128 : 64 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 64 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective2504"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective2517"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective2543"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       sodipodi:type="inkscape:persp3d" />
     <filter
        id="filter3612"
        inkscape:label="Drop Shadow"
@@ -138,16 +110,18 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="142.36852"
-     inkscape:cy="220.08552"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="402.18381"
+     inkscape:cy="242.8361"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="723"
      inkscape:window-x="0"
-     inkscape:window-y="30" />
+     inkscape:window-y="30"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -162,20 +136,9 @@
             <rdf:li>ubuntu</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:language>en</dc:language>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
-        <dc:description>Brief and warm introduction to Ubuntu Linux, inviting the user to learn what free software has to offer.</dc:description>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Dylan McCall</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title>Dylan McCall</dc:title>
-          </cc:Agent>
-        </dc:contributor>
+        <dc:language>en</dc:language>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
@@ -223,15 +186,7 @@
          sodipodi:role="line"
          id="tspan2475"
          x="8"
-         y="41">Welcome</tspan></text>
-    <image
-       y="1"
-       x="636"
-       id="image2545"
-       height="64"
-       width="64"
-       sodipodi:absref="/home/dmccall/Documents/Software/UbiquitySlideshow/ubiquity-slideshow-data-ubuntu/slides/graphics/ubuntu-logo.png"
-       xlink:href="graphics/ubuntu-logo.png" />
+         y="41">TITLE</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -290,55 +245,13 @@
            y="91" /></flowRegion><flowPara
          id="flowPara4976" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
-       id="flowRoot4992"
-       transform="translate(3,91)"><flowRegion
-         id="flowRegion4994" /><flowPara
-         id="flowPara2433" /></flowRoot>    <g
-       id="g2449"
-       inkscape:label="Layer 1"
-       transform="translate(161.26806,221.95154)">
-      <flowRoot
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowRoot2388"
-         xml:space="preserve"><flowRegion
-           id="flowRegion2390"><rect
-             y="9.3089428"
-             x="19.810299"
-             height="381.83197"
-             width="641.04065"
-             id="rect2392" /></flowRegion><flowPara
-           id="flowPara2400">Ubuntu is built to be safe. Please, feel free to explore!</flowPara></flowRoot>    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2439"
+       id="flowRoot2460"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
-         id="flowRegion2441"><rect
-           id="rect2443"
-           width="507"
-           height="49"
-           x="108"
-           y="299" /></flowRegion><flowPara
-         id="flowPara2445">Attractive release-specific picture goes here!</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2463"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
-         id="flowRegion2465"><rect
-           id="rect2467"
-           width="687"
-           height="137"
+         id="flowRegion2462"><rect
+           id="rect2464"
+           width="41"
+           height="102"
            x="4"
-           y="76"
-           style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara2469">Thank you for choosing Ubuntu Linux.</flowPara><flowPara
-         id="flowPara2471" /><flowPara
-         id="flowPara2473">As Ubuntu is installed, we invite you to explore the many possibilities that will be available with your new operating system. It is our sincere hope that Ubuntu will open new worlds through your computer by making this empowering technology easy and fun.</flowPara><flowPara
-         id="flowPara2487" /><flowPara
-         id="flowPara2481">However it goes, let us know at <flowSpan
-   style="font-style:italic;-inkscape-font-specification:Sans Italic"
-   id="flowSpan2485">www.ubuntu.com/community</flowSpan>!</flowPara><flowPara
-         id="flowPara2483">[FIXME: that line sounds like we half expect things to go wrong]</flowPara><flowPara
-         id="flowPara2475" /><flowPara
-         id="flowPara2477" /><flowPara
-         id="flowPara2479" /></flowRoot>  </g>
+           y="86" /></flowRegion><flowPara
+         id="flowPara2466" /></flowRoot>  </g>
 </svg>

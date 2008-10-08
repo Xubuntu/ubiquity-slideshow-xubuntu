@@ -14,7 +14,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.46"
    version="1.0"
-   sodipodi:docname="slide.svg"
+   sodipodi:docname="slide-template.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
@@ -45,7 +45,7 @@
      inkscape:window-width="645"
      inkscape:window-height="716"
      inkscape:window-x="0"
-     inkscape:window-y="60" />
+     inkscape:window-y="30" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -54,6 +54,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>ubiquity-slideshow</rdf:li>
+            <rdf:li>ubuntu</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
       </cc:Work>
     </rdf:RDF>
   </metadata>
