@@ -1,3 +1,12 @@
+General:
+
+* It would be nice if these worked with a smarter sort of template system. Have one base slide that all the other slides are derived from, and when that is changed have everything else automatically fit within those changes. (While still being fun / easy).
+
+* Note that SVGs in the slides/graphics directory are currently NOT linked dynamically to slides, but there for reference. Instead, each slide duplicates that information within itself. That needs to change.
+
+
+
+
 FIXMEs:
 
 
