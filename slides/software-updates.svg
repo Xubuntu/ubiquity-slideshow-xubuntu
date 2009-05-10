@@ -1370,6 +1370,20 @@
        y1="91.004845"
        x2="319"
        y2="42.913528" />
+    <inkscape:perspective
+       id="perspective9966"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10050"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1381,9 +1395,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.84908392"
-     inkscape:cx="320.91923"
-     inkscape:cy="188.80858"
+     inkscape:zoom="1"
+     inkscape:cx="314.06573"
+     inkscape:cy="190.87481"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -2099,28 +2113,47 @@
          d="M 43.684948,27.784836 C 48.23033,15.493195 39.626469,4.2921045 26.025828,4.2921045 C 34.595627,4.2921045 41.567654,11.264062 41.567654,19.833926 C 41.567654,25.851018 38.047903,31.37442 32.597096,33.921941 L 48.538752,30.032933 L 43.684948,27.784836 z"
          style="fill:url(#linearGradient6375);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4" />
     </g>
+    <rect
+       y="253"
+       x="467"
+       height="134"
+       width="219"
+       id="rect13280"
+       style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <g
-       id="g9618">
+       id="g10056">
       <rect
-         y="255"
-         x="242"
-         height="130"
-         width="215"
-         id="rect13278"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect9615"
+         width="219"
+         height="134"
+         x="12"
+         y="253" />
+      <image
+         xlink:href="screenshots/software-updates-packages.png"
+         sodipodi:absref="/home/rugby471/Software/ubiquity-slideshow-ubuntu/slides/screenshots/software-updates-packages.png"
          width="215"
          height="130"
+         id="image9968"
          x="14"
          y="255" />
+    </g>
+    <g
+       id="g10060">
       <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect13280"
+         y="253"
+         x="240"
+         height="134"
+         width="219"
+         id="rect13278"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <image
+         xlink:href="screenshots/software-updates-changes.png"
+         sodipodi:absref="/home/rugby471/Software/ubiquity-slideshow-ubuntu/slides/screenshots/software-updates-changes.png"
          width="215"
          height="130"
-         x="469"
+         id="image10052"
+         x="242"
          y="255" />
     </g>
   </g>
