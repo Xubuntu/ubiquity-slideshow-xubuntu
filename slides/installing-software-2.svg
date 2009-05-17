@@ -661,6 +661,27 @@
        fx="37.751469"
        fy="27.569166"
        r="21.333334" />
+    <inkscape:perspective
+       id="perspective9876"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9960"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10027"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -673,8 +694,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="333.47448"
-     inkscape:cy="218.96124"
+     inkscape:cx="347.35276"
+     inkscape:cy="181.2771"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -945,30 +966,50 @@
          id="flowPara9678" /><flowPara
          id="flowPara9680">That is why it is very easy to install software that is not included in the official Ubuntu repositories. Ubuntu packages provide an easy way for a developer to package software in a very easy-to-use format, keeping files organized for the user.</flowPara><flowPara
          id="flowPara2490" /><flowPara
-         id="flowPara2496">For more advanced management of software packages, use the Synaptic Package Manager.</flowPara></flowRoot>    <g
-       style="display:inline"
-       id="g9618">
-      <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect13278"
-         width="215"
-         height="130"
-         x="242"
-         y="255" />
-      <rect
-         y="255"
-         x="14"
-         height="130"
-         width="215"
-         id="rect9615"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         y="255"
-         x="469"
-         height="130"
-         width="215"
-         id="rect13280"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
+         id="flowPara2496">For more advanced management of software packages, use the Synaptic Package Manager.</flowPara></flowRoot>    <rect
+       y="253"
+       x="240"
+       height="134"
+       width="219"
+       id="rect13278"
+       style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9615"
+       width="219"
+       height="134"
+       x="12"
+       y="253" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13280"
+       width="219"
+       height="134"
+       x="467"
+       y="253" />
+    <image
+       y="255"
+       x="14"
+       id="image9878"
+       height="130"
+       width="215"
+       sodipodi:absref="/home/rugby471/Software/ubiquity-slideshow-ubuntu/slides/screenshots/installing-software-deb.png"
+       xlink:href="screenshots/installing-software-deb.png" />
+    <image
+       y="255"
+       x="242"
+       id="image9962"
+       height="130"
+       width="215"
+       sodipodi:absref="/home/rugby471/Software/ubiquity-slideshow-ubuntu/slides/screenshots/installing-software-ppa.png"
+       xlink:href="screenshots/installing-software-ppa.png" />
+    <image
+       y="255"
+       x="469"
+       id="image10029"
+       height="130"
+       width="215"
+       sodipodi:absref="/home/rugby471/Software/ubiquity-slideshow-ubuntu/slides/screenshots/installing-software-download.png"
+       xlink:href="screenshots/installing-software-download.png" />
   </g>
 </svg>

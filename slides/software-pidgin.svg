@@ -791,6 +791,20 @@
        y1="39.902092"
        x2="5.5366187"
        y2="44.272076" />
+    <inkscape:perspective
+       id="perspective9813"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9897"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -802,9 +816,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="393.66336"
-     inkscape:cy="242.11075"
+     inkscape:zoom="1"
+     inkscape:cx="363.34698"
+     inkscape:cy="188.57553"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -1160,29 +1174,42 @@
          style="fill:url(#linearGradient6569);fill-opacity:1;stroke:none;stroke-width:1.02830005;stroke-miterlimit:4;stroke-opacity:1"
          transform="matrix(1.18033,0,0,0.867993,13.1795,-6.80859)" />
     </g>
-    <g
-       id="g9618">
-      <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect13278"
-         width="215"
-         height="130"
-         x="242"
-         y="255" />
-      <rect
-         y="255"
-         x="14"
-         height="130"
-         width="215"
-         id="rect9615"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         y="255"
-         x="469"
-         height="130"
-         width="215"
-         id="rect13280"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
+    <rect
+       y="253"
+       x="240"
+       height="134"
+       width="219"
+       id="rect13278"
+       style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9615"
+       width="219"
+       height="134"
+       x="12"
+       y="253" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13280"
+       width="219"
+       height="134"
+       x="467"
+       y="253" />
+    <image
+       y="255"
+       x="242"
+       id="image9815"
+       height="130"
+       width="215"
+       sodipodi:absref="/home/rugby471/Software/ubiquity-slideshow-ubuntu/slides/screenshots/software-pidgin-plugins.png"
+       xlink:href="screenshots/software-pidgin-plugins.png" />
+    <image
+       y="255"
+       x="469"
+       id="image9899"
+       height="130"
+       width="215"
+       sodipodi:absref="/home/rugby471/Software/ubiquity-slideshow-ubuntu/slides/screenshots/software-pidgin-protocols.png"
+       xlink:href="screenshots/software-pidgin-protocols.png" />
   </g>
 </svg>
