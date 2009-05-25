@@ -1,53 +1,14 @@
-General:
-
-* It would be nice if these worked with a smarter sort of template system. Have one base slide that all the other slides are derived from, and when that is changed have everything else automatically fit within those changes. (While still being fun / easy).
-
-* Note that SVGs in the slides/graphics directory are currently NOT linked dynamically to slides, but there for reference. Instead, each slide duplicates that information within itself. That needs to change.
-
-
-
-
 FIXMEs:
 
 
-slides/welcome.svg
-
-* "However it goes, let us know at www.ubuntu.com/community!"
-That line almost sounds like we are expecting things to go wrong. We need a genius to word this without sounding like my Wacom Bamboo packaging and without planting the possibility that things could go poorly.
-
-
-
 slides/software-clock.svg
-
-* Screenshots are ugly. Text has come out fuzzy, text size and theme is wrong, events and times do not line up between images at all. This needs more care and attention.
-
-* Description of world clock (Locations) portion does not accommodate extra-terrestrials by saying that it tells the time /anywhere/. Two possible fixes: Display Mars time (which would be awesome) via a totally over-engineered plugin interface, or come up with a way of saying "anywhere on Earth" that isn't horribly geeky.
-
-* It is also not yet accurate in saying that time and weather info is available for "everywhere", since we are limited to particular cities. Hopefully that will be resolved for Jackalope.
-
-* Writing throughout needs help. It does not connect with what an everyday user wants, sounding more like a feature for businesses and meetings. Let's make this sound cool.
-
+	* It is also not yet accurate in saying that time and weather info is available for "everywhere", since we are limited to particular cities. Hopefully that will be resolved for Jackalope.
+	* Writing throughout needs help. It does not connect with what an everyday user wants, sounding more like a feature for businesses and meetings. Let's make this sound cool.
 
 slides/installing-software*.svg
-
-* The title "How to get more software" is ugly.
-
-* Both of these need screenshots! Screenshots of the various applications as well as a default Ubuntu menu open to the appropriate sections. Maybe an artsy graphic with a huge pile of icons or something somewhere...
-
-* We should make a note that third party software should be treated carefully, but do so without generating paranoia and without sounding like worry-warts ourselves.
-
-* Too much writing? Let's see how the screenshots change the landscape.
-
-* Mention third party software repositories and the Software Sources configuration.
+	* We should make a note that third party software should be treated carefully, but do so without generating paranoia and without sounding like worry-warts ourselves.
+	* Mention third party software repositories and the Software Sources configuration.
 
 
-slides/assistive-technologies.svg
-
-* Assistive Technologies icon (slides/graphics/preferences-desktop-accessibility.svg) is the one from Tango instead of the Human theme, because for some reason the Human theme SVG had no colour information (and thus looked really bad) when I imported it. Current state could cause confusion.
-
-
-slides/translations.svg
-
-* The slide has, for decoration, its title translated into a bunch of different languages. This could be quite fun. At the moment, translations are just done with gnome-translate so whether the meaning is still there is iffy. Further, "make yourself comfortable" is a bit of a coloquialism and probably looks creepy in other cultures.
-
-* Need better screenshots again. How about a languages.png like on www.ubuntu.com/products/WhatIsUbuntu/desktopedition? Keep in mind that the one there is really outdated.
+Slides still awaiting screenshots:
+	* welcome.svg (will do nearer the release)
