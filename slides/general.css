@@ -4,6 +4,8 @@ html, body
 	padding:0;
 	
 	background-color:#2e3436;
+	
+	/*cursor:default;*/
 }
 
 #container
@@ -22,13 +24,19 @@ html, body
 {
 	position:absolute;
 	
-	top:21px;
+	top:20px;
 	left:20px;
-	
-	padding-bottom:1em;
 	
 	font-size:26px;
 	color:#ffffff;
+}
+
+#icon
+{
+	position:absolute;
+	
+	top:2px;
+	right:2px;
 }
 
 #main
@@ -49,11 +57,32 @@ html, body
 
 #maintext
 {
-	position:relative;
+	position:absolute;
 	
-	left:16px;
-	top:16px;
+	left:8px;
+	top:8px;
 	
-	width:668px;
-	height:157px;
+	width:684px;
+	height:170px;
+}
+
+#screenshots
+{
+	position:absolute;
+	
+	top:185px;
+	left:8px;
+	width:684px;
+	height:134px;
+	
+	text-align:middle;
+}
+
+#screenshots img
+{
+	border-style:solid;
+	border-color:#2e3436;
+	border-size:2px;
+	
+	margin:2px;
 }
