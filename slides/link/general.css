@@ -101,7 +101,7 @@ html, body
 	position:absolute;
 	
 	width:684px;
-	height:134px;
+	height:138px;
 	
 	top:185px;
 	left:8px;
@@ -113,6 +113,9 @@ html, body
 
 #screenshots img
 {
+	width:215px;
+	height:130px;
+	
 	border-style:solid;
 	border-color:#2e3436;
 	border-width:2px;
