@@ -6,20 +6,33 @@ Slideshow to display with the Ubiquity GTK front-end for Ubuntu
 
 -----
 
-Quick design guidelines for slides:
+This project contains a slideshow focused on Ubuntu Linux. It is to be presented while installing Ubuntu using Ubiquity. This is associated with the ubiquity-slideshow group on Launchpad at <https://edge.launchpad.net/~ubiquity-slideshow>, which also owns a branch of Ubiquity that handles displaying the slideshow.
+
+-----
+
+Quick technical guidelines for slides:
 
 We have a size limit! The slideshow should fit on a screen resolution below 800x600 along with the Ubiquity progress bar and information. Thus, slides should be designed to the size of 700x420 pixels. It will look very ugly if the slideshow keeps changing size, so let's try sticking to the same dimensions here.
 
 Please use slides/slide-template.svg as a base for your slides. This way, we will be able to maintain a standard format. Of course, if you feel that a different template would work better, let us know.
 
-Keep an eye on SVG metadata for things like licenses, credits, language details and keywords for your slides. This type of information could be very useful and is the tidiest way we can keep track of it. Besides, it's always a bit embarassing when the template metadata is still there for a finished product! That metadata can be nicely explored in Inkscape. Just go to the "File" menu, then "Document Metadata".
-Also note that there is "License" metadata preset to CC Attribution-Sharealike.
+Please note that there is "License" metadata in the template slide preset to CC Attribution-Sharealike. Metadata can be nicely explored in Inkscape. Just go to the "File" menu, then "Document Metadata".
 
-For drop shadows and other effects, look in Object -> Filter Effects. They are defined there so that they may be reused consistently.
-
-More to come. For now, this project is very flexible. Feel free to take liberties with your design and ideas; let's see what we can do!
+At the top right of each slide is a small image, typically an icon for an application being described. This should be the same icon the user normally sees associated with that application. The icon should be external to the slide, as a 64x64 pixel PNG.
 
 -----
 
-There is a list of slide ideas here, along with their status: http://www.rememberthemilk.com/home/dylan.mccall/5378512/
+Design guidelines:
+
+Thanks to Andrew Higginson for the wonderful new slide design which actually looks good! With that contribution, I'm going to drop the "I have no idea where this is going" line and say: "Make more of those slides!"
+Some quick things to keep in mind...
+
+* Refrain from using drop shadows or reflections inside the white content area of a slide.
+* Screenshots need to be consistent. There are some guidelines on the Ubiquity/Slideshow wiki page <https://wiki.ubuntu.com/Ubiquity/Slideshow>
+* Write from the perspective of us (people, probably) explaining Ubuntu and free software to the immediate end user; the person behind the screen. Think of it as enthusing with a friend about this great new thing they have chosen to explore, making sure they know what they need to know to really enjoy it.
+* Writing should be in the present tense (no "Ubuntu will" or "Ubuntu would"). We can assume the user is running Ubuntu as he installs it, and also that he has chosen to install Ubuntu willingly. The sales-person voice stops here. If you start to hear that voice, file a bug.
+
+
+-----
+
 Don't be afraid to split one idea across many slides, as they will be displayed in a set sequence.

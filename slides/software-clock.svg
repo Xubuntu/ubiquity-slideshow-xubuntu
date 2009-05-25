@@ -16,9 +16,19 @@
    inkscape:version="0.46"
    version="1.0"
    sodipodi:docname="software-clock.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/rugby471/Desktop/slidelayout.png"
+   inkscape:export-xdpi="64.285713"
+   inkscape:export-ydpi="64.285713">
   <defs
      id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 210 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="700 : 210 : 1"
+       inkscape:persp3d-origin="350 : 140 : 1"
+       id="perspective3831" />
     <linearGradient
        id="linearGradient3188">
       <stop
@@ -33,163 +43,30 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3188"
-       id="linearGradient3194"
+       id="linearGradient2510"
+       gradientUnits="userSpaceOnUse"
        x1="319"
        y1="91.004845"
        x2="319"
        y2="42.913528"
-       gradientUnits="userSpaceOnUse" />
-    <filter
-       id="filter3612"
-       inkscape:label="Drop Shadow"
-       y="-0.11">
-      <feGaussianBlur
-         stdDeviation="1.5"
-         id="feGaussianBlur3614"
-         in="SourceAlpha" />
-      <feOffset
-         dx="2"
-         dy="2"
-         id="feOffset3616"
-         result="result0" />
-      <feMerge
-         id="feMerge3618">
-        <feMergeNode
-           inkscape:collect="always"
-           id="feMergeNode3620"
-           in="result0" />
-        <feMergeNode
-           inkscape:collect="always"
-           id="feMergeNode3622"
-           in="SourceGraphic" />
-      </feMerge>
-    </filter>
-    <radialGradient
-       r="29.889715"
-       fy="6.8283234"
-       fx="8.7468252"
-       cy="6.8283234"
-       cx="8.7468252"
+       gradientTransform="matrix(1,0,0,1.0666667,0,-1.8666667)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3188"
+       id="linearGradient3290"
        gradientUnits="userSpaceOnUse"
-       id="radialGradient5212"
-       xlink:href="#linearGradient37935"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="25.884274"
-       x2="22.218424"
-       y1="7.7893324"
-       x1="6.3422160"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4313"
-       xlink:href="#linearGradient42174"
-       inkscape:collect="always" />
-    <radialGradient
-       r="29.292715"
-       fy="10.045444"
-       fx="11.901996"
-       cy="10.045444"
-       cx="11.901996"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient4311"
-       xlink:href="#linearGradient2145"
-       inkscape:collect="always" />
-    <radialGradient
-       r="15.532059"
-       fy="10.583970"
-       fx="11.329200"
-       cy="10.583970"
-       cx="11.329200"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient4309"
-       xlink:href="#linearGradient10653"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="52.090678"
-       x2="9.8855033"
-       y1="37.197018"
-       x1="8.9156475"
-       gradientTransform="matrix(3.123841,0,0,0.969691,-31.88758,-19.59492)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4307"
-       xlink:href="#linearGradient2152"
-       inkscape:collect="always" />
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       r="8.6620579"
-       fy="19.008621"
-       fx="31.112698"
-       cy="19.008621"
-       cx="31.112698"
-       id="radialGradient3822"
-       xlink:href="#linearGradient3816"
-       inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient3816"
-       inkscape:collect="always">
-      <stop
-         id="stop3818"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
-      <stop
-         id="stop3820"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2152">
-      <stop
-         style="stop-color:#9aa29a;stop-opacity:1.0000000;"
-         offset="0.0000000"
-         id="stop2154" />
-      <stop
-         style="stop-color:#b5beb5;stop-opacity:1.0000000;"
-         offset="1.0000000"
-         id="stop2156" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient37935">
-      <stop
-         style="stop-color:#9497b3;stop-opacity:1.0000000;"
-         offset="0.0000000"
-         id="stop37937" />
-      <stop
-         style="stop-color:#4c4059;stop-opacity:1.0000000;"
-         offset="1.0000000"
-         id="stop37939" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2145">
-      <stop
-         id="stop2147"
-         offset="0.0000000"
-         style="stop-color:#fffffd;stop-opacity:1.0000000;" />
-      <stop
-         id="stop2149"
-         offset="1.0000000"
-         style="stop-color:#cbcbc9;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient42174">
-      <stop
-         id="stop42176"
-         offset="0.0000000"
-         style="stop-color:#a0a0a0;stop-opacity:1.0000000;" />
-      <stop
-         id="stop42178"
-         offset="1.0000000"
-         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient10653">
-      <stop
-         id="stop10655"
-         offset="0.0000000"
-         style="stop-color:#f3f4ff;stop-opacity:1.0000000;" />
-      <stop
-         id="stop10657"
-         offset="1.0000000"
-         style="stop-color:#9193af;stop-opacity:1.0000000;" />
-    </linearGradient>
+       gradientTransform="matrix(1,0,0,1.0666667,0,336.13333)"
+       x1="319"
+       y1="63.199623"
+       x2="319"
+       y2="72.744598" />
+    <inkscape:perspective
+       id="perspective4060"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -202,15 +79,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="359.40448"
-     inkscape:cy="187.08974"
+     inkscape:cx="341.91925"
+     inkscape:cy="231.06814"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="723"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-x="123"
+     inkscape:window-y="106"
      showguides="true"
      inkscape:guide-bbox="true" />
   <metadata
@@ -221,27 +98,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title>Dylan McCall</dc:title>
-          </cc:Agent>
-        </dc:contributor>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Dylan McCall</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:description>Description of the GNOME clock applet's key features.</dc:description>
-        <dc:language>en</dc:language>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>ubiquity-slideshow</rdf:li>
             <rdf:li>ubuntu</rdf:li>
-            <rdf:li>clock-applet</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:language>en</dc:language>
+        <dc:description />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
@@ -278,55 +144,49 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Background Decoration"
+     inkscape:label="Title"
      style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:26px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
-       x="21"
+       x="20.020815"
        y="41"
        id="text2473"><tspan
          sodipodi:role="line"
          id="tspan2475"
-         x="21"
+         x="20.020815"
          y="41">Ubuntu, Making you more productive </tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2415"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
-         id="flowRegion2417"><rect
-           id="rect2419"
-           width="545"
-           height="124"
-           x="10"
-           y="79" /></flowRegion><flowPara
-         id="flowPara2421" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2423"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
-         id="flowRegion2425"><rect
-           id="rect2427"
-           width="340"
-           height="103"
-           x="34"
-           y="78"
-           style="font-size:12px;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara2429" /></flowRoot>  </g>
+    <image
+       y="0"
+       x="636"
+       id="image4062"
+       height="64"
+       width="64"
+       sodipodi:absref="/home/dmccall/Documents/Software/UbiquitySlideshow/ubiquity-slideshow-ubuntu/slides/icons/clock.png"
+       xlink:href="icons/clock.png" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Content Block"
+     inkscape:label="Content Box"
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="opacity:1;fill:url(#linearGradient3194);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       style="opacity:1;fill:url(#linearGradient2510);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        id="rect3186"
        width="700"
-       height="360"
+       height="75"
        x="0"
        y="28" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter3612)"
+       style="opacity:1;fill:url(#linearGradient3290);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       id="rect3288"
+       width="700"
+       height="26.91675"
+       x="0"
+       y="395.69849" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        id="rect2412"
        width="700"
        height="340"
@@ -356,7 +216,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Content">
+     inkscape:label="Content"
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4970"
@@ -379,139 +240,24 @@
            y="86" /></flowRegion><flowPara
          id="flowPara2466" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot3209"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(-9.999999,-11)"><flowRegion
-         id="flowRegion3211"><rect
-           id="rect3213"
-           width="678"
-           height="188"
-           x="23"
-           y="97" /></flowRegion><flowPara
-         style="font-size:12px"
-         id="flowPara3221">The clock in Ubuntu does more than tell the time. </flowPara><flowPara
-         style="font-size:12px"
-         id="flowPara9607" /><flowPara
-         style="font-size:12px"
-         id="flowPara9609">It integrates seamlessly with Evolution to keep track of information and remind you of upcoming events or important tasks so you never miss that important meeting again. </flowPara><flowPara
-         style="font-size:12px"
-         id="flowPara10452" /><flowPara
-         style="font-size:12px"
-         id="flowPara10454">For communicating across time zones, unfold the Locations section to find out exactly what time it is and even what the weather is like anywhere around the globe.</flowPara></flowRoot>    <g
-       inkscape:label="Layer 1"
-       id="g9800"
-       transform="matrix(1.3593909,0,0,1.3593821,632.87881,3.6957045e-2)">
-      <path
-         transform="matrix(2.563158,0,0,1.219602,-55.98414,14.04144)"
-         sodipodi:type="arc"
-         style="opacity:1;fill:url(#radialGradient3822);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
-         id="path4318"
-         sodipodi:cx="31.112698"
-         sodipodi:cy="19.008621"
-         sodipodi:rx="8.6620579"
-         sodipodi:ry="8.6620579"
-         d="M 39.774755,19.008621 A 8.6620579,8.6620579 0 1 1 22.45064,19.008621 A 8.6620579,8.6620579 0 1 1 39.774755,19.008621 z" />
-      <path
-         style="fill:url(#linearGradient4307);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
-         d="M 18.587591,1.403729 L 4.226755,18.096665 L 5.4854717,19.339844 L 18.587591,1.403729 z"
-         id="path14341"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-         d="M 18.467176,1.3138035 L 5.6605716,19.072612 L 7.4900985,20.687913 L 18.467176,1.3138035 z"
-         id="path18921"
-         sodipodi:nodetypes="cccc" />
-      <path
-         sodipodi:type="arc"
-         style="fill:url(#radialGradient5212);fill-opacity:1;fill-rule:evenodd;stroke:#605773;stroke-width:0.69855404;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
-         id="path27786"
-         sodipodi:cx="16.25"
-         sodipodi:cy="16.910715"
-         sodipodi:rx="14.910714"
-         sodipodi:ry="14.910714"
-         d="M 31.160714,16.910715 A 14.910714,14.910714 0 1 1 1.3392859,16.910715 A 14.910714,14.910714 0 1 1 31.160714,16.910715 z"
-         transform="matrix(1.431529,0,0,1.431529,0.569459,-1.654618)" />
-      <path
-         sodipodi:type="arc"
-         style="fill:url(#radialGradient4311);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient4313);stroke-width:0.71139598;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
-         id="path35549"
-         sodipodi:cx="16.25"
-         sodipodi:cy="16.910715"
-         sodipodi:rx="14.910714"
-         sodipodi:ry="14.910714"
-         d="M 31.160714,16.910715 A 14.910714,14.910714 0 1 1 1.3392859,16.910715 A 14.910714,14.910714 0 1 1 31.160714,16.910715 z"
-         transform="matrix(1.163838,0,0,1.163838,4.824801,2.777556)" />
-      <path
-         sodipodi:type="arc"
-         style="fill:#f3f3f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.48232403;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path34778"
-         sodipodi:cx="15.1875"
-         sodipodi:cy="17.28125"
-         sodipodi:rx="1.21875"
-         sodipodi:ry="1.21875"
-         d="M 16.40625,17.28125 A 1.21875,1.21875 0 1 1 13.96875,17.28125 A 1.21875,1.21875 0 1 1 16.40625,17.28125 z"
-         transform="matrix(2.073295,0,0,2.073295,-7.310224,-13.13682)" />
-      <path
-         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 22.176614,20.718014 L 13.155702,13.140282"
-         id="path35559" />
-      <path
-         sodipodi:nodetypes="cc"
-         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 19.408614,29.776506 L 22.368655,25.283228"
-         id="path35561" />
-      <path
-         sodipodi:type="arc"
-         style="opacity:1;fill:#b6b9b1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36871839;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
-         id="path35563"
-         sodipodi:cx="16.705399"
-         sodipodi:cy="7.6932044"
-         sodipodi:rx="0.61871845"
-         sodipodi:ry="0.61871845"
-         d="M 17.324117,7.6932044 A 0.61871845,0.61871845 0 1 1 16.08668,7.6932044 A 0.61871845,0.61871845 0 1 1 17.324117,7.6932044 z"
-         transform="matrix(2.749493,0,0,2.749493,-22.30073,-12.40939)" />
-      <path
-         sodipodi:type="arc"
-         style="opacity:1;fill:#b6b9b1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36871839;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
-         id="path35565"
-         sodipodi:cx="16.705399"
-         sodipodi:cy="7.6932044"
-         sodipodi:rx="0.61871845"
-         sodipodi:ry="0.61871845"
-         d="M 17.324117,7.6932044 A 0.61871845,0.61871845 0 1 1 16.08668,7.6932044 A 0.61871845,0.61871845 0 1 1 17.324117,7.6932044 z"
-         transform="matrix(2.749493,0,0,2.749493,-22.30073,14.80922)" />
-      <path
-         sodipodi:type="arc"
-         style="opacity:1;fill:#b6b9b1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36871839;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
-         id="path35567"
-         sodipodi:cx="16.705399"
-         sodipodi:cy="7.6932044"
-         sodipodi:rx="0.61871845"
-         sodipodi:ry="0.61871845"
-         d="M 17.324117,7.6932044 A 0.61871845,0.61871845 0 1 1 16.08668,7.6932044 A 0.61871845,0.61871845 0 1 1 17.324117,7.6932044 z"
-         transform="matrix(2.749493,0,0,2.749493,-35.91004,1.19989)" />
-      <path
-         sodipodi:type="arc"
-         style="opacity:1;fill:#b6b9b1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36871839;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
-         id="path35569"
-         sodipodi:cx="16.705399"
-         sodipodi:cy="7.6932044"
-         sodipodi:rx="0.61871845"
-         sodipodi:ry="0.61871845"
-         d="M 17.324117,7.6932044 A 0.61871845,0.61871845 0 1 1 16.08668,7.6932044 A 0.61871845,0.61871845 0 1 1 17.324117,7.6932044 z"
-         transform="matrix(2.749493,0,0,2.749493,-8.691448,1.19989)" />
-      <path
-         transform="matrix(1.357654,0,0,1.357654,1.769896,-0.493735)"
-         d="M 31.160714,16.910715 A 14.910714,14.910714 0 1 1 1.3392859,16.910715 A 14.910714,14.910714 0 1 1 31.160714,16.910715 z"
-         sodipodi:ry="14.910714"
-         sodipodi:rx="14.910714"
-         sodipodi:cy="16.910715"
-         sodipodi:cx="16.25"
-         id="path10651"
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient4309);stroke-width:0.73656511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="arc" />
-    </g>
-    <rect
+       id="flowRoot9660"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Ubuntu-Title;-inkscape-font-specification:Ubuntu-Title"><flowRegion
+         id="flowRegion9662"><rect
+           id="rect9664"
+           width="658.26611"
+           height="158.49242"
+           x="15.556349"
+           y="84.831398" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara9682">The clock in Ubuntu does more than tell the time. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara4080"></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara4082">It integrates seamlessly with Evolution Calendar to remind you of upcoming events or important tasks so you never miss an important meeting again. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara4084"></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara4086">For communicating across time zones, unfold the Locations section to find out exactly what time it is and even what the weather is like anywhere around the globe.</flowPara></flowRoot>    <rect
        y="253"
        x="240"
        height="134"
