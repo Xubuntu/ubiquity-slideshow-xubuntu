@@ -12,13 +12,17 @@ This project contains a slideshow focused on Ubuntu Linux. It is to be presented
 
 Quick technical guidelines for slides:
 
-We have a size limit! The slideshow should fit on a screen resolution below 800x600 along with the Ubiquity progress bar and information. Thus, slides should be designed to the size of 700x420 pixels. It will look very ugly if the slideshow keeps changing size, so let's try sticking to the same dimensions here.
+* We have a size limit! The slideshow should fit on a screen resolution below 800x600 along with the Ubiquity progress bar and information. Thus, slides should be designed to the size of 700x420 pixels. It will look very ugly if the slideshow keeps changing size, so let's try sticking to the same dimensions here.
 
-Please use slides/slide-template.svg as a base for your slides. This way, we will be able to maintain a standard format. Of course, if you feel that a different template would work better, let us know.
+* The slideshow is created using HTML, Javascript and CSS. There is a file called Slideshow.html which rotates between slides and embeds them in itself. The slides themselves are very simple, small snippets of HTML. When loaded by Slideshow.html, slides gain the properties of the CSS stylesheet in slides/link/general.css. Slides should contain some divs with the following IDs: "title", "main", "content", and "screenshots". There should also be a small image with the id "icon". The "screenshots" section should contain three images, which are explained on the Ubiquity/Slideshow wiki page <https://wiki.ubuntu.com/Ubiquity/Slideshow>. The "content" section should contain a short written explanation of the slide.
 
-Please note that there is "License" metadata in the template slide preset to CC Attribution-Sharealike. Metadata can be nicely explored in Inkscape. Just go to the "File" menu, then "Document Metadata".
+* Please use slides/Template.html to start off new slides. This way, we will be able to maintain a standard format. Of course, if you feel that a different template would work better, let us know.
 
-At the top right of each slide is a small image, typically an icon for an application being described. This should be the same icon the user normally sees associated with that application. The icon should be external to the slide, as a 64x64 pixel PNG.
+* The template itself should be fairly self-explanatory. Just fill in all the spots. Title at the top, icon graphic, content (body text), and three screenshots at the bottom. This is just HTML to be linked elsewhere, so there is a lot of room for tinkering!
+
+* The icon I mention is at the top right of each slide. It is a small image, typically representing the application or action being described by the slide. This should be the same icon the user normally sees associated with that application. These icons are 64x64 pixel PNGs stored in the slides/icons directory.
+
+* To view your slide (or the slideshow) in its full glory, you will need to edit slides/Slideshow.html. Add your slide to the list inside its "container" section, then open that file in a web browser.
 
 -----
 
@@ -28,9 +32,11 @@ Thanks to Andrew Higginson for the wonderful new slide design which actually loo
 Some quick things to keep in mind...
 
 * Refrain from using drop shadows or reflections inside the white content area of a slide.
-* Screenshots need to be consistent. There are some guidelines on the Ubiquity/Slideshow wiki page <https://wiki.ubuntu.com/Ubiquity/Slideshow>
+
 * Please avoid showing the background image in a screenshot without good reason since it will conflict with the surrounding styling. Please do not scale screenshots; just crop them smartly. Minor image manipulation (eg: moving unnecessarily large gaps closer together) is allowed.
+
 * Write from the perspective of us (people, probably) explaining Ubuntu and free software to the immediate end user; the person behind the screen. Think of it as enthusing with a friend about this great new thing they have chosen to explore, making sure they know what they need to know to really enjoy it.
+
 * Writing should be in the present tense (no "Ubuntu will" or "Ubuntu would"). We can assume the user is running Ubuntu as he installs it, and also that he has chosen to install Ubuntu willingly. The sales-person voice stops here. If you start to hear that voice, file a bug.
 
 

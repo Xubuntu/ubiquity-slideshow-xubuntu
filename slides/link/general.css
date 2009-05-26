@@ -22,6 +22,9 @@ html, body
 	background-position:top left;
 }
 
+/*
+Title block is positioned at the top of a slide.
+*/
 #title
 {
 	position:absolute;
@@ -33,6 +36,10 @@ html, body
 	color:#ffffff;
 }
 
+/*
+Typically an image. This is positioned at the top
+right of a slide and is given a size of 64x64 pixels.
+*/
 #icon
 {
 	position:absolute;
@@ -44,6 +51,11 @@ html, body
 	right:2px;
 }
 
+/*
+#content and #screenshots expect to be contained in
+here. #main creates a nice, plain surface upon which
+they can appear :)
+*/
 #main
 {
 	position:absolute;
@@ -60,6 +72,11 @@ html, body
 	color:#000000;
 }
 
+/*
+Slide's body text goes here. It appears right below
+the title, at the top of the white area with heavy
+margins around it.
+*/
 #content
 {
 	position:absolute;
@@ -71,6 +88,10 @@ html, body
 	top:8px;
 }
 
+/*
+Three small screenshots related to the slide should
+go in this block.
+*/
 #screenshots
 {
 	position:absolute;
