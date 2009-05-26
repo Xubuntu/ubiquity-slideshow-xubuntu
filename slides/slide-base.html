@@ -20,13 +20,15 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 <body>
 
 <div id="container">
-	<div id="template"><a href="slide-template.html" class="load"></a></div>
-	<div id="clock"><a href="software-clock.html" class="load"></a></div>
+	<div id="slideshow">
+		<div id="template"><a href="slide-template.html" class="load"></a></div>
+		<div id="clock"><a href="software-clock.html" class="load"></a></div>
+	</div>
 </div>
 
 <script>
-	Crossfade.setup({autoLoad:false});
-	var cf2 = new Crossfade('container');
+	Crossfade.setup({autoLoad:false, random:false, interval:5, duration:0.5, transition:Crossfade.Transition.Crossfade});
+	var cf2 = new Crossfade('slideshow');
 </script>
 
 </body>
