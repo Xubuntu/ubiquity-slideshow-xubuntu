@@ -45,7 +45,7 @@ right of a slide and is given a size of 64x64 pixels.
 	position:absolute;
 	
 	width:64px;
-	height:64px;
+	height:auto;
 	
 	top:2px;
 	right:2px;
@@ -77,26 +77,26 @@ Slide's body text goes here. It appears right below
 the title, at the top of the white area with heavy
 margins around it.
 */
-#content
+#main #content
 {
 	position:absolute;
 	
-	width:684px;
-	height:170px;
-	
-	left:8px;
 	top:8px;
+	left:8px;
+	right:8px;
+	
+	height:170px;
 }
 
 /*
 Three small screenshots related to the slide should
 go in this block.
 */
-#screenshots
+#main #screenshots
 {
 	position:absolute;
 	
-	width:700px;
+	width:100%;
 	height:138px;
 	
 	top:185px;
@@ -107,10 +107,10 @@ go in this block.
 	white-space:nowrap;
 }
 
-#screenshots img
+#main #screenshots img
 {
-	width:215px;
 	height:130px;
+	width:auto;
 	
 	border-style:solid;
 	border-color:#2e3436;
