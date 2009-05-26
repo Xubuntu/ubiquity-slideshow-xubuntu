@@ -37,6 +37,9 @@ html, body
 {
 	position:absolute;
 	
+	width:64px;
+	height:64px;
+	
 	top:2px;
 	right:2px;
 }
@@ -57,7 +60,7 @@ html, body
 	color:#000000;
 }
 
-#maintext
+#content
 {
 	position:absolute;
 	
