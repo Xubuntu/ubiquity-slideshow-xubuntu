@@ -140,13 +140,14 @@ not support stacks of menu items.
 {
 	display:inline-block;
 	
+	height:24px;
+	padding:1px;
+	
 	border-style:solid;
 	border-width:1px;
 	border-color:#a89a8d;
 	
 	background-color:#f7f5f3;
-	
-	padding:1px;
 }
 
 /*
@@ -175,8 +176,7 @@ It emulates the style for a highlighted menu item in the Human theme.
 	border-width:1px;
 	border-color:#be873c;
 	
-	background-color:#ff0000; /* This is the fail colour, seen if the menu gets too tall */
-	/* TODO: Change fail colour back to orange #fdbe69 eventually */
+	background-color:#fdbe69;
 	background-image:url('menu-highlight.png');
 	background-repeat:repeat-x
 }
@@ -194,11 +194,11 @@ wonders of CSS3 at our disposal).
 }
 
 /*
-Icon for an application in a menu. Enforced height of 22px;
+Icon for an application in a menu. Enforced height of 20px;
 */
 .menu .item img
 {
-	height:22px;
+	height:20px;
 	width:auto;
 	
 	float:left;
