@@ -5,9 +5,9 @@ html, body
 	
 	background-color:#2e3436;
 	
-	font-family: sans-serif
+	font-family: sans-serif;
 	
-	/*cursor:default;*/
+	line-height:1.5;
 }
 
 #container
@@ -20,6 +20,8 @@ html, body
 	background-image:url('background-simple.png');
 	background-repeat:no-repeat;
 	background-position:top left;
+	
+	cursor:default;
 }
 
 /*
@@ -107,6 +109,11 @@ go in this block.
 	white-space:nowrap;
 }
 
+/*
+Actual screenshots are just loose img tags in the #screenshots section.
+A height of 130px is enforced, though this will work with any width.
+There is a dark grey border.
+*/
 #main #screenshots img
 {
 	height:130px;
@@ -117,4 +124,84 @@ go in this block.
 	border-width:2px;
 	
 	margin:2px;
+}
+
+
+
+/*
+The menu style is a descriptive aid for pointing the end user at, for
+example, a place in either the system menu or an application menu.
+This way, we can provide clear visual cues with minimal babbling.
+
+Note that this only displays menu items in a horizontal line. It does
+not support stacks of menu items.
+*/
+.menu
+{
+	display:inline-block;
+	
+	border-style:solid;
+	border-width:1px;
+	border-color:#a89a8d;
+	
+	background-color:#f7f5f3;
+	
+	padding:1px;
+}
+
+/*
+Use this for each item on the menu.
+*/
+.menu .item
+{
+	display:inline-block;
+	
+	height:20px;
+	padding:1px;
+}
+
+/*
+Use this to mark the 'important' part of the menu. For example, the item
+in the menu we want the user to run.
+It emulates the style for a highlighted menu item in the Human theme.
+*/
+.menu .highlight
+{
+	border-radius:3px;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	
+	border-style:solid;
+	border-width:1px;
+	border-color:#be873c;
+	
+	background-color:#ff0000; /* This is the fail colour, seen if the menu gets too tall */
+	/* TODO: Change fail colour back to orange #fdbe69 eventually */
+	background-image:url('menu-highlight.png');
+	background-repeat:repeat-x
+}
+
+/*
+Horrible, hopefully temporary hack for arrow images that mark submenus.
+These could probably be automatic. (Keeping in mind we have all the
+wonders of CSS3 at our disposal).
+*/
+.menu .arrow
+{
+	content:url('menu-arrow.png');
+	padding-left:5px;
+	padding-right:3px;
+}
+
+/*
+Icon for an application in a menu. Enforced height of 22px;
+*/
+.menu .item img
+{
+	height:22px;
+	width:auto;
+	
+	float:left;
+	
+	margin-right:5px;
 }
