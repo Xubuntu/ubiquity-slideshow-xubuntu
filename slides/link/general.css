@@ -7,7 +7,7 @@ html, body
 	
 	font-family: sans-serif;
 	
-	line-height:1.5;
+	line-height:20px;
 }
 
 #container
@@ -140,7 +140,7 @@ not support stacks of menu items.
 {
 	display:inline-block;
 	
-	height:24px;
+	height:20px;
 	padding:1px;
 	
 	border-style:solid;
@@ -157,8 +157,7 @@ Use this for each item on the menu.
 {
 	display:inline-block;
 	
-	height:20px;
-	padding:1px;
+	height:18px;
 }
 
 /*
@@ -182,23 +181,11 @@ It emulates the style for a highlighted menu item in the Human theme.
 }
 
 /*
-Horrible, hopefully temporary hack for arrow images that mark submenus.
-These could probably be automatic. (Keeping in mind we have all the
-wonders of CSS3 at our disposal).
-*/
-.menu .arrow
-{
-	content:url('menu-arrow.png');
-	padding-left:5px;
-	padding-right:3px;
-}
-
-/*
-Icon for an application in a menu. Enforced height of 20px;
+Icon for an application in a menu. Enforced height of 18px;
 */
 .menu .item img
 {
-	height:20px;
+	height:18px;
 	width:auto;
 	
 	float:left;
