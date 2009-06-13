@@ -49,8 +49,8 @@ Title block is positioned at the top of a slide.
 #title
 {
 	position:absolute;
-	top:15px;
-	left:10px;
+	top:25px;
+	left:15px;
 	font-size:26px;
 	color:#ffffff;
 }
@@ -98,20 +98,13 @@ margins around it.
 */
 #main #content
 {
-	position:absolute;
-	margin: 16px;
+	padding:16px;
 	
-	height:170px;
-	width:668px;
-
-	display: table;
-
-}
-
-#main #content #center
-{
-	display: table-cell;
-	vertical-align: middle;
+	height:186px;
+	width:700px;
+	
+	vertical-align:middle;
+	display:table-cell;
 }
 
 /*
