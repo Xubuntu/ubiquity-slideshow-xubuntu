@@ -24,6 +24,25 @@ html, body
 	cursor:default;
 }
 
+#debug-controls
+{
+	display: none;
+	position: absolute;
+	top: 440px;
+	width:700px;
+	text-align: center;
+}
+
+#debug-controls input
+{
+	width: 40px;
+}
+
+#debug-controls input#current-slide
+{
+	width: 600px;
+}
+
 /*
 Title block is positioned at the top of a slide.
 */

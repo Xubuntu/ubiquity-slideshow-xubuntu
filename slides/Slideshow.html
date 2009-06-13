@@ -40,9 +40,24 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 </div>
 
 <script type="text/javascript">
-	Crossfade.setup({autoLoad:false, random:false, interval:15, duration:0.5, transition:Crossfade.Transition.Crossfade });
+	if ("#controls" == window.location.hash) {
+		Crossfade.setup({autoLoad:false, random:false, interval:15, duration:0.5, transition:Crossfade.Transition.Crossfade, autoStart: false });
+		document.addEventListener("DOMContentLoaded", function() {
+				document.getElementById('debug-controls').style.display = "block";
+				document.getElementById("current-slide").value = cf2.filenames[0];
+				cf2.stop()
+			}, false);
+	} else {
+		Crossfade.setup({autoLoad:false, random:false, interval:15, duration:0.5, transition:Crossfade.Transition.Crossfade });
+	};
 	var cf2 = new Crossfade('slideshow');
 </script>
+
+<div id="debug-controls">
+<input type="button" onclick="cf2.previous()" value="&lt;"/>
+<input type="text"   id="current-slide" />
+<input type="button" onclick="cf2.next()" value="&gt;"/>
+</div>
 
 </body>
 
