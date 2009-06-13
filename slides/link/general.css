@@ -157,7 +157,7 @@ not support stacks of menu items.
 {
 	display:inline-block;
 	
-	height:20px;
+	height:26px;
 	padding:1px;
 	
 	border-style:solid;
@@ -174,7 +174,7 @@ Use this for each item on the menu.
 {
 	display:inline-block;
 	
-	height:18px;
+	height:24px;
 }
 
 /*
@@ -202,7 +202,7 @@ Icon for an application in a menu. Enforced height of 18px;
 */
 .menu .item img
 {
-	height:20px;
+	height:24px;
 	width:auto;
 	
 	float:left;
