@@ -24,14 +24,33 @@ html, body
 	cursor:default;
 }
 
+#debug-controls
+{
+	display: none;
+	position: absolute;
+	top: 440px;
+	width:700px;
+	text-align: center;
+}
+
+#debug-controls input
+{
+	width: 40px;
+}
+
+#debug-controls input#current-slide
+{
+	width: 600px;
+}
+
 /*
 Title block is positioned at the top of a slide.
 */
 #title
 {
 	position:absolute;
-	top:15px;
-	left:10px;
+	top:25px;
+	left:15px;
 	font-size:26px;
 	color:#ffffff;
 }
@@ -79,13 +98,13 @@ margins around it.
 */
 #main #content
 {
-	position:absolute;
+	padding:16px;
 	
-	top:8px;
-	left:8px;
-	right:8px;
+	height:186px;
+	width:700px;
 	
-	height:170px;
+	vertical-align:middle;
+	display:table-cell;
 }
 
 /*
@@ -189,4 +208,13 @@ Icon for an application in a menu. Enforced height of 18px;
 	float:left;
 	
 	margin-right:5px;
+}
+
+/*
+Hyperlink-style text
+*/
+span.href
+{
+	color: blue;
+	font-style: italic;
 }
