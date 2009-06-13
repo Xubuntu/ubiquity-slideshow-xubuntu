@@ -80,12 +80,19 @@ margins around it.
 #main #content
 {
 	position:absolute;
-	
-	top:8px;
-	left:8px;
-	right:8px;
+	margin: 16px;
 	
 	height:170px;
+	width:668px;
+
+	display: table;
+
+}
+
+#main #content #center
+{
+	display: table-cell;
+	vertical-align: middle;
 }
 
 /*
@@ -189,4 +196,13 @@ Icon for an application in a menu. Enforced height of 18px;
 	float:left;
 	
 	margin-right:5px;
+}
+
+/*
+Hyperlink-style text
+*/
+span.href
+{
+	color: blue;
+	font-style: italic;
 }

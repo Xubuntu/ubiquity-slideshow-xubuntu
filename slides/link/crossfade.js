@@ -33,6 +33,13 @@ Crossfade.prototype = {
 	initialize : function(elm, options) {
 		var me = this, next, prev;
 		this.elm = $(elm);
+		if ('firebug' in console) {
+		    var n, elements = this.elm.getElementsByClassName("load");
+		    this.filenames = [];
+		    for (n=0; n!=elements.length; ++n) {
+			this.filenames.push(elements[n].href);
+		    };
+		};
 		this.counter = 0;
 		this.prevSlide = null;
 		var t_opt = {};
@@ -93,6 +100,9 @@ Crossfade.prototype = {
 		if(this.counter == 0){
 			this.loaded = true;
 		}
+		if ('firebug' in console) {
+		    console.log("Cycling to next slide:", this.filenames[this.counter]);
+		};
 		nextSlide = this.slides[this.counter];
 		this.loadSlide(nextSlide, me.options.transition.cycle(prevSlide, nextSlide, me));
 		if(!this.loaded) {
