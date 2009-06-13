@@ -202,11 +202,12 @@ Icon for an application in a menu. Enforced height of 18px;
 */
 .menu .item img
 {
-	height:18px;
+	height:20px;
 	width:auto;
 	
 	float:left;
 	
+	margin-left:2px;
 	margin-right:5px;
 }
 
