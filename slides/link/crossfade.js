@@ -167,7 +167,7 @@ Crossfade.Transition.Crossfade = {
 			new Effect.Appear(next,{sync:true})],
 			{duration: opt.duration, queue : 'Crossfade', afterFinish:function(){
 				show.slides.without(next).each(function(s){
-					$(s).setStyle({opacity:0});
+					$(s).setStyle({opacity:0,display:'none'});
 				})
 			}}
 		);
@@ -177,7 +177,7 @@ Crossfade.Transition.Crossfade = {
 	},
 	prepare : function(show){
 		show.slides.each(function(s,i){
-			$(s).setStyle({opacity:(i === 0 ? 1 : 0),visibility:'visible'});
+			$(s).setStyle({opacity:(i === 0 ? 1 : 0),visibility:'visible',display:(i === 0 ? 'block' : 'none')});
 		});	
 	}
 };
@@ -200,7 +200,7 @@ Crossfade.Transition.FadeOutFadeIn = {
 	},
 	prepare : function(show){
 		show.slides.each(function(s,i){
-			$(s).setStyle({opacity:(i === 0 ? 1 : 0),visibility:'visible'});
+			$(s).setStyle({opacity:(i === 0 ? 1 : 0),visibility:'visible',display:(i === 0 ? 'block' : 'none')});
 		});	
 	}
 };
@@ -252,7 +252,7 @@ Crossfade.Transition.FadeOutResizeFadeIn = {
 		var slideDims = [$(show.slides[0]).getWidth(),$(show.slides[0]).getHeight()];
 		show.elm.setStyle({width:slideDims[0]+'px', height:slideDims[1]+'px'});
 		show.slides.each(function(s,i){
-			$(s).setStyle({opacity:(i === 0 ? 1 : 0),visibility:'visible'});
+			$(s).setStyle({opacity:(i === 0 ? 1 : 0),visibility:'visible',display:(i === 0 ? 'block' : 'none')});
 		});	
 	}
 };
