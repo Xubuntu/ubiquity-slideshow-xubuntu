@@ -98,9 +98,10 @@ margins around it.
 */
 #main #content
 {
-	padding:16px;
+	padding-left:16px;
+	padding-right:16px;
 	
-	height:186px;
+	height:182px;
 	width:700px;
 	
 	vertical-align:middle;
