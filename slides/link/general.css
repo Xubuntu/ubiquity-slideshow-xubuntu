@@ -10,6 +10,15 @@ html, body
 	line-height:20px;
 }
 
+/*
+Hyperlink-style text
+*/
+a
+{
+	color: blue;
+	font-style: italic;
+}
+
 #container
 {
 	position:absolute;
@@ -142,13 +151,4 @@ There is a dark grey border.
 	border-width:2px;
 	
 	margin:2px;
-}
-
-/*
-Hyperlink-style text
-*/
-span.href
-{
-	color: blue;
-	font-style: italic;
 }
