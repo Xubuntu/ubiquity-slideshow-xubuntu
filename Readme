@@ -10,18 +10,11 @@ This project contains a slideshow focused on Ubuntu Linux. It is to be presented
 
 -----
 
-Quick technical guidelines for slides:
+Writing guidelines:
 
-* We have a size limit! The slideshow should fit on a screen resolution below 800x600 along with the Ubiquity progress bar and information. Thus, slides should be designed to the size of 700x420 pixels.
+* Write in the present (no "Ubuntu will" or "Ubuntu would"). Not just present tense, but with an awareness of what is going on around the slideshow. We can assume the user is running Ubuntu as he installs it, and also that he has chosen to install Ubuntu willingly. The sales-person voice should not exist. If you start to hear that voice, file a bug.
 
-* Please use slides/Template.html to start off new slides. This way, we will be able to maintain a standard format. Of course, if you feel that a different template would work better, let us know.
-
-* The slideshow is created using HTML, Javascript and CSS. There is a file called Slideshow.html which rotates between slides and embeds them in itself, (in the process creating a simple transition effect). The slides are very simple, small snippets of HTML. When loaded by Slideshow.html, slides gain the properties of the CSS stylesheet in slides/link/general.css. Note that these are SNIPPETS; they do not contain headers, body tags, or anything of that sort and when viewed appear very plain or may not render in a web browser at all.
-Slides should contain some divisions with the following IDs in this order: "title", "main", "content", and "screenshots". There should also be a small image with the id "icon". The "content" and "screenshots" divisions should be children on the "main" division. The "screenshots" division should contain some images (preferably 3), which are explained on the Ubiquity/Slideshow wiki page <https://wiki.ubuntu.com/Ubiquity/Slideshow>. The "content" section should contain a short written explanation of the slide. In theory, you could actually put whatever you please inside the "main" division, but "screenshots" and "content" are highly recommended.
-
-* The icon I mention is at the top right of each slide. It is a small image, typically representing the application or action being described by the slide. This should be the same icon the user normally sees associated with that application. These icons are 64x64 pixel PNGs stored in the slides/icons directory.
-
-* To view your slide (or the slideshow) in its full glory, you will need to edit slides/Slideshow.html. Add your slide to the list inside its "container" section, then open that file in a web browser.
+* Write from the perspective of us (people, probably) explaining Ubuntu and free software to the immediate end user; the person behind the screen. Think of it as enthusing with a friend about this great new thing they have started to explore, making sure they know what they need to know to really enjoy it.
 
 -----
 
@@ -34,11 +27,21 @@ Some quick things to keep in mind...
 
 * Please avoid showing the background image in a screenshot without good reason since it will conflict with the surrounding styling. Please do not scale screenshots; just crop them smartly. Minor image manipulation (eg: moving unnecessarily large gaps closer together) is allowed.
 
-* Write from the perspective of us (people, probably) explaining Ubuntu and free software to the immediate end user; the person behind the screen. Think of it as enthusing with a friend about this great new thing they have chosen to explore, making sure they know what they need to know to really enjoy it.
+-----
 
-* Writing should be in the present tense (no "Ubuntu will" or "Ubuntu would"). We can assume the user is running Ubuntu as he installs it, and also that he has chosen to install Ubuntu willingly. The sales-person voice stops here. If you start to hear that voice, file a bug.
-
+DO BE AFRAID to split a single thing across multiple slides. Please try to keep things neat, tidy and short. In a lot of caces we can trust our viewers to find things on their own as long as we show them where to start, so it's possible for a single slide to do quite a bit.
 
 -----
 
-Don't be afraid to split one idea across many slides, as they will be displayed in a set sequence.
+Quick technical information for slides:
+
+* We have a size limit! The slideshow should fit on a screen resolution below 800x600 along with the Ubiquity progress bar and information. Thus, slides should be designed to the size of 700x420 pixels.
+
+* Please use slides/Template.html to start off new slides. This way, we will be able to maintain a standard format. Of course, if you feel that a different template would work better, let us know.
+
+* The slideshow is created using HTML, Javascript and CSS. There is a file called Slideshow.html which rotates between slides and embeds them in itself, (in the process creating a simple transition effect). The slides are very simple, small snippets of HTML. When loaded by Slideshow.html, slides gain the properties of the CSS stylesheet in slides/link/general.css. Note that these are SNIPPETS; they do not contain headers, body tags, or anything of that sort and when viewed appear very plain or may not render in a web browser at all.
+Slides should contain some divisions with the following IDs in this order: "title", "main", "content", and "screenshots". There should also be a small image with the id "icon". The "content" and "screenshots" divisions should be children on the "main" division. The "screenshots" division should contain some images (preferably 3), which are explained on the Ubiquity/Slideshow wiki page <https://wiki.ubuntu.com/Ubiquity/Slideshow>. The "content" section should contain a short written explanation of the slide. In theory, you could actually put whatever you please inside the "main" division, but "screenshots" and "content" are highly recommended.
+
+* The icon I mention is at the top right of each slide. It is a small image, typically representing the application or action being described by the slide. This should be the same icon the user normally sees associated with that application. These icons are 64x64 pixel PNGs stored in the slides/icons directory.
+
+* To view your slide (or the slideshow) in its full glory, you will need to edit slides/Slideshow.html. Add your slide to the list inside its "container" section, then open that file in a web browser.
