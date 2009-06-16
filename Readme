@@ -8,11 +8,17 @@ Slideshow to display with the Ubiquity GTK front-end for Ubuntu
 
 This project contains a slideshow focused on Ubuntu Linux. It is to be presented while installing Ubuntu using Ubiquity. This is associated with the ubiquity-slideshow group on Launchpad at <https://edge.launchpad.net/~ubiquity-slideshow>, which also owns a branch of Ubiquity that handles displaying the slideshow.
 
+Feedback on the project, this Readme, or anything at all is appreciated!
+
+Please also note the "Licenses", "ToDo" and "Contributors" files in this directory, which all have cool stuff.
+
 -----
 
 Writing guidelines:
 
-* Write in the present (no "Ubuntu will" or "Ubuntu would"). Not just present tense, but with an awareness of what is going on around the slideshow. We can assume the user is running Ubuntu as he installs it, and also that he has chosen to install Ubuntu willingly. The sales-person voice should not exist. If you start to hear that voice, file a bug.
+* Write in the present (no "Ubuntu will" or "Ubuntu would"). Not just present tense, but with an awareness of what is going on around the slideshow. We can assume the user is running a default Ubuntu session as he installs it, and also that he has chosen to install Ubuntu willingly; that person is now an Ubuntu user. The sales-person voice should not exist. If you start to hear that voice, file a bug immediately.
+
+* Avoid the car instruction manual voice where possible. That is, try not to tell people where specific features are, but what they can expect to find. This is because the slideshow won't follow our users everywhere, so we have to answer a different question: "What next?" If we fixate energy on pressing buttons, it will not stick :)
 
 * Write from the perspective of us (people, probably) explaining Ubuntu and free software to the immediate end user; the person behind the screen. Think of it as enthusing with a friend about this great new thing they have started to explore, making sure they know what they need to know to really enjoy it.
 
