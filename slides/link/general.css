@@ -152,3 +152,29 @@ There is a dark grey border.
 	
 	margin:2px;
 }
+
+/*
+The menu-item style is a descriptive aid for pointing the end user at,
+for example, a place in either the system menu or an application menu.
+This way we can provide clear visual cues with minimal babbling.
+*/
+.menu-item
+{
+	display:inline-block;
+	
+	border-radius:3px;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	
+	height:16px;
+	padding:1px;
+	
+	padding-left:3px;
+	padding-right:3px;
+	
+	border-style:solid;
+	border-width:1px;
+	border-color:#a89a8d;
+	
+	background-color:#f7f5f3;
+}
