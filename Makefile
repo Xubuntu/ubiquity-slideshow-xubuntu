@@ -3,7 +3,7 @@
 SOURCE=.
 BASE=build/
 
-all: clean translation
+all: translation
 
 translation:
 	for slide in `ls po`; do \
