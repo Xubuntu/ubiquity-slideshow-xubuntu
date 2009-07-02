@@ -4,9 +4,10 @@ SOURCE=.
 SOURCESLIDES=$(SOURCE)/slides
 BUILD=build
 
-all: translation
-
-translation:
+all:
+	mkdir -p $(BUILD);
+	cp -r $(SOURCESLIDES) $(BUILD)/slides;
+	
 	for slide in po/*; \
 	do \
 		slidename=`basename $$slide`; \
@@ -23,5 +24,5 @@ translation:
 	done;
 
 .PHONY : clean
-clean: $(BUILD)
-	rm -rf $(BUILD)
+clean:
+	-rm -rf $(BUILD)
