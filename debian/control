@@ -2,7 +2,7 @@ Source: ubiquity-slideshow-ubuntu
 Section: x11
 Priority: optional
 Maintainer: Ubiquity Slideshow Team <ubiquity-slideshow@lists.launchpad.net>
-Build-Depends: cdbs, coreutils, debhelper (>= 5), 
+Build-Depends: cdbs, coreutils, debhelper (>= 5), translate-toolkit,  
 XS-Vcs-Bzr: https://code.launchpad.net/~ubiquity-slideshow/ubiquity-slideshow-ubuntu/html
 Standards-Version: 3.7.3
 Homepage: https://launchpad.net/ubiquity-slideshow-ubuntu
