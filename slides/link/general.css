@@ -58,8 +58,8 @@ Title block is positioned at the top of a slide.
 #title
 {
 	position:absolute;
-	top:10px;
-	left:40px;
+	top:12px;
+	left:44px;
 	font-size:18px;
 	
 	color:#ffd58c;
@@ -76,8 +76,8 @@ right of a slide and is given a size of 64x64 pixels.
 	width:24px;
 	height:auto;
 	
-	top:8px;
-	left:4px;
+	top:10px;
+	left:8px;
 }
 
 /*
@@ -149,10 +149,11 @@ There is a dark grey border.
 	height:130px;
 	width:auto;
 	
+	/* Note that we have about 30 spare pixels (vertically) to use */
+	
 	border-style:solid;
 	border-color:#2e3436;
 	border-width:2px;
-	border-top-width:30px;
 	
 	margin:2px;
 }
