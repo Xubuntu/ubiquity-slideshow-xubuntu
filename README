@@ -75,23 +75,23 @@ slides should be designed to the size of 700x420 pixels.
 we will be able to maintain a standard format. Of course, if you feel
 that a different template would work better, let us know.
 
-* The slideshow is created using HTML, Javascript and CSS. There
-is a file called slideshow.html which rotates between slides and
-embeds them in itself, (in the process creating a simple transition
-effect). The slides are very simple, small snippets of HTML. When loaded
-by slideshow.html, slides gain the properties of the CSS stylesheet in
-slides/link/general.css. Note that these are SNIPPETS; they do not contain
-headers, body tags, or anything of that sort and when viewed appear very
-plain or may not render in a web browser at all.  Slides should contain
-some divisions with the following IDs in this order: "title", "main",
-"content", and "screenshots". There should also be a small image with the
-id "icon". The "content" and "screenshots" divisions should be children
-on the "main" division. The "screenshots" division should contain some
-images (preferably 3), which are explained on the Ubiquity/Slideshow
-wiki page <https://wiki.ubuntu.com/Ubiquity/Slideshow>. The "content"
-section should contain a short written explanation of the slide. In
-theory, you could actually put whatever you please inside the "main"
-division, but "screenshots" and "content" are highly recommended.
+* The slideshow is created using HTML, Javascript and CSS. The script 
+in index.html rotates between slides and embeds them in itself, (in the 
+process creating a simple transition effect). The slides are very simple,
+small snippets of HTML. When loaded by index.html, slides gain the
+properties of the CSS stylesheet in slides/link/general.css. Note that 
+these are SNIPPETS; they do not contain headers, body tags, or anything 
+of that sort and when viewed appear very plain or may not render in a web
+browser at all.  Slides should contain some divisions with the following
+IDs in this order: "title", "main", "content", and "screenshots". There 
+should also be a small image with the id "icon". The "content" and
+"screenshots" divisions should be children on the "main" division. The 
+"screenshots" division should contain some images (preferably 3), which 
+are explained on the Ubiquity/Slideshow wiki page 
+<https://wiki.ubuntu.com/Ubiquity/Slideshow>. The "content" section 
+should contain a short written explanation of the slide. In theory, you 
+could actually put whatever you please inside the "main" division, but 
+"screenshots" and "content" are highly recommended.
 
 * The icon I mention is at the top right of each slide. It is a small
 image, typically representing the application or action being described by
@@ -100,5 +100,5 @@ with that application. These icons are 64x64 pixel PNGs stored in the
 slides/icons directory.
 
 * To view your slide (or the slideshow) in its full glory, you will need
-to edit slides/slideshow.html. Add your slide to the list inside its
+to edit slides/index.html. Add your slide to the list inside its
 "container" section, then open that file in a web browser.

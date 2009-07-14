@@ -28,7 +28,7 @@ settings.set_property("enable-developer-extras", True)
 #TODO: Disable right click menus and resond to the user pressing links
 
 #TODO: Parse a configuration file to get the following information
-slideshow_webview.open( os.path.join(base_directory, "slides", "slideshow.html"))
+slideshow_webview.open( os.path.join(base_directory, "slides", "index.html"))
 slideshow_webview.set_size_request(700,420)
 
 slideshow_container.add(slideshow_webview)
