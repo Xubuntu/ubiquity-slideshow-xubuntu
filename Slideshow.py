@@ -24,11 +24,15 @@ slideshow_window.add(slideshow_container)
 
 slideshow_webview = webkit.WebView()
 settings = slideshow_webview.get_settings()
-settings.set_property("enable-developer-extras", True)
+try:
+    settings.set_property("enable-developer-extras", True)
+except TypeError:
+    # Webkit in 9.04 does not support enable-developer-extras
+    pass
 #TODO: Disable right click menus and resond to the user pressing links
 
 #TODO: Parse a configuration file to get the following information
-slideshow_webview.open( os.path.join(base_directory, "slides", "index.html"))
+slideshow_webview.open( os.path.abspath(os.path.join(base_directory, "slides", "index.html")))
 slideshow_webview.set_size_request(700,420)
 
 slideshow_container.add(slideshow_webview)
