@@ -7,6 +7,7 @@ BUILD=build
 all:
 	mkdir -p $(BUILD);
 	cp -r $(SOURCESLIDES) $(BUILD)/slides;
+	cp slideshow.conf $(BUILD)
 	
 	for slide in po/*; \
 	do \
