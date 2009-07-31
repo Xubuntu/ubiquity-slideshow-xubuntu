@@ -26,11 +26,11 @@ a
 	width:700px;
 	height:420px;
 	
-	/*
-	background-image:url('background-simple.png');
+	
+	background-image:url('background.jpg');
 	background-repeat:no-repeat;
 	background-position:top left;
-	*/
+	
 	background-color:#fdfdfd;
 	
 	cursor:default;
@@ -77,11 +77,11 @@ right of a slide and is given a size of 64x64 pixels.
 {
 	position:absolute;
 	
-	width:82px;
+	width:190px;
 	height:auto;
 	
-	top:10px;
-	right:10px;
+	top:160px;
+	right:0px;
 }
 
 /*
@@ -119,45 +119,24 @@ margins around it.
 	display:table-cell;
 }
 
-/*
-Three small screenshots related to the slide should
-go in this block.
-*/
-#main #screenshots
+#content p:before
 {
-	position:absolute;
-	display:none;
-	
-	width:100%;
-	
-	padding-top:4px;
-	padding-bottom:4px;
-	
-	bottom:0px;
-	left:0px;
-	
-	text-align:center;
-	
-	white-space:nowrap;
+	content:url('bullet-point.png');
+	margin-right:10px;
 }
 
-/*
-Actual screenshots are just loose img tags in the #screenshots section.
-A height of 130px is enforced, though this will work with any width.
-There is a dark grey border.
-*/
-#main #screenshots img
+#content p.special
 {
-	height:130px;
-	width:auto;
+	margin-top:2em;
+	margin-bottom:2em;
 	
-	/* Note that we have about 30 spare pixels (vertically) to use */
-	
-	border-style:solid;
-	border-color:#2e3436;
-	border-width:2px;
-	
-	margin:2px;
+	font-weight:bold;
+	text-align:center;
+}
+#content p.special:before
+{
+	content:none;
+	margin-right:0px;
 }
 
 /*
