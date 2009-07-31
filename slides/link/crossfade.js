@@ -26,6 +26,14 @@
 * * 
 */
 
+/*
+* This version of Crossfade is slightly modified, with an additional
+* "loop" option, defined in Crossfade.defaults and applied in inside
+* Crossfade.prototype.cycle().
+* *
+*/
+ 
+
 var Crossfade = Class.create();
 
 Crossfade.prototype = {
@@ -100,6 +108,9 @@ Crossfade.prototype = {
 		}
 		document.getElementById("current-slide").value = this.filenames[this.counter];
 		nextSlide = this.slides[this.counter];
+		if(this.options.loop == false && this.counter >= this.slides.length-1) {
+			this.stop();
+		}
 		this.loadSlide(nextSlide, me.options.transition.cycle(prevSlide, nextSlide, me));
 		if(!this.loaded) {
 			this.loadSlide(this.slides[this.loopCount(this.counter+1)]);
@@ -259,6 +270,7 @@ Crossfade.Transition.FadeOutResizeFadeIn = {
 Crossfade.defaults = {
 	autoLoad : true,
 	autoStart : true,
+	loop : true,
 	random : false,
 	randomClassName : 'random',
 	selectors : ['.crossfade'],
