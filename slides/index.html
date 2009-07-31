@@ -13,8 +13,8 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 	
 	<base target="_blank" />
 	
-	<script type="text/javascript" src="link/scriptaculous/lib/prototype.js"></script>
-	<script type="text/javascript" src="link/scriptaculous/src/effects.js"></script>
+	<script type="text/javascript" src="link/scriptaculous/prototype.js"></script>
+	<script type="text/javascript" src="link/scriptaculous/effects.js"></script>
 	<script type="text/javascript" src="link/fastinit.js"></script>
 	<script type="text/javascript" src="link/crossfade.js"></script>
 </head>
@@ -50,7 +50,7 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 				cf2.stop()
 			}, false);
 	} else {
-		Crossfade.setup({autoLoad:false, random:false, interval:30, duration:0.5, transition:Crossfade.Transition.Crossfade });
+		Crossfade.setup({autoLoad:false, random:false, interval:30, duration:0.5, loop:false, transition:Crossfade.Transition.Crossfade });
 	};
 	var cf2 = new Crossfade('slideshow');
 </script>
