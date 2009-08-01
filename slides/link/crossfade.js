@@ -28,7 +28,7 @@
 
 /*
 * This version of Crossfade is slightly modified, with an additional
-* "loop" option, defined in Crossfade.defaults and applied in inside
+* "loop" option, defined in Crossfade.defaults and applied inside
 * Crossfade.prototype.cycle().
 * *
 */
