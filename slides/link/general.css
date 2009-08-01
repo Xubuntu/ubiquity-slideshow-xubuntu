@@ -66,7 +66,6 @@ Title block is positioned at the top of a slide.
 	font-size:20px;
 	
 	color:#000000;
-	text-shadow:black 1px 1px 2px;
 }
 
 /*
@@ -135,7 +134,7 @@ margins around it.
 }
 #content p.special:before
 {
-	content:none;
+	content:'';
 	margin-right:0px;
 }
 
