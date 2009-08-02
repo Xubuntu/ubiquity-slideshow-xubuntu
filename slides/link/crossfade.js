@@ -27,9 +27,22 @@
 */
 
 /*
-* This version of Crossfade is slightly modified, with an additional
-* "loop" option, defined in Crossfade.defaults and applied in inside
-* Crossfade.prototype.cycle().
+* This version of Crossfade is modified from the original as available
+* from Millstream Web Software.
+* 
+* There is an additional "loop" option, defined in Crossfade.defaults
+* and applied inside Crossfade.prototype.cycle().
+*
+* There is an additional (optional) "dir" parameter for the Cycle 
+* function of a transition, sent from Crossfade.prototype.cycle() via
+* me.options.transition.cycle.
+*
+* Added a new transition option (Crossfade.Transition.Cover), which
+* slides the previous slide off stage and the new one on stage
+* horizontally. By using absolute positions, it makes some dangerous
+* assumptions about the layout of the page. However, it should be
+* adaptable to other needs.
+*
 * *
 */
  
@@ -111,7 +124,7 @@ Crossfade.prototype = {
 		if(this.options.loop == false && this.counter >= this.slides.length-1) {
 			this.stop();
 		}
-		this.loadSlide(nextSlide, me.options.transition.cycle(prevSlide, nextSlide, me));
+		this.loadSlide(nextSlide, me.options.transition.cycle(prevSlide, nextSlide, me, dir));
 		if(!this.loaded) {
 			this.loadSlide(this.slides[this.loopCount(this.counter+1)]);
 		}
@@ -205,6 +218,48 @@ Crossfade.Transition.FadeOutFadeIn = {
 				})
 			}
 		});
+	},
+	cancel : function(show){
+		if(show.effect) { show.effect.cancel(); }
+	},
+	prepare : function(show){
+		show.slides.each(function(s,i){
+			$(s).setStyle({opacity:(i === 0 ? 1 : 0),visibility:'visible',display:(i === 0 ? 'block' : 'none')});
+		});	
+	}
+};
+
+Crossfade.Transition.Cover = {
+	className : 'transition-cover',
+	cycle : function(prev, next, show, dir) {
+		var opt = show.options;
+		
+		var next_x = '700px';
+		if ( dir > 0 )
+		{
+			/* set up slides for flipping backwards */
+			next_x = prev.getWidth() + 'px';
+		} else {
+			/* set up slides for flipping forwards */
+			next_x = -prev.getWidth() + 'px';
+		}
+		next.setStyle({left:next_x});
+		
+		prev_new_x = dir * -prev.getWidth();
+		next_new_x = 0;
+		
+		show.effect = new Effect.Parallel([
+			new Effect.Move(prev, {x:prev_new_x, y:0, mode:'absolute', sync:true}),
+			new Effect.Appear(next, {sync:true}),
+			new Effect.Move(next, {x:next_new_x, y:0, mode:'absolute', sync:true})],
+			{ duration: opt.duration,
+			  queue : 'Crossfade',
+			  afterFinish:function(){
+				show.slides.without(next).each(function(s){
+					$(s).setStyle({opacity:0,display:'none'});
+				})
+			}}
+		);
 	},
 	cancel : function(show){
 		if(show.effect) { show.effect.cancel(); }
