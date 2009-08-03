@@ -6,8 +6,7 @@ html, body
 	background-color:#2e3436;
 	
 	font-family:sans-serif;
-	
-	line-height:20px;
+	color:#000000;
 }
 
 /*
@@ -26,6 +25,7 @@ a
 	width:700px;
 	height:420px;
 	
+	overflow:hidden;
 	
 	background-image:url('background.jpg');
 	background-repeat:no-repeat;
@@ -33,9 +33,7 @@ a
 	
 	background-color:#fdfdfd;
 	
-	cursor:default;
-	
-	overflow:hidden;
+	/*cursor:default;*/
 }
 
 #debug-controls
@@ -65,9 +63,12 @@ Title block is positioned at the top of a slide.
 	position:absolute;
 	top:15px;
 	left:10px;
+
 	font-size:20px;
-	
-	color:#000000;
+	font-weight:normal;
+
+	padding:0;
+	margin:0;
 }
 
 /*
@@ -78,29 +79,33 @@ right of a slide and is given a size of 64x64 pixels.
 {
 	position:absolute;
 	
-	width:190px;
+	width:210px;
 	height:auto;
 	
-	top:180px;
-	right:0px;
+	top:170px;
+	right:10px;
+	
+	z-index:11;
+	border:0px;
 }
 
 /*
-#content and #screenshots expect to be contained in
-here. #main creates a nice, plain surface upon which
-they can appear :)
+#content expects to be contained in here. #main
+creates a nice, plain surface upon which it can
+appear :)
 */
 #main
 {
 	position:absolute;
 	
-	top:40px;
-	
-	width:500px;
-	height:280px;
+	top:50px;
+	left:0px;
+
+    padding-right:60px;
 	
 	font-size:14px;
-	color:#000000;
+	
+	z-index:12;
 }
 
 /*
@@ -112,26 +117,29 @@ margins around it.
 {
 	padding-left:16px;
 	padding-right:16px;
+	
+	width:490px;
 }
 
-#content p:before
+#content ul
 {
-	content:url('bullet-point.png');
-	margin-right:10px;
+	list-style-image:url("bullet-point.png");
+	padding-left:2em;
 }
 
-#content p.special
+#content li
+{
+	padding:0.8em;
+}
+
+#content li.special
 {
 	margin-top:2em;
 	margin-bottom:2em;
+	list-style:none;
 	
 	font-weight:bold;
 	text-align:center;
-}
-#content p.special:before
-{
-	content:'';
-	margin-right:0px;
 }
 
 /*
