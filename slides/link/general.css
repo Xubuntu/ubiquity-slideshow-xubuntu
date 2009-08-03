@@ -6,8 +6,7 @@ html, body
 	background-color:#2e3436;
 	
 	font-family:sans-serif;
-	
-	line-height:20px;
+	color:#000000;
 }
 
 /*
@@ -33,7 +32,7 @@ a
 	
 	background-color:#fdfdfd;
 	
-	cursor:default;
+/*	cursor:default;*/
 }
 
 #debug-controls
@@ -63,9 +62,12 @@ Title block is positioned at the top of a slide.
 	position:absolute;
 	top:10px;
 	left:10px;
+
 	font-size:20px;
-	
-	color:#000000;
+	font-weight:normal;
+
+	padding:0;
+	margin:0;
 }
 
 /*
@@ -76,11 +78,14 @@ right of a slide and is given a size of 64x64 pixels.
 {
 	position:absolute;
 	
-	width:190px;
+	width:210px;
 	height:auto;
 	
-	top:160px;
-	right:0px;
+	top:170px;
+	right:10px;
+	
+	z-index:11;
+	border:0px;
 }
 
 /*
@@ -92,13 +97,14 @@ they can appear :)
 {
 	position:absolute;
 	
-	top:60px;
-	height:382px;
+	top:50px;
 	left:0px;
-	right:120px;
+
+    padding-right:60px;
 	
-	font-size:14px;
-	color:#000000;
+	font-size:12px;
+	
+	z-index:12;
 }
 
 /*
@@ -111,31 +117,29 @@ margins around it.
 	padding-left:16px;
 	padding-right:16px;
 	
-	width:100%;
-	height:100%;
 	
 	vertical-align:middle;
-	display:table-cell;
 }
 
-#content p:before
+#content ul
 {
-	content:url('bullet-point.png');
-	margin-right:10px;
+	list-style-image:url("bullet-point.png");
+	padding-left:2em;
 }
 
-#content p.special
+#content li
+{
+	padding:0.8em;
+}
+
+#content li.special
 {
 	margin-top:2em;
 	margin-bottom:2em;
+	list-style:none;
 	
 	font-weight:bold;
 	text-align:center;
-}
-#content p.special:before
-{
-	content:'';
-	margin-right:0px;
 }
 
 /*
