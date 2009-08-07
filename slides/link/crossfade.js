@@ -42,7 +42,6 @@
 * horizontally. By using absolute positions, it makes some dangerous
 * assumptions about the layout of the page. However, it should be
 * adaptable to other needs.
-*
 * *
 */
  
