@@ -79,10 +79,10 @@ right of a slide and is given a size of 64x64 pixels.
 {
 	position:absolute;
 	
-	width:210px;
+	width:auto;
 	height:auto;
 	
-	top:170px;
+	bottom:-420px;
 	right:10px;
 	
 	z-index:11;

@@ -136,14 +136,14 @@
 ; part of the ubiquity-slideshow project.
 ; <http://launchpad.net/~ubiquity-slideshow>
 
-(define (batch-reflection-svg pattern)
+(define (batch-reflection-svg pattern output)
     (let* ((filelist (cadr (file-glob pattern 1))))
         (while (not (null? filelist))
             (let* ((filename (car filelist))
                 (image (car (file-svg-load 1 filename filename 90 185 185 0))))
                 (plug-in-autocrop 1 image (car (gimp-image-get-active-layer image)))
                 (script-fu-gimp-reflection image (car (gimp-image-get-active-layer image)) 30 90 10 40 0 1)
-                (define new-filename (string-append "../slides/icons/" (substring filename 0 (- (string-length filename) 4))  ".png"))
+                (define new-filename (string-append output (substring filename 0 (- (string-length filename) 4)) ".png"))
                 (gimp-file-save 1 image (car (gimp-image-get-active-layer image)) new-filename new-filename)
                 (gimp-image-delete image)
             )
@@ -152,6 +152,6 @@
     )
 )
 
-(batch-reflection-svg "*.svg")
+(batch-reflection-svg "*.svg" "../slides/icons/")
 
 (gimp-quit 0)

@@ -6,3 +6,6 @@ Ubuntu, but is still (of course) a new Ubuntu user.
 * Translation infrastructure: Need Javascript solution in
 slides/index.html that will automatically load the appropriate localized
 version of each slide.
+
+* Make a smarter Makefile, with targets and the like to avoid rebuilding
+the entire thing every time make gets run.
