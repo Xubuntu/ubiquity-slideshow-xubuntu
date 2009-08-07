@@ -58,7 +58,7 @@ a
 /*
 Title block is positioned at the top of a slide.
 */
-#title
+.title
 {
 	position:absolute;
 	top:15px;
@@ -75,7 +75,7 @@ Title block is positioned at the top of a slide.
 Typically an image. This is positioned at the top
 right of a slide and is given a size of 64x64 pixels.
 */
-#icon
+.icon
 {
 	position:absolute;
 	
@@ -94,7 +94,7 @@ right of a slide and is given a size of 64x64 pixels.
 creates a nice, plain surface upon which it can
 appear :)
 */
-#main
+.main
 {
 	position:absolute;
 	
@@ -113,7 +113,7 @@ Slide's body text goes here. It appears right below
 the title, at the top of the white area with heavy
 margins around it.
 */
-#main #content
+.main .content
 {
 	padding-left:16px;
 	padding-right:16px;
@@ -121,18 +121,18 @@ margins around it.
 	width:490px;
 }
 
-#content ul
+.content ul
 {
 	list-style-image:url("bullet-point.png");
 	padding-left:2em;
 }
 
-#content li
+.content li
 {
 	padding:0.8em;
 }
 
-#content li.special
+.content li.special
 {
 	margin-top:2em;
 	margin-bottom:2em;
