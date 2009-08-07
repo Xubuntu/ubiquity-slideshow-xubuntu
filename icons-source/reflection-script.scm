@@ -143,7 +143,7 @@
                 (image (car (file-svg-load 1 filename filename 90 185 185 0))))
                 (plug-in-autocrop 1 image (car (gimp-image-get-active-layer image)))
                 (script-fu-gimp-reflection image (car (gimp-image-get-active-layer image)) 30 90 10 40 0 1)
-                (define new-filename (string-append "../" (substring filename 0 (- (string-length filename) 4))  ".png"))
+                (define new-filename (string-append "../slides/icons/" (substring filename 0 (- (string-length filename) 4))  ".png"))
                 (gimp-file-save 1 image (car (gimp-image-get-active-layer image)) new-filename new-filename)
                 (gimp-image-delete image)
             )

@@ -1,30 +1,8 @@
-* alt text for images in slides
-
 * .desktop file for slideshow. Add to debian/install. We want this to
 be placed with example-content. Should run default web browser with a
 slideshow tuned to the case where the user is NOT presently installing
 Ubuntu, but is still (of course) a new Ubuntu user.
 
-
-FIXMEs:
-
-slides/fspot.html
-	* Screenshots need to be touched up. Currently have redundant
-	Find bar, and something has been scaled oddly. Current screenshot
-	of Tags list does not have correct icon theme applied (note
-	Events tag).
-
-slides/screenshots/translations-gdm.png
-	* Keep an eye on what happens to GDM for Karmic and make sure
-	this image stays up to date. (Extra emphasis because it will
-	probably change and because it's an important visual cue!)
-
-slides/screenshots/installing-software-updates.png
-	* Out of date. The "software updates are available" notification
-	bubble does not actually happen. This could be a nice picture
-	of the update window, instead.
-
-
-
-Slides still awaiting screenshots:
-	* welcome.html (will do nearer the release)
+* Translation infrastructure: Need Javascript solution in
+slides/index.html that will automatically load the appropriate localized
+version of each slide.
