@@ -24,10 +24,13 @@ all: icons
 		done; \
 	done;
 
-.PHONY : clean icons
-
 icons:
 	icons-source/generate-pngs.sh
 
-clean:
+.PHONY : clean clean-icons
+
+clean-icons:
+	icons-source/remove-pngs.sh
+
+clean: clean-icons
 	-rm -rf $(BUILD)
