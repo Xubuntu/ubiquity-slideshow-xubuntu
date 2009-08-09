@@ -13,7 +13,7 @@ of Ubiquity that handles displaying the slideshow.
 
 Feedback on the project, this Readme, or anything at all is appreciated!
 
-Please also note the "COPYING", "AUTHORS" and "ToDo" files in this
+Please also note the "COPYING", "AUTHORS" and "TODO" files in this
 directory, which all have cool stuff.
 
 -----
@@ -49,12 +49,9 @@ no idea where this is going" line and say: "Make more of those slides!"
 Some quick things to keep in mind...
 
 * Refrain from using drop shadows or reflections inside the white content
-area of a slide.
-
-* Please avoid showing the background image in a screenshot without good
-reason since it will conflict with the surrounding styling. Please do
-not scale screenshots; just crop them smartly. Minor image manipulation
-(eg: moving unnecessarily large gaps closer together) is allowed.
+area of a slide. There is already one reflected object consistently in
+use (in an area that the content area does not touch); adding another
+could lead to visual inconsistency.
 
 -----
 
@@ -71,7 +68,7 @@ Quick technical information for slides:
 below 800x600 along with the Ubiquity progress bar and information. Thus,
 slides should be designed to the size of 700x420 pixels.
 
-* Please use slides/Template.html to start off new slides. This way,
+* Please use ./slides/Template.html to start off new slides. This way,
 we will be able to maintain a standard format. Of course, if you feel
 that a different template would work better, let us know.
 
@@ -79,7 +76,7 @@ that a different template would work better, let us know.
 in index.html rotates between slides and embeds them in itself, (in the
 process creating a simple transition effect). The slides are very simple,
 small snippets of HTML. When loaded by index.html, slides gain the
-properties of the CSS stylesheet in slides/link/general.css. Note that
+properties of the CSS stylesheet in ./slides/link/general.css. Note that
 these are SNIPPETS; they do not contain headers, body tags, or anything
 of that sort and when viewed appear very plain or may not render in a web
 browser at all.  Slides should contain some divisions with the following
@@ -92,9 +89,16 @@ and "content" are highly recommended.
 * The icon I mention is at the top right of each slide. It is a small
 image, typically representing the application or action being described by
 the slide. This should be the same icon the user normally sees associated
-with that application. These icons are 128x128 pixel PNGs stored in the
-slides/icons directory.
+with that application. These icons should be build automatically. For that
+to function, please place an SVG source for the icon inside the
+icons-source directory. When generate-pngs.sh is run, the icon will be
+automatically scaled and decorated. The resulting icon is placed in
+.slides/icons with the same name as your SVG source except with .png at
+the end instead of .svg.
 
 * To view your slide (or the slideshow) in its full glory, you will
-need to edit slides/index.html. Add your slide to the list inside its
-"container" section, then open that file in a web browser.
+need to edit ./slides/index.html. Add your slide to the list inside its
+"container" section, then open that file in a web browser. In your
+browser, you can open that with #controls at the end to get a Back and
+Forward button. You can also run ./Slideshow.py to get a preview running
+in Webkit.

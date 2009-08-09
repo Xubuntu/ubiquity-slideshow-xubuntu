@@ -6,8 +6,7 @@ html, body
 	background-color:#2e3436;
 	
 	font-family:sans-serif;
-	
-	line-height:20px;
+	color:#000000;
 }
 
 /*
@@ -26,14 +25,15 @@ a
 	width:700px;
 	height:420px;
 	
-	/*
-	background-image:url('background-simple.png');
+	overflow:hidden;
+	
+	background-image:url('background.jpg');
 	background-repeat:no-repeat;
 	background-position:top left;
-	*/
+	
 	background-color:#fdfdfd;
 	
-	cursor:default;
+	/*cursor:default;*/
 }
 
 #debug-controls
@@ -58,48 +58,54 @@ a
 /*
 Title block is positioned at the top of a slide.
 */
-#title
+.title
 {
 	position:absolute;
-	top:10px;
+	top:15px;
 	left:10px;
+
 	font-size:20px;
-	
-	color:#000000;
-	text-shadow:black 1px 1px 2px;
+	font-weight:normal;
+
+	padding:0;
+	margin:0;
 }
 
 /*
 Typically an image. This is positioned at the top
 right of a slide and is given a size of 64x64 pixels.
 */
-#icon
+.icon
 {
 	position:absolute;
 	
-	width:82px;
+	width:auto;
 	height:auto;
 	
-	top:10px;
+	bottom:-420px;
 	right:10px;
+	
+	z-index:11;
+	border:0px;
 }
 
 /*
-#content and #screenshots expect to be contained in
-here. #main creates a nice, plain surface upon which
-they can appear :)
+#content expects to be contained in here. #main
+creates a nice, plain surface upon which it can
+appear :)
 */
-#main
+.main
 {
 	position:absolute;
 	
-	top:60px;
-	height:382px;
+	top:50px;
 	left:0px;
-	right:120px;
+
+    padding-right:60px;
 	
 	font-size:14px;
-	color:#000000;
+	
+	z-index:12;
 }
 
 /*
@@ -107,57 +113,33 @@ Slide's body text goes here. It appears right below
 the title, at the top of the white area with heavy
 margins around it.
 */
-#main #content
+.main .content
 {
 	padding-left:16px;
 	padding-right:16px;
 	
-	width:100%;
-	height:100%;
-	
-	vertical-align:middle;
-	display:table-cell;
+	width:490px;
 }
 
-/*
-Three small screenshots related to the slide should
-go in this block.
-*/
-#main #screenshots
+.content ul
 {
-	position:absolute;
-	display:none;
+	list-style-image:url("bullet-point.png");
+	padding-left:2em;
+}
+
+.content li
+{
+	padding:0.8em;
+}
+
+.content li.special
+{
+	margin-top:2em;
+	margin-bottom:2em;
+	list-style:none;
 	
-	width:100%;
-	
-	padding-top:4px;
-	padding-bottom:4px;
-	
-	bottom:0px;
-	left:0px;
-	
+	font-weight:bold;
 	text-align:center;
-	
-	white-space:nowrap;
-}
-
-/*
-Actual screenshots are just loose img tags in the #screenshots section.
-A height of 130px is enforced, though this will work with any width.
-There is a dark grey border.
-*/
-#main #screenshots img
-{
-	height:130px;
-	width:auto;
-	
-	/* Note that we have about 30 spare pixels (vertically) to use */
-	
-	border-style:solid;
-	border-color:#2e3436;
-	border-width:2px;
-	
-	margin:2px;
 }
 
 /*

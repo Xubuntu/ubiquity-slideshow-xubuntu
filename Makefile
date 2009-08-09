@@ -4,7 +4,7 @@ SOURCE=.
 SOURCESLIDES=$(SOURCE)/slides
 BUILD=build
 
-all:
+all: icons
 	mkdir -p $(BUILD);
 	cp -r $(SOURCESLIDES) $(BUILD)/slides;
 	cp slideshow.conf $(BUILD)
@@ -24,6 +24,13 @@ all:
 		done; \
 	done;
 
-.PHONY : clean
-clean:
+icons:
+	icons-source/generate-pngs.sh
+
+.PHONY : clean clean-icons
+
+clean-icons:
+	icons-source/remove-pngs.sh
+
+clean: clean-icons
 	-rm -rf $(BUILD)
