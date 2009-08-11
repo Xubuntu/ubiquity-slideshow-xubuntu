@@ -14,9 +14,11 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 	<base target="_blank" />
 	
 	<script type="text/javascript" src="link/prototype.js"></script>
-	<script type="text/javascript" src="link/scriptaculous/effects.js"></script>
+	<script type="text/javascript" src="link/effects.js"></script>
 	<script type="text/javascript" src="link/fastinit.js"></script>
 	<script type="text/javascript" src="link/crossfade.js"></script>
+	
+	<script type="text/javascript" src="directory.js"></script>
 </head>
 
 <body>
@@ -42,7 +44,49 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 </div>
 
 <script type="text/javascript">
-	if ("#controls" == window.location.hash) {
+	var options = [], hash;
+	var hashes = window.location.hash.slice(window.location.hash.indexOf('#') + 1).split('#');
+	
+	for(var i = 0; i < hashes.length; i++)
+	{
+		hash = hashes[i].split('=');
+		options.push(hash[0]);
+		options[hash[0]] = hash[1];
+	}
+
+	function setLocale(locale) {
+		var slideanchors = $$("div#slideshow div a");
+		
+		slideanchors.each(function(anchor) {
+			var slide_name = anchor.readAttribute("href");
+			var translated_url = "./loc."+locale+"/"+slide_name;
+			
+			try {
+				if ( directory[slide_name][locale] == true )
+					anchor.href = translated_url;
+			}
+			catch(err) {
+				/*
+				This usually happens if the directory object
+				(auto-generated at build time, placed in ./directory.js)
+				does not exist. That object is needed to know whether
+				a translation exists for the passed locale.
+				*/
+			}
+			
+			
+			/*
+			TODO: Need a list of translated slides by name so we can
+			selectively change to translated version only when that
+			file exists
+			*/
+		})
+	}
+	
+	if ( options['locale'] != null )
+		setLocale(options['locale']);
+	
+	if ( options.indexOf('controls') > -1 ) {
 		Crossfade.setup({autoLoad:false, random:false, interval:15, duration:0.5, transition:Crossfade.Transition.Cover, autoStart: false });
 		document.addEventListener("DOMContentLoaded", function() {
 				document.getElementById('debug-controls').style.display = "block";

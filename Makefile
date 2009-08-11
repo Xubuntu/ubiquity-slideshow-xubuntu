@@ -3,23 +3,29 @@
 SOURCE=.
 SOURCESLIDES=$(SOURCE)/slides
 BUILD=build
+BUILDSLIDES=$(BUILD)/slides
 
-all: icons
-	mkdir -p $(BUILD);
-	cp -r $(SOURCESLIDES) $(BUILD)/slides;
-	cp slideshow.conf $(BUILD)
+all: clean icons
+	mkdir -p $(BUILDSLIDES);
+	cp -r $(SOURCESLIDES)/* $(BUILDSLIDES);
+	cp slideshow.conf $(BUILD);
+	
+	echo "var directory = new Object();" >> $(BUILDSLIDES)/directory.js;
 	
 	for slide in po/*; \
 	do \
 		slidename=`basename $$slide`; \
+		echo "directory['$$slidename'] = new Object();" >> $(BUILDSLIDES)/directory.js; \
 		for locale in $$slide/*.po; \
 		do \
 			if [ -e $$locale ]; \
 			then \
-				buildslides=$(BUILD)/slides.`basename $$locale .po`; \
-				[ ! -e $$buildslides ] && mkdir -p $$buildslides; \
-				[ -e $$buildslides/$$slidename ] && rm -f $$buildslides/$$slidename; \
-				po2html -i $$locale -t $(SOURCESLIDES)/$$slidename -o $$buildslides/$$slidename; \
+				localename=`basename $$locale .po`; \
+				localeslides=$(BUILDSLIDES)/loc.`basename $$locale .po`; \
+				[ ! -e $$localeslides ] && mkdir -p $$localeslides;\
+				[ -e $$localeslides/$$slidename ] && rm -f $$localeslides/$$slidename; \
+				po2html --notidy -i $$locale -t $(SOURCESLIDES)/$$slidename -o $$localeslides/$$slidename; \
+				echo "directory['$$slidename']['$$localename'] = true;" >> $(BUILDSLIDES)/directory.js; \
 			fi; \
 		done; \
 	done;
