@@ -32,12 +32,10 @@ and Launchpad will automatically add it to Rosetta when it is committed
 to trunk.
 
 Eventually, the build script goes through each translation in the ./po
-directory and runs po2html, assuming that the template .html file is of
-the same name as the directory it is reading each po file from. This
-adds a translated .html file for each localized slide in a directory
-called slides.LOCALE, which is placed in the installation directory,
-while the original slides directory remains for everything which has
-not been localized, such as images and CSS files. For the time being,
-it is up to Ubiquity to merge the slides.LOCALE directory and the base
-slides directory, which can be done at runtime. This could, indeed,
-also be done with a cleverer build script and symlinks
+directory and runs po2html, assuming that the original .html file is of
+the same name as the directory it is reading each po file from. The script
+adds a translated .html file for each localized slide, which gets placed
+in the built slides directory, for example ./build/slides/loc.fr/myslide.
+The original slides directory remains as a fallback for everything which
+has not been localized. Javascript in the slideshow itself loads the
+localized slides, when asked, as opposed to its default ones.
