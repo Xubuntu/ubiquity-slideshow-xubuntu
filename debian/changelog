@@ -1,3 +1,14 @@
+ubiquity-slideshow-ubuntu (3) UNRELEASED; urgency=low
+
+  * Move translate-toolkit and gimp to build-deps-indep.
+  * Removing trailing comma from dependencies.
+  * Drop coreutils dependency as it's in essential.
+  * Use the proper Vcs-Bzr field, rather than the old XS-Vcs-Bzr.
+  * Replace entire GPL-2 copyright with a pointer to common-licenses.
+  * Bump standards version to 3.8.3.
+
+ -- Evan Dandrea <evand@ubuntu.com>  Mon, 24 Aug 2009 09:37:42 +0100
+
 ubiquity-slideshow-ubuntu (2) karmic; urgency=low
 
   * Initial release in Ubuntu.
