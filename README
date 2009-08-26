@@ -87,19 +87,20 @@ written information central to the slide. In theory, you could actually
 put whatever you please inside the "main" division, but "screenshots"
 and "content" are highly recommended.
 
-* The icon I mention is at the top right of each slide. It is a small
+* The icon I mention is at the bottom right of each slide. It is a small
 image, typically representing the application or action being described by
 the slide. This should be the same icon the user normally sees associated
-with that application. These icons should be build automatically. For that
+with that application. These icons are to be built automatically. For that
 to function, please place an SVG source for the icon inside the
 icons-source directory. When generate-pngs.sh is run, the icon will be
-automatically scaled and decorated. The resulting icon is placed in
+automatically sized and decorated. The resulting icon is placed in
 .slides/icons with the same name as your SVG source except with .png at
 the end instead of .svg.
+When adding new icons, please be sure to update debian/copyright with the
+license details.
 
 * To view your slide (or the slideshow) in its full glory, you will
 need to edit ./slides/index.html. Add your slide to the list inside its
-"container" section, then open that file in a web browser. In your
-browser, you can open that with #controls at the end to get a Back and
-Forward button. You can also run ./Slideshow.py to get a preview running
-in Webkit.
+"container" section, then open that file in a web browser. In the browser,
+you can throw #controls at the end to get a Back and Forward button.
+You can also run ./Slideshow.py to get a preview running in Webkit.
