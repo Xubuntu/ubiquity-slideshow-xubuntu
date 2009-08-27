@@ -2,6 +2,7 @@ ubiquity-slideshow-ubuntu (4) UNRELEASED; urgency=low
 
   * Replace reference to 'Ubuntu Linux' with the correct title for the
     project, 'Ubuntu'.
+  * Clean up generate-pot-files.sh.  Don't generate a pot for index.html.
 
  -- Evan Dandrea <evand@ubuntu.com>  Thu, 27 Aug 2009 15:52:17 +0100
 
