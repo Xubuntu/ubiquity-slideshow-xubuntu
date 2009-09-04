@@ -24,10 +24,10 @@ slideshow_window = gtk.Window()
 slideshow_window.set_title("Ubiquity Slideshow with Webkit")
 slideshow_window.connect('destroy',gtk.main_quit)
 #Setting up rgba colourmap because we can :)
-colormap = slideshow_window.get_screen().get_rgba_colormap()
-if colormap:
-	print('We are RGBA`d!')
-	gtk.widget_set_default_colormap(colormap)
+#colormap = slideshow_window.get_screen().get_rgba_colormap()
+#if colormap:
+#	print('We are RGBA`d!')
+#	gtk.widget_set_default_colormap(colormap)
 
 slideshow_window_align = gtk.Alignment()
 slideshow_window_align.set_padding(8,8,8,8)
@@ -81,5 +81,5 @@ install_timer = gobject.timeout_add_seconds(2, progress_increment, install_progr
 
 gtk.main()
 
-gtk.widget_pop_colormap()
-print('Cleaned up GTK colormap stuff')
+#gtk.widget_pop_colormap()
+#print('Cleaned up GTK colormap stuff')
