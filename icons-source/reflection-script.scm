@@ -136,13 +136,32 @@
 ; part of the ubiquity-slideshow project.
 ; <http://launchpad.net/~ubiquity-slideshow>
 
+(define (process-reflection image)
+    (plug-in-autocrop 1 image (car (gimp-image-get-active-layer image)))
+    (script-fu-gimp-reflection image (car (gimp-image-get-active-layer image)) 30 90 10 40 0 1)
+)
+
+(define (batch-reflection pattern output)
+    (let* ((filelist (cadr (file-glob pattern 1))))
+        (while (not (null? filelist))
+            (let* ((filename (car filelist))
+                (image (car (gimp-file-load 1 filename filename))))
+                (process-reflection image)
+                (define new-filename (string-append output (substring filename 0 (- (string-length filename) 4)) ".png"))
+                (gimp-file-save 1 image (car (gimp-image-get-active-layer image)) new-filename new-filename)
+                (gimp-image-delete image)
+            )
+            (set! filelist (cdr filelist))
+        )
+    )
+)
+
 (define (batch-reflection-svg pattern output)
     (let* ((filelist (cadr (file-glob pattern 1))))
         (while (not (null? filelist))
             (let* ((filename (car filelist))
                 (image (car (file-svg-load 1 filename filename 90 185 185 0))))
-                (plug-in-autocrop 1 image (car (gimp-image-get-active-layer image)))
-                (script-fu-gimp-reflection image (car (gimp-image-get-active-layer image)) 30 90 10 40 0 1)
+                (process-reflection image)
                 (define new-filename (string-append output (substring filename 0 (- (string-length filename) 4)) ".png"))
                 (gimp-file-save 1 image (car (gimp-image-get-active-layer image)) new-filename new-filename)
                 (gimp-image-delete image)
@@ -153,5 +172,6 @@
 )
 
 (batch-reflection-svg "*.svg" "../slides/icons/")
+(batch-reflection "*.png" "../slides/icons/")
 
 (gimp-quit 0)
