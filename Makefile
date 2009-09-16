@@ -24,7 +24,7 @@ all: clean icons
 					localeslides=$(BUILDSLIDES)/loc.`basename $$locale .po`; \
 					[ ! -e $$localeslides ] && mkdir -p $$localeslides;\
 					[ -e $$localeslides/$$slidename ] && rm -f $$localeslides/$$slidename; \
-					po2html --notidy -i $$locale -t $(SOURCESLIDES)/$$slidename -o $$localeslides/$$slidename \
+					po2html --progress=names -i $$locale -t $(SOURCESLIDES)/$$slidename -o $$localeslides/$$slidename \
 					&& echo "directory['$$slidename']['$$localename'] = true;" >> $(BUILDSLIDES)/directory.js; \
 				fi; \
 			done; \
