@@ -1,10 +1,21 @@
 ubiquity-slideshow-ubuntu (6) UNRELEASED; urgency=low
 
+  [ Evan Dandrea ]
   * The buildds do not install recommends by default, so add a build
     dependency on python-utidylib (LP: #430719).
   * Add the Firefox icon and a javascript-based reflection for it
     (LP: #421864).
   * Updated translations from Launchpad.
+
+  [ Dylan McCall ]
+  * Fixed comma splice in documentation.html
+  * Corrected missing "with" in the third bullet point. Fixed title
+    (LP: #427257, #427254).
+  * Makefile now checks if po2html is installed and exits (slightly more)
+    gracefully, albeit with rather horrendous looking output :)
+  * Added --progress=names when calling po2html. Makefile output is now a bit
+    tidier.
+
 
  -- Evan Dandrea <evand@ubuntu.com>  Thu, 17 Sep 2009 08:43:03 +0100
 
