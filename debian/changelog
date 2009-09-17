@@ -2,6 +2,8 @@ ubiquity-slideshow-ubuntu (6) UNRELEASED; urgency=low
 
   * The buildds do not install recommends by default, so add a build
     dependency on python-utidylib (LP: #430719).
+  * Add the Firefox icon and a javascript-based reflection for it
+    (LP: #421864).
 
  -- Evan Dandrea <evand@ubuntu.com>  Thu, 17 Sep 2009 08:43:03 +0100
 
