@@ -186,3 +186,11 @@ look in Ubuntu's GTK theme.
 	padding-left:2px;
 	padding-right:5px;
 }
+
+/*
+This rule disables drag-and-drop for images.  See bug #448703.
+*/
+img
+{
+ 	-webkit-user-drag: none;
+}

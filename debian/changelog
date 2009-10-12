@@ -22,6 +22,9 @@ ubiquity-slideshow-ubuntu (9) UNRELEASED; urgency=low
     icons from debian/copyright.
   * Updated translation templates for new slides.
 
+  [ Daniel Holbert ]
+  * Made images in slideshow non-draggable to work around pywebkitgtk crash.
+
  -- Dylan McCall <dylan@dylan-laptop>  Mon, 12 Oct 2009 10:00:13 -0700
 
 ubiquity-slideshow-ubuntu (8) karmic; urgency=low
