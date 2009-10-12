@@ -23,7 +23,8 @@ ubiquity-slideshow-ubuntu (9) UNRELEASED; urgency=low
   * Updated translation templates for new slides.
 
   [ Daniel Holbert ]
-  * Made images in slideshow non-draggable to work around pywebkitgtk crash.
+  * Made images in slideshow non-draggable to work around pywebkitgtk crash
+    (LP: #448703).
 
  -- Dylan McCall <dylan@dylan-laptop>  Mon, 12 Oct 2009 10:00:13 -0700
 
