@@ -2,7 +2,6 @@
 set -e
 if [ $# -gt 0 ]; then
 	slides="$@"
-	echo "argument handled?"
 else
 	slides="slides/*.html"
 fi
