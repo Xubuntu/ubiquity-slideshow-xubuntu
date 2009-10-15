@@ -1,4 +1,4 @@
-ubiquity-slideshow-ubuntu (9) UNRELEASED; urgency=low
+ubiquity-slideshow-ubuntu (9) karmic; urgency=low
 
   [ Evan Dandrea ]
   * The version of Firefox shipped with Ubuntu 9.10 is 3.5, not 3.0
@@ -28,7 +28,7 @@ ubiquity-slideshow-ubuntu (9) UNRELEASED; urgency=low
   * Made images in slideshow non-draggable to work around pywebkitgtk crash
     (LP: #448703).
 
- -- Dylan McCall <dylan@dylan-laptop>  Mon, 12 Oct 2009 10:00:13 -0700
+ -- Evan Dandrea <evand@ubuntu.com>  Thu, 15 Oct 2009 11:50:19 +0100
 
 ubiquity-slideshow-ubuntu (8) karmic; urgency=low
 
