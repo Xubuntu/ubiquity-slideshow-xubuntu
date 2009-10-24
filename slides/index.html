@@ -83,7 +83,7 @@
 		document.getElementsByTagName("head")[0].appendChild(fileref)
 	}
 	
-	if ( options['locale'] != null )
+	if ( options.indexOf('locale') > -1 )
 		setLocale(options['locale']);
 	
 	if ( options.indexOf('rtl') > -1 )
