@@ -1,3 +1,15 @@
+ubiquity-slideshow-ubuntu (11) UNRELEASED; urgency=low
+
+  * Adding support for right-to-left languages (LP: #446989).
+  * When #rtl is appended to URL, index.html will load the rtl.css
+    stylesheet via Javascript.
+  * Added link/rtl.css and link/bullet-point.rtl.png, which are
+    responsible for little hacks to get right-to-left languages
+    looking right.
+  * Changed doctype of index.html to HTML5.
+
+ -- Dylan McCall <dylan@dylan-laptop>  Fri, 23 Oct 2009 22:22:13 -0700
+
 ubiquity-slideshow-ubuntu (10) karmic; urgency=low
 
   * Update translations from Launchpad (LP: #452889).

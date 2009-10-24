@@ -1,13 +1,9 @@
-<!DOCTYPE html
-PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html lang="en">
 
 <head>
 	<title>ubiquity-slideshow-ubuntu</title>
-	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-	<meta http-equiv="Content-Language" content="en-ca" />
 	
 	<link href="link/general.css" rel="stylesheet" type="text/css" />
 	
@@ -75,18 +71,24 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 				a translation exists for the passed locale.
 				*/
 			}
-			
-			
-			/*
-			TODO: Need a list of translated slides by name so we can
-			selectively change to translated version only when that
-			file exists
-			*/
 		})
+	}
+	
+	function loadRTL() {
+		/* Note: Once you turn on RTL, there is no going back! (Blue pill reference goes here) */
+		var fileref=document.createElement("link");
+		fileref.setAttribute("rel", "stylesheet");
+		fileref.setAttribute("type", "text/css");
+		fileref.setAttribute("href", "link/rtl.css");
+		document.getElementsByTagName("head")[0].appendChild(fileref)
 	}
 	
 	if ( options['locale'] != null )
 		setLocale(options['locale']);
+	
+	if ( options.indexOf('rtl') > -1 )
+		loadRTL();
+		
 	
 	if ( options.indexOf('controls') > -1 ) {
 		Crossfade.setup({autoLoad:false, random:false, interval:15, duration:0.5, transition:Crossfade.Transition.Cover, autoStart: false });
