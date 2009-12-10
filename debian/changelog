@@ -1,5 +1,6 @@
-ubiquity-slideshow-ubuntu (11) UNRELEASED; urgency=low
+ubiquity-slideshow-ubuntu (11) lucid; urgency=low
 
+  [ Dylan McCall ]
   * Adding support for right-to-left languages (LP: #446989).
   * When #rtl is appended to URL, index.html will load the rtl.css
     stylesheet via Javascript.
@@ -8,7 +9,7 @@ ubiquity-slideshow-ubuntu (11) UNRELEASED; urgency=low
     looking right.
   * Changed doctype of index.html to HTML5.
 
- -- Dylan McCall <dylan@dylan-laptop>  Fri, 23 Oct 2009 22:22:13 -0700
+ -- Evan Dandrea <evand@ubuntu.com>  Thu, 10 Dec 2009 10:25:01 +0000
 
 ubiquity-slideshow-ubuntu (10) karmic; urgency=low
 
