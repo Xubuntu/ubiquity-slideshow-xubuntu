@@ -1,3 +1,19 @@
+ubiquity-slideshow-ubuntu (12) UNRELEASED; urgency=low
+
+  * Removed unused overlay image from earlier design.
+  * Added HTML comments to slides, which will become translator
+    comments when all the pieces are in place. (LP: #435834)
+  * Tidied up writing in the following slides:
+    f-spot (streamlined discussion of tags), rhythmbox (removed
+    codec licensing stuff), documentation (removed subtitles).
+    (LP: #480382) (LP: #480383)
+  * Consistently italicize names of applications in Ubuntu when
+    referred to directly.
+  * Consistently refer to applications by their names in the menu
+    when directing the user to them.
+
+ -- Dylan McCall <dylan@dylan-laptop>  Wed, 16 Dec 2009 12:50:04 -0800
+
 ubiquity-slideshow-ubuntu (11) lucid; urgency=low
 
   [ Dylan McCall ]
