@@ -11,8 +11,12 @@ ubiquity-slideshow-ubuntu (12) UNRELEASED; urgency=low
     referred to directly.
   * Consistently refer to applications by their names in the menu
     when directing the user to them.
+  * Major adjustment to format for passing parameters to
+    slideshow's Javascript via #parameter. Now using
+    #?key?key=value  format, for compatibility with
+    WebKit.
 
- -- Dylan McCall <dylan@dylan-laptop>  Wed, 16 Dec 2009 12:50:04 -0800
+ -- Dylan McCall <dylan@dylan-laptop>  Tue, 22 Dec 2009 19:52:20 -0800
 
 ubiquity-slideshow-ubuntu (11) lucid; urgency=low
 

@@ -43,11 +43,11 @@
 
 <script type="text/javascript">
 	var options = [], hash;
-	var hashes = window.location.hash.slice(window.location.hash.indexOf('#') + 1).split('#');
+	parameters = window.location.hash.slice(window.location.hash.indexOf('#') + 1).split('?');
 	
-	for(var i = 0; i < hashes.length; i++)
+	for(var i = 0; i < parameters.length; i++)
 	{
-		hash = hashes[i].split('=');
+		hash = parameters[i].split('=');
 		options.push(hash[0]);
 		options[hash[0]] = hash[1];
 	}
