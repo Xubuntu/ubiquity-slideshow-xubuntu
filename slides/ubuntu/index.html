@@ -15,6 +15,8 @@
 	<script type="text/javascript" src="link/crossfade.js"></script>
 	
 	<script type="text/javascript" src="directory.js"></script>
+	<script type="text/javascript" src="link/slideshow.js"></script>
+	
 	<script src="link/scriptaculous.js" type="text/javascript"></script>
 </head>
 
@@ -41,67 +43,12 @@
 	</div>
 </div>
 
-<script type="text/javascript">
-	var options = [], hash;
-	parameters = window.location.hash.slice(window.location.hash.indexOf('#') + 1).split('?');
-	
-	for(var i = 0; i < parameters.length; i++)
-	{
-		hash = parameters[i].split('=');
-		options.push(hash[0]);
-		options[hash[0]] = hash[1];
-	}
+<div id="debug-controls">
+<input type="button" id="prev-slide" value="&lt;"/>
+<input type="text"   id="current-slide" />
+<input type="button" id="next-slide" value="&gt;"/>
+</div>
 
-	function setLocale(locale) {
-		var slideanchors = $$("div#slideshow div a");
-		
-		slideanchors.each(function(anchor) {
-			var slide_name = anchor.readAttribute("href");
-			var translated_url = "./loc."+locale+"/"+slide_name;
-			
-			try {
-				if ( directory[slide_name][locale] == true )
-					anchor.href = translated_url;
-			}
-			catch(err) {
-				/*
-				This usually happens if the directory object
-				(auto-generated at build time, placed in ./directory.js)
-				does not exist. That object is needed to know whether
-				a translation exists for the passed locale.
-				*/
-			}
-		})
-	}
-	
-	function loadRTL() {
-		/* Note: Once you turn on RTL, there is no going back! (Blue pill reference goes here) */
-		var fileref=document.createElement("link");
-		fileref.setAttribute("rel", "stylesheet");
-		fileref.setAttribute("type", "text/css");
-		fileref.setAttribute("href", "link/rtl.css");
-		document.getElementsByTagName("head")[0].appendChild(fileref)
-	}
-	
-	if ( options.indexOf('locale') > -1 )
-		setLocale(options['locale']);
-	
-	if ( options.indexOf('rtl') > -1 )
-		loadRTL();
-		
-	
-	if ( options.indexOf('controls') > -1 ) {
-		Crossfade.setup({autoLoad:false, random:false, interval:15, duration:0.5, transition:Crossfade.Transition.Cover, autoStart: false });
-		document.addEventListener("DOMContentLoaded", function() {
-				document.getElementById('debug-controls').style.display = "block";
-				document.getElementById("current-slide").value = cf2.filenames[0];
-				cf2.stop()
-			}, false);
-	} else {
-		Crossfade.setup({autoLoad:false, random:false, interval:30, duration:0.5, loop:false, transition:Crossfade.Transition.Cover });
-	};
-	var cf2 = new Crossfade('slideshow');
-</script>
 <script type="text/javascript"> 
 var Reflector = {
   reflect: function(element) {
@@ -146,12 +93,6 @@ Event.observe(window,'load', function(){
   Reflector.reflect('reflection',{ amount:2/3, opacity:1/2, blur:1 });
 });
 </script>
-
-<div id="debug-controls">
-<input type="button" onclick="cf2.previous()" value="&lt;"/>
-<input type="text"   id="current-slide" />
-<input type="button" onclick="cf2.next()" value="&gt;"/>
-</div>
 
 </body>
 
