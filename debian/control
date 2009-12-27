@@ -15,3 +15,11 @@ Depends: ${misc:Depends}
 Description: Ubiquity slideshow for Ubuntu
  A slideshow intended for the Ubiquity installer, designed as a quick 
  introduction to Ubuntu.
+ 
+Package: ubiquity-slideshow-kubuntu
+Architecture: all
+Provides: ubiquity-slideshow
+Depends: ${misc:Depends}
+Description: Ubiquity slideshow for Kubuntu
+ A slideshow intended for the Ubiquity installer, designed as a quick 
+ introduction to Kubuntu.
