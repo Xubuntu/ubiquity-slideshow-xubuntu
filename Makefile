@@ -1,37 +1,35 @@
 # Makefile for ubiquity-slideshow-ubuntu
 
 SOURCE=.
-SOURCESLIDES=$(SOURCE)/slides
 BUILD=build
-BUILDSLIDES=$(BUILD)/slides
+SOURCESLIDES=$(SOURCE)/slides
 
-all: clean icons
-	mkdir -p $(BUILDSLIDES);
-	cp -r $(SOURCESLIDES)/* $(BUILDSLIDES);
-	cp slideshow.conf $(BUILD);
+all: icons build_ubuntu build_kubuntu
+
+build_init:
+	mkdir -p $(BUILD)
+
+build_ubuntu: build_init icons
+	mkdir -p $(BUILD)/ubuntu/slides
+	cp -r $(SOURCESLIDES)/ubuntu/* $(BUILD)/ubuntu/slides
 	
-	echo "var directory = new Object();" >> $(BUILDSLIDES)/directory.js;
+	unlink $(BUILD)/ubuntu/slides/link
+	mkdir -p $(BUILD)/ubuntu/slides/link
+	cp -r $(SOURCESLIDES)/ubuntu/link/* $(BUILD)/ubuntu/slides/link
 	
-	for slide in po/*; \
-	do \
-		slidename=`basename $$slide`; \
-		echo "directory['$$slidename'] = new Object();" >> $(BUILDSLIDES)/directory.js; \
-		if which po2html; then \
-			for locale in $$slide/*.po; \
-			do \
-				if [ -e $$locale ]; then \
-					localename=`basename $$locale .po`; \
-					localeslides=$(BUILDSLIDES)/loc.`basename $$locale .po`; \
-					[ ! -e $$localeslides ] && mkdir -p $$localeslides;\
-					[ -e $$localeslides/$$slidename ] && rm -f $$localeslides/$$slidename; \
-					po2html --notidy --progress=names -i $$locale -t $(SOURCESLIDES)/$$slidename -o $$localeslides/$$slidename \
-					&& echo "directory['$$slidename']['$$localename'] = true;" >> $(BUILDSLIDES)/directory.js; \
-				fi; \
-			done; \
-		else \
-			echo "\nError: po2html is not available."; \
-		fi; \
-	done;
+	cp slideshow.conf $(BUILD)/ubuntu
+	./generate-local-slides.sh ubuntu
+
+build_kubuntu: build_init icons
+	mkdir -p $(BUILD)/kubuntu/slides
+	cp -r $(SOURCESLIDES)/kubuntu/* $(BUILD)/kubuntu/slides
+	
+	unlink $(BUILD)/kubuntu/slides/link
+	mkdir -p $(BUILD)/kubuntu/slides/link
+	cp -r $(SOURCESLIDES)/kubuntu/link/* $(BUILD)/kubuntu/slides/link
+	
+	cp slideshow.conf $(BUILD)/kubuntu
+	./generate-local-slides.sh kubuntu
 
 icons:
 	icons-source/generate-pngs.sh

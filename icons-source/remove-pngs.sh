@@ -1,11 +1,6 @@
 #!/bin/sh
 
-cd `dirname $0`;
-for icon in *.svg;
-do
+cd $(dirname $0);
 
-	iconpng='../slides/icons/'`basename $icon .svg`'.png';
-	if [ -e $iconpng ];
-		then rm $iconpng;
-	fi;
-done;
+rm -f ../slides/ubuntu/icons/*.png
+rm -f ../slides/kubuntu/icons/*.png

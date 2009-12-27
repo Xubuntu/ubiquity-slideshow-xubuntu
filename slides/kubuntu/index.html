@@ -1,0 +1,108 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>ubiquity-slideshow-ubuntu</title>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Language" content="en-ca" />
+	
+	<link href="link/general.css" rel="stylesheet" type="text/css" />
+	
+	<base target="_blank" />
+	
+	<script type="text/javascript" src="link/prototype.js"></script>
+	<script type="text/javascript" src="link/effects.js"></script>
+	<script type="text/javascript" src="link/fastinit.js"></script>
+	<script type="text/javascript" src="link/crossfade.js"></script>
+	
+	<script type="text/javascript" src="directory.js"></script>
+</head>
+
+<body>
+
+<div id="container">
+	<div id="slideshow">
+		
+		<!-- Slides go here. Simply place the following snippet
+		in the order you wish it to appear, replacing "MY SLIDE"
+		with the filename of your slide.
+		<div><a href="MY SLIDE" class="load"></a></div> -->
+		<div><a href="welcome.html" class="load"></a></div>
+		<div><a href="web.html" class="load"></a></div>
+		<div><a href="pim.html" class="load"></a></div>
+		<div><a href="chat.html" class="load"></a></div>
+		<div><a href="media.html" class="load"></a></div>
+		<div><a href="accessibility.html" class="load"></a></div>
+		<div><a href="support.html" class="load"></a></div>
+		<div><a href="getinvolved.html" class="load"></a></div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	var options = [], hash;
+	var hashes = window.location.hash.slice(window.location.hash.indexOf('#') + 1).split('#');
+	
+	for(var i = 0; i < hashes.length; i++)
+	{
+		hash = hashes[i].split('=');
+		options.push(hash[0]);
+		options[hash[0]] = hash[1];
+	}
+
+	function setLocale(locale) {
+		var slideanchors = $$("div#slideshow div a");
+		
+		slideanchors.each(function(anchor) {
+			var slide_name = anchor.readAttribute("href");
+			var translated_url = "./loc."+locale+"/"+slide_name;
+			
+			try {
+				if ( directory[slide_name][locale] == true )
+					anchor.href = translated_url;
+			}
+			catch(err) {
+				/*
+				This usually happens if the directory object
+				(auto-generated at build time, placed in ./directory.js)
+				does not exist. That object is needed to know whether
+				a translation exists for the passed locale.
+				*/
+			}
+			
+			
+			/*
+			TODO: Need a list of translated slides by name so we can
+			selectively change to translated version only when that
+			file exists
+			*/
+		})
+	}
+	
+	if ( options['locale'] != null )
+		setLocale(options['locale']);
+	
+	if ( options.indexOf('controls') > -1 ) {
+		Crossfade.setup({autoLoad:false, random:false, interval:15, duration:0.5, transition:Crossfade.Transition.Cover, autoStart: false });
+		document.addEventListener("DOMContentLoaded", function() {
+				document.getElementById('debug-controls').style.display = "block";
+				document.getElementById("current-slide").value = cf2.filenames[0];
+				cf2.stop()
+			}, false);
+	} else {
+		Crossfade.setup({autoLoad:false, random:false, interval:30, duration:0.5, loop:false, transition:Crossfade.Transition.Cover });
+	};
+	var cf2 = new Crossfade('slideshow');
+</script>
+
+<div id="debug-controls">
+<input type="button" onclick="cf2.previous()" value="&lt;"/>
+<input type="text"   id="current-slide" />
+<input type="button" onclick="cf2.next()" value="&gt;"/>
+</div>
+
+</body>
+
+</html>
