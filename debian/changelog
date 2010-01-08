@@ -1,5 +1,6 @@
 ubiquity-slideshow-ubuntu (12) UNRELEASED; urgency=low
 
+  [ Dylan McCall ]
   * Removed unused overlay image from earlier design.
   * Added HTML comments to slides, which will become translator
     comments when all the pieces are in place. (LP: #435834)
@@ -15,6 +16,10 @@ ubiquity-slideshow-ubuntu (12) UNRELEASED; urgency=low
     slideshow's Javascript via #parameter. Now using
     #?key?key=value  format, for compatibility with
     WebKit.
+
+  [ Evan Dandrea ]
+  * Put Kubuntu slides in their own directory to avoid having to make
+    each slideshow package conflict.
 
  -- Dylan McCall <dylan@dylan-laptop>  Tue, 22 Dec 2009 19:52:20 -0800
 
