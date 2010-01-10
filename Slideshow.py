@@ -47,7 +47,7 @@ class SlideshowViewer(webkit.WebView):
 		settings.set_property("enable-universal-access-from-file-uris", True)
 		
 		config_width = int(config.get('Slideshow','width'))
-		config_height = int(config.get('Slideshow','height'))+100
+		config_height = int(config.get('Slideshow','height'))
 		self.set_size_request(config_width,config_height)
 		
 		self.connect('populate-popup', self._on_populate_popup) #TODO: remove this when the enable-default-context-menu setting reaches us
@@ -128,14 +128,20 @@ def progress_increment(progressbar, fraction):
 #Main program
 
 
-default_path = os.path.abspath(os.path.dirname(sys.argv[0]))
+default_path = os.path.join( os.path.abspath(os.path.dirname(sys.argv[0])) , 'build', 'ubuntu' )
+if os.path.exists(default_path) == False:
+	print("\033[91m * Please build the slideshow content first by using the make command * \033[0m")
+	sys.exit()
+	#TODO: offer to run make for the user
+	#TODO: open the content from unbuilt directory (instead of from build). This requires that we reorganize slides to match the layout after building. (kubuntu/slides, instead of slides/kubuntu)
+
 default_locale = locale.getlocale()[0]
 default_rtl = False
 
 parser = OptionParser(usage="usage: %prog [options] [slideshow]")
 parser.add_option("-l", "--locale", help="LOCALE to use for the slideshow", metavar="LOCALE", default=default_locale)
 parser.add_option("-r", "--rtl", action="store_true", help="use output in right-to-left format", default=default_rtl)
-parser.add_option("-p", "--path", help="path to the SLIDESHOW to be presented", metavar="SLIDESHOW", default=default_path)
+parser.add_option("-p", "--path", help="path to the SLIDESHOW which will be presented", metavar="SLIDESHOW", default=default_path)
 
 (options, args) = parser.parse_args()
 options.path = os.path.abspath(options.path)
@@ -157,7 +163,7 @@ slideshow_container = gtk.VBox()
 slideshow_container.set_spacing(8)
 slideshow_window_align.add(slideshow_container)
 
-slideshow = SlideshowViewer(options.path, locale=options.locale, rtl=options.rtl )
+slideshow = SlideshowViewer(options.path, locale=options.locale, rtl=options.rtl)
 
 install_progressbar = gtk.ProgressBar()
 install_progressbar.set_size_request(-1,30)

@@ -13,6 +13,7 @@ PODIR=$SOURCE/po/$distro
 SOURCESLIDES=$SOURCE/slides/$distro
 BUILDSLIDES=$BUILD/$distro/slides
 
+echo "directory = new Object();" >> $BUILDSLIDES/directory.js;
 for slide in $PODIR/*;
 do
 	slidename=$(basename $slide);

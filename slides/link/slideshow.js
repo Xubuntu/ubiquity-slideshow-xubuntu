@@ -47,7 +47,7 @@ window.onDomReady(function(){
 		loadRTL();
 	
 	
-	Crossfade.setup({autoLoad:false, random:false, interval:30, duration:0.5, loop:false, transition:Crossfade.Transition.Cover });
+	Crossfade.setup({autoLoad:false, random:false, interval:45, duration:0.5, loop:false, transition:Crossfade.Transition.Cover });
 	
 	slideshow = new Crossfade('slideshow');
 	
