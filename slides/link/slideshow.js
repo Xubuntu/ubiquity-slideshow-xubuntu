@@ -70,7 +70,7 @@ function setLocale(locale) {
 		var translated_url = "./loc."+locale+"/"+slide_name;
 		
 		try {
-			if ( directory[slide_name][locale] == true )
+			if ( directory[locale][slide_name] == true )
 				anchor.href = translated_url;
 		}
 		catch(err) {
