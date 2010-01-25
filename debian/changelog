@@ -1,3 +1,15 @@
+ubiquity-slideshow-ubuntu (13) UNRELEASED; urgency=low
+
+  * Updated localization setup and build scripts. Localization
+    is now done with a single template file for each slideshow
+    package.
+  * Build script must use brute force (and cmp) to decide which
+    slides have actually been translated.
+  * Added htmlclean to remove unnecessary content from built
+    slides.
+
+ -- Dylan McCall <dylan@dylan-laptop>  Sun, 24 Jan 2010 23:42:14 -0800
+
 ubiquity-slideshow-ubuntu (12) lucid; urgency=low
 
   [ Dylan McCall ]
