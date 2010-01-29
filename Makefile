@@ -4,7 +4,7 @@ SOURCE=.
 BUILD=build
 SOURCESLIDES=$(SOURCE)/slides
 
-all: icons build_ubuntu build_kubuntu
+all: icons build_ubuntu build_kubuntu build_xubuntu
 
 build_init:
 	mkdir -p $(BUILD)
@@ -30,6 +30,17 @@ build_kubuntu: build_init icons
 	
 	cp slideshow.conf $(BUILD)/kubuntu
 	./generate-local-slides.sh kubuntu
+
+build_xubuntu: build_init icons
+	mkdir -p $(BUILD)/xubuntu/slides
+	cp -r $(SOURCESLIDES)/xubuntu/* $(BUILD)/xubuntu/slides
+	
+	unlink $(BUILD)/xubuntu/slides/link
+	mkdir -p $(BUILD)/xubuntu/slides/link
+	cp -r $(SOURCESLIDES)/xubuntu/link/* $(BUILD)/xubuntu/slides/link
+	
+	cp slideshow.conf $(BUILD)/xubuntu
+	./generate-local-slides.sh xubuntu
 
 icons:
 	icons-source/generate-pngs.sh
