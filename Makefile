@@ -4,7 +4,7 @@ SOURCE=.
 BUILD=build
 SOURCESLIDES=$(SOURCE)/slides
 
-all: icons build_ubuntu build_kubuntu build_xubuntu
+all: clean icons build_ubuntu build_kubuntu build_xubuntu build_ubuntu-upgrade
 
 build_init:
 	mkdir -p $(BUILD)
@@ -19,6 +19,17 @@ build_ubuntu: build_init icons
 	
 	cp slideshow.conf $(BUILD)/ubuntu
 	./generate-local-slides.sh ubuntu
+
+build_ubuntu-upgrade: build_init icons
+	mkdir -p $(BUILD)/ubuntu-upgrade/slides
+	cp -r $(SOURCESLIDES)/ubuntu-upgrade/* $(BUILD)/ubuntu-upgrade/slides
+	
+	unlink $(BUILD)/ubuntu-upgrade/slides/link
+	mkdir -p $(BUILD)/ubuntu-upgrade/slides/link
+	cp -r $(SOURCESLIDES)/ubuntu/link/* $(BUILD)/ubuntu-upgrade/slides/link
+	
+	cp slideshow.conf $(BUILD)/ubuntu-upgrade
+	./generate-local-slides.sh ubuntu-upgrade
 
 build_kubuntu: build_init icons
 	mkdir -p $(BUILD)/kubuntu/slides

@@ -18,5 +18,6 @@ mkpo ()
 }
 
 mkpo "ubuntu"
+mkpo "ubuntu-upgrade"
 mkpo "kubuntu"
 mkpo "xubuntu"
