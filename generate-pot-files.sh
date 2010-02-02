@@ -19,4 +19,4 @@ mkpo ()
 
 mkpo "ubuntu"
 mkpo "kubuntu"
-
+mkpo "xubuntu"
