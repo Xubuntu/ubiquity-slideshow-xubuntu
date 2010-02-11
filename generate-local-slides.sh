@@ -18,7 +18,7 @@ for slide in $BUILDSLIDES/*.html; do
 	newslide="$slide.new";
 	mv $slide $newslide;
 	#htmlclean removes all comments and whitespace, leaves behind *.bak
-	htmlclean $newslide && rm "$newslide.bak";
+	#htmlclean $newslide && rm "$newslide.bak";
 	#run po2html on source slides for consistent formatting
 	po2html --notidy --progress=none -i po/null.po -t $newslide -o $slide;
 	rm $newslide;
