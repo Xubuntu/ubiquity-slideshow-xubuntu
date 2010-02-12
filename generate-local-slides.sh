@@ -14,15 +14,17 @@ BUILDSLIDES=$BUILD/$distro/slides
 
 echo "directory = new Object()" >> $BUILDSLIDES/directory.js
 
+touch $BUILD/null.po
 for slide in $BUILDSLIDES/*.html; do
 	newslide="$slide.new"
 	mv $slide $newslide
 	#htmlclean removes all comments and whitespace, leaves behind *.bak
 	#htmlclean $newslide && rm "$newslide.bak"
 	#run po2html on source slides for consistent formatting
-	po2html --notidy --progress=none -i po/null.po -t $newslide -o $slide
+	po2html --notidy --progress=none -i $BUILD/null.po -t $newslide -o $slide
 	rm $newslide
 done
+rm $BUILD/null.po
 
 if ! which po2html; then
 	echo; echo "Error: po2html is not available."
