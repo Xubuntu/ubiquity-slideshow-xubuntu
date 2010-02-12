@@ -20,6 +20,8 @@ ubiquity-slideshow-ubuntu (13) UNRELEASED; urgency=low
   * Updated translations from Launchpad.
   * Add update-launchpad-translations.sh, a small bit of shell code to
     take the grunt work out of updating translations.
+  * Place ubiquity-slideshow-ubuntu-upgrade files in their own
+    directory.
 
  -- Dylan McCall <dylan@dylan-laptop>  Tue, 02 Feb 2010 13:09:28 -0800
 
