@@ -16,6 +16,7 @@ ubiquity-slideshow-ubuntu (13) UNRELEASED; urgency=low
   [ Evan Dandrea ]
   * Bump release in welcome.html to 10.04.
   * Remove htmlclean as its in universe and not currently worth the MIR.
+  * Tidy up generate-local-slides.sh and make it less noisy.
 
  -- Dylan McCall <dylan@dylan-laptop>  Tue, 02 Feb 2010 13:09:28 -0800
 
