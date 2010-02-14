@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 distro=$1
 if [ -z $distro ]; then
@@ -8,7 +8,7 @@ fi
 
 SOURCE=.
 BUILD=build
-	
+
 PODIR=$SOURCE/po/$distro
 BUILDSLIDES=$BUILD/$distro/slides
 
@@ -52,10 +52,10 @@ for locale in $PODIR/*.po; do
 				#remove new slide if it's the same as the default
 				rm $outputslide
 				rmdir $localeslides 2>/dev/null || true
-				echo "$slide was not translated for $locale"
+				echo "              $slidename was not translated for locale $localename"
 			else
 				echo "directory['$localename']['$slidename'] = true" >> $BUILDSLIDES/directory.js
-				echo "$slide was translated for $locale locale"
+				#echo "              translated $slide for $locale locale"
 			fi
 		done
 	fi
