@@ -3,7 +3,7 @@ set -e
 
 mkpo ()
 {
-	slides="slides/$1/*.html"
+	slides="slideshows/$1/*.html"
 	mkdir -p "po/$1"
 	
 	for slide in $slides; do

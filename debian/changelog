@@ -1,3 +1,14 @@
+ubiquity-slideshow-ubuntu (15) UNRELEASED; urgency=low
+
+  * Rearranged source package to closely mirror build output.
+  * Renamed ./slides to ./slideshows, reflecting new arrangement.
+  * Each slideshow now has a unique slideshow.conf file.
+  * Split link-core and link-default for slideshows. link-default
+    is NOT symlinked to a central place, encouraging customization.
+  * Generated icons now go straight to the build directory.
+
+ -- Dylan McCall <dylan@dylan-laptop>  Sun, 14 Feb 2010 17:48:05 -0800
+
 ubiquity-slideshow-ubuntu (14) lucid; urgency=low
 
   * Work around pkgstriptranslations's dislike for empty po files.

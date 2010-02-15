@@ -181,9 +181,7 @@
     )
 )
 
-(batch-reflection-svg "ubuntu/*.svg" "../slides/ubuntu/icons/")
-(batch-reflection "ubuntu/*.png" "../slides/ubuntu/icons/")
-
-(batch-reflection-svg "kubuntu/*.svg" "../slides/kubuntu/icons/")
+(batch-reflection-svg "./*.svg" "./out/")
+(batch-reflection "./*.png" "./out/")
 
 (gimp-quit 0)

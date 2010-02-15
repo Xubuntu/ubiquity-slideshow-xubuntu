@@ -85,12 +85,7 @@ function setLocale(locale) {
 }
 
 function loadRTL() {
-	/* Note: Once you turn on RTL, there is no going back! */
-	var fileref=document.createElement("link");
-	fileref.setAttribute("rel", "stylesheet");
-	fileref.setAttribute("type", "text/css");
-	fileref.setAttribute("href", "link/rtl.css");
-	document.getElementsByTagName("head")[0].appendChild(fileref)
+	$$("body").addClass("rtl")
 }
 
 function nextSlide() {
