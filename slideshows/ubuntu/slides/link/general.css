@@ -194,3 +194,25 @@ img
 {
  	-webkit-user-drag: none;
 }
+
+
+
+/* RTL stuff */
+.rtl {
+	direction:rtl;
+}
+.rtl .title {
+	right:10px;
+}
+.rtl .icon {
+	left:10px;
+	right:auto;
+}
+.rtl .main {
+	right:0px;
+	padding-right:0px;
+	padding-left:60px;
+}
+.rtl .content ul {
+	list-style-image:url("bullet-point.rtl.png");
+}

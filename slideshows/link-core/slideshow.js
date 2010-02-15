@@ -85,7 +85,7 @@ function setLocale(locale) {
 }
 
 function loadRTL() {
-	$$("body").addClass("rtl")
+	document.body.addClassName("rtl")
 }
 
 function nextSlide() {
