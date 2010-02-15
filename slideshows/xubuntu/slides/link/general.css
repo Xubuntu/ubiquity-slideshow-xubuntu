@@ -27,7 +27,7 @@ a
 	
 	overflow:hidden;
 	
-	background-image:url('background.jpg');
+	background-image:url('background-xubuntu.png');
 	background-repeat:no-repeat;
 	background-position:top left;
 	
@@ -62,10 +62,13 @@ Title block is positioned at the top of a slide.
 {
 	position:absolute;
 	top:15px;
-	left:10px;
+	left:50px;
 
 	font-size:20px;
 	font-weight:normal;
+	font-family: serif;
+
+	color: #3771c8;
 
 	padding:0;
 	margin:0;
@@ -137,6 +140,7 @@ margins around it.
 {
 	margin-top:1.4em;
 	margin-bottom:1em;
+	margin-left: 35px;
 	
 	font-weight:bold;
 }
