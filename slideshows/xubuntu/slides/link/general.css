@@ -14,7 +14,7 @@ Hyperlink-style text
 */
 a
 {
-	color:blue;
+	color:#3771c8;
 	font-style:italic;
 }
 
@@ -31,7 +31,7 @@ a
 	background-repeat:no-repeat;
 	background-position:top left;
 	
-	background-color:#fdfdfd;
+	background-color:#e3f0f5;
 	
 	/*cursor:default;*/
 }
@@ -136,11 +136,22 @@ margins around it.
 	padding:0.6em;
 }
 
+.content li.nobullet
+{
+	list-style-image: none;
+	list-style-type: none;
+}
+
 .content .special
 {
-	margin-top:1.4em;
+/*	margin-top:1.4em;
 	margin-bottom:1em;
-	margin-left: 35px;
+	margin-left: 35px; */
+
+	position: absolute;
+	top: 240px;
+	left: 50px;
+	width: 440px;
 	
 	font-weight:bold;
 }
