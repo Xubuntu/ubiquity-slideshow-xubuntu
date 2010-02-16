@@ -1,11 +1,8 @@
-* .desktop file for slideshow. Add to debian/install. We want this to
-be placed with example-content. Should run default web browser with a
-slideshow tuned to the case where the user is NOT presently installing
-Ubuntu, but is still (of course) a new Ubuntu user.
-
 * Translation infrastructure: Need Javascript solution in
 slides/index.html that will automatically load the appropriate localized
 version of each slide.
 
-* Make a smarter Makefile, with targets and the like to avoid rebuilding
-the entire thing every time make gets run.
+* Make a smarter Makefile, with proper targets and the like to avoid
+rebuilding the entire thing every time make gets run.
+
+* Nicer testing tools for contributors to quickly see their work.
