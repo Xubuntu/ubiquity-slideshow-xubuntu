@@ -1,32 +1,32 @@
 # Makefile for ubiquity-slideshow-ubuntu
 
 SOURCE=.
-BUILD=build
+BUILD=$(SOURCE)/build
 SOURCESLIDES=$(SOURCE)/slideshows
 
-all: clean build_ubuntu build_kubuntu build_xubuntu build_ubuntu-upgrade
+all: clean build_ubuntu build_kubuntu build_xubuntu build_ubuntu-upgrade translations
 
 build_init:
 	mkdir -p $(BUILD)
 
 build_ubuntu: build_init
-	cp -rL $(SOURCESLIDES)/ubuntu $(BUILD)/ubuntu
+	cp -rL $(SOURCESLIDES)/ubuntu $(BUILD)
 	icons-source/generate-pngs.sh ubuntu $(BUILD)/ubuntu/slides/icons
-	./generate-local-slides.sh ubuntu
 
 build_ubuntu-upgrade: build_init
-	cp -rL $(SOURCESLIDES)/ubuntu-upgrade $(BUILD)/ubuntu-upgrade
-	#icons-source/generate-pngs.sh ubuntu-upgrade $(BUILD)/ubuntu-upgrade/slides/icons
-	./generate-local-slides.sh ubuntu-upgrade
+	cp -rL $(SOURCESLIDES)/ubuntu-upgrade $(BUILD)
 
 build_kubuntu: build_init
-	cp -rL $(SOURCESLIDES)/kubuntu $(BUILD)/kubuntu
+	cp -rL $(SOURCESLIDES)/kubuntu $(BUILD)
 	icons-source/generate-pngs.sh kubuntu $(BUILD)/kubuntu/slides/icons
-	./generate-local-slides.sh kubuntu
 
 build_xubuntu: build_init
-	cp -rL $(SOURCESLIDES)/xubuntu $(BUILD)/xubuntu
-	#icons-source/generate-pngs.sh xubuntu $(BUILD)/xubuntu/slides/icons
+	cp -rL $(SOURCESLIDES)/xubuntu $(BUILD)
+
+translations:
+	./generate-local-slides.sh ubuntu
+	./generate-local-slides.sh ubuntu-upgrade
+	./generate-local-slides.sh kubuntu
 	./generate-local-slides.sh xubuntu
 
 .PHONY : clean

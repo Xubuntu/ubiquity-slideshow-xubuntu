@@ -129,11 +129,6 @@ def progress_increment(progressbar, fraction):
 
 
 default_path = os.path.join( os.path.abspath(os.path.dirname(sys.argv[0])) , 'build', 'ubuntu' )
-if os.path.exists(default_path) == False:
-	print("\033[91m * Please build the slideshow content first by using the make command * \033[0m")
-	sys.exit()
-	#TODO: offer to run make for the user
-	#TODO: open the content from unbuilt directory (instead of from build). This requires that we reorganize slides to match the layout after building. (kubuntu/slides, instead of slides/kubuntu)
 
 default_locale = locale.getlocale()[0]
 default_rtl = False
@@ -145,7 +140,9 @@ parser.add_option("-p", "--path", help="path to the SLIDESHOW which will be pres
 
 (options, args) = parser.parse_args()
 options.path = os.path.abspath(options.path)
-
+if os.path.exists(options.path) == False:
+	print("\033[91m * Please build the slideshow content first by using the make command * \033[0m")
+	sys.exit()
 
 
 gtk.gdk.threads_init()
