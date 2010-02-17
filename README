@@ -18,6 +18,20 @@ Constructive feedback on the group mailing list is always appreciated!
 Please also note the "COPYING", "AUTHORS" and "TODO" files in this
 directory, which all have cool stuff.
 
+
+----- Testing the slideshow
+
+The easiest way to test changes to the slideshow is to run
+./test-slideshow.sh. (Note: needs zenity, which is probably already
+installed). This will quickly build the slideshow with your changes and
+play it. Note that the test-slideshow script does not do localization.
+Testing localization is currently a more involved process.
+
+If you are using the awesome Ground Control, there will be a Test option
+and a (full) Build option when you open this project in Nautilus.
+Check out <http://launchpad.net/groundcontrol> for more information.
+
+
 ----- Embedding a slideshow
       (For example, in an installer)
 
@@ -45,6 +59,7 @@ called slideshow.conf. This contains two important variables inside the
 Slideshow section: width and height. This way, your implementation can
 find the specific size for its web widget and can choose whether to
 display a slideshow based on the available screen space.
+
 
 ----- Editing slideshow content
 
@@ -77,6 +92,7 @@ These curently do nothing, but in the future they will appear as notes for
 translators. If you write something that may be confusing for them, please
 leave a comment in the same fashion.
 
+
 ----- Editing slideshow design
 
 For each slideshow, the visual design can be customized. First of all,
@@ -104,6 +120,7 @@ controls that appear when #?controls is added to the url.
 
 Outside of those requirements, this should be fairly flexible. Have fun!
 
+
 ----- Localization
 
 A .pot file is generated for each slideshow. One .pot file contains
@@ -119,6 +136,7 @@ new strings.
 <http://translations.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu>
 We will gather the results and merge them back into the project for
 releases.
+
 
 ----- Handy scripts
 
@@ -142,6 +160,7 @@ The icons-source directory contains SVG and PNG graphics and a script
 which adds a graphical effect to them (using GIMP). The generate-pngs.sh
 script is run by the Makefile for each slideshow. The resulting images are
 added in ./build.
+
 
 ----- Musing on writing style
 
