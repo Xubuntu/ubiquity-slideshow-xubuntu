@@ -3,18 +3,17 @@ set -e
 
 mkpo ()
 {
-	slides="slideshows/$1/*.html"
 	mkdir -p "po/$1"
 	
-	for slide in $slides; do
+	for slide in slideshows/$1/slides/*.html; do
 		slidename="$(basename $slide)"
 		[ "$slidename" = "index.html" ] && continue
 		mkdir -p "po/$1/.tmp"
 		html2po -P $slide -o "po/$1/.tmp/$slidename.pot"
 	done
 	
-	msgcat po/$1/.tmp/*.pot > "po/$1/template.pot";
-	rm -r "po//$1/.tmp";
+	msgcat po/$1/.tmp/*.pot > "po/$1/slideshow-$1.pot"
+	rm -r "po/$1/.tmp"
 }
 
 mkpo "ubuntu"
