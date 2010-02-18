@@ -100,8 +100,8 @@ appear :)
 	
 	top:50px;
 	left:0px;
-
-    padding-right:60px;
+	
+	padding-right:60px;
 	
 	font-size:14px;
 	
@@ -125,6 +125,11 @@ margins around it.
 {
 	margin-top:0px;
 	padding-left:1.8em;
+	
+	height:230px;
+	
+	overflow:auto;
+	
 	list-style-image:url("bullet-point.png");
 }
 
