@@ -121,6 +121,25 @@ controls that appear when #?controls is added to the url.
 Outside of those requirements, this should be fairly flexible. Have fun!
 
 
+----- Adding / editing images
+
+Adding images is something that individual slideshows have a lot of
+freedom with; the underlying system doesn't mind how this happens. There
+are a few things to note, though:
+
+* It is nice to have the source of each image (eg: SVG file) in the source
+package if it is available.
+
+* If an image comes from an external source, please attribute its author
+and specify its license in debian/copyright.
+
+* If a common effect is being applied to multiple images, consider
+creating an automated script and placing it under the images-source
+directory. For example, with the Ubuntu slideshow we have a script called
+generate-reflected-pngs.sh which, with a GIMP script, adds a fuzzy
+reflection to some SVG images and exports them as PNGs.
+
+
 ----- Localization
 
 A .pot file is generated for each slideshow. One .pot file contains
@@ -138,7 +157,7 @@ We will gather the results and merge them back into the project for
 releases.
 
 
------ Handy scripts
+----- Other handy scripts
 
 First of all, the slideshow can be built by running make. This uses the
 Makefile, which in our case is a fairly straight-forward shell script.
@@ -151,15 +170,13 @@ Run ./Slideshow.py --help from a command line to see some additional
 parameters it will take.
 By default, opens the slideshow in ./build/ubuntu.
 
+./test-slideshow.sh: Slightly easier way of running Slideshow.py, for
+quick tests.
+
 ./generate-pot-files.sh: When slideshow content has been edited, this can
 be run to produce new .pot files (for translators) reflecting that
-content. There is no need to do this yourself, though; the people who push
-those .pot files to Rosetta will do it.
-
-The icons-source directory contains SVG and PNG graphics and a script
-which adds a graphical effect to them (using GIMP). The generate-pngs.sh
-script is run by the Makefile for each slideshow. The resulting images are
-added in ./build.
+content. There is probably no need to do this yourself, though; the people
+who push those .pot files to Rosetta will do it.
 
 
 ----- Musing on writing style
