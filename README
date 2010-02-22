@@ -127,8 +127,8 @@ Adding images is something that individual slideshows have a lot of
 freedom with; the underlying system doesn't mind how this happens. There
 are a few things to note, though:
 
-* It is nice to have the source of each image (eg: SVG file) in the source
-package if it is available.
+* It is nice to have the source of each image (eg: SVG file) in the
+images-source directory if we are making any changes.
 
 * If an image comes from an external source, please attribute its author
 and specify its license in debian/copyright.
