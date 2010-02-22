@@ -14,7 +14,7 @@ Hyperlink-style text
 */
 a
 {
-	color:blue;
+	color:#3771c8;
 	font-style:italic;
 }
 
@@ -27,11 +27,11 @@ a
 	
 	overflow:hidden;
 	
-	background-image:url('background.jpg');
+	background-image:url('background-xubuntu.png');
 	background-repeat:no-repeat;
 	background-position:top left;
 	
-	background-color:#fdfdfd;
+	background-color:#e3f0f5;
 	
 	/*cursor:default;*/
 }
@@ -62,10 +62,13 @@ Title block is positioned at the top of a slide.
 {
 	position:absolute;
 	top:15px;
-	left:10px;
+	left:50px;
 
 	font-size:20px;
 	font-weight:normal;
+	font-family: serif;
+
+	color: #3771c8;
 
 	padding:0;
 	margin:0;
@@ -125,12 +128,13 @@ margins around it.
 {
 	margin-top:0px;
 	padding-left:1.8em;
+/*	list-style-image:url("bullet-point.png"); */
 	
 	height:230px;
-	
 	overflow:auto;
 	
-	list-style-image:url("bullet-point.png");
+	list-style-image: none;
+	list-style-type: none;
 }
 
 .content li
@@ -138,10 +142,36 @@ margins around it.
 	padding:0.6em;
 }
 
+/*
+Make it possible to adjust the position of the list bullet...
+*/
+.content li:before
+{
+	content: "";
+	background: transparent url(bullet-point.png) 0 0 no-repeat;
+	margin-left: -30px;
+	margin-top: -1px;
+	width: 30px;
+	height: 30px;
+	float: left;
+}
+
+.content li.nobullet:before
+{
+	content: "";
+	background-image: none;
+}
+
 .content .special
 {
-	margin-top:1.4em;
+/*	margin-top:1.4em;
 	margin-bottom:1em;
+	margin-left: 35px; */
+
+	position: absolute;
+	top: 240px;
+	left: 50px;
+	width: 440px;
 	
 	font-weight:bold;
 }
@@ -198,26 +228,4 @@ This rule disables drag-and-drop for images.  See bug #448703.
 img
 {
  	-webkit-user-drag: none;
-}
-
-
-
-/* RTL stuff */
-.rtl {
-	direction:rtl;
-}
-.rtl .title {
-	right:10px;
-}
-.rtl .icon {
-	left:10px;
-	right:auto;
-}
-.rtl .main {
-	right:0px;
-	padding-right:0px;
-	padding-left:60px;
-}
-.rtl .content ul {
-	list-style-image:url("bullet-point.rtl.png");
 }
