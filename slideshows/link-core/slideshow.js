@@ -11,8 +11,8 @@ Please see slides/ubuntu/index.html for an example of this script in use.
 
 
 Dependencies (please load these first):
-link/prototype.js
-link/effects.js, link/fastinit.js, link/crossfade.js
+link-core/prototype.js
+link-core/effects.js, link-core/fastinit.js, link-core/crossfade.js
 directory.js (note that this file does not exist yet, but will when the build script runs)
 */
 
@@ -67,21 +67,42 @@ function setLocale(locale) {
 	
 	slideanchors.each(function(anchor) {
 		var slide_name = anchor.readAttribute("href");
-		var translated_url = "./loc."+locale+"/"+slide_name;
+		var new_url = _get_translated_url(slide_name, locale);
 		
-		try {
-			if ( directory[locale][slide_name] == true )
-				anchor.href = translated_url;
+		if ( new_url != null ) {
+			anchor.href = new_url;
+			console.log("Using translation at: %s", new_url);
 		}
-		catch(err) {
+	})
+	
+	function _get_translated_url(slide_name, locale) {
+		var translated_url = null
+		
+		if ( _translation_exists(slide_name, locale) ) {
+			translated_url = "./loc."+locale+"/"+slide_name;
+		} else {
+			var before_dot = locale.split(".",1)[0];
+			if ( before_dot != null && _translation_exists(slide_name, before_dot) )
+				translated_url = "./loc."+before_dot+"/"+slide_name;
+		}
+		
+		return translated_url;
+	}
+	
+	function _translation_exists(slide_name, locale) {
+		result = false;
+		try {
+			result = ( directory[locale][slide_name] == true );
+		} catch(err) {
 			/*
 			This usually happens if the directory object
 			(auto-generated at build time, placed in ./directory.js)
 			does not exist. That object is needed to know whether
-			a translation exists for the passed locale.
+			a translation exists for the given locale.
 			*/
 		}
-	})
+		return result;
+	}
 }
 
 function loadRTL() {
