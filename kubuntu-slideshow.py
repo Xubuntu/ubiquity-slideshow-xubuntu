@@ -10,10 +10,10 @@ from PyQt4.QtWebKit import *
 from PyQt4 import uic
 
 base_directory = os.path.dirname (sys.argv[0])
-slideshow_path = os.path.abspath(base_directory)
+slideshow_path = os.path.abspath(base_directory + "/slideshows")
 
 slideshow_config = ConfigParser.ConfigParser()
-slideshow_config.read(os.path.join(slideshow_path,'slideshow.conf'))
+slideshow_config.read(os.path.join(slideshow_path,'kubuntu/slideshow.conf'))
 
 config_width = int(slideshow_config.get('Slideshow','width'))
 config_height = int(slideshow_config.get('Slideshow','height'))
@@ -50,7 +50,7 @@ if __name__ == "__main__":
     ui.webView.page().mainFrame().setScrollBarPolicy(Qt.Horizontal, Qt.ScrollBarAlwaysOff)
     ui.webView.page().mainFrame().setScrollBarPolicy(Qt.Vertical, Qt.ScrollBarAlwaysOff)
     
-    ui.webView.load(QUrl(os.path.join(slideshow_path, "slides", "kubuntu", "index.html")))
+    ui.webView.load(QUrl(os.path.join(slideshow_path, "kubuntu", "slides", "index.html")))
     
     ui.setWindowTitle("Ubiquity Slideshow with Webkit")
     ui.show()
