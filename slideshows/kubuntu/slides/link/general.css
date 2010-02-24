@@ -27,7 +27,7 @@ a
 	
 	overflow:hidden;
 	
-	background-image:url('background.jpg');
+	background-image:url('background.png');
 	background-repeat:no-repeat;
 	background-position:top left;
 	
@@ -65,7 +65,10 @@ Title block is positioned at the top of a slide.
 	left:10px;
 
 	font-size:20px;
-	font-weight:normal;
+	font-weight:bold;
+	color: #0f262f;
+	border-bottom: 1px solid #5b8595;
+	width: 100%;
 
 	padding:0;
 	margin:0;
@@ -126,7 +129,7 @@ margins around it.
 	margin-top:0px;
 	padding-left:1.8em;
 	
-	height:230px;
+	height:auto;
 	
 	overflow:auto;
 	
@@ -150,7 +153,7 @@ margins around it.
 
 .content img.inline
 {
-	height:14px;
+	height:auto;
 	width:auto;
 }
 
