@@ -14,20 +14,8 @@ BUILDSLIDES=$BUILD/$distro/slides
 
 echo "directory = new Object()" >> $BUILDSLIDES/directory.js
 
-touch $BUILD/null.po
-for slide in $BUILDSLIDES/*.html; do
-	newslide="$slide.new"
-	mv $slide $newslide
-	#htmlclean removes all comments and whitespace, leaves behind *.bak
-	#htmlclean $newslide && rm "$newslide.bak"
-	#run po2html on source slides for consistent formatting
-	po2html --notidy --progress=none -i $BUILD/null.po -t $newslide -o $slide
-	rm $newslide
-done
-rm $BUILD/null.po
-
-if ! which po2html; then
-	echo; echo "Error: po2html is not available."
+if ! which po4a-translate >/dev/null; then
+	echo; echo "Error: po4a is not available."
 	exit 1
 fi
 for locale in $PODIR/*.po; do
@@ -46,11 +34,9 @@ for locale in $PODIR/*.po; do
 			[ -e $outputslide ] && rm -f $outputslide
 			[ ! -e $localeslides ] && mkdir -p $localeslides
 			
-			po2html --notidy --progress=names -i $locale -t $slide -o $outputslide 2>/dev/null
-			cmp -s $slide $outputslide
-			if [ $? -eq 0 ]; then
-				#remove new slide if it's the same as the default
-				rm $outputslide
+			# -k 1 -> if there are any translations at all, keep it.
+			po4a-translate -f xhtml -m $slide -p $locale -l $outputslide -k 1
+			if ! [ -e "$outputslide" ]; then
 				rmdir $localeslides 2>/dev/null || true
 				echo "              $slidename was not translated for locale $localename"
 			else
