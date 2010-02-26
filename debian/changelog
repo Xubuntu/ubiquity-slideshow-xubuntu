@@ -1,5 +1,6 @@
 ubiquity-slideshow-ubuntu (15) UNRELEASED; urgency=low
 
+  [ Dylan McCall ]
   * Rearranged source package to closely mirror build output.
   * Renamed ./slides to ./slideshows, reflecting new arrangement.
   * Each slideshow now has a unique slideshow.conf file.
@@ -8,6 +9,9 @@ ubiquity-slideshow-ubuntu (15) UNRELEASED; urgency=low
   * Generated icons now go straight to the build directory.
   * Merging new Xubuntu slideshow.
   * Merging new visuals for Kubuntu slideshow.
+
+  [ Evan Dandrea ]
+  * Fix typo in Kubuntu chat slide.
 
  -- Dylan McCall <dylan@dylan-laptop>  Wed, 24 Feb 2010 10:33:54 -0800
 
