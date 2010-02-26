@@ -11,6 +11,8 @@ Homepage: https://launchpad.net/ubiquity-slideshow-ubuntu
 Package: ubiquity-slideshow-ubuntu
 Architecture: all
 Provides: ubiquity-slideshow
+Conflicts: ubiquity-slideshow
+Replaces: ubiquity-slideshow
 Depends: ${misc:Depends}
 Description: Ubiquity slideshow for Ubuntu
  A slideshow intended for the Ubiquity installer, designed as a quick 
@@ -18,7 +20,9 @@ Description: Ubiquity slideshow for Ubuntu
 
 Package: ubiquity-slideshow-ubuntu-upgrade
 Architecture: all
-Provides: ubiquity-slideshow
+Provides: ubiquity-slideshow-upgrade
+Conflicts: ubiquity-slideshow-upgrade
+Replaces: ubiquity-slideshow-upgrade
 Depends: ${misc:Depends}
 Description: Ubiquity slideshow for Ubuntu
  A slideshow intended for the Ubuntu upgrade tool, providing an introduction
@@ -27,6 +31,8 @@ Description: Ubiquity slideshow for Ubuntu
 Package: ubiquity-slideshow-kubuntu
 Architecture: all
 Provides: ubiquity-slideshow
+Conflicts: ubiquity-slideshow
+Replaces: ubiquity-slideshow
 Depends: ${misc:Depends}
 Description: Ubiquity slideshow for Kubuntu
  A slideshow intended for the Ubiquity installer, designed as a quick 
@@ -35,6 +41,8 @@ Description: Ubiquity slideshow for Kubuntu
 Package: ubiquity-slideshow-xubuntu
 Architecture: all
 Provides: ubiquity-slideshow
+Conflicts: ubiquity-slideshow
+Replaces: ubiquity-slideshow
 Depends: ${misc:Depends}
 Description: Ubiquity slideshow for Xubuntu
  A slideshow intended for the Ubiquity installer, designed as a quick 

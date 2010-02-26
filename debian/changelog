@@ -13,6 +13,11 @@ ubiquity-slideshow-ubuntu (15) UNRELEASED; urgency=low
   [ Evan Dandrea ]
   * Fix typo in Kubuntu chat slide.
   * Move from po2html, which is no longer included in Debian, to po4a.
+  * Make each slideshow package Replace and Conflict the ubiquity-
+    slideshow virtual package, to ensure that only one slideshow can be
+    installed at a time and so we can put all of the files in a single
+    location (LP: #526483).  The upgrade slideshows do the same with the
+    ubiquity-slideshow-upgrade virtual package.
 
  -- Dylan McCall <dylan@dylan-laptop>  Wed, 24 Feb 2010 10:33:54 -0800
 
