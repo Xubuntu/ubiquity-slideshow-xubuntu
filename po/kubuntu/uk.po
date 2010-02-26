@@ -7,27 +7,27 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-02-09 09:12+0100\n"
-"PO-Revision-Date: 2010-02-09 20:55+0000\n"
-"Last-Translator: Андрій Роговець <andrew.rogovets@gmail.com>\n"
+"POT-Creation-Date: 2010-02-17 20:58-0700\n"
+"PO-Revision-Date: 2010-02-14 08:15+0000\n"
+"Last-Translator: yurchor <yurchor@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2010-02-11 21:49+0000\n"
+"X-Launchpad-Export-Date: 2010-02-26 13:25+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
-#: slides/kubuntu/accessibility.html:1
+#: slideshows/kubuntu/slides/accessibility.html:1
 msgid "Accessibility in Kubuntu"
 msgstr "Доступність Kubuntu для людей з обмеженими можливостями"
 
-#: slides/kubuntu/accessibility.html:2
+#: slideshows/kubuntu/slides/accessibility.html:2
 msgid "Kubuntu makes computing easy, no matter your circumstances."
 msgstr ""
 "Kubuntu робить використання комп'ютера простішим, незалежно від вашого "
 "фізичного стану."
 
-#: slides/kubuntu/accessibility.html:3
+#: slideshows/kubuntu/slides/accessibility.html:3
 msgid ""
 "A range of assistive technologies make Kubuntu one of the most accessible "
 "operating systems around."
@@ -35,28 +35,30 @@ msgstr ""
 "Діапазон допоміжних технологій робить Kubuntu однією з найдоступніших "
 "операційних систем."
 
-#: slides/kubuntu/accessibility.html:4
+#: slideshows/kubuntu/slides/accessibility.html:4
 msgid ""
 "Whether you need slow key support, desktop magnification, braille, or more, "
 "Kubuntu has you covered!"
 msgstr ""
+"Вам потрібна підтримка «повільних» клавіш, екранна лупа, шрифт Брайля чи щось "
+"інше? У Kubuntu все це є!"
 
-#: slides/kubuntu/chat.html:1
+#: slideshows/kubuntu/slides/chat.html:1
 msgid "Chat with friends and family"
 msgstr "Переписуйся з друзями та родиною!"
 
-#: slides/kubuntu/chat.html:2
+#: slideshows/kubuntu/slides/chat.html:2
 msgid "Kubuntu features Kopete, the instant messaging client for KDE."
 msgstr "Kubuntu містить Kopete - клієнт мережі миттєвих повідомлень для KDE."
 
-#: slides/kubuntu/chat.html:3
+#: slideshows/kubuntu/slides/chat.html:3
 msgid ""
 "Kopete supports AIM, ICQ, Windows Live Messenger, Yahoo, Jabber, and more."
 msgstr ""
 "Kopete підтримує AIM, ICQ, Windows Live Messenger, Yahoo, Jabber і багато "
 "інших."
 
-#: slides/kubuntu/chat.html:4
+#: slideshows/kubuntu/slides/chat.html:4
 msgid ""
 "Kopete is designed to be a flexible and extensible multi-protocol system "
 "suitable for personal and enterprise use."
@@ -64,183 +66,229 @@ msgstr ""
 "Kopete розроблена гнучкою та розширюваною мульти-протокольною системою для "
 "особистого та корпоративного користування."
 
-#: slides/kubuntu/getinvolved.html:1
+#: slideshows/kubuntu/slides/getinvolved.html:1
 msgid "Helping Kubuntu"
-msgstr "Допомога в Kubuntu"
+msgstr "Як допомогти Kubuntu?"
 
-#: slides/kubuntu/getinvolved.html:2
+#: slideshows/kubuntu/slides/getinvolved.html:2
 msgid ""
 "Kubuntu is developed and maintained by a group of community volunteers, "
 "become one of those volunteers today!"
 msgstr ""
+"Kubuntu розробляється і супроводжується групою охочих учасників спільноти. "
+"Ви можете долучитися до цієї групи вже зараз!"
 
-#: slides/kubuntu/getinvolved.html:3
+#: slideshows/kubuntu/slides/getinvolved.html:3
 msgid ""
 "Support, documentation, artwork, coding, packaging, and more are just some "
 "of the ways to get involved."
 msgstr ""
+"Підтримка, документування, художні елементи, програмування, пакування та "
+"інші допоміжні роботи — ось лише декілька зі способів допомогти розвитку "
+"дистрибутива."
 
-#: slides/kubuntu/getinvolved.html:4
+#: slideshows/kubuntu/slides/getinvolved.html:4
 msgid "No matter your skill level, there is a task waiting for you."
-msgstr ""
-"Ваш навик використання Kubuntu не має значення, завдання вже чекає на вас."
+msgstr "Рівень ваших навичок не має значення — робота знайдеться для кожного."
 
-#: slides/kubuntu/getinvolved.html:5
+#: slideshows/kubuntu/slides/getinvolved.html:5
 msgid ""
 "Visit the <a href=\"https://wiki.ubuntu.com/Kubuntu/GettingInvolved"
 "\">Getting Involved</a> page for more information."
 msgstr ""
-"Відвідайте <a href=\"https://wiki.ubuntu.com/Kubuntu/GettingInvolved"
-"\">Getting Involved</a> для більшої інформації."
+"Щоб дізнатися більше, відвідайте сторінку <a href=\"https://wiki.ubuntu.com/"
+"Kubuntu/GettingInvolved\">участі у проекті</a>."
 
-#: slides/kubuntu/getinvolved.html:6
+#: slideshows/kubuntu/slides/getinvolved.html:6
 msgid ""
 "The installation will finish soon, we hope that you enjoy using Kubuntu."
 msgstr ""
-"Встановлення скоро завершиться, ми сподіваємося Вам сподобається Kubuntu."
+"Встановлення скоро завершиться, ми сподіваємося вам сподобається Kubuntu."
 
-#: slides/kubuntu/installing.html:1
+#: slideshows/kubuntu/slides/installing.html:1
 msgid "Installing additional software"
-msgstr ""
+msgstr "Встановлення додаткових програм"
 
-#: slides/kubuntu/installing.html:2
+#: slideshows/kubuntu/slides/installing.html:2
 msgid "Installing additional software has never been easier with Kubuntu."
-msgstr ""
+msgstr "Встановити додаткові програми у Kubuntu дуже просто."
 
-#: slides/kubuntu/installing.html:3
+#: slideshows/kubuntu/slides/installing.html:3
 msgid ""
 "Simply utilize the <em>Add/Remove...</em> application to install and "
 "uninstall your applications."
 msgstr ""
+"Вам достатньо скористатися програмою <em>Додати/Вилучити...</em>, щоб "
+"встановити чи вилучити потрібні вам програми."
 
-#: slides/kubuntu/installing.html:4
+#: slideshows/kubuntu/slides/installing.html:4
 msgid ""
 "With tens of thousands of applications to chose from, Kubuntu has you "
 "covered!"
 msgstr ""
+"Серед десятків тисяч програм Kubuntu ви обов’язково знайдете саме ту, яка "
+"вам потрібна!"
 
-#: slides/kubuntu/installing.html:5
+#: slideshows/kubuntu/slides/installing.html:5
 msgid ""
 "The Kubuntu community makes sure these packages are polished and virus-free "
 "to make your life easier and safer."
 msgstr ""
+"Спільнота Kubuntu забезпечує надійність роботи та відсутність вірусів у "
+"пакунках. Ваша робота буде простішою та безпечнішою."
 
-#: slides/kubuntu/installing.html:6
+#: slideshows/kubuntu/slides/installing.html:6
 msgid ""
 "Regular updates keep you up-to-date when improvements and new versions "
 "become available."
 msgstr ""
+"Регулярні оновлення усунуть проблему застарівання програмного забезпечення: "
+"на вашому комп’ютері завжди буде встановлено найновіші удосконалення та "
+"найсвіжіші версії програм."
 
-#: slides/kubuntu/media.html:1
+#: slideshows/kubuntu/slides/media.html:1
 msgid "Watch videos, listen to music, view and edit photographs"
 msgstr ""
+"Перегляд відео, прослуховування музики, перегляд та редагування фотографій"
 
-#: slides/kubuntu/media.html:2
+#: slideshows/kubuntu/slides/media.html:2
 msgid "Watch videos the way they were meant to be watched with Kaffeine."
-msgstr ""
+msgstr "Ви зможете переглянути ваші відеозаписи за допомогою Kaffeine."
 
-#: slides/kubuntu/media.html:3
+#: slideshows/kubuntu/slides/media.html:3
 msgid "Rediscover your music with Amarok, a powerful music player for KDE."
 msgstr ""
+"Відкрийте нові аспекти вашої музики за допомогою Amarok, потужного музичного "
+"програвача KDE."
 
-#: slides/kubuntu/media.html:4
+#: slideshows/kubuntu/slides/media.html:4
 msgid "Manage your photographs like a professional with the power of digiKam."
 msgstr ""
+"Ви зможете професійно працювати з вашими фотографіями за допомогою потужної "
+"програми digiKam."
 
-#: slides/kubuntu/pim.html:1
+#: slideshows/kubuntu/slides/pim.html:1
 msgid "Personal Information Management"
-msgstr ""
+msgstr "Керування особистою інформацією"
 
-#: slides/kubuntu/pim.html:2
+#: slideshows/kubuntu/slides/pim.html:2
 msgid "Kontact unites mature and proven KDE PIM applications under one roof."
-msgstr ""
+msgstr "Kontact поєднує у собі надійні і перевірені часом програми KDE PIM."
 
-#: slides/kubuntu/pim.html:3
+#: slideshows/kubuntu/slides/pim.html:3
 msgid "KMail - emailing has never been easier or more fun."
 msgstr ""
+"KMail — робота з електронною поштою буде простою, вона принесе вам "
+"задоволення."
 
-#: slides/kubuntu/pim.html:4
+#: slideshows/kubuntu/slides/pim.html:4
 msgid ""
 "KOrganizer - More than just a calendar with amazing scheduling and "
 "journaling options."
 msgstr ""
+"KOrganizer — це більше ніж простий календар. У програмі передбачено чудові "
+"можливості планування та роботи з журналами."
 
-#: slides/kubuntu/pim.html:5
+#: slideshows/kubuntu/slides/pim.html:5
 msgid "KAddressBook - Manage all aspects of your contacts with ease."
 msgstr ""
+"KAddressBook — програма, призначена для спрощення всіх аспектів вашої роботи "
+"з записами контактів."
 
-#: slides/kubuntu/pim.html:6
+#: slideshows/kubuntu/slides/pim.html:6
 msgid "Read RSS feeds, jot down notes in a notebook, sticky notes, and more."
 msgstr ""
+"Ви зможете працювати з подачами RSS, записником, липкими нотатками та "
+"користуватися іншими програмами, які полегшать ваше життя."
 
-#: slides/kubuntu/support.html:1
+#: slideshows/kubuntu/slides/support.html:1
 msgid "Free and Commercial Support Available"
-msgstr ""
+msgstr "Безкоштовна підтримка та підтримка на комерційній основі"
 
-#: slides/kubuntu/support.html:2
+#: slideshows/kubuntu/slides/support.html:2
 msgid ""
 "Commercial support is available for Kubuntu by <a href=\"http://www."
 "canonical.com/\">Canonical</a>."
 msgstr ""
+"Комерційну підтримку дистрибутива Kubuntu забезпечує компанія <a href="
+"\"http://www.canonical.com/\">Canonical</a>."
 
-#: slides/kubuntu/support.html:3
+#: slideshows/kubuntu/slides/support.html:3
 msgid ""
 "Utilize the <a href=\"http://ubuntuforums.org\">Ubuntu Forums</a> or the <a "
 "href=\"http://www.kubuntuforums.net\">Kubuntu Forums</a> for free."
 msgstr ""
+"Безкоштовною підтримкою можна скористатися на <a href=\"http://ubuntuforums."
+"org\">форумах Ubuntu</a> або <a href=\"http://www.kubuntuforums.net"
+"\">форумах Kubuntu</a>."
 
-#: slides/kubuntu/support.html:4
+#: slideshows/kubuntu/slides/support.html:4
 msgid ""
 "Other forms of free, community based, support include IRC, mailing lists, "
 "and <a href=\"https://launchpad.net\">Launchpad</a>."
 msgstr ""
+"Серед інших форм безкоштовної, підтримуваної спільнотою, допомоги канали "
+"IRC, списки листування та <a href=\"https://launchpad.net\">Launchpad</a>."
 
-#: slides/kubuntu/support.html:5
+#: slideshows/kubuntu/slides/support.html:5
 msgid ""
 "Use your system's help center which contains locally installed documentation."
 msgstr ""
+"Щоб ознайомитися з встановленою на вашому комп’ютері документацією до "
+"системи, скористайтеся Центром довідки."
 
-#: slides/kubuntu/web.html:1
+#: slideshows/kubuntu/slides/web.html:1
 msgid "The World Wide Web Your Way"
-msgstr ""
+msgstr "Робота у інтернеті"
 
-#: slides/kubuntu/web.html:2
+#: slideshows/kubuntu/slides/web.html:2
 msgid "Browse the Internet securely with the Konqueror web browser."
 msgstr ""
+"За допомогою переглядача інтернету Konqueror ви зможете безпечно "
+"подорожувати всесвітньою мережею."
 
-#: slides/kubuntu/web.html:3
+#: slideshows/kubuntu/slides/web.html:3
 msgid "Surf the web without the worry of viruses, spyware, and adware."
 msgstr ""
+"Вам не доведеться перейматися небезпекою зараження системи вірусами, "
+"шпигунськими або рекламними програмами."
 
-#: slides/kubuntu/web.html:4
+#: slideshows/kubuntu/slides/web.html:4
 msgid "Navigate the world wide web with blazing speeds."
-msgstr ""
+msgstr "Робота у інтернеті буде швидкою і безпечною."
 
-#: slides/kubuntu/welcome.html:1
+#: slideshows/kubuntu/slides/welcome.html:1
 msgid "Welcome"
-msgstr ""
+msgstr "Ласкаво просимо!"
 
-#: slides/kubuntu/welcome.html:2
-msgid "Thank you for choosing Kubuntu 10.04, the Karmic Koala!"
-msgstr ""
+#: slideshows/kubuntu/slides/welcome.html:2
+#, fuzzy
+msgid "Thank you for choosing Kubuntu 10.04, the Lucid Lynx!"
+msgstr "Дякуємо за те, що ви скористалися Kubuntu 9.10, Karmic Koala!"
 
-#: slides/kubuntu/welcome.html:3
+#: slideshows/kubuntu/slides/welcome.html:3
 msgid ""
 "Kubuntu is based on Ubuntu and features the K Desktop Environment (KDE)."
 msgstr ""
+"Kubuntu засновано на Ubuntu, але у системі використано стільничне середовище "
+"KDE."
 
-#: slides/kubuntu/welcome.html:4
+#: slideshows/kubuntu/slides/welcome.html:4
 msgid ""
 "Kubuntu is released biannually with at least 18 months of free security "
 "updates."
 msgstr ""
+"Випуск нових версій Kubuntu здійснюється двічі на рік. Оновлення, пов’язані "
+"з безпекою, випускаються протягом 18 місяців з дня випуску дистрибутива."
 
-#: slides/kubuntu/welcome.html:5
+#: slideshows/kubuntu/slides/welcome.html:5
 msgid ""
 "While Kubuntu is installing, we invite you to explore your new operating "
 "system."
 msgstr ""
+"Доки триває встановлення Kubuntu, ви можете ознайомитися з можливостями "
+"вашої нової операційної системи."
 
-#: slides/kubuntu/welcome.html:6
+#: slideshows/kubuntu/slides/welcome.html:6
 msgid "Kubuntu is built to be safe. Feel free to explore!"
-msgstr ""
+msgstr "Kubuntu створено безпечною системою. Переконайтеся у цьому!"

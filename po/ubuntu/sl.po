@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-02-09 09:12+0100\n"
+"POT-Creation-Date: 2010-02-17 20:58-0700\n"
 "PO-Revision-Date: 2009-12-10 12:05+0000\n"
 "Last-Translator: Evan Dandrea <evand@ubuntu.com>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2010-02-11 21:48+0000\n"
+"X-Launchpad-Export-Date: 2010-02-26 13:24+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
-#: slides/ubuntu/accessibility.html:1
+#: slideshows/ubuntu/slides/accessibility.html:1
 msgid "Accessibility in Ubuntu"
 msgstr "Dostopnost v Ubuntuju"
 
-#: slides/ubuntu/accessibility.html:2
+#: slideshows/ubuntu/slides/accessibility.html:2
 msgid ""
 "We want to make computers work for everyone, whatever your physical "
 "circumstances. So, we provide tools that make Ubuntu one of the most "
@@ -31,7 +31,7 @@ msgstr ""
 "danosti. Zato nudimo orodja, zaradi katerih je Ubuntu eden najbolj dostopnih "
 "operacijskih sistemov."
 
-#: slides/ubuntu/accessibility.html:3
+#: slideshows/ubuntu/slides/accessibility.html:3
 msgid ""
 "You can get at these tools in one place: the <em>Assistive Technologies "
 "Preferences,</em> inside the System Menu. From there, you can turn on "
@@ -39,7 +39,7 @@ msgid ""
 "click to press mouse buttons automatically."
 msgstr ""
 
-#: slides/ubuntu/accessibility.html:4
+#: slideshows/ubuntu/slides/accessibility.html:4
 msgid ""
 "Remember to check out the <em>Appearance Preferences</em>, too. You can "
 "choose between different visual styles and even change the fonts that are "
@@ -49,17 +49,17 @@ msgstr ""
 "lahko med videzi različnih stilov in celo spreminjate pisave, uporabljene v "
 "programih."
 
-#: slides/ubuntu/documentation.html:1
+#: slideshows/ubuntu/slides/documentation.html:1
 msgid "Getting Help with Ubuntu"
 msgstr "Iskanje pomoči v Ubuntuju"
 
-#: slides/ubuntu/documentation.html:2
+#: slideshows/ubuntu/slides/documentation.html:2
 msgid ""
 "If you need help, try <em>Help and Support</em> from the System menu, or the "
 "<em>Help</em> menu in most applications."
 msgstr ""
 
-#: slides/ubuntu/documentation.html:3
+#: slideshows/ubuntu/slides/documentation.html:3
 msgid ""
 "In addition to our extensive written help, the Ubuntu community provides "
 "free technical support in person and over the Internet. There is also "
@@ -68,28 +68,28 @@ msgid ""
 "com/support</a>."
 msgstr ""
 
-#: slides/ubuntu/documentation.html:4
+#: slideshows/ubuntu/slides/documentation.html:4
 msgid ""
 "Let us know about your Ubuntu experience at <a href=\"http://ubuntu.com/"
 "community\">ubuntu.com/community</a>!"
 msgstr ""
 
-#: slides/ubuntu/documentation.html:5
+#: slideshows/ubuntu/slides/documentation.html:5
 msgid "The installation will finish soon. We hope you enjoy Ubuntu."
 msgstr "Namestitev se bo kmalu končala. Upamo, da vam bo Ubuntu v užitek."
 
-#: slides/ubuntu/empathy.html:1
+#: slideshows/ubuntu/slides/empathy.html:1
 msgid "Keep in contact with Empathy"
 msgstr "Ostanite na zvezi z Empathy"
 
-#: slides/ubuntu/empathy.html:2
+#: slideshows/ubuntu/slides/empathy.html:2
 msgid ""
 "With <em>Empathy</em>, Ubuntu keeps you connected right from the start. It "
 "works with all the major instant messaging networks, including Google Talk, "
 "Windows Live and Jabber."
 msgstr ""
 
-#: slides/ubuntu/empathy.html:3
+#: slideshows/ubuntu/slides/empathy.html:3
 msgid ""
 "New messages appear in the envelope to the left of the clock, so you can see "
 "what's happening at a glance."
@@ -97,31 +97,31 @@ msgstr ""
 "Nova sporočila se pojavijo v ovojnici na levi strani ure, tako da lahko "
 "takoj vidite, kaj se dogaja."
 
-#: slides/ubuntu/empathy.html:4
+#: slideshows/ubuntu/slides/empathy.html:4
 msgid ""
 "Choose <em>Empathy IM Client</em> from the Internet Applications menu to set "
 "up your accounts."
 msgstr ""
 
-#: slides/ubuntu/evolution.html:1
+#: slideshows/ubuntu/slides/evolution.html:1
 msgid "Control your digital life with Evolution"
 msgstr "Svoje digitalno življenje vodite s programom Evolution"
 
-#: slides/ubuntu/evolution.html:2
+#: slideshows/ubuntu/slides/evolution.html:2
 msgid ""
 "<em>Evolution Mail</em> is the fully-featured email and calendar software "
 "that comes with Ubuntu. It connects to most email services, for example "
 "Gmail and Yahoo."
 msgstr ""
 
-#: slides/ubuntu/evolution.html:3
+#: slideshows/ubuntu/slides/evolution.html:3
 msgid ""
 "Advanced junk filtering and search tools make managing your mail a breeze."
 msgstr ""
 "S pomočjo naprednega filtriranja nezaželene pošte in iskalnih orodij boste z "
 "lahkoto urejali svojo pošto."
 
-#: slides/ubuntu/evolution.html:4
+#: slideshows/ubuntu/slides/evolution.html:4
 msgid ""
 "Add your favorite Web calendars to see upcoming games or movie releases. To "
 "see your daily schedule, just click the clock at the top of your screen."
@@ -130,35 +130,36 @@ msgstr ""
 "prihajajočih iger in filmov. Za ogled svojih dnevnih opravkov morate samo "
 "klikniti na uro na vrhu zaslona."
 
-#: slides/ubuntu/firefox.html:1
+#: slideshows/ubuntu/slides/firefox.html:1
 msgid "Browse the web with Firefox"
 msgstr "Po spletu brskajte s Firefoxom"
 
-#: slides/ubuntu/firefox.html:2
-msgid ""
-"Ubuntu comes with the widely acclaimed <em>Firefox 3.5</em> web browser."
+#: slideshows/ubuntu/slides/firefox.html:2
+#, fuzzy
+msgid "Ubuntu comes with the widely acclaimed <em>Firefox web browser</em>."
 msgstr "Ubuntu prinaša široko priznan spletni brskalnik <em>Firefox 3.5</em>."
 
-#: slides/ubuntu/firefox.html:3
+#: slideshows/ubuntu/slides/firefox.html:3
 msgid ""
 "It protects your privacy and personal information so you can surf worry free."
 msgstr ""
 "Z njim so vaši podatki iz zasebnost zaščiteni, tako da lahko brezskrbno "
 "jadrate po spletu."
 
-#: slides/ubuntu/firefox.html:4
+#: slideshows/ubuntu/slides/firefox.html:4
+#, fuzzy
 msgid ""
-"Add your own personal note. Choose from thousands of themes and Add-ons that "
-"tailor Firefox to how you use the web."
+"Add your own personal note with add-ons. You can choose from thousands of "
+"themes and extensions that tailor Firefox to how you use the web."
 msgstr ""
 "Vključite svojo osebno noto. Izberite med tisoči razpoložljivih tem in "
 "vključkov ter si prilagodite Firefox tako, kakor ste na spletu vajeni."
 
-#: slides/ubuntu/fspot.html:1
+#: slideshows/ubuntu/slides/fspot.html:1
 msgid "Organize, enjoy, and share your photos"
 msgstr "Uživajte v svojih fotografijah, urejajte jih in delite."
 
-#: slides/ubuntu/fspot.html:2
+#: slideshows/ubuntu/slides/fspot.html:2
 msgid ""
 "With <em>F-Spot Photo Manager</em>, it is really easy to share, touch-up and "
 "organize digital photos."
@@ -166,12 +167,12 @@ msgstr ""
 "S <em>urejevalnikom slik F-Spot</em> boste resnično z lahkoto delili, "
 "popravljali in urejali svoje digitalne slike."
 
-#: slides/ubuntu/fspot.html:3
+#: slideshows/ubuntu/slides/fspot.html:3
 msgid ""
 "Use tags to describe your photos so that they are easy to find later on."
 msgstr ""
 
-#: slides/ubuntu/fspot.html:4
+#: slideshows/ubuntu/slides/fspot.html:4
 msgid ""
 "Use the Export option to write your photos to CDs, email them to friends or "
 "share them online."
@@ -179,7 +180,7 @@ msgstr ""
 "Z ukazom Izvozi zapišite svoje slike na CD-je, jih pošljite svojim "
 "prijateljem ali pa jih delite z drugimi preko spleta."
 
-#: slides/ubuntu/fspot.html:5
+#: slideshows/ubuntu/slides/fspot.html:5
 msgid ""
 "To get started, choose F-Spot from the Graphics Applications menu or attach "
 "a digital camera and follow the prompts."
@@ -187,18 +188,18 @@ msgstr ""
 "Za začetek izberite F-Spot v meniju z grafičnimi programi, ali pa priklopite "
 "digitalen fotoaparat in sledite navodilom."
 
-#: slides/ubuntu/installing-software.html:1
+#: slideshows/ubuntu/slides/installing-software.html:1
 msgid "Installing additional software"
 msgstr "Nameščanje dodatnih programov"
 
-#: slides/ubuntu/installing-software.html:2
+#: slideshows/ubuntu/slides/installing-software.html:2
 msgid ""
 "Take a look at the <em>Ubuntu Software Center</em> to install (and remove) "
 "software from our online repository, which we carefully organize to be safe "
 "and up to date."
 msgstr ""
 
-#: slides/ubuntu/installing-software.html:3
+#: slideshows/ubuntu/slides/installing-software.html:3
 msgid ""
 "There is great software for everything from creating music and movies to "
 "producing 3D models and exploring the universe."
@@ -206,7 +207,7 @@ msgstr ""
 "Na voljo so odlični programi za vsa področja od ustvarjanja glasbe in filmov "
 "do izdelave modelov 3D in raziskovanja vesolja."
 
-#: slides/ubuntu/installing-software.html:4
+#: slideshows/ubuntu/slides/installing-software.html:4
 msgid ""
 "If you need something that isn't available through us, find out if there is "
 "a Debian package or another repository available. That way, it will be "
@@ -216,11 +217,11 @@ msgstr ""
 "na voljo Debianovi paketi ali kakšno drugo skladišče. Tako bodo namestitve "
 "resnično enostavne, prejemali pa boste tudi samodejne posodobitve."
 
-#: slides/ubuntu/openoffice.html:1
+#: slideshows/ubuntu/slides/openoffice.html:1
 msgid "Office tools at your fingertips"
 msgstr "Pisarniška orodja vedno pri roki"
 
-#: slides/ubuntu/openoffice.html:2
+#: slideshows/ubuntu/slides/openoffice.html:2
 msgid ""
 "<em>OpenOffice.org</em> is a powerful office software suite that is very "
 "easy to learn."
@@ -228,7 +229,7 @@ msgstr ""
 "<em>OpenOffice.org</em> je zmogljiv pisarniški paket programov, ki se ga je "
 "enostavno naučiti uporabljati."
 
-#: slides/ubuntu/openoffice.html:3
+#: slideshows/ubuntu/slides/openoffice.html:3
 msgid ""
 "It is useful to create letters, presentations and spreadsheets, as well as "
 "diagrams and databases."
@@ -236,23 +237,27 @@ msgstr ""
 "Uporaben je pri ustvarjanju pisem, predstavitev in preglednic, pa tudi pri "
 "izdelavi diagramov in podatkovnih baz."
 
-#: slides/ubuntu/openoffice.html:4
+#: slideshows/ubuntu/slides/openoffice.html:4
+#, fuzzy
 msgid ""
 "<em>OpenOffice.org</em> works with documents from other popular office "
 "applications including WordPerfect and Microsoft Office. It uses the "
-"international standard OpenDocument format by default."
+"standard OpenDocument format."
 msgstr ""
+"OpenOffice.org deluje z dokumenti vseh priljubljenih pisarniških proglamov, "
+"med katerimi sta tudi WordPerfect in Microsoft Office. Privzeto uporablja "
+"format OpenDocument iz standarda ISO."
 
-#: slides/ubuntu/rhythmbox-totem.html:1
+#: slideshows/ubuntu/slides/rhythmbox-totem.html:1
 msgid "Music and movies in Ubuntu"
 msgstr "Glasba in filmi v Ubuntuju"
 
-#: slides/ubuntu/rhythmbox-totem.html:2
+#: slideshows/ubuntu/slides/rhythmbox-totem.html:2
 msgid ""
 "Ubuntu is ready to play videos and music from the web, from CDs and DVDs."
 msgstr ""
 
-#: slides/ubuntu/rhythmbox-totem.html:3
+#: slideshows/ubuntu/slides/rhythmbox-totem.html:3
 msgid ""
 "<em>Rhythmbox Music Player</em> lets you organize your music and listen to "
 "Internet radio. It also keeps track of podcasts, to download new episodes of "
@@ -262,7 +267,7 @@ msgstr ""
 "in poslušanje internetnega radia. Prav tako shranjuje podatke o podcastih, "
 "tako da samodejno priskrbi njihova nova nadaljevanja."
 
-#: slides/ubuntu/rhythmbox-totem.html:4
+#: slideshows/ubuntu/slides/rhythmbox-totem.html:4
 msgid ""
 "Plug in an MP3 player to start synchronizing your music collection, or "
 "insert a CD to copy its music to your computer."
@@ -270,21 +275,21 @@ msgstr ""
 "Priključite predvajalnik MP3 posnetkov in sinhronizirajte svojo glasbeno "
 "zbirko. Vstavite CD in z njega presnemite glasbo na svoj računalnik."
 
-#: slides/ubuntu/translations.html:1
+#: slideshows/ubuntu/slides/translations.html:1
 msgid "Ubuntu speaks fluently"
 msgstr "Ubuntu govori tekoče"
 
-#: slides/ubuntu/translations.html:2
+#: slideshows/ubuntu/slides/translations.html:2
 msgid "Ubuntu is available in many different languages."
 msgstr "Ubuntu je na voljo v več različnih jezikih."
 
-#: slides/ubuntu/translations.html:3
+#: slideshows/ubuntu/slides/translations.html:3
 msgid "Simply select your language in Language Support Administration"
 msgstr ""
 "Preprosto izberite svoj jezik v meniju Sistem->Administracija->Jezikovna "
 "podpora"
 
-#: slides/ubuntu/translations.html:4
+#: slideshows/ubuntu/slides/translations.html:4
 msgid ""
 "Ubuntu's translations are contributed by our generous users. Feel free to "
 "help out at <a href=\"http://translations.launchpad.net/ubuntu\">launchpad."
@@ -294,17 +299,17 @@ msgstr ""
 "pomagate na <a href=\"http://translations.launchpad.net/ubuntu\">launchpad."
 "net</a>."
 
-#: slides/ubuntu/ubuntuone.html:1
+#: slideshows/ubuntu/slides/ubuntuone.html:1
 msgid "Store, sync and share with Ubuntu One"
 msgstr "Ubuntu One za shranjevanje, sinhronizacijo in skupno rabo"
 
-#: slides/ubuntu/ubuntuone.html:2
+#: slideshows/ubuntu/slides/ubuntuone.html:2
 msgid ""
 "<em>Ubuntu One</em> is your personal cloud, providing 2 GB of essential "
 "storage (and more if you need it)."
 msgstr ""
 
-#: slides/ubuntu/ubuntuone.html:3
+#: slideshows/ubuntu/slides/ubuntuone.html:3
 msgid ""
 "Use it to back up, store and sync your files, as well as share them with "
 "other Ubuntu One users."
@@ -313,7 +318,7 @@ msgstr ""
 "datotek. Lahko pa jih preko njega delite tudi z drugimi uporabniki storitve "
 "Ubuntu One."
 
-#: slides/ubuntu/ubuntuone.html:4
+#: slideshows/ubuntu/slides/ubuntuone.html:4
 msgid ""
 "Your Tomboy notes and Evolution contacts are synced automatically across all "
 "of your computers."
@@ -321,20 +326,20 @@ msgstr ""
 "Vaši zapiski Tomboy in stiki Evolution se bodo samodejno sinhronizirali z "
 "vsemi vašimi računalniki."
 
-#: slides/ubuntu/ubuntuone.html:5
+#: slideshows/ubuntu/slides/ubuntuone.html:5
 msgid "Integration with your Ubuntu desktop makes sharing files easy."
 msgstr "Deljenje datotek je enostavno, saj je vgrajeno v namizje Ubuntu."
 
-#: slides/ubuntu/welcome.html:1
+#: slideshows/ubuntu/slides/welcome.html:1
 msgid "Welcome"
 msgstr "Dobrodošli"
 
-#: slides/ubuntu/welcome.html:2
+#: slideshows/ubuntu/slides/welcome.html:2
 #, fuzzy
 msgid "Thank you for choosing Ubuntu 10.04."
 msgstr "Hvala, ker ste izbrali Ubuntu 9.10."
 
-#: slides/ubuntu/welcome.html:3
+#: slideshows/ubuntu/slides/welcome.html:3
 msgid ""
 "We believe that every computer user should be able to work in the "
 "environment of their choice and be free to download, change, study and share "
@@ -345,7 +350,7 @@ msgstr ""
 "preučevati in jih deliti z drugimi za kakršenkoli namen, ne da bi moral za "
 "to plačevati licenčnine."
 
-#: slides/ubuntu/welcome.html:4
+#: slideshows/ubuntu/slides/welcome.html:4
 msgid ""
 "As part of our promise, we want Ubuntu to work as well for you as possible. "
 "So, while it installs, this slideshow will give you a quick introduction."
@@ -353,7 +358,7 @@ msgstr ""
 "V skladu s svojo obljubo hočemo, da vam Ubuntu čim bolje služi. Med "
 "postopkom namestitve si lahko ogledate kratko uvodno predstavitev."
 
-#: slides/ubuntu/welcome.html:5
+#: slideshows/ubuntu/slides/welcome.html:5
 msgid "Ubuntu is designed to be easy. Feel free to explore!"
 msgstr "Ubuntu je zasnovan za lahko uporabo. Ne bojte se raziskovati!"
 
@@ -435,15 +440,6 @@ msgstr "Ubuntu je zasnovan za lahko uporabo. Ne bojte se raziskovati!"
 #~ "V <em>Programskem središču</em> si oglejte in namestite (ali odstranite) "
 #~ "programe iz našega internetnega skladišča, za katerega pozorno skrbimo, "
 #~ "da je varen in posodobljen."
-
-#~ msgid ""
-#~ "OpenOffice.org works with documents for all the popular office "
-#~ "applications including WordPerfect and Microsoft Office. It uses the ISO "
-#~ "standard OpenDocument format by default."
-#~ msgstr ""
-#~ "OpenOffice.org deluje z dokumenti vseh priljubljenih pisarniških "
-#~ "proglamov, med katerimi sta tudi WordPerfect in Microsoft Office. "
-#~ "Privzeto uporablja format OpenDocument iz standarda ISO."
 
 #~ msgid ""
 #~ "Ubuntu is ready to play videos and music from the web and from DVDs. It "
