@@ -18,6 +18,8 @@ ubiquity-slideshow-ubuntu (15) UNRELEASED; urgency=low
     installed at a time and so we can put all of the files in a single
     location (LP: #526483).  The upgrade slideshows do the same with the
     ubiquity-slideshow-upgrade virtual package.
+  * Update update-launchpad-translations.sh to reflect recent directory
+    layout changes.
 
  -- Dylan McCall <dylan@dylan-laptop>  Wed, 24 Feb 2010 10:33:54 -0800
 

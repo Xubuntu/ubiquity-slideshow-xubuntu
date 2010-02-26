@@ -50,6 +50,6 @@ for d in $2/po/*; do
 	[ -d $d ] || continue
 	for p in $d/*.po; do
 		[ -e $p ] || continue
-		msgmerge -U $p $d/template.pot
+		msgmerge -U $p $d/slideshow-*.pot
 	done
 done
