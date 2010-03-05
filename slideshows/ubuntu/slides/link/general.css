@@ -1,5 +1,4 @@
-html, body
-{
+html, body {
 	margin:0;
 	padding:0;
 	
@@ -12,14 +11,13 @@ html, body
 /*
 Hyperlink-style text
 */
-a
-{
-	color:blue;
+a {
+	color:#731444;
 	font-style:italic;
+	text-decoration:none;
 }
 
-#container
-{
+#container {
 	position:absolute;
 	
 	width:700px;
@@ -36,8 +34,7 @@ a
 	/*cursor:default;*/
 }
 
-#debug-controls
-{
+#debug-controls {
 	display:none;
 	position:absolute;
 	top: 440px;
@@ -45,28 +42,29 @@ a
 	text-align:center;
 }
 
-#debug-controls input
-{
+#debug-controls input {
 	width:40px;
 }
 
-#debug-controls input#current-slide
-{
+#debug-controls input#current-slide {
 	width:600px;
 }
 
 /*
 Title block is positioned at the top of a slide.
 */
-.title
-{
+.title {
 	position:absolute;
 	top:15px;
 	left:10px;
-
+	
 	font-size:20px;
 	font-weight:normal;
-
+	
+	letter-spacing:-1px;
+	
+	color:#000000;
+	
 	padding:0;
 	margin:0;
 }
@@ -75,8 +73,7 @@ Title block is positioned at the top of a slide.
 Typically an image. This is positioned at the top
 right of a slide and is given a size of 64x64 pixels.
 */
-.icon
-{
+.icon {
 	position:absolute;
 	
 	width:auto;
@@ -90,56 +87,56 @@ right of a slide and is given a size of 64x64 pixels.
 }
 
 /*
-#content expects to be contained in here. #main
+.content expects to be contained in here. .main
 creates a nice, plain surface upon which it can
-appear :)
+appear, spaced appropriately from .title.
 */
-.main
-{
+.main {
 	position:absolute;
 	
-	top:50px;
+	top:45px;
 	left:0px;
 	
 	padding-right:60px;
-	
-	font-size:14px;
 	
 	z-index:12;
 }
 
 /*
-Slide's body text goes here. It appears right below
-the title, at the top of the white area with heavy
-margins around it.
+Slide's body text goes inside here.
 */
-.main .content
-{
+.content {
 	padding-left:16px;
 	padding-right:16px;
 	
-	width:490px;
+	font-size:14px;
+	color:#1E1E1E;
 }
 
-.content ul
-{
+.content ul {
 	margin-top:0px;
-	padding-left:1.8em;
+	padding-left:20px;
 	
-	height:230px;
+	width:490px;
+	height:235px;
 	
 	overflow:auto;
 	
-	list-style-image:url("bullet-point.png");
+	list-style-type:none;
+	list-style-image:none;
 }
 
-.content li
-{
+.content li {
 	padding:0.6em;
+	padding-left:0px;
+}
+.content li:before {
+	content:url("bullet-point.png");
+	margin-left:-20px;
+	float:left;
 }
 
-.content .special
-{
+.content .special {
 	position:absolute;
 	top:240px;
 	left:50px;
@@ -148,8 +145,7 @@ margins around it.
 	font-weight:bold;
 }
 
-.content img.inline
-{
+.content img.inline {
 	height:14px;
 	width:auto;
 }
@@ -159,8 +155,7 @@ The menu-item style is a descriptive aid for pointing the end user at,
 for example, a place in either the system menu or an application menu.
 This way we can provide clear visual cues with minimal babbling.
 */
-.menu-item
-{
+.menu-item {
 	display:inline-block;
 	
 	border-radius:3px;
@@ -185,8 +180,7 @@ This rule applies to an img of class menu-arrow. It appears as a nice
 looking arrow that can separate items in a menu much like how submenus
 look in Ubuntu's GTK theme.
 */
-.menu-item img.menu-arrow
-{
+.menu-item img.menu-arrow {
 	display:inline-block;
 	content:url('menu-arrow.png');
 	
@@ -197,8 +191,7 @@ look in Ubuntu's GTK theme.
 /*
 This rule disables drag-and-drop for images.  See bug #448703.
 */
-img
-{
+img {
  	-webkit-user-drag: none;
 }
 
@@ -219,7 +212,4 @@ img
 	right:0px;
 	padding-right:0px;
 	padding-left:60px;
-}
-.rtl .content ul {
-	list-style-image:url("bullet-point.rtl.png");
 }
