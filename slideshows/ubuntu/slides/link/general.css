@@ -2,7 +2,7 @@ html, body {
 	margin:0;
 	padding:0;
 	
-	background-color:#2e3436;
+	background-color:#393834;
 	
 	font-family:sans-serif;
 	color:#000000;
@@ -20,16 +20,16 @@ a {
 #container {
 	position:absolute;
 	
-	width:700px;
-	height:420px;
+	width:816px;
+	height:500px;
 	
 	overflow:hidden;
 	
-	background-image:url('background.jpg');
+	background-image:url('background.png');
 	background-repeat:no-repeat;
 	background-position:top left;
 	
-	background-color:#fdfdfd;
+	background-color:#EFEEED;
 	
 	/*cursor:default;*/
 }
@@ -37,7 +37,7 @@ a {
 #debug-controls {
 	display:none;
 	position:absolute;
-	top: 440px;
+	top: 540px;
 	width:700px;
 	text-align:center;
 }
@@ -54,16 +54,18 @@ a {
 Title block is positioned at the top of a slide.
 */
 .title {
-	position:absolute;
-	top:15px;
-	left:10px;
+	/* FIXME: This is a horrible hack to keep the title from moving during slide transition */
+	position:fixed; /* was position:absolute */
 	
-	font-size:20px;
+	top:180px;
+	left:36px; /* matches padding of .content and .content ul: 16 + 20 */
+	
+	font-size:28px;
 	font-weight:normal;
 	
 	letter-spacing:-1px;
 	
-	color:#000000;
+	color:#ffffff;
 	
 	padding:0;
 	margin:0;
@@ -74,16 +76,23 @@ Typically an image. This is positioned at the top
 right of a slide and is given a size of 64x64 pixels.
 */
 .icon {
-	position:absolute;
+	/* FIXME: This is a horrible hack to keep the title from moving during slide transition */
+	position:fixed; /* was position:absolute */
 	
 	width:auto;
 	height:auto;
 	
-	bottom:-420px;
-	right:10px;
+	top:100px;
+	left:605px;
 	
 	z-index:11;
 	border:0px;
+}
+.icon.exact {
+	top:69px;
+	left:567px;
+	width:215px;
+	height:auto;
 }
 
 /*
@@ -94,8 +103,11 @@ appear, spaced appropriately from .title.
 .main {
 	position:absolute;
 	
-	top:45px;
+	top:225px;
 	left:0px;
+	
+	width:100%;
+	height:275px;
 	
 	padding-right:60px;
 	
@@ -106,43 +118,42 @@ appear, spaced appropriately from .title.
 Slide's body text goes inside here.
 */
 .content {
-	padding-left:16px;
-	padding-right:16px;
+	padding:16px;
+	padding-top:32px;
 	
 	font-size:14px;
-	color:#1E1E1E;
+	color:#484848;
 }
 
 .content ul {
 	margin-top:0px;
 	padding-left:20px;
 	
-	width:490px;
-	height:235px;
+	/* FIXME: width is severely limited to wrap around logo in last slide */
+	width:600px;
+	height:210px;
 	
 	overflow:auto;
 	
 	list-style-type:none;
-	list-style-image:none;
+	list-style-image:url("bullet-point.png");
 }
 
 .content li {
-	padding:0.6em;
+	padding:8px;
 	padding-left:0px;
 }
-.content li:before {
-	content:url("bullet-point.png");
-	margin-left:-20px;
-	float:left;
-}
 
-.content .special {
-	position:absolute;
-	top:240px;
-	left:50px;
-	width:440px;
+.content .footer {
+	position:relative;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	bottom:10px;
+	text-align:right;
 	
 	font-weight:bold;
+	color:#333333;
 }
 
 .content img.inline {
@@ -201,13 +212,14 @@ img {
 .rtl {
 	direction:rtl;
 }
-.rtl .title {
+/* TODO: NEED reversed title and icon for RTL */
+/*.rtl .title {
 	right:10px;
-}
-.rtl .icon {
+}*/
+/*.rtl .icon {
 	left:10px;
 	right:auto;
-}
+}*/
 .rtl .main {
 	right:0px;
 	padding-right:0px;
