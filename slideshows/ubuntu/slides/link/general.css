@@ -129,8 +129,7 @@ Slide's body text goes inside here.
 	margin-top:0px;
 	padding-left:20px;
 	
-	/* FIXME: width is severely limited to wrap around logo in last slide */
-	width:600px;
+	width:650px;
 	height:210px;
 	
 	overflow:auto;
@@ -142,6 +141,12 @@ Slide's body text goes inside here.
 .content li {
 	padding:8px;
 	padding-left:0px;
+}
+/* hack to get the text wrapping around the logo. If we could do this for
+ul :first-line, there would be less room for failure. Oh well... probably better
+than shrinking the whole thing */
+.content li:first-child {
+	width:550px;
 }
 
 .content .footer {
