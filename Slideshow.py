@@ -44,7 +44,7 @@ class SlideshowViewer(webkit.WebView):
 		settings = self.get_settings()
 		#settings.set_property("enable-default-context-menu", False)
 		#TODO: enable-default-context-menu doesn't work yet but should land in the future. See <http://trac.webkit.org/changeset/52087>.
-		settings.set_property("enable-universal-access-from-file-uris", True)
+		settings.set_property("enable-file-access-from-file-uris", True)
 		
 		config_width = int(config.get('Slideshow','width'))
 		config_height = int(config.get('Slideshow','height'))
@@ -151,14 +151,9 @@ slideshow_window = gtk.Window()
 slideshow_window.set_title("Ubiquity Slideshow with Webkit")
 slideshow_window.connect('destroy',gtk.main_quit)
 
-slideshow_window_align = gtk.Alignment()
-slideshow_window_align.set_padding(8,8,8,8)
-#Note there's probably a convention for padding that I'm forgetting here
-slideshow_window.add(slideshow_window_align)
-
 slideshow_container = gtk.VBox()
 slideshow_container.set_spacing(8)
-slideshow_window_align.add(slideshow_container)
+slideshow_window.add(slideshow_container)
 
 slideshow = SlideshowViewer(options.path, locale=options.locale, rtl=options.rtl)
 
@@ -168,8 +163,10 @@ install_progressbar.set_text("Pretending to install. Please wait...")
 install_progressbar.set_fraction(0)
 
 
-slideshow_container.add(install_progressbar)
 slideshow_container.add(slideshow)
+slideshow_container.add(install_progressbar)
+
+slideshow_container.set_child_packing(install_progressbar, True, False, 0, 0)
 
 
 slideshow_window.show_all()
