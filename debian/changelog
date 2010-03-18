@@ -1,11 +1,15 @@
 ubiquity-slideshow-ubuntu (16) UNRELEASED; urgency=low
 
+  [ Dylan McCall ]
   * New look for the Ubuntu slideshow.
   * Updated license details for images in debian/copyright.
   * Larger dimensions for Ubuntu slideshow: 816x500, from 700x420.
   * Removed GIMP build dependency. GIMP scripts in images-source no
     longer to be run at build time; final icons should be added
     manually in source package.
+
+  [ Evan Dandrea ]
+  * Use the official Firefox icon, rather than a generic browser icon.
 
  -- Dylan McCall <dylanmccall@gmail.com>  Fri, 12 Mar 2010 20:06:06 -0800
 
