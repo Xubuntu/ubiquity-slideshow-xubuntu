@@ -20,14 +20,14 @@ a {
 #container {
 	position:absolute;
 	
-	width:816px;
+	width:798px;
 	height:500px;
 	
 	overflow:hidden;
 	
 	background-image:url('background.png');
 	background-repeat:no-repeat;
-	background-position:top left;
+	background-position:top right;
 	
 	background-color:#EFEEED;
 	
@@ -37,7 +37,7 @@ a {
 #debug-controls {
 	display:none;
 	position:absolute;
-	top: 540px;
+	top:540px;
 	width:700px;
 	text-align:center;
 }
@@ -59,8 +59,14 @@ Title block is positioned at the top of a slide.
 	
 	top:180px;
 	left:36px; /* matches padding of .content and .content ul: 16 + 20 */
+
+	/*bottom:284px;
+	width:450px;*/
 	
-	font-size:28px;
+	width:500px;
+	background-color:rgb(255,0,0);
+	
+	font-size:20px;
 	font-weight:normal;
 	
 	letter-spacing:-1px;
@@ -69,6 +75,9 @@ Title block is positioned at the top of a slide.
 	
 	padding:0;
 	margin:0;
+}
+.title:first-line {
+	font-size:28px;
 }
 
 /*
@@ -83,14 +92,14 @@ right of a slide and is given a size of 64x64 pixels.
 	height:auto;
 	
 	top:100px;
-	left:605px;
+	left:587px;
 	
 	z-index:11;
 	border:0px;
 }
 .icon.exact {
 	top:69px;
-	left:567px;
+	left:549px;
 	width:215px;
 	height:auto;
 }
@@ -145,7 +154,7 @@ Slide's body text goes inside here.
 /* hack to get the text wrapping around the logo. If we could do this for
 ul :first-line, there would be less room for failure. Oh well... probably better
 than shrinking the whole thing */
-.content li:first-child {
+.content.wrap-top li:first-child {
 	width:550px;
 }
 
