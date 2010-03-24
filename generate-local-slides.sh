@@ -35,7 +35,7 @@ for locale in $PODIR/*.po; do
 			[ ! -e $localeslides ] && mkdir -p $localeslides
 			
 			# -k 1 -> if there are any translations at all, keep it.
-			po4a-translate -f xhtml -m $slide -p $locale -l $outputslide -k 1
+			po4a-translate -M UTF-8 -f xhtml -m $slide -p $locale -l $outputslide -k 1
 			if ! [ -e "$outputslide" ]; then
 				rmdir $localeslides 2>/dev/null || true
 				echo "              $slidename was not translated for locale $localename"
