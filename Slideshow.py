@@ -22,7 +22,7 @@ class SlideshowViewer(webkit.WebView):
 	@param  locale  Ideal locale to use for the slideshow
 	@param  rtl  True if the given locale should be displayed right-to-left
 	'''
-	def __init__(self, path, locale='c', rtl=False):
+	def __init__(self, path, locale='c', rtl=False, controls=False):
 		self.path = path
 		
 		config = ConfigParser.ConfigParser()
@@ -31,14 +31,17 @@ class SlideshowViewer(webkit.WebView):
 		self.locale = self._find_available_locale(locale)
 		
 		slideshow_main = 'file://' + os.path.join(self.path, 'slides', 'index.html')
+		
 		parameters = ''
+		
+		if controls:
+			parameters += "?controls"
 		if self.locale != 'c': #slideshow will use default automatically
 			parameters += '?locale=' + self.locale
 			if rtl:
 				parameters += '?rtl'
 		
 		webkit.WebView.__init__(self)
-		
 		self.open(slideshow_main+'#'+parameters)
 		
 		settings = self.get_settings()
@@ -136,6 +139,7 @@ default_rtl = False
 parser = OptionParser(usage="usage: %prog [options] [slideshow]")
 parser.add_option("-l", "--locale", help="LOCALE to use for the slideshow", metavar="LOCALE", default=default_locale)
 parser.add_option("-r", "--rtl", action="store_true", help="use output in right-to-left format", default=default_rtl)
+parser.add_option("-c", "--controls", help="True or False to enable controls in the slideshow (you may need to resize the window)", default=True)
 parser.add_option("-p", "--path", help="path to the SLIDESHOW which will be presented", metavar="SLIDESHOW", default=default_path)
 
 (options, args) = parser.parse_args()
@@ -155,7 +159,7 @@ slideshow_container = gtk.VBox()
 slideshow_container.set_spacing(8)
 slideshow_window.add(slideshow_container)
 
-slideshow = SlideshowViewer(options.path, locale=options.locale, rtl=options.rtl)
+slideshow = SlideshowViewer(options.path, locale=options.locale, rtl=options.rtl, controls=options.controls)
 
 install_progressbar = gtk.ProgressBar()
 install_progressbar.set_size_request(-1,30)
