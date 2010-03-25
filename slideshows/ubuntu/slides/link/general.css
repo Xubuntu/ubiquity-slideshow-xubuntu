@@ -50,29 +50,30 @@ a {
 	width:600px;
 }
 
-/*
-Title block is positioned at the top of a slide.
-*/
+/* fixed container to align title */
+.header {
+	position:fixed; /* FIXME: This is a terrible hack to keep the header from moving during a transition */
+	top:0px;
+	height:225px;
+}
+
+/* title block is positioned at the bottom of its parent, which should be .header */
 .title {
-	/* FIXME: This is a horrible hack to keep the title from moving during slide transition */
-	position:fixed; /* was position:absolute */
+	position:absolute;
 	
-	top:180px;
+	bottom:12px;
+	width:510px; /* the ideal width would leave more space on the right */
 	left:36px; /* matches padding of .content and .content ul: 16 + 20 */
 	
-	width:500px;
-	/*bottom:284px;
-	width:450px;*/
-	
-	font-size:20px;
+	font-size:20px; /* applies to all lines except first */
 	font-weight:normal;
 	
 	letter-spacing:-1px;
 	
 	color:#ffffff;
 	
-	padding:0;
-	margin:0;
+	padding:0px;
+	margin:0px;
 }
 .title:first-line {
 	font-size:28px;
@@ -110,11 +111,11 @@ appear, spaced appropriately from .title.
 .main {
 	position:absolute;
 	
-	top:225px;
+	top:212px;
 	left:0px;
 	
 	width:100%;
-	height:275px;
+	height:288px;
 	
 	padding-right:60px;
 	
@@ -137,7 +138,7 @@ Slide's body text goes inside here.
 	padding-left:20px;
 	
 	width:650px;
-	height:210px;
+	height:223px;
 	
 	overflow:auto;
 	
@@ -149,9 +150,8 @@ Slide's body text goes inside here.
 	padding:8px;
 	padding-left:0px;
 }
-/* hack to get the text wrapping around the logo. If we could do this for
-ul :first-line, there would be less room for failure. Oh well... probably better
-than shrinking the whole thing */
+/* hack to get the text wrapping around the icon. If we could do this for
+ul :first-line, there would be less room for failure. */
 .content.wrap-top li:first-child {
 	width:550px;
 }

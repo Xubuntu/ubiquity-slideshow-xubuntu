@@ -45,15 +45,14 @@ class SlideshowViewer(webkit.WebView):
 		self.open(slideshow_main+'#'+parameters)
 		
 		settings = self.get_settings()
-		#settings.set_property("enable-default-context-menu", False)
-		#TODO: enable-default-context-menu doesn't work yet but should land in the future. See <http://trac.webkit.org/changeset/52087>.
+		settings.set_property("enable-default-context-menu", False)
+		#Recent webkit feature. See <http://trac.webkit.org/changeset/52087>.
 		settings.set_property("enable-file-access-from-file-uris", True)
 		
 		config_width = int(config.get('Slideshow','width'))
 		config_height = int(config.get('Slideshow','height'))
 		self.set_size_request(config_width,config_height)
 		
-		self.connect('populate-popup', self._on_populate_popup) #TODO: remove this when the enable-default-context-menu setting reaches us
 		self.connect('navigation-policy-decision-requested', self._on_navigate_decision)
 		self.connect('navigation-requested', self._on_navigate)
 		self.connect('new-window-policy-decision-requested', self._on_new_window_decision)
@@ -109,11 +108,6 @@ class SlideshowViewer(webkit.WebView):
 	
 	def _on_new_window(self, view, frame):
 		return True
-	
-	def _on_populate_popup(self, view, menu):
-		for item in menu:
-			item.destroy()
-
 
 
 def progress_increment(progressbar, fraction):
