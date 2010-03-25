@@ -1,3 +1,15 @@
+ubiquity-slideshow-ubuntu (18) UNRELEASED; urgency=low
+
+  [ Dylan McCall ]
+  * Title aligns by bottom of new .header container (which was added to
+    HTML for each slide). Second line uses smaller text than first line.
+    This means titles can exceed a single line and still look nice.
+  * Updated slides to use .content .wrap-top class when icon exceeds the
+    usual container.   Moved / enlarged content block to fit another
+    line of text without scrolling.
+
+ -- Evan Dandrea <evand@ubuntu.com>  Thu, 25 Mar 2010 16:19:34 +0000
+
 ubiquity-slideshow-ubuntu (17) lucid; urgency=low
 
   [ Evan Dandrea ]
