@@ -3,6 +3,8 @@ ubiquity-slideshow-ubuntu (19) UNRELEASED; urgency=low
   * Add LTS designator to the relevant distributions per
     https://wiki.ubuntu.com/LucidLynx/ReleaseManifest.  The release is
     10.04 LTS, not 10.04.
+  * Reduce the slideshow by 49px from the top of the window, so that it fits
+    better on netbook (1024x600) screens.
 
  -- Evan Dandrea <evand@ubuntu.com>  Fri, 26 Mar 2010 13:10:36 +0000
 

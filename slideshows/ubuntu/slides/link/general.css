@@ -21,7 +21,7 @@ a {
 	position:absolute;
 	
 	width:798px;
-	height:500px;
+	height:451px;
 	
 	overflow:hidden;
 	
@@ -54,7 +54,7 @@ a {
 .header {
 	position:fixed; /* FIXME: This is a terrible hack to keep the header from moving during a transition */
 	top:0px;
-	height:225px;
+	height:176px;
 }
 
 /* title block is positioned at the bottom of its parent, which should be .header */
@@ -90,14 +90,14 @@ right of a slide and is given a size of 64x64 pixels.
 	width:auto;
 	height:auto;
 	
-	top:100px;
+	top:51px;
 	left:587px;
 	
 	z-index:11;
 	border:0px;
 }
 .icon.exact {
-	top:69px;
+	top:20px;
 	left:549px;
 	width:215px;
 	height:auto;
@@ -111,7 +111,7 @@ appear, spaced appropriately from .title.
 .main {
 	position:absolute;
 	
-	top:212px;
+	top:163px;
 	left:0px;
 	
 	width:100%;
