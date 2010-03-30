@@ -71,7 +71,7 @@ function setLocale(locale) {
 		
 		if ( new_url != null ) {
 			anchor.href = new_url;
-			console.log("Using translation at: %s", new_url);
+			/*console.log("Using translation at: "+ new_url);*/
 		}
 	})
 	
