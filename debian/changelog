@@ -1,3 +1,10 @@
+ubiquity-slideshow-ubuntu (20) UNRELEASED; urgency=low
+
+  * Fall back from language variants (e.g. de_DE) to languages (e.g. de)
+    (LP: #476269).
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 01 Apr 2010 01:14:27 +0100
+
 ubiquity-slideshow-ubuntu (19) lucid; urgency=low
 
   * Add LTS designator to the relevant distributions per

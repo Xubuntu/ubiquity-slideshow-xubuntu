@@ -82,7 +82,10 @@ function setLocale(locale) {
 			translated_url = "./loc."+locale+"/"+slide_name;
 		} else {
 			var before_dot = locale.split(".",1)[0];
-			if ( before_dot != null && _translation_exists(slide_name, before_dot) )
+			var before_underscore = before_dot.split("_",1)[0];
+			if ( before_underscore != null && _translation_exists(slide_name, before_underscore) )
+				translated_url = "./loc."+before_underscore+"/"+slide_name;
+			else if ( before_dot != null && _translation_exists(slide_name, before_dot) )
 				translated_url = "./loc."+before_dot+"/"+slide_name;
 		}
 		
