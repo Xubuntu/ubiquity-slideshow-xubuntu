@@ -128,12 +128,11 @@ def progress_increment(progressbar, fraction):
 default_path = os.path.join( os.path.abspath(os.path.dirname(sys.argv[0])) , 'build', 'ubuntu' )
 
 default_locale = locale.getlocale()[0]
-default_rtl = False
 
 parser = OptionParser(usage="usage: %prog [options] [slideshow]")
 parser.add_option("-l", "--locale", help="LOCALE to use for the slideshow", metavar="LOCALE", default=default_locale)
-parser.add_option("-r", "--rtl", action="store_true", help="use output in right-to-left format", default=default_rtl)
-parser.add_option("-c", "--controls", help="True or False to enable controls in the slideshow (you may need to resize the window)", default=True)
+parser.add_option("-r", "--rtl", action="store_true", help="use output in right-to-left format")
+parser.add_option("-c", "--controls", action="store_true", help="Enable controls in the slideshow (you may need to resize the window)")
 parser.add_option("-p", "--path", help="path to the SLIDESHOW which will be presented", metavar="SLIDESHOW", default=default_path)
 
 (options, args) = parser.parse_args()

@@ -37,8 +37,8 @@ a {
 #debug-controls {
 	display:none;
 	position:absolute;
-	top:540px;
-	width:700px;
+	top:470px;
+	width:798px;
 	text-align:center;
 }
 
@@ -47,7 +47,7 @@ a {
 }
 
 #debug-controls input#current-slide {
-	width:600px;
+	width:680px;
 }
 
 /* fixed container to align title */
@@ -62,7 +62,7 @@ a {
 	position:absolute;
 	
 	bottom:12px;
-	width:510px; /* the ideal width would leave more space on the right */
+	width:385px; /* the ideal width would leave more space on the right */
 	left:36px; /* matches padding of .content and .content ul: 16 + 20 */
 	
 	font-size:20px; /* applies to all lines except first */
@@ -80,26 +80,26 @@ a {
 }
 
 /*
-Typically an image. This is positioned at the top
-right of a slide and is given a size of 64x64 pixels.
+Typically an image. This is positioned at the top right of a slide.
+Icons should be 215x156 pixels tall, though some can overflow with a height
+of 215px. The actual content should be 128x128px. (The rest is padding).
 */
 .icon {
 	/* FIXME: This is a horrible hack to keep the title from moving during slide transition */
 	position:fixed; /* was position:absolute */
 	
-	width:auto;
+	top:20px;
+	left:549px;
+	width:215px;
 	height:auto;
-	
-	top:51px;
-	left:587px;
 	
 	z-index:11;
 	border:0px;
 }
-.icon.exact {
-	top:20px;
-	left:549px;
-	width:215px;
+.icon#firefox {
+	top:47px;
+	left:594px;
+	width:auto;
 	height:auto;
 }
 

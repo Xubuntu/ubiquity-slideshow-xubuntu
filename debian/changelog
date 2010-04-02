@@ -1,3 +1,13 @@
+ubiquity-slideshow-ubuntu (21) UNRELEASED; urgency=low
+
+  * Ubuntu slideshow: New icons. Fixes centering (lp:552510).
+  * Added personalize.png and media.png, replacing accessibility.png
+    and rhythmbox.png, respectively.
+  * Small CSS changes: title block is narrower, exception for Firefox
+    icon, removed icon.exact property.
+
+ -- Dylan McCall <dylan@dylan-laptop>  Fri, 02 Apr 2010 12:23:32 -0700
+
 ubiquity-slideshow-ubuntu (20) lucid; urgency=low
 
   * Fall back from language variants (e.g. de_DE) to languages (e.g. de)
