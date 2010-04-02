@@ -137,8 +137,10 @@ Slide's body text goes inside here.
 	margin-top:0px;
 	padding-left:20px;
 	
-	width:650px;
+	width:726px; /* was 650px */
 	height:223px;
+
+	line-height:1.4em;
 	
 	overflow:auto;
 	
