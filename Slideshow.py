@@ -38,8 +38,8 @@ class SlideshowViewer(webkit.WebView):
 			parameters += "?controls"
 		if self.locale != 'c': #slideshow will use default automatically
 			parameters += '?locale=' + self.locale
-			if rtl:
-				parameters += '?rtl'
+		if rtl:
+			parameters += '?rtl'
 		
 		webkit.WebView.__init__(self)
 		self.open(slideshow_main+'#'+parameters)

@@ -226,14 +226,24 @@ img {
 .rtl {
 	direction:rtl;
 }
+.rtl #container {
+	background-image:url('background.rtl.png');
+	background-repeat:no-repeat;
+	background-position:top left;
+}
 /* TODO: NEED reversed title and icon for RTL */
-/*.rtl .title {
-	right:10px;
-}*/
-/*.rtl .icon {
-	left:10px;
-	right:auto;
-}*/
+.rtl .title {
+	left:377px;
+}
+.rtl .icon {
+	/* FIXME: This is a horrible hack to keep the title from moving during slide transition */
+	position:fixed; /* was position:absolute */
+	
+	left:34px;
+}
+.rtl .icon#firefox {
+	left:80px;
+}
 .rtl .main {
 	right:0px;
 	padding-right:0px;

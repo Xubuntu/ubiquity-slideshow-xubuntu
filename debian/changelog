@@ -1,13 +1,14 @@
 ubiquity-slideshow-ubuntu (21) UNRELEASED; urgency=low
 
-  * Ubuntu slideshow: New icons. Fixes centering (lp:552510).
+  * Ubuntu slideshow: New icons. Fixes centering (LP: #552510).
   * Added personalize.png and media.png, replacing accessibility.png
     and rhythmbox.png, respectively.
   * Small CSS changes: title block is narrower, exception for Firefox
     icon, removed icon.exact property.
-  * Firefox icon now points to the correct file (lp:421864).
+  * Firefox icon now points to the correct file (LP: #421864).
+  * Fixed RTL for Ubuntu slideshow (LP: #549357).
 
- -- Dylan McCall <dylanmccall@gmail.com>  Sun, 04 Apr 2010 10:00:15 -0700
+ -- Dylan McCall <dylan@dylan-laptop>  Sun, 04 Apr 2010 14:19:40 -0700
 
 ubiquity-slideshow-ubuntu (20) lucid; urgency=low
 
