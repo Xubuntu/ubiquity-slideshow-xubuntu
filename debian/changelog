@@ -1,5 +1,6 @@
 ubiquity-slideshow-ubuntu (21) UNRELEASED; urgency=low
 
+  [ Dylan McCall ]
   * Ubuntu slideshow: New icons. Fixes centering (LP: #552510).
   * Added personalize.png and media.png, replacing accessibility.png
     and rhythmbox.png, respectively.
@@ -9,7 +10,10 @@ ubiquity-slideshow-ubuntu (21) UNRELEASED; urgency=low
   * Fixed RTL for Ubuntu slideshow (LP: #549357).
   * Fixed RTL for Kubuntu slideshow (LP: #537635).
 
- -- Dylan McCall <dylan@dylan-laptop>  Sun, 04 Apr 2010 14:38:33 -0700
+  [ Jonathan Riddell ]
+  * Update kubuntu-logo.png with new logo
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 06 Apr 2010 18:00:48 +0100
 
 ubiquity-slideshow-ubuntu (20) lucid; urgency=low
 
