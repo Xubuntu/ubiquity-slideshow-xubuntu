@@ -6,6 +6,9 @@ ubiquity-slideshow-ubuntu (22) UNRELEASED; urgency=low
   [ Evan Dandrea ]
   * Add a higher resolution export of the personalize icon.  Thanks
     Daniel Fore!
+  * Update translations from Launchpad.  Remove translations that are
+    not included in localechooser and thus are not available in the
+    installer.
 
  -- Dylan McCall <dylanmccall@gmail.com>  Sat, 10 Apr 2010 12:50:56 -0700
 
