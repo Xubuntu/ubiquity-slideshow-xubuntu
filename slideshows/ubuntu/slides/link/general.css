@@ -6,6 +6,7 @@ html, body {
 	
 	font-family:'UbuntuBeta', 'Bitstream Vera Sans', 'DejaVu Sans', Tahoma, sans-serif;
 	font-size:12px;
+	line-height:1.4em;
 	
 	color:#333333;
 	
@@ -64,12 +65,14 @@ a {
 	padding:0px;
 	
 	font-size:20px; /* applies to all lines except first */
+	line-height:1em;
 	font-weight:normal;
 	
 	color:#DED9CB;
 }
 .title:first-line {
 	font-size:36px;
+	line-height:32px;
 }
 
 .main {
@@ -94,8 +97,6 @@ Slide's body text goes inside here.
 	top:25px;
 	left:36px;
 	width:248px;
-	
-	font-size:12px;
 }
 
 .text > div {
@@ -114,49 +115,11 @@ Slide's body text goes inside here.
 	box-shadow:#999999 0px 0px 5px;
 }
 
-.content ul {
-	margin-top:0px;
-	padding-left:20px;
-
-	line-height:1.4em;
-	
-	overflow:auto;
-	
-	list-style-type:none;
-	list-style-image:url("bullet-point.png");
-}
-
-.content li {
-	padding:8px;
-	padding-left:0px;
-}
-/* hack to get the text wrapping around the icon. If we could do this for
-ul :first-line, there would be less room for failure. */
-.content.wrap-top li:first-child {
-	width:550px;
-}
-
-.content .footer {
-	position:relative;
-	width:100%;
-	padding:0px;
-	margin:0px;
-	bottom:10px;
-	text-align:right;
-	
-	font-weight:bold;
-}
-
-.content img.inline {
-	height:14px;
-	width:auto;
-}
-
 /*
 This rule disables drag-and-drop for images.  See bug #448703.
 */
 img {
- 	-webkit-user-drag: none;
+ 	-webkit-user-drag:none;
 }
 
 
@@ -164,4 +127,14 @@ img {
 /* RTL stuff */
 .rtl {
 	direction:rtl;
+}
+
+.rtl .main > .text {
+	left:auto;
+	right:36px;
+}
+
+.rtl .main > .screenshot {
+	right:normal;
+	left:-2px;
 }
