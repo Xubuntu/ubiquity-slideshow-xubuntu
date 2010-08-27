@@ -101,12 +101,17 @@ Crossfade.prototype = {
 		this.timer.stop(); 
 	},
 	next : function(){
-		this.options.transition.cancel(this);
-		this.cycle();
+		/* we don't want to cancel or overlap the current transition */
+		if (!this.options.transition.is_running) {
+			this.options.transition.cancel(this);
+			this.cycle();
+		}
 	},
 	previous : function() {
-		this.options.transition.cancel(this);
-		this.cycle(-1);
+		if (!this.options.transition.is_running) {
+			this.options.transition.cancel(this);
+			this.cycle(-1);
+		}
 	},
 	cycle : function(dir) {
 		if(!this.ready) { return; }
@@ -228,9 +233,13 @@ Crossfade.Transition.FadeOutFadeIn = {
 	}
 };
 
-Crossfade.Transition.Cover = {
-	className : 'transition-cover',
-	cycle : function(prev, next, show, dir) {
+/* using a more sophisticated object because we need to set a variable from a
+   callback function */
+Crossfade.Transition.Cover = new function () {
+	var me = this;
+	this.is_running = false;
+	this.className = 'transition-cover';
+	this.cycle = function(prev, next, show, dir) {
 		var opt = show.options;
 		
 		var next_x = '700px';
@@ -249,26 +258,30 @@ Crossfade.Transition.Cover = {
 		
 		show.effect = new Effect.Parallel([
 			new Effect.Move(prev, {x:prev_new_x, y:0, mode:'absolute', sync:true}),
-			new Effect.Fade(prev, {sync:true}),
-			new Effect.Move(next, {x:next_new_x, y:0, mode:'absolute', sync:true}),
-			new Effect.Appear(next, {sync:true})],
+			new Effect.Move(next, {x:next_new_x, y:0, mode:'absolute', sync:true})],
 			
 			{ duration: opt.duration,
-			  queue : 'Crossfade',
+			  queue : 'Cover',
+			  afterSetup:function(){
+			  	next.setStyle({opacity:1,display:'block'});
+			  	Crossfade.ready = false;
+			  	me.is_running = true;
+			  },
 			  afterFinish:function(){
 				show.slides.without(next).each(function(s){
 					$(s).setStyle({opacity:0,display:'none'});
 				})
+				me.is_running = false;
 			}}
 		);
-	},
-	cancel : function(show){
+	}
+	this.cancel = function(show){
 		if(show.effect) { show.effect.cancel(); }
-	},
-	prepare : function(show){
+	}
+	this.prepare = function(show){
 		show.slides.each(function(s,i){
 			$(s).setStyle({opacity:(i === 0 ? 1 : 0),visibility:'visible',display:(i === 0 ? 'block' : 'none')});
-		});	
+		});
 	}
 };
 

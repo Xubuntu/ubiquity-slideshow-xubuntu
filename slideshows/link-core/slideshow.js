@@ -16,8 +16,11 @@ link-core/effects.js, link-core/fastinit.js, link-core/crossfade.js
 directory.js (note that this file does not exist yet, but will when the build script runs)
 */
 
-/* TODO: Accept extra parameters from host HTML file!
-         (Perhaps variables defined ahead of time)
+/* Accepts the following parameters using global variables set ahead of time:
+     * SLIDESHOW_SLIDE_INTERVAL (default is 45)
+     * SLIDESHOW_TRANSITION_DURATION (default is 0.5)
+     * SLIDESHOW_LOOP (default is false)
+     * SLIDESHOW_TRANSITION_TYPE (default is Crossfade.Transition.Cover)
 */
 
 window.onDomReady = DomReady;
@@ -26,39 +29,64 @@ function DomReady(fn)
 	document.addEventListener("DOMContentLoaded", fn, false);
 }
 
-
-var options = []; /* this will hold parameters passed to the slideshow */
 var slideshow;
 
 window.onDomReady(function(){
-	parameters = window.location.hash.slice(window.location.hash.indexOf('#') + 1).split('?');
+	var settings = {
+		slide_interval : window.SLIDESHOW_SLIDE_INTERVAL || 45,
+		slide_transition_duration : window.SLIDESHOW_TRANSITION_DURATION || 0.5,
+		loop : window.SLIDESHOW_LOOP || false,
+		transition_type : window.SLIDESHOW_TRANSITION_TYPE || Crossfade.Transition.Cover
+	};
 	
+	var instance_options = []; /* this will hold parameters passed to the slideshow */
+	parameters = window.location.hash.slice(window.location.hash.indexOf('#') + 1).split('?');
 	for(var i = 0; i < parameters.length; i++)
 	{
 		hash = parameters[i].split('=');
-		options.push(hash[0]);
-		options[hash[0]] = hash[1];
+		instance_options.push(hash[0]);
+		instance_options[hash[0]] = hash[1];
 	}
 	
-	if ( options.indexOf('locale') > -1 )
-		setLocale(options['locale']);
+	if ( instance_options.indexOf('locale') > -1 )
+		setLocale(instance_options['locale']);
 	
-	if ( options.indexOf('rtl') > -1 )
+	if ( instance_options.indexOf('rtl') > -1 )
 		loadRTL();
 	
 	
-	Crossfade.setup({autoLoad:false, random:false, interval:45, duration:0.5, loop:false, transition:Crossfade.Transition.Cover });
-	
+	Crossfade.setup({
+		autoLoad:false,
+		random:false,
+		interval:settings.slide_interval,
+		duration:settings.slide_transition_duration,
+		loop:settings.loop,
+		transition:settings.transition_type
+	});
 	slideshow = new Crossfade('slideshow');
 	
-	if ( options.indexOf('controls') > -1 ) {
+	
+	var debug_controls;
+	if ( instance_options.indexOf('controls') > -1 )
+		debug_controls = $('debug-controls');
+	var controls = $('controls') || debug_controls;
+	
+	if (debug_controls) {
+		debug_controls.style.display = "block";
+	}
+	
+	if (controls) {
+		/* we assume #controls contains
+		   #current-slide, #prev-slide and #next-slide */
+		
+		/* TODO: only loop when the user is interacting with the controls; we
+		   should still stop the timer if it reaches the end on its own */
 		slideshow.options.loop = true;
-		$('debug-controls').style.display = "block";
+		
 		$('current-slide').value = slideshow.filenames[0];
 		$('prev-slide').onclick = prevSlide;
 		$('next-slide').onclick = nextSlide;
-		//slideshow.stop();
-	};
+	}
 });
 
 

@@ -14,6 +14,11 @@
 	<script type="text/javascript" src="link-core/fastinit.js"></script>
 	<script type="text/javascript" src="link-core/crossfade.js"></script>
 	<script type="text/javascript" src="directory.js"></script>
+	<script type="text/javascript">
+		SLIDESHOW_SLIDE_INTERVAL = 50;
+		SLIDESHOW_TRANSITION_DURATION = 1;
+		SLIDESHOW_LOOP = true;
+	</script>
 	<script type="text/javascript" src="link-core/slideshow.js"></script>
 </head>
 
@@ -40,10 +45,10 @@
 	</div>
 </div>
 
-<div id="debug-controls">
-<input type="button" id="prev-slide" value="&lt;"/>
-<input type="text"   id="current-slide" />
-<input type="button" id="next-slide" value="&gt;"/>
+<div id="controls">
+<a class="control-arrow" id="prev-slide"></a>
+<a class="control-arrow" id="next-slide"></a>
+<input type="hidden" id="current-slide" />
 </div>
 
 </body>
