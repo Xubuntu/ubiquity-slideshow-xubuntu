@@ -1,3 +1,29 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-size: 100%;
+	font-style:normal;
+	text-decoration:none;
+	font-weight:normal;
+	vertical-align:baseline;
+	background:transparent;
+}
+ol, ul {
+	list-style:none;
+}
+
+
+
 html, body {
 	margin:0;
 	padding:0;
@@ -62,7 +88,7 @@ a {
 	right:0px;
 }
 
-/* fixed container to align title */
+/* Fixed container for a slide's title */
 .header {
 	position:absolute;
 	top:0px;
@@ -71,7 +97,7 @@ a {
 	background-color:#3C3B37;
 }
 
-.header > .title {
+.header > .slidetitle {
 	margin:10px 25px 10px 25px;
 	padding:0px;
 	
@@ -81,7 +107,7 @@ a {
 	
 	color:#DED9CB;
 }
-.title:first-line {
+.slidetitle:first-line {
 	font-size:36px;
 	line-height:32px;
 }
@@ -99,7 +125,8 @@ a {
 }
 
 /*
-Slide's body text goes inside here.
+A slide's body text goes inside here.
+Inner space is 224px wide.
 */
 .main > .text {
 	position:absolute;
@@ -110,8 +137,32 @@ Slide's body text goes inside here.
 
 .text > div {
 	margin-bottom:8px;
-	padding:12px;
+	padding:6px 12px;
 	background-color:#F7F6F6;
+}
+
+.text > div > .subtitle {
+	padding-bottom:2px;
+	margin-bottom:5px;
+	font-size:inherit;
+	font-weight:normal;
+	text-decoration:none;
+	border-bottom:#333333 dotted 1px;
+}
+
+.featured li {
+	padding-bottom:12px;
+}
+.featured li .icon {
+	width:32px;
+	height:auto;
+	margin-right:12px;
+	vertical-align:middle;
+}
+.featured li .caption {
+	display:inline-block;
+	vertical-align:middle;
+	width:169px; /* 224 - 44 - 12 (padding right) */
 }
 
 .main > .screenshot {
@@ -147,3 +198,4 @@ img {
 	right:normal;
 	left:-2px;
 }
+
