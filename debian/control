@@ -18,16 +18,6 @@ Description: Ubiquity slideshow for Ubuntu
  A slideshow intended for the Ubiquity installer, designed as a quick 
  introduction to Ubuntu.
 
-Package: ubiquity-slideshow-ubuntu-upgrade
-Architecture: all
-Provides: ubiquity-slideshow-upgrade
-Conflicts: ubiquity-slideshow-upgrade
-Replaces: ubiquity-slideshow-upgrade
-Depends: ${misc:Depends}
-Description: Ubiquity slideshow for Ubuntu
- A slideshow intended for the Ubuntu upgrade tool, providing an introduction
- to the latest features.
-
 Package: ubiquity-slideshow-kubuntu
 Architecture: all
 Provides: ubiquity-slideshow

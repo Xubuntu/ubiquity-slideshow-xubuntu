@@ -16,6 +16,6 @@ mkpo ()
 }
 
 mkpo "ubuntu"
-mkpo "ubuntu-upgrade"
+mkpo "ubuntu-netbook"
 mkpo "kubuntu"
 mkpo "xubuntu"
