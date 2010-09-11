@@ -133,12 +133,17 @@ Inner space is 224px wide.
 	top:25px;
 	left:36px;
 	width:248px;
+	height:329px; /* 369 - 25 - 15 (for bottom) */
+	overflow:auto;
 }
 
 .text > div {
 	margin-bottom:8px;
 	padding:6px 12px;
 	background-color:#F7F6F6;
+}
+.text > div:last-child {
+	margin-bottom:0px;
 }
 
 .text > div > .subtitle {
@@ -150,19 +155,24 @@ Inner space is 224px wide.
 	border-bottom:#333333 dotted 1px;
 }
 
+.featured ul {
+	display:table;
+}
 .featured li {
+	display:table-row;
+}
+.featured li > * {
 	padding-bottom:12px;
 }
 .featured li .icon {
-	width:32px;
+	display:table-cell;
+	width:24px;
 	height:auto;
-	margin-right:12px;
-	vertical-align:middle;
+	padding-right:12px;
 }
 .featured li .caption {
-	display:inline-block;
+	display:table-cell;
 	vertical-align:middle;
-	width:169px; /* 224 - 44 - 12 (padding right) */
 }
 
 .main > .screenshot {
