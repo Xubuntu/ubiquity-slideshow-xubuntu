@@ -9,40 +9,32 @@
 	
 	<base target="_blank" />
 	
-	<script type="text/javascript" src="link-core/prototype.js"></script>
-	<script type="text/javascript" src="link-core/effects.js"></script>
-	<script type="text/javascript" src="link-core/fastinit.js"></script>
-	<script type="text/javascript" src="link-core/crossfade.js"></script>
+	<script type="text/javascript" src="link-core/jquery.js"></script>
+	<script type="text/javascript" src="link-core/jquery.cycle.all.js"></script>
 	<script type="text/javascript" src="directory.js"></script>
 	<script type="text/javascript">
-		SLIDESHOW_SLIDE_INTERVAL = 50;
-		SLIDESHOW_TRANSITION_DURATION = 0.6;
-		SLIDESHOW_LOOP = true;
+		SLIDESHOW_OPTIONS = {
+			timeout:50000,
+			speed:600,
+		}
 	</script>
 	<script type="text/javascript" src="link-core/slideshow.js"></script>
 </head>
 
 <body>
 
-<div id="container">
-	<div id="slideshow">
-		
-		<!-- Slides go here. Simply place the following snippet
-		in the order you wish it to appear, replacing "MY SLIDE"
-		with the filename of your slide.
-		<div><a href="MY SLIDE" class="load"></a></div> -->
-		<div><a href="welcome.html" class="load"></a></div>
-		<div><a href="usc.html" class="load"></a></div>
-		<div><a href="photos.html" class="load"></a></div>
-		<div><a href="mobilise.html" class="load"></a></div>
-		<div><a href="music.html" class="load"></a></div>
-		<div><a href="email.html" class="load"></a></div>
-		<div><a href="social.html" class="load"></a></div>
-		<div><a href="browse.html" class="load"></a></div>
-		<div><a href="accessibility.html" class="load"></a></div>
-		<div><a href="office.html" class="load"></a></div>
-		<div><a href="gethelp.html" class="load"></a></div>
-	</div>
+<div id="slideshow">
+	<div><a href="welcome.html"></a></div>
+	<div><a href="usc.html"></a></div>
+	<div><a href="photos.html"></a></div>
+	<div><a href="mobilise.html"></a></div>
+	<div><a href="music.html"></a></div>
+	<div><a href="email.html"></a></div>
+	<div><a href="social.html"></a></div>
+	<div><a href="browse.html"></a></div>
+	<div><a href="accessibility.html"></a></div>
+	<div><a href="office.html"></a></div>
+	<div><a href="gethelp.html"></a></div>
 </div>
 
 <div id="controls">

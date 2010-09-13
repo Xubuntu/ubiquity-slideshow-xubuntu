@@ -11,35 +11,35 @@ Please see slides/ubuntu/index.html for an example of this script in use.
 
 
 Dependencies (please load these first):
-link-core/prototype.js
-link-core/effects.js, link-core/fastinit.js, link-core/crossfade.js
+link-core/jquery.js
+link-core/jquery.cycle.all.js
 directory.js (note that this file does not exist yet, but will when the build script runs)
 */
 
-/* Accepts the following parameters using global variables set ahead of time:
-     * SLIDESHOW_SLIDE_INTERVAL (default is 45)
-     * SLIDESHOW_TRANSITION_DURATION (default is 0.5)
-     * SLIDESHOW_LOOP (default is false)
-     * SLIDESHOW_TRANSITION_TYPE (default is Crossfade.Transition.Cover)
+/* Pass parameters by creating a global SLIDESHOW_OPTIONS object, containing
+   any options described at <http://jquery.malsup.com/cycle/options.html>
+   
+   The default callback for cycle.next also checks an extra autopause parameter,
+   which will pause the slideshow when it reaches the end (but doesn't stop it)
 */
-
-window.onDomReady = DomReady;
-function DomReady(fn)
-{
-	document.addEventListener("DOMContentLoaded", fn, false);
-}
 
 var slideshow;
 
-window.onDomReady(function(){
-	var settings = {
-		slide_interval : window.SLIDESHOW_SLIDE_INTERVAL || 45,
-		slide_transition_duration : window.SLIDESHOW_TRANSITION_DURATION || 0.5,
-		loop : window.SLIDESHOW_LOOP || false,
-		transition_type : window.SLIDESHOW_TRANSITION_TYPE || Crossfade.Transition.Cover
+$(document).ready(function() {
+	slideshow = $('#slideshow');
+	
+	var slideshow_options = {
+		fx:'scrollHorz',
+		timeout:45000,
+		speed:500,
+		nowrap:false,
+		autopause:true,
+		manualTrump:false,
 	};
 	
-	var instance_options = []; /* this will hold parameters passed to the slideshow */
+	
+	
+	var instance_options = [];
 	parameters = window.location.hash.slice(window.location.hash.indexOf('#') + 1).split('?');
 	for(var i = 0; i < parameters.length; i++)
 	{
@@ -52,75 +52,72 @@ window.onDomReady(function(){
 		setLocale(instance_options['locale']);
 	
 	if ( instance_options.indexOf('rtl') > -1 )
-		loadRTL();
+		$(document.body).addClass('rtl');
 	
+	loadSlides();
 	
-	Crossfade.setup({
-		autoLoad:false,
-		random:false,
-		interval:settings.slide_interval,
-		duration:settings.slide_transition_duration,
-		loop:settings.loop,
-		transition:settings.transition_type
-	});
-	slideshow = new Crossfade('slideshow');
 	
 	
 	var debug_controls;
 	if ( instance_options.indexOf('controls') > -1 )
-		debug_controls = $('debug-controls');
-	var controls = $('controls') || debug_controls;
+		debug_controls = $('#debug-controls');
+	var controls = $('#controls') || debug_controls;
 	
 	if (debug_controls) {
-		debug_controls.style.display = "block";
+		debug_controls.show();
 	}
 	
 	if (controls) {
 		/* we assume #controls contains
 		   #current-slide, #prev-slide and #next-slide */
+		/*slideshow.options.loop = true;*/ /* TODO: USE CYCLE.NOWRAP */
 		
-		/* TODO: only loop when the user is interacting with the controls; we
-		   should still stop the timer if it reaches the end on its own */
-		slideshow.options.loop = true;
-		
-		$('current-slide').value = slideshow.filenames[0];
-		$('prev-slide').onclick = prevSlide;
-		$('next-slide').onclick = nextSlide;
+		slideshow_options.prev = $('#prev-slide');
+		slideshow_options.next = $('#next-slide');
 	}
+	
+	
+	
+	slideshow_options.after = function(curr, next, opts) {
+		var index = opts.currSlide;
+		/* pause at last slide if requested in options */
+		if ( index == opts.slideCount - 1 && opts.autopause ) {
+			slideshow.cycle('pause'); /* slides can still be advanced manually */
+		}
+	}
+	
+	$.extend(slideshow_options, window.SLIDESHOW_OPTIONS);
+	slideshow.cycle(slideshow_options);
 });
 
 
 function setLocale(locale) {
-	var slideanchors = $$("div#slideshow div a");
-	
-	slideanchors.each(function(anchor) {
-		var slide_name = anchor.readAttribute("href");
-		var new_url = _get_translated_url(slide_name, locale);
+	slideshow.find('div>a').each(function() {
+		var new_url = get_translated_url($(this).attr('href'), locale);
 		
 		if ( new_url != null ) {
-			anchor.href = new_url;
-			/*console.log("Using translation at: "+ new_url);*/
+			$(this).attr('href', new_url);
 		}
 	})
 	
-	function _get_translated_url(slide_name, locale) {
+	function get_translated_url(slide_name, locale) {
 		var translated_url = null
 		
-		if ( _translation_exists(slide_name, locale) ) {
+		if ( translation_exists(slide_name, locale) ) {
 			translated_url = "./loc."+locale+"/"+slide_name;
 		} else {
 			var before_dot = locale.split(".",1)[0];
 			var before_underscore = before_dot.split("_",1)[0];
-			if ( before_underscore != null && _translation_exists(slide_name, before_underscore) )
+			if ( before_underscore != null && translation_exists(slide_name, before_underscore) )
 				translated_url = "./loc."+before_underscore+"/"+slide_name;
-			else if ( before_dot != null && _translation_exists(slide_name, before_dot) )
+			else if ( before_dot != null && translation_exists(slide_name, before_dot) )
 				translated_url = "./loc."+before_dot+"/"+slide_name;
 		}
 		
 		return translated_url;
 	}
 	
-	function _translation_exists(slide_name, locale) {
+	function translation_exists(slide_name, locale) {
 		result = false;
 		try {
 			result = ( directory[locale][slide_name] == true );
@@ -136,14 +133,11 @@ function setLocale(locale) {
 	}
 }
 
-function loadRTL() {
-	document.body.addClassName("rtl")
+
+function loadSlides() {
+	slideshow.children('div').each(function() {
+		url = $(this).children('a').attr('href');
+		$(this).load(url);
+	});
 }
 
-function nextSlide() {
-	slideshow.next();
-}
-
-function prevSlide() {
-	slideshow.previous();
-}

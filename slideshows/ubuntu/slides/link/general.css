@@ -52,13 +52,18 @@ a {
 	text-decoration:none;
 }
 
-#container {
+#slideshow {
 	position:absolute;
 	
 	width:752px;
 	height:442px;
 	
 	overflow:hidden;
+}
+#slideshow > div {
+	position:absolute;
+	width:100%;
+	height:100%;
 }
 
 .control-arrow {
@@ -85,7 +90,7 @@ a {
 }
 .control-arrow#next-slide {
 	background-image:url('arrow-next.png');
-	right:0px;
+	left:719px; /* 752px - 33px */
 }
 
 /* Fixed container for a slide's title */
@@ -117,10 +122,10 @@ a {
 	
 	top:71px; /* 69px + a 2px margin */
 	left:2px; /* 2px margin */
-	height:369px; /* 442px (from #container) - 71px - 2px */
+	height:369px; /* 442px (from #slideshow) - 71px - 2px */
 	width:748px; /* 752px - 2px - 2px */
 	
-	/* TODO: move this to #container if we don't want the background image to move with slides */
+	/* TODO: move this to #slideshow if we don't want the background image to move with slides */
 	background-image:url('background.png');
 }
 
@@ -197,6 +202,15 @@ img {
 /* RTL stuff */
 .rtl {
 	direction:rtl;
+}
+
+.rtl .control-arrow#prev-slide {
+	background-image:url('arrow-next.png');
+	left:719px;
+}
+.rtl .control-arrow#next-slide {
+	background-image:url('arrow-back.png');
+	left:0px; /* 752px - 33px */
 }
 
 .rtl .main > .text {
