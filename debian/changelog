@@ -1,9 +1,13 @@
 ubiquity-slideshow-ubuntu (24) UNRELEASED; urgency=low
 
+  [ Dylan McCall ]
   * New slideshow for Lubuntu, by Julien Lavergne (LP: #614721).
   * New design for Ubuntu desktop slideshow.
   * Removed incomplete ubuntu-upgrade package.
   * Updated transition animation, affecting all packages.
+
+  [ Evan Dandrea ]
+  * Copy review from Roz Strachan.
 
  -- Dylan McCall <dylanmccall@ubuntu.com>  Sun, 29 Aug 2010 14:12:23 -0700
 
