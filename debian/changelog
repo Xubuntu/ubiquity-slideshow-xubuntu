@@ -5,12 +5,13 @@ ubiquity-slideshow-ubuntu (24) UNRELEASED; urgency=low
   * New design for Ubuntu desktop slideshow.
   * Removed incomplete ubuntu-upgrade package.
   * Updated transition animation, affecting all packages.
+  * Moved remnants of ubuntu-netbook work from trunk.
 
   [ Evan Dandrea ]
   * Copy review from Roz Strachan.
   * Freeze exception (LP: #636945).
 
- -- Dylan McCall <dylanmccall@ubuntu.com>  Sun, 29 Aug 2010 14:12:23 -0700
+ -- Dylan McCall <dylanmccall@ubuntu.com>  Mon, 13 Sep 2010 15:50:51 -0700
 
 ubiquity-slideshow-ubuntu (23) maverick; urgency=low
 

@@ -16,7 +16,6 @@ mkpo ()
 }
 
 mkpo "ubuntu"
-mkpo "ubuntu-netbook"
 mkpo "kubuntu"
 mkpo "xubuntu"
 mkpo "lubuntu"
