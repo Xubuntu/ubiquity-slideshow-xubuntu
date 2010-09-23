@@ -1,13 +1,11 @@
 ubiquity-slideshow-ubuntu (26) maverick; urgency=low
 
-  [ Jonathan Riddell ]
   * Kubuntu slideshow: ensure width matches space available in Ubiquity (LP: #628812)
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 23 Sep 2010 15:18:46 +0100
 
 ubiquity-slideshow-ubuntu (25) maverick; urgency=low
 
-  [ Evan Dandrea ]
   * Match the Ubuntu theme's color for the header.
   * Update forgotten translation templates.  Already has a freeze
     exception (LP: #636945).
