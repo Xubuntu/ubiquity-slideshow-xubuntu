@@ -36,6 +36,7 @@ tar -C $WORKING_DIR -zxvf "$1" 1>/dev/null
 save="$pwd"
 cd $WORKING_DIR/po
 for distro in *; do
+	[ -d "$repo/po/$distro" ] || continue
 	cd "$distro"
 	rename 's/.*-//' *.po
 	rm -f *.pot

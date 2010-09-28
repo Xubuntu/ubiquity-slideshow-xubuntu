@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2010-06-25 17:24+0200\n"
-"PO-Revision-Date: 2010-04-13 02:09+0000\n"
+"POT-Creation-Date: 2010-09-16 18:51+0200\n"
+"PO-Revision-Date: 2010-09-14 10:26+0000\n"
 "Last-Translator: Shushi Kurose <md81bird@hitaki.net>\n"
 "Language-Team: Japanese <ja@li.org>\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2010-04-17 09:28+0000\n"
+"X-Launchpad-Export-Date: 2010-09-28 07:20+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
 #. type: Content of: <h1>
@@ -48,8 +49,8 @@ msgstr "<em>設定メニュー</em> では、デスクトップの挙動や外�
 #: slideshows/xubuntu/slides/app-menu.html:9
 msgid "All the applications installed in your system organized by category."
 msgstr ""
-"システムにインストールされたすべてのアプリケーションはカテゴリーごとに整理さ"
-"れています。"
+"システムにインストールされたすべてのアプリケーションはカテゴリごとに整理され"
+"ています。"
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/games.html:1
@@ -90,7 +91,7 @@ msgid ""
 "Games category in <em>Ubuntu Software Center</em>."
 msgstr ""
 "Ubuntu リポジトリにはインストールできるゲームがもっとあります。<em>Ubuntuソフ"
-"トウェアセンター</em> のゲームのカテゴリーを参照してください。"
+"トウェアセンター</em> のゲームのカテゴリを参照してください。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/games.html:11
@@ -113,7 +114,7 @@ msgid ""
 "menu available in most applications."
 msgstr ""
 "ヘルプが必要な場合は、アプリケーションメニューにある <em>ヘルプ</em> か、ほと"
-"んどのアプリケーションで利用可能な ヘルプ メニューを参照してみてください。"
+"んどのアプリケーションで利用可能なヘルプメニューを参照してみてください。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/getting-help.html:7
@@ -136,7 +137,7 @@ msgid ""
 "help\">Help & Support page</a> on our website."
 msgstr ""
 "受けられるサポートのリストは、私たちのウェブサイト <a href=\"http://xubuntu."
-"org/help\">ヘルプ & サポート ページ</a> で見ることができます。"
+"org/help\">ヘルプ & サポートページ</a> で見ることができます。"
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/more-apps.html:1
@@ -150,9 +151,9 @@ msgid ""
 "that allows as much or as little manipulation of the images as you choose. "
 "It can be used to construct images or modify photos and images."
 msgstr ""
-"<em>GIMP</em> (アプリケーション &rarr; グラフィックス) は、大なり小なり好きな"
-"ように画像を編集することができる画像エディタです。GIMPでは、画像を作成したり"
-"写真や画像を修正することができます。"
+"<em>GIMP</em> (アプリケーション &rarr; グラフィックス) は、好きなように画像を"
+"編集することができる画像エディタです。GIMPでは、画像を作成したり写真や画像を"
+"修正することができます。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/more-apps.html:7
@@ -305,9 +306,8 @@ msgstr "おめでとうございます!"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/welcome.html:6
-#, fuzzy
 msgid "You have chosen to install the latest version of Xubuntu, 10.10."
-msgstr "最新バージョンの Xubuntu 10.04 のインストールが選択されました。"
+msgstr "最新版の Xubuntu (10.10) をインストールしようとしています。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/welcome.html:7
@@ -325,6 +325,9 @@ msgid ""
 "free to examine things as it installs. After the installation, the desktop "
 "will look much the same as it does now."
 msgstr ""
+"Xubuntu デスクトップ CD を利用してこのソフトウェアをインストールしているの"
+"で、インストールの際に気軽に試してみてください。インストール後も、デスクトッ"
+"プは今と似たような外観になります。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/welcome.html:10
@@ -332,6 +335,8 @@ msgid ""
 "We truly hope that you enjoy using this distribution as much as we enjoy "
 "bringing it to you."
 msgstr ""
+"私たちがお届けするのを楽しんだように、あなたがこのディストリビューションを利"
+"用することを楽しんでいただけるよう、心から願っております。"
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/xfce.html:1
@@ -370,3 +375,6 @@ msgid ""
 "To learn more about Xfce, look in <em>Applications &rarr; About Xfce &rarr; "
 "Info</em> or on the <a href=\"http://xfce.org/\">Xfce website</a>."
 msgstr ""
+"Xfce の詳細について知るには、<em>アプリケーション &rarr; Xfce について "
+"&rarr; 情報</em> もしくは <a href=\"http://xfce.org/\">Xfce ウェブサイト</a> "
+"を参照してください。"

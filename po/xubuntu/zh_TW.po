@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2010-06-25 17:24+0200\n"
-"PO-Revision-Date: 2010-04-12 05:53+0000\n"
-"Last-Translator: jacksonfom <Unknown>\n"
+"POT-Creation-Date: 2010-09-16 18:51+0200\n"
+"PO-Revision-Date: 2010-07-30 15:08+0000\n"
+"Last-Translator: Kevin-Wei-2 <kevin_wei3@yahoo.com.tw>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2010-04-17 09:28+0000\n"
+"X-Launchpad-Export-Date: 2010-09-28 07:20+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
 #. type: Content of: <h1>
@@ -40,7 +41,7 @@ msgstr "<em>Ubuntu 軟體中心</em>，讓您可以隨心所欲加入或移除�
 msgid ""
 "<em>Settings menu</em>, where you can control how your desktop works and "
 "looks."
-msgstr ""
+msgstr "<em>設定</em> 選單，在該處您可以控制您桌面的運作方式與其外觀。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/app-menu.html:9
@@ -67,6 +68,7 @@ msgid ""
 "Take a look at <em>Quadrapassel</em> (Applications &rarr; Games) for a "
 "Tetris look-alike."
 msgstr ""
+"來看看<em>Quadrapassel</em> (在應用程式 &rarr; 遊戲)，類似俄羅斯方塊的遊戲。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/games.html:8
@@ -91,7 +93,7 @@ msgstr ""
 msgid ""
 "There are a bunch of games available on the live CD as well, which you can "
 "enjoy while installing. Have fun!"
-msgstr ""
+msgstr "除此之外，在 live CD 中亦有大量的遊戲供您在安裝時享受。祝您玩得愉快！"
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/getting-help.html:1
@@ -104,6 +106,8 @@ msgid ""
 "If you need help, try <em>Help</em> in the Applications menu, or the help "
 "menu available in most applications."
 msgstr ""
+"如果您需要幫助，請試看看應用程式選單的<em>說明</em>，或者是使用在大多數應用程"
+"式都有的說明選單。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/getting-help.html:7
@@ -149,6 +153,8 @@ msgid ""
 "capable of playing all your music, from mp3 to CD to live radio on the "
 "internet."
 msgstr ""
+"欲享受聆聽的樂趣，試試<em>Exaile Music Player</em>。它能播放您所有的音樂，從 "
+"MP3、音樂CD、到網路廣播電台通通都可以。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/more-apps.html:8
@@ -156,6 +162,8 @@ msgid ""
 "If you need to burn a CD or DVD, check out <em>Brasero</em>. It is very easy "
 "to use and will even burn the Xubuntu image for you."
 msgstr ""
+"若您需燒錄CD或DVD，試用看看<em>Brasero</em>。它易於使用，甚至可以為您燒錄"
+"Xubuntu的映像檔。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/more-apps.html:10
@@ -163,7 +171,7 @@ msgstr ""
 msgid ""
 "All of these applications are available on the live CD, even while "
 "installing. Be adventurous!"
-msgstr ""
+msgstr "這些應用程式在 live CD 上即使是在安裝中都是可以使用的。來探索它們吧！"
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/new-to-linux.html:1
@@ -187,6 +195,8 @@ msgid ""
 "try out the new software. We think you will be amazed at the few things you "
 "need to add."
 msgstr ""
+"在安裝完成後，花幾分鐘、幾小時或幾天去試試新軟體，我們相信您會很驚訝的發現其"
+"實不用另外安裝很多軟體。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/new-to-linux.html:8
@@ -194,6 +204,8 @@ msgid ""
 "If you find yourself wanting something else, please check the <em>Ubuntu "
 "Software Center</em> out. It is much easier than searching the internet."
 msgstr ""
+"若您有其他的軟體需求，請到<em> Ubuntu 軟體中心</em> 去逛一逛。這比在網路中漫"
+"無目的的搜尋要簡單多了"
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/office.html:1
@@ -233,6 +245,8 @@ msgid ""
 "For power users, the OpenOffice.org suite is available in just a few clicks "
 "– just install it from the Ubuntu Software Center."
 msgstr ""
+"對於進階的使用者，若想安裝 OpenOffice.org 套件，可以在 Ubuntu 軟體中心找到它 "
+"- 然後只要簡單的按幾下滑鼠就可以完成安裝。"
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/tips-beginners.html:1
@@ -246,6 +260,9 @@ msgid ""
 "any program on your system – one you lost on the menu or even one you didn't "
 "know existed!"
 msgstr ""
+"使用應用程式搜尋器 (你可以在 Applications &rarr; Accessories 裡找到它) 來執行"
+"任何你系統裡的程式 - 就算是不在選單內或是您根本不知道有它的存在的程式都可以執"
+"行！"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/tips-beginners.html:7
@@ -262,6 +279,8 @@ msgid ""
 "Also in the accessories, you can find a slick calculator. Need to calculate "
 "disk partitions? Use the calculator, it couldn't be easier."
 msgstr ""
+"一樣在 Accessories 中，您可以找到一個介面平滑的計算機。需要計算分割區嗎?使用"
+"計算機這個小工具，沒有比它更簡單的了。"
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/welcome.html:1
@@ -270,9 +289,8 @@ msgstr "恭喜!"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/welcome.html:6
-#, fuzzy
 msgid "You have chosen to install the latest version of Xubuntu, 10.10."
-msgstr "您選擇安裝最新版的 Xubuntu，10.04。"
+msgstr "您已經選擇並開始安裝了一個 Xubuntu 的最新版本，10.10"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/welcome.html:7
@@ -290,6 +308,8 @@ msgid ""
 "free to examine things as it installs. After the installation, the desktop "
 "will look much the same as it does now."
 msgstr ""
+"在您用 Xubuntu Desktop CD 安裝系統的時候，請放心去試試各種的功能。在安裝完成"
+"以後，系統外觀大概就是你現在看到的這樣。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/welcome.html:10
@@ -317,7 +337,7 @@ msgstr ""
 msgid ""
 "Xfce is a collection of programs that together provide a full-featured "
 "desktop environment."
-msgstr ""
+msgstr "Xfce 是個由很多程式組合起來的全功能桌面環境。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/xfce.html:8
@@ -326,6 +346,8 @@ msgid ""
 "programmers create applications that fit in well with the desktop "
 "environment."
 msgstr ""
+"Xfce 也同時是個帶有許多函式庫的開發環境。開發者可以以此來創造出各種和桌面環境"
+"緊緊相關的軟體。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/xfce.html:9
@@ -333,3 +355,5 @@ msgid ""
 "To learn more about Xfce, look in <em>Applications &rarr; About Xfce &rarr; "
 "Info</em> or on the <a href=\"http://xfce.org/\">Xfce website</a>."
 msgstr ""
+"想更深入瞭解 Xfce 嗎？ 請參見 <em>Applications &rarr; 關於 Xfce &rarr; 詳情</"
+"em> 或是直接到 <a href=\"http://xfce.org/\">Xfce 官方網站</a>."

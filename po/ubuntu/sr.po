@@ -7,432 +7,541 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2010-06-25 17:24+0200\n"
-"PO-Revision-Date: 2010-04-09 19:17+0000\n"
-"Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
+"POT-Creation-Date: 2010-09-16 18:51+0200\n"
+"PO-Revision-Date: 2010-06-25 22:23+0000\n"
+"Last-Translator: Николић М. <miroslavnikolic@rocketmail.com>\n"
 "Language-Team: Serbian <sr@li.org>\n"
+"Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2010-04-17 09:28+0000\n"
+"X-Launchpad-Export-Date: 2010-09-28 07:20+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Accessibility in Ubuntu"
-msgstr "Убунту приступачност"
-
-#.  "your" refers to a large group that includes the reader. 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/accessibility.html:6
-msgid ""
-"We want to make computers work for everyone, whatever your physical "
-"circumstances. So, we provide tools that make Ubuntu one of the most "
-"accessible operating systems around."
+msgid "Customize Ubuntu"
 msgstr ""
-"Желимо свакоме да омогућимо коришћење рачунара, без обзира на ваше физичке "
-"способности. Тако, обезбеђујемо алате који чине Убунту једним од "
-"најприступачнијих оперативних система у окружењу."
 
-#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/accessibility.html:7
-msgid ""
-"You can get at these tools in one place: the <em>Assistive Technologies "
-"Preferences</em>, inside the System Menu. From there, you can turn on "
-"helpful tools like <em>Orca</em>, to speak text on the screen, or dwell "
-"click to press mouse buttons automatically."
-msgstr ""
-"Можете добити ове алате на једном месту: <em>Асистивне Технологије "
-"Подешавања </em>, унутар Систем Менија. Одатле, можете да покренете користан "
-"алат као што је <em>Орка</em>, да говори текст са екрана, или подеси клик да "
-"аутоматски притисне тастер миша."
-
-#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/accessibility.html:8
 msgid ""
-"Remember to check out the <em>Appearance Preferences</em>, too. You can "
-"choose between different visual styles and even change the fonts that are "
-"used by applications."
+"At the heart of Ubuntu&#8217;s philosophy is the belief that computing is "
+"for everyone. With advanced accessibility tools and hundreds of options like "
+"your preferred fonts, color schemes and languages, Ubuntu provides the "
+"flexibility to fit real people, whoever they are."
 msgstr ""
-"Не заборавите да изаберете <em>Подешавање Изгледа</em>. Можете да изаберете "
-"један од неколико визуелних ефеката и чак да промените фонтове коришћене у "
-"апликацијама."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/accessibility.html:12
+msgid "Customization options"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/accessibility.html:16
+msgid "Appearance preferences"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/accessibility.html:20
+msgid "Assistive technologies"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/accessibility.html:24
+msgid "Language support"
+msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/documentation.html:1
-msgid "Getting Help with Ubuntu"
-msgstr "Добити помоћи уз Убунту"
+#: slideshows/ubuntu/slides/browse.html:1
+msgid "Browse the web"
+msgstr ""
 
-#.  The string "Help and Support" should be exactly as it appears in the System menu. 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/documentation.html:6
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/browse.html:8
 msgid ""
-"If you need help, try <em>Help and Support</em> from the System menu, or the "
-"<em>Help</em> menu in most applications."
+"Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+"choose alternative browsers from Ubuntu Software Center."
 msgstr ""
-"Aко вам је потребна помоћ, пробајте <em>Помоћ и Подршка</em> из менија "
-"Система, или <em>Помоћ</em> мени у скоро свим апликацијама."
 
-#.  The url "ubuntu.com/support" should not be translated 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/documentation.html:7
-msgid ""
-"In addition to our extensive written help, the Ubuntu community provides "
-"free technical support in person and over the Internet. There is also "
-"commercial support available through Canonical, its partners and approved "
-"companies. Learn more at <a href=\"http://www.ubuntu.com/support\">ubuntu."
-"com/support</a>."
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/browse.html:12
+#: slideshows/ubuntu/slides/email.html:12
+#: slideshows/ubuntu/slides/music.html:12
+#: slideshows/ubuntu/slides/office.html:12
+#: slideshows/ubuntu/slides/photos.html:12
+msgid "Included software"
 msgstr ""
-"Као додатак нашој опширној помоћи у писаном облику, Убунту заједница "
-"обезбеђује бесплатну техничку помоћ, како у особљу тако и на Интернету. Ту "
-"је такође и комерцијална подршка коју обезбеђује Каноникал, њихов партнер и "
-"потврђена компанија. Сазнајте нешто више на <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
 
-#.  The url "ubuntu.com/community" should not be translated 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/documentation.html:8
-msgid ""
-"Let us know about your Ubuntu experience at <a href=\"http://ubuntu.com/"
-"community\">ubuntu.com/community</a>!"
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/browse.html:16
+msgid "Firefox web browser"
 msgstr ""
-"Опишите нам ваше Убунту искуство на <a href=\"http://ubuntu.com/community"
-"\">ubuntu.com/community</a>!"
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/documentation.html:10
-msgid "The installation will finish soon. We hope you enjoy Ubuntu."
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/browse.html:19
+#: slideshows/ubuntu/slides/email.html:27
+msgid "Supported software"
 msgstr ""
-"Инсталација ће ускоро бити завршена. Надамо се да ћете уживати у Убунту."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/browse.html:23
+msgid "Flash"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/browse.html:27
+msgid "Google Chrome"
+msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/empathy.html:1
+#: slideshows/ubuntu/slides/email.html:1
+msgid "Email and chat"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/email.html:8
+msgid ""
+"Use Empathy to get chatting with your accounts from Yahoo, Facebook, Gmail, "
+"MSN, Jabber and many more. Set your status and reach all your instant "
+"messaging contacts from a single place."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/email.html:16
+msgid "Empathy IM"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/email.html:20
+msgid "Evolution Mail"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/email.html:24
+msgid "Gwibber Microblogging"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/email.html:31
+msgid "Skype"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/gethelp.html:1
+msgid "Get help with Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:8
+msgid ""
+"Ubuntu is designed to be easy and safe, so don&#8217;t hesitate to explore! "
+"If you have any questions, try the Help menu in most applications or <a href="
+"\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore your "
+"other options. We hope you enjoy Ubuntu."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/mobilise.html:1
+msgid "Mobilize your digital life"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/mobilise.html:8
+msgid ""
+"All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu One</"
+"a> account. Ubuntu One allows you to sync all kinds of files online so you "
+"can access them anywhere. Sync bookmarks, contacts, music and pictures "
+"across all your computers. Take everything everywhere with Ubuntu One."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/music.html:1
+msgid "Buy music while you listen"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/music.html:8
+msgid ""
+"Ubuntu&#8217;s music player includes a built-in store, so you can buy and "
+"download new tracks with a few clicks. Thanks to Ubuntu One&#8217;s file-"
+"syncing magic you can store your music online and listen to it from other "
+"computers. You can add your music to a portable music player, too; just plug "
+"it in to get started."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:16
+msgid "Rhythmbox Music Player"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:20
+msgid "Ubuntu One Music Store"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/office.html:1
+msgid "Create documents and presentations"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/office.html:8
+msgid ""
+"OpenOffice.org is fully compatible with Microsoft Office and has everything "
+"you need to create professional documents, spreadsheets and presentations. "
+"OpenOffice.org is easy to use, packed with the features you need and "
+"completely free."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/office.html:16
+msgid "OpenOffice.org"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/office.html:20
+msgid "Tomboy Notes"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/photos.html:1
+msgid "View, store and edit photos"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/photos.html:8
+msgid ""
+"Ubuntu is ready for all your gadgets. Just connect your phones or cameras to "
+"get started. Shotwell makes it easy to organize your digital photos and "
+"share them on Picasa, Facebook or Flickr. For advanced photo editing, you "
+"can find more free applications in Ubuntu Software Center."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/photos.html:16
+msgid "Shotwell Photo Manager"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/photos.html:20
+msgid "Pitivi Video Editor"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/social.html:1
 msgid "Social from the start"
 msgstr "Дружите се од почетка"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/empathy.html:6
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/social.html:8
 msgid ""
-"From the start, Ubuntu connects to online chat and broadcast services "
-"including Facebook, Twitter, Windows Live and Google Talk."
+"With the Me Menu, being sociable has never been so easy. Use it to instantly "
+"post updates on sites like Facebook and Twitter. New messages appear in the "
+"messaging menu so you can respond when you want."
 msgstr ""
-"Од самог почетка, Убунту повезује на услуге ћаскања уживо или услуге "
-"емитовања укључујући  ''Facebook, Twitter, Windows Live и Google Talk''."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/empathy.html:7
-msgid ""
-"Click the envelope near the clock to log in to your accounts. New messages "
-"appear there, too, so you can see what's happening at a glance."
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/social.html:12
+msgid "Supported services"
 msgstr ""
-"Кликните на коверту близу сата да бисте се пријавили на ваше налоге. Нове "
-"поруке се приказују оде, такође, тако да у истом тренутку можете видети шта "
-"се дешава."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/empathy.html:8
-msgid ""
-"If you're busy, click your name at the top of the screen to change your "
-"status."
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/social.html:16
+msgid "Twitter"
 msgstr ""
-"Ако сте заузети, кликните на ваше име на врху екрана да бисте променили ваш "
-"статус."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/social.html:20
+msgid "Facebook"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/social.html:24
+msgid "Identi.ca"
+msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/evolution.html:1
-msgid "Control your digital life"
-msgstr "Контролишите ваш дигитални живот"
+#: slideshows/ubuntu/slides/usc.html:1
+msgid "Get free software"
+msgstr ""
 
-#.  "Evolution Mail" should be the exact name of the Evolution launcher inside the Internet menu or the indicator applet. 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/evolution.html:6
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"<em>Evolution Mail</em> is the fully-featured email and calendar software "
-"that comes with Ubuntu. Just enter your email account information and it "
-"will download new messages automatically."
+"Ubuntu Software Center gives you instant access to thousands of free, open-"
+"source applications. Browse categories including Education, Games, Graphics "
+"and Science. Software is easy to find, easy to install and easy to remove."
 msgstr ""
-"<em>Еволуција Пошта</em> је потпуно функционалан софтвер е-поште и календара "
-"који долази са Убунту. Само унесите информације о налогу е-поште и он ће "
-"аутоматски преузети нове поруке."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/evolution.html:7
-msgid ""
-"Evolution has a powerful junk mail filter. You can use the search box, or "
-"create your own filters, to make sorting mail quick and easy."
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/usc.html:12
+msgid "Featured software"
 msgstr ""
-"Еволуција има моћан филтер за непожељну пошту. Можете да користите оквир за "
-"претрагу, или да креирате сопствене филтере, да бисте учинили сортирање "
-"поште брзим и лаким."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/evolution.html:8
-msgid ""
-"Add your favorite Web calendars to see upcoming games or movie releases. To "
-"see your daily schedule, just click the clock at the top of your screen."
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/usc.html:16
+msgid "GIMP – Advanced image editing for photographers and graphic designers"
 msgstr ""
-"Додајте ваше омиљене Веб календаре да бисте видели новопристигле игре или "
-"најновија филмска издања. Да бисте видели ваш дневни план, једноставно "
-"кликните на сат на горњем делу вашег екрана."
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/firefox.html:1
-msgid "Browse the web with Firefox"
-msgstr "Претражујте интернет с Фајерфоксом"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/firefox.html:6
-msgid "Ubuntu comes with the widely acclaimed <em>Firefox web browser</em>."
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/usc.html:20
+msgid "Jokosher – Your very own home recording studio"
 msgstr ""
-"Убунту долази са широм признатим <em>Фајерфоксом веб претраживачем</em>."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/firefox.html:7
-msgid ""
-"It protects your privacy and personal information so you can surf worry free."
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/usc.html:24
+msgid "Stellarium – A 3D planetarium for your computer"
 msgstr ""
-"Он штити вашу приватност и личне податке тако да можете безбрижно да "
-"претражујете."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/firefox.html:8
-msgid ""
-"Give Firefox your own personal touch with addons. You can choose from "
-"thousands of themes and extensions that tailor it to how you use the web."
-msgstr ""
-"Дајте Фајерфоксу ваш лични додир додацима. Можете да изаберете од хиљаду "
-"тема и проширења које ће га прилагодити према томе како ви користите "
-"интернет."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/fspot.html:1
-msgid "Share and enjoy your photos"
-msgstr "Размењујте и уживајте ваше фотографије"
-
-#.  "F-Spot Photo Manager" should be the exact name that is used for F-Spot in the Applications menu 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/fspot.html:6
-msgid ""
-"With <em>F-Spot Photo Manager</em>, it is really easy to share, touch-up and "
-"organize digital photos."
-msgstr ""
-"Користећи <em>Ф-Спот Фото Менаџер</em>, заиста је једноставно размењивати, "
-"преправљати и организовати дигиталне фотографије."
-
-#.  Instead of directly translating the word "tags," please use the exact name of the feature in F-Spot for your locale. (Tags are used to label photos). 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/fspot.html:7
-msgid ""
-"Use tags to describe your photos so that they are easy to find later on."
-msgstr ""
-"Користите ознаке за описивање ваших фотографија тако да их касније можете "
-"пронаћи с лакоћом."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/fspot.html:8
-msgid ""
-"Use the Export option to write your photos to CDs, email them to friends or "
-"share them online."
-msgstr ""
-"Користите опцију ''Упути ка'' да бисте записали своје фотографије на ЦД, "
-"слали их пријатељима е-поштом или их размењивали на интернету."
-
-#.  Graphics Applications refers to the Graphics submenu, and then the main Applications menu. 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/fspot.html:9
-msgid ""
-"To get started, choose F-Spot from the Graphics Applications menu or attach "
-"a digital camera and follow the prompts."
-msgstr ""
-"Да бисте почели, изаберите Ф-Спот из менија Графичких Апликација или "
-"прикључите дигитални камеру и пратите упуте."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/installing-software.html:1
-msgid "Getting more software"
-msgstr "Добавити још софтвера"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/installing-software.html:6
-msgid ""
-"If you need something else, try the <em>Ubuntu Software Center</em> to "
-"choose from thousands of extras you can download for free."
-msgstr ""
-"Ако вам треба нешто друго, пробајте <em>Убунту Софтверски Центар</em> да "
-"бисте изабрали од хиљаду додатних софтвера које можете преузети бесплатно."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/installing-software.html:7
-msgid ""
-"There are powerful applications for all sorts of interests, from programming "
-"to creating music and exploring the universe. Take a look at the "
-"<em>Featured Applications</em> section for some of our favourites!"
-msgstr ""
-"Ту постоје моћне апликација за све врсте интереса, од програмирања до "
-"стварања музике и истраживање свемира. Погледајте <em>Издвојени Програми</"
-"em> за неке од наших омиљених!"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/installing-software.html:8
-msgid ""
-"Everything in Software Center is stored in our online repository. We are "
-"careful to keep it safe and updates will be delivered directly to you."
-msgstr ""
-"Све из Софтверског Центра је смештено у нашем интернет репозиторијуму. "
-"Бринемо се о томе да га одржавамо безбедним а допуне ће вам бити директно "
-"испоручене."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/openoffice.html:1
-msgid "Office tools at your fingertips"
-msgstr "Канцеларијски алати надохват руке"
-
-#.  "OpenOffice.org" does not refer to a particular menu item, but it a name shared in common between all of the OpenOffice components in the Applications menu. 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/openoffice.html:6
-msgid ""
-"Ubuntu comes with <em>OpenOffice.org</em>, a powerful office software suite "
-"that is easy to understand."
-msgstr ""
-"Убунту долази са <em>OpenOffice.org</em>, моћним пакетом канцеларијских "
-"софтвера који је лако разумети."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/openoffice.html:7
-msgid "It helps you create documents, presentations, diagrams and databases."
-msgstr ""
-"Помаже вам да креирате документе, презентације, дијаграме и базе података."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/openoffice.html:8
-msgid ""
-"OpenOffice.org uses the standard OpenDocument file format. It opens files "
-"from other office applications like Microsoft Office and WordPerfect."
-msgstr ""
-"OpenOffice.org користи стандардни ОпенДокумент формат датотеки. Отвара "
-"датотеке из других пословних апликација као што су Microsoft Office и "
-"WordPerfect."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/rhythmbox-totem.html:1
-msgid "Entertainment with music and movies"
-msgstr "Забава уз музику и филмове"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/rhythmbox-totem.html:6
-msgid ""
-"Ubuntu is ready to play music and videos from the web, from CDs and DVDs."
-msgstr ""
-"Убунту је спреман за репродукцију музике и видеа са Интернета, са ЦД-а и ДВД-"
-"а."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/rhythmbox-totem.html:7
-msgid ""
-"The <em>Rhythmbox Music Player</em> lets you organize your music, listen to "
-"Internet radio, and purchase a variety of songs. Manage your podcast "
-"subscriptions and automatically download new episodes."
-msgstr ""
-"<em>Ритамбокс Музички Плејер</em> вам омогућава да организујете вашу музику, "
-"слушате интернет радио, и купујете разне песме. Управљајте вашим подкаст "
-"претплатама и аутоматски преузимајте нове епизоде."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/rhythmbox-totem.html:8
-msgid ""
-"Discover popular, DRM-free music available for purchase from the <em>Ubuntu "
-"One Music Store</em>, a cloud-enabled digital music store. Purchases are "
-"automatically stored in the cloud and synchronised across all of your "
-"computers."
-msgstr ""
-"Откријте популарну, ДРМ-слободну музику доступну за куповину на <em>Убунту "
-"Један Музичкој Радњи</em>, облаком-омогућеној дигиталној музичкој радњи. "
-"Куповине се аутоматски чувају у облаку и синхронизују на свим вашим "
-"рачунарима."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/rhythmbox-totem.html:9
-msgid ""
-"Plug in an MP3 player to start synchronizing your music collection, or "
-"insert a CD to copy songs to your computer."
-msgstr ""
-"Прикључите МП3 плејер да бисте започели синхронизацију ваше музичке "
-"колекције, или убаците ЦД да бисте ископирали песме на ваш рачунар."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/ubuntuone.html:1
-msgid "Keep your digital life in sync"
-msgstr "Држите ваш дигитални живот у синхронизацији"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/ubuntuone.html:6
-msgid ""
-"Shuffle between your laptop, netbook, and company desktop and find "
-"everything you need automatically synchronised. Your documents, music, "
-"bookmarks, address book, and notes – everything goes where you go with "
-"<em>Ubuntu One</em>."
-msgstr ""
-"Користите ваш лаптоп, нетбук, и десктоп фирме и пронађите све што вам је "
-"потребно аутоматски синхронизовани. Ваши документи, музика, маркери, "
-"адресари, и бележнице - све иде где идете ви са <em>Убунту Један</em>."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/ubuntuone.html:7
-msgid ""
-"Want a safe home for your important files? All Ubuntu users get 2 GB of "
-"personal cloud storage for free (and more if you need it)."
-msgstr ""
-"Желите ли сигуран дом за ваше важне датотеке? Сви Убунту корисници добијају "
-"бесплатно 2 GB личног облака за складиштење (и више ако је потребно)."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/ubuntuone.html:8
-msgid ""
-"Share folders using your synchronised address book. Project collaboration "
-"has never been easier."
-msgstr ""
-"Размењујте директоријуме користећи ваш синхронизовани адресар. Сарадња на "
-"пројекту никада није била лакша."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/ubuntuone.html:9
-msgid ""
-"Sign-up by launching the <em>Ubuntu One Preferences</em> application or "
-"going to <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
-msgstr ""
-"Пријавите се лансирањем апликације <em>Убунту Један Подешавања</em> или "
-"идите на <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
 msgid "Welcome"
 msgstr "Добродошли"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/welcome.html:6
-#, fuzzy
-msgid "Thank you for choosing Ubuntu 10.10."
-msgstr "Хвала вам што сте изабрали Убунту 10.04 ЛТС."
-
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
 msgid ""
-"Whether you're new to Ubuntu or a long-time user, we're sure there is "
-"something you will enjoy. While Ubuntu is installed, this slideshow will "
-"show you around."
+"Thank you for choosing Ubuntu 10.10. This version brings some exciting "
+"changes including a new sound menu, the Shotwell photo manager and features "
+"that make it even easier to find and install new software. While Ubuntu is "
+"installed, this slideshow will show you around."
 msgstr ""
-"Било да сте нови у Убунту или дугогодишњи корисник, сигурни смо да постоји "
-"нешто у чему ћете уживати. Док траје Убунту инсталација, овај слајдшоу ће "
-"вам показати околину."
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/welcome.html:10
-msgid "Ubuntu is designed to be easy. Feel free to explore!"
-msgstr "Убунту је дизајниран да буде једноставан. Слободно истражите!"
+#~ msgid "The installation will finish soon. We hope you enjoy Ubuntu."
+#~ msgstr ""
+#~ "Инсталација ће ускоро бити завршена. Надамо се да ћете уживати у Убунту."
+
+#~ msgid "Accessibility in Ubuntu"
+#~ msgstr "Убунту приступачност"
+
+#~ msgid ""
+#~ "If you need help, try <em>Help and Support</em> from the System menu, or "
+#~ "the <em>Help</em> menu in most applications."
+#~ msgstr ""
+#~ "Aко вам је потребна помоћ, пробајте <em>Помоћ и Подршка</em> из менија "
+#~ "Система, или <em>Помоћ</em> мени у скоро свим апликацијама."
+
+#~ msgid ""
+#~ "In addition to our extensive written help, the Ubuntu community provides "
+#~ "free technical support in person and over the Internet. There is also "
+#~ "commercial support available through Canonical, its partners and approved "
+#~ "companies. Learn more at <a href=\"http://www.ubuntu.com/support\">ubuntu."
+#~ "com/support</a>."
+#~ msgstr ""
+#~ "Као додатак нашој опширној помоћи у писаном облику, Убунту заједница "
+#~ "обезбеђује бесплатну техничку помоћ, како у особљу тако и на Интернету. "
+#~ "Ту је такође и комерцијална подршка коју обезбеђује Каноникал, њихов "
+#~ "партнер и потврђена компанија. Сазнајте нешто више на <a href=\"http://"
+#~ "www.ubuntu.com/support\">ubuntu.com/support</a>."
+
+#~ msgid ""
+#~ "It protects your privacy and personal information so you can surf worry "
+#~ "free."
+#~ msgstr ""
+#~ "Он штити вашу приватност и личне податке тако да можете безбрижно да "
+#~ "претражујете."
+
+#~ msgid "Ubuntu comes with the widely acclaimed <em>Firefox web browser</em>."
+#~ msgstr ""
+#~ "Убунту долази са широм признатим <em>Фајерфоксом веб претраживачем</em>."
+
+#~ msgid ""
+#~ "With <em>F-Spot Photo Manager</em>, it is really easy to share, touch-up "
+#~ "and organize digital photos."
+#~ msgstr ""
+#~ "Користећи <em>Ф-Спот Фото Менаџер</em>, заиста је једноставно "
+#~ "размењивати, преправљати и организовати дигиталне фотографије."
+
+#~ msgid "Office tools at your fingertips"
+#~ msgstr "Канцеларијски алати надохват руке"
+
+#~ msgid ""
+#~ "We want to make computers work for everyone, whatever your physical "
+#~ "circumstances. So, we provide tools that make Ubuntu one of the most "
+#~ "accessible operating systems around."
+#~ msgstr ""
+#~ "Желимо свакоме да омогућимо коришћење рачунара, без обзира на ваше "
+#~ "физичке способности. Тако, обезбеђујемо алате који чине Убунту једним од "
+#~ "најприступачнијих оперативних система у окружењу."
+
+#~ msgid ""
+#~ "Remember to check out the <em>Appearance Preferences</em>, too. You can "
+#~ "choose between different visual styles and even change the fonts that are "
+#~ "used by applications."
+#~ msgstr ""
+#~ "Не заборавите да изаберете <em>Подешавање Изгледа</em>. Можете да "
+#~ "изаберете један од неколико визуелних ефеката и чак да промените фонтове "
+#~ "коришћене у апликацијама."
+
+#~ msgid ""
+#~ "Use tags to describe your photos so that they are easy to find later on."
+#~ msgstr ""
+#~ "Користите ознаке за описивање ваших фотографија тако да их касније можете "
+#~ "пронаћи с лакоћом."
+
+#~ msgid "Ubuntu is designed to be easy. Feel free to explore!"
+#~ msgstr "Убунту је дизајниран да буде једноставан. Слободно истражите!"
+
+#~ msgid "Getting Help with Ubuntu"
+#~ msgstr "Добити помоћи уз Убунту"
+
+#~ msgid ""
+#~ "Evolution has a powerful junk mail filter. You can use the search box, or "
+#~ "create your own filters, to make sorting mail quick and easy."
+#~ msgstr ""
+#~ "Еволуција има моћан филтер за непожељну пошту. Можете да користите оквир "
+#~ "за претрагу, или да креирате сопствене филтере, да бисте учинили "
+#~ "сортирање поште брзим и лаким."
+
+#~ msgid ""
+#~ "<em>Evolution Mail</em> is the fully-featured email and calendar software "
+#~ "that comes with Ubuntu. Just enter your email account information and it "
+#~ "will download new messages automatically."
+#~ msgstr ""
+#~ "<em>Еволуција Пошта</em> је потпуно функционалан софтвер е-поште и "
+#~ "календара који долази са Убунту. Само унесите информације о налогу е-"
+#~ "поште и он ће аутоматски преузети нове поруке."
+
+#~ msgid "Control your digital life"
+#~ msgstr "Контролишите ваш дигитални живот"
+
+#~ msgid ""
+#~ "If you're busy, click your name at the top of the screen to change your "
+#~ "status."
+#~ msgstr ""
+#~ "Ако сте заузети, кликните на ваше име на врху екрана да бисте променили "
+#~ "ваш статус."
+
+#~ msgid ""
+#~ "From the start, Ubuntu connects to online chat and broadcast services "
+#~ "including Facebook, Twitter, Windows Live and Google Talk."
+#~ msgstr ""
+#~ "Од самог почетка, Убунту повезује на услуге ћаскања уживо или услуге "
+#~ "емитовања укључујући  ''Facebook, Twitter, Windows Live и Google Talk''."
+
+#~ msgid ""
+#~ "Click the envelope near the clock to log in to your accounts. New "
+#~ "messages appear there, too, so you can see what's happening at a glance."
+#~ msgstr ""
+#~ "Кликните на коверту близу сата да бисте се пријавили на ваше налоге. Нове "
+#~ "поруке се приказују оде, такође, тако да у истом тренутку можете видети "
+#~ "шта се дешава."
+
+#~ msgid ""
+#~ "Add your favorite Web calendars to see upcoming games or movie releases. "
+#~ "To see your daily schedule, just click the clock at the top of your "
+#~ "screen."
+#~ msgstr ""
+#~ "Додајте ваше омиљене Веб календаре да бисте видели новопристигле игре или "
+#~ "најновија филмска издања. Да бисте видели ваш дневни план, једноставно "
+#~ "кликните на сат на горњем делу вашег екрана."
+
+#~ msgid ""
+#~ "Everything in Software Center is stored in our online repository. We are "
+#~ "careful to keep it safe and updates will be delivered directly to you."
+#~ msgstr ""
+#~ "Све из Софтверског Центра је смештено у нашем интернет репозиторијуму. "
+#~ "Бринемо се о томе да га одржавамо безбедним а допуне ће вам бити директно "
+#~ "испоручене."
+
+#~ msgid ""
+#~ "There are powerful applications for all sorts of interests, from "
+#~ "programming to creating music and exploring the universe. Take a look at "
+#~ "the <em>Featured Applications</em> section for some of our favourites!"
+#~ msgstr ""
+#~ "Ту постоје моћне апликација за све врсте интереса, од програмирања до "
+#~ "стварања музике и истраживање свемира. Погледајте <em>Издвојени Програми</"
+#~ "em> за неке од наших омиљених!"
+
+#~ msgid "Share and enjoy your photos"
+#~ msgstr "Размењујте и уживајте ваше фотографије"
+
+#~ msgid ""
+#~ "Use the Export option to write your photos to CDs, email them to friends "
+#~ "or share them online."
+#~ msgstr ""
+#~ "Користите опцију ''Упути ка'' да бисте записали своје фотографије на ЦД, "
+#~ "слали их пријатељима е-поштом или их размењивали на интернету."
+
+#~ msgid ""
+#~ "To get started, choose F-Spot from the Graphics Applications menu or "
+#~ "attach a digital camera and follow the prompts."
+#~ msgstr ""
+#~ "Да бисте почели, изаберите Ф-Спот из менија Графичких Апликација или "
+#~ "прикључите дигитални камеру и пратите упуте."
+
+#~ msgid "Getting more software"
+#~ msgstr "Добавити још софтвера"
+
+#~ msgid "Entertainment with music and movies"
+#~ msgstr "Забава уз музику и филмове"
+
+#~ msgid "Keep your digital life in sync"
+#~ msgstr "Држите ваш дигитални живот у синхронизацији"
+
+#~ msgid ""
+#~ "Ubuntu comes with <em>OpenOffice.org</em>, a powerful office software "
+#~ "suite that is easy to understand."
+#~ msgstr ""
+#~ "Убунту долази са <em>OpenOffice.org</em>, моћним пакетом канцеларијских "
+#~ "софтвера који је лако разумети."
+
+#~ msgid ""
+#~ "It helps you create documents, presentations, diagrams and databases."
+#~ msgstr ""
+#~ "Помаже вам да креирате документе, презентације, дијаграме и базе података."
+
+#~ msgid ""
+#~ "OpenOffice.org uses the standard OpenDocument file format. It opens files "
+#~ "from other office applications like Microsoft Office and WordPerfect."
+#~ msgstr ""
+#~ "OpenOffice.org користи стандардни ОпенДокумент формат датотеки. Отвара "
+#~ "датотеке из других пословних апликација као што су Microsoft Office и "
+#~ "WordPerfect."
+
+#~ msgid ""
+#~ "Want a safe home for your important files? All Ubuntu users get 2 GB of "
+#~ "personal cloud storage for free (and more if you need it)."
+#~ msgstr ""
+#~ "Желите ли сигуран дом за ваше важне датотеке? Сви Убунту корисници "
+#~ "добијају бесплатно 2 GB личног облака за складиштење (и више ако је "
+#~ "потребно)."
+
+#~ msgid ""
+#~ "Share folders using your synchronised address book. Project collaboration "
+#~ "has never been easier."
+#~ msgstr ""
+#~ "Размењујте директоријуме користећи ваш синхронизовани адресар. Сарадња на "
+#~ "пројекту никада није била лакша."
+
+#~ msgid ""
+#~ "Discover popular, DRM-free music available for purchase from the "
+#~ "<em>Ubuntu One Music Store</em>, a cloud-enabled digital music store. "
+#~ "Purchases are automatically stored in the cloud and synchronised across "
+#~ "all of your computers."
+#~ msgstr ""
+#~ "Откријте популарну, ДРМ-слободну музику доступну за куповину на "
+#~ "<em>Убунту Један Музичкој Радњи</em>, облаком-омогућеној дигиталној "
+#~ "музичкој радњи. Куповине се аутоматски чувају у облаку и синхронизују на "
+#~ "свим вашим рачунарима."
+
+#~ msgid ""
+#~ "Plug in an MP3 player to start synchronizing your music collection, or "
+#~ "insert a CD to copy songs to your computer."
+#~ msgstr ""
+#~ "Прикључите МП3 плејер да бисте започели синхронизацију ваше музичке "
+#~ "колекције, или убаците ЦД да бисте ископирали песме на ваш рачунар."
+
+#~ msgid ""
+#~ "Shuffle between your laptop, netbook, and company desktop and find "
+#~ "everything you need automatically synchronised. Your documents, music, "
+#~ "bookmarks, address book, and notes – everything goes where you go with "
+#~ "<em>Ubuntu One</em>."
+#~ msgstr ""
+#~ "Користите ваш лаптоп, нетбук, и десктоп фирме и пронађите све што вам је "
+#~ "потребно аутоматски синхронизовани. Ваши документи, музика, маркери, "
+#~ "адресари, и бележнице - све иде где идете ви са <em>Убунту Један</em>."
 
 #~ msgid ""
 #~ "This release marks a major milestone in the Ubuntu project. It is easier "
@@ -444,3 +553,70 @@ msgstr "Убунту је дизајниран да буде једностав�
 #~ "поузданије него икада, са стотинама других побољшања, укључујући нови "
 #~ "видео едитор, интегрисано друштвено умрежавање и све већи избор додатног "
 #~ "софтвера."
+
+#~ msgid ""
+#~ "Sign-up by launching the <em>Ubuntu One Preferences</em> application or "
+#~ "going to <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
+#~ msgstr ""
+#~ "Пријавите се лансирањем апликације <em>Убунту Један Подешавања</em> или "
+#~ "идите на <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
+
+#~ msgid ""
+#~ "Let us know about your Ubuntu experience at <a href=\"http://ubuntu.com/"
+#~ "community\">ubuntu.com/community</a>!"
+#~ msgstr ""
+#~ "Опишите нам ваше Убунту искуство на <a href=\"http://ubuntu.com/community"
+#~ "\">ubuntu.com/community</a>!"
+
+#~ msgid "Browse the web with Firefox"
+#~ msgstr "Претражујте интернет с Фајерфоксом"
+
+#~ msgid ""
+#~ "Give Firefox your own personal touch with addons. You can choose from "
+#~ "thousands of themes and extensions that tailor it to how you use the web."
+#~ msgstr ""
+#~ "Дајте Фајерфоксу ваш лични додир додацима. Можете да изаберете од хиљаду "
+#~ "тема и проширења које ће га прилагодити према томе како ви користите "
+#~ "интернет."
+
+#~ msgid ""
+#~ "The <em>Rhythmbox Music Player</em> lets you organize your music, listen "
+#~ "to Internet radio, and purchase a variety of songs. Manage your podcast "
+#~ "subscriptions and automatically download new episodes."
+#~ msgstr ""
+#~ "<em>Ритамбокс Музички Плејер</em> вам омогућава да организујете вашу "
+#~ "музику, слушате интернет радио, и купујете разне песме. Управљајте вашим "
+#~ "подкаст претплатама и аутоматски преузимајте нове епизоде."
+
+#~ msgid ""
+#~ "Ubuntu is ready to play music and videos from the web, from CDs and DVDs."
+#~ msgstr ""
+#~ "Убунту је спреман за репродукцију музике и видеа са Интернета, са ЦД-а и "
+#~ "ДВД-а."
+
+#~ msgid ""
+#~ "Whether you're new to Ubuntu or a long-time user, we're sure there is "
+#~ "something you will enjoy. While Ubuntu is installed, this slideshow will "
+#~ "show you around."
+#~ msgstr ""
+#~ "Било да сте нови у Убунту или дугогодишњи корисник, сигурни смо да "
+#~ "постоји нешто у чему ћете уживати. Док траје Убунту инсталација, овај "
+#~ "слајдшоу ће вам показати околину."
+
+#~ msgid ""
+#~ "You can get at these tools in one place: the <em>Assistive Technologies "
+#~ "Preferences</em>, inside the System Menu. From there, you can turn on "
+#~ "helpful tools like <em>Orca</em>, to speak text on the screen, or dwell "
+#~ "click to press mouse buttons automatically."
+#~ msgstr ""
+#~ "Можете добити ове алате на једном месту: <em>Асистивне Технологије "
+#~ "Подешавања </em>, унутар Систем Менија. Одатле, можете да покренете "
+#~ "користан алат као што је <em>Орка</em>, да говори текст са екрана, или "
+#~ "подеси клик да аутоматски притисне тастер миша."
+
+#~ msgid ""
+#~ "If you need something else, try the <em>Ubuntu Software Center</em> to "
+#~ "choose from thousands of extras you can download for free."
+#~ msgstr ""
+#~ "Ако вам треба нешто друго, пробајте <em>Убунту Софтверски Центар</em> да "
+#~ "бисте изабрали од хиљаду додатних софтвера које можете преузети бесплатно."

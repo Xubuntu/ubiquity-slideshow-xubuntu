@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2010-06-25 17:24+0200\n"
-"PO-Revision-Date: 2010-03-05 09:07+0000\n"
-"Last-Translator: Timo Jyrinki <timo.jyrinki@gmail.com>\n"
+"POT-Creation-Date: 2010-09-16 18:51+0200\n"
+"PO-Revision-Date: 2010-07-29 10:05+0000\n"
+"Last-Translator: Jiri Grönroos <Unknown>\n"
 "Language-Team: Finnish <fi@li.org>\n"
+"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2010-04-17 09:28+0000\n"
+"X-Launchpad-Export-Date: 2010-09-28 07:20+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
 #. type: Content of: <h1>
@@ -42,8 +43,8 @@ msgid ""
 "<em>Settings menu</em>, where you can control how your desktop works and "
 "looks."
 msgstr ""
-"<em>Asetukset-valikko</em>, voit määritellä miten järjestelmäsi työpöytä "
-"toimii ja miltä se näyttää.."
+"<em>Asetukset-valikko</em>, jossa voit määrittää miten työpöytäsi toimii ja "
+"miltä se näyttää."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/app-menu.html:9
@@ -69,7 +70,7 @@ msgstr ""
 msgid ""
 "Take a look at <em>Quadrapassel</em> (Applications &rarr; Games) for a "
 "Tetris look-alike."
-msgstr "Tetris -klooni."
+msgstr "Tetris-klooni."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/games.html:8
@@ -95,6 +96,8 @@ msgid ""
 "There are a bunch of games available on the live CD as well, which you can "
 "enjoy while installing. Have fun!"
 msgstr ""
+"Live-CD:llä on myös joukko pelejä, joista voit nauttia asennuksen aikana. "
+"Pidä hauskaa!"
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/getting-help.html:1
@@ -107,6 +110,8 @@ msgid ""
 "If you need help, try <em>Help</em> in the Applications menu, or the help "
 "menu available in most applications."
 msgstr ""
+"Jos tarvitset apua, katso <em>Ohje</em>-kohta Sovellukset-valikossa. "
+"Useimmista sovelluksista löytyy myös ohje-valikko."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/getting-help.html:7
@@ -116,6 +121,10 @@ msgid ""
 "can join by <a href=\"http://webchat.freenode.net/?"
 "channels=xubuntu&nick=xubuntu...&prompt=1\">clicking here</a>."
 msgstr ""
+"On myös useampia tapoja saada apua, kuten IRC-kanavamme <em>#xubuntu</em> <a "
+"href=\"http://freenode.net/\">Freenode</a>-IRC-verkossa, jonne voit liittyä "
+"<a href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
+"&prompt=1\">napsauttamalla tästä</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/getting-help.html:9
@@ -123,6 +132,8 @@ msgid ""
 "For a complete list of support methods, see the <a href=\"http://xubuntu.org/"
 "help\">Help & Support page</a> on our website."
 msgstr ""
+"Koko luettelo eri tukitavoista löytyy <a href=\"http://xubuntu.org/help"
+"\">Ohjeet ja tuki -sivulta (eng.)</a> verkkosivuiltamme."
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/more-apps.html:1
@@ -147,6 +158,8 @@ msgid ""
 "capable of playing all your music, from mp3 to CD to live radio on the "
 "internet."
 msgstr ""
+"<em>Exaile-musiikkisoitin</em> vastaa kuuntelunautinnostasi. Se voi soittaa "
+"kaiken musiikkisi, mp3-muodosta CD:hen ja live-radioon Internetissä."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/more-apps.html:8
@@ -154,6 +167,8 @@ msgid ""
 "If you need to burn a CD or DVD, check out <em>Brasero</em>. It is very easy "
 "to use and will even burn the Xubuntu image for you."
 msgstr ""
+"Jos sinun täytyy polttaa CD tai DVD, kokeile <em>Braseroa</em>. Se on "
+"helppokäyttöinen ja voi polttaa jopa Xubuntu-levykuvan sinulle."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/more-apps.html:10
@@ -162,6 +177,8 @@ msgid ""
 "All of these applications are available on the live CD, even while "
 "installing. Be adventurous!"
 msgstr ""
+"Kaikki nämä sovellukset ovat käytettävissä live-CD:llä, jopa asennettaessa. "
+"Kokeile!"
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/new-to-linux.html:1
@@ -175,10 +192,10 @@ msgid ""
 "drivers and programs you will need. Please do not do that. The drivers "
 "needed for your system are being installed as you read this."
 msgstr ""
-"Jos olet uusi Linuxin tai Ubuntun käyttäjä, luultavasti voit ihmetellä "
-"kuinka löydät tarvitsemasi ohjelmat ja ajurit. Valitsemasi järjestelmän "
-"kanssa sinulla ei ole näitä ongelmia, joten huoli ajureista ja ohjelmista on "
-"yleensä turhaa. Niitä asennetaan järjestelmääsi parhaillaan."
+"Jos olet uusi Linuxin tai Ubuntun käyttäjä, ihmettelet luultavasti, miten "
+"löydät tarvitsemasi ohjelmat ja ajurit. Valitsemasi järjestelmän kanssa "
+"huoli ajureista ja ohjelmista on kuitenkin yleensä turhaa. Niitä asennetaan "
+"järjestelmääsi parhaillaan."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/new-to-linux.html:7
@@ -187,6 +204,9 @@ msgid ""
 "try out the new software. We think you will be amazed at the few things you "
 "need to add."
 msgstr ""
+"Asennuksen valmistuttua vie muutamia minuutteja, tunteja, tai jopa päiviä "
+"kokeilla uusia sovelluksia. Arvelemme, että hämmästyt, miten vähän joudut "
+"asennukseen lisäämään."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/new-to-linux.html:8
@@ -194,6 +214,8 @@ msgid ""
 "If you find yourself wanting something else, please check the <em>Ubuntu "
 "Software Center</em> out. It is much easier than searching the internet."
 msgstr ""
+"Jos huomaat haluavasi jotain muuta, katso <em>Ubuntun sovellusvalikoima</"
+"em>.  Se on paljon helpompaa kuin Internetistä etsiminen."
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/office.html:1
@@ -217,6 +239,8 @@ msgid ""
 "<em>Gnumeric</em> is a spreadsheet program with an emphasis on accuracy. It "
 "can also be used to merge mathematical data into Abiword documents."
 msgstr ""
+"<em>Gnumeric</em> on taulukkolaskentaohjelma, joka korostaa tarkkuutta. Sitä "
+"voidaan myös käyttää matemaattisen tiedon lisäämiseen Abiword-asiakirjoihin."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/office.html:8
@@ -234,6 +258,8 @@ msgid ""
 "For power users, the OpenOffice.org suite is available in just a few clicks "
 "– just install it from the Ubuntu Software Center."
 msgstr ""
+"Tehokäyttäjille OpenOffice.org on käytettävissä vain muutamalla "
+"napsautuksella – asenna se vain Ubuntun sovellusvalikoimasta."
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/tips-beginners.html:1
@@ -247,9 +273,9 @@ msgid ""
 "any program on your system – one you lost on the menu or even one you didn't "
 "know existed!"
 msgstr ""
-"Käytä Sovellushakua (Sovellukset &rarr; Työkalut) käyttääkseni mitä tahansa "
-"saatavilla olevaa ohjelmaa järjestelmässäsi – esimerkiksi ohjelmia joita et "
-"edes tiennyt olevan olemassa."
+"Käytä Sovellushakua (Sovellukset &rarr; Työkalut) käyttääksesi mitä tahansa "
+"ohjelmaa järjestelmässäsi – esimerkiksi ohjelmia, joita et löydä valikosta "
+"tai joita et edes tiennyt olevan olemassa."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/tips-beginners.html:7
@@ -257,8 +283,8 @@ msgid ""
 "Catfish is a great application for finding those files you lost on your "
 "harddrive. It is quick and easy to use for beginners and experts alike."
 msgstr ""
-"Catfish auttaa löytämään tiedostot jotka ovat kadonneet kovalevylle. Se on "
-"nopea ja helppokäyttöinen, sopii myös vasta-alkaneille."
+"Catfish auttaa löytämään tiedostot, jotka ovat kadonneet kovalevylle. Se on "
+"nopea ja helppokäyttöinen ja sopii niin aloittelijoille kuin kokeneillekin."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/tips-beginners.html:8
@@ -274,11 +300,8 @@ msgstr "Onnittelut!"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/welcome.html:6
-#, fuzzy
 msgid "You have chosen to install the latest version of Xubuntu, 10.10."
-msgstr ""
-"Olet valinnut asennettavaksi viimeisimmän version Xubuntusta,  joka on "
-"järjestyksessään versionumero 10.04."
+msgstr "Olet valinnut asennettavaksi Xubuntun uusimman 10.10-version."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/welcome.html:7
@@ -286,8 +309,8 @@ msgid ""
 "This exciting software is brought to you free of any fees, for your use and "
 "any others you want to share it with."
 msgstr ""
-"Tämä on ohjelmisto saatavilla vapaasti sinulle ja monille muille käyttäjille "
-"ilman kustannuksia."
+"Tämä on ohjelmisto saatavilla vapaasti sinulle, ja myös muille, ilman "
+"kustannuksia."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/welcome.html:8
@@ -296,6 +319,9 @@ msgid ""
 "free to examine things as it installs. After the installation, the desktop "
 "will look much the same as it does now."
 msgstr ""
+"Koska olet asentamassa tätä Xubuntun Desktop-CD:ltä, olet vapaa tutkimaan "
+"asioita asennuksen aikana. Asennuksen jälkeen työpöytä näyttää suurimmilta "
+"osin samalta kuin nyt."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/welcome.html:10
@@ -303,8 +329,8 @@ msgid ""
 "We truly hope that you enjoy using this distribution as much as we enjoy "
 "bringing it to you."
 msgstr ""
-"Toivomme todella paljon että pidä järjestelmän käytöstä yhtä paljon kuin "
-"nautimme sen tekemisestä sinulle."
+"Toivomme todella paljon, että pidät järjestelmän käytöstä yhtä paljon kuin "
+"me nautimme sen tekemisestä sinulle."
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/xfce.html:1
@@ -324,7 +350,7 @@ msgid ""
 "Xfce is a collection of programs that together provide a full-featured "
 "desktop environment."
 msgstr ""
-"Xfce on kokoelma ohjelmistoja, jotka tarjoavat täysimittaisen "
+"Xfce on kokoelma ohjelmistoja, jotka yhdessä tarjoavat täysimittaisen "
 "työpöytäympäristön tietokoneellesi."
 
 #. type: Content of: <div><div><ul><li>
@@ -344,3 +370,5 @@ msgid ""
 "To learn more about Xfce, look in <em>Applications &rarr; About Xfce &rarr; "
 "Info</em> or on the <a href=\"http://xfce.org/\">Xfce website</a>."
 msgstr ""
+"Oppiaksesi lisää Xfce:stä, katso <em>Sovellukset &rarr; Tietoja Xfce:stä "
+"&rarr; Tietoja</em> tai <a href=\"http://xfce.org/\">Xfce:n verkkosivut</a>."

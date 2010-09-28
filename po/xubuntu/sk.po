@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2010-06-25 17:24+0200\n"
-"PO-Revision-Date: 2010-04-15 04:31+0000\n"
+"POT-Creation-Date: 2010-09-16 18:51+0200\n"
+"PO-Revision-Date: 2010-09-14 14:21+0000\n"
 "Last-Translator: Marián Bača <majoobaca@gmail.com>\n"
 "Language-Team: Slovak <sk@li.org>\n"
+"Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2010-04-17 09:28+0000\n"
+"X-Launchpad-Export-Date: 2010-09-28 07:20+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
 #. type: Content of: <h1>
@@ -82,7 +83,7 @@ msgid ""
 "solitaire! Surely there is one you will enjoy?"
 msgstr ""
 "<em>AisleRiot Solitaire</em> vám umožní si vybrať z 35 rôznych typov "
-"solitéru. Je tu nejaký ktorý si užijete?"
+"solitéru. Isto je tu nejaký, ktorý sa vám bude páčiť."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/games.html:9
@@ -113,8 +114,8 @@ msgid ""
 "If you need help, try <em>Help</em> in the Applications menu, or the help "
 "menu available in most applications."
 msgstr ""
-"Ak potrebujete pomoc, tak skúste <em>Pomoc</em> z ponuky Systém, alebo "
-"ponuku <em>Pomocník</em> vo väčšine aplikácií."
+"Ak potrebujete pomoc, tak skúste <em>Pomoc</em> z ponuky Systém alebo ponuku "
+"<em>Pomocník</em> vo väčšine aplikácií."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/getting-help.html:7
@@ -124,6 +125,10 @@ msgid ""
 "can join by <a href=\"http://webchat.freenode.net/?"
 "channels=xubuntu&nick=xubuntu...&prompt=1\">clicking here</a>."
 msgstr ""
+"Existuje viacero spôsobov, ako získať pomoc, vrátane nášho IRC kanála "
+"<em>#xubuntu</em> na IRC serveri <a href=\"http://freenode.net/\">Freenode</"
+"a>, na ktorý sa môžete pripojiť <a href=\"http://webchat.freenode.net/?"
+"channels=xubuntu&nick=xubuntu...&prompt=1\">kliknutím sem</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/getting-help.html:9
@@ -158,7 +163,7 @@ msgid ""
 "internet."
 msgstr ""
 "Pre pôžitok z hudby sa pozrite na <em>Exaile Music Player</em>. Je schopný "
-"prehrávať všetku vašu hudbu, od mp3, Cd až po internetové rádiá."
+"prehrávať všetku vašu hudbu, od mp3, CD až po internetové rádiá."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/more-apps.html:8
@@ -166,8 +171,8 @@ msgid ""
 "If you need to burn a CD or DVD, check out <em>Brasero</em>. It is very easy "
 "to use and will even burn the Xubuntu image for you."
 msgstr ""
-"Ak potrebujete napáliť CD alebo DVD, skúste <em>Brasero</em>. Je veľmi ľahký "
-"na použitie a dokonca pre vás napáli obraz Xubuntu disku."
+"Ak potrebujete napáliť CD alebo DVD, skúste <em>Brasero</em>. Ľahko sa s ním "
+"pracuje a dokonca pre vás napáli obraz Xubuntu disku."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/more-apps.html:10
@@ -228,8 +233,8 @@ msgid ""
 "and editing documents is a breeze."
 msgstr ""
 "<em>Abiword</em> je textový editor, ktorý dokáže čítať väčšinu známych "
-"formátov dokumentov. Taktiež máte prístup ku všetkým písmám nainštalovaných "
-"vo vašom systéme a úprava dokumentov je osviežujúca."
+"formátov dokumentov. Budete mať prístup ku všetkým písmam nainštalovaným vo "
+"vašom systéme a úprava dokumentov je hračkou."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/office.html:7
@@ -247,7 +252,7 @@ msgid ""
 "all of the functions of the OpenOffice suite."
 msgstr ""
 "Aj keď sú Abiword a Gnumeric odľahčené aplikácie, poskytujú väčšinu funkcií "
-"ako OpenOffice."
+"kancelárskeho balíka OpenOffice."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/office.html:10
@@ -289,9 +294,9 @@ msgid ""
 "Also in the accessories, you can find a slick calculator. Need to calculate "
 "disk partitions? Use the calculator, it couldn't be easier."
 msgstr ""
-"V ponuke príslušenstvo môžete taktiež nájsť elegantnú kalkulačku. "
-"Potrebujete zrátať diskové partície? Nikdy to nemohlo byť jednoduchšie s "
-"touto kalkulačkou."
+"V ponuke príslušenstvo môžete taktiež nájsť výbornú kalkulačku. Potrebujete "
+"zrátať diskové partície? Nikdy to nemohlo byť jednoduchšie ako s touto "
+"kalkulačkou."
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/welcome.html:1
@@ -300,9 +305,8 @@ msgstr "Gratulujeme!"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/welcome.html:6
-#, fuzzy
 msgid "You have chosen to install the latest version of Xubuntu, 10.10."
-msgstr "Vybrali ste si nainštalovať najnovšiu verziu Xubuntu, 10.04."
+msgstr "Vybrali ste si najnovšiu verziu Xubuntu 10.10 na inštalovanie."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/xubuntu/slides/welcome.html:7
@@ -329,8 +333,8 @@ msgid ""
 "We truly hope that you enjoy using this distribution as much as we enjoy "
 "bringing it to you."
 msgstr ""
-"Skutočne dúfame, že používanie tejto distribúcie bude pre vás potešením ako "
-"my máme potešenie ho vám poskytovať."
+"Skutočne dúfame, že používanie tejto distribúcie bude pre vás aspoň takým "
+"potešením, ako je naším potešením vám ju poskytovať."
 
 #. type: Content of: <h1>
 #: slideshows/xubuntu/slides/xfce.html:1
@@ -363,7 +367,7 @@ msgid ""
 "environment."
 msgstr ""
 "Xfce je taktiež vývojárska platforma poskytujúca viacero knižníc, "
-"pomáhajúcim programátorom vytvárať aplikácie ktoré sa výborne hodia do "
+"pomáhajúcich programátorom vytvárať aplikácie, ktoré sa výborne hodia do "
 "tohoto pracovného prostredia."
 
 #. type: Content of: <div><div><ul><li>

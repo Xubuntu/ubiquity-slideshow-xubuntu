@@ -7,427 +7,614 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2010-06-25 17:24+0200\n"
-"PO-Revision-Date: 2010-04-09 00:55+0000\n"
-"Last-Translator: Marv-CZ <marek@manet.cz>\n"
+"POT-Creation-Date: 2010-09-16 18:51+0200\n"
+"PO-Revision-Date: 2010-09-23 19:03+0000\n"
+"Last-Translator: Adrian Guniš <andygun696@gmail.com>\n"
 "Language-Team: Czech <cs@li.org>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2010-04-17 09:28+0000\n"
+"X-Launchpad-Export-Date: 2010-09-28 07:20+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Accessibility in Ubuntu"
-msgstr "Zpřístupnění v Ubuntu"
+msgid "Customize Ubuntu"
+msgstr "Přizpůsobte si Ubuntu"
 
-#.  "your" refers to a large group that includes the reader. 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/accessibility.html:6
-msgid ""
-"We want to make computers work for everyone, whatever your physical "
-"circumstances. So, we provide tools that make Ubuntu one of the most "
-"accessible operating systems around."
-msgstr ""
-"Chceme umožnit práci na počítači každému bez ohledu na jeho fyzická omezení. "
-"Proto poskytujeme nástroje, které činí Ubuntu jedním z nejpřístupnějších "
-"operačních systémů."
-
-#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/accessibility.html:7
-msgid ""
-"You can get at these tools in one place: the <em>Assistive Technologies "
-"Preferences</em>, inside the System Menu. From there, you can turn on "
-"helpful tools like <em>Orca</em>, to speak text on the screen, or dwell "
-"click to press mouse buttons automatically."
-msgstr ""
-"Tyto nástroje můžete najít na jednom místě: v nástroji <em>Předvolby "
-"technologií usnadnění</em> uvnitř nabídky Systém. Odtud můžete zapnout "
-"pomocné nástroje jako <em>Orca</em> pro čtení textu z obrazovky nebo "
-"kliknutí počkáním pro automatické klikání tlačítek myši."
-
-#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/accessibility.html:8
 msgid ""
-"Remember to check out the <em>Appearance Preferences</em>, too. You can "
-"choose between different visual styles and even change the fonts that are "
-"used by applications."
+"At the heart of Ubuntu&#8217;s philosophy is the belief that computing is "
+"for everyone. With advanced accessibility tools and hundreds of options like "
+"your preferred fonts, color schemes and languages, Ubuntu provides the "
+"flexibility to fit real people, whoever they are."
 msgstr ""
-"Nezapomeňte vyzkoušet také <em>Předvolby vzhledu</em>. Můžete si vybrat z "
-"různých motivů nebo měnit písma použitá v aplikacích."
+"Základní filozofií Ubuntu je přesvědčení, že počítač je pro každého. S "
+"pokročilými nástroji pro zpřístupnění a mnoha možnostmi nastavení jako "
+"upřednostňovaná písma, barvy motivu a jazyky, poskytuje Ubuntu flexibilitu, "
+"aby se přizpůsobilo skutečným lidem, ať už jsou kdokoli."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/accessibility.html:12
+msgid "Customization options"
+msgstr "Možnosti přizpůsobení"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/accessibility.html:16
+msgid "Appearance preferences"
+msgstr "Předvolby vzhledu"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/accessibility.html:20
+msgid "Assistive technologies"
+msgstr "Technologie usnadnění"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/accessibility.html:24
+msgid "Language support"
+msgstr "Jazyková podpora"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/documentation.html:1
-msgid "Getting Help with Ubuntu"
-msgstr "Získání pomoci v Ubuntu"
+#: slideshows/ubuntu/slides/browse.html:1
+msgid "Browse the web"
+msgstr "Brouzdejte internetem"
 
-#.  The string "Help and Support" should be exactly as it appears in the System menu. 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/documentation.html:6
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/browse.html:8
 msgid ""
-"If you need help, try <em>Help and Support</em> from the System menu, or the "
-"<em>Help</em> menu in most applications."
+"Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+"choose alternative browsers from Ubuntu Software Center."
 msgstr ""
-"Pokud potřebujete pomoc, zvolte z nabídky Systém aplikaci <em>Nápověda a "
-"podpora</em> nebo nabídku <em>Nápověda</em> nacházející se ve většině "
-"aplikací."
+"Ubuntu obsahuje Mozilla Firefox pro rychlé a bezpečné prohlížení internetu. "
+"V Centru softwaru pro Ubuntu si můžete zvolit také jiné prohlížeče."
 
-#.  The url "ubuntu.com/support" should not be translated 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/documentation.html:7
-msgid ""
-"In addition to our extensive written help, the Ubuntu community provides "
-"free technical support in person and over the Internet. There is also "
-"commercial support available through Canonical, its partners and approved "
-"companies. Learn more at <a href=\"http://www.ubuntu.com/support\">ubuntu."
-"com/support</a>."
-msgstr ""
-"Kromě naší rozsáhle nápovědy v písemné formě poskytuje komunita Ubuntu také "
-"bezplatnou technickou podporu osobně nebo přes internet. Také můžete využít "
-"komerční podporu poskytovanou společností Canonical, jejími partnery a "
-"ověřenými společnostmi. Více se dočtete na stránce <a href=\"http://www."
-"ubuntu.cz/podpora\">ubuntu.cz/podpora</a>."
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/browse.html:12
+#: slideshows/ubuntu/slides/email.html:12
+#: slideshows/ubuntu/slides/music.html:12
+#: slideshows/ubuntu/slides/office.html:12
+#: slideshows/ubuntu/slides/photos.html:12
+msgid "Included software"
+msgstr "Obsažený software"
 
-#.  The url "ubuntu.com/community" should not be translated 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/documentation.html:8
-msgid ""
-"Let us know about your Ubuntu experience at <a href=\"http://ubuntu.com/"
-"community\">ubuntu.com/community</a>!"
-msgstr ""
-"Podělte se s námi o svých zkušenostech s Ubuntu na stránce <a href=\"http://"
-"www.ubuntu.cz/komunita\">ubuntu.cz/komunita</a>!"
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/browse.html:16
+msgid "Firefox web browser"
+msgstr "Webový prohlížeč Firefox"
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/documentation.html:10
-msgid "The installation will finish soon. We hope you enjoy Ubuntu."
-msgstr ""
-"Instalace bude za chvíli dokončena. Doufáme, že používání Ubuntu bude pro "
-"vás příjemným zážitkem!"
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/browse.html:19
+#: slideshows/ubuntu/slides/email.html:27
+msgid "Supported software"
+msgstr "Podporovaný software"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/browse.html:23
+msgid "Flash"
+msgstr "Flash"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/browse.html:27
+msgid "Google Chrome"
+msgstr "Google Chrome"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/empathy.html:1
+#: slideshows/ubuntu/slides/email.html:1
+msgid "Email and chat"
+msgstr "E-mail a chat"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/email.html:8
+msgid ""
+"Use Empathy to get chatting with your accounts from Yahoo, Facebook, Gmail, "
+"MSN, Jabber and many more. Set your status and reach all your instant "
+"messaging contacts from a single place."
+msgstr ""
+"Používejte Empathy ke komunikaci pomocí vašich účtů z Yahoo, Facebook, "
+"Gmail, MSN, Jabber a dalších. Nastavte svůj stav a mějte na dosah všechny "
+"své kontakty IM z jediného místa."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/email.html:16
+msgid "Empathy IM"
+msgstr "Komunikátor Empathy"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/email.html:20
+msgid "Evolution Mail"
+msgstr "Pošta Evolution"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/email.html:24
+msgid "Gwibber Microblogging"
+msgstr "Klient pro společenské sítě Gwibber"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/email.html:31
+msgid "Skype"
+msgstr "Skype"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/gethelp.html:1
+msgid "Get help with Ubuntu"
+msgstr "Získejte pomoc s Ubuntu"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:8
+msgid ""
+"Ubuntu is designed to be easy and safe, so don&#8217;t hesitate to explore! "
+"If you have any questions, try the Help menu in most applications or <a href="
+"\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore your "
+"other options. We hope you enjoy Ubuntu."
+msgstr ""
+"Ubuntu je navrženo tak, aby bylo uživatelsky přívětivé a bezpečné, takže se "
+"jej nebojte prozkoumat! Pokud máte nějaké otázky, zkuste ve většině aplikací "
+"nabídku Nápověda nebo stránku <a href=\"http://www.ubuntu.com/support"
+"\">ubuntu.cz/podpora</a> ke zjištění dalších možností. Doufáme, že používání "
+"Ubuntu bude pro vás příjemným zážitkem!"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/mobilise.html:1
+msgid "Mobilize your digital life"
+msgstr "Přistupujte ke svým datům odkudkoli"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/mobilise.html:8
+msgid ""
+"All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu One</"
+"a> account. Ubuntu One allows you to sync all kinds of files online so you "
+"can access them anywhere. Sync bookmarks, contacts, music and pictures "
+"across all your computers. Take everything everywhere with Ubuntu One."
+msgstr ""
+"Všichni uživatelé Ubuntu získávají zdarma účet <a href=\"https://one.ubuntu."
+"com/\">Ubuntu One</a>. Ubuntu One vám umožňuje synchronizovat všechny druhy "
+"souborů s internetovým úložištěm, takže k nim můžete přistupovat kdekoli. "
+"Synchronizujte záložky, kontakty, hudbu a obrázky mezi všemi svými počítači. "
+"S Ubuntu One máte svůj digitální život na dosah kdekoli."
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/music.html:1
+msgid "Buy music while you listen"
+msgstr "Nakupujte hudbu při poslechu"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/music.html:8
+msgid ""
+"Ubuntu&#8217;s music player includes a built-in store, so you can buy and "
+"download new tracks with a few clicks. Thanks to Ubuntu One&#8217;s file-"
+"syncing magic you can store your music online and listen to it from other "
+"computers. You can add your music to a portable music player, too; just plug "
+"it in to get started."
+msgstr ""
+"Přehrávač hudby v Ubuntu zahrnuje vestavěný obchod, takže po několika "
+"kliknutích můžete nakupovat a stahovat nové skladby. Díky službě pro "
+"synchronizaci souborů Ubuntu One můžete ukládat svou hudbu na internetovém "
+"úložišti a poslouchat ji z dalších počítačů. Vaši hudbu si pak můžete "
+"přenést do přenosného přehrávače hudby, k čemuž stačí jeho připojení k "
+"systému."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:16
+msgid "Rhythmbox Music Player"
+msgstr "Přehrávač hudby Rhythmbox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:20
+msgid "Ubuntu One Music Store"
+msgstr "Obchod s hudbou Ubuntu One"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/office.html:1
+msgid "Create documents and presentations"
+msgstr "Vytvářejte dokumenty a prezentace"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/office.html:8
+msgid ""
+"OpenOffice.org is fully compatible with Microsoft Office and has everything "
+"you need to create professional documents, spreadsheets and presentations. "
+"OpenOffice.org is easy to use, packed with the features you need and "
+"completely free."
+msgstr ""
+"OpenOffice.org je plně kompatibilní s Microsoft Office a obsahuje vše, co "
+"potřebujete pro vytváření profesionálních dokumentů, tabulek a prezentací. "
+"OpenOffice.org je snadný na použití, s mnoha užitečnými funkcemi a zcela "
+"zdarma."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/office.html:16
+msgid "OpenOffice.org"
+msgstr "OpenOffice.org"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/office.html:20
+msgid "Tomboy Notes"
+msgstr "Poznámky Tomboy"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/photos.html:1
+msgid "View, store and edit photos"
+msgstr "Prohlížejte, ukládejte a upravujte fotografie"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/photos.html:8
+msgid ""
+"Ubuntu is ready for all your gadgets. Just connect your phones or cameras to "
+"get started. Shotwell makes it easy to organize your digital photos and "
+"share them on Picasa, Facebook or Flickr. For advanced photo editing, you "
+"can find more free applications in Ubuntu Software Center."
+msgstr ""
+"Ubuntu je připraveno na všechny vaše přístroje. Pro spuštění stačí připojit "
+"svůj mobil nebo fotoaparát. Shotwell vám usnadní organizaci vašich "
+"digitálních fotografií a jejich sdílení na Picasa, Facebook nebo Flickr. "
+"Hledáte-li pokročilejší editor fotografií, více svobodných aplikací můžete "
+"najít v Centru softwaru pro Ubuntu."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/photos.html:16
+msgid "Shotwell Photo Manager"
+msgstr "Správce fotografií Shotwell"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/photos.html:20
+msgid "Pitivi Video Editor"
+msgstr "Editor videa Pitivi"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/social.html:1
 msgid "Social from the start"
 msgstr "Buďte neustále v kontaktu"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/empathy.html:6
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/social.html:8
 msgid ""
-"From the start, Ubuntu connects to online chat and broadcast services "
-"including Facebook, Twitter, Windows Live and Google Talk."
+"With the Me Menu, being sociable has never been so easy. Use it to instantly "
+"post updates on sites like Facebook and Twitter. New messages appear in the "
+"messaging menu so you can respond when you want."
 msgstr ""
-"Od začátku budete s Ubuntu v kontaktu přes chat nebo společenské sítě "
-"Facebook, Twitter, Windows Live a Google Talk."
+"S appletem Me Menu je život na společenských sítích mnohem snazší. Použijte "
+"jej k okamžitému odesílání novinek na stránky jako Facebook a Twitter. Nové "
+"zprávy se zobrazí v nabídce se zprávami, takže můžete odpovědět, pokud "
+"chcete."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/empathy.html:7
-msgid ""
-"Click the envelope near the clock to log in to your accounts. New messages "
-"appear there, too, so you can see what's happening at a glance."
-msgstr ""
-"Pro přihlášení do svých účtů klikněte na obálku vedle hodin. Zde se také "
-"zobrazují nové zprávy, takže hned vidíte, co se děje."
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/social.html:12
+msgid "Supported services"
+msgstr "Podporované služby"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/empathy.html:8
-msgid ""
-"If you're busy, click your name at the top of the screen to change your "
-"status."
-msgstr ""
-"Pokud jste zaneprázdněni, klikněte na své jméno v horní části obrazovky pro "
-"změnu stavu."
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/social.html:16
+msgid "Twitter"
+msgstr "Twitter"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/social.html:20
+msgid "Facebook"
+msgstr "Facebook"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/social.html:24
+msgid "Identi.ca"
+msgstr "Identi.ca"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/evolution.html:1
-msgid "Control your digital life"
-msgstr "Ovládejte svůj digitální svět"
+#: slideshows/ubuntu/slides/usc.html:1
+msgid "Get free software"
+msgstr "Získejte svobodný software"
 
-#.  "Evolution Mail" should be the exact name of the Evolution launcher inside the Internet menu or the indicator applet. 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/evolution.html:6
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"<em>Evolution Mail</em> is the fully-featured email and calendar software "
-"that comes with Ubuntu. Just enter your email account information and it "
-"will download new messages automatically."
+"Ubuntu Software Center gives you instant access to thousands of free, open-"
+"source applications. Browse categories including Education, Games, Graphics "
+"and Science. Software is easy to find, easy to install and easy to remove."
 msgstr ""
-"<em>Evolution</em> je plnohodnotný klient pro práci s e-maily a kalendářem. "
-"Stačí zadat informace o svém e-mailu a klient automaticky stáhne nové zprávy."
+"Centrum softwaru pro Ubuntu vám poskytuje okamžitý přístup k tisícům "
+"svobodných a otevřených aplikací. Procházejte kategoriemi zahrnující "
+"Vzdělávání, Hry, Grafiku a Vědu. Software je snadné najít, nainstalovat i "
+"odstranit."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/evolution.html:7
-msgid ""
-"Evolution has a powerful junk mail filter. You can use the search box, or "
-"create your own filters, to make sorting mail quick and easy."
-msgstr ""
-"Evolution obsahuje pokročilý filtr nevyžádané pošty. Můžete použít "
-"vyhledávací pole nebo vytvořit vlastní filtry pro rychlé a snadné řazení e-"
-"mailů."
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/usc.html:12
+msgid "Featured software"
+msgstr "Oblíbený software"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/evolution.html:8
-msgid ""
-"Add your favorite Web calendars to see upcoming games or movie releases. To "
-"see your daily schedule, just click the clock at the top of your screen."
-msgstr ""
-"Přidávejte své oblíbené webové kalendáře, abyste nezmeškali uvedení nových "
-"her nebo filmů. Pro zobrazení denního rozvrhu stačí kliknout na hodiny v "
-"horní části obrazovky."
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/usc.html:16
+msgid "GIMP – Advanced image editing for photographers and graphic designers"
+msgstr "GIMP – pokročilý editor obrázků pro fotografy a grafiky"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/firefox.html:1
-msgid "Browse the web with Firefox"
-msgstr "Brouzdejte internetem s Firefoxem"
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/usc.html:20
+msgid "Jokosher – Your very own home recording studio"
+msgstr "Jokosher – vaše osobní domácí nahrávací studio"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/firefox.html:6
-msgid "Ubuntu comes with the widely acclaimed <em>Firefox web browser</em>."
-msgstr ""
-"Ubuntu přichází s nejrozšířenějším <em>webovým prohlížečem Firefox</em>."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/firefox.html:7
-msgid ""
-"It protects your privacy and personal information so you can surf worry free."
-msgstr ""
-"Chrání vaše soukromí a osobní informace, takže můžete surfovat bez starostí."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/firefox.html:8
-msgid ""
-"Give Firefox your own personal touch with addons. You can choose from "
-"thousands of themes and extensions that tailor it to how you use the web."
-msgstr ""
-"Vtiskněte Firefoxu svůj vlastní styl pomocí doplňků. Můžete vybírat z tisíců "
-"motivů vzhledu a rozšíření, které přizpůsobí Firefox vašim potřebám."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/fspot.html:1
-msgid "Share and enjoy your photos"
-msgstr "Sdílejte a prohlížejte své fotografie"
-
-#.  "F-Spot Photo Manager" should be the exact name that is used for F-Spot in the Applications menu 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/fspot.html:6
-msgid ""
-"With <em>F-Spot Photo Manager</em>, it is really easy to share, touch-up and "
-"organize digital photos."
-msgstr ""
-"Pomocí <em>Správce fotografií F-Spot</em> můžete jednoduše sdílet, upravovat "
-"a organizovat digitální fotografie."
-
-#.  Instead of directly translating the word "tags," please use the exact name of the feature in F-Spot for your locale. (Tags are used to label photos). 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/fspot.html:7
-msgid ""
-"Use tags to describe your photos so that they are easy to find later on."
-msgstr ""
-"Použijte štítky k popsání vašich fotografií, abyste je později mohli "
-"jednoduše najít."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/fspot.html:8
-msgid ""
-"Use the Export option to write your photos to CDs, email them to friends or "
-"share them online."
-msgstr ""
-"Využijte různé možnosti exportování vašich fotografií: zápis na CD, zaslání "
-"přátelům přes e-mail nebo sdílení přes internet."
-
-#.  Graphics Applications refers to the Graphics submenu, and then the main Applications menu. 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/fspot.html:9
-msgid ""
-"To get started, choose F-Spot from the Graphics Applications menu or attach "
-"a digital camera and follow the prompts."
-msgstr ""
-"F-Spot spustíte z nabídky Aplikace - Grafika nebo připojte fotoaparát a "
-"postupujte dle pokynů."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/installing-software.html:1
-msgid "Getting more software"
-msgstr "Získání více softwaru"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/installing-software.html:6
-msgid ""
-"If you need something else, try the <em>Ubuntu Software Center</em> to "
-"choose from thousands of extras you can download for free."
-msgstr ""
-"Pokud potřebujete něco navíc, můžete pomocí <em>Centra softwaru pro Ubuntu</"
-"em> vybírat z tisíců balíků, které si můžete stáhnout zdarma."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/installing-software.html:7
-msgid ""
-"There are powerful applications for all sorts of interests, from programming "
-"to creating music and exploring the universe. Take a look at the "
-"<em>Featured Applications</em> section for some of our favourites!"
-msgstr ""
-"K dispozici jsou plnohodnotné aplikace pro všechny skupiny zájmů, od "
-"programování po tvorbu hudby a objevování vesmíru. Podívejte do sekce "
-"<em>Oblíbené aplikace</em> na některé z našich oblíbených!"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/installing-software.html:8
-msgid ""
-"Everything in Software Center is stored in our online repository. We are "
-"careful to keep it safe and updates will be delivered directly to you."
-msgstr ""
-"Všechny balíky z Centra softwaru jsou uloženy v našich internetových "
-"zdrojích. Staráme se o to, aby byly bezpečné a aby aktualizace byly dodávány "
-"přímo k vám."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/openoffice.html:1
-msgid "Office tools at your fingertips"
-msgstr "Kancelářské nástroje pro každodenní použití"
-
-#.  "OpenOffice.org" does not refer to a particular menu item, but it a name shared in common between all of the OpenOffice components in the Applications menu. 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/openoffice.html:6
-msgid ""
-"Ubuntu comes with <em>OpenOffice.org</em>, a powerful office software suite "
-"that is easy to understand."
-msgstr ""
-"Ubuntu přichází s <em>OpenOffice.org</em>, což je výkonný kancelářský balík "
-"navržený pro snadné použití."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/openoffice.html:7
-msgid "It helps you create documents, presentations, diagrams and databases."
-msgstr "Pomůže vám vytvářet dokumenty, prezentace, diagramy a databáze."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/openoffice.html:8
-msgid ""
-"OpenOffice.org uses the standard OpenDocument file format. It opens files "
-"from other office applications like Microsoft Office and WordPerfect."
-msgstr ""
-"OpenOffice.org používá standardní formát souboru OpenDocument. Je schopen "
-"otevřít soubory jiných kancelářských balíků jako Microsoft Office a "
-"WordPerfect."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/rhythmbox-totem.html:1
-msgid "Entertainment with music and movies"
-msgstr "Zábava s hudbou a filmy"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/rhythmbox-totem.html:6
-msgid ""
-"Ubuntu is ready to play music and videos from the web, from CDs and DVDs."
-msgstr "Ubuntu je připraveno přehrávat hudbu a videa z internetu, CD a DVD."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/rhythmbox-totem.html:7
-msgid ""
-"The <em>Rhythmbox Music Player</em> lets you organize your music, listen to "
-"Internet radio, and purchase a variety of songs. Manage your podcast "
-"subscriptions and automatically download new episodes."
-msgstr ""
-"<em>Přehrávač hudby Rhythmbox</em> vám umožní spravovat vaši hudbu, "
-"poslouchat internetová rádia a kupovat různé skladby. Umí také spravovat "
-"podcasty a automaticky stahovat nové epizody."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/rhythmbox-totem.html:8
-msgid ""
-"Discover popular, DRM-free music available for purchase from the <em>Ubuntu "
-"One Music Store</em>, a cloud-enabled digital music store. Purchases are "
-"automatically stored in the cloud and synchronised across all of your "
-"computers."
-msgstr ""
-"Objevujte oblíbenou hudbu bez ochrany DRM, kterou je možné nakupovat v "
-"<em>Hudebním obchodu Ubuntu One</em>. Zakoupené skladby jsou automaticky "
-"uloženy v Internetovém úložišti a synchronizovány napříč všemi vašimi "
-"počítači."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/rhythmbox-totem.html:9
-msgid ""
-"Plug in an MP3 player to start synchronizing your music collection, or "
-"insert a CD to copy songs to your computer."
-msgstr ""
-"Připojte přehrávač MP3 pro spuštění synchronizace vaší sbírky skladeb nebo "
-"vložte CD pro zkopírování hudby do počítače."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/ubuntuone.html:1
-msgid "Keep your digital life in sync"
-msgstr "Získejte přístup ke svým datům odkudkoli"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/ubuntuone.html:6
-msgid ""
-"Shuffle between your laptop, netbook, and company desktop and find "
-"everything you need automatically synchronised. Your documents, music, "
-"bookmarks, address book, and notes – everything goes where you go with "
-"<em>Ubuntu One</em>."
-msgstr ""
-"Ať už používáte notebook, netbook nebo stolní počítač, najdete vše co "
-"potřebujete automaticky synchronizováno. Vaše dokumenty, hudbu, záložky, "
-"adresář a poznámky - to vše jde s vámi při použití <em>Ubuntu One</em>."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/ubuntuone.html:7
-msgid ""
-"Want a safe home for your important files? All Ubuntu users get 2 GB of "
-"personal cloud storage for free (and more if you need it)."
-msgstr ""
-"Hledáte bezpečný domov pro vaše důležité soubory? Všichni uživatelé Ubuntu "
-"získají zdarma 2 GB osobního internetového úložiště (i více, pokud bude "
-"potřeba)."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/ubuntuone.html:8
-msgid ""
-"Share folders using your synchronised address book. Project collaboration "
-"has never been easier."
-msgstr ""
-"Sdílejte složky pomocí svého synchronizovaného adresáře. Spolupráce na "
-"projektu nebyla nikdy jednodušší."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/ubuntuone.html:9
-msgid ""
-"Sign-up by launching the <em>Ubuntu One Preferences</em> application or "
-"going to <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
-msgstr ""
-"Přihlaste se spuštěním aplikace <em>Předvolby Ubuntu One</em> nebo přejděte "
-"na stránku <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/usc.html:24
+msgid "Stellarium – A 3D planetarium for your computer"
+msgstr "Stellarium – 3D planetárium pro váš počítač"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
 msgid "Welcome"
 msgstr "Vítejte"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntu/slides/welcome.html:6
-#, fuzzy
-msgid "Thank you for choosing Ubuntu 10.10."
-msgstr "Děkujeme, že jste si vybrali právě Ubuntu 10.04 LTS."
-
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
 msgid ""
-"Whether you're new to Ubuntu or a long-time user, we're sure there is "
-"something you will enjoy. While Ubuntu is installed, this slideshow will "
-"show you around."
+"Thank you for choosing Ubuntu 10.10. This version brings some exciting "
+"changes including a new sound menu, the Shotwell photo manager and features "
+"that make it even easier to find and install new software. While Ubuntu is "
+"installed, this slideshow will show you around."
 msgstr ""
-"Ať už jste novým nebo dlouholetým uživatelem Ubuntu, jsme si jisti, že "
-"naleznete něco, co se vám bude líbit. Během instalace vám Ubuntu stručně "
-"představíme."
+"Děkujeme, že jste si vybrali právě Ubuntu 10.10. Tato verze přináší některé "
+"užitečné změny zahrnující nový applet pro zvuk, správce fotografií Shotwell "
+"a funkce, které více usnadňují hledání a instalaci nového softwaru. Během "
+"instalace vám Ubuntu stručně představíme."
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/welcome.html:10
-msgid "Ubuntu is designed to be easy. Feel free to explore!"
-msgstr "Ubuntu je tu pro vás, nebojte se ho prozkoumat!"
+#~ msgid "The installation will finish soon. We hope you enjoy Ubuntu."
+#~ msgstr ""
+#~ "Instalace bude za chvíli dokončena. Doufáme, že používání Ubuntu bude pro "
+#~ "vás příjemným zážitkem!"
+
+#~ msgid "Browse the web with Firefox"
+#~ msgstr "Brouzdejte internetem s Firefoxem"
+
+#~ msgid ""
+#~ "Add your favorite Web calendars to see upcoming games or movie releases. "
+#~ "To see your daily schedule, just click the clock at the top of your "
+#~ "screen."
+#~ msgstr ""
+#~ "Přidávejte své oblíbené webové kalendáře, abyste nezmeškali uvedení "
+#~ "nových her nebo filmů. Pro zobrazení denního rozvrhu stačí kliknout na "
+#~ "hodiny v horní části obrazovky."
+
+#~ msgid ""
+#~ "It protects your privacy and personal information so you can surf worry "
+#~ "free."
+#~ msgstr ""
+#~ "Chrání vaše soukromí a osobní informace, takže můžete surfovat bez "
+#~ "starostí."
+
+#~ msgid ""
+#~ "With <em>F-Spot Photo Manager</em>, it is really easy to share, touch-up "
+#~ "and organize digital photos."
+#~ msgstr ""
+#~ "Pomocí <em>Správce fotografií F-Spot</em> můžete jednoduše sdílet, "
+#~ "upravovat a organizovat digitální fotografie."
+
+#~ msgid ""
+#~ "Use the Export option to write your photos to CDs, email them to friends "
+#~ "or share them online."
+#~ msgstr ""
+#~ "Využijte různé možnosti exportování vašich fotografií: zápis na CD, "
+#~ "zaslání přátelům přes e-mail nebo sdílení přes internet."
+
+#~ msgid ""
+#~ "To get started, choose F-Spot from the Graphics Applications menu or "
+#~ "attach a digital camera and follow the prompts."
+#~ msgstr ""
+#~ "F-Spot spustíte z nabídky Aplikace - Grafika nebo připojte fotoaparát a "
+#~ "postupujte dle pokynů."
+
+#~ msgid "Office tools at your fingertips"
+#~ msgstr "Kancelářské nástroje pro každodenní použití"
+
+#~ msgid "Ubuntu is designed to be easy. Feel free to explore!"
+#~ msgstr "Ubuntu je tu pro vás, nebojte se ho prozkoumat!"
+
+#~ msgid ""
+#~ "If you need help, try <em>Help and Support</em> from the System menu, or "
+#~ "the <em>Help</em> menu in most applications."
+#~ msgstr ""
+#~ "Pokud potřebujete pomoc, zvolte z nabídky Systém aplikaci <em>Nápověda a "
+#~ "podpora</em> nebo nabídku <em>Nápověda</em> nacházející se ve většině "
+#~ "aplikací."
+
+#~ msgid ""
+#~ "Let us know about your Ubuntu experience at <a href=\"http://ubuntu.com/"
+#~ "community\">ubuntu.com/community</a>!"
+#~ msgstr ""
+#~ "Podělte se s námi o svých zkušenostech s Ubuntu na stránce <a href="
+#~ "\"http://www.ubuntu.cz/komunita\">ubuntu.cz/komunita</a>!"
+
+#~ msgid "Accessibility in Ubuntu"
+#~ msgstr "Zpřístupnění v Ubuntu"
+
+#~ msgid ""
+#~ "We want to make computers work for everyone, whatever your physical "
+#~ "circumstances. So, we provide tools that make Ubuntu one of the most "
+#~ "accessible operating systems around."
+#~ msgstr ""
+#~ "Chceme umožnit práci na počítači každému bez ohledu na jeho fyzická "
+#~ "omezení. Proto poskytujeme nástroje, které činí Ubuntu jedním z "
+#~ "nejpřístupnějších operačních systémů."
+
+#~ msgid ""
+#~ "In addition to our extensive written help, the Ubuntu community provides "
+#~ "free technical support in person and over the Internet. There is also "
+#~ "commercial support available through Canonical, its partners and approved "
+#~ "companies. Learn more at <a href=\"http://www.ubuntu.com/support\">ubuntu."
+#~ "com/support</a>."
+#~ msgstr ""
+#~ "Kromě naší rozsáhle nápovědy v písemné formě poskytuje komunita Ubuntu "
+#~ "také bezplatnou technickou podporu osobně nebo přes internet. Také můžete "
+#~ "využít komerční podporu poskytovanou společností Canonical, jejími "
+#~ "partnery a ověřenými společnostmi. Více se dočtete na stránce <a href="
+#~ "\"http://www.ubuntu.cz/podpora\">ubuntu.cz/podpora</a>."
+
+#~ msgid "Ubuntu comes with the widely acclaimed <em>Firefox web browser</em>."
+#~ msgstr ""
+#~ "Ubuntu přichází s nejrozšířenějším <em>webovým prohlížečem Firefox</em>."
+
+#~ msgid ""
+#~ "Use tags to describe your photos so that they are easy to find later on."
+#~ msgstr ""
+#~ "Použijte štítky k popsání vašich fotografií, abyste je později mohli "
+#~ "jednoduše najít."
+
+#~ msgid ""
+#~ "You can get at these tools in one place: the <em>Assistive Technologies "
+#~ "Preferences</em>, inside the System Menu. From there, you can turn on "
+#~ "helpful tools like <em>Orca</em>, to speak text on the screen, or dwell "
+#~ "click to press mouse buttons automatically."
+#~ msgstr ""
+#~ "Tyto nástroje můžete najít na jednom místě: v nástroji <em>Předvolby "
+#~ "technologií usnadnění</em> uvnitř nabídky Systém. Odtud můžete zapnout "
+#~ "pomocné nástroje jako <em>Orca</em> pro čtení textu z obrazovky nebo "
+#~ "kliknutí počkáním pro automatické klikání tlačítek myši."
+
+#~ msgid "Control your digital life"
+#~ msgstr "Ovládejte svůj digitální svět"
+
+#~ msgid ""
+#~ "If you're busy, click your name at the top of the screen to change your "
+#~ "status."
+#~ msgstr ""
+#~ "Pokud jste zaneprázdněni, klikněte na své jméno v horní části obrazovky "
+#~ "pro změnu stavu."
+
+#~ msgid ""
+#~ "From the start, Ubuntu connects to online chat and broadcast services "
+#~ "including Facebook, Twitter, Windows Live and Google Talk."
+#~ msgstr ""
+#~ "Od začátku budete s Ubuntu v kontaktu přes chat nebo společenské sítě "
+#~ "Facebook, Twitter, Windows Live a Google Talk."
+
+#~ msgid ""
+#~ "Click the envelope near the clock to log in to your accounts. New "
+#~ "messages appear there, too, so you can see what's happening at a glance."
+#~ msgstr ""
+#~ "Pro přihlášení do svých účtů klikněte na obálku vedle hodin. Zde se také "
+#~ "zobrazují nové zprávy, takže hned vidíte, co se děje."
+
+#~ msgid ""
+#~ "Evolution has a powerful junk mail filter. You can use the search box, or "
+#~ "create your own filters, to make sorting mail quick and easy."
+#~ msgstr ""
+#~ "Evolution obsahuje pokročilý filtr nevyžádané pošty. Můžete použít "
+#~ "vyhledávací pole nebo vytvořit vlastní filtry pro rychlé a snadné řazení "
+#~ "e-mailů."
+
+#~ msgid ""
+#~ "<em>Evolution Mail</em> is the fully-featured email and calendar software "
+#~ "that comes with Ubuntu. Just enter your email account information and it "
+#~ "will download new messages automatically."
+#~ msgstr ""
+#~ "<em>Evolution</em> je plnohodnotný klient pro práci s e-maily a "
+#~ "kalendářem. Stačí zadat informace o svém e-mailu a klient automaticky "
+#~ "stáhne nové zprávy."
+
+#~ msgid ""
+#~ "Everything in Software Center is stored in our online repository. We are "
+#~ "careful to keep it safe and updates will be delivered directly to you."
+#~ msgstr ""
+#~ "Všechny balíky z Centra softwaru jsou uloženy v našich internetových "
+#~ "zdrojích. Staráme se o to, aby byly bezpečné a aby aktualizace byly "
+#~ "dodávány přímo k vám."
+
+#~ msgid ""
+#~ "There are powerful applications for all sorts of interests, from "
+#~ "programming to creating music and exploring the universe. Take a look at "
+#~ "the <em>Featured Applications</em> section for some of our favourites!"
+#~ msgstr ""
+#~ "K dispozici jsou plnohodnotné aplikace pro všechny skupiny zájmů, od "
+#~ "programování po tvorbu hudby a objevování vesmíru. Podívejte do sekce "
+#~ "<em>Oblíbené aplikace</em> na některé z našich oblíbených!"
+
+#~ msgid "Getting more software"
+#~ msgstr "Získání více softwaru"
+
+#~ msgid "Share and enjoy your photos"
+#~ msgstr "Sdílejte a prohlížejte své fotografie"
+
+#~ msgid ""
+#~ "Give Firefox your own personal touch with addons. You can choose from "
+#~ "thousands of themes and extensions that tailor it to how you use the web."
+#~ msgstr ""
+#~ "Vtiskněte Firefoxu svůj vlastní styl pomocí doplňků. Můžete vybírat z "
+#~ "tisíců motivů vzhledu a rozšíření, které přizpůsobí Firefox vašim "
+#~ "potřebám."
+
+#~ msgid ""
+#~ "If you need something else, try the <em>Ubuntu Software Center</em> to "
+#~ "choose from thousands of extras you can download for free."
+#~ msgstr ""
+#~ "Pokud potřebujete něco navíc, můžete pomocí <em>Centra softwaru pro "
+#~ "Ubuntu</em> vybírat z tisíců balíků, které si můžete stáhnout zdarma."
+
+#~ msgid ""
+#~ "The <em>Rhythmbox Music Player</em> lets you organize your music, listen "
+#~ "to Internet radio, and purchase a variety of songs. Manage your podcast "
+#~ "subscriptions and automatically download new episodes."
+#~ msgstr ""
+#~ "<em>Přehrávač hudby Rhythmbox</em> vám umožní spravovat vaši hudbu, "
+#~ "poslouchat internetová rádia a kupovat různé skladby. Umí také spravovat "
+#~ "podcasty a automaticky stahovat nové epizody."
+
+#~ msgid ""
+#~ "Ubuntu is ready to play music and videos from the web, from CDs and DVDs."
+#~ msgstr "Ubuntu je připraveno přehrávat hudbu a videa z internetu, CD a DVD."
+
+#~ msgid "Entertainment with music and movies"
+#~ msgstr "Zábava s hudbou a filmy"
+
+#~ msgid ""
+#~ "Ubuntu comes with <em>OpenOffice.org</em>, a powerful office software "
+#~ "suite that is easy to understand."
+#~ msgstr ""
+#~ "Ubuntu přichází s <em>OpenOffice.org</em>, což je výkonný kancelářský "
+#~ "balík navržený pro snadné použití."
+
+#~ msgid ""
+#~ "It helps you create documents, presentations, diagrams and databases."
+#~ msgstr "Pomůže vám vytvářet dokumenty, prezentace, diagramy a databáze."
+
+#~ msgid ""
+#~ "OpenOffice.org uses the standard OpenDocument file format. It opens files "
+#~ "from other office applications like Microsoft Office and WordPerfect."
+#~ msgstr ""
+#~ "OpenOffice.org používá standardní formát souboru OpenDocument. Je schopen "
+#~ "otevřít soubory jiných kancelářských balíků jako Microsoft Office a "
+#~ "WordPerfect."
+
+#~ msgid "Keep your digital life in sync"
+#~ msgstr "Získejte přístup ke svým datům odkudkoli"
+
+#~ msgid ""
+#~ "Plug in an MP3 player to start synchronizing your music collection, or "
+#~ "insert a CD to copy songs to your computer."
+#~ msgstr ""
+#~ "Připojte přehrávač MP3 pro spuštění synchronizace vaší sbírky skladeb "
+#~ "nebo vložte CD pro zkopírování hudby do počítače."
+
+#~ msgid ""
+#~ "Want a safe home for your important files? All Ubuntu users get 2 GB of "
+#~ "personal cloud storage for free (and more if you need it)."
+#~ msgstr ""
+#~ "Hledáte bezpečný domov pro vaše důležité soubory? Všichni uživatelé "
+#~ "Ubuntu získají zdarma 2 GB osobního internetového úložiště (i více, pokud "
+#~ "bude potřeba)."
+
+#~ msgid ""
+#~ "Shuffle between your laptop, netbook, and company desktop and find "
+#~ "everything you need automatically synchronised. Your documents, music, "
+#~ "bookmarks, address book, and notes – everything goes where you go with "
+#~ "<em>Ubuntu One</em>."
+#~ msgstr ""
+#~ "Ať už používáte notebook, netbook nebo stolní počítač, najdete vše co "
+#~ "potřebujete automaticky synchronizováno. Vaše dokumenty, hudbu, záložky, "
+#~ "adresář a poznámky - to vše jde s vámi při použití <em>Ubuntu One</em>."
+
+#~ msgid ""
+#~ "Sign-up by launching the <em>Ubuntu One Preferences</em> application or "
+#~ "going to <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
+#~ msgstr ""
+#~ "Přihlaste se spuštěním aplikace <em>Předvolby Ubuntu One</em> nebo "
+#~ "přejděte na stránku <a href=\"http://one.ubuntu.com/\">http://one.ubuntu."
+#~ "com/</a>."
 
 #~ msgid ""
 #~ "This release marks a major milestone in the Ubuntu project. It is easier "
@@ -439,3 +626,41 @@ msgstr "Ubuntu je tu pro vás, nebojte se ho prozkoumat!"
 #~ "spolehlivější než dříve, se stovkami vylepšeními včetně nového editoru "
 #~ "videa, integrace společenských sítí a rostoucího výběru dodatečného "
 #~ "softwaru."
+
+#~ msgid ""
+#~ "Whether you're new to Ubuntu or a long-time user, we're sure there is "
+#~ "something you will enjoy. While Ubuntu is installed, this slideshow will "
+#~ "show you around."
+#~ msgstr ""
+#~ "Ať už jste novým nebo dlouholetým uživatelem Ubuntu, jsme si jisti, že "
+#~ "naleznete něco, co se vám bude líbit. Během instalace vám Ubuntu stručně "
+#~ "představíme."
+
+#~ msgid ""
+#~ "Remember to check out the <em>Appearance Preferences</em>, too. You can "
+#~ "choose between different visual styles and even change the fonts that are "
+#~ "used by applications."
+#~ msgstr ""
+#~ "Nezapomeňte vyzkoušet také <em>Předvolby vzhledu</em>. Můžete si vybrat z "
+#~ "různých motivů nebo měnit písma použitá v aplikacích."
+
+#~ msgid "Getting Help with Ubuntu"
+#~ msgstr "Získání pomoci v Ubuntu"
+
+#~ msgid ""
+#~ "Share folders using your synchronised address book. Project collaboration "
+#~ "has never been easier."
+#~ msgstr ""
+#~ "Sdílejte složky pomocí svého synchronizovaného adresáře. Spolupráce na "
+#~ "projektu nebyla nikdy jednodušší."
+
+#~ msgid ""
+#~ "Discover popular, DRM-free music available for purchase from the "
+#~ "<em>Ubuntu One Music Store</em>, a cloud-enabled digital music store. "
+#~ "Purchases are automatically stored in the cloud and synchronised across "
+#~ "all of your computers."
+#~ msgstr ""
+#~ "Objevujte oblíbenou hudbu bez ochrany DRM, kterou je možné nakupovat v "
+#~ "<em>Hudebním obchodu Ubuntu One</em>. Zakoupené skladby jsou automaticky "
+#~ "uloženy v Internetovém úložišti a synchronizovány napříč všemi vašimi "
+#~ "počítači."
