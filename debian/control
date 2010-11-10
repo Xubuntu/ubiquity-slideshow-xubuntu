@@ -5,7 +5,7 @@ Maintainer: Ubiquity Slideshow Team <ubiquity-slideshow@lists.launchpad.net>
 Build-Depends: cdbs, debhelper (>= 5)
 Build-Depends-Indep: po4a, python-utidylib
 Vcs-Bzr: https://code.launchpad.net/~ubiquity-slideshow/ubiquity-slideshow-ubuntu/html
-Standards-Version: 3.8.4
+Standards-Version: 3.9.1
 Homepage: https://launchpad.net/ubiquity-slideshow-ubuntu
 
 Package: ubiquity-slideshow-ubuntu
@@ -47,3 +47,14 @@ Depends: ${misc:Depends}
 Description: Ubiquity slideshow for Lubuntu
  A slideshow intended for the Ubiquity installer, designed as a quick 
  introduction to Lubuntu.
+
+Package: ubiquity-slideshow-edubuntu
+Architecture: all
+Provides: ubiquity-slideshow
+Conflicts: ubiquity-slideshow
+Replaces: ubiquity-slideshow
+Depends: ${misc:Depends}
+Description: Ubiquity slideshow for Edubuntu
+ A slideshow intended for the Ubiquity installer, designed as a quick
+  introduction to Edubuntu.
+
