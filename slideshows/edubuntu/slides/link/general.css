@@ -39,34 +39,6 @@ a {
 	height:100%;
 }
 
-.control-arrow {
-        display:block;
-        position:absolute;
-
-        z-index:100;
-        top:218px;
-        height:64px;
-        width:33px;
-
-        background-repeat:no-repeat;
-        cursor:pointer;
-}
-.control-arrow:hover {
-        background-position: 0px -65px;
-}
-.control-arrow:active {
-        background-position: 0px -130px;
-}
-.control-arrow#prev-slide {
-        background-image:url('arrow-back.png');
-        left:0px;
-}
-.control-arrow#next-slide {
-        background-image:url('arrow-next.png');
-        left:765px; /* 752px - 33px */
-}
-
-
 #debug-controls {
 	display:none;
 	position:absolute;
@@ -162,7 +134,7 @@ Slide's body text goes inside here.
 
 .content ul {
 	margin-top:0px;
-	padding-left:60px;
+	padding-left:20px;
 	
 	width:650px;
 	height:223px;
