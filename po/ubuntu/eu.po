@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2010-09-16 18:51+0200\n"
-"PO-Revision-Date: 2010-09-28 22:14+0000\n"
-"Last-Translator: Evan Dandrea <ev@ubuntu.com>\n"
+"PO-Revision-Date: 2010-11-30 22:07+0000\n"
+"Last-Translator: Evan Dandrea <evan.dandrea@canonical.com>\n"
 "Language-Team: Basque <eu@li.org>\n"
-"Language: eu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2010-10-01 09:20+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
+"X-Launchpad-Export-Date: 2011-02-11 11:48+0000\n"
+"X-Generator: Launchpad (build 12351)\n"
+"Language: eu\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -31,6 +31,10 @@ msgid ""
 "your preferred fonts, color schemes and languages, Ubuntu provides the "
 "flexibility to fit real people, whoever they are."
 msgstr ""
+"Ubunturen filosofiaren bihotzean pentsamendu bat dago: konputagailuak "
+"denontzako dira. Irisgarritasun tresna aurreratuak eta ehunka "
+"pertsonalizazio aukera baliatuz (letra-tipoak, koloreak, hizkuntzak) Ubuntuk "
+"edozein pertsona errealen beharrei egokitzeko malgutasuna dauka."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
@@ -63,6 +67,9 @@ msgid ""
 "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
 "choose alternative browsers from Ubuntu Software Center."
 msgstr ""
+"Ubuntuk Mozilla Firefox dakar berekin, web nabigazio bizkor eta segurua "
+"eskainiz. Beste nabigatzaile batzuk hautatzeko aukera ere badaukazu "
+"Ubunturen software-biltegia erabiliz."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -71,7 +78,7 @@ msgstr ""
 #: slideshows/ubuntu/slides/office.html:12
 #: slideshows/ubuntu/slides/photos.html:12
 msgid "Included software"
-msgstr ""
+msgstr "Instalatutako softwarea"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:16
@@ -82,7 +89,7 @@ msgstr "Firefox web arakatzailea"
 #: slideshows/ubuntu/slides/browse.html:19
 #: slideshows/ubuntu/slides/email.html:27
 msgid "Supported software"
-msgstr ""
+msgstr "Onartutako softwarea"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:23
@@ -97,7 +104,7 @@ msgstr "Google Chrome"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/email.html:1
 msgid "Email and chat"
-msgstr ""
+msgstr "Posta eta txata"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/email.html:8
@@ -106,11 +113,14 @@ msgid ""
 "MSN, Jabber and many more. Set your status and reach all your instant "
 "messaging contacts from a single place."
 msgstr ""
+"Erabili Empathy eta txateatu zure Yahoo, Facebook, Gmail, MSN, Jabber eta "
+"beste hainbat zerbitzutako kontuekin. Ezarri zure egoera eta ikusi zure "
+"mezularitzako kontaktu guztiak leku bakarretik."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/email.html:16
 msgid "Empathy IM"
-msgstr ""
+msgstr "Empathy berehalako mezularitza"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/email.html:20
@@ -136,29 +146,39 @@ msgstr "Laguntza lortu Ubuntu-rekin"
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
 "Ubuntu is designed to be easy and safe, so don&#8217;t hesitate to explore! "
-"If you have any questions, try the Help menu in most applications or <a href="
-"\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore your "
-"other options. We hope you enjoy Ubuntu."
+"If you have any questions, try the Help menu in most applications or <a "
+"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
+"your other options. We hope you enjoy Ubuntu."
 msgstr ""
+"Ubuntu erabilerraza eta segurua izateko diseinatuta dago, ez beldurtu eta "
+"arakatu! Galderarik baduzu erabili Laguntza menua aplikazio gehienetan edo "
+"<a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> gunea "
+"aukera gehiago bilatzeko. Ubuntuz gozatzea espero dugu."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/mobilise.html:1
 msgid "Mobilize your digital life"
-msgstr ""
+msgstr "Mugikortu zure bizitza digitala"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/mobilise.html:8
 msgid ""
-"All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu One</"
-"a> account. Ubuntu One allows you to sync all kinds of files online so you "
-"can access them anywhere. Sync bookmarks, contacts, music and pictures "
+"All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
+"One</a> account. Ubuntu One allows you to sync all kinds of files online so "
+"you can access them anywhere. Sync bookmarks, contacts, music and pictures "
 "across all your computers. Take everything everywhere with Ubuntu One."
 msgstr ""
+"Ubunturen erabiltzaile guztiek doako <a "
+"href=\"https://one.ubuntu.com/\">Ubuntu One</a> kontu bat eskuratzen dute. "
+"Ubuntu One-k edozein motako fitxategiak linean sinkronizatzea ahalbidetzen "
+"dizu, edonondik eskuragarri izateko. Sinkronizatu laster-markak, kontaktuak, "
+"musika eta irudiak zure konputagailuetan zehar. Eraman dena alde guztietara "
+"Ubuntu One-rekin."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:1
 msgid "Buy music while you listen"
-msgstr "Erosi musika hau entzuten duzun bitartean"
+msgstr "Erosi musika entzun ahala"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/music.html:8
@@ -169,6 +189,11 @@ msgid ""
 "computers. You can add your music to a portable music player, too; just plug "
 "it in to get started."
 msgstr ""
+"Ubunturen musika-erreproduzitzaileak integratutako denda dakar, eta bertan "
+"erosi eta deskargatu ditzakezu abesti berriak klik gutxi batzuekin. Ubuntu "
+"One-n fitxategien sinkronizazio magikoari esker zure musika sarean gorde "
+"dezakezu eta beste ordenagailuetatik ere entzun. Musika-erreproduzigailu "
+"eramangarrira ere zure musika gehitu dezakezu, entxufatu eta jarri abian."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:16
@@ -193,6 +218,10 @@ msgid ""
 "OpenOffice.org is easy to use, packed with the features you need and "
 "completely free."
 msgstr ""
+"OpenOffice.org guztiz bateragarria da Microsoft Office-rekin eta dokumentu, "
+"kalkulu-orri eta aurkezpen profesionalak sortzeko behar duzun dena dakar. "
+"OpenOffice.org erabilerraza da, behar dituzun ezaugarri guztiekin paketatuta "
+"dator eta guztiz librea eta doakoa da."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
@@ -217,6 +246,11 @@ msgid ""
 "share them on Picasa, Facebook or Flickr. For advanced photo editing, you "
 "can find more free applications in Ubuntu Software Center."
 msgstr ""
+"Ubuntu prest dago zure gadget guztientzat. Soilik konektatu zure mugikorrak "
+"edo kamerak eta jarri abian. Shotwell-ek argazki digitalak antolatu eta "
+"Picasa, Facebook edo Flickr-en partekatzea erraztuko dizu. Argazki edizio "
+"aurreraturako aplikazio libre eta doako gehiago aurki ditzakezu Ubunturen "
+"software-biltegian."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -240,11 +274,14 @@ msgid ""
 "post updates on sites like Facebook and Twitter. New messages appear in the "
 "messaging menu so you can respond when you want."
 msgstr ""
+"Me Menu-rekin sozializatzea inoiz baino errazagoa da. Erabili zure Facebook "
+"edo Twitterreko egoera instantean eguneratzeko. Mezu berriak mezularitza "
+"menuan azalduko dira nahi duzunean erantzuteko."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/social.html:12
 msgid "Supported services"
-msgstr ""
+msgstr "Onartutako zerbitzuak"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/social.html:16
@@ -273,26 +310,32 @@ msgid ""
 "source applications. Browse categories including Education, Games, Graphics "
 "and Science. Software is easy to find, easy to install and easy to remove."
 msgstr ""
+"Ubunturen software-biltegiak berehalako sarbidea ematen dizu kode irekiko "
+"eta doako milaka aplikazio libretara. Arakatu kategoria guztiak, hala nola "
+"Hezkuntza, Jokoak, Grafikoak edota Zientzia. Softwarea erraz aurkitu, erraz "
+"instalatu eta erraz ezabatu."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/usc.html:12
 msgid "Featured software"
-msgstr ""
+msgstr "Gomendatutako softwarea"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/usc.html:16
 msgid "GIMP – Advanced image editing for photographers and graphic designers"
 msgstr ""
+"GIMP – Irudi edizio aurreratua argazkilarientzat eta diseinatzaile "
+"grafikoentzat"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/usc.html:20
 msgid "Jokosher – Your very own home recording studio"
-msgstr ""
+msgstr "Jokosher – Zure grabaketa estudioa etxean bertan"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/usc.html:24
 msgid "Stellarium – A 3D planetarium for your computer"
-msgstr ""
+msgstr "Stellarium – 3D planetario bat zure konputagailuan"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -307,123 +350,7 @@ msgid ""
 "that make it even easier to find and install new software. While Ubuntu is "
 "installed, this slideshow will show you around."
 msgstr ""
-
-#~ msgid "The installation will finish soon. We hope you enjoy Ubuntu."
-#~ msgstr ""
-#~ "Laster amaituko da instalazioa. Ubunturekin gozatuko duzula espero dugu."
-
-#~ msgid "Accessibility in Ubuntu"
-#~ msgstr "Erabilerraztasuna Ubuntun"
-
-#~ msgid ""
-#~ "Add your favorite Web calendars to see upcoming games or movie releases. "
-#~ "To see your daily schedule, just click the clock at the top of your "
-#~ "screen."
-#~ msgstr ""
-#~ "Zure web-egutegi gogokoenak gehitu itzazu, zein partida edo filma datozen "
-#~ "ikusteko. Zure eguneroko agenda ikusteko, pantailaren goialdeko "
-#~ "ordularian klik egin beharrik baino ez duzu."
-
-#~ msgid ""
-#~ "Use the Export option to write your photos to CDs, email them to friends "
-#~ "or share them online."
-#~ msgstr ""
-#~ "Esportatzeko aukera erabili ezazu zure argazkiak CD batean idazteko, "
-#~ "lagun bati e-postaz bidaltzeko edo online konpartitzeko."
-
-#~ msgid "Office tools at your fingertips"
-#~ msgstr "Bulegorako tresnak zure eskuetan"
-
-#~ msgid "Ubuntu is designed to be easy. Feel free to explore!"
-#~ msgstr ""
-#~ "Erraza izan dadin diseinatu dugu Ubuntu. Nahi duzun beste probatu ezazu!"
-
-#~ msgid "Browse the web with Firefox"
-#~ msgstr "Interneten nabigatu ezazu Firefox-ekin"
-
-#~ msgid ""
-#~ "It protects your privacy and personal information so you can surf worry "
-#~ "free."
-#~ msgstr ""
-#~ "Zure pribatutasuna eta informazio pertsonala babesten du, lasaitasunez "
-#~ "nabigatu dezazun."
-
-#~ msgid ""
-#~ "With <em>F-Spot Photo Manager</em>, it is really easy to share, touch-up "
-#~ "and organize digital photos."
-#~ msgstr ""
-#~ "<em>F-Spot Argazki-Kudeatzailea</em>rekin, berehalako batean konpartitu, "
-#~ "moldatu eta antolatuko dituzu zure argazki digitalak."
-
-#~ msgid ""
-#~ "To get started, choose F-Spot from the Graphics Applications menu or "
-#~ "attach a digital camera and follow the prompts."
-#~ msgstr ""
-#~ "Hasteko, F-Spot hautatu ezazu Irudi-Aplikazioak menuan edo kamera digital "
-#~ "bat konektatu ezazu zure ordenagailura eta argibideak jarraitu."
-
-#~ msgid "Getting Help with Ubuntu"
-#~ msgstr "Eskuratu laguntza Ubuntun"
-
-#~ msgid ""
-#~ "We want to make computers work for everyone, whatever your physical "
-#~ "circumstances. So, we provide tools that make Ubuntu one of the most "
-#~ "accessible operating systems around."
-#~ msgstr ""
-#~ "Edonorentzako funtzionarazi nahi ditugu ordenagailuak, edozein dela ere "
-#~ "zure egoera fisikoa. Beraz, Ubuntu munduko sistema eragile "
-#~ "erabilerrazenetakoa bilakatzen duten tresna ugari eskaintzen ditugu."
-
-#~ msgid ""
-#~ "Remember to check out the <em>Appearance Preferences</em>, too. You can "
-#~ "choose between different visual styles and even change the fonts that are "
-#~ "used by applications."
-#~ msgstr ""
-#~ "Begiratu <em>Itxuraren hobespenak</em> ere. Estilo bisual ugariren artean "
-#~ "hautatu dezakezu, eta aplikazioek darabiltzaten letra-tipoak aldatu."
-
-#~ msgid ""
-#~ "If you need help, try <em>Help and Support</em> from the System menu, or "
-#~ "the <em>Help</em> menu in most applications."
-#~ msgstr ""
-#~ "Laguntza beharrean bazaude, aukeratu <em>Laguntza eta sostengua</em> "
-#~ "Sistema menuan, edo <em>Laguntza</em> menua aplikazio gehienetan."
-
-#~ msgid ""
-#~ "You can get at these tools in one place: the <em>Assistive Technologies "
-#~ "Preferences</em>, inside the System Menu. From there, you can turn on "
-#~ "helpful tools like <em>Orca</em>, to speak text on the screen, or dwell "
-#~ "click to press mouse buttons automatically."
-#~ msgstr ""
-#~ "Tresna hauek leku bakarrean aurkituko dituzu: <em>Teknologia "
-#~ "laguntzaileen hobespenak</em> leihoan, Sistema menuaren baitan. Bertatik "
-#~ "tresna lagungarri ugari gaitu ditzakezu; adibidez <em>Orca</em>, "
-#~ "pantailako testua entzuteko, edo tenporizazio-klika, saguaren botoiak "
-#~ "automatikoki sakatzeko."
-
-#~ msgid "Control your digital life"
-#~ msgstr "Zure bizitza digitala kontrolatu"
-
-#~ msgid ""
-#~ "If you're busy, click your name at the top of the screen to change your "
-#~ "status."
-#~ msgstr ""
-#~ "Lanpeturik bazaude, zure izenean klikatu pantailaren goialdean zure "
-#~ "egoera aldatzeko."
-
-#~ msgid "Getting more software"
-#~ msgstr "Software gehiago lortu"
-
-#~ msgid "Share and enjoy your photos"
-#~ msgstr "Zure argazkiak partekatu eta gozatu"
-
-#~ msgid ""
-#~ "It helps you create documents, presentations, diagrams and databases."
-#~ msgstr ""
-#~ "Dokumentuak, aurkezpenak, diagramak eta datu-baseak sortzen laguntzen du."
-
-#~ msgid "Entertainment with music and movies"
-#~ msgstr "Aisialdia musika eta filmekin"
-
-#~ msgid "Keep your digital life in sync"
-#~ msgstr "Zure bizitza digitala sinkronizaturik mantendu"
+"Mila esker Ubuntu 10.10 aukeratzearren. Bertsio honek aldaketa zirraragarri "
+"batzuk dakartza, hala nola soinu-menu berria, Shotwell argazki-kudeatzailea "
+"eta software berria bilatu eta instalatzea errazten duen ezaugarri piloa. "
+"Ubuntu instalatu bitartean diapositiba hauekin aurkeztuko gara."
