@@ -1,203 +1,133 @@
-html, body
-{
-	margin:0;
-	padding:0;
-	
-	background-color:#2e3436;
-	
-	font-family:sans-serif;
-	color:#000000;
+/* eric meyers css reset... */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+hr {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	line-height: 1.2em;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
 }
 
-/*
-Hyperlink-style text
-*/
-a
-{
-	color:#3771c8;
-	font-style:italic;
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
 }
 
-#slideshow
-{
-	position:absolute;
-	
-	width:700px;
-	height:420px;
-	
-	overflow:hidden;
-	
-	background-image:url('background-xubuntu.png');
-	background-repeat:no-repeat;
-	background-position:top left;
-	
-	background-color:#e3f0f5;
-	
-	/*cursor:default;*/
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
 }
-#slideshow > div {
-	position:absolute;
-	width:100%;
-	height:100%;
+del {
+	text-decoration: line-through;
 }
 
-#debug-controls {
-	display:none;
-	position:absolute;
-	top:440px;
-	width:700px;
-	text-align:center;
-}
-#debug-controls input {
-	width:40px;
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
 }
 
-/*
-Title block is positioned at the top of a slide.
-*/
-.title
-{
-	position:absolute;
-	top:15px;
-	left:50px;
+/* */
 
-	font-size:20px;
-	font-weight:normal;
-	font-family: serif;
-
-	color: #3771c8;
-
-	padding:0;
-	margin:0;
+html, body {
+	font-family: "Droid Sans", sans-serif;
 }
 
-/*
-Typically an image. This is positioned at the top
-right of a slide and is given a size of 64x64 pixels.
-*/
-.icon
-{
-	position:absolute;
-	
-	width:auto;
-	height:auto;
-	
-	bottom:0px;
-	right:10px;
-	
-	z-index:11;
-	border:0px;
+#slideshow {
+	background-image: url(background-xubuntu-1104.png);
+
+	width: 780px;
+	height: 550px;
+
+	overflow: hidden;
 }
 
-/*
-#content expects to be contained in here. #main
-creates a nice, plain surface upon which it can
-appear :)
-*/
-.main
-{
-	position:absolute;
-	
-	top:50px;
-	left:0px;
-	right:0px;
-	
-	padding-right:60px;
-	
-	font-size:14px;
-	
-	z-index:12;
+/* */
+.control-arrow {
+	z-index: 100;
+	position: absolute;
+	top: 290px;
+
+	width: 30px;
+	height: 69px;
+
+	background: transparent;
+	background-position: 0 0;
+}
+	.control-arrow:hover, .control-arrow:focus {
+		background-position: 0 -69px;
+	}
+	.control-arrow:active {
+		background-position: 0 -138px;
+	}
+	#prev-slide {
+		left: 0;
+		background-image: url(arrow-prev.png);
+	}
+	#next-slide {
+		left: 750px;
+		background-image: url(arrow-next.png);
+	}
+
+/* */
+
+p, ul, ol {
+	margin-bottom: 1em;
 }
 
-/*
-Slide's body text goes here. It appears right below
-the title, at the top of the white area with heavy
-margins around it.
-*/
-.main .content
-{
-	padding-left:16px;
-	padding-right:16px;
+/* */
 
-	width:490px;
-}
+.header {
+	display: table-cell;
 
-.content ul
-{
-	margin-top:0px;
-	padding-left:1.8em;
-	
-	height:230px;
-	overflow:auto;
-	
-	list-style-type:none;
-	list-style-image:url("bullet-point.png");
-}
+	padding: 0 60px;
+	height: 100px;
 
-.content li
-{
-	padding:0.6em;
+	vertical-align: middle;
 }
+	.header h1 {
+		color: #fff;
 
-.content li.nobullet
-{
-	list-style-type:none;
-	list-style-image:none;
-}
+		font-size: 300%;
+		font-family: "Droid Serif", serif;
+	}
 
-.content .special
-{
-/*	margin-top:1.4em;
-	margin-bottom:1em;
-	margin-left: 35px; */
-	
-	position:absolute;
-	top:240px;
-	left:50px;
-	width:440px;
-	
-	font-weight:bold;
+.main {
+	padding: 40px 0 0 0;
 }
+	.main .content, .main .shot {
+		float: left;
+	}
+	.main .content {	
+		width: 220px;
+		padding: 0 60px;
+	}
+	.main .shot {
+		width: 440px;
+	}
 
-.content img.inline
-{
-	height:14px;
-	width:auto;
-}
-
-/*
-This rule disables drag-and-drop for images.  See bug #448703.
-*/
-img
-{
- 	-webkit-user-drag: none;
-}
-
-
-
-/* RTL stuff */
-.rtl {
-	direction:rtl;
-}
-.rtl .title {
-	right:50px;
-	left:auto;
-}
-.rtl .icon {
-	left:10px;
-	right:auto;
-}
-.rtl .main {
-	padding-left:60px;
-	padding-right:0px;
-}
-.rtl ul {
-	padding-left:0px;
-	padding-right:1.8em;
-	list-style-image:url("bullet-point.rtl.png");
-}
-.rtl .content .special
-{
-	left:auto;
-	right:50px;
-}

@@ -12,6 +12,12 @@
 	<script type="text/javascript" src="link-core/jquery.js"></script>
 	<script type="text/javascript" src="link-core/jquery.cycle.all.js"></script>
 	<script type="text/javascript" src="directory.js"></script>
+	<script type="text/javascript">
+		SLIDESHOW_OPTIONS = {
+			timeout:50000,
+			speed:600,
+		}
+	</script>
 	<script type="text/javascript" src="link-core/slideshow.js"></script>
 </head>
 
@@ -29,9 +35,10 @@
 	<div><a href="getting-help.html"></a></div>
 </div>
 
-<div id="debug-controls">
-<input type="button" id="prev-slide" value="&lt;"/>
-<input type="button" id="next-slide" value="&gt;"/>
+<div id="controls">
+	<a class="control-arrow" id="prev-slide"></a>
+	<a class="control-arrow" id="next-slide"></a>
+	<input type="hidden" id="current-slide" />
 </div>
 
 </body>
