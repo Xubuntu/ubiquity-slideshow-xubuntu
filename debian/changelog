@@ -1,4 +1,4 @@
-ubiquity-slideshow-ubuntu (33) UNRELEASED; urgency=low
+ubiquity-slideshow-ubuntu (33) natty; urgency=low
 
   [ Dylan McCall ]
   * New strings for Ubuntu slideshow.
@@ -6,7 +6,10 @@ ubiquity-slideshow-ubuntu (33) UNRELEASED; urgency=low
   [ Evan Dandrea ]
   * Fix symlinks for the oem-config-ubuntu slideshow.
 
- -- Evan Dandrea <evan@daisy>  Thu, 03 Mar 2011 10:57:29 +0000
+  [ Yuri Chornoivan ]
+  * Fix typos in Edubuntu slides (LP: #725217)
+
+ -- Bryce Harrington <bryce@ubuntu.com>  Mon, 07 Mar 2011 14:25:55 -0800
 
 ubiquity-slideshow-ubuntu (32) natty; urgency=low
 
