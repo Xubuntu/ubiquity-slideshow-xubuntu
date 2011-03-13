@@ -27,9 +27,7 @@ ol, ul {
 html, body {
 	margin:0;
 	padding:0;
-	
 	background-color:#F7F6F6;
-	
 	font-family:'Ubuntu', 'UbuntuBeta', sans-serif;
 	font-size:12px;
 	line-height:1.4em;
@@ -47,8 +45,7 @@ html, body {
 Hyperlink-style text
 */
 a {
-	color:#731444;
-    font-style:italic;
+	color:#145E73;
 	text-decoration:none;
 	display:inline;
 }
@@ -105,9 +102,8 @@ a {
 	top:0px;
 	width:100%;
 	height:68px;
-	background-color:#3C3B37;
+	background-color:#809FBD;
 }
-
 .header > .slidetitle {
 	display:table-cell;
 	/*margin:10px 25px 10px 25px;*/
@@ -117,7 +113,7 @@ a {
 	font-size:20px; /* applies to all lines except first */
 	line-height:1em;
 	font-weight:normal;
-	color:#DED9CB;
+	color:white;
 }
 .slidetitle:first-line {
 	font-size:36px; /* TODO: 24px? */
@@ -153,6 +149,7 @@ Inner space is 224px wide.
 .text > div {
 	margin-bottom:8px;
 	padding:6px 12px;
+	background-color:#F7F6F6;
 }
 .text > div:last-child {
 	margin-bottom:0px;
