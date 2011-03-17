@@ -1,4 +1,10 @@
-ubiquity-slideshow-ubuntu (33) UNRELEASED; urgency=low
+ubiquity-slideshow-ubuntu (34) UNRELEASED; urgency=low
+
+  * Update lubuntu layout to Ubuntu one (LP: #729197)
+
+ -- Julien Lavergne <gilir@ubuntu.com>  Thu, 17 Mar 2011 01:10:56 +0100
+
+ubiquity-slideshow-ubuntu (33) natty; urgency=low
 
   [ Dylan McCall ]
   * New strings for Ubuntu slideshow.
@@ -6,10 +12,10 @@ ubiquity-slideshow-ubuntu (33) UNRELEASED; urgency=low
   [ Evan Dandrea ]
   * Fix symlinks for the oem-config-ubuntu slideshow.
 
-  [ Julien Lavergne ]
-  * Update lubuntu layout to Ubuntu one (LP: #729197)
+  [ Yuri Chornoivan ]
+  * Fix typos in Edubuntu slides (LP: #725217)
 
- -- Julien Lavergne <gilir@ubuntu.com>  Sun, 06 Mar 2011 13:09:20 +0100
+ -- Bryce Harrington <bryce@ubuntu.com>  Mon, 07 Mar 2011 14:25:55 -0800
 
 ubiquity-slideshow-ubuntu (32) natty; urgency=low
 
