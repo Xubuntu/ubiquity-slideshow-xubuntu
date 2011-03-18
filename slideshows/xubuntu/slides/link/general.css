@@ -46,6 +46,10 @@ del {
 	text-decoration: line-through;
 }
 
+img {
+	vertical-align:middle;
+}
+
 /* tables still need 'cellspacing="0"' in the markup */
 table {
 	border-collapse: collapse;
@@ -133,5 +137,5 @@ p, ul, ol {
 
 /* */
 .path { /* application paths */
-	font-size: 85%;
+	font-size: 65%;
 }
