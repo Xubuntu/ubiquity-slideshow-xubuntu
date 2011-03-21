@@ -152,11 +152,14 @@ h2 {
 		float: left;
 	}
 	.main .content {	
-		width: 220px;
+		width: 210px;
 		padding: 0 60px;
 	}
 	.main .shot {
-		width: 440px;
+		margin-left: 10px;
+	}
+	.main .shot.full {
+		margin-left: 0;
 	}
 
 /* */
