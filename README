@@ -32,15 +32,88 @@ and a (full) Build option when you open this project in Nautilus.
 Check out <http://launchpad.net/groundcontrol> for more information.
 
 
+----- Changing slideshows
+
+Each slideshow is inside the ./slideshows directory. These are created
+with HTML, CSS and Javascript. They all share the link-core directory in
+common. This directory has some Javascript files which should be used by
+every slideshow.
+
+To actually edit a slideshow, simply open it from the slideshows directory.
+Each slide will be its own html file, like
+slideshows/ubuntu/slides/welcome.html. index.html will contain a list of
+these slides in the order they will appear.
+
+Just pull open a slide in your favourite text editor and have fun.
+
+Be sure to test out your creations! The quickest way is test-slideshow.sh.
+
+You may notice some HTML comments (<!-- comment -->) in existing slides.
+These will appear as notes for translators. If you write something that may
+be confusing for them, please leave a comment in the same fashion.
+
+
+----- Screenshot guidelines
+
+Screenshots are taken at full size, scaled precisely 60% and cropped to
+match the other screenshots for a given slideshow. (Ubuntu's screenshots
+are 448x304 pixels).
+
+We try to follow some conventions for their content, too:
+
+* Do something. Open an example document, draw a pretty picture, chat with
+with someone, play music. Do whatever you might normally do.
+
+* Do not over-do. It can be tempting to stick every feature into view.
+However, that can be really overwhelming. Instead, try to focus on a
+single cool idea that will make somebody interested. It doesn't even have
+to be about features. Maybe something you can make? Pick one thing that
+really captures the essence of what you want to show.
+
+* Stick to defaults. We all love to customise, but make sure your fonts,
+themes and applications look the same as people get with their shiny new
+systems.
+
+* Be people. People are awesome. You're awesome! But anonymized
+screenshots are jarring. If you're afraid you might frighten a mainstream
+audience, consider making a fun persona in a different user account.
+
+* Personas live short lives. Try to avoid time as much as possible - it's
+awkward to show the current date, for example. A popular mistake is where
+a photo manager has images all taken on a single day! Where you can, try
+to make things look lived in.
+
+So, I just made screenshots a little trickier, but I hope that helps.
+Good luck!
+
+
+----- Musing on writing style
+
+* We can assume that the user has chosen to install Ubuntu willingly. That
+person is now an Ubuntu user and doesn't need to be sold on it further.
+The sales-person voice should not exist here. If you start to hear that
+voice, file a bug immediately.
+
+* Avoid the car instruction manual voice where possible. That is, try not
+to tell people where specific features are, but what they can expect to
+find. This is because the slideshow won't follow our users everywhere,
+so we have to answer a different question: "What next?"
+If we fixate on pressing buttons, the lessons will not stick :)
+
+* Please try to keep things neat, tidy and short. In a lot of cases we can
+trust our viewers to find things on their own as long as we show them
+where to start. It is possible for a single slide to do quite a bit.
+
+
 ----- Embedding a slideshow
       (For example, in an installer)
 
-./Slideshow.py contains an example implementation. Slideshows are simple
-HTML documents and can be embedded with WebKit, Mozilla or any other
-browser widget that supports Javascript and CSS.
+Slideshows are simple HTML documents and can be embedded with WebKit or
+any other browser widget that supports Javascript and CSS.
+./Slideshow.py contains an example implementation.
 
-The slideshow can be given some information via its URL. Append "#" and
-add attributes as key=value pairs, separated by "?". The following are
+The slideshow can be given some information through its URL. Append "#"
+and add attributes as key=value pairs, separated by "?". The following are
 recognized:
 
 ?controls                Enables debugging controls
@@ -59,38 +132,6 @@ called slideshow.conf. This contains two important variables inside the
 Slideshow section: width and height. This way, your implementation can
 find the specific size for its web widget and can choose whether to
 display a slideshow based on the available screen space.
-
-
------ Editing slideshow content
-
-Each slideshow is inside the ./slideshows directory. These are created
-with HTML, CSS and Javascript. They all share the link-core directory in
-common. This directory has some Javascript files which should be used.
-Most important is slideshow.js, which makes some assumptions about the
-structure of the HTML file it is in to create a slideshow that follows the
-conventions outlined previously.
-
-To actually edit a slideshow, simply open up the appropriate directory for
-the slideshow, then slides. Each slide will be its own file — for example,
-ubuntu/slides/welcome.html. The file index.html will contain a list of
-these slides. If a slide is added or removed, that file should be edited
-as well.
-
-Just pull open a slide in your favourite text editor and have fun.
-
-Be sure to test out your creations! The easiest way is to open up
-index.html in your web browser, then add #controls to the end of the URL
-and refresh. Note that generated images (the fancy icons) will not appear
-like this, but you can get a feel for how text fits in.
-
-In the end, you can build the slideshow using the make command from the
-base of this project (where this README is). The results should appear
-inside the ./build directory.
-
-You may notice some HTML comments (<!-- comment -->) in existing slides.
-These curently do nothing, but in the future they will appear as notes for
-translators. If you write something that may be confusing for them, please
-leave a comment in the same fashion.
 
 
 ----- Editing slideshow design
@@ -182,22 +223,3 @@ images. This makes it easier to add images to some slideshows.
 be run to produce new .pot files (for translators) reflecting that
 content. There is probably no need to do this yourself, though; the people
 who push those .pot files to Rosetta will do it.
-
-
------ Musing on writing style
-
-* We can assume that the user has chosen to install Ubuntu willingly. That
-person is now an Ubuntu user and doesn't need to be sold on it further.
-The sales-person voice should not exist here. If you start to hear that
-voice, file a bug immediately.
-
-* Avoid the car instruction manual voice where possible. That is, try not
-to tell people where specific features are, but what they can expect to
-find. This is because the slideshow won't follow our users everywhere,
-so we have to answer a different question: "What next?"
-If we fixate on pressing buttons, the lessons will not stick :)
-
-* Please try to keep things neat, tidy and short. In a lot of cases we can
-trust our viewers to find things on their own as long as we show them
-where to start, so it's possible for a single slide to do quite a bit.
-
