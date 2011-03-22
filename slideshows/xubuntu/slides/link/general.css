@@ -65,7 +65,7 @@ html, body {
 #slideshow {
 	background-image: url(background-xubuntu-1104.png);
 
-	width: 780px;
+	width: 790px;
 	height: 550px;
 
 	overflow: hidden;
@@ -94,7 +94,7 @@ html, body {
 		background-image: url(arrow-prev.png);
 	}
 	#next-slide {
-		left: 750px;
+		left: 760px;
 		background-image: url(arrow-next.png);
 	}
 
@@ -152,13 +152,16 @@ h2 {
 		float: left;
 	}
 	.main .content {	
-		width: 210px;
+		width: 220px;
 		padding: 0 60px;
 	}
 	.main .shot {
 		margin-left: 10px;
 	}
 	.main .shot.full {
+		margin-left: -10px;
+	}
+	.main .shot.clip {
 		margin-left: 0;
 	}
 
@@ -170,7 +173,7 @@ h2 {
 }
 .path { /* application paths */
 	font-size: 65%;
-	width: 270px; /* everything fits in oneliners with 230px! */
+	width: 270px; /* everything fits in oneliners with 270px! */
 }
 
 .path span {
