@@ -1,3 +1,10 @@
+ubiquity-slideshow-ubuntu (36) UNRELEASED; urgency=low
+
+  * If we're going to use American-English strings, we might as well
+    also use serial commas.  Thanks to Mark Pilgrim for the tip.
+
+ -- Evan Dandrea <ev@ubuntu.com>  Thu, 24 Mar 2011 17:30:08 +0000
+
 ubiquity-slideshow-ubuntu (35) natty; urgency=low
 
   * Fixed symlinks for oem-config-ubuntu slideshow.
