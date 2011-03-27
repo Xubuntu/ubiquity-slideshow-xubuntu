@@ -1,9 +1,15 @@
-ubiquity-slideshow-ubuntu (36) UNRELEASED; urgency=low
+ubiquity-slideshow-ubuntu (36) natty; urgency=low
 
+  [ Evan Dandrea ]
   * If we're going to use American-English strings, we might as well
     also use serial commas.  Thanks to Mark Pilgrim for the tip.
 
- -- Evan Dandrea <ev@ubuntu.com>  Thu, 24 Mar 2011 17:30:08 +0000
+  [ Dylan McCall ]
+  * New screenshots for Lubuntu slideshow.
+  * New design for welcome.html in Ubuntu slideshow.
+  * Updated POT files.
+
+ -- Dylan McCall <dylanmccall@ubuntu.com>  Sun, 27 Mar 2011 15:12:33 -0700
 
 ubiquity-slideshow-ubuntu (35) natty; urgency=low
 
