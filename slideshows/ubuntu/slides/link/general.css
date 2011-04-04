@@ -177,13 +177,16 @@ Inner space is 224px wide.
 }
 
 .main.wide > .text {
-	top:200px;
+	top:25px;
+	width:350px;
 }
 
 .main.wide > .text > div {
 	background:none;
+	font-size:16px;
+	line-height:1.2em;
 	color:#F7F6F6;
-	font-size:14px;
+	text-shadow:1px 1px 2px #333333;
 }
 
 .featured ul {
@@ -206,6 +209,7 @@ Inner space is 224px wide.
 	vertical-align:middle;
 }
 
+/* Expects screenshot to be 448x304 px */
 .main > .screenshot {
 	position:absolute;
 	top:25px;
@@ -216,6 +220,7 @@ Inner space is 224px wide.
 	box-shadow:#999999 0px 0px 5px;
 }
 
+/* Expects screenshot to be 748x370 px */
 .main.wide > .screenshot {
 	top:0px;
 	right:0px;

@@ -1,3 +1,24 @@
+ubiquity-slideshow-ubuntu (37) natty; urgency=low
+
+  * Merge Rollo's updated screenshots branch.
+  * Update the Ubuntu One icon.
+  * Freeze exception (LP: #744374).
+
+ -- Evan Dandrea <ev@ubuntu.com>  Mon, 28 Mar 2011 16:56:29 +0100
+
+ubiquity-slideshow-ubuntu (36) natty; urgency=low
+
+  [ Evan Dandrea ]
+  * If we're going to use American-English strings, we might as well
+    also use serial commas.  Thanks to Mark Pilgrim for the tip.
+
+  [ Dylan McCall ]
+  * New screenshots for Lubuntu slideshow.
+  * New design for welcome.html in Ubuntu slideshow.
+  * Updated POT files.
+
+ -- Dylan McCall <dylanmccall@ubuntu.com>  Sun, 27 Mar 2011 15:12:33 -0700
+
 ubiquity-slideshow-ubuntu (35) natty; urgency=low
 
   * Fixed symlinks for oem-config-ubuntu slideshow.
