@@ -7,39 +7,35 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2010-09-16 18:51+0200\n"
+"POT-Creation-Date: 2011-04-04 20:59-0600\n"
 "PO-Revision-Date: 2010-11-30 21:55+0000\n"
 "Last-Translator: Alex Nyakhaychyk <nyakhaychyk@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
+"Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-02-11 11:48+0000\n"
-"X-Generator: Launchpad (build 12351)\n"
-"Language: be\n"
+"X-Launchpad-Export-Date: 2011-04-05 04:05+0000\n"
+"X-Generator: Launchpad (build 12734)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "Наладзьце Ubuntu"
+msgid "Customise Ubuntu"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/accessibility.html:8
 msgid ""
-"At the heart of Ubuntu&#8217;s philosophy is the belief that computing is "
-"for everyone. With advanced accessibility tools and hundreds of options like "
-"your preferred fonts, color schemes and languages, Ubuntu provides the "
-"flexibility to fit real people, whoever they are."
+"At the heart of Ubuntu&#8217;s philosophy is a belief that computing is for "
+"everyone. With advanced accessibility tools and many options like your "
+"preferred fonts, colour schemes, and languages, Ubuntu is all about working "
+"for real people."
 msgstr ""
-"У аснове філасофіі Ubuntu ляжыць перакананьне ў тым, што кожны павінен мець "
-"магчымасьць выкарыстоўваць кампутар так, як ён захоча. Дзякуючы палепшаным "
-"дапаможным магчымасьцям і мноству даступных наладаў, шрыфтоў, каляровых "
-"схемаў, перакладаў, Ubuntu падыходзіць любому чалавеку, якім бы ён ня быў."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
-msgid "Customization options"
-msgstr "Парамэтры наладкі"
+msgid "Customisation options"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:16
@@ -59,7 +55,7 @@ msgstr "Моўная падтрымка"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
 msgid "Browse the web"
-msgstr "Праглядайце сеціва"
+msgstr "Прагляд сеціва"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
@@ -67,6 +63,9 @@ msgid ""
 "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
 "choose alternative browsers from Ubuntu Software Center."
 msgstr ""
+"Ubuntu ўключае ў сябе  Mozilla Firefox для хуткага й бясьпечнага прагляду "
+"старонак у інтэрнэце. Вы таксама можаце выбраць альтэрнатыўныя аглядальнікі "
+"сеціва ў Праграмным цэнтры Ubuntu."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -75,28 +74,29 @@ msgstr ""
 #: slideshows/ubuntu/slides/office.html:12
 #: slideshows/ubuntu/slides/photos.html:12
 msgid "Included software"
-msgstr ""
+msgstr "Уключаныя праграмы"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:16
 msgid "Firefox web browser"
-msgstr ""
+msgstr "Аглядальнік сеціва Firefox"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:19
-#: slideshows/ubuntu/slides/email.html:27
+#: slideshows/ubuntu/slides/email.html:23
+#: slideshows/ubuntu/slides/photos.html:23
 msgid "Supported software"
 msgstr "Падтрымліваемыя праграмы"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:23
 msgid "Flash"
-msgstr ""
+msgstr "Флэш"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:27
-msgid "Google Chrome"
-msgstr "Google Chrome"
+msgid "Chromium"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/email.html:1
@@ -106,9 +106,10 @@ msgstr "Электронная пошта і чат"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/email.html:8
 msgid ""
-"Use Empathy to get chatting with your accounts from Yahoo, Facebook, Gmail, "
-"MSN, Jabber and many more. Set your status and reach all your instant "
-"messaging contacts from a single place."
+"The Messaging Menu has lots of features to make online communication "
+"effortless. Chat helps you log in to all your instant messaging accounts "
+"including MSN, Jabber, and Facebook. Your contacts appear in the same place, "
+"ready for text or video chat."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -122,62 +123,57 @@ msgid "Evolution Mail"
 msgstr "Пошта Evolution"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/email.html:24
-msgid "Gwibber Microblogging"
-msgstr "Кліент для мікраблогаў Gwibber"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/email.html:31
+#: slideshows/ubuntu/slides/email.html:27
 msgid "Skype"
 msgstr "Skype"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Get help with Ubuntu"
-msgstr "Атрымайце дапамогу па Ubuntu"
+msgid "Thank you"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
-"Ubuntu is designed to be easy and safe, so don&#8217;t hesitate to explore! "
-"If you have any questions, try the Help menu in most applications or <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options. We hope you enjoy Ubuntu."
+"Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, so "
+"don&#8217;t hesitate to explore! If you have any questions, try the Help "
+"menu in most applications or browse to <a href=\"http://www.ubuntu.com/"
+"support\">ubuntu.com/support</a> to explore your other options. We hope you "
+"enjoy Ubuntu."
 msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/mobilise.html:1
-msgid "Mobilize your digital life"
+msgid "Mobilise your digital life"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/mobilise.html:8
 msgid ""
-"All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-"One</a> account. Ubuntu One allows you to sync all kinds of files online so "
-"you can access them anywhere. Sync bookmarks, contacts, music and pictures "
+"All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu One</"
+"a> account. Ubuntu One allows you to sync all kinds of files online so you "
+"can access them anywhere. Sync bookmarks, contacts, music, and pictures "
 "across all your computers. Take everything everywhere with Ubuntu One."
 msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:1
-msgid "Buy music while you listen"
+msgid "Take your music with you"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/music.html:8
 msgid ""
-"Ubuntu&#8217;s music player includes a built-in store, so you can buy and "
-"download new tracks with a few clicks. Thanks to Ubuntu One&#8217;s file-"
-"syncing magic you can store your music online and listen to it from other "
-"computers. You can add your music to a portable music player, too; just plug "
-"it in to get started."
+"Ubuntu comes with the amazing Banshee music player. With advanced playback "
+"options and the Ubuntu One music store built in, it&#8217;s simple to queue "
+"up the perfect songs. And it works great with CDs and portable music "
+"players, so you can enjoy all your music wherever you go."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:16
-msgid "Rhythmbox Music Player"
-msgstr "Музычны плэер Rhythmbox"
+msgid "Banshee Music Player"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:20
@@ -186,22 +182,22 @@ msgstr "Музычная крама Ubuntu One"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
-msgid "Create documents and presentations"
-msgstr "Стварайце дакумэнты і прэзэнтацыі"
+msgid "Write and present with ease"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/office.html:8
 msgid ""
-"OpenOffice.org is fully compatible with Microsoft Office and has everything "
-"you need to create professional documents, spreadsheets and presentations. "
-"OpenOffice.org is easy to use, packed with the features you need and "
-"completely free."
+"LibreOffice is a free office suite packed with everything you&#8217;ll need "
+"to create impressive documents, spreadsheets, and presentations. LibreOffice "
+"tries its best to work with other office software, and it uses the "
+"OpenDocument standards for far-reaching compatibility."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
-msgid "OpenOffice.org"
-msgstr "OpenOffice.org"
+msgid "LibreOffice"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:20
@@ -210,16 +206,16 @@ msgstr "Нататнік Tomboy"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
-msgid "View, store and edit photos"
-msgstr "Праглядайце, захоўвайце і рэдагуйце фотаздымкі"
+msgid "Have fun with your photos"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/photos.html:8
 msgid ""
-"Ubuntu is ready for all your gadgets. Just connect your phones or cameras to "
-"get started. Shotwell makes it easy to organize your digital photos and "
-"share them on Picasa, Facebook or Flickr. For advanced photo editing, you "
-"can find more free applications in Ubuntu Software Center."
+"Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
+"camera or a phone to transfer your photos, then it&#8217;s easy to share "
+"them and keep them safe. If you&#8217;re feeling creative, you can try lots "
+"of photo apps from the Ubuntu Software Centre."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -232,6 +228,11 @@ msgstr "Кіраўнік здымкаў Shotwell"
 msgid "Pitivi Video Editor"
 msgstr "Відэа рэдактар Pitivi"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/photos.html:27
+msgid "GIMP Image Editor"
+msgstr ""
+
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/social.html:1
 msgid "Social from the start"
@@ -240,9 +241,10 @@ msgstr "Сацыяльны ад пачатку"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/social.html:8
 msgid ""
-"With the Me Menu, being sociable has never been so easy. Use it to instantly "
-"post updates on sites like Facebook and Twitter. New messages appear in the "
-"messaging menu so you can respond when you want."
+"The Me Menu is your instant connection to web services like Facebook and "
+"Twitter. Just set up your accounts to log in and share with friends. "
+"Anything sent to you appears in the Messaging Menu so you can reply when you "
+"want."
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
@@ -267,47 +269,168 @@ msgstr "Identi.ca"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
-msgid "Get free software"
-msgstr "Атрымайце свабоднае апраграмаваньне"
+msgid "Find even more software"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Ubuntu Software Center gives you instant access to thousands of free, open-"
-"source applications. Browse categories including Education, Games, Graphics "
-"and Science. Software is easy to find, easy to install and easy to remove."
+"The Ubuntu Software Centre has thousands of new applications ready for your "
+"computer. Just type what you want or explore the categories like games, "
+"science, and education. It is simple to download new stuff and write reviews "
+"to share your experiences."
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/usc.html:12
-msgid "Featured software"
-msgstr "Лепшае апраграмаваньне"
+msgid "Some of our favourites"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/usc.html:16
-msgid "GIMP – Advanced image editing for photographers and graphic designers"
-msgstr "GIMP – пашыранае рэдагаваньне малюнкаў для фатографаў і дызайнераў"
+msgid "Stellarium"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/usc.html:20
-msgid "Jokosher – Your very own home recording studio"
-msgstr "Jokosher – ваша ўласная хатняя студыя запісу"
+msgid "Inkscape"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/usc.html:24
-msgid "Stellarium – A 3D planetarium for your computer"
-msgstr "Stellarium – 3D планетарый на вашым кампутары"
+msgid "Frozen Bubble"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome"
-msgstr "Запрашаем"
+msgid "Welcome to Ubuntu 11.04"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 10.10. This version brings some exciting "
-"changes including a new sound menu, the Shotwell photo manager and features "
-"that make it even easier to find and install new software. While Ubuntu is "
-"installed, this slideshow will show you around."
+"Ubuntu is packed with features to make your computer delightful to use. This "
+"version introduces the Unity desktop interface; a brand new way to find and "
+"manage your applications. We&#8217;d like to show some cool things to look "
+"for in your new operating system."
 msgstr ""
+
+#~ msgid "Customize Ubuntu"
+#~ msgstr "Наладзьце Ubuntu"
+
+#~ msgid "Google Chrome"
+#~ msgstr "Google Chrome"
+
+#~ msgid ""
+#~ "At the heart of Ubuntu&#8217;s philosophy is the belief that computing is "
+#~ "for everyone. With advanced accessibility tools and hundreds of options "
+#~ "like your preferred fonts, color schemes and languages, Ubuntu provides "
+#~ "the flexibility to fit real people, whoever they are."
+#~ msgstr ""
+#~ "У аснове філасофіі Ubuntu ляжыць перакананьне ў тым, што кожны павінен "
+#~ "мець магчымасьць выкарыстоўваць кампутар так, як ён захоча. Дзякуючы "
+#~ "палепшаным дапаможным магчымасьцям і мноству даступных наладаў, шрыфтоў, "
+#~ "каляровых схемаў, перакладаў, Ubuntu падыходзіць любому чалавеку, якім бы "
+#~ "ён ня быў."
+
+#~ msgid "Gwibber Microblogging"
+#~ msgstr "Кліент для мікраблогаў Gwibber"
+
+#~ msgid "Rhythmbox Music Player"
+#~ msgstr "Музычны плэер Rhythmbox"
+
+#~ msgid "OpenOffice.org"
+#~ msgstr "OpenOffice.org"
+
+#~ msgid "Get help with Ubuntu"
+#~ msgstr "Атрымайце дапамогу па Ubuntu"
+
+#~ msgid "Create documents and presentations"
+#~ msgstr "Стварайце дакумэнты і прэзэнтацыі"
+
+#~ msgid "View, store and edit photos"
+#~ msgstr "Праглядайце, захоўвайце і рэдагуйце фотаздымкі"
+
+#~ msgid "Get free software"
+#~ msgstr "Атрымайце свабоднае апраграмаваньне"
+
+#~ msgid "Featured software"
+#~ msgstr "Лепшае апраграмаваньне"
+
+#~ msgid "Stellarium – A 3D planetarium for your computer"
+#~ msgstr "Stellarium – 3D планетарый на вашым кампутары"
+
+#~ msgid "Welcome"
+#~ msgstr "Запрашаем"
+
+#~ msgid "Customization options"
+#~ msgstr "Парамэтры наладкі"
+
+#~ msgid ""
+#~ "GIMP – Advanced image editing for photographers and graphic designers"
+#~ msgstr "GIMP – пашыранае рэдагаваньне малюнкаў для фатографаў і дызайнераў"
+
+#~ msgid "Jokosher – Your very own home recording studio"
+#~ msgstr "Jokosher – ваша ўласная хатняя студыя запісу"
+
+#~ msgid "Buy music while you listen"
+#~ msgstr "Слухайце і купляйце музыку"
+
+#~ msgid "Mobilize your digital life"
+#~ msgstr "Зрабіце ваша жыцьцё мабільным"
+
+#~ msgid ""
+#~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
+#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
+#~ "so you can access them anywhere. Sync bookmarks, contacts, music and "
+#~ "pictures across all your computers. Take everything everywhere with "
+#~ "Ubuntu One."
+#~ msgstr ""
+#~ "Усе карыстальнікі Ubuntu атрымоўваюць рахунак <a href=\"https://one."
+#~ "ubuntu.com/\">Ubuntu One</a>. Ubuntu One дазваляе сынхранізаваць усе віды "
+#~ "файлаў у сеціве, каб вы маглі атрымаць доступ да іх з любога месца. "
+#~ "Сынхранізацыя закладак, кантактаў, музыкі й фотаздымкаў на ўсіх вашых "
+#~ "кампутарах. Глядзіце ўсё з любога месца з дапамогай Ubuntu One."
+
+#~ msgid ""
+#~ "Ubuntu is designed to be easy and safe, so don&#8217;t hesitate to "
+#~ "explore! If you have any questions, try the Help menu in most "
+#~ "applications or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a> to explore your other options. We hope you enjoy Ubuntu."
+#~ msgstr ""
+#~ "Ubuntu прызначана быць лёгкай і бясьпечнай, таму сьмела даследуйце яе! "
+#~ "Калі ў Вас паўсталі пытаньні, паспрабуйце мэню \"Даведка\" ў большасьці "
+#~ "праграмаў ці праглядзіце больш падрабязныя зьвесткі на старонцы <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>. Мы спадзяемся, "
+#~ "што вам спадабаецца Ubuntu."
+
+#~ msgid ""
+#~ "Use Empathy to get chatting with your accounts from Yahoo, Facebook, "
+#~ "Gmail, MSN, Jabber and many more. Set your status and reach all your "
+#~ "instant messaging contacts from a single place."
+#~ msgstr ""
+#~ "Карыстайцеся Empathy каб кантактаваць з дапамогай Yahoo, Facebook, Gmail, "
+#~ "MSN, Jabber і інш. Усталюйце ваш статус і атрымоўвайце ўсе паведамленьні "
+#~ "ў адным месцы."
+
+#~ msgid ""
+#~ "Ubuntu Software Center gives you instant access to thousands of free, "
+#~ "open-source applications. Browse categories including Education, Games, "
+#~ "Graphics and Science. Software is easy to find, easy to install and easy "
+#~ "to remove."
+#~ msgstr ""
+#~ "Праграмны цэнтр Ubuntu дае імгненны доступ да тысячаў бясплатных "
+#~ "праграмаў з адкрытым зыходным кодам. Праграмы падзеленыя на некалькі "
+#~ "катэгорыяў: адукацыя, гульні, графіка, навука. Праграмы лёгка знайсьці, "
+#~ "лёгка ўсталяваць і лёгка выдаліць."
+
+#~ msgid ""
+#~ "OpenOffice.org is fully compatible with Microsoft Office and has "
+#~ "everything you need to create professional documents, spreadsheets and "
+#~ "presentations. OpenOffice.org is easy to use, packed with the features "
+#~ "you need and completely free."
+#~ msgstr ""
+#~ "OpenOffice.org цалкам сумяшчальны з Microsoft Office і мае ўсё "
+#~ "неабходнае, каб ствараць прафэсійныя дакумэнты, электронныя табліцы і "
+#~ "прэзэнтацыі. OpenOffice.org просты ў выкарыстаньні, бясплатны і "
+#~ "функцыянальны."

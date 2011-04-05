@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2010-09-16 18:51+0200\n"
-"PO-Revision-Date: 2010-09-28 22:02+0000\n"
+"POT-Creation-Date: 2011-04-04 20:59-0600\n"
+"PO-Revision-Date: 2011-02-22 16:46+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@gmail.com>\n"
 "Language-Team: Ukrainian <translation@linux.org.ua>\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-02-11 11:49+0000\n"
-"X-Generator: Launchpad (build 12351)\n"
-"Language: uk\n"
+"X-Launchpad-Export-Date: 2011-04-05 04:04+0000\n"
+"X-Generator: Launchpad (build 12734)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -121,8 +121,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/get-help.html:14
 msgid ""
-"Let us know about your Kubuntu experience at <a "
-"href=\"http://www.ubuntu.com/community\">ubuntu.com/community</a>!"
+"Let us know about your Kubuntu experience at <a href=\"http://www.ubuntu.com/"
+"community\">ubuntu.com/community</a>!"
 msgstr ""
 "Ви можете надати нам відгук щодо ваших вражень від роботи у Kubuntu за "
 "адресою <a href=\"http://www.ubuntu.com/community\">ubuntu.com/community</a>!"
@@ -157,17 +157,16 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/get-involved.html:14
 msgid ""
-"Look over <a "
-"href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki.kubuntu.org/Ku"
-"buntu/GettingInvolved</a> and see where you might be able to help out. "
-"Remember, it is easy to get involved and the work you do will be seen by "
-"millions of people around the world."
+"Look over <a href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki."
+"kubuntu.org/Kubuntu/GettingInvolved</a> and see where you might be able to "
+"help out. Remember, it is easy to get involved and the work you do will be "
+"seen by millions of people around the world."
 msgstr ""
-"Зверніться до сторінки <a "
-"href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki.kubuntu.org/Ku"
-"buntu/GettingInvolved</a>, щоб дізнатися більше про можливості щодо "
-"підтримки дистрибутива. Пам’ятайте, долучитися дуже просто. За вашою роботою "
-"згодом зможуть спостерігати мільйони людей у всьому світі."
+"Зверніться до сторінки <a href=\"https://wiki.kubuntu.org/Kubuntu/"
+"GettingInvolved\">wiki.kubuntu.org/Kubuntu/GettingInvolved</a>, щоб "
+"дізнатися більше про можливості щодо підтримки дистрибутива. Пам’ятайте, "
+"долучитися дуже просто. За вашою роботою згодом зможуть спостерігати "
+"мільйони людей у всьому світі."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/get-involved.html:20
@@ -325,10 +324,10 @@ msgstr "Офісні програми до ваших послуг"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/office.html:5
 msgid ""
-"<em>OpenOffice.org</em> is a powerful office software suite that is very "
-"easy to learn and use."
+"<em>LibreOffice</em> is a powerful office software suite that is very easy "
+"to learn and use."
 msgstr ""
-"<em>OpenOffice.org</em> — це потужний комплект офісного програмного "
+"<em>LibreOffice</em> — це потужний комплект офісного програмного \r\n"
 "забезпечення, простий у вивченні та користуванні."
 
 #. type: Content of: <div><div><ul><li>
@@ -343,12 +342,13 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/office.html:9
 msgid ""
-"<em>OpenOffice.org</em> works with documents from other popular office "
+"<em>LibreOffice</em> works with documents from other popular office "
 "applications include WordPerfect and Microsoft Office. It uses the standard "
 "OpenDocument format."
 msgstr ""
-"<em>OpenOffice.org</em> здатен працювати з документами інших популярних "
+"<em>LibreOffice</em> здатен працювати з документами інших популярних \r\n"
 "офісних програм, зокрема WordPerfect і Microsoft Office. Рідним для цього "
+"\r\n"
 "офісного комплекту є формат OpenDocument."
 
 #. type: Content of: <h1>
@@ -412,8 +412,8 @@ msgstr "Вітаємо!"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Kubuntu 10.10."
-msgstr "Спасибі за те, що обрали Kubuntu 10.10."
+msgid "Thank you for choosing Kubuntu 11.04."
+msgstr "Спасибі за те, що обрали Kubuntu 11.04."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:7
@@ -441,3 +441,22 @@ msgstr ""
 #: slideshows/kubuntu/slides/welcome.html:14
 msgid "Kubuntu is designed to be easy. Feel free to explore!"
 msgstr "Kubuntu створено бути простою. Переконайтеся у цьому самі!"
+
+#~ msgid ""
+#~ "<em>OpenOffice.org</em> is a powerful office software suite that is very "
+#~ "easy to learn and use."
+#~ msgstr ""
+#~ "<em>OpenOffice.org</em> — це потужний комплект офісного програмного "
+#~ "забезпечення, простий у вивченні та користуванні."
+
+#~ msgid ""
+#~ "<em>OpenOffice.org</em> works with documents from other popular office "
+#~ "applications include WordPerfect and Microsoft Office. It uses the "
+#~ "standard OpenDocument format."
+#~ msgstr ""
+#~ "<em>OpenOffice.org</em> здатен працювати з документами інших популярних "
+#~ "офісних програм, зокрема WordPerfect і Microsoft Office. Рідним для цього "
+#~ "офісного комплекту є формат OpenDocument."
+
+#~ msgid "Thank you for choosing Kubuntu 10.10."
+#~ msgstr "Спасибі за те, що обрали Kubuntu 10.10."

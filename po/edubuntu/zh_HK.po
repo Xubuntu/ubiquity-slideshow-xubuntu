@@ -1,0 +1,848 @@
+# Chinese (Hong Kong) translation for ubiquity-slideshow-ubuntu
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-04-04 20:59-0600\n"
+"PO-Revision-Date: 2011-04-04 10:05+0000\n"
+"Last-Translator: Steve Lee <Unknown>\n"
+"Language-Team: Chinese (Hong Kong) <zh_HK@li.org>\n"
+"Language: zh_HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-04-05 04:04+0000\n"
+"X-Generator: Launchpad (build 12734)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/accessibility.html:1
+msgid "Accessibility in Edubuntu"
+msgstr "Edubuntu 的易用性"
+
+#.  "your" refers to a large group that includes the reader. 
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/accessibility.html:6
+msgid ""
+"We want to make computers work for everyone, whatever your physical "
+"circumstances. So, we provide tools that make Edubuntu one of the most "
+"accessible operating systems around."
+msgstr ""
+"我們希望任何人都可以使用電腦，而不受身體的影響。就是因為這個原因，我們提供很"
+"多工具，使 Edubuntu 成為最易使用的操作系統之一。"
+
+#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
+#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/accessibility.html:7
+msgid ""
+"You can get at these tools in one place: the <em>Assistive Technologies "
+"Preferences</em>, inside the System Menu. From there, you can turn on "
+"helpful tools like <em>Orca</em>, to speak text on the screen, or dwell "
+"click to press mouse buttons automatically."
+msgstr ""
+"您可以從同一個地方取得這些工具：「系統」選單「偏好設定」內的 <em>輔助科技</"
+"em>。從那裡您可以啟用實用的工具，像是 <em>Orca</em> 可以朗讀畫面上的文字，或"
+"是利用替代點擊來自動按壓滑鼠按鈕。"
+
+#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
+#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/accessibility.html:8
+msgid ""
+"Remember to check out the <em>Appearance Preferences</em>, too. You can "
+"choose between different visual styles and even change the fonts that are "
+"used by applications."
+msgstr ""
+"請記得也要檢視一下 <em>外觀設定</em>。您可以在那裡選擇不同的視覺風格，甚至是"
+"變更在應用程式上使用的字型。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/arkose.html:1
+#, fuzzy
+msgid "Arkose application sandboxing"
+msgstr "Arkose 應用程式沙盒"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/arkose.html:6
+msgid ""
+"<em>Arkose</em> allows you to run an application in a contained environment."
+msgstr "<em>Arkose</em> 允許您在密封的環境下連行應用程式。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/arkose.html:7
+#, fuzzy
+msgid ""
+"You can now test downloaded software in a protected environment easily "
+"before deploying."
+msgstr "允許您在受保護的環境下測試應用程式。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/arkose.html:8
+#, fuzzy
+msgid ""
+"Integrates with file manager allowing safe execution with a few simple "
+"clicks."
+msgstr "結合了檔案管理員，這允許您在圖形環境下進行更簡單的操作。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/calc.html:1
+msgid "Gnome Calculator"
+msgstr "Gnome 計算機"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/calc.html:6
+msgid ""
+"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
+"em>."
+msgstr "Edubuntu 附帶有最新而強大的 <em>Gnome 計算機</em>。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/calc.html:7
+msgid "It supports financial operations and up-to-date currency conversions."
+msgstr "它支持財務上的運算和快速更新的貨幣轉換。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/calc.html:8
+msgid ""
+"Use the programming function for logical computations and advanced mode for "
+"scientific computations."
+msgstr "使用編程功能邏輯式的計算；和進階模式來進行科學化的計算。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/calibre.html:1
+#, fuzzy
+msgid "Calibre e-book manager"
+msgstr "Calibre 電子書管理員"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/calibre.html:6
+#, fuzzy
+msgid ""
+"<em>Calibre</em> is an e-library solution for cataloging electronic books."
+msgstr "<em>Calibre</em> 是一套電子圖書館，方便管理您的電子書。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/calibre.html:7
+msgid ""
+"It supports many formats, including MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, "
+"RTF, PDF and more."
+msgstr ""
+"它支持很多不同的格式，如 MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, RTF, PDF 和更"
+"多。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/calibre.html:8
+#, fuzzy
+msgid ""
+"Supports for many different hardware platforms, including the most popular "
+"commercial e-book platforms available."
+msgstr "它能夠支援很多不同的硬件平台，包括最流行的商業電子書平台。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/calibre.html:9
+#, fuzzy
+msgid "Automatically sync feeds and news to your favorite device."
+msgstr "自動同步事件和新聞到您最喜歡的裝置。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/desktop-software.html:1
+msgid "Great desktop software"
+msgstr "美妙的桌面軟件"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/desktop-software.html:6
+msgid ""
+"<em>LibreOffice</em> is a powerful office software suite that is easy to "
+"understand."
+msgstr "<em>LibreOffice</em> 是一套強大而易用的辨工軟件。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/desktop-software.html:7
+msgid ""
+"<em>Firefox</em> provides a safe and easy web browsing experience with many "
+"useful add-ons available."
+msgstr ""
+"<em>Firefox</em> 提供安全而簡單的網絡瀏覽體驗，還有許多實用的附加元件可供使"
+"用。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/desktop-software.html:8
+msgid ""
+"<em>Inkscape</em> is a vector drawing program capable of exporting to many "
+"popular formats."
+msgstr ""
+"<em>Inkscape</em> 是一套領先的繪圖軟件，並可以匯出成很多不同流行的格式。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/desktop-software.html:9
+msgid "<em>Gimp</em> is a powerful and scriptable image and photo editor."
+msgstr "<em>Gimp</em> 是一套強大的圖片更改軟件。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/documentation.html:1
+msgid "Getting Help with Edubuntu"
+msgstr "取得 Edubuntu 的支援"
+
+#.  The string "Help and Support" should be exactly as it appears in the System menu. 
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/documentation.html:6
+msgid ""
+"If you need help, try <em>Help and Support</em> from the System menu, or the "
+"<em>Help</em> menu in most applications."
+msgstr ""
+"如果您需要幫助，試一試「系統」選單內的 <em>幫助及支援</em>，或是大多數應用程"
+"式內的 <em>求助</em> 選單。"
+
+#.  The url "edubuntu.org/support" should not be translated 
+#. type: Content of: <div><div><ul><li><a>
+#: slideshows/edubuntu/slides/documentation.html:7
+msgid ""
+"In addition to our extensive written help, the Edubuntu community provides "
+"free technical support over the Internet. There is also commercial support "
+"available through Canonical, its partners and approved companies. Learn more "
+"at <a href=\"http://www.edubuntu.org/documentation\">"
+msgstr ""
+"除了我們豐富的支援文件，Edubuntu 的社群提供免費的全球技術支援。Canonical，"
+"Canonical 的伙伴和其他得到授權的公司同時提供商業支援。要取得更多資訊，請瀏覽 "
+"<a href=\"http://www.edubuntu.org/documentation\">"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/documentation.html:7
+msgid "edubuntu.org</a>"
+msgstr "edubuntu.org</a>"
+
+#.  The url "edubuntu.org/community" should not be translated 
+#. type: Content of: <div><div><ul><li><a>
+#: slideshows/edubuntu/slides/documentation.html:8
+msgid ""
+"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
+"community\">"
+msgstr ""
+"要讓我們知道您對 Edubuntu 的意見，請瀏覽 <a href=\"http://edubuntu.com/"
+"community\">"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/documentation.html:8
+msgid "edubuntu.org/community</a>"
+msgstr "edubuntu.org/community</a>"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/documentation.html:9
+msgid ""
+"Thanks for viewing our slideshow, if you selected additional options, then "
+"the installation process will take a bit longer to complete."
+msgstr ""
+"感謝您留意本投影片。如果您選擇了安裝附加的功能，安裝可能還需要多一點時間來完"
+"成。"
+
+#. type: Content of: <div><div><p>
+#: slideshows/edubuntu/slides/documentation.html:11
+msgid "The installation will finish soon. We hope you enjoy Edubuntu."
+msgstr "安裝程序即將結束。我們希望您享受 Edubuntu。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
+#, fuzzy
+msgid "Edubuntu menu editor"
+msgstr "Edubuntu 功能表更改器"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/edubuntu-menu-editor.html:6
+msgid ""
+"The <em>Edubuntu Menu Editor</em> allows administrators to create and apply "
+"custom menus."
+msgstr "<em>Edubuntu 功能表更改器</em>允許管理員新增和套用自定的功能表。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/edubuntu-menu-editor.html:7
+msgid "Menus are created and applied using an easy to use menu editor."
+msgstr "所有功能表皆可以利用一套易用的功能表更改器來新增或套用。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/edubuntu-menu-editor.html:8
+msgid "Settings can be applied to users or groups system-wide."
+msgstr "設定可以套用到一個或數個用戶或用戶群組。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/empathy.html:1
+msgid "Social from the start"
+msgstr "一啟動就能開始社交"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/empathy.html:6
+msgid ""
+"From the start, Edubuntu connects to online chat and broadcast services "
+"including Facebook, Twitter, Windows Live and Google Talk."
+msgstr ""
+"一開始使用，Edubuntu 便可以連線到網上聊天和其他廣播服務如 Facebook, Twitter, "
+"Windows Live 和 Google Talk。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/empathy.html:7
+#, fuzzy
+msgid ""
+"Click the envelope near the clock to log in to your accounts. New messages "
+"appear there too, so you can see what's happening at a glance."
+msgstr ""
+"點擊時鐘旁邊的信封圖示來登入您的帳號。新的訊息也會顯現在那裡，所以您可以輕輕"
+"一瞥什麼事情正在發生。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/empathy.html:8
+msgid ""
+"If you're busy, click your name at the top of the screen to change your "
+"status."
+msgstr "如果您正處於忙碌狀態，可以點擊畫面上方的您的名稱來變更您的狀態。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/freemind.html:1
+#, fuzzy
+msgid "FreeMind mindmapping"
+msgstr "FreeMind 思維導圖"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/freemind.html:6
+#, fuzzy
+msgid "<em>FreeMind</em> is a powerful mindmapping tool."
+msgstr "<em>FreeMind</em> 是一套供所有人使用的思維導圖軟件。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/freemind.html:7
+#, fuzzy
+msgid "Summarize huge amounts of data efficiently."
+msgstr "快速而簡單地概括大量資訊"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/freemind.html:8
+msgid "Make subsections stand out with cloud bubbles and custom colours."
+msgstr "製作任何顏色的小泡泡"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/freemind.html:9
+msgid ""
+"Organize your goals, future plans, events and more with this great tool!"
+msgstr "利用這套強大的軟件，組織您的目標，計劃，活動和更多。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/gbrainy.html:1
+msgid "Exercise your gray matter"
+msgstr "訓練您的腦袋"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/gbrainy.html:6
+msgid ""
+"Edubuntu ships with <em>gbrainy</em>, a platform to train memory, "
+"arithmetical and logical capabilities."
+msgstr ""
+"Edubuntu 附有<em>gbrainy</em>，一套用來訓練記憶力，數學計算和邏輯才能的平台。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/gbrainy.html:7
+msgid ""
+"Logic Puzzles: games designed to challenge your reasoning and thinking "
+"skills."
+msgstr "邏輯拼圖：一個用來訓練您的推理和聯想技能的遊戲。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/gbrainy.html:8
+msgid ""
+"Mental Calculation: games based on arithmetical operations designed to prove "
+"your mental calculation skills."
+msgstr "內心計算：一個基於數學計算的遊戲，用來提升您的內心計算能力。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/gbrainy.html:9
+msgid "Memory Trainers: games designed to challenge your short term memory."
+msgstr "記憶力訓練：一套用來訓練短暫記憶力的遊戲。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/geogebra.html:1
+#, fuzzy
+msgid "Geogebra dynamic mathematics"
+msgstr "Geogebra 動態數學"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/geogebra.html:6
+msgid "<em>Geogebra</em> is a dynamic geometry system."
+msgstr "<em>Geogebra</em> 是一套動態幾何學系統。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/geogebra.html:7
+msgid "Do constructions with points, vectors, segments, lines and more."
+msgstr "利用點，向量和線條製作圖形。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/geogebra.html:8
+msgid "Modify functions dynamically and edit equations directly."
+msgstr "雀躍地並直接地更改功能和等式。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/geogebra.html:9
+msgid ""
+"Supports many elementary calculus-based tools such as derivatives, "
+"osculating circle and more."
+msgstr "支援很多基本的計算工具，如衍生性金融商品，共通圓形和更多。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/installing-software.html:1
+msgid "Getting more software"
+msgstr "取得更多軟體"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/installing-software.html:6
+msgid ""
+"Need more software? Try the <em>Ubuntu Software Center</em> to choose from "
+"thousands of extras you can download for free."
+msgstr ""
+"需要更多軟件？從 <em>Ubuntu 軟件中心</em> 數千種免費軟件下載您喜歡的軟件。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/installing-software.html:7
+msgid ""
+"There are powerful applications for all sorts of interests, from programming "
+"to creating music and exploring the universe. Take a look at the "
+"<em>Featured Applications</em> section for some of our favorites!"
+msgstr ""
+"那裹有很多強大的應用程式，它們可以符合您不同的興趣，由程式設定到音樂製作，甚"
+"至是星際瀏覽。看看 <em>推薦的應用程式</em>，那兒有一些我們推薦的應用程式。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/installing-software.html:8
+msgid ""
+"Everything in Software Center is stored in our online repository. We are "
+"careful to keep it safe and updates will be delivered directly to you."
+msgstr ""
+"軟體中心內的每種程式都除存在我們的線上套件庫內。我們謹慎地讓它保持安全，並將"
+"更新直接發送給您。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/italc.html:1
+#, fuzzy
+msgid "iTalc intelligent teaching"
+msgstr "iTalc 智能教學"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/italc.html:6
+msgid "<em>iTalc</em> allows a lecturer to take control of student desktops."
+msgstr "<em>iTalc</em> 允許老師控制學生的電腦。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/italc.html:7
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
+msgstr "廣播您的桌面到其他用戶的顯示屏上，讓您顯示您偉大而創新的概念。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/italc.html:8
+msgid "Monitor user sessions to keep tabs on mischievous users."
+msgstr "監視其他用戶，讓那些不守規矩的用戶在您的監控以下。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/kdeedu.html:1
+#, fuzzy
+msgid "Play and learn"
+msgstr "玩樂和學習"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/kdeedu.html:6
+msgid ""
+"<em>The KDE Education suite</em> includes edutainment software for kids aged "
+"3 to 18."
+msgstr "<em>KDE 教學套件</em> 裹裝有一些適合 3 至 18 歲的益智遊戲。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/kdeedu.html:7
+msgid "Improve language skills with letters, anagram and hangman games."
+msgstr "透過文字，換音造詞和劊子手遊戲，提升語文能力。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/kdeedu.html:8
+msgid ""
+"Improve mathematical skills with fraction, geometry and algebra software."
+msgstr "利用分數，幾何學和代數學軟件，加強數學運算能力。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/kdeedu.html:9
+msgid ""
+"Also included are geography games, turtle programming, a typing tutor, "
+"memory exercises and more!"
+msgstr "還有地理遊戲，海龜程式製作，打字教師，記憶力練習和更多！"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/librecad.html:1
+#, fuzzy
+msgid "LibreCAD computer aided drawing"
+msgstr "LibreCAD 電腦自動化繪圖"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/librecad.html:6
+#, fuzzy
+msgid ""
+"<em>LibreCAD</em> is a an application for 2D Computer Aided Design (CAD)."
+msgstr "<em>LibreCAD</em>，是一套用來進行電腦自動化繪圖設計的軟件（CAD）。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/librecad.html:7
+#, fuzzy
+msgid ""
+"Create technical drawings such as building plans, interiors or mechanical "
+"parts."
+msgstr "創作科技化的圖像如建築圖則，內部，機械部分，又或是輪廓和圖表。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/librecad.html:8
+msgid "Draw up schemas and diagrams."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/ltsp.html:1
+msgid "Easy terminal server setup"
+msgstr "簡單地建設遠端服務器"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/ltsp.html:6
+msgid "Edubuntu ships with <em>LTSP</em>, the Linux Terminal Server Project."
+msgstr "Edubuntu 附有 <em>LTSP</em>，即 Linux Terminal Server Project。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/ltsp.html:7
+msgid ""
+"You can try out a demo by launching LTSP Live from the Applications -> Other "
+"menu from within this live environment."
+msgstr ""
+"您可以在「應用程式」的「其他功能表」中啟動「LTSP Live」，這樣您就可以在線上一"
+"試這套軟件的威力。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/ltsp.html:8
+msgid ""
+"Extend to large-scale deployments with LTSP-Cluster, a high availability "
+"clustering suite available for Edubuntu."
+msgstr ""
+"利用 LTSP-Cluster ，一套適用於 Edubuntu 而實用的組合軟件，來擴展成一個大範圍"
+"的部署。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/nanny.html:1
+msgid "Gnome Nanny"
+msgstr "Gnome 保姆"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/nanny.html:6
+#, fuzzy
+msgid "<em>Gnome Nanny</em> provides parental control in Edubuntu."
+msgstr "<em>Gnome 保姆</em> 能夠在 Edubuntu 上提供家長監護的功能。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/nanny.html:7
+msgid ""
+"Limit the amount of time kids spend on the computer in any period using the "
+"graphical schedule editor."
+msgstr "利用圖形化的時間編排系統，限制您的子女在任何時段內使用電腦的時間。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/nanny.html:8
+msgid ""
+"Restrict access to undesirable web sites and download pre-defined access "
+"rules."
+msgstr "下載已定義的訪問規則，限制不良網站的訪問。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/pencil.html:1
+msgid "Drawing with Pencil"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/pencil.html:6
+msgid "Edubuntu ships with <em>Pencil</em>, a multi-purpose drawing tool."
+msgstr "Edubuntu 預載 <em>鉛筆</em>，一套多用途繪畫工具。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/pencil.html:7
+msgid "Create traditional hand-drawn animations or cartoons."
+msgstr "創作傳統手寫的動畫或卡通。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/pencil.html:8
+msgid "Mix up bitmap and vector graphics."
+msgstr "將電腦的位圖和向量式的圖片結合起來。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/pencil.html:9
+msgid "Start a comic-strip or draw a self-portrait!"
+msgstr "馬上開始一套連環圖畫，或是一幅自畫像！"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/pessulus.html:1
+msgid "Pessulus Lockdown Editor"
+msgstr "Pessulus 鎖定器"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/pessulus.html:6
+msgid ""
+"The <em>Pessulus Lockdown Editor</em> allows administrators to restrict "
+"users from making certain changes to their profile."
+msgstr "<em>Pessulus 鎖定器</em>允許管理員限制用戶更改其個人資料。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/pessulus.html:7
+msgid "Lock down panels and user settings easily on public machines."
+msgstr "輕鬆地鎖定共用電腦上的控制平台和用戶設定。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/pessulus.html:8
+msgid "Launch browsers in fullscreen mode in kiosk environments."
+msgstr "開啟全屏的瀏覽器，更切合資訊亭環境的需要。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/sabayon.html:1
+#, fuzzy
+msgid "Sabayon user profile editor"
+msgstr "Sabayon 用戶資料更改器"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/sabayon.html:6
+msgid ""
+"The <em>Sabayon User Profile Editor</em> allows administrators to set up "
+"highly customized desktops for users."
+msgstr "<em>Sabayon 用戶資料更改器</em> 允許管理員給其他使用者建立自定的桌面。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/sabayon.html:7
+msgid ""
+"Launch the Sabayon Profile Editor from the Administration menu, and you'll "
+"be able to set up a desktop just the way you want it."
+msgstr ""
+"只要在「管理」功能表上開啟「Sabayon 用戶資料更改器」，您便可以設計一個個人化"
+"的桌面。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/sabayon.html:8
+msgid "Easily apply custom desktops that have been created to users or groups."
+msgstr "輕易地套用已建立個人化桌面在用戶或用戶群組上。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/testdrive.html:1
+msgid "Testdrive in Software Center"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/testdrive.html:6
+msgid ""
+"<em>Testdrive</em> allows you to try out software over the web before "
+"installation."
+msgstr "<em>應用程式試驗</em>允許您在安裝前測試軟件。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/testdrive.html:7
+msgid ""
+"Try an application out before deciding whether it's the right tool for the "
+"job."
+msgstr "先試用一套軟件來看看它是不是您要求的東西。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/testdrive.html:8
+msgid ""
+"Demo applications to users on their machines without making any permanent "
+"local changes."
+msgstr "演示軟件而不在電腦上作出任何永久性的變更。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/testdrive.html:9
+msgid ""
+"Find it in Software Center, which can be found under the Applications menu."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/testing.html:1
+msgid "Welcome and thank you"
+msgstr "歡迎和感謝"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/testing.html:6
+msgid "Thank you for testing what will become Edubuntu 11.04."
+msgstr "感謝您測試 Edubuntu 11.04。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/testing.html:7
+msgid ""
+"If this is an alpha/beta candidate, please log this installation on <a href="
+"\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+msgstr ""
+"如果這是一套測試版的 Edubuntu，請在 <a href=\"http://iso.qa.ubuntu.com/"
+"\">http://iso.wa.ubuntu.com</a> 上登記這次安裝。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/testing.html:8
+msgid ""
+"File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
+"net</a>."
+msgstr ""
+"在  <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad.net</a> 提交"
+"問題。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/testing.html:9
+msgid "Talk to us on irc.freenode.net, channel #edubuntu"
+msgstr "在 irc.freenode.net（頻道 #edubuntu）跟我們說話。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/testing.html:10
+msgid ""
+"Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu.org</"
+"a>"
+msgstr ""
+"<a href=\"http://edubuntu.org\">http://edubuntu.org</a> 有大部分的最新消息。"
+
+#. type: Content of: <div><div><p>
+#: slideshows/edubuntu/slides/testing.html:12
+msgid "This slide will be removed after the beta release."
+msgstr "此投影頁將不會在正式版本出現。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/tux4kids.html:1
+msgid "Learning is fun with Tux4kids"
+msgstr "跟 Tux4kids 一起學習是一件快樂的事"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/tux4kids.html:6
+msgid ""
+"Defend your cities in <em>Tux of Math Command</em>, an arcade game that "
+"improves arithmetic skills ."
+msgstr "在 <em>Tux 的數學命令</em>，一套加強計算能力的遊戲中保衛您的城市。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/tux4kids.html:7
+msgid ""
+"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
+"em>."
+msgstr "利用 <em>TuxPaint</em>，學習基本的電腦知識，並解放您的創意。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/tux4kids.html:8
+msgid ""
+"Learn where all the buttons on your keyboard are using <em>TuxType</em>."
+msgstr "<em>TuxType</em> 能夠讓您熟習鍵盤上的不同按鍵。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/ubuntuone.html:1
+msgid "Keep your digital life in sync"
+msgstr "讓您的數位生活維持同步"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/ubuntuone.html:6
+msgid ""
+"Shuffle between your laptop, netbook, and company desktop and find "
+"everything you need automatically synchronized. Your documents, music, "
+"bookmarks, address book, and notes – everything goes where you go with "
+"<em>Ubuntu One</em>."
+msgstr ""
+"有了<em>Ubuntu One</em>，您可以在您的手提電腦，小型手提電腦和桌上電腦之間隨時"
+"轉換，因為您的檔案，音樂，書籤，聯絡人－－總是跟隨着您。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/ubuntuone.html:7
+msgid ""
+"Want a safe home for your important files? All Edubuntu users get 2 GB of "
+"personal cloud storage for free (and more if you need it)."
+msgstr ""
+"您的機密檔案需要一個安全的地方？所有 Edubuntu 用戶皆可以取得 2 GB 免費雲端空"
+"間（當然您可以要求更多）。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/ubuntuone.html:8
+msgid ""
+"Share folders using your synchronized address book. Project collaboration "
+"has never been easier."
+msgstr "利用您已同步的聯絡人共享資料夾，計劃上的合作從未試過的簡單。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/ubuntuone.html:9
+msgid ""
+"Sign-up by launching the <em>Ubuntu One Preferences</em> application or "
+"going to <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
+msgstr ""
+"啟動 <em>Ubuntu One 偏好設定</em> 應用程式來註冊，或是前往 <a href=\"http://"
+"one.ubuntu.com/\">http://one.ubuntu.com/</a>。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/underthehood.html:1
+#, fuzzy
+msgid "Under the hood"
+msgstr "在蓋子之下"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/underthehood.html:6
+msgid "Edubuntu is built on the latest and greatest free software available."
+msgstr "Edubuntu 是基於一群最強大和最新的免費軟件。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/underthehood.html:7
+msgid "Linux 2.6.38 boosts performance and hardware support."
+msgstr "Linux 2.6.38 提高了效能和硬體支援。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/underthehood.html:8
+#, fuzzy
+msgid "Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
+msgstr "Xorg 1.10 ， Mesa 7.10 和 Compiz 給您帶來了令人耳目一新的繪圖支持。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/underthehood.html:9
+msgid "Python 2.7 provides increased performance and functionality."
+msgstr "Python 2.7 提供增強了的效能和功能。"
+
+#. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/welcome.html:1
+msgid "Welcome"
+msgstr "歡迎"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/welcome.html:6
+msgid "Thank you for choosing Edubuntu 11.04."
+msgstr "感謝您選用 Edubuntu 11.04。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/welcome.html:7
+msgid ""
+"This release brings updates, bug fixes and new software. Please refer to the "
+"release notes on our website for the most up to date information."
+msgstr ""
+"這個版本帶來了更新，問題改善和新軟件。請參看我們網站上的發行備註，以取得最新"
+"資訊。"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/welcome.html:8
+msgid ""
+"Whether you're new to Edubuntu or a long-time user, we're sure there is "
+"something you will enjoy. While Edubuntu is installed, this slideshow will "
+"show you around."
+msgstr ""
+"不管您是 Edubuntu 的新使用者，還是使用已久的用戶，我們肯定您一定會享受某些東"
+"西。在 Edubuntu 的安裝進行期間，此投影片將會帶您到處看看。"
+
+#. type: Content of: <div><div><p>
+#: slideshows/edubuntu/slides/welcome.html:10
+msgid "Edubuntu is designed to be easy. Feel free to explore!"
+msgstr "Edubuntu 是基於簡單易用的概念而設定，請盡情探索！"
+
+#~ msgid "Support for many geometric contstructions is provided."
+#~ msgstr "提供許多幾何學上的功能。"
+
+#~ msgid "Unleash Your Creativity With Pencil"
+#~ msgstr "利用一枝鉛筆，解脫您的創意"
+
+#~ msgid "ENTER TITLE HERE"
+#~ msgstr "請在這輸入標題"
+
+#~ msgid "Edubuntu ships with <em>software</em>, which has a description."
+#~ msgstr "Edubuntu 附有一套有描述的<em>軟件</em>。"
+
+#~ msgid "."
+#~ msgstr "."
+
+#~ msgid "Application Testdrive"
+#~ msgstr "應用程式試驗"
