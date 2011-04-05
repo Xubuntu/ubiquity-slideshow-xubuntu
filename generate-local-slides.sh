@@ -12,12 +12,13 @@ BUILD=build
 PODIR=$SOURCE/po/$distro
 BUILDSLIDES=$BUILD/$distro/slides
 
-echo "directory = new Object()" >> $BUILDSLIDES/directory.js
-
 if ! which po4a-translate >/dev/null; then
 	echo; echo "Error: po4a is not available."
 	exit 1
 fi
+
+echo "directory = new Object()" > $BUILDSLIDES/directory.js
+
 for locale in $PODIR/*.po; do
 	if [ -e $locale ]; then
 		localename=$(basename $locale .po)
