@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2011-04-04 20:59-0600\n"
-"PO-Revision-Date: 2011-02-28 23:21+0000\n"
+"PO-Revision-Date: 2011-04-05 10:07+0000\n"
 "Last-Translator: Saša Teković <Unknown>\n"
 "Language-Team: Croatian <hr@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-05 04:04+0000\n"
-"X-Generator: Launchpad (build 12734)\n"
+"X-Launchpad-Export-Date: 2011-04-11 08:38+0000\n"
+"X-Generator: Launchpad (build 12757)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -65,28 +65,35 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/arkose.html:1
+#, fuzzy
 msgid "Arkose application sandboxing"
-msgstr ""
+msgstr "Arkose - sandbox za aplikacije"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:6
 msgid ""
 "<em>Arkose</em> allows you to run an application in a contained environment."
 msgstr ""
+"<em>Arkose</em> vam omogućava pokretanje aplikacija u zatvorenom okruženju."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:7
+#, fuzzy
 msgid ""
 "You can now test downloaded software in a protected environment easily "
 "before deploying."
 msgstr ""
+"Omogućava vam testiranje softvera kojeg ste preuzeli u zaštićenom okruženju."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:8
+#, fuzzy
 msgid ""
 "Integrates with file manager allowing safe execution with a few simple "
 "clicks."
 msgstr ""
+"Uključuje upravitelja datoteka, koji vam omogućava jednostavno izvršavanje "
+"pomoću grafičkog sučelja"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
@@ -117,14 +124,17 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calibre.html:1
+#, fuzzy
 msgid "Calibre e-book manager"
-msgstr ""
+msgstr "Calibre upravitelj e-knjiganja"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:6
+#, fuzzy
 msgid ""
 "<em>Calibre</em> is an e-library solution for cataloging electronic books."
 msgstr ""
+"<em>Calibre</em> je rješenje e-knjižare za sve vaše elektroničke knjige."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:7
@@ -132,18 +142,24 @@ msgid ""
 "It supports many formats, including MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, "
 "RTF, PDF and more."
 msgstr ""
+"Podržava brojne formate, uključujući MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, "
+"RTF, PDF i ostale."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:8
+#, fuzzy
 msgid ""
 "Supports for many different hardware platforms, including the most popular "
 "commercial e-book platforms available."
 msgstr ""
+"Podržava razne uređaje, uključujući i najpopularnije komercijalne platforme "
+"e-knjiga."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:9
+#, fuzzy
 msgid "Automatically sync feeds and news to your favorite device."
-msgstr ""
+msgstr "Automatski sinkronizirajte novosti na vaš omiljeni uređaj"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/desktop-software.html:1
@@ -264,6 +280,7 @@ msgstr ""
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:7
 msgid "Menus are created and applied using an easy to use menu editor."
 msgstr ""
+"Izbornici se dodaju i uređuju pomoću jednostavnog uređivanja izbornika."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:8
@@ -306,35 +323,39 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
+#, fuzzy
 msgid "FreeMind mindmapping"
-msgstr ""
+msgstr "FreeMind - stvarajte vlastite mentalne mape"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:6
 #, fuzzy
 msgid "<em>FreeMind</em> is a powerful mindmapping tool."
-msgstr "<em>Gimp</em> je napredan i proširiv uređivač slika i fotografija."
+msgstr "<em>FreeMind</em> je alat za izradu mentalnih mapa namijen svima."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:7
+#, fuzzy
 msgid "Summarize huge amounts of data efficiently."
-msgstr ""
+msgstr "Sažmite ogromne količine podataka brzo i jednostavno."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:8
 msgid "Make subsections stand out with cloud bubbles and custom colours."
-msgstr ""
+msgstr "Neka vam podkategorije budu istaknute u oblačićima s posebnim bojama."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:9
 msgid ""
 "Organize your goals, future plans, events and more with this great tool!"
 msgstr ""
+"Iskoristite ovaj alat za organizaciju svojih ciljeva, budućih planova, "
+"događaja i ostalih bitnih stvari."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/gbrainy.html:1
 msgid "Exercise your gray matter"
-msgstr ""
+msgstr "Trenirajte svoje moždane stanice"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:6
@@ -372,23 +393,25 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/geogebra.html:1
+#, fuzzy
 msgid "Geogebra dynamic mathematics"
-msgstr ""
+msgstr "Geogebra - dinamična matematika"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/geogebra.html:6
 msgid "<em>Geogebra</em> is a dynamic geometry system."
-msgstr ""
+msgstr "<em>Geogebra</em> je dinamičan geometrijski sustav."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/geogebra.html:7
 msgid "Do constructions with points, vectors, segments, lines and more."
 msgstr ""
+"Stvorite konstrukcije s točkama, vektorima, segmentima, pravcima i više."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/geogebra.html:8
 msgid "Modify functions dynamically and edit equations directly."
-msgstr ""
+msgstr "Mijenjajte funkcije dinamički i izravno uređujte jednadžbe."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/geogebra.html:9
@@ -396,6 +419,8 @@ msgid ""
 "Supports many elementary calculus-based tools such as derivatives, "
 "osculating circle and more."
 msgstr ""
+"Podržava mnoge elementarne alate temeljene na calculusu, poput derivata, i "
+"još mnogo toga."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/installing-software.html:1
@@ -418,6 +443,9 @@ msgid ""
 "to creating music and exploring the universe. Take a look at the "
 "<em>Featured Applications</em> section for some of our favorites!"
 msgstr ""
+"Dostupne su moćne aplikacije svih vrsta. Od programiranja i stvaranja "
+"glazbe, do  istraživanja svemira. Provjerite kategoriju <em>Istaknute "
+"aplikacije</em> da biste vidjeli naše preporuke!"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:8
@@ -486,24 +514,31 @@ msgid ""
 "Also included are geography games, turtle programming, a typing tutor, "
 "memory exercises and more!"
 msgstr ""
+"Također su uključene i geografske igre, turtle programiranje, vodič "
+"tipkanja, vježbe pamćenja i još mnogo toga!"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/librecad.html:1
+#, fuzzy
 msgid "LibreCAD computer aided drawing"
-msgstr ""
+msgstr "LibreCAD"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:6
+#, fuzzy
 msgid ""
 "<em>LibreCAD</em> is a an application for 2D Computer Aided Design (CAD)."
-msgstr ""
+msgstr "<em>LibreCAD</em>, je aplikacija za 2D Computer Aided Design (CAD)."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:7
+#, fuzzy
 msgid ""
 "Create technical drawings such as building plans, interiors or mechanical "
 "parts."
 msgstr ""
+"Stvorite tehničke nacrte, poput nacrta zgrada, interijera, mehaničkih "
+"dijelova, shema i dijagrama."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:8
@@ -575,22 +610,22 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pencil.html:6
 msgid "Edubuntu ships with <em>Pencil</em>, a multi-purpose drawing tool."
-msgstr ""
+msgstr "Edubuntu dolazi s <em>Pencilom</em>, višenamjenskim alatom za crtanje."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pencil.html:7
 msgid "Create traditional hand-drawn animations or cartoons."
-msgstr ""
+msgstr "Stvorite tradicionalne, vlastoručne animacije ili crteže."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pencil.html:8
 msgid "Mix up bitmap and vector graphics."
-msgstr ""
+msgstr "Kombinirajte bitmap i vektorsku grafiku."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pencil.html:9
 msgid "Start a comic-strip or draw a self-portrait!"
-msgstr ""
+msgstr "Započnite sa stripom ili vlastitim portretom!"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/pessulus.html:1
@@ -615,7 +650,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pessulus.html:8
 msgid "Launch browsers in fullscreen mode in kiosk environments."
-msgstr ""
+msgstr "Pokrenite preglednike preko cijelog zaslona u kiosk okruženjima."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/sabayon.html:1
@@ -658,6 +693,8 @@ msgid ""
 "<em>Testdrive</em> allows you to try out software over the web before "
 "installation."
 msgstr ""
+"<em>Testdrive</em> vam omogućava isprobavanje softvera putem weba, prije "
+"sâme instalacije."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testdrive.html:7
@@ -665,6 +702,8 @@ msgid ""
 "Try an application out before deciding whether it's the right tool for the "
 "job."
 msgstr ""
+"Isprobajte aplikaciju prije no što odlučite je li ona dovoljno dobar alat za "
+"posao."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testdrive.html:8
@@ -672,6 +711,8 @@ msgid ""
 "Demo applications to users on their machines without making any permanent "
 "local changes."
 msgstr ""
+"Prezentirajte aplikacije korisnicima na njihovim računalima, bez ikakvih "
+"trajnih promjena."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testdrive.html:9
@@ -682,12 +723,12 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/testing.html:1
 msgid "Welcome and thank you"
-msgstr ""
+msgstr "Dobrodošli i hvala vam"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:6
 msgid "Thank you for testing what will become Edubuntu 11.04."
-msgstr ""
+msgstr "Hvala vam što ste testirali ono što će postati Edubuntu 11.04."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:7
@@ -695,6 +736,8 @@ msgid ""
 "If this is an alpha/beta candidate, please log this installation on <a href="
 "\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 msgstr ""
+"Ako je ovo alpha/beta inačica, molimo vas da zabilježite ovu instalaciju na "
+"<a href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:8
@@ -702,11 +745,13 @@ msgid ""
 "File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
 "net</a>."
 msgstr ""
+"Prijavite greške na <a href=\"http://bugs.launchpad.net\">http://bugs."
+"launchpad.net</a>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:9
 msgid "Talk to us on irc.freenode.net, channel #edubuntu"
-msgstr ""
+msgstr "Javite nam se na irc.freenode.net, kanal #edubuntu"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:10
@@ -714,11 +759,13 @@ msgid ""
 "Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu.org</"
 "a>"
 msgstr ""
+"Najnovije novosti dostupne su na <a href=\"http://edubuntu.org\">http://"
+"edubuntu.org</a>"
 
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/testing.html:12
 msgid "This slide will be removed after the beta release."
-msgstr ""
+msgstr "Ova stranica će biti uklonjena nakon beta izdanja."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/tux4kids.html:1
@@ -762,6 +809,9 @@ msgid ""
 "bookmarks, address book, and notes – everything goes where you go with "
 "<em>Ubuntu One</em>."
 msgstr ""
+"Kombinirajte rad na prijenosniku, netbooku i računalu na poslu, te uživajte "
+"u automatski sinkroniziranim podacima. Vaši dokumenti, zabilješke, glazba, "
+"adresar i bilješke – sve vas prati pomoću <em>Ubuntu Onea</em>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ubuntuone.html:7
@@ -778,6 +828,8 @@ msgid ""
 "Share folders using your synchronized address book. Project collaboration "
 "has never been easier."
 msgstr ""
+"Dijelite direktorije pomoću vašeg sinkroniziranog adresara. Kolaboracija na "
+"projektima nikada nije bila lakša."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ubuntuone.html:9
@@ -790,28 +842,31 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/underthehood.html:1
+#, fuzzy
 msgid "Under the hood"
-msgstr ""
+msgstr "Ispod poklopca"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:6
 msgid "Edubuntu is built on the latest and greatest free software available."
 msgstr ""
+"Edubuntu se temelji na nanovijem i najboljem slobodno dostupnom softveru."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
 msgid "Linux 2.6.38 boosts performance and hardware support."
-msgstr ""
+msgstr "Linux 2.6.38 donosi odlične performanse i hardversku podršku."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
+#, fuzzy
 msgid "Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
-msgstr ""
+msgstr "Xorg 1.10, Mesa 7.10 i Compiz donose fantastičnu grafičku podršku ."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:9
 msgid "Python 2.7 provides increased performance and functionality."
-msgstr ""
+msgstr "Python 2.7 pruža poboljšane performanse i funkcionalnost."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/welcome.html:1
@@ -847,6 +902,24 @@ msgstr ""
 #: slideshows/edubuntu/slides/welcome.html:10
 msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr "Edubuntu je dizajniran da bude jednostavan. Slobodno istražite!"
+
+#~ msgid "Support for many geometric contstructions is provided."
+#~ msgstr "Podrška za brojne geometrijske konstrukcije je uključena."
+
+#~ msgid "Unleash Your Creativity With Pencil"
+#~ msgstr "Oslobodite svoju kreativnost s Pencilom"
+
+#~ msgid "ENTER TITLE HERE"
+#~ msgstr "UPIŠITE NASLOV OVDJE"
+
+#~ msgid "Edubuntu ships with <em>software</em>, which has a description."
+#~ msgstr "Edubuntu dolazi sa <em>softverom</em> koji ima svoj opis."
+
+#~ msgid "."
+#~ msgstr "."
+
+#~ msgid "Application Testdrive"
+#~ msgstr "Test vožnja softvera"
 
 #~ msgid "Excercise your gray matter"
 #~ msgstr "Zaposlite moždane stanice"

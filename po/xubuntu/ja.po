@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2011-04-04 20:59-0600\n"
-"PO-Revision-Date: 2011-03-27 00:51+0000\n"
-"Last-Translator: Shushi Kurose <md81bird@hitaki.net>\n"
+"PO-Revision-Date: 2011-04-10 09:37+0000\n"
+"Last-Translator: Fumihito YOSHIDA <hito@kugutsu.org>\n"
 "Language-Team: Japanese <ja@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-05 04:06+0000\n"
-"X-Generator: Launchpad (build 12734)\n"
+"X-Launchpad-Export-Date: 2011-04-11 08:38+0000\n"
+"X-Generator: Launchpad (build 12757)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -34,6 +34,8 @@ msgid ""
 "This exciting piece of software is brought to you free of any fees, for your "
 "use and any others you want to share it with."
 msgstr ""
+"この素晴らしいソフトウェア集は無償で提供されており、使用や他の人と共有しても"
+"お金を取られることはありません。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
@@ -49,7 +51,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_web.html:2
 msgid "Your web experience"
-msgstr ""
+msgstr "ウェブ体験"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_web.html:7
@@ -57,6 +59,8 @@ msgid ""
 "<em>Firefox</em> and <em>Thunderbird</em> are everything you need from web "
 "applications."
 msgstr ""
+"<em>Firefox</em>や<em>Thunderbird</em>を使えば、ウェブアプリケーションで必要"
+"な物はすべて揃います。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_web.html:8
@@ -64,6 +68,8 @@ msgid ""
 "They offer you the web the way you like it: high performance, easy "
 "customization and advanced security."
 msgstr ""
+"これらは高速で、簡単に設定でき、高度なセキュリティ機能を有しているために、望"
+"むとおりの体験が得られるでしょう。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/xubuntu/slides/01_web.html:10
@@ -72,7 +78,7 @@ msgstr ""
 #: slideshows/xubuntu/slides/04_office.html:10
 #: slideshows/xubuntu/slides/06_explore.html:11
 msgid "Where?"
-msgstr ""
+msgstr "アクセス方法："
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/01_web.html:11
@@ -84,35 +90,35 @@ msgstr ""
 #: slideshows/xubuntu/slides/06_explore.html:12
 #: slideshows/xubuntu/slides/06_explore.html:13
 msgid "<span>»</span>"
-msgstr ""
+msgstr "<span>»</span>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/01_web.html:11
 #: slideshows/xubuntu/slides/01_web.html:12
 #: slideshows/xubuntu/slides/02_messaging.html:11
 msgid "Internet <span>»</span>"
-msgstr ""
+msgstr "インターネット <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/01_web.html:11
 msgid "Firefox Web Browser"
-msgstr ""
+msgstr "Firefox ウェブ・ブラウザ"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/01_web.html:12
 msgid "Thunderbird Mail/News"
-msgstr ""
+msgstr "Thunderbird メール/ニュース"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_messaging.html:2
 msgid "Instant messaging"
-msgstr ""
+msgstr "インスタントメッセンジャー"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:7
 msgid ""
 "Xubuntu is shipping <em>Pidgin</em> as the default instant messaging client."
-msgstr ""
+msgstr "Xubuntuは、<em>Pidgin</em>を概定のIMクライアントとして提供しています。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:8
@@ -121,16 +127,19 @@ msgid ""
 "(Google Talk). You can also use the Facebook chat and update your Twitter "
 "account via third-party plugins."
 msgstr ""
+"AIMやICQ、IRC、MSN、XMPP (Google Tolk)といったあらゆるプロトコルに対応してい"
+"ます。サードパーティのプラグインを使うことで、Facebookチャットや、Twitterを使"
+"うこともできます。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:11
 msgid "Pidgin Internet Messenger"
-msgstr ""
+msgstr "Pidgin インターネット・メッセンジャー"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:2
 msgid "Enjoy your media"
-msgstr ""
+msgstr "マルチメディア"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:7
@@ -138,28 +147,30 @@ msgid ""
 "Whether your collection is small or large, <em>gmusicbrowser</em>, the "
 "default media player in Xubuntu, can handle it!"
 msgstr ""
+"Xubuntuの標準メディアプレイヤーである<em>gmusicplayer</em>は、ライブラリの分"
+"量に関わらず使うことができます。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:8
 msgid ""
 "In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
 "Shimmer theme."
-msgstr ""
+msgstr "Xubuntuでは、スタイリッシュで使いやすいShimmerテーマを使用しています。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
 msgid "Multimedia <span>»</span>"
-msgstr ""
+msgstr "マルチメディア <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
 msgid "gmusicbrowser"
-msgstr ""
+msgstr "gmusicbrowser"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_office.html:2
 msgid "Lighter alternatives"
-msgstr ""
+msgstr "軽量な代替品"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
@@ -168,6 +179,9 @@ msgid ""
 "document formats. <em>Gnumeric</em> is a spreadsheet program with an "
 "emphasis on accuracy."
 msgstr ""
+"ワープロソフトである<em>Abiword</em>は、よく使われるほとんどのドキュメント形"
+"式を読み込めます。表計算ソフトである<em>Gnumeric</em>は、数値の取り扱いの厳密"
+"さが特徴です。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
@@ -175,43 +189,45 @@ msgid ""
 "While Abiword and Gnumeric are lightweight, they provide almost all of the "
 "functions of the LibreOffice suite."
 msgstr ""
+"AbiwordやGnumericは軽量であるにも関わらず、LibreOfficeが持っている機能のほと"
+"んどすべてを提供しています。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Office <span>»</span>"
-msgstr ""
+msgstr "オフィス <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:11
 msgid "Abiword"
-msgstr ""
+msgstr "Abiword"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Gnumeric"
-msgstr ""
+msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
 msgid "The Xubuntu desktop"
-msgstr ""
+msgstr "Xubuntuデスクトップ"
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:8
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:9
 msgid ""
 "The application-menu gives you complete access to all your applications."
-msgstr ""
+msgstr "application-menuを使えば、すべてのアプリケーションを起動できます。"
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:12
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:13
@@ -219,22 +235,24 @@ msgid ""
 "The launcher panel gives you <em>quick access</em> to your most important "
 "applications. It is set to autohide by default to preserve screen estate."
 msgstr ""
+"ランチャーパネルを使えば、重要なアプリケーションを<em>素早く</em>起動できま"
+"す。画面を有効活用するために、自動的に隠れる設定になっています。"
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:16
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. Open windows of r 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:17
 msgid "Running applications are shown in the top panel."
-msgstr ""
+msgstr "起動中のアプリケーションは、上部のパネルに表示されます。"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/06_explore.html:2
 msgid "Know your desktop"
-msgstr ""
+msgstr "デスクトップを使いこなすには"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:7
@@ -242,6 +260,8 @@ msgid ""
 "For easy installation of new software, use the <em>Ubuntu Software Center</"
 "em>."
 msgstr ""
+"新規ソフトウェアをインストールするなら、<em>Ubuntuソフトウェアセンター</em>を"
+"使用してください。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:8
@@ -249,6 +269,9 @@ msgid ""
 "If you need help, go to <em>Help</em> in the Applications menu or see <a "
 "href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
 msgstr ""
+"わからないことがあれば、アプリケーションメニューにある<em>ヘルプ</em>を選択す"
+"るか、ウェブサイトにある、<a href=\"http://xubuntu.org/help\">Help & "
+"Support</a>のページを参照してください。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:9
@@ -256,21 +279,24 @@ msgid ""
 "<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce on "
 "the <a href=\"http://xfce.org/\">Xfce website</a>."
 msgstr ""
+"<em>Xfce</em>は、Xubuntuで採用しているデスクトップ環境です。Xfceに関する詳し"
+"いことは、<a href=\"http://xfce.org/\">Xfceのウェブサイト</a>を閲覧してくださ"
+"い。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:12
 msgid "Software Center"
-msgstr ""
+msgstr "ソフトウェアセンター"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:13
 msgid "Help"
-msgstr ""
+msgstr "ヘルプ"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/07_thanks.html:2
 msgid "Thank you!"
-msgstr ""
+msgstr "ありがとうございます！"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/07_thanks.html:7
@@ -279,6 +305,10 @@ msgid ""
 "with Xubuntu. You can share them on the <a href=\"https://lists.ubuntu.com/"
 "mailman/listinfo/xubuntu-users\">Xubuntu-users mailing list</a>."
 msgstr ""
+"Xubuntuに時間を割いていただきありがとうございます。私たちはXubuntuに関する体"
+"験を聞きたいと考えていますので、ぜひ<a href=\"https://lists.ubuntu.com/"
+"mailman/listinfo/xubuntu-users\">Xubuntuユーザーのメーリングリスト</a>に登録"
+"してください。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/07_thanks.html:8
@@ -287,6 +317,9 @@ msgid ""
 "\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
 "&prompt=1\">clicking here</a>."
 msgstr ""
+"<a href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
+"&prompt=1\">ここをクリックして</a>、IRCチャンネルの<em>#xubuntu</em>に参加す"
+"れば、オンラインサポートが得られます。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/07_thanks.html:9
@@ -295,6 +328,9 @@ msgid ""
 "\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
 "need your help!"
 msgstr ""
+"最後に、<a href=\"http://xubuntu.org/devel\">Get Involved</a>では、Xubuntuに"
+"対するさまざまな貢献方法を紹介しています。私たちはあなたの助けを必要としてい"
+"るのです！"
 
 #~ msgid "The Applications Menu"
 #~ msgstr "アプリケーションメニュー"

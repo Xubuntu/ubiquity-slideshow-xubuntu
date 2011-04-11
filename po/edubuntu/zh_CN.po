@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2011-04-04 20:59-0600\n"
-"PO-Revision-Date: 2011-03-27 05:56+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-04-10 08:04+0000\n"
+"Last-Translator: otm123 <Unknown>\n"
 "Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-05 04:04+0000\n"
-"X-Generator: Launchpad (build 12734)\n"
+"X-Launchpad-Export-Date: 2011-04-11 08:38+0000\n"
+"X-Generator: Launchpad (build 12757)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -42,6 +42,8 @@ msgid ""
 "helpful tools like <em>Orca</em>, to speak text on the screen, or dwell "
 "click to press mouse buttons automatically."
 msgstr ""
+"您可以在 <em>系统</em> 菜单中的 <em>辅助技术</em> 这一中心位置找到这些工具："
+"如可以朗读屏幕上的文字，或者点击并保持来自动按下鼠标键的 <em>Orca</em>。"
 
 #.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
 #.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
@@ -52,6 +54,8 @@ msgid ""
 "choose between different visual styles and even change the fonts that are "
 "used by applications."
 msgstr ""
+"也请记得查看 <em>外观首选项</em>。您可以选择不同的视觉样式，或者更改应用程序"
+"所使用的字体。"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/arkose.html:1
@@ -81,7 +85,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
 msgid "Gnome Calculator"
-msgstr ""
+msgstr "Gnome 计算器"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
@@ -104,8 +108,9 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calibre.html:1
+#, fuzzy
 msgid "Calibre e-book manager"
-msgstr ""
+msgstr "Calibre 电子书管理器"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:6
@@ -150,23 +155,24 @@ msgid ""
 "<em>Firefox</em> provides a safe and easy web browsing experience with many "
 "useful add-ons available."
 msgstr ""
+"<em>Firefox</em> 提供了很多有用的插件，给您带来既安全又轻松的冲浪体验。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:8
 msgid ""
 "<em>Inkscape</em> is a vector drawing program capable of exporting to many "
 "popular formats."
-msgstr ""
+msgstr "<em>lnkscape</em> 是一个矢量绘图程序，它能够输出多种流行的格式。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:9
 msgid "<em>Gimp</em> is a powerful and scriptable image and photo editor."
-msgstr ""
+msgstr "<em>Gimp</em> 是一个强大的图像和照片编辑器，拥有脚本支持。"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/documentation.html:1
 msgid "Getting Help with Edubuntu"
-msgstr ""
+msgstr "从 Edubuntu 获得帮助"
 
 #.  The string "Help and Support" should be exactly as it appears in the System menu. 
 #. type: Content of: <div><div><ul><li>
@@ -175,6 +181,8 @@ msgid ""
 "If you need help, try <em>Help and Support</em> from the System menu, or the "
 "<em>Help</em> menu in most applications."
 msgstr ""
+"如需帮助，点击系统菜单中的 <em>帮助和支持</em>，或者很多应用程序中都有的 <em>"
+"帮助</em>  菜单。"
 
 #.  The url "edubuntu.org/support" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
@@ -198,6 +206,8 @@ msgid ""
 "Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
 "community\">"
 msgstr ""
+"在 <a href=\"http://edubuntu.com/community\">edubuntu.org 分享您的 Edubuntu "
+"体验"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -209,17 +219,18 @@ msgstr ""
 msgid ""
 "Thanks for viewing our slideshow, if you selected additional options, then "
 "the installation process will take a bit longer to complete."
-msgstr ""
+msgstr "感谢您观看我们的演示。如果您选择了额外的选项，可能需要等待更长时间。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/documentation.html:11
 msgid "The installation will finish soon. We hope you enjoy Edubuntu."
-msgstr ""
+msgstr "安装将很快完成。我们希望您喜欢 Edubuntu。"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
+#, fuzzy
 msgid "Edubuntu menu editor"
-msgstr ""
+msgstr "Edubuntu 菜单编辑器"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:6
@@ -241,7 +252,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/empathy.html:1
 msgid "Social from the start"
-msgstr ""
+msgstr "轻松社交，由此开始"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:6
@@ -252,37 +263,43 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:7
+#, fuzzy
 msgid ""
 "Click the envelope near the clock to log in to your accounts. New messages "
 "appear there too, so you can see what's happening at a glance."
 msgstr ""
+"点击时钟旁边的信封来登录您的帐户。有新消息时那里会显示提示，您只须瞄上一眼便"
+"可知晓全部动态。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:8
 msgid ""
 "If you're busy, click your name at the top of the screen to change your "
 "status."
-msgstr ""
+msgstr "如果您很忙，不希望被打搅，您可以点击屏幕上方您的名字来改变自己的状态。"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
+#, fuzzy
 msgid "FreeMind mindmapping"
-msgstr ""
+msgstr "FreeMind 思维导图"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:6
+#, fuzzy
 msgid "<em>FreeMind</em> is a powerful mindmapping tool."
-msgstr ""
+msgstr "<em>Gimp</em> 是一个强大的图像和照片编辑器，拥有脚本支持。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:7
+#, fuzzy
 msgid "Summarize huge amounts of data efficiently."
-msgstr ""
+msgstr "方便快捷处理大量的数据。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:8
 msgid "Make subsections stand out with cloud bubbles and custom colours."
-msgstr ""
+msgstr "自定义部署基于云端的应用。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:9
@@ -293,7 +310,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/gbrainy.html:1
 msgid "Exercise your gray matter"
-msgstr ""
+msgstr "扩展你的思维能力。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:6
@@ -307,24 +324,25 @@ msgstr ""
 msgid ""
 "Logic Puzzles: games designed to challenge your reasoning and thinking "
 "skills."
-msgstr ""
+msgstr "逻辑难题：挑战你的推理和思维能力的游戏。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:8
 msgid ""
 "Mental Calculation: games based on arithmetical operations designed to prove "
 "your mental calculation skills."
-msgstr ""
+msgstr "心算：证明你的心算能力的游戏。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:9
 msgid "Memory Trainers: games designed to challenge your short term memory."
-msgstr ""
+msgstr "记忆导师：挑战你的短期记忆的游戏。"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/geogebra.html:1
+#, fuzzy
 msgid "Geogebra dynamic mathematics"
-msgstr ""
+msgstr "Geogebra 动态数学"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/geogebra.html:6
@@ -351,7 +369,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/installing-software.html:1
 msgid "Getting more software"
-msgstr ""
+msgstr "获取更多软件"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:6
@@ -374,11 +392,14 @@ msgid ""
 "Everything in Software Center is stored in our online repository. We are "
 "careful to keep it safe and updates will be delivered directly to you."
 msgstr ""
+"软件中心中的所有软件都存放在我们的在线仓库中。通过精心的维护，我们可以保证它"
+"们的安全性，并将更新直接推送到您眼前。"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/italc.html:1
+#, fuzzy
 msgid "iTalc intelligent teaching"
-msgstr ""
+msgstr "iTalc 智能教学"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/italc.html:6
@@ -397,8 +418,9 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
+#, fuzzy
 msgid "Play and learn"
-msgstr ""
+msgstr "寓教于乐"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:6
@@ -410,7 +432,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:7
 msgid "Improve language skills with letters, anagram and hangman games."
-msgstr ""
+msgstr "提高语言技能和识字能力的猜谜游戏。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:8
@@ -423,12 +445,13 @@ msgstr ""
 msgid ""
 "Also included are geography games, turtle programming, a typing tutor, "
 "memory exercises and more!"
-msgstr ""
+msgstr "还包括几何游戏、海龟编程、打字训练、记忆练习和更多的内容！"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/librecad.html:1
+#, fuzzy
 msgid "LibreCAD computer aided drawing"
-msgstr ""
+msgstr "LibreCAD 电脑辅助绘图"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:6
