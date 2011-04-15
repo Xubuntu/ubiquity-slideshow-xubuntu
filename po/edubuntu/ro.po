@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-04 20:59-0600\n"
-"PO-Revision-Date: 2011-04-08 15:55+0000\n"
-"Last-Translator: Adi Roiban <adi@roiban.ro>\n"
+"POT-Creation-Date: 2011-04-11 09:58+0200\n"
+"PO-Revision-Date: 2011-04-15 01:15+0000\n"
+"Last-Translator: Ciprian Pavel <Unknown>\n"
 "Language-Team: Romanian <ro@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-11 08:38+0000\n"
-"X-Generator: Launchpad (build 12757)\n"
+"X-Launchpad-Export-Date: 2011-04-15 13:42+0000\n"
+"X-Generator: Launchpad (build 12821)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -31,6 +31,9 @@ msgid ""
 "circumstances. So, we provide tools that make Edubuntu one of the most "
 "accessible operating systems around."
 msgstr ""
+"Dorim să facem computerele să funcționeze pentru toată lumea, indiferent de "
+"dizabilitățile fiecăruia. De aceea, oferim unelte care fac Edubuntu unul din "
+"cele mai accesibile sisteme de operare."
 
 #.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
 #.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
@@ -62,15 +65,14 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/arkose.html:1
-#, fuzzy
 msgid "Arkose application sandboxing"
-msgstr "Izolarea aplicațiilor folosind Arkose"
+msgstr "Protejarea execuției aplicațiilor cu Arkose"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:6
 msgid ""
 "<em>Arkose</em> allows you to run an application in a contained environment."
-msgstr ""
+msgstr "<em>Arkose</em> vă permite să rulați aplicații într-un mediu protejat."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:7
@@ -78,6 +80,8 @@ msgid ""
 "You can now test downloaded software in a protected environment easily "
 "before deploying."
 msgstr ""
+"Puteți testa aplicațiile descărcate cu ușurință într-un mediu protejat "
+"înainte de instalare."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:8
@@ -85,6 +89,8 @@ msgid ""
 "Integrates with file manager allowing safe execution with a few simple "
 "clicks."
 msgstr ""
+"Se integrează cu managerul de fișiere permițând execuția protejată doar cu "
+"câteva clicuri."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
@@ -97,6 +103,7 @@ msgid ""
 "Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
 "em>."
 msgstr ""
+"Edubuntu vine cu ultima versiune a puternicului <em>Calculator Gnome</em>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:7
@@ -114,18 +121,15 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calibre.html:1
-#, fuzzy
 msgid "Calibre e-book manager"
-msgstr "Managerul de cărți electronice Calibre"
+msgstr "Administratorul de cărți electronice Calibre"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:6
-#, fuzzy
 msgid ""
 "<em>Calibre</em> is an e-library solution for cataloging electronic books."
 msgstr ""
-"<em>Calibre</em> este o soluție de biblioteca electronică pentru toate "
-"cărțile dumneavoastră electronice."
+"<em>Calibre</em> este o soluție pentru inventarierea cărților electronice."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:7
@@ -138,19 +142,17 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:8
-#, fuzzy
 msgid ""
 "Supports for many different hardware platforms, including the most popular "
 "commercial e-book platforms available."
 msgstr ""
-"Suportă multe și diverse platforme hardware, incluzând majoritatea "
-"platformelor de e-book disponibile în comerț."
+"Suportă multe platforme hardware, incluzând cele mai populare platforme "
+"pentru cărți electronice comerciale disponibile."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:9
-#, fuzzy
 msgid "Automatically sync feeds and news to your favorite device."
-msgstr "Sincronizează automat știrile și fluxurile către dispozitivul favorit."
+msgstr "Sincronizează automat știrile și fluxurile pe dispozitivul favorit."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/desktop-software.html:1
@@ -255,9 +257,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
-#, fuzzy
 msgid "Edubuntu menu editor"
-msgstr "Editor de meniuri Edubuntu"
+msgstr "Editorul de meniuri Edubuntu"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:6
@@ -298,14 +299,10 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:7
-#, fuzzy
 msgid ""
 "Click the envelope near the clock to log in to your accounts. New messages "
 "appear there too, so you can see what's happening at a glance."
 msgstr ""
-"Apăsați pe plicul de lângă ceas pentru a vă conecta la conturile personale. "
-"Tot acolo vor fi afișate și mesajele noi, astfel încât să puteți vedea "
-"noutățile dintr-o privire."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:8
@@ -318,21 +315,18 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
-#, fuzzy
 msgid "FreeMind mindmapping"
-msgstr "FreeMind – Hărți mentale"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:6
-#, fuzzy
 msgid "<em>FreeMind</em> is a powerful mindmapping tool."
-msgstr "<em>FreeMind</em> este o utilitar de hărți mentale pentru toată lumea."
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:7
-#, fuzzy
 msgid "Summarize huge amounts of data efficiently."
-msgstr "Sumarizează volume imense de date cu ușurință și rapiditate."
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:8
@@ -475,9 +469,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
-#, fuzzy
 msgid "Play and learn"
-msgstr "Jucați și invățați"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:6
@@ -511,12 +504,9 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:6
-#, fuzzy
 msgid ""
 "<em>LibreCAD</em> is a an application for 2D Computer Aided Design (CAD)."
 msgstr ""
-"<em>LibreCAD</em>, este o aplicatie de design 2D asistată de calculator "
-"(CAD)."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:7
@@ -561,9 +551,8 @@ msgstr "Dădaca Gnome"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/nanny.html:6
-#, fuzzy
 msgid "<em>Gnome Nanny</em> provides parental control in Edubuntu."
-msgstr "<em>Dădaca Gnome</em> oferă control parental în Edubuntu."
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/nanny.html:7
@@ -846,8 +835,8 @@ msgstr ""
 msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr "Edubuntu este gândit pentru a fi ușor. Explorați-l!"
 
-#~ msgid "Support for many geometric contstructions is provided."
-#~ msgstr "Este oferit suport pentru multe construcții geometrice."
+#~ msgid "Edubuntu Menu Editor"
+#~ msgstr "Editor de meniuri Edubuntu"
 
 #~ msgid "Excercise your gray matter"
 #~ msgstr "Exersați-vă materia cenușie"
@@ -856,3 +845,59 @@ msgstr "Edubuntu este gândit pentru a fi ușor. Explorați-l!"
 #~ msgstr ""
 #~ "Meniurile sunt create și aplicate folosind un editor de meniuri ușor de "
 #~ "folosit.."
+
+#~ msgid ""
+#~ "Click the envelope near the clock to log in to your accounts. New "
+#~ "messages appear there, too, so you can see what's happening at a glance."
+#~ msgstr ""
+#~ "Apăsați pe plicul de lângă ceas pentru a vă conecta la conturile "
+#~ "personale. Tot acolo vor fi afișate și mesajele noi, astfel încât să "
+#~ "puteți vedea noutățile dintr-o privire."
+
+#~ msgid ""
+#~ "<em>Calibre</em> is an e-library solution to all your electronic books."
+#~ msgstr ""
+#~ "<em>Calibre</em> este o soluție de biblioteca electronică pentru toate "
+#~ "cărțile dumneavoastră electronice."
+
+#~ msgid "Support for many geometric contstructions is provided."
+#~ msgstr "Este oferit suport pentru multe construcții geometrice."
+
+#~ msgid "Play and Learn"
+#~ msgstr "Jucați și invățați"
+
+#~ msgid ""
+#~ "<em>LibreCAD</em>, is a an application for 2D Computer Aided Design (CAD)."
+#~ msgstr ""
+#~ "<em>LibreCAD</em>, este o aplicatie de design 2D asistată de calculator "
+#~ "(CAD)."
+
+#~ msgid "<em>Gnome Nanny</em> provides parental controls in Edubuntu."
+#~ msgstr "<em>Dădaca Gnome</em> oferă control parental în Edubuntu."
+
+#~ msgid ""
+#~ "It supports many different hardware platforms, including the most popular "
+#~ "commercial e-book platforms available."
+#~ msgstr ""
+#~ "Suportă multe și diverse platforme hardware, incluzând majoritatea "
+#~ "platformelor de e-book disponibile în comerț."
+
+#~ msgid "Automatically sync feeds and news to your favourive device."
+#~ msgstr ""
+#~ "Sincronizează automat știrile și fluxurile către dispozitivul favorit."
+
+#~ msgid "<em>FreeMind</em> is a mindmapping tool for everyone."
+#~ msgstr ""
+#~ "<em>FreeMind</em> este o utilitar de hărți mentale pentru toată lumea."
+
+#~ msgid "Summarize huge amounts of data quickly and easily."
+#~ msgstr "Sumarizează volume imense de date cu ușurință și rapiditate."
+
+#~ msgid "Calibre e-Book Manager"
+#~ msgstr "Managerul de cărți electronice Calibre"
+
+#~ msgid "FreeMind Mindmapping"
+#~ msgstr "FreeMind – Hărți mentale"
+
+#~ msgid "Arkose Application Sandboxing"
+#~ msgstr "Izolarea aplicațiilor folosind Arkose"

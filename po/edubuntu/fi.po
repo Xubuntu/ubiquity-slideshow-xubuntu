@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-04 20:59-0600\n"
+"POT-Creation-Date: 2011-04-11 09:58+0200\n"
 "PO-Revision-Date: 2011-04-03 09:52+0000\n"
 "Last-Translator: Antti Kajander <antti.kajander@gmail.com>\n"
 "Language-Team: Finnish <fi@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-11 08:38+0000\n"
-"X-Generator: Launchpad (build 12757)\n"
+"X-Launchpad-Export-Date: 2011-04-15 13:42+0000\n"
+"X-Generator: Launchpad (build 12821)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -73,12 +73,10 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:7
-#, fuzzy
 msgid ""
 "You can now test downloaded software in a protected environment easily "
 "before deploying."
 msgstr ""
-"Mahdollistaa ladattujen ohjelmistojen kokeilemisen suojatussa ympäristössä."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:8
@@ -141,9 +139,8 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:9
-#, fuzzy
 msgid "Automatically sync feeds and news to your favorite device."
-msgstr "Synkronoi syötteet ja uutiset automaattisesti haluamaasi laitteeseen."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/desktop-software.html:1
@@ -238,9 +235,8 @@ msgstr "Asennus valmistuu pian. Toivomme, että nautit Edubuntun käyttämisest�
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
-#, fuzzy
 msgid "Edubuntu menu editor"
-msgstr "Edubuntun valikkomuokkain"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:6
@@ -273,13 +269,10 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:7
-#, fuzzy
 msgid ""
 "Click the envelope near the clock to log in to your accounts. New messages "
 "appear there too, so you can see what's happening at a glance."
 msgstr ""
-"Napsauta kellon vieressä olevaa kirjekuoren kuvaa kirjautuaksesi "
-"käyttäjätileillesi. Tätä kautta näet myös uudet viestit yhdellä silmäyksellä."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:8
@@ -296,11 +289,8 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:6
-#, fuzzy
 msgid "<em>FreeMind</em> is a powerful mindmapping tool."
 msgstr ""
-"<em>Gimp</em> on tehokas ja ohjelmoitava sovellus kuvien ja valokuvien "
-"käsittelemiseen."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:7
@@ -428,9 +418,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
-#, fuzzy
 msgid "Play and learn"
-msgstr "Pelaa ja opi"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:6
@@ -790,9 +779,6 @@ msgstr ""
 msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr "Edubuntu on suunniteltu helppokäyttöiseksi. Tutki sitä vapaasti!"
 
-#~ msgid "."
-#~ msgstr "."
-
 #~ msgid ""
 #~ "There are powerful applications for all sorts of interests, from "
 #~ "programming to creating music and exploring the universe. Take a look at "
@@ -801,6 +787,14 @@ msgstr "Edubuntu on suunniteltu helppokäyttöiseksi. Tutki sitä vapaasti!"
 #~ "Tarjolla on loistavia sovelluksia ohjelmoinnista aina musiikin luomiseen "
 #~ "sekä maailmankaikkeuden tutkimiseen. Joitain ehdottamiamme sovelluksia "
 #~ "näet <em>Suositellut sovellukset</em> -osiossa."
+
+#~ msgid ""
+#~ "Click the envelope near the clock to log in to your accounts. New "
+#~ "messages appear there, too, so you can see what's happening at a glance."
+#~ msgstr ""
+#~ "Napsauta kellon vieressä olevaa kirjekuoren kuvaa kirjautuaksesi "
+#~ "käyttäjätileillesi. Tätä kautta näet myös uudet viestit yhdellä "
+#~ "silmäyksellä."
 
 #~ msgid ""
 #~ "Share folders using your synchronised address book. Project collaboration "
@@ -820,8 +814,26 @@ msgstr "Edubuntu on suunniteltu helppokäyttöiseksi. Tutki sitä vapaasti!"
 #~ "musiikkisi, kirjanmerkkisi, osoitekirjasi ja muistiinpanosi seuraavat "
 #~ "sinua kaikkialle <em>Ubuntu Onen</em> avulla."
 
+#~ msgid "Edubuntu Menu Editor"
+#~ msgstr "Edubuntun valikkomuokkain"
+
 #~ msgid "Excercise your gray matter"
 #~ msgstr "Harjoita aivojasi"
 
+#~ msgid "Play and Learn"
+#~ msgstr "Pelaa ja opi"
+
 #~ msgid "iTalc"
 #~ msgstr "iTalc"
+
+#~ msgid "."
+#~ msgstr "."
+
+#~ msgid "Allows you to test downloaded software in a protected environment."
+#~ msgstr ""
+#~ "Mahdollistaa ladattujen ohjelmistojen kokeilemisen suojatussa "
+#~ "ympäristössä."
+
+#~ msgid "Automatically sync feeds and news to your favourive device."
+#~ msgstr ""
+#~ "Synkronoi syötteet ja uutiset automaattisesti haluamaasi laitteeseen."
