@@ -57,9 +57,11 @@ be confusing for them, please leave a comment in the same fashion.
 
 Screenshots are taken at full size, scaled precisely 60% and cropped to
 match the other screenshots for a given slideshow. (Ubuntu's screenshots
-are 448x304 pixels).
+are 448x304 pixels). Please use GIMP to scale images and set
+interpolation to “Sinc (Lanczos3)”. That algorithm seems to handle thin
+lines particularly well, and it's good to stay as consistent as we can.
 
-We try to follow some conventions for their content, too:
+We try to follow some conventions for screenshot content, too:
 
 * Do something. Open an example document, draw a pretty picture, chat with
 with someone, play music. Do whatever you might normally do.
