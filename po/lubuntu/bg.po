@@ -11,12 +11,12 @@ msgstr ""
 "PO-Revision-Date: 2010-10-02 14:15+0000\n"
 "Last-Translator: Svetoslav Stefanov <svetlisashkov@yahoo.com>\n"
 "Language-Team: Bulgarian <bg@li.org>\n"
-"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-15 13:42+0000\n"
+"X-Launchpad-Export-Date: 2011-04-18 08:37+0000\n"
 "X-Generator: Launchpad (build 12821)\n"
+"Language: bg\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/browser.html:1
@@ -40,11 +40,12 @@ msgstr "Той е бърз и с изчистен интерфейс."
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/browser.html:16
 msgid ""
-"More information on the <a href=\"http://sites.google.com/a/chromium.org/dev/"
-"Home\">Chromium website</a>."
+"More information on the <a "
+"href=\"http://sites.google.com/a/chromium.org/dev/Home\">Chromium "
+"website</a>."
 msgstr ""
-"Повече информация на <a href=\"http://sites.google.com/a/chromium.org/dev/"
-"Home\">Chromium</a>."
+"Повече информация на <a "
+"href=\"http://sites.google.com/a/chromium.org/dev/Home\">Chromium</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/browser.html:20
@@ -122,12 +123,12 @@ msgstr "Получаване на помощ"
 msgid "If you need help, you can contact us:"
 msgstr ""
 
-#.  The url should not be translated 
+#. The url should not be translated
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:12
 msgid ""
-"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki page</"
-"a>."
+"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
+"page</a>."
 msgstr ""
 "Използввайки <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">уики-"
 "страницата</a>"
@@ -138,8 +139,8 @@ msgid ""
 "On the mailing list, subscribe on <a href=\"https://launchpad.net/~lubuntu-"
 "desktop\">the page</a>."
 msgstr ""
-"За пощенския списък се запишете на тази <a href=\"https://launchpad.net/"
-"~lubuntu-desktop\">страница</a>."
+"За пощенския списък се запишете на тази <a "
+"href=\"https://launchpad.net/~lubuntu-desktop\">страница</a>."
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:20
@@ -171,7 +172,8 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/im.html:16
 msgid "More information on <a href=\"http://pidgin.im/\">Pidgin website</a>."
-msgstr "Повече информация на <a href=\"http://pidgin.im\">сайта на Pidgin</a>"
+msgstr ""
+"Повече информация на <a href=\"http://pidgin.im\">сайта на Pidgin</a>"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/im.html:24
@@ -227,7 +229,7 @@ msgstr ""
 "Лубунту е изградено на <em>работната среда LXDE</em>, среда с висока "
 "производителност и енергоспестяване."
 
-#.  The url "lxde.org" should not be translated 
+#. The url "lxde.org" should not be translated
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/lxde.html:12
 msgid "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
@@ -242,9 +244,9 @@ msgstr "Abiword and Gnumeric"
 #: slideshows/lubuntu/slides/office.html:8
 msgid ""
 "Use <em>Abiword and Gnumeric</em>, lightweight alternatives for LibreOffice, "
-"and create letters, spreadsheets, etc. Information on <a href=\"http://www."
-"abisource.com/\">Abiword</a> and <a href=\"http://projects.gnome.org/"
-"gnumeric/\">Gnumeric</a> websites."
+"and create letters, spreadsheets, etc. Information on <a "
+"href=\"http://www.abisource.com/\">Abiword</a> and <a "
+"href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> websites."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -296,8 +298,9 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/videos.html:16
 msgid ""
-"More information on <a href=\"http://sites.google.com/site/kdekorte2/"
-"gnomemplayer\">gnome-mplayer website</a>."
+"More information on <a "
+"href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
+"website</a>."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -331,8 +334,7 @@ msgstr ""
 #~ msgstr "Ако се нуждаете от помощ, можете да се свържете с нас:"
 
 #~ msgid ""
-#~ "Go to the menu, click on Preferences and <em>Synaptic Software Manager</"
-#~ "em>."
+#~ "Go to the menu, click on Preferences and <em>Synaptic Software Manager</em>."
 #~ msgstr ""
 #~ "Отидете в менюто, щракнете на Предпочитания и после на <em>Мениджър на "
 #~ "пакети (Synaptic) </em>"
@@ -344,42 +346,44 @@ msgstr ""
 #~ msgstr "Благодарим ви, че израхте Лубунту 10.10"
 
 #~ msgid ""
-#~ "You will be able to watch videos with <em>gnome-mplayer</em>, a fast "
-#~ "video player using mplayer."
+#~ "You will be able to watch videos with <em>gnome-mplayer</em>, a fast video "
+#~ "player using mplayer."
 #~ msgstr ""
 #~ "Ще можете да гледате видео с <em>gnome-mplayer</em>, бърз видео плеър, "
 #~ "използващ mplayer."
 
 #~ msgid ""
-#~ "More information on <a href=\"http://www.abisource.com/\">Abiword</a> and "
-#~ "<a href=\"http://projects.gnome.org/gnumeric/\">Gnumeric websites</a>."
+#~ "More information on <a href=\"http://www.abisource.com/\">Abiword</a> and <a "
+#~ "href=\"http://projects.gnome.org/gnumeric/\">Gnumeric websites</a>."
 #~ msgstr ""
-#~ "Повече информация на <a href=\"http://www.abisource.com/\">Abiword</a> и "
-#~ "<a href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> ."
+#~ "Повече информация на <a href=\"http://www.abisource.com/\">Abiword</a> и <a "
+#~ "href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> ."
 
 #~ msgid "You can create and edit documents like spreadsheets and letters."
 #~ msgstr "Можете да създавате и редактирате документи, като таблици и писма."
 
 #~ msgid ""
-#~ "Lubuntu comes with <em>Abiword and Gnumeric</em>, lightweight "
-#~ "alternatives for OpenOffice."
+#~ "Lubuntu comes with <em>Abiword and Gnumeric</em>, lightweight alternatives "
+#~ "for OpenOffice."
 #~ msgstr ""
-#~ "Lubuntu comes with <em>Abiword and Gnumeric</em>, lightweight "
-#~ "alternatives for OpenOffice."
+#~ "Lubuntu comes with <em>Abiword and Gnumeric</em>, lightweight alternatives "
+#~ "for OpenOffice."
 
 #~ msgid ""
-#~ "More information on <a href=\"http://sites.google.com/site/kdekorte2/"
-#~ "gnomemplayer\">gnome-mplayer website.</a>"
+#~ "More information on <a "
+#~ "href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
+#~ "website.</a>"
 #~ msgstr ""
-#~ "Повече информация на <a href=\"http://sites.google.com/site/kdekorte2/"
-#~ "gnomemplayer\">gnome-mplayer</a> ."
+#~ "Повече информация на <a "
+#~ "href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-"
+#~ "mplayer</a> ."
 
 #~ msgid "Support for many formats is included."
 #~ msgstr "Включена е поддръжка на много формати."
 
 #~ msgid ""
-#~ "Go to the menu, and click on Pidgin icon to connect to many Instant "
-#~ "Message services, such as Jabber or Windows Live."
+#~ "Go to the menu, and click on Pidgin icon to connect to many Instant Message "
+#~ "services, such as Jabber or Windows Live."
 #~ msgstr ""
-#~ "Отидете в менюто и щракнете на иконката на Pidgin, за да се свържете с "
-#~ "много услуги за бързи съобщения, като Jabber и Windows Live."
+#~ "Отидете в менюто и щракнете на иконката на Pidgin, за да се свържете с много "
+#~ "услуги за бързи съобщения, като Jabber и Windows Live."

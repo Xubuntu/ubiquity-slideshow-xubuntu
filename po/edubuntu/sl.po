@@ -11,11 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2011-04-12 07:00+0000\n"
 "Last-Translator: Andrej Znidarsic <andrej.znidarsic@gmail.com>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
-"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-15 13:42+0000\n"
+"X-Launchpad-Export-Date: 2011-04-18 08:38+0000\n"
 "X-Generator: Launchpad (build 12821)\n"
 
 #. type: Content of: <div><h1>
@@ -23,7 +22,7 @@ msgstr ""
 msgid "Accessibility in Edubuntu"
 msgstr "Dostopnost v Edubuntuju"
 
-#.  "your" refers to a large group that includes the reader. 
+#. "your" refers to a large group that includes the reader.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:6
 msgid ""
@@ -35,8 +34,8 @@ msgstr ""
 "lastnosti. Zato nudimo orodja, ki naredijo Edubuntu enega od najbolj "
 "dostopnih operacijskih sistemov."
 
-#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
+#. The string "Assistive Technologies Preferences" is describing a particular menu item: System >
+#. Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:7
 msgid ""
@@ -50,8 +49,8 @@ msgstr ""
 "je <em>Orka</em>, govorjenje besedila z zaslona, ali zadržani klik za "
 "samodejni pritisk miškinih gumbov."
 
-#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
+#. As before, the string "Appearance Preferences" is describing a particular menu item: System >
+#. Preferences > Appearance. Certain words were kept the same to make the menu item discoverable.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:8
 msgid ""
@@ -100,9 +99,10 @@ msgstr "Računalo Gnome"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
-"em>."
-msgstr "Edubuntu vsebuje zadnjo različico zmogljivega <em>Računala Gnome</em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome "
+"Calculator</em>."
+msgstr ""
+"Edubuntu vsebuje zadnjo različico zmogljivega <em>Računala Gnome</em>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:7
@@ -195,7 +195,7 @@ msgstr "<em>Gimp</em> je zmogljiv urejevalnik slik ter fotografij."
 msgid "Getting Help with Edubuntu"
 msgstr "Kako do pomoči"
 
-#.  The string "Help and Support" should be exactly as it appears in the System menu. 
+#. The string "Help and Support" should be exactly as it appears in the System menu.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:6
 msgid ""
@@ -205,7 +205,7 @@ msgstr ""
 "Če potrebujete pomoč, poglejte v <em>Pomoč in podpora</em> v meniju Sistem "
 "ali v <em>Pomoč</em> v menijih večine programov."
 
-#.  The url "edubuntu.org/support" should not be translated 
+#. The url "edubuntu.org/support" should not be translated
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid ""
@@ -224,15 +224,15 @@ msgstr ""
 msgid "edubuntu.org</a>"
 msgstr "edubuntu.org</a>"
 
-#.  The url "edubuntu.org/community" should not be translated 
+#. The url "edubuntu.org/community" should not be translated
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
-"community\">"
+"Let us know about your Edubuntu experience at <a "
+"href=\"http://edubuntu.com/community\">"
 msgstr ""
-"Povejte nam o svoji Edubuntu izkušnji na <a href=\"http://edubuntu.com/"
-"community\">"
+"Povejte nam o svoji Edubuntu izkušnji na <a "
+"href=\"http://edubuntu.com/community\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -251,7 +251,8 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/documentation.html:11
 msgid "The installation will finish soon. We hope you enjoy Edubuntu."
-msgstr "Namestitev se bo kmalu končala. Upamo, da boste v Edubuntuju uživali."
+msgstr ""
+"Namestitev se bo kmalu končala. Upamo, da boste v Edubuntuju uživali."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
@@ -319,7 +320,8 @@ msgstr "Program za ustvarjanje miselnih vzorcev FreeMind"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:6
 msgid "<em>FreeMind</em> is a powerful mindmapping tool."
-msgstr "<em>FreeMind</em> je zmogljivo orodje za ustvarjanje miselnih vzorcev."
+msgstr ""
+"<em>FreeMind</em> je zmogljivo orodje za ustvarjanje miselnih vzorcev."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:7
@@ -451,7 +453,8 @@ msgstr "<em>iTalc</em> omogoča predavatelju nadzor nad namizji študentov."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/italc.html:7
-msgid "Broadcast a desktop session to all users to demonstrate a new concept."
+msgid ""
+"Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 "Razpršeno oddajajte svojo namizno sejo vsem uporabnikom za predstavitev "
 "novega koncepta."
@@ -658,7 +661,8 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/sabayon.html:8
-msgid "Easily apply custom desktops that have been created to users or groups."
+msgid ""
+"Easily apply custom desktops that have been created to users or groups."
 msgstr ""
 "Zlahka uveljavljajte prilagojena namizja, ki so bila ustvarjena za "
 "uporabnike ali skupine."
@@ -682,7 +686,8 @@ msgstr ""
 msgid ""
 "Try an application out before deciding whether it's the right tool for the "
 "job."
-msgstr "Preizkusite program preden se odločite ali je pravo orodje za nalogo."
+msgstr ""
+"Preizkusite program preden se odločite ali je pravo orodje za nalogo."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testdrive.html:8
@@ -713,20 +718,20 @@ msgstr "Hvala vam za preizkušanje sistema, ki bo postal Edubuntu 11.04."
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:7
 msgid ""
-"If this is an alpha/beta candidate, please log this installation on <a href="
-"\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+"If this is an alpha/beta candidate, please log this installation on <a "
+"href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 msgstr ""
-"To je alfa/beta kandidat. To nastavitev beležite na <a href=\"http://iso.qa."
-"ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+"To je alfa/beta kandidat. To nastavitev beležite na <a "
+"href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:8
 msgid ""
-"File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
-"net</a>."
+"File bugs at <a "
+"href=\"http://bugs.launchpad.net\">http://bugs.launchpad.net</a>."
 msgstr ""
-"Poročajte hrošče na <a href=\"http://bugs.launchpad.net\">http://bugs."
-"launchpad.net</a>."
+"Poročajte hrošče na <a "
+"href=\"http://bugs.launchpad.net\">http://bugs.launchpad.net</a>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:9
@@ -736,11 +741,11 @@ msgstr "Pogovorite se z nami na irc.freenode.net, kanal #edubuntu"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:10
 msgid ""
-"Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu.org</"
-"a>"
+"Most up to date news at <a "
+"href=\"http://edubuntu.org\">http://edubuntu.org</a>"
 msgstr ""
-"Najbolj sveže novice na <a href=\"http://edubuntu.org\">http://edubuntu.org</"
-"a>"
+"Najbolj sveže novice na <a "
+"href=\"http://edubuntu.org\">http://edubuntu.org</a>"
 
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/testing.html:12
@@ -764,8 +769,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:7
 msgid ""
-"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
-"em>."
+"Learn basic computer skills and unleash your creativity with "
+"<em>TuxPaint</em>."
 msgstr ""
 "Naučite se osnovnih računalniških sposobnosti ter sprostite svojo "
 "ustvarjalnost s <em>TuxPaint</em>."
@@ -840,7 +845,8 @@ msgstr "Linux 2.6.38 izboljša hitrost delovanja in podporo strojne opreme."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid "Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
+msgid ""
+"Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
 msgstr ""
 "Xorg 1.10, Mesa 7.10 in Compiz zagotavljajo osupljivo grafično podporo."
 
@@ -897,8 +903,8 @@ msgstr "Edubuntu je zasnovan za enostavnost. Ne bojte se raziskovati!"
 #~ "menija .."
 
 #~ msgid ""
-#~ "Click the envelope near the clock to log in to your accounts. New "
-#~ "messages appear there, too, so you can see what's happening at a glance."
+#~ "Click the envelope near the clock to log in to your accounts. New messages "
+#~ "appear there, too, so you can see what's happening at a glance."
 #~ msgstr ""
 #~ "Kliknite na ovojnico poleg ure za prijavo v svoje račune. Tam se bodo "
 #~ "prikazala tudi nova sporočila, tako da lahko v hipu vidite, kaj se dogaja."
@@ -907,13 +913,13 @@ msgstr "Edubuntu je zasnovan za enostavnost. Ne bojte se raziskovati!"
 #~ msgstr "Inteligentno učenje iTalc"
 
 #~ msgid ""
-#~ "There are powerful applications for all sorts of interests, from "
-#~ "programming to creating music and exploring the universe. Take a look at "
-#~ "the <em>Featured Applications</em> section for some of our favourites!"
+#~ "There are powerful applications for all sorts of interests, from programming "
+#~ "to creating music and exploring the universe. Take a look at the "
+#~ "<em>Featured Applications</em> section for some of our favourites!"
 #~ msgstr ""
-#~ "Na voljo so zmogljivi programi za vsakovrstna področja, od programiranja "
-#~ "do ustvarjanja glasbe in raziskovanja vesolja. Poglejte v odsek "
-#~ "<em>Priporočeni programi</em>, kjer je nekaj naših najljubših!"
+#~ "Na voljo so zmogljivi programi za vsakovrstna področja, od programiranja do "
+#~ "ustvarjanja glasbe in raziskovanja vesolja. Poglejte v odsek <em>Priporočeni "
+#~ "programi</em>, kjer je nekaj naših najljubših!"
 
 #~ msgid ""
 #~ "Also included are geography games, turtle programming, a typing tutor, "
@@ -947,10 +953,10 @@ msgstr "Edubuntu je zasnovan za enostavnost. Ne bojte se raziskovati!"
 #~ "bookmarks, address book, and notes – everything goes where you go with "
 #~ "<em>Ubuntu One</em>."
 #~ msgstr ""
-#~ "Uporabljajte svoj prenosnik, mali prenosnik in delovni računalnik, pri "
-#~ "tem pa naj bo vse, kar potrebujete, samodejno usklajeno. Vaši dokumenti, "
-#~ "glasba, zaznamki, imenik ter zapiski - vse gre, kamor greste vi z "
-#~ "<em>Ubuntu One</em>."
+#~ "Uporabljajte svoj prenosnik, mali prenosnik in delovni računalnik, pri tem "
+#~ "pa naj bo vse, kar potrebujete, samodejno usklajeno. Vaši dokumenti, glasba, "
+#~ "zaznamki, imenik ter zapiski - vse gre, kamor greste vi z <em>Ubuntu "
+#~ "One</em>."
 
 #~ msgid "Allows you to test downloaded software in a protected environment."
 #~ msgstr "Omogoča vam preizkus prejetih programov v zaščitenem okolju."
@@ -1013,8 +1019,8 @@ msgstr "Edubuntu je zasnovan za enostavnost. Ne bojte se raziskovati!"
 #~ "Create technical drawings such as building plans, interiors, mechanical "
 #~ "parts or schemas and diagrams."
 #~ msgstr ""
-#~ "Ustvarite tehnične risbe kot so načrti zgradb, notranjosti, mehanični "
-#~ "deli ali sheme in diagrami."
+#~ "Ustvarite tehnične risbe kot so načrti zgradb, notranjosti, mehanični deli "
+#~ "ali sheme in diagrami."
 
 #~ msgid "Unleash Your Creativity With Pencil"
 #~ msgstr "Sprostite svojo ustvarjalnost s program Pencil"

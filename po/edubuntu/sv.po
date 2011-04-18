@@ -8,14 +8,13 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2011-04-14 21:54+0000\n"
-"Last-Translator: Daniel Nylander <yeager@ubuntu.com>\n"
+"PO-Revision-Date: 2011-04-18 08:06+0000\n"
+"Last-Translator: Arve Eriksson <Unknown>\n"
 "Language-Team: Swedish <sv@li.org>\n"
-"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-15 13:42+0000\n"
+"X-Launchpad-Export-Date: 2011-04-18 08:38+0000\n"
 "X-Generator: Launchpad (build 12821)\n"
 
 #. type: Content of: <div><h1>
@@ -23,7 +22,7 @@ msgstr ""
 msgid "Accessibility in Edubuntu"
 msgstr "Hjälpmedel i Edubuntu"
 
-#.  "your" refers to a large group that includes the reader. 
+#. "your" refers to a large group that includes the reader.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:6
 msgid ""
@@ -35,8 +34,8 @@ msgstr ""
 "förutsättningar. Därför tillhandahåller vi verktyg för att göra Edubuntu "
 "till ett av de operativsystem med flest hjälpmedelsfunktioner."
 
-#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
+#. The string "Assistive Technologies Preferences" is describing a particular menu item: System >
+#. Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:7
 msgid ""
@@ -45,13 +44,13 @@ msgid ""
 "helpful tools like <em>Orca</em>, to speak text on the screen, or dwell "
 "click to press mouse buttons automatically."
 msgstr ""
-"Du kan komma åt alla dessa verktyg från samma plats: <em>Hjälpmedelsteknik</"
-"em> i System-menyn. Därifrån kan du aktivera behjälpliga verktyg såsom "
-"<em>Orca</em> för att läsa upp text på skärmen, eller uppehållsklick för att "
-"automatiskt trycka ner musknappar."
+"Du kan komma åt alla dessa verktyg från samma plats: "
+"<em>Hjälpmedelsteknik</em> i System-menyn. Därifrån kan du aktivera "
+"behjälpliga verktyg såsom <em>Orca</em> för att läsa upp text på skärmen, "
+"eller uppehållsklick för att automatiskt trycka ner musknappar."
 
-#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
+#. As before, the string "Appearance Preferences" is describing a particular menu item: System >
+#. Preferences > Appearance. Certain words were kept the same to make the menu item discoverable.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:8
 msgid ""
@@ -100,8 +99,8 @@ msgstr "Gnome-kalkylator"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
-"em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome "
+"Calculator</em>."
 msgstr ""
 "Edubuntu levereras med den senaste versionen av den kraftfulla <em>Gnome-"
 "kakylator</em>."
@@ -156,7 +155,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:9
 msgid "Automatically sync feeds and news to your favorite device."
-msgstr "Synkronisera automatiskt RSS-flöden och nyheter till din favoritenhet."
+msgstr ""
+"Synkronisera automatiskt RSS-flöden och nyheter till din favoritenhet."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/desktop-software.html:1
@@ -193,14 +193,15 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:9
 msgid "<em>Gimp</em> is a powerful and scriptable image and photo editor."
-msgstr "<em>Gimp</em> är en kraftfull och skriptbar bild- och fotoredigerare."
+msgstr ""
+"<em>Gimp</em> är en kraftfull och skriptbar bild- och fotoredigerare."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/documentation.html:1
 msgid "Getting Help with Edubuntu"
 msgstr "Få hjälp med Edubuntu"
 
-#.  The string "Help and Support" should be exactly as it appears in the System menu. 
+#. The string "Help and Support" should be exactly as it appears in the System menu.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:6
 msgid ""
@@ -210,7 +211,7 @@ msgstr ""
 "Om du behöver hjälp, prova <em>Hjälp och support</em> från System-menyn "
 "eller <em>Hjälp</em>-menyn som finns i de flesta program."
 
-#.  The url "edubuntu.org/support" should not be translated 
+#. The url "edubuntu.org/support" should not be translated
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid ""
@@ -229,15 +230,15 @@ msgstr ""
 msgid "edubuntu.org</a>"
 msgstr "edubuntu.org</a>"
 
-#.  The url "edubuntu.org/community" should not be translated 
+#. The url "edubuntu.org/community" should not be translated
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
-"community\">"
+"Let us know about your Edubuntu experience at <a "
+"href=\"http://edubuntu.com/community\">"
 msgstr ""
-"Informera oss om dina erfarenheter med Edubuntu på <a href=\"http://edubuntu."
-"com/community\">"
+"Informera oss om dina erfarenheter med Edubuntu på <a "
+"href=\"http://edubuntu.com/community\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -319,17 +320,17 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
 msgid "FreeMind mindmapping"
-msgstr ""
+msgstr "FreeMind mindmapping"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:6
 msgid "<em>FreeMind</em> is a powerful mindmapping tool."
-msgstr ""
+msgstr "<em>FreeMind</em> är ett kraftfullt verktyg för mindmapping."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:7
 msgid "Summarize huge amounts of data efficiently."
-msgstr ""
+msgstr "Sammanfatta stora mängder data effektivt."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:8
@@ -384,7 +385,7 @@ msgstr "Minnesträning: spel utformade för att utmana ditt närminne."
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/geogebra.html:1
 msgid "Geogebra dynamic mathematics"
-msgstr ""
+msgstr "Geogebra dynamisk matematik"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/geogebra.html:6
@@ -449,7 +450,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/italc.html:1
 msgid "iTalc intelligent teaching"
-msgstr ""
+msgstr "iTalc intelligent pedagogik"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/italc.html:6
@@ -459,7 +460,8 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/italc.html:7
-msgid "Broadcast a desktop session to all users to demonstrate a new concept."
+msgid ""
+"Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 "Sänd ut en skrivbordssession till alla användare för att visa ett nytt "
 "koncept."
@@ -467,7 +469,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/italc.html:8
 msgid "Monitor user sessions to keep tabs on mischievous users."
-msgstr "Övervaka användarsessioner för att hålla ordning på problemanvändare."
+msgstr ""
+"Övervaka användarsessioner för att hålla ordning på problemanvändare."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
@@ -508,13 +511,13 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/librecad.html:1
 msgid "LibreCAD computer aided drawing"
-msgstr ""
+msgstr "LibreCAD datorassisterad ritning"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:6
 msgid ""
 "<em>LibreCAD</em> is a an application for 2D Computer Aided Design (CAD)."
-msgstr ""
+msgstr "<em>LibreCAD</em> är ett program för 2D-datorstödd design (CAD)."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:7
@@ -522,6 +525,8 @@ msgid ""
 "Create technical drawings such as building plans, interiors or mechanical "
 "parts."
 msgstr ""
+"Skapa tekniska ritningar för byggnader, heminredning eller mekaniska "
+"komponenter."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:8
@@ -564,7 +569,7 @@ msgstr "Gnome Nanny"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/nanny.html:6
 msgid "<em>Gnome Nanny</em> provides parental control in Edubuntu."
-msgstr ""
+msgstr "<em>GNOME Nanny</em> ger föräldrakontroll i Edubuntu."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/nanny.html:7
@@ -626,7 +631,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pessulus.html:7
 msgid "Lock down panels and user settings easily on public machines."
-msgstr "Lås enkelt ner paneler och användarinställningar för publika datorer."
+msgstr ""
+"Lås enkelt ner paneler och användarinställningar för publika datorer."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pessulus.html:8
@@ -658,7 +664,8 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/sabayon.html:8
-msgid "Easily apply custom desktops that have been created to users or groups."
+msgid ""
+"Easily apply custom desktops that have been created to users or groups."
 msgstr ""
 "Tillämpa enkelt anpassade skrivbord som har skapats för användare eller "
 "grupper."
@@ -697,7 +704,7 @@ msgstr ""
 #: slideshows/edubuntu/slides/testdrive.html:9
 msgid ""
 "Find it in Software Center, which can be found under the Applications menu."
-msgstr ""
+msgstr "Hitta det i Programcentralen, vilket kan hittas under Program-menyn."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/testing.html:1
@@ -712,20 +719,20 @@ msgstr "Tack för att du testar vad som kommer bli Edubuntu 11.04."
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:7
 msgid ""
-"If this is an alpha/beta candidate, please log this installation on <a href="
-"\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+"If this is an alpha/beta candidate, please log this installation on <a "
+"href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 msgstr ""
-"Om det här är en alfa-/beta-kandidat, logga gärna installationen på <a href="
-"\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+"Om det här är en alfa-/beta-kandidat, logga gärna installationen på <a "
+"href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:8
 msgid ""
-"File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
-"net</a>."
+"File bugs at <a "
+"href=\"http://bugs.launchpad.net\">http://bugs.launchpad.net</a>."
 msgstr ""
-"Rapportera fel på <a href=\"http://bugs.launchpad.net\">http://bugs."
-"launchpad.net</a>."
+"Rapportera fel på <a "
+"href=\"http://bugs.launchpad.net\">http://bugs.launchpad.net</a>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:9
@@ -735,11 +742,11 @@ msgstr "Prata med oss på irc.freenode.net, kanalen #edubuntu"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:10
 msgid ""
-"Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu.org</"
-"a>"
+"Most up to date news at <a "
+"href=\"http://edubuntu.org\">http://edubuntu.org</a>"
 msgstr ""
-"De senaste nyheterna finns på <a href=\"http://edubuntu.org\">http://"
-"edubuntu.org</a>"
+"De senaste nyheterna finns på <a "
+"href=\"http://edubuntu.org\">http://edubuntu.org</a>"
 
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/testing.html:12
@@ -763,8 +770,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:7
 msgid ""
-"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
-"em>."
+"Learn basic computer skills and unleash your creativity with "
+"<em>TuxPaint</em>."
 msgstr ""
 "Lär dig grundläggande datorhantering och släpp loss din kreativitet i "
 "<em>Rita med Tux</em>."
@@ -819,9 +826,9 @@ msgid ""
 "Sign-up by launching the <em>Ubuntu One Preferences</em> application or "
 "going to <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
 msgstr ""
-"Registrera dig genom att starta programmet <em>Inställningar för Ubuntu One</"
-"em> eller gå till <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</"
-"a>."
+"Registrera dig genom att starta programmet <em>Inställningar för Ubuntu "
+"One</em> eller gå till <a "
+"href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/underthehood.html:1
@@ -842,8 +849,10 @@ msgstr "Linux 2.6.38 förbättrar prestandan och stöd för hårdvara."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid "Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
+msgid ""
+"Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
 msgstr ""
+"Xorg 1.10, Mesa 7.10 och Compiz levererar stöd för häpnadsväckande grafik."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:9
@@ -887,17 +896,17 @@ msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr "Edubuntu utformades för att vara enkelt. Känn dig fri att utforska!"
 
 #~ msgid ""
-#~ "Click the envelope near the clock to log in to your accounts. New "
-#~ "messages appear there, too, so you can see what's happening at a glance."
+#~ "Click the envelope near the clock to log in to your accounts. New messages "
+#~ "appear there, too, so you can see what's happening at a glance."
 #~ msgstr ""
 #~ "Klicka på kuvertet nära klockan för att logga in på dina konton. Nya "
-#~ "meddelanden kommer även att visas där så att du kan se vad som händer "
-#~ "direkt när det händer."
+#~ "meddelanden kommer även att visas där så att du kan se vad som händer direkt "
+#~ "när det händer."
 
 #~ msgid ""
-#~ "There are powerful applications for all sorts of interests, from "
-#~ "programming to creating music and exploring the universe. Take a look at "
-#~ "the <em>Featured Applications</em> section for some of our favourites!"
+#~ "There are powerful applications for all sorts of interests, from programming "
+#~ "to creating music and exploring the universe. Take a look at the "
+#~ "<em>Featured Applications</em> section for some of our favourites!"
 #~ msgstr ""
 #~ "Det finns kraftfulla program för alla typer av intressen, allt från "
 #~ "programmering till att skapa musik och utforska universum. Ta en titt i "
@@ -910,8 +919,8 @@ msgstr "Edubuntu utformades för att vara enkelt. Känn dig fri att utforska!"
 #~ "Share folders using your synchronised address book. Project collaboration "
 #~ "has never been easier."
 #~ msgstr ""
-#~ "Dela ut mappar med din synkroniserade adressbok. Projektsamarbete har "
-#~ "aldrig varit enklare."
+#~ "Dela ut mappar med din synkroniserade adressbok. Projektsamarbete har aldrig "
+#~ "varit enklare."
 
 #~ msgid ""
 #~ "Shuffle between your laptop, netbook, and company desktop and find "
@@ -920,9 +929,9 @@ msgstr "Edubuntu utformades för att vara enkelt. Känn dig fri att utforska!"
 #~ "<em>Ubuntu One</em>."
 #~ msgstr ""
 #~ "Hoppa mellan din bärbara, ultraportabla dator eller stationära dator på "
-#~ "arbetet och allting som du behöver finns redan synkroniserat. Dina "
-#~ "dokument, musik, bokmärken, adressbok och anteckningar – allting följer "
-#~ "med dig med <em>Ubuntu One</em>."
+#~ "arbetet och allting som du behöver finns redan synkroniserat. Dina dokument, "
+#~ "musik, bokmärken, adressbok och anteckningar – allting följer med dig med "
+#~ "<em>Ubuntu One</em>."
 
 #~ msgid "iTalc"
 #~ msgstr "iTalc"
@@ -967,8 +976,7 @@ msgstr "Edubuntu utformades för att vara enkelt. Känn dig fri att utforska!"
 #~ msgid ""
 #~ "<em>Calibre</em> is an e-library solution to all your electronic books."
 #~ msgstr ""
-#~ "<em>Calibre</em> är en e-bibliotekslösning för alla dina elektroniska "
-#~ "böcker."
+#~ "<em>Calibre</em> är en e-bibliotekslösning för alla dina elektroniska böcker."
 
 #~ msgid ""
 #~ "Integrates with file manager allowing easy execution via graphical "
@@ -1002,8 +1010,8 @@ msgstr "Edubuntu utformades för att vara enkelt. Känn dig fri att utforska!"
 #~ "It supports many different hardware platforms, including the most popular "
 #~ "commercial e-book platforms available."
 #~ msgstr ""
-#~ "Det har stöd för många olika hårdvaruplattformar, inklusive de mest "
-#~ "populära e-boksplattformar som finns tillgängliga."
+#~ "Det har stöd för många olika hårdvaruplattformar, inklusive de mest populära "
+#~ "e-boksplattformar som finns tillgängliga."
 
 #~ msgid "Automatically sync feeds and news to your favourive device."
 #~ msgstr ""
@@ -1021,8 +1029,7 @@ msgstr "Edubuntu utformades för att vara enkelt. Känn dig fri att utforska!"
 #~ msgid ""
 #~ "<em>LibreCAD</em>, is a an application for 2D Computer Aided Design (CAD)."
 #~ msgstr ""
-#~ "<em>LibreCAD</em> är ett program för tvådimensionell datorstödd design "
-#~ "(CAD)."
+#~ "<em>LibreCAD</em> är ett program för tvådimensionell datorstödd design (CAD)."
 
 #~ msgid ""
 #~ "Create technical drawings such as building plans, interiors, mechanical "
@@ -1038,8 +1045,7 @@ msgstr "Edubuntu utformades för att vara enkelt. Känn dig fri att utforska!"
 #~ msgstr "."
 
 #~ msgid "Edubuntu ships with <em>software</em>, which has a description."
-#~ msgstr ""
-#~ "Edubuntu levereras med <em>programvara</em>, som har en beskrivning."
+#~ msgstr "Edubuntu levereras med <em>programvara</em>, som har en beskrivning."
 
 #~ msgid "Under The Hood"
 #~ msgstr "Under huven"
