@@ -1,14 +1,12 @@
-Ubuntu slideshow for Ubuntu ubiquity-slideshow-ubuntu
-
-Slideshow to display with the Ubiquity GTK front-end for Ubuntu
+ubiquity-slideshow-ubuntu
 <http://launchpad.net/ubiquity-slideshow-ubuntu>
 
 -----
 
-This project maintains slideshows which appear while installing Ubuntu
-or its derivatives. The one source package provides a number of Debian
+This project is about slideshows which appear while installing Ubuntu or
+its *buntu friends. The one source package provides a number of Debian
 packages for Ubuntu, including ubiquity-slideshow-ubuntu,
-ubiquity-slideshow-ubuntu-netbook and ubiquity-slideshow-kubuntu.
+ubiquity-slideshow-lubuntu and ubiquity-slideshow-kubuntu.
 
 This is associated with the ubiquity-slideshow group on Launchpad at
 <https://launchpad.net/~ubiquity-slideshow>.
@@ -16,7 +14,7 @@ This is associated with the ubiquity-slideshow group on Launchpad at
 Constructive feedback on the group mailing list is always appreciated!
 
 Please also note the "COPYING", "AUTHORS" and "TODO" files in this
-directory, which all have cool stuff.
+directory, which all have cool stuff in them.
 
 
 ----- Testing the slideshow
@@ -118,12 +116,40 @@ trust our viewers to find things on their own as long as we show them
 where to start. It is possible for a single slide to do quite a bit.
 
 
+----- Additional musings on writing
+
+* The slideshow is a temporary resource. When it's finished, it's gone
+until you install Ubuntu again (which is hopefully never, because our
+upgrade tool is awesome and Ubuntu will breathe +1000 life into a
+computer).
+
+* So, what we want to do here is point a user in some interesting
+directions, but we can't go all the way. We have to avoid the case where
+somebody feels they need to go back to the slideshow for information. It's
+fine if someone will miss your slideshow (people love pretty things!), but
+it's frustrating when a complex product has all its critical information on
+the outer packaging.
+
+* Avoid writing links that people will need to click, because they won't
+always be able to. They probably won't want to, either, because there is an
+entire operating system being installed. Our user's 1 GHz netbook sounds
+like a washing machine as it is. Instead, we want people to see a simple
+link they can write down or remember for later. So, contrary to modern web
+writing conventions,
+<a href="http://www.ubuntu.com/community">ubuntu.com/community</a>
+is a better link than…
+<a href="http://www.ubuntu.com/community">the Ubuntu community website</a>
+
+* This also goes back to the second point: if you have to copy and paste a
+URL, try to find something less specific and more memorable.
+
+
 ----- Embedding a slideshow
       (For example, in an installer)
 
 Slideshows are simple HTML documents and can be embedded with WebKit or
 any other browser widget that supports Javascript and CSS.
-./Slideshow.py contains an example implementation.
+./Slideshow.py contains an example implementation with GTK+ 3 and Python.
 
 The slideshow can be given some information through its URL. Append "#"
 and add attributes as key=value pairs, separated by "?". The following are
@@ -236,3 +262,4 @@ images. This makes it easier to add images to some slideshows.
 be run to produce new .pot files (for translators) reflecting that
 content. There is probably no need to do this yourself, though; the people
 who push those .pot files to Rosetta will do it.
+
