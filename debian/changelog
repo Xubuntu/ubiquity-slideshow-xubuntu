@@ -1,12 +1,17 @@
-ubiquity-slideshow-ubuntu (43) UNRELEASED; urgency=low
+ubiquity-slideshow-ubuntu (44) UNRELEASED; urgency=low
+
+  * Convert HTML entities to their unescaped forms to help translators.
+    Thanks Dylan McCall.
+
+ -- Evan Dandrea <ev@ubuntu.com>  Thu, 15 Sep 2011 09:21:40 +0100
+
+ubiquity-slideshow-ubuntu (43) oneiric; urgency=low
 
   * Fix reference to 11.04 in oem-config (LP: #837967).
   * Use en instead of en_GB for the copy. Thanks Dylan Mccall (LP: #845498).
   * Fix missing reference to all support options.
-  * Convert HTML entities to their unescaped forms to help translators.
-    Thanks Dylan McCall.
 
- -- Evan Dandrea <evand@ubuntu.com>  Wed, 14 Sep 2011 11:34:56 +0100
+ -- Evan Dandrea <ev@ubuntu.com>  Thu, 15 Sep 2011 09:21:34 +0100
 
 ubiquity-slideshow-ubuntu (42) oneiric; urgency=low
 
