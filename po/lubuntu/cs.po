@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2010-09-21 17:28+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
+"PO-Revision-Date: 2011-09-04 13:17+0000\n"
+"Last-Translator: Ondřej Profant <ondraprofant@seznam.cz>\n"
 "Language-Team: Czech <cs@li.org>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:37+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
-"Language: cs\n"
+"X-Launchpad-Export-Date: 2011-09-18 19:13+0000\n"
+"X-Generator: Launchpad (build 13955)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/browser.html:1
 msgid "Internet with Chromium"
-msgstr ""
+msgstr "Surfuování s prohlížečem Chromium"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/browser.html:8
@@ -29,19 +29,22 @@ msgid ""
 "Lubuntu is shipped with <em>Chromium</em>, the open-source version of "
 "Chrome, a browser developed by Google."
 msgstr ""
+"Lubuntu obsahuje <em>Chromium</em>, otevřenou verzi prohlížeče Chrome, "
+"vyvinutým společností Google."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/browser.html:12
 msgid "It's fast with a clean user interface."
-msgstr ""
+msgstr "Je velmi rychlý a obsahuje jednoduché uživatelské rozhraní"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/browser.html:16
 msgid ""
-"More information on the <a "
-"href=\"http://sites.google.com/a/chromium.org/dev/Home\">Chromium "
-"website</a>."
+"More information on the <a href=\"http://sites.google.com/a/chromium.org/dev/"
+"Home\">Chromium website</a>."
 msgstr ""
+"Více informací na stránkách <a href=\"http://sites.google.com/a/chromium.org/"
+"dev/Home\">Chromium</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/browser.html:20
@@ -50,12 +53,12 @@ msgstr ""
 #: slideshows/lubuntu/slides/office.html:12
 #: slideshows/lubuntu/slides/videos.html:20
 msgid "Included software"
-msgstr ""
+msgstr "Obsažený software"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/browser.html:24
 msgid "Chromium web browser"
-msgstr ""
+msgstr "Webový prohlížeč Chromium"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/browser.html:27
@@ -64,22 +67,22 @@ msgstr ""
 #: slideshows/lubuntu/slides/office.html:27
 #: slideshows/lubuntu/slides/videos.html:27
 msgid "Supported software"
-msgstr ""
+msgstr "Podporovaný software"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/browser.html:31
 msgid "Firefox web browser"
-msgstr ""
+msgstr "Webový prohlížeč Firefox"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/email.html:1
 msgid "Checking your emails"
-msgstr ""
+msgstr "Správa pošty"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/email.html:8
 msgid "Lubuntu provides a mail client named <em>Sylpheed</em>."
-msgstr ""
+msgstr "Lubuntu obsahuje klienta elektronické pošty <em>Sylpheed</em>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/email.html:12
@@ -87,6 +90,8 @@ msgid ""
 "It will allow you to check your email messages, and read them even if you "
 "are offline."
 msgstr ""
+"To vám umožní kontrolovat vaše e-mailové zprávy, a číst je, i když jste "
+"offline."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/email.html:16
@@ -94,34 +99,37 @@ msgid ""
 "More information on <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed "
 "website</a>."
 msgstr ""
+"Pro více informací navštivte <a href=\"http://sylpheed.sraoss.jp/en/"
+"\">internetovou stránku Sylpheed</a>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/email.html:24
 msgid "Sylpheed"
-msgstr ""
+msgstr "E-mailový  klient Sylpheed"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/email.html:31
 msgid "Thunderbird mail client"
-msgstr ""
+msgstr "E-mailový klient Thunderbird"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/help.html:1
 msgid "Getting Help"
-msgstr ""
+msgstr "Získání pomoci"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/help.html:8
 msgid "If you need help, you can contact us:"
-msgstr ""
+msgstr "Potřebujete-li pomoc, můžete nás kontaktovat:"
 
-#. The url should not be translated
+#.  The url should not be translated 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:12
 msgid ""
-"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
-"page</a>."
+"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki page</"
+"a>."
 msgstr ""
+"<a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">Stránka wiki</a>."
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:16
@@ -129,26 +137,30 @@ msgid ""
 "On the mailing list, subscribe on <a href=\"https://launchpad.net/~lubuntu-"
 "desktop\">the page</a>."
 msgstr ""
+"Přihlaste se použitím mailing listu na <a href=\"https://launchpad.net/"
+"~lubuntu-desktop\">této stránce</a>."
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:20
 msgid "On the IRC chan #lubuntu on irc.freenode.net."
-msgstr ""
+msgstr "Na IRC kanálu #lubuntu na irc.freenode.net."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/help.html:24
 msgid "The installation will finish soon. We hope you enjoy Lubuntu."
 msgstr ""
+"Instalace bude brzy dokončena. Věříme, že používání Lubuntu pro Vás bude "
+"příjemným zážitkem."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/im.html:1
 msgid "Chatting with your friends"
-msgstr ""
+msgstr "Konverzace s přáteli"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/im.html:8
 msgid "With <em>Pidgin</em>, you will be able to chat with your friends."
-msgstr ""
+msgstr "<em>Pidgin</em> vám umožňuje komunikovat s přáteli."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/im.html:12
@@ -156,31 +168,35 @@ msgid ""
 "Go to the menu, and click on Pidgin icon to connect to many services, such "
 "as Jabber, Google Talk or Windows Live."
 msgstr ""
+"Pro připojení k mnoha službám, jako je Jabber, Google Talk, nebo Windows "
+"Live, klikněte v menu na ikonu Pidgin."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/im.html:16
 msgid "More information on <a href=\"http://pidgin.im/\">Pidgin website</a>."
 msgstr ""
+"Pro více informací navštivte <a href=\"http://pidgin.im/\">stránky programu "
+"Pidgin</a>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/im.html:24
 msgid "Pidgin"
-msgstr ""
+msgstr "Komunikátor Pidgin"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/im.html:31
 msgid "Empathy IM"
-msgstr ""
+msgstr "Komunikátor Empathy"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/im.html:35
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/install.html:1
 msgid "Install software"
-msgstr ""
+msgstr "Nainstalovat software"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/install.html:8
@@ -188,22 +204,26 @@ msgid ""
 "With Lubuntu, you have access to the whole Ubuntu repository and all the "
 "software included."
 msgstr ""
+"Lubuntu umožňuje přístup ke všem zdrojům softwaru ubuntu a veškerým "
+"programům na těchto zdrojích."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/install.html:12
 msgid ""
 "Go to the menu, click on System Tools and <em>Synaptic Software Manager</em>."
 msgstr ""
+"V menu klikněte na <em>Systémové nástroje</em> a <em>Správce balíků "
+"Synaptic</em>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/install.html:16
 msgid "You can search for software by clicking on the Search button."
-msgstr ""
+msgstr "Můžete vyhledávat software kliknutím na tlačítko Hledat."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/lxde.html:1
 msgid "Based on LXDE Desktop"
-msgstr ""
+msgstr "Základem je pracovní prostředí LXDE"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/lxde.html:8
@@ -211,56 +231,64 @@ msgid ""
 "Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing and "
 "energy-saving desktop environment."
 msgstr ""
+"Lubuntu je založeno na rychlém a efektivním desktopovém prostředí <em>LXDE</"
+"em>."
 
-#. The url "lxde.org" should not be translated
+#.  The url "lxde.org" should not be translated 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/lxde.html:12
 msgid "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
 msgstr ""
+"Pro více informací navštivte <a href=\"http://lxde.org\">internetové stránky "
+"LXDE</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/office.html:1
 msgid "Abiword and Gnumeric"
-msgstr ""
+msgstr "Abiword a Gnumeric"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/office.html:8
 msgid ""
 "Use <em>Abiword and Gnumeric</em>, lightweight alternatives for LibreOffice, "
-"and create letters, spreadsheets, etc. Information on <a "
-"href=\"http://www.abisource.com/\">Abiword</a> and <a "
-"href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> websites."
+"and create letters, spreadsheets, etc. Information on <a href=\"http://www."
+"abisource.com/\">Abiword</a> and <a href=\"http://projects.gnome.org/"
+"gnumeric/\">Gnumeric</a> websites."
 msgstr ""
+"K psaní textu a práci s tabulkami použijte <em>Abiword</em> a <em>Gnumeric</"
+"em>, alternativy LibreOffice nenáročné na výkon. Další informace naleznete "
+"na stránkách <a href=\"http://www.abisource.com/\">Abiwordu</a> a <a href="
+"\"http://projects.gnome.org/gnumeric/\">Gnumericu</a>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:16
 msgid "Abiword"
-msgstr ""
+msgstr "Abiword"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:20
 msgid "Gnumeric"
-msgstr ""
+msgstr "Gnumeric"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:24
 msgid "Xpad Notes"
-msgstr ""
+msgstr "Poznámky Xpad"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:31
 msgid "LibreOffice"
-msgstr ""
+msgstr "LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:35
 msgid "Tomboy Notes"
-msgstr ""
+msgstr "Poznámky Tomboy"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/videos.html:1
 msgid "Videos with gnome-mplayer"
-msgstr ""
+msgstr "Přehrávání videí pomocí gnome-mplayer"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/videos.html:8
@@ -268,6 +296,8 @@ msgid ""
 "Watch videos with <em>gnome-mplayer</em>, a fast video player using mplayer. "
 "Support for many formats is included."
 msgstr ""
+"Dívejte se na filmy s programem <em>gnome-mplayer</em>, úsporným přehrávačem "
+"využívajícím mplayer. Podporuje řadu různých formátů."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/videos.html:12
@@ -275,36 +305,41 @@ msgid ""
 "You can also obtain additional non-free support by installing the lubuntu-"
 "restricted-extras package."
 msgstr ""
+"Další programy s licencemi neodpovídajícími svobodnému software můžete "
+"získat instalací balíku lubuntu-restricted-extras."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/videos.html:16
 msgid ""
-"More information on <a "
-"href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-"website</a>."
+"More information on <a href=\"http://sites.google.com/site/kdekorte2/"
+"gnomemplayer\">gnome-mplayer website</a>."
 msgstr ""
+"Více informací na <a href=\"http://sites.google.com/site/kdekorte2/"
+"gnomemplayer\">stránkách gnome-mplayer</a>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/videos.html:24
 msgid "Gnome-Mplayer videos player"
-msgstr ""
+msgstr "Filmový přehrávač gnome-mplayer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/videos.html:31
 msgid "VLC videos player"
-msgstr ""
+msgstr "Multimediální přehráváč VLC"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/welcome.html:1
 msgid "Welcome"
-msgstr ""
+msgstr "Vítejte"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:8
-msgid "Thank you for choosing Lubuntu 11.04."
-msgstr ""
+msgid "Thank you for choosing Lubuntu 11.10."
+msgstr "Děkujeme, že jste si vybrali Lubuntu 11.10."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:12
 msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
 msgstr ""
+"Lubuntu je navrženo tak, aby bylo jednoduché a rychlé. Nebojte se jej "
+"prozkoumat!"

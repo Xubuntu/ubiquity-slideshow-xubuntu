@@ -1,46 +1,47 @@
 # Bengali translation for ubiquity-slideshow-ubuntu
 # Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
 # This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
+# nasir khan saikat <nasir8891@gmail.com>, 2010.
+# Zenat Rahnuma <zenat@ankur.org.bd>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2011-02-22 22:32+0000\n"
-"Last-Translator: nasir khan saikat <nasir8891@gmail.com>\n"
-"Language-Team: Bengali <bn@li.org>\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
+"PO-Revision-Date: 2011-04-25 05:03+0000\n"
+"Last-Translator: Zenat Rahnuma <Unknown>\n"
+"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:38+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
-"Language: bn\n"
+"X-Launchpad-Export-Date: 2011-09-18 19:14+0000\n"
+"X-Generator: Launchpad (build 13955)\n"
+"X-Language: bn_BD\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
 msgid "Customise Ubuntu"
-msgstr ""
+msgstr "উবুন্টু স্বনির্বাচন করা"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
 msgid ""
-"At the heart of Ubuntu&#8217;s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and many options like your "
-"preferred fonts, colour schemes, and languages, Ubuntu is all about working "
-"for real people."
+"At the heart of Ubuntu’s philosophy is a belief that computing is for "
+"everyone. With advanced accessibility tools and options like your preferred "
+"color scheme, text size, and language, Ubuntu is all about working for real "
+"people."
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:12
 msgid "Customisation options"
-msgstr ""
+msgstr "স্বনির্বাচনের অপশন"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:16
-msgid "Appearance preferences"
-msgstr "এ্যাপিয়ারেন্স প্রিফারেন্স"
+msgid "Appearance"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:20
@@ -61,15 +62,11 @@ msgstr "ওয়েব ব্রাউজ করুন"
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
 msgid ""
 "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from Ubuntu Software Center."
+"choose alternative browsers from the Ubuntu Software Center."
 msgstr ""
-"উবুন্টুতে দ্রুত ও নিরাপদ ওয়েব ব্রাউজিং-এর জন্য মজিলা ফায়ারফক্স দেয়া আছে। "
-"তাছাড়া আপনি উবুন্টু সফটওয়্যার সেন্টার থেকে অন্যান্য ওয়েব ব্রাউজার বেছে মিতে "
-"পারেন।"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
-#: slideshows/oem-config-ubuntu/slides/email.html:12
 #: slideshows/oem-config-ubuntu/slides/music.html:12
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
@@ -83,8 +80,7 @@ msgstr "ফায়ারফক্স ওয়েব ব্রাউজার"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:19
-#: slideshows/oem-config-ubuntu/slides/email.html:23
-#: slideshows/oem-config-ubuntu/slides/photos.html:23
+#: slideshows/oem-config-ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "সমর্থনকৃত সফটওয়্যার"
 
@@ -96,84 +92,60 @@ msgstr "ফ্ল্যাশ"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:27
 msgid "Chromium"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu/slides/email.html:1
-msgid "Email and chat"
-msgstr "ইমেইল এবং চ্যাট"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:8
-msgid ""
-"The Messaging Menu has lots of features to make online communication "
-"effortless. Chat helps you log in to all your instant messaging accounts "
-"including MSN, Jabber, and Facebook. Your contacts appear in the same place, "
-"ready for text or video chat."
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:16
-msgid "Empathy IM"
-msgstr "এম্পাথি IM"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:20
-msgid "Evolution Mail"
-msgstr "ইভলুশন মেইল (Evolution Mail)"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:27
-msgid "Skype"
-msgstr "স্কাইপে"
+msgstr "ক্রোমিয়াম"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Thank you"
+msgid "Any questions?"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
 msgid ""
-"Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, so "
-"don&#8217;t hesitate to explore! If you have any questions, try the Help "
-"menu in most applications or browse to <a "
+"Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
+"to get an answer about Ubuntu. With most questions already answered, and "
+"thousands of people ready to help, you’ll be sorted in no time at all. And "
+"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
+"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
 "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options. We hope you enjoy Ubuntu."
+"your other options."
 msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:1
-msgid "Mobilise your digital life"
+msgid "Your own personal cloud"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:8
 msgid ""
-"All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-"One</a> account. Ubuntu One allows you to sync all kinds of files online so "
-"you can access them anywhere. Sync bookmarks, contacts, music, and pictures "
-"across all your computers. Take everything everywhere with Ubuntu One."
+"An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> account "
+"gives you 5GB of cloud storage, so you can store and sync your files and "
+"photos across devices and access them wherever you are in the world. Easily "
+"share them with friends, family and colleagues. Take a photo on your mobile "
+"phone and immediately see it on your desktop, or add <a href=\"https://one."
+"ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
+"music on the move."
 msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:1
 msgid "Take your music with you"
-msgstr ""
+msgstr "আপনার মিউজিক আপনার সাথেই রাখুন"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:8
 msgid ""
 "Ubuntu comes with the amazing Banshee music player. With advanced playback "
-"options and the Ubuntu One music store built in, it&#8217;s simple to queue "
-"up the perfect songs. And it works great with CDs and portable music "
-"players, so you can enjoy all your music wherever you go."
+"options and the Ubuntu One music store built in, it’s simple to queue up the "
+"perfect songs. And it works great with CDs and portable music players, so "
+"you can enjoy all your music wherever you go."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:16
 msgid "Banshee Music Player"
-msgstr ""
+msgstr "বানশি মিউজিক প্লেয়ার"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:20
@@ -182,14 +154,14 @@ msgstr "উবুন্টু ওয়ান মিউজিক স্টোর
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
-msgid "Write and present with ease"
+msgid "Write and present for free"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
 msgid ""
-"LibreOffice is a free office suite packed with everything you&#8217;ll need "
-"to create impressive documents, spreadsheets, and presentations. LibreOffice "
+"LibreOffice is a free office suite packed with everything you’ll need to "
+"create impressive documents, spreadsheets, and presentations. LibreOffice "
 "tries its best to work with other office software, and it uses the "
 "OpenDocument standards for far-reaching compatibility."
 msgstr ""
@@ -197,7 +169,7 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
 msgid "LibreOffice"
-msgstr ""
+msgstr "LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:20
@@ -207,15 +179,15 @@ msgstr "টমবয় নোট"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/photos.html:1
 msgid "Have fun with your photos"
-msgstr ""
+msgstr "আপনার ছবি দিয়ে মজা করুন"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:8
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it&#8217;s easy to share "
-"them and keep them safe. If you&#8217;re feeling creative, you can try lots "
-"of photo apps from the Ubuntu Software Centre."
+"camera or a phone to transfer your photos, then it’s easy to share them and "
+"keep them safe. If you’re feeling creative, you can try lots of photo apps "
+"from the Ubuntu Software Center."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -224,27 +196,26 @@ msgid "Shotwell Photo Manager"
 msgstr "শটওয়েল ফটো ম্যানেজার"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/photos.html:20
-msgid "Pitivi Video Editor"
-msgstr "পিটিভি ভিডিও এডিটর"
+#: slideshows/oem-config-ubuntu/slides/photos.html:23
+msgid "GIMP Image Editor"
+msgstr "গিম্প চিত্র সম্পাদক"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:27
-msgid "GIMP Image Editor"
-msgstr ""
+msgid "Pitivi Video Editor"
+msgstr "পিটিভি ভিডিও এডিটর"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/social.html:1
-msgid "Social from the start"
-msgstr "শুরু থেকেই সামাজিক"
+msgid "Stay connected"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:8
 msgid ""
-"The Me Menu is your instant connection to web services like Facebook and "
-"Twitter. Just set up your accounts to log in and share with friends. "
-"Anything sent to you appears in the Messaging Menu so you can reply when you "
-"want."
+"The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+"messages from all applications and social networks. See at a glance when "
+"there’s something new to read, regardless how it arrived."
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
@@ -255,12 +226,12 @@ msgstr "সমর্থনকৃত সার্ভিসসমূহ"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:16
 msgid "Twitter"
-msgstr "Twitter"
+msgstr "টুইটার"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:20
 msgid "Facebook"
-msgstr "Facebook"
+msgstr "ফেইসবুক"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:24
@@ -270,35 +241,15 @@ msgstr "Identi.ca"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1
 msgid "Find even more software"
-msgstr ""
+msgstr "আরও সফ্টওয়্যার খুঁজুন"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
 msgid ""
-"The Ubuntu Software Centre has thousands of new applications ready for your "
+"The Ubuntu Software Center has thousands of new applications ready for your "
 "computer. Just type what you want or explore the categories like games, "
-"science, and education. It is simple to download new stuff and write reviews "
+"science, and education. It is easy to download new stuff and write reviews "
 "to share your experiences."
-msgstr ""
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/usc.html:12
-msgid "Some of our favourites"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:16
-msgid "Stellarium"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:20
-msgid "Inkscape"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:24
-msgid "Frozen Bubble"
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -309,107 +260,165 @@ msgstr "স্বাগতম"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 11.04. This version brings some exciting "
+"Thank you for choosing Ubuntu 11.10. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
 
-#~ msgid "Customize Ubuntu"
-#~ msgstr "উবুন্টুকে কাস্টমাইজ করুন"
+#~ msgid "Appearance preferences"
+#~ msgstr "এ্যাপিয়ারেন্স প্রিফারেন্স"
 
 #~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is the belief that computing is "
-#~ "for everyone. With advanced accessibility tools and hundreds of options like "
-#~ "your preferred fonts, color schemes and languages, Ubuntu provides the "
-#~ "flexibility to fit real people, whoever they are."
+#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+#~ "choose alternative browsers from Ubuntu Software Center."
 #~ msgstr ""
-#~ "উবুন্টু দর্শনের মূলে রয়েছে সকলের জন্য কম্পিউটার ব্যবহারের সুবিধা নিশ্চিত "
-#~ "করা। বিভিন্ন ধরনের ব্যবহারিক টুল এবং সেগুলি নিজের পছন্দমত ব্যবহারের সুযোগ "
-#~ "করে দেয়া উবুন্টু। এর মধ্যে রয়েছে পছন্দের ফন্ট, থিম, নিজের ভাষায় ব্যবহারের "
-#~ "সুবিধা, ফলে যে কেউই নিজের মত করে এটি ব্যবহার করতে পারে।"
+#~ "উবুন্টুতে দ্রুত ও নিরাপদ ওয়েব ব্রাউজিং-এর জন্য মজিলা ফায়ারফক্স দেয়া আছে। তাছাড়া "
+#~ "আপনি উবুন্টু সফটওয়্যার সেন্টার থেকে অন্যান্য ওয়েব ব্রাউজার বেছে মিতে পারেন।"
 
-#~ msgid "Customization options"
-#~ msgstr "কাস্টমাইজেশন অপশন"
+#~ msgid "Email and chat"
+#~ msgstr "ইমেইল এবং চ্যাট"
 
-#~ msgid "Google Chrome"
-#~ msgstr "গুগল ক্রোম (Google Chrome)"
+#~ msgid "Empathy IM"
+#~ msgstr "এম্পাথি IM"
+
+#~ msgid "Evolution Mail"
+#~ msgstr "ইভলুশন মেইল (Evolution Mail)"
+
+#~ msgid "Skype"
+#~ msgstr "স্কাইপে"
+
+#~ msgid "Social from the start"
+#~ msgstr "শুরু থেকেই সামাজিক"
 
 #~ msgid ""
-#~ "Use Empathy to get chatting with your accounts from Yahoo, Facebook, Gmail, "
-#~ "MSN, Jabber and many more. Set your status and reach all your instant "
-#~ "messaging contacts from a single place."
+#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
+#~ "for everyone. With advanced accessibility tools and many options like "
+#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
+#~ "working for real people."
 #~ msgstr ""
-#~ "এম্পাথি এর সাহায্যে আপনি আপনার ইয়াহু,ফেসবুক,জিমেইল,এমএসএন,জ্যাবার এবং আরও "
-#~ "অন্যান্য একাউন্টের মাধ্যমে আপনি চ্যাটিং করতে পারবেন। আপনি এক জায়গা থেকেই "
-#~ "আপনি স্ট্যাটাস সেট করতে এবং ইন্সট্যান্ট মেসেজিং কন্টাক্ট গুলো ব্যাবহার করতে "
-#~ "পারবেন।"
-
-#~ msgid "Gwibber Microblogging"
-#~ msgstr "গুইবার মাইক্রোব্লগিং"
-
-#~ msgid "Get help with Ubuntu"
-#~ msgstr "উবুন্টু থেকে সহায়তা নিন"
-
-#~ msgid "Mobilize your digital life"
-#~ msgstr "আপনার ডিজিটাল জীবনকে ভ্রাম্যমান করুন"
-
-#~ msgid "Buy music while you listen"
-#~ msgstr "গান ক্রয় করুন যখন আপনি শুনছেন"
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "রিদমবক্স মিউজিক প্লেয়ার"
-
-#~ msgid "Create documents and presentations"
-#~ msgstr "ডকুমেন্ট ও প্রেজেন্টেশন তৈরি করুন"
+#~ "Ubuntu&#8217; এর হার্টের দর্শন হলো এই যে, কম্পিউটিং সবার জন্য। আপনার পছন্দনীয় "
+#~ "ফন্ট, রং এর স্কীম, এবং ভাষা, এর মত উচ্চ পর্যায়ের স্বাচ্ছন্দ্যকরণ টুল এবং অনেক অপশন "
+#~ "আছে, সত্যিকারের মানুষের জন্য উবুন্টু কাজ করে যাচ্ছে।"
 
 #~ msgid ""
-#~ "OpenOffice.org is fully compatible with Microsoft Office and has everything "
-#~ "you need to create professional documents, spreadsheets and presentations. "
-#~ "OpenOffice.org is easy to use, packed with the features you need and "
-#~ "completely free."
+#~ "The Messaging Menu has lots of features to make online communication "
+#~ "effortless. Chat helps you log in to all your instant messaging accounts "
+#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
+#~ "place, ready for text or video chat."
 #~ msgstr ""
-#~ "ওপেন অফিস ডট ওআরজি মাইক্রোসফট অফিস এর সাথে কম্পাটিবল এবং প্রফেশনাল "
-#~ "ডকুমেন্ট,স্প্রেডশিট ও প্রেজেন্টেশন তৈরি করতে আপনার যা যা দরকার তার সবই আছে।"
+#~ "নির্ঝঞ্ঝাটে অনলাইন যোগাযোগের ম্যাসেজিং মেনুর অনেক বৈশিষ্ঠ্য রয়েছে। চ্যাট সব "
+#~ "তাৎক্ষনিক বার্তার অ্যাকাউন্টে MSN, য্যাবার এবং ফেসবুকে লগইন করতে সাহায্য করে। "
+#~ "আপনার কনটাক্ট একই জায়গায় আছে এবং টেক্সেট বা ভিডিও চ্যাট করার জন্য প্রস্তুত"
 
-#~ msgid "OpenOffice.org"
-#~ msgstr "ওপেন অফিস ডট ওআরজি"
-
-#~ msgid "View, store and edit photos"
-#~ msgstr "ছবি দেখুন,সংরক্ষন করুণ এবং সম্পাদনা করুন"
-
-#~ msgid "Get free software"
-#~ msgstr "ফ্রি সফটওয়্যার নিন"
+#~ msgid "Thank you"
+#~ msgstr "আপনাকে ধন্যবাদ"
 
 #~ msgid ""
-#~ "Ubuntu Software Center gives you instant access to thousands of free, open-"
-#~ "source applications. Browse categories including Education, Games, Graphics "
-#~ "and Science. Software is easy to find, easy to install and easy to remove."
+#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
+#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
+#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
+#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
+#~ "hope you enjoy Ubuntu."
 #~ msgstr ""
-#~ "উবুন্টু সফটওয়্যার সেন্টার আপনাকে হাজার হাজার ফ্রি এবং ওপেনসোর্স এপ্লিকেশন "
-#~ "ব্যাবহার করার সুবিধা দিচ্ছে। বিভিন্ন বিভাগ যেমন শিক্ষা,গেমস,গ্রাফিকস এবং "
-#~ "বিজ্ঞান ব্রাউজ করে দেখুন। সফটওয়্যার গুলো খুব সহজেই খুজে পাওয়া, ইন্সটল করা ও "
-#~ "মুছে ফেলা যাবে।"
+#~ "উবুন্টু নির্বাচন করার জন্য আপনাকে আবারো ধন্যবাদ। উবুন্টু পরিকল্পনাকরা হয়েছে যা কিনা "
+#~ "সহজ এবং নিরাপদ হবে, তাই এক্সপ্লোর করতে ইতস্ততঃ করবেননা don&#8217;t! যদি "
+#~ "আপনার কোন প্রশ্ন থাকে, তাহলে বেশীরভাগ এপ্লিকেশনের সহায়তা মেনুতে চেষ্টা করুন "
+#~ "অথবা ব্রাউজ করুন <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a> এ আপনার অন্যান্য সব অপশন এক্সপ্লোর করতে। আমরা আশা করছি আপনি উবুন্টু "
+#~ "উপভোগ করেছেন।"
 
-#~ msgid "Featured software"
-#~ msgstr "ফীচারড সফটওয়্যার"
-
-#~ msgid "GIMP – Advanced image editing for photographers and graphic designers"
-#~ msgstr "GIMP - ফটোগ্রাফার ও গ্রাফিক ডিজাইনারদের জন্য ছবি সম্পাদনা"
-
-#~ msgid "Jokosher – Your very own home recording studio"
-#~ msgstr "জোকোশের (Jokosher) - আপনার একেবারে আপন ঘরোয়া রেকর্ডিং স্টুডিও"
-
-#~ msgid "Stellarium – A 3D planetarium for your computer"
-#~ msgstr ""
-#~ "স্টেলারিয়াম (Stellarium) - আপনার কম্পিউটারের জন্য একটি থ্রিডি প্লানেটারিয়াম"
+#~ msgid "Mobilise your digital life"
+#~ msgstr "আপনার যান্ত্রিক জীবনকে মোবালাইজ করুন"
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 10.10. This version brings some exciting "
-#~ "changes including a new sound menu, the Shotwell photo manager and features "
-#~ "that make it even easier to find and install new software. While Ubuntu is "
-#~ "installed, this slideshow will show you around."
+#~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
+#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
+#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
+#~ "pictures across all your computers. Take everything everywhere with "
+#~ "Ubuntu One."
 #~ msgstr ""
-#~ "উবুন্টু ১০.১০ পছন্দ করার জন্য আপনাকে ধন্যবাদ। এই ভার্শনটি নতুন সাউন্ড "
-#~ "মেনু,শটওয়েল ফটো ম্যানেজার,নতুন সফটওয়্যার সহজে খুজে পাওয়া ও ইন্সটল করার "
-#~ "সুবিধা সহ আরও কিছু পরিবর্তন এনেছে । যতক্ষন উবুন্টু ইন্সটল হবে, এই স্লাইডশো "
-#~ "টি চলতে থাকবে।"
+#~ "সব উবুন্টু ব্যবহারকারীরা বিনামূল্যে <a href=\"https://one.ubuntu.com/\">উবুন্টু "
+#~ "ওয়ান</a> একাউন্ট পাবে। উবুন্টু ওয়ান আপনাকে অনুমতি দেয় অনলাইনের সব ধরনের ফাইলকে "
+#~ "সিঙ্ক করতে যাতে করে আপনি সেই ফাইলে যকোন স্থান থেকে প্রবেশ করতে পারেন। আপনার "
+#~ "সম্পূর্ণ কম্পিউটারে বুকমার্ক, কনট্যাক্ট, মিউজিক, এবং ছবি সিঙ্ক করুন। উবুন্টু ওয়ানের "
+#~ "মাধ্যমে সবস্থানে সবকিছু নিয়ে যান।"
+
+#~ msgid ""
+#~ "Ubuntu comes with the amazing Banshee music player. With advanced "
+#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
+#~ "simple to queue up the perfect songs. And it works great with CDs and "
+#~ "portable music players, so you can enjoy all your music wherever you go."
+#~ msgstr ""
+#~ "উবুন্টু বিস্ময়কর বানশি মিউজিক প্লেয়ার সহ পাওয়া যায়। উচ্চ পর্যায়ের প্লেব্যাক অপশন "
+#~ "এবং উবুন্টু ওয়ান মিউজিক সংগ্রহস্থলসহ বিল্ট ইন, it&#8217;s এটি যথাযথ গান সহজেই "
+#~ "সারিবদ্ধ করে। এবং এটি সিডি এবং বহনযোগ্য মিউজিক প্লেয়ারের সাথে খুব ভালো করেই "
+#~ "কাজ করে, তাতে করে আপনি যেখানেই যাননা কেন আপনার গান উপভোগ করতে পারবেন।"
+
+#~ msgid "Write and present with ease"
+#~ msgstr "সহজেই লিখুন এবং উপস্থাপন করুন"
+
+#~ msgid ""
+#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
+#~ "need to create impressive documents, spreadsheets, and presentations. "
+#~ "LibreOffice tries its best to work with other office software, and it "
+#~ "uses the OpenDocument standards for far-reaching compatibility."
+#~ msgstr ""
+#~ "LibreOffice একটি মুক্ত অফিস স্যূট যাতে চিত্তাকর্ষক নথি, স্প্রেডশীট, এবং "
+#~ "প্রেজেন্টেশন তৈরি করতে যা যা প্রয়োজন তা প্যাককৃত আছে। LibreOffice অন্যান্য অফিস "
+#~ "সফ্টওয়্যারের সাথে কাজ করার চেষ্টা করে, এবং এটি উপযুক্ততার জন্য OpenDocument "
+#~ "মানকে ব্যবহার করে।"
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
+#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
+#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
+#~ "try lots of photo apps from the Ubuntu Software Centre."
+#~ msgstr ""
+#~ "আপনার গ্যাজেটের জন্য শটওয়েল একটি কাজের ফটো ব্যবস্থাপক। আপনার ফটো স্থানান্তর "
+#~ "করতে একটি ক্যামেরা অথবা ফোনের সাথে সংযুক্ত করুন, তাহলে it&#8217;s সহজেই শেয়ার "
+#~ "করা যাবে এবং তাদেরকে নিরাপদে রাখা যাবে। যদি আপনি you&#8217;re নিজেকে "
+#~ "সৃষ্টিশীল মনে করেন, তাহলে উবুন্টু সফ্টওয়্যার সেন্টার থেকে আপনি অনেক ছবি apps দিয়ে "
+#~ "চেষ্টা করে দেখতে পারেন।"
+
+#~ msgid ""
+#~ "The Me Menu is your instant connection to web services like Facebook and "
+#~ "Twitter. Just set up your accounts to log in and share with friends. "
+#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
+#~ "you want."
+#~ msgstr ""
+#~ "Me মেনু ওয়েব সার্ভিসে ফেইসবুক এবং টুইটারের মত আপনার তাৎক্ষণিক সংযোগ। লগইন করতে "
+#~ "আপনার একাউন্ট নির্ধারণ করুন এবং বন্ধুদের সাথে শেয়ার করুন। যে কোন কিছু আপনাকে "
+#~ "পাঠানো হলে তা বার্তার মেনুতে প্রদর্শিত হবে যাতে করে আপনি যখন চাবেন তখনই "
+#~ "প্রত্যোত্তর দিতে পারবেন।"
+
+#~ msgid ""
+#~ "The Ubuntu Software Centre has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is simple to download new stuff and "
+#~ "write reviews to share your experiences."
+#~ msgstr ""
+#~ "আপনার কম্পিউটারের জন্য উবুন্টু সফ্টওয়্যার সেন্টারের সহস্রাধিক নতুন এপ্লিকেশন প্রস্তুত। "
+#~ "শুধু আপনি যা চান তা টাইপ করুন অথবা এক্সপ্লোর করুন বিভাগ যেমন গেমস, বিজ্ঞান এবং "
+#~ "শিক্ষা। নতুন কিছু ডাউনলোড এবং আপনার অভিজ্ঞতা শেয়ার করতে রিভিউ লিখা এটি খুবই "
+#~ "সহজ।"
+
+#~ msgid "Some of our favourites"
+#~ msgstr "আমাদের প্রিয় কিছু"
+
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "Inkscape"
+#~ msgstr "Inkscape"
+
+#~ msgid "Frozen Bubble"
+#~ msgstr "Frozen Bubble"
+
+#~ msgid ""
+#~ "Thank you for choosing Ubuntu 11.04. This version brings some exciting "
+#~ "changes including a totally redesigned desktop interface, Unity. While "
+#~ "Ubuntu is configured, this slideshow will show you around."
+#~ msgstr ""
+#~ "উবুন্টু ১১.০৪ ব্যবহার করার জন্য আপনাকে ধন্যবাদ। এই সংস্করণটি সম্পুর্ণভাবে নতুন "
+#~ "আঙ্গিকে ডেস্কটপ ইন্টারফেস, ইউনিটি সহ কিছু আশাপ্রদ পরিবর্তন নিয়ে এসেছে। যখন কিনা "
+#~ "উবুন্টু কনফিগার করা হবে,  স্লাইডশো আপনাকে সব দেখাবে।"

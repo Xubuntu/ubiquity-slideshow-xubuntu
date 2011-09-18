@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2011-04-13 12:04+0000\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
+"PO-Revision-Date: 2011-09-15 11:35+0000\n"
 "Last-Translator: jmb_kz <Unknown>\n"
 "Language-Team: Kazakh <kk@li.org>\n"
+"Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:38+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
-"Language: kk\n"
+"X-Launchpad-Export-Date: 2011-09-18 19:13+0000\n"
+"X-Generator: Launchpad (build 13955)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -26,15 +26,15 @@ msgstr "Ubuntu-ны қалыпқа келтіру"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
 msgid ""
-"At the heart of Ubuntu&#8217;s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and many options like your "
-"preferred fonts, colour schemes, and languages, Ubuntu is all about working "
-"for real people."
+"At the heart of Ubuntu’s philosophy is a belief that computing is for "
+"everyone. With advanced accessibility tools and options like your preferred "
+"color scheme, text size, and language, Ubuntu is all about working for real "
+"people."
 msgstr ""
 "Ubuntu философия жүрегінде, әрбір адамның өмірлік жағдайларына, физикалық "
 "шектеулеріне қарамастан компьютерді қолдану мүмкіндігіне ие болу сенімі бар. "
-"Мүмкіншілігі шектелген адамдар үшін қосымша құралдар, және қаріптер, түстер "
-"схемалары мен тілдермен байланысты көптеген баптаулар көмегімен, Ubuntu "
+"Мүмкіншілігі шектелген адамдар үшін қосымша құралдар, және түстер схемалары, "
+"әріптер өлшемі мен тілдермен байланысты көптеген баптаулар көмегімен, Ubuntu "
 "қандай адам болмасын қолданыла алады."
 
 #. type: Content of: <div><div><div><h2>
@@ -44,8 +44,8 @@ msgstr "Жекешелендіру, қалыпқа келтіру мүмкінш
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:16
-msgid "Appearance preferences"
-msgstr "Сыртқы көрінісін өзгерту"
+msgid "Appearance"
+msgstr "Сырт көрініс"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:20
@@ -66,15 +66,14 @@ msgstr "Интернетті шолу"
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
 msgid ""
 "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from Ubuntu Software Center."
+"choose alternative browsers from the Ubuntu Software Center."
 msgstr ""
 "Интернетті жылдам, әрі қауіпсіз шолу үшін, Ubuntu құрамында Mozilla Firefox "
-"веб-шолғышы бар. Сонымен қатар сіз Ubuntu бағдарламалар орталығы ішінен "
-"басқа веб-шолғышты таңдай аласыз."
+"веб шолғышы бар. Сонымен қатар сіз Ubuntu бағдарламалар орталығы ішінен "
+"басқа веб шолғышты таңдай аласыз."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
-#: slideshows/oem-config-ubuntu/slides/email.html:12
 #: slideshows/oem-config-ubuntu/slides/music.html:12
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
@@ -88,8 +87,7 @@ msgstr "Firefox веб-шолғышы"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:19
-#: slideshows/oem-config-ubuntu/slides/email.html:23
-#: slideshows/oem-config-ubuntu/slides/photos.html:23
+#: slideshows/oem-config-ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "Қолдау көрсетілетін бағдарламалар"
 
@@ -104,78 +102,52 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu/slides/email.html:1
-msgid "Email and chat"
-msgstr "Электрондық пошта және хабарламалар алмасу (чат)"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:8
-msgid ""
-"The Messaging Menu has lots of features to make online communication "
-"effortless. Chat helps you log in to all your instant messaging accounts "
-"including MSN, Jabber, and Facebook. Your contacts appear in the same place, "
-"ready for text or video chat."
-msgstr ""
-"Хабарламалар мәзірінің көптеген мүмкіншіліктер көмегімен онлайн байланыста "
-"жеңіл бола аласыз. Чат сіздің барлық лезделі хабарламалар алмасу "
-"тіркемелеріне, құрамында MSN, Jabber, Facebook секілді қызметтеріне қосыла "
-"алады. Сіздің байланыстарыңыздың барлығы бір жерде орналасып, мәтіндік "
-"хабарламалармен алмасуға және бейне байланыс жасауға дайын."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:16
-msgid "Empathy IM"
-msgstr "Empathy лезделі хабарламалар алмасу бағдарламасы"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:20
-msgid "Evolution Mail"
-msgstr "Evolution пошталық клиент"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:27
-msgid "Skype"
-msgstr "Skype"
-
-#. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Thank you"
-msgstr "Рахмет"
+msgid "Any questions?"
+msgstr "Сұрақтарыңыз пайда болды ма?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
 msgid ""
-"Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, so "
-"don&#8217;t hesitate to explore! If you have any questions, try the Help "
-"menu in most applications or browse to <a "
+"Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
+"to get an answer about Ubuntu. With most questions already answered, and "
+"thousands of people ready to help, you’ll be sorted in no time at all. And "
+"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
+"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
 "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options. We hope you enjoy Ubuntu."
+"your other options."
 msgstr ""
-"Ubuntu таңдағыныңыз үшін рахмет. Ubuntu қарапайым және қауіпсіз етіп "
-"жасалынды, сондықтан оны үйренуден ұялмаңыз! Егер сұрақтарыңыз пайда болса, "
-"бағдарламалардың көбіндегі Анықтама мәзіріне кіру арқылы немесе <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> веб-сайтына "
-"өту арқылы көмек ала-аласыз."
+"<a href=\"http://askubuntu.com/\">Ask Ubuntu</a> тексеріп тұрыңыз, бұл "
+"Ubuntu жайлы сұрақтарыңызға жауап алуға ең қолайлы орын. Көптеген сұрақтарға "
+"жауаптар дайын бар болып тұр, және мыңдаған адамдар қысқа мерзім ішінде "
+"сізге жауап беруге дайын. Егер сізге тығыз уақыт аралығында жауап қажет "
+"болса, Canonical бизнес пайдаланушыларға <a href=\"http://www.ubuntu.com/"
+"support\">коммерциялық қолдау</a> көрсете алады."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:1
-msgid "Mobilise your digital life"
-msgstr "Мобильді болыңыз"
+msgid "Your own personal cloud"
+msgstr "Сіздің жеке бұлтыңыз"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:8
 msgid ""
-"All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-"One</a> account. Ubuntu One allows you to sync all kinds of files online so "
-"you can access them anywhere. Sync bookmarks, contacts, music, and pictures "
-"across all your computers. Take everything everywhere with Ubuntu One."
+"An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> account "
+"gives you 5GB of cloud storage, so you can store and sync your files and "
+"photos across devices and access them wherever you are in the world. Easily "
+"share them with friends, family and colleagues. Take a photo on your mobile "
+"phone and immediately see it on your desktop, or add <a href=\"https://one."
+"ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
+"music on the move."
 msgstr ""
-"Ubuntu-ның барлық пайдаланушылары <a href=\"https://one.ubuntu.com/\">Ubuntu "
-"One</a> қызметінде тегін тіркемесін алады. Ол жерде сіз өз файлдарыңызды "
-"сақтай отырып, олар сізге кез-келген жерден жетімді болады. Өздеріңіздің "
-"барлық компьютеріңіздегі бетбелгілерді, байланыстарды, өлеңдерді, "
-"фотосуреттерді синхрондаңыз. Ubuntu One қызметімен бірге барлығын өзімен "
-"алыңыз."
+"<a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> тіркемесі "
+"сізге өз файлдарыңыз бен фотосуреттеріңізді сақтауға және өзіңіздің "
+"құрылғыларыңыздан дүниежүзінің кез-келген жерінен синхронизациялау үшін "
+"бұлтта 5 Гб бос орын береді. Оларды достарыңызбен, жанұяңызбен не "
+"әріптестеріңізбен бөлісуге мүмкіндік береді. Өзіңіздің ұялы телефоныңыздан "
+"сурет жасап, оны бір мезетте компьютеріңізде қараңыз немесе <a href="
+"\"https://one.ubuntu.com/services/music/\">Music Streaming</a> қызметін "
+"қосып, жолда өлеңдерді тыңдаңыз."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:1
@@ -186,9 +158,9 @@ msgstr "Өлеңдеріңізді өзіңізбен алыңыз"
 #: slideshows/oem-config-ubuntu/slides/music.html:8
 msgid ""
 "Ubuntu comes with the amazing Banshee music player. With advanced playback "
-"options and the Ubuntu One music store built in, it&#8217;s simple to queue "
-"up the perfect songs. And it works great with CDs and portable music "
-"players, so you can enjoy all your music wherever you go."
+"options and the Ubuntu One music store built in, it’s simple to queue up the "
+"perfect songs. And it works great with CDs and portable music players, so "
+"you can enjoy all your music wherever you go."
 msgstr ""
 "Ubuntu тамаша Banshee аудио плеерімен бірге келеді. Қосымша ойнату "
 "баптаулары мен Ubuntu One өлеңдер сақтау орны, өлеңдер топтамасын оңай "
@@ -208,14 +180,14 @@ msgstr "Ubuntu One өлеңдер сақтау орны"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
-msgid "Write and present with ease"
-msgstr "Құжаттар мен көрсетілімдерді жеңілдікпен құрыңыз"
+msgid "Write and present for free"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
 msgid ""
-"LibreOffice is a free office suite packed with everything you&#8217;ll need "
-"to create impressive documents, spreadsheets, and presentations. LibreOffice "
+"LibreOffice is a free office suite packed with everything you’ll need to "
+"create impressive documents, spreadsheets, and presentations. LibreOffice "
 "tries its best to work with other office software, and it uses the "
 "OpenDocument standards for far-reaching compatibility."
 msgstr ""
@@ -243,9 +215,9 @@ msgstr "Фотосуреттеріңізбен көңіліңізді көтер
 #: slideshows/oem-config-ubuntu/slides/photos.html:8
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it&#8217;s easy to share "
-"them and keep them safe. If you&#8217;re feeling creative, you can try lots "
-"of photo apps from the Ubuntu Software Centre."
+"camera or a phone to transfer your photos, then it’s easy to share them and "
+"keep them safe. If you’re feeling creative, you can try lots of photo apps "
+"from the Ubuntu Software Center."
 msgstr ""
 "Shotwell - сіздің барлық құрылғыларыңызбен жұмыс істеуге дайын, ыңғайлы "
 "фотосуреттер менеджері. Фотосуреттермен жұмысты бастау үшін, жай ғана "
@@ -260,33 +232,30 @@ msgid "Shotwell Photo Manager"
 msgstr "Shotwell фотосуреттер менеджері"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/photos.html:20
-msgid "Pitivi Video Editor"
-msgstr "Pitivi видеоредакторы"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/photos.html:27
+#: slideshows/oem-config-ubuntu/slides/photos.html:23
 msgid "GIMP Image Editor"
 msgstr "GIMP суреттер редакторы"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/photos.html:27
+msgid "Pitivi Video Editor"
+msgstr "Pitivi видеоредакторы"
+
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/social.html:1
-msgid "Social from the start"
-msgstr "Жұмысты бастаған бойдан әлеуметтік желілер жұмыс істеуде"
+msgid "Stay connected"
+msgstr "Қосылыста болыңыз"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:8
 msgid ""
-"The Me Menu is your instant connection to web services like Facebook and "
-"Twitter. Just set up your accounts to log in and share with friends. "
-"Anything sent to you appears in the Messaging Menu so you can reply when you "
-"want."
+"The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+"messages from all applications and social networks. See at a glance when "
+"there’s something new to read, regardless how it arrived."
 msgstr ""
-"\"Өзім туралы\" мәзір көмегімен, Facebook пен Twitter секілді әлеуметтік "
-"қызметтерге әрқашан оңай қосыла аласыз. Жәй ғана өзіңіздің тіркемелеріңізді "
-"көрсетіп, өзіңіздің достарыңызбен хабарласуыңызды бастаңыз. Сізге жіберілген "
-"хабарламалардың барлығы біріңғай \"Хабарламалар мәзірінде\" пайда болып, "
-"сіздің жауабыңызды күтіп тұрады."
+"Ubuntu хабарламалар индикаторы сіздің барлық бағдарламар, әрі әлеуметтік "
+"желілерден келген хабарламаларды қарап шығуға мүмкіндік береді. Жаңа "
+"хабарламалар қалай және қайдан келген болса да әрдайым хабардар болыңыз."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -316,35 +285,15 @@ msgstr "Көптеген бағдарламаларды қолданыңыз"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
 msgid ""
-"The Ubuntu Software Centre has thousands of new applications ready for your "
+"The Ubuntu Software Center has thousands of new applications ready for your "
 "computer. Just type what you want or explore the categories like games, "
-"science, and education. It is simple to download new stuff and write reviews "
+"science, and education. It is easy to download new stuff and write reviews "
 "to share your experiences."
 msgstr ""
 "Ubuntu бағдарламалар орталығы сіздің компьютеріңізге орнатыла алынатын "
 "мыңдаған бағдарламаларды ұсынады. Қажеттісін іздеу арқылы немесе топтарды "
 "жекешелей қарау арқылы табыңыз. Оларды орнату, әрі тәжірибеңізбен бөлісу "
-"үшін мінездемелеріңізді қалдыру оңай."
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/usc.html:12
-msgid "Some of our favourites"
-msgstr "Кейбір қолдануға ұсынылаты бағдарламаларымыз"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:16
-msgid "Stellarium"
-msgstr "Stellarium"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:20
-msgid "Inkscape"
-msgstr "Inkscape"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:24
-msgid "Frozen Bubble"
-msgstr "Үсітілген көпіршіктер"
+"үшін бағдарламаларға пікірлеріңізді қалдыру оңай."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -354,185 +303,180 @@ msgstr "Қош келдіңіз"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 11.04. This version brings some exciting "
+"Thank you for choosing Ubuntu 11.10. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
-"Ubuntu 11.04 таңдағыныңыз үшін рахмет. Бұл нұсқада бірнеше қызық өзгертулер "
+"Ubuntu 11.10 таңдағыныңыз үшін рахмет. Бұл нұсқада бірнеше қызық өзгертулер "
 "жасалынды, оның ішінде толық қайта өңделген Unity жұмыс интерфейсі. Ubuntu "
 "орнатылым жүру барысында, сіздің көз алдыңызда кішілеу көрсетілім (слайд-"
 "шоу) көрсетілетін болады."
 
-#~ msgid "Customize Ubuntu"
-#~ msgstr "Ubuntu қалыпқа келтіріңіз"
+#~ msgid ""
+#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+#~ "choose alternative browsers from Ubuntu Software Center."
+#~ msgstr ""
+#~ "Интернетті жылдам, әрі қауіпсіз шолу үшін, Ubuntu құрамында Mozilla "
+#~ "Firefox веб-шолғышы бар. Сонымен қатар сіз Ubuntu бағдарламалар орталығы "
+#~ "ішінен басқа веб-шолғышты таңдай аласыз."
+
+#~ msgid "Email and chat"
+#~ msgstr "Электрондық пошта және хабарламалар алмасу (чат)"
+
+#~ msgid "Empathy IM"
+#~ msgstr "Empathy лезделі хабарламалар алмасу бағдарламасы"
+
+#~ msgid "Evolution Mail"
+#~ msgstr "Evolution пошталық клиент"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "Social from the start"
+#~ msgstr "Жұмысты бастаған бойдан әлеуметтік желілер жұмыс істеуде"
 
 #~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is the belief that computing is "
-#~ "for everyone. With advanced accessibility tools and hundreds of options like "
-#~ "your preferred fonts, color schemes and languages, Ubuntu provides the "
-#~ "flexibility to fit real people, whoever they are."
+#~ "Thank you for choosing Ubuntu 11.04. This version brings some exciting "
+#~ "changes including a totally redesigned desktop interface, Unity. While "
+#~ "Ubuntu is configured, this slideshow will show you around."
+#~ msgstr ""
+#~ "Ubuntu 11.04 таңдағыныңыз үшін рахмет. Бұл нұсқада бірнеше қызық "
+#~ "өзгертулер жасалынды, оның ішінде толық қайта өңделген Unity жұмыс "
+#~ "интерфейсі. Ubuntu орнатылым жүру барысында, сіздің көз алдыңызда кішілеу "
+#~ "көрсетілім (слайд-шоу) көрсетілетін болады."
+
+#~ msgid ""
+#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
+#~ "for everyone. With advanced accessibility tools and many options like "
+#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
+#~ "working for real people."
 #~ msgstr ""
 #~ "Ubuntu философия жүрегінде, әрбір адамның өмірлік жағдайларына, физикалық "
-#~ "шектеулеріне қарамастан компьютерді қолдану мүмкіндігіне ие болу сенімі бар. "
-#~ "Мүмкіншілігі шектелген адамдар үшін қосымша құралдар, және қаріптер, түстер "
-#~ "схемалары мен тілдермен байланысты жүздеген баптаулар көмегімен, Ubuntu "
-#~ "қандай адам болмасын қолданыла алады."
+#~ "шектеулеріне қарамастан компьютерді қолдану мүмкіндігіне ие болу сенімі "
+#~ "бар. Мүмкіншілігі шектелген адамдар үшін қосымша құралдар, және қаріптер, "
+#~ "түстер схемалары мен тілдермен байланысты көптеген баптаулар көмегімен, "
+#~ "Ubuntu қандай адам болмасын қолданыла алады."
 
-#~ msgid "Customization options"
-#~ msgstr "Жекешелендіру, қалыпқа келтіру мүмкіншіліктері"
-
-#~ msgid "Google Chrome"
-#~ msgstr "Google Chrome"
-
-#~ msgid ""
-#~ "Use Empathy to get chatting with your accounts from Yahoo, Facebook, Gmail, "
-#~ "MSN, Jabber and many more. Set your status and reach all your instant "
-#~ "messaging contacts from a single place."
-#~ msgstr ""
-#~ "Empathy хабарламалар алмасу бағдарлама көмегімен Yahoo, Facebook, Gmail, "
-#~ "MSN, Jabber және одан да басқа қызметтер арқылы хабарласыңыз. Күйді "
-#~ "ауыстырыңыз және лезделі хабарламалардың бәрін бір жерде алыңыз."
-
-#~ msgid "Gwibber Microblogging"
-#~ msgstr "Gwibber микроблог клиенті"
-
-#~ msgid "Get help with Ubuntu"
-#~ msgstr "Ubuntu-мен жұмыс істеу бойынша көмек алу"
-
-#~ msgid ""
-#~ "Ubuntu is designed to be easy and safe, so don&#8217;t hesitate to explore! "
-#~ "If you have any questions, try the Help menu in most applications or <a "
-#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-#~ "your other options. We hope you enjoy Ubuntu."
-#~ msgstr ""
-#~ "Ubuntu қарапайым және қауіпсіз етіп жасалынды, сондықтан оны үйренуді "
-#~ "ұялмаңыз! Егер сұрақтарыңыз пайда болса, бағдарламалардың көбіндегі Анықтама "
-#~ "мәзіріне кіріп, немесе <a "
-#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> веб-сайтын "
-#~ "байқап көріңіз. Ubuntu сізге ұнайды, деп үміттенеміз."
-
-#~ msgid "Mobilize your digital life"
+#~ msgid "Mobilise your digital life"
 #~ msgstr "Мобильді болыңыз"
+
+#~ msgid "Thank you"
+#~ msgstr "Рахмет"
+
+#~ msgid ""
+#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
+#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
+#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
+#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
+#~ "hope you enjoy Ubuntu."
+#~ msgstr ""
+#~ "Ubuntu таңдағыныңыз үшін рахмет. Ubuntu қарапайым және қауіпсіз етіп "
+#~ "жасалынды, сондықтан оны үйренуден ұялмаңыз! Егер сұрақтарыңыз пайда "
+#~ "болса, бағдарламалардың көбіндегі Анықтама мәзіріне кіру арқылы немесе <a "
+#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> веб-сайтына "
+#~ "өту арқылы көмек ала-аласыз."
 
 #~ msgid ""
 #~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online so "
-#~ "you can access them anywhere. Sync bookmarks, contacts, music and pictures "
-#~ "across all your computers. Take everything everywhere with Ubuntu One."
+#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
+#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
+#~ "pictures across all your computers. Take everything everywhere with "
+#~ "Ubuntu One."
 #~ msgstr ""
-#~ "Ubuntu-ның барлық пайдаланушылары <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> қызметіндегі, тегін тіркемесін алады. Ол жерде сіз өз файлдарыңызды "
-#~ "сақтап, олар сізге кез-келген жерден жетімді болады. Өздеріңіздің барлық "
-#~ "компьютеріңіздегі бетбелгілерді, басланыстарды, музыканы, фотосуреттерді "
-#~ "синхрондаңыз. Ubuntu One қызметімен бірге, барлығын өзімен алыңыз."
-
-#~ msgid "Buy music while you listen"
-#~ msgstr "Өлеңдерді тыңдау кезінде де сатып алыңыз"
+#~ "Ubuntu-ның барлық пайдаланушылары <a href=\"https://one.ubuntu.com/"
+#~ "\">Ubuntu One</a> қызметінде тегін тіркемесін алады. Ол жерде сіз өз "
+#~ "файлдарыңызды сақтай отырып, олар сізге кез-келген жерден жетімді болады. "
+#~ "Өздеріңіздің барлық компьютеріңіздегі бетбелгілерді, байланыстарды, "
+#~ "өлеңдерді, фотосуреттерді синхрондаңыз. Ubuntu One қызметімен бірге "
+#~ "барлығын өзімен алыңыз."
 
 #~ msgid ""
-#~ "Ubuntu&#8217;s music player includes a built-in store, so you can buy and "
-#~ "download new tracks with a few clicks. Thanks to Ubuntu One&#8217;s file-"
-#~ "syncing magic you can store your music online and listen to it from other "
-#~ "computers. You can add your music to a portable music player, too; just plug "
-#~ "it in to get started."
+#~ "Ubuntu comes with the amazing Banshee music player. With advanced "
+#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
+#~ "simple to queue up the perfect songs. And it works great with CDs and "
+#~ "portable music players, so you can enjoy all your music wherever you go."
 #~ msgstr ""
-#~ "Ubuntu өлеңдер плеері өлеңдерді жүктеуге және тышқан бір шертуімен ғана "
-#~ "сатып алуға мүмкіндік беретін музыкалық дүкенмен бірге келеді. Ubuntu One "
-#~ "синхрондизация мүмкіншілігін қолдана отырып, сіз өзіңіздің өлеңдеріңізді "
-#~ "серверде сақтап, қажет кезде кез-келген басқа компьютерде тыңдауыңызға "
-#~ "болады. Оған қоса сіз өз өлеңдеріңізді портативті плееріңізге жазуыңызға "
-#~ "болады; ол үшін жай ғана оны компьютерге жалғаңыз."
+#~ "Ubuntu тамаша Banshee аудио плеерімен бірге келеді. Қосымша ойнату "
+#~ "баптаулары мен Ubuntu One өлеңдер сақтау орны, өлеңдер топтамасын оңай "
+#~ "ұйымдастыру сияқты мүмкіншіліктері бар. CD мен портативті плеерлерімен "
+#~ "керемет жұмыс істеп, сіздің қайда бармасаңыз да өлеңдерді тыңдап "
+#~ "рахаттануыңызға болады."
 
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Rhythmbox музыкалық плеер"
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
 
-#~ msgid "Create documents and presentations"
-#~ msgstr "Құжаттарды және көрсетілімдерді құрыңыз"
+#~ msgid "Frozen Bubble"
+#~ msgstr "Үсітілген көпіршіктер"
+
+#~ msgid "Inkscape"
+#~ msgstr "Inkscape"
 
 #~ msgid ""
-#~ "OpenOffice.org is fully compatible with Microsoft Office and has everything "
-#~ "you need to create professional documents, spreadsheets and presentations. "
-#~ "OpenOffice.org is easy to use, packed with the features you need and "
-#~ "completely free."
+#~ "The Messaging Menu has lots of features to make online communication "
+#~ "effortless. Chat helps you log in to all your instant messaging accounts "
+#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
+#~ "place, ready for text or video chat."
 #~ msgstr ""
-#~ "OpenOffice.org офистік пакеті Microsoft Office офистік пакетімен толық "
-#~ "үйлесімді болып, күрделі құжаттарды, электронды кестелерді және "
-#~ "көрсетілімдерді құруға мүмкіндік береді. OpenOffice.org қолдануға оңай, "
-#~ "пайдалы функцияларға бай және толық бос бағдарлама."
-
-#~ msgid "OpenOffice.org"
-#~ msgstr "OpenOffice.org"
-
-#~ msgid "View, store and edit photos"
-#~ msgstr "Фотосуреттеріңізді көріңіз, сақтаңыз және өзгертіңіз"
+#~ "Хабарламалар мәзірінің көптеген мүмкіншіліктер көмегімен онлайн "
+#~ "байланыста жеңіл бола аласыз. Чат сіздің барлық лезделі хабарламалар "
+#~ "алмасу тіркемелеріне, құрамында MSN, Jabber, Facebook секілді "
+#~ "қызметтеріне қосыла алады. Сіздің байланыстарыңыздың барлығы бір жерде "
+#~ "орналасып, мәтіндік хабарламалармен алмасуға және бейне байланыс жасауға "
+#~ "дайын."
 
 #~ msgid ""
-#~ "Ubuntu is ready for all your gadgets. Just connect your phones or cameras to "
-#~ "get started. Shotwell makes it easy to organize your digital photos and "
-#~ "share them on Picasa, Facebook or Flickr. For advanced photo editing, you "
-#~ "can find more free applications in Ubuntu Software Center."
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
+#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
+#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
+#~ "try lots of photo apps from the Ubuntu Software Centre."
 #~ msgstr ""
-#~ "Ubuntu сіздің барлық құрылғыларыңызбен жұмыс істеуге дайын. Жұмысты бастау "
-#~ "үшін, жай ғана телефоныңызды не камераңызды компьютерге қосыңыз. Shotwell "
-#~ "көмегімен сіз өз фотоларыңызды ұйымдастырып, оларды Picasa, Facebook немесе "
-#~ "Flickr сияқты желілерге өте жеңіл жариялай аласыз."
+#~ "Shotwell - сіздің барлық құрылғыларыңызбен жұмыс істеуге дайын, ыңғайлы "
+#~ "фотосуреттер менеджері. Фотосуреттермен жұмысты бастау үшін, жай ғана "
+#~ "телефоныңызды не камераңызды компьютерге қосыңыз, кейін ішіндегі "
+#~ "суреттерді сақтаңыз және олармен бөлісіңіз. Егер өзіңізде шығармашылық "
+#~ "белсенділікті байқасаңыз, онда Ubuntu бағдарламалар орталығынан "
+#~ "суреттермен жұмыс істейтін басқа да көптеген бағдарламаларды таба аласыз."
 
 #~ msgid ""
-#~ "With the Me Menu, being sociable has never been so easy. Use it to instantly "
-#~ "post updates on sites like Facebook and Twitter. New messages appear in the "
-#~ "messaging menu so you can respond when you want."
+#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
+#~ "need to create impressive documents, spreadsheets, and presentations. "
+#~ "LibreOffice tries its best to work with other office software, and it "
+#~ "uses the OpenDocument standards for far-reaching compatibility."
 #~ msgstr ""
-#~ "\"Өзім туралы\" мәзір көмегімен, әлеуметтік желімен бірге қалу "
-#~ "ешқашандағыдай оңай болды. Оны Facebook, Twitter және басқа да сайттарға "
-#~ "хабарламаларды жіберу үшін қолданыңыз. Мәзір жаңа хабарламалар туралы "
-#~ "мәлімдеп, сіздің оларға кез-келген мезетте жауап қайтаруыңызға мүмкіндік "
-#~ "береді."
-
-#~ msgid "Get free software"
-#~ msgstr "Бос бағдарламаларды алу"
+#~ "LibreOffice офистік пакеті – күрделі құжаттарды, электрондық кестелерді "
+#~ "және көрсетілімдерді құруға мүмкіндік беретін тегін және бос офистік "
+#~ "пакет. LibreOffice үйлесімділікті жоғарылату үшін OpenDocument "
+#~ "стандарттарын қолдана отырып, офистік бағдарламалармен жұмыс істеуіне аса "
+#~ "мән береді."
 
 #~ msgid ""
-#~ "Ubuntu Software Center gives you instant access to thousands of free, open-"
-#~ "source applications. Browse categories including Education, Games, Graphics "
-#~ "and Science. Software is easy to find, easy to install and easy to remove."
+#~ "The Me Menu is your instant connection to web services like Facebook and "
+#~ "Twitter. Just set up your accounts to log in and share with friends. "
+#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
+#~ "you want."
 #~ msgstr ""
-#~ "Ubuntu бағдарламалар орталығы Білім алу, Ойындар, Графика, Ғылыми және тағы "
-#~ "басқа мыңдаған бос бағдарламаларды қамтиды. Ол бағдарламаларды табу, орнату "
-#~ "және жою оңай."
+#~ "\"Өзім туралы\" мәзір көмегімен, Facebook пен Twitter секілді әлеуметтік "
+#~ "қызметтерге әрқашан оңай қосыла аласыз. Жәй ғана өзіңіздің "
+#~ "тіркемелеріңізді көрсетіп, өзіңіздің достарыңызбен хабарласуыңызды "
+#~ "бастаңыз. Сізге жіберілген хабарламалардың барлығы біріңғай "
+#~ "\"Хабарламалар мәзірінде\" пайда болып, сіздің жауабыңызды күтіп тұрады."
 
-#~ msgid "Featured software"
-#~ msgstr "Таңдамалы бағдарламалар"
-
-#~ msgid "GIMP – Advanced image editing for photographers and graphic designers"
-#~ msgstr ""
-#~ "GIMP - фотографтар мен әрлендірушілер (дизайнерлер) үшін суреттерді өңдеу "
-#~ "профессионалды құралы"
-
-#~ msgid "Jokosher – Your very own home recording studio"
-#~ msgstr "Jokosher - өзіңіздің жеке дыбыс жазу студияңыз"
-
-#~ msgid "Stellarium – A 3D planetarium for your computer"
-#~ msgstr "Stellarium - үш өлшемді (3D) планетарий"
+#~ msgid "Write and present with ease"
+#~ msgstr "Құжаттар мен көрсетілімдерді жеңілдікпен құрыңыз"
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 10.10. This version brings some exciting "
-#~ "changes including a new sound menu, the Shotwell photo manager and features "
-#~ "that make it even easier to find and install new software. While Ubuntu is "
-#~ "installed, this slideshow will show you around."
+#~ "The Ubuntu Software Centre has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is simple to download new stuff and "
+#~ "write reviews to share your experiences."
 #~ msgstr ""
-#~ "Ubuntu 10.10 таңдағыныңыз үшін рахмет. Бұл нұсқада жаңа дыбыс схемасы, "
-#~ "Shotwell фотосуреттер менеджері және жаңа, бағдарламаларды іздеу, оларды "
-#~ "орнату бұрынғыдан да оңай құралы - Ubuntu бағдарлама орталығы сияқты бірнеше "
-#~ "қызық өзгертулер пайда болды. Ubuntu орнатылым жүру барысында, сіздің көз "
-#~ "алдыңызда кішілеу көрсетілім (слайд-шоу) көрсетілетін болады."
+#~ "Ubuntu бағдарламалар орталығы сіздің компьютеріңізге орнатыла алынатын "
+#~ "мыңдаған бағдарламаларды ұсынады. Қажеттісін іздеу арқылы немесе топтарды "
+#~ "жекешелей қарау арқылы табыңыз. Оларды орнату, әрі тәжірибеңізбен бөлісу "
+#~ "үшін мінездемелеріңізді қалдыру оңай."
 
-#~ msgid ""
-#~ "LibreOffice is fully compatible with Microsoft Office and has everything you "
-#~ "need to create professional documents, spreadsheets and presentations. "
-#~ "LibreOffice is easy to use, packed with the features you need and completely "
-#~ "free."
-#~ msgstr ""
-#~ "LibreOffice офистік пакеті – Microsoft Office офистік пакетімен толық "
-#~ "үйлесімді болып, күрделі құжаттарды, электрондық кестелерді және "
-#~ "көрсетілімдерді құруға мүмкіндік береді. LibreOffice қолдануға оңай, пайдалы "
-#~ "функцияларға бай және толығымен бос."
+#~ msgid "Appearance preferences"
+#~ msgstr "Сыртқы көрінісін өзгерту"
+
+#~ msgid "Some of our favourites"
+#~ msgstr "Кейбір қолдануға ұсынылаты бағдарламаларымыз"

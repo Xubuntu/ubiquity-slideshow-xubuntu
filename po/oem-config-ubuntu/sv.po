@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2011-04-03 11:53+0000\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
+"PO-Revision-Date: 2011-09-14 18:56+0000\n"
 "Last-Translator: Daniel Nylander <yeager@ubuntu.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:39+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
-"Language: sv\n"
+"X-Launchpad-Export-Date: 2011-09-18 19:13+0000\n"
+"X-Generator: Launchpad (build 13955)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -26,14 +26,11 @@ msgstr "Anpassa Ubuntu"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
 msgid ""
-"At the heart of Ubuntu&#8217;s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and many options like your "
-"preferred fonts, colour schemes, and languages, Ubuntu is all about working "
-"for real people."
+"At the heart of Ubuntu’s philosophy is a belief that computing is for "
+"everyone. With advanced accessibility tools and options like your preferred "
+"color scheme, text size, and language, Ubuntu is all about working for real "
+"people."
 msgstr ""
-"Ubuntus filosofi är att datorer är till för alla. Med avancerade "
-"hjälpmedelsfunktioner och många alternativ såsom dina föredragna typsnitt, "
-"färgscheman och språk, fungerar Ubuntu för alla människor."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:12
@@ -42,8 +39,8 @@ msgstr "Anpassningsinställningar"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:16
-msgid "Appearance preferences"
-msgstr "Inställningar för utseende"
+msgid "Appearance"
+msgstr "Utseende"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:20
@@ -64,14 +61,13 @@ msgstr "Surfa på nätet"
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
 msgid ""
 "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from Ubuntu Software Center."
+"choose alternative browsers from the Ubuntu Software Center."
 msgstr ""
-"Ubuntu inkluderar Mozilla Firefox för snabb och säker surfning på nätet. Du "
-"kan även välja mellan alternativa webbläsare från Ubuntus programcentral."
+"Ubuntu inkluderar Mozilla Firefox för snabb och säker webbsurfning. Du kan "
+"även välja alternativa webbläsare från Programcentral för Ubuntu."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
-#: slideshows/oem-config-ubuntu/slides/email.html:12
 #: slideshows/oem-config-ubuntu/slides/music.html:12
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
@@ -85,8 +81,7 @@ msgstr "Webbläsaren Firefox"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:19
-#: slideshows/oem-config-ubuntu/slides/email.html:23
-#: slideshows/oem-config-ubuntu/slides/photos.html:23
+#: slideshows/oem-config-ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "Programvara som stöds"
 
@@ -101,76 +96,45 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu/slides/email.html:1
-msgid "Email and chat"
-msgstr "E-post och chatt"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:8
-msgid ""
-"The Messaging Menu has lots of features to make online communication "
-"effortless. Chat helps you log in to all your instant messaging accounts "
-"including MSN, Jabber, and Facebook. Your contacts appear in the same place, "
-"ready for text or video chat."
-msgstr ""
-"Meddelandemenyn har många funktioner för att göra nätkommunikation enkel. "
-"Chatt hjälper dig att logga in på alla dina konton för snabbmeddelanden, "
-"inklusive MSN, Jabber och Facebook. Dina kontakter visas på samma plats, "
-"redo för chatt via meddelanden eller video."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:16
-msgid "Empathy IM"
-msgstr "Empathy IM"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:20
-msgid "Evolution Mail"
-msgstr "E-postklienten Evolution"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:27
-msgid "Skype"
-msgstr "Skype"
-
-#. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Thank you"
-msgstr "Tack"
+msgid "Any questions?"
+msgstr "Några frågor?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
 msgid ""
-"Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, so "
-"don&#8217;t hesitate to explore! If you have any questions, try the Help "
-"menu in most applications or browse to <a "
+"Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
+"to get an answer about Ubuntu. With most questions already answered, and "
+"thousands of people ready to help, you’ll be sorted in no time at all. And "
+"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
+"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
 "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options. We hope you enjoy Ubuntu."
+"your other options."
 msgstr ""
-"Tack än en gång för att du valde Ubuntu. Ubuntu är byggt för att vara enkelt "
-"och säkert, så tveka inte att utforska! Om du har några frågor, prova Hjälp-"
-"menyn i de flesta program eller surfa till <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> för att hitta "
-"andra alternativ. Vi hoppas att du blir nöjd med Ubuntu."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:1
-msgid "Mobilise your digital life"
-msgstr "Mobilisera ditt digitala liv"
+msgid "Your own personal cloud"
+msgstr "Ditt egna personliga moln"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:8
 msgid ""
-"All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-"One</a> account. Ubuntu One allows you to sync all kinds of files online so "
-"you can access them anywhere. Sync bookmarks, contacts, music, and pictures "
-"across all your computers. Take everything everywhere with Ubuntu One."
+"An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> account "
+"gives you 5GB of cloud storage, so you can store and sync your files and "
+"photos across devices and access them wherever you are in the world. Easily "
+"share them with friends, family and colleagues. Take a photo on your mobile "
+"phone and immediately see it on your desktop, or add <a href=\"https://one."
+"ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
+"music on the move."
 msgstr ""
-"Alla Ubuntu-användare får ett kostnadsfritt <a "
-"href=\"https://one.ubuntu.com/\">Ubuntu One</a>-konto. Ubuntu One låter dig "
-"synkronisera alla typer av filer till nätet så att du kan komma åt dem var "
-"du än befinner dig. Synkronisera bokmärken, kontakter, musik och bilder "
-"mellan alla dina datorer. Ta med dig allting överallt med Ubuntu One."
+"Ett <a href=\"https://one.ubuntu.com/servcies/\">Ubuntu One Free</a>-konto "
+"ger dig 5 GB molnlagring, så du kan lagra och synkronisera dina filer samt "
+"bilder mellan enheter och komma åt dem var du än befinner dig. Dela dem "
+"enkelt med vänner, släkt och kollegor. Ta en bild med din mobiltelefon och "
+"se den direkt på din skrivbordsdator, eller lägg till <a href=\"https://one."
+"ubuntu.com/services/music/\">Music Streaming</a> för mobiltelefoner för att "
+"avnjuta din musik medan du är på resande fot."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:1
@@ -181,14 +145,10 @@ msgstr "Ta din musik med dig"
 #: slideshows/oem-config-ubuntu/slides/music.html:8
 msgid ""
 "Ubuntu comes with the amazing Banshee music player. With advanced playback "
-"options and the Ubuntu One music store built in, it&#8217;s simple to queue "
-"up the perfect songs. And it works great with CDs and portable music "
-"players, so you can enjoy all your music wherever you go."
+"options and the Ubuntu One music store built in, it’s simple to queue up the "
+"perfect songs. And it works great with CDs and portable music players, so "
+"you can enjoy all your music wherever you go."
 msgstr ""
-"Ubuntu levereras med den fantastiska musikspelaren Banshee. Med avancerade "
-"uppspelningsfunktioner och Ubuntu Ones inbyggda musikaffär så är det enkelt "
-"att bygga en perfekt spellista. Det fungerar perfekt för cd-skivor och "
-"bärbara musikspelare så att du kan njuta av din musik var du än befinner dig."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:16
@@ -202,21 +162,17 @@ msgstr "Ubuntu One Music Store"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
-msgid "Write and present with ease"
-msgstr "Skriv och presentera enkelt"
+msgid "Write and present for free"
+msgstr "Skapa och presentera helt gratis"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
 msgid ""
-"LibreOffice is a free office suite packed with everything you&#8217;ll need "
-"to create impressive documents, spreadsheets, and presentations. LibreOffice "
+"LibreOffice is a free office suite packed with everything you’ll need to "
+"create impressive documents, spreadsheets, and presentations. LibreOffice "
 "tries its best to work with other office software, and it uses the "
 "OpenDocument standards for far-reaching compatibility."
 msgstr ""
-"LibreOffice är en kostnadsfri kontorssvit som är fullpackad med allting som "
-"du behöver för att skapa imponerade dokument, kalkylblad och presentationer. "
-"LibreOffice försöker så gott det går att fungera med andra kontorsprogram "
-"och det använder OpenDocument-standarder för bred kompatibilitet."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
@@ -237,14 +193,10 @@ msgstr "Njut av dina foton"
 #: slideshows/oem-config-ubuntu/slides/photos.html:8
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it&#8217;s easy to share "
-"them and keep them safe. If you&#8217;re feeling creative, you can try lots "
-"of photo apps from the Ubuntu Software Centre."
+"camera or a phone to transfer your photos, then it’s easy to share them and "
+"keep them safe. If you’re feeling creative, you can try lots of photo apps "
+"from the Ubuntu Software Center."
 msgstr ""
-"Shotwell är en behändig fotohanterare som är redo för dina prylar. Anslut en "
-"kamera eller en telefon för att överföra dina foton, sedan är det enkelt att "
-"dela ut dem eller hålla dem säkra. Om du känner dig kreativ så kan du prova "
-"massor av fotoprogram från programcentralen i Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:16
@@ -252,32 +204,27 @@ msgid "Shotwell Photo Manager"
 msgstr "Fotohanteraren Shotwell"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/photos.html:20
-msgid "Pitivi Video Editor"
-msgstr "Videoredigeraren Pitivi"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/photos.html:27
+#: slideshows/oem-config-ubuntu/slides/photos.html:23
 msgid "GIMP Image Editor"
 msgstr "Bildredigeraren GIMP"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/photos.html:27
+msgid "Pitivi Video Editor"
+msgstr "Videoredigeraren Pitivi"
+
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/social.html:1
-msgid "Social from the start"
-msgstr "Sociala antenner redan från start"
+msgid "Stay connected"
+msgstr "Fortsätt vara ansluten"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:8
 msgid ""
-"The Me Menu is your instant connection to web services like Facebook and "
-"Twitter. Just set up your accounts to log in and share with friends. "
-"Anything sent to you appears in the Messaging Menu so you can reply when you "
-"want."
+"The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+"messages from all applications and social networks. See at a glance when "
+"there’s something new to read, regardless how it arrived."
 msgstr ""
-"Mig-menyn är din direkta anslutning till webbtjänster såsom Facebook och "
-"Twitter. Ställ in dina konton för att logga in och dela med vänner. Allting "
-"som skickas till dig kommer att visas i Meddelande-menyn så att du kan svara "
-"när du känner för det."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -307,35 +254,15 @@ msgstr "Hitta ännu fler program"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
 msgid ""
-"The Ubuntu Software Centre has thousands of new applications ready for your "
+"The Ubuntu Software Center has thousands of new applications ready for your "
 "computer. Just type what you want or explore the categories like games, "
-"science, and education. It is simple to download new stuff and write reviews "
+"science, and education. It is easy to download new stuff and write reviews "
 "to share your experiences."
 msgstr ""
-"Programcentralen i Ubuntu innehåller tusentals nya program som är färdiga "
-"för din dator. Skriv bara vad du letar efter eller utforska bland kategorier "
-"såsom spel, vetenskap eller utbildning. Det är enkelt att hämta nya saker "
-"och skriva recensioner för att dela med dig av dina erfarenheter."
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/usc.html:12
-msgid "Some of our favourites"
-msgstr "Några av dina favoriter"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:16
-msgid "Stellarium"
-msgstr "Stellarium"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:20
-msgid "Inkscape"
-msgstr "Inkscape"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:24
-msgid "Frozen Bubble"
-msgstr "Frozen Bubble"
+"Programcentralen i Ubuntu innehåller tusentals nya program redo för din "
+"dator. Sök efter vad du önskar eller utforska kategorier att program såsom "
+"spel, vetenskap och utbildning. Det är enkelt att hämta nya saker och skriva "
+"recensioner för att dela med dig av dina erfarenheter."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -345,179 +272,171 @@ msgstr "Välkommen"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 11.04. This version brings some exciting "
+"Thank you for choosing Ubuntu 11.10. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
-"Tack för att du valde Ubuntu 11.04. Denna version ger dig spännande "
-"förändringar såsom ett helt omgjort skrivbordsgränssnitt, Unity. Detta "
-"bildspel kommer att visa runt dig under tiden som Ubuntu konfigureras."
+"Tack för att du valt Ubuntu 11.10. Denna version kommer med några spännande "
+"ändringar som bland annat ett helt nytt skrivbordsgränssnitt, Unity. Detta "
+"bildspel kommer att visa dig runt under tiden Ubuntu konfigureras."
 
-#~ msgid "Customize Ubuntu"
-#~ msgstr "Anpassa Ubuntu"
-
-#~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is the belief that computing is "
-#~ "for everyone. With advanced accessibility tools and hundreds of options like "
-#~ "your preferred fonts, color schemes and languages, Ubuntu provides the "
-#~ "flexibility to fit real people, whoever they are."
-#~ msgstr ""
-#~ "En viktig del av Ubuntus filosofi är tron på att datorer är för alla. Med "
-#~ "avancerade hjälpmedelsverktyg och hundratals alternativ såsom din föredragna "
-#~ "typsnitt, färgscheman och språk ger Ubuntu möjligheten att anpassas till "
-#~ "individer, oavsett vilka de är."
-
-#~ msgid "Customization options"
-#~ msgstr "Anpassningsalternativ"
-
-#~ msgid "Google Chrome"
-#~ msgstr "Google Chrome"
+#~ msgid "Appearance preferences"
+#~ msgstr "Inställningar för utseende"
 
 #~ msgid ""
-#~ "Use Empathy to get chatting with your accounts from Yahoo, Facebook, Gmail, "
-#~ "MSN, Jabber and many more. Set your status and reach all your instant "
-#~ "messaging contacts from a single place."
+#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+#~ "choose alternative browsers from Ubuntu Software Center."
 #~ msgstr ""
-#~ "Använd Empathy för att chatta via dina konton från Yahoo, Facebook, Gmail, "
-#~ "MSN, Jabber och många andra. Ställ in din status och nå alla dina kontakter "
-#~ "från ett enda ställe."
+#~ "Ubuntu inkluderar Mozilla Firefox för snabb och säker surfning på nätet. "
+#~ "Du kan även välja mellan alternativa webbläsare från Ubuntus "
+#~ "programcentral."
 
-#~ msgid "Gwibber Microblogging"
-#~ msgstr "Bloggklienten Gwibber"
+#~ msgid "Email and chat"
+#~ msgstr "E-post och chatt"
 
-#~ msgid "Get help with Ubuntu"
-#~ msgstr "Få hjälp med Ubuntu"
+#~ msgid "Empathy IM"
+#~ msgstr "Empathy IM"
+
+#~ msgid "Evolution Mail"
+#~ msgstr "E-postklienten Evolution"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "Social from the start"
+#~ msgstr "Sociala antenner redan från start"
 
 #~ msgid ""
-#~ "Ubuntu is designed to be easy and safe, so don&#8217;t hesitate to explore! "
-#~ "If you have any questions, try the Help menu in most applications or <a "
-#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-#~ "your other options. We hope you enjoy Ubuntu."
+#~ "Thank you for choosing Ubuntu 11.04. This version brings some exciting "
+#~ "changes including a totally redesigned desktop interface, Unity. While "
+#~ "Ubuntu is configured, this slideshow will show you around."
 #~ msgstr ""
-#~ "Ubuntu är gjort för att vara enkelt och säkert så tveka inte att utforska! "
-#~ "Om du har några frågor så prova Hjälp-menyn i de flesta program eller <a "
-#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> för att "
-#~ "utforska dina andra möjligheter. Vi hoppas att du blir nöjd med Ubuntu."
+#~ "Tack för att du valde Ubuntu 11.04. Denna version ger dig spännande "
+#~ "förändringar såsom ett helt omgjort skrivbordsgränssnitt, Unity. Detta "
+#~ "bildspel kommer att visa runt dig under tiden som Ubuntu konfigureras."
 
-#~ msgid "Mobilize your digital life"
-#~ msgstr "Ditt digitala liv.. mobilt"
+#~ msgid "Thank you"
+#~ msgstr "Tack"
+
+#~ msgid "Write and present with ease"
+#~ msgstr "Skriv och presentera enkelt"
+
+#~ msgid "Mobilise your digital life"
+#~ msgstr "Mobilisera ditt digitala liv"
+
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "Some of our favourites"
+#~ msgstr "Några av dina favoriter"
+
+#~ msgid "Inkscape"
+#~ msgstr "Inkscape"
+
+#~ msgid "Frozen Bubble"
+#~ msgstr "Frozen Bubble"
+
+#~ msgid ""
+#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
+#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
+#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
+#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
+#~ "hope you enjoy Ubuntu."
+#~ msgstr ""
+#~ "Tack än en gång för att du valde Ubuntu. Ubuntu är byggt för att vara "
+#~ "enkelt och säkert, så tveka inte att utforska! Om du har några frågor, "
+#~ "prova Hjälp-menyn i de flesta program eller surfa till <a href=\"http://"
+#~ "www.ubuntu.com/support\">ubuntu.com/support</a> för att hitta andra "
+#~ "alternativ. Vi hoppas att du blir nöjd med Ubuntu."
 
 #~ msgid ""
 #~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online so "
-#~ "you can access them anywhere. Sync bookmarks, contacts, music and pictures "
-#~ "across all your computers. Take everything everywhere with Ubuntu One."
+#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
+#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
+#~ "pictures across all your computers. Take everything everywhere with "
+#~ "Ubuntu One."
 #~ msgstr ""
-#~ "Alla Ubuntu-användare får ett kostnadsfritt <a "
-#~ "href=\"https://one.ubuntu.com/\">Ubuntu One</a>-konto. Ubuntu One låter dig "
-#~ "synkronisera alla typer av filer på nätet så att du kan komma åt dem var du "
-#~ "än befinner dig. Synkronisera bokmärken, kontakter, musik och bilder mellan "
-#~ "alla dina datorer. Ta med dig allting överallt med Ubuntu One."
-
-#~ msgid "Buy music while you listen"
-#~ msgstr "Köp musik när du lyssnar"
+#~ "Alla Ubuntu-användare får ett kostnadsfritt <a href=\"https://one.ubuntu."
+#~ "com/\">Ubuntu One</a>-konto. Ubuntu One låter dig synkronisera alla typer "
+#~ "av filer till nätet så att du kan komma åt dem var du än befinner dig. "
+#~ "Synkronisera bokmärken, kontakter, musik och bilder mellan alla dina "
+#~ "datorer. Ta med dig allting överallt med Ubuntu One."
 
 #~ msgid ""
-#~ "Ubuntu&#8217;s music player includes a built-in store, so you can buy and "
-#~ "download new tracks with a few clicks. Thanks to Ubuntu One&#8217;s file-"
-#~ "syncing magic you can store your music online and listen to it from other "
-#~ "computers. You can add your music to a portable music player, too; just plug "
-#~ "it in to get started."
+#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
+#~ "for everyone. With advanced accessibility tools and many options like "
+#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
+#~ "working for real people."
 #~ msgstr ""
-#~ "Ubuntus musikspelare har en inbyggd butik där du kan köpa musik med ett "
-#~ "fåtal musklick. Med Ubuntu Ones filsynkronisering kan du lagra din musik på "
-#~ "nätet och spela upp den även från andra datorer. Du kan även lägga till din "
-#~ "musik till en bärbar musikspelare; det är bara att ansluta den för att komma "
-#~ "igång."
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Musikspelaren Rhythmbox"
-
-#~ msgid "Create documents and presentations"
-#~ msgstr "Skapa dokument och presentationer"
+#~ "Ubuntus filosofi är att datorer är till för alla. Med avancerade "
+#~ "hjälpmedelsfunktioner och många alternativ såsom dina föredragna "
+#~ "typsnitt, färgscheman och språk, fungerar Ubuntu för alla människor."
 
 #~ msgid ""
-#~ "OpenOffice.org is fully compatible with Microsoft Office and has everything "
-#~ "you need to create professional documents, spreadsheets and presentations. "
-#~ "OpenOffice.org is easy to use, packed with the features you need and "
-#~ "completely free."
+#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
+#~ "need to create impressive documents, spreadsheets, and presentations. "
+#~ "LibreOffice tries its best to work with other office software, and it "
+#~ "uses the OpenDocument standards for far-reaching compatibility."
 #~ msgstr ""
-#~ "OpenOffice.org är helt kompatibelt med Microsoft Office och har allting som "
-#~ "du behöver för att skapa professionella dokument, kalkylblad och "
-#~ "presentationer. OpenOffice.org är lätt att använda, helt kostnadsfritt och "
-#~ "är fullt av de funktioner som du behöver."
-
-#~ msgid "OpenOffice.org"
-#~ msgstr "OpenOffice.org"
-
-#~ msgid "View, store and edit photos"
-#~ msgstr "Visa, lagra och redigera foton"
+#~ "LibreOffice är en kostnadsfri kontorssvit som är fullpackad med allting "
+#~ "som du behöver för att skapa imponerade dokument, kalkylblad och "
+#~ "presentationer. LibreOffice försöker så gott det går att fungera med "
+#~ "andra kontorsprogram och det använder OpenDocument-standarder för bred "
+#~ "kompatibilitet."
 
 #~ msgid ""
-#~ "Ubuntu is ready for all your gadgets. Just connect your phones or cameras to "
-#~ "get started. Shotwell makes it easy to organize your digital photos and "
-#~ "share them on Picasa, Facebook or Flickr. For advanced photo editing, you "
-#~ "can find more free applications in Ubuntu Software Center."
+#~ "The Ubuntu Software Centre has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is simple to download new stuff and "
+#~ "write reviews to share your experiences."
 #~ msgstr ""
-#~ "Ubuntu är redo för alla dina tekniska prylar. Det är bara att ansluta dina "
-#~ "telefoner eller kameror för att komma igång. Shotwell gör det enkelt att "
-#~ "organisera dina digitala foton och dela dem på Picasa, Facebook eller "
-#~ "Flickr. För mer avancerad fotoredigering så kan du hitta fler kostnadsfria "
-#~ "program i Ubuntus programcentral."
+#~ "Programcentralen i Ubuntu innehåller tusentals nya program som är färdiga "
+#~ "för din dator. Skriv bara vad du letar efter eller utforska bland "
+#~ "kategorier såsom spel, vetenskap eller utbildning. Det är enkelt att "
+#~ "hämta nya saker och skriva recensioner för att dela med dig av dina "
+#~ "erfarenheter."
 
 #~ msgid ""
-#~ "With the Me Menu, being sociable has never been so easy. Use it to instantly "
-#~ "post updates on sites like Facebook and Twitter. New messages appear in the "
-#~ "messaging menu so you can respond when you want."
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
+#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
+#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
+#~ "try lots of photo apps from the Ubuntu Software Centre."
 #~ msgstr ""
-#~ "Med Mig-menyn så har ditt sociala liv aldrig varit så enkelt. Använd den för "
-#~ "att posta uppdateringar direkt på platser som Facebook och Twitter. Nya "
-#~ "meddelanden visas i meddelandemenyn så att du kan svara när du vill."
-
-#~ msgid "Get free software"
-#~ msgstr "Hämta fri programvara"
+#~ "Shotwell är en behändig fotohanterare som är redo för dina prylar. Anslut "
+#~ "en kamera eller en telefon för att överföra dina foton, sedan är det "
+#~ "enkelt att dela ut dem eller hålla dem säkra. Om du känner dig kreativ så "
+#~ "kan du prova massor av fotoprogram från programcentralen i Ubuntu."
 
 #~ msgid ""
-#~ "Ubuntu Software Center gives you instant access to thousands of free, open-"
-#~ "source applications. Browse categories including Education, Games, Graphics "
-#~ "and Science. Software is easy to find, easy to install and easy to remove."
+#~ "The Me Menu is your instant connection to web services like Facebook and "
+#~ "Twitter. Just set up your accounts to log in and share with friends. "
+#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
+#~ "you want."
 #~ msgstr ""
-#~ "Ubuntus programcentral ger dig direkt åtkomst till tusentals fria program "
-#~ "baserade på öppen källkod. Bläddra i kategorier såsom Utbildning, Spel, "
-#~ "Grafik och Vetenskap. Program är enkla att hitta, enkla att installera och "
-#~ "enkla att ta bort."
-
-#~ msgid "Featured software"
-#~ msgstr "Inkluderad programvara"
-
-#~ msgid "GIMP – Advanced image editing for photographers and graphic designers"
-#~ msgstr ""
-#~ "GIMP – Avancerad bildredigering för fotografer och grafiska designers"
-
-#~ msgid "Jokosher – Your very own home recording studio"
-#~ msgstr "Jokosher – Din egna inspelningsstudio"
-
-#~ msgid "Stellarium – A 3D planetarium for your computer"
-#~ msgstr "Stellarium – Ett 3D-planetarium för din dator"
+#~ "Mig-menyn är din direkta anslutning till webbtjänster såsom Facebook och "
+#~ "Twitter. Ställ in dina konton för att logga in och dela med vänner. "
+#~ "Allting som skickas till dig kommer att visas i Meddelande-menyn så att "
+#~ "du kan svara när du känner för det."
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 10.10. This version brings some exciting "
-#~ "changes including a new sound menu, the Shotwell photo manager and features "
-#~ "that make it even easier to find and install new software. While Ubuntu is "
-#~ "installed, this slideshow will show you around."
+#~ "The Messaging Menu has lots of features to make online communication "
+#~ "effortless. Chat helps you log in to all your instant messaging accounts "
+#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
+#~ "place, ready for text or video chat."
 #~ msgstr ""
-#~ "Tack för att du valt Ubuntu 10.10. Denna version kommer med spännande "
-#~ "ändringar såsom en ny ljudmeny, fotohanteraren Shotwell och funktioner som "
-#~ "gör det enklare att hitta och installera ny programvara. Detta bildspel "
-#~ "kommer att ge dig en rundtur under tiden Ubuntu installeras."
+#~ "Meddelandemenyn har många funktioner för att göra nätkommunikation enkel. "
+#~ "Chatt hjälper dig att logga in på alla dina konton för snabbmeddelanden, "
+#~ "inklusive MSN, Jabber och Facebook. Dina kontakter visas på samma plats, "
+#~ "redo för chatt via meddelanden eller video."
 
 #~ msgid ""
-#~ "LibreOffice is fully compatible with Microsoft Office and has everything you "
-#~ "need to create professional documents, spreadsheets and presentations. "
-#~ "LibreOffice is easy to use, packed with the features you need and completely "
-#~ "free."
+#~ "Ubuntu comes with the amazing Banshee music player. With advanced "
+#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
+#~ "simple to queue up the perfect songs. And it works great with CDs and "
+#~ "portable music players, so you can enjoy all your music wherever you go."
 #~ msgstr ""
-#~ "LibreOffice är fullt kompatibelt med Microsoft Office och har allting som du "
-#~ "behöver för att skapa professionella dokument, kalkylblad och "
-#~ "presentationer. LibreOffice är enkelt att använda och har fullt av de "
-#~ "funktioner som du behöver och är helt kostnadsfritt."
+#~ "Ubuntu levereras med den fantastiska musikspelaren Banshee. Med "
+#~ "avancerade uppspelningsfunktioner och Ubuntu Ones inbyggda musikaffär så "
+#~ "är det enkelt att bygga en perfekt spellista. Det fungerar perfekt för cd-"
+#~ "skivor och bärbara musikspelare så att du kan njuta av din musik var du "
+#~ "än befinner dig."

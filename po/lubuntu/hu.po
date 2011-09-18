@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
 "PO-Revision-Date: 2011-04-13 06:37+0000\n"
 "Last-Translator: Gabor Kelemen <kelemeng@gnome.hu>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:37+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
-"Language: hu\n"
+"X-Launchpad-Export-Date: 2011-09-18 19:13+0000\n"
+"X-Generator: Launchpad (build 13955)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/browser.html:1
@@ -40,13 +40,11 @@ msgstr "Ez a böngésző gyors, és letisztult felhasználói felületet biztos�
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/browser.html:16
 msgid ""
-"More information on the <a "
-"href=\"http://sites.google.com/a/chromium.org/dev/Home\">Chromium "
-"website</a>."
+"More information on the <a href=\"http://sites.google.com/a/chromium.org/dev/"
+"Home\">Chromium website</a>."
 msgstr ""
-"További információkért lásd a <a "
-"href=\"http://sites.google.com/a/chromium.org/dev/Home\">Chromium "
-"weboldalát</a>."
+"További információkért lásd a <a href=\"http://sites.google.com/a/chromium."
+"org/dev/Home\">Chromium weboldalát</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/browser.html:20
@@ -101,8 +99,8 @@ msgid ""
 "More information on <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed "
 "website</a>."
 msgstr ""
-"További információkért lásd a <a "
-"href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed weboldalát</a>."
+"További információkért lásd a <a href=\"http://sylpheed.sraoss.jp/en/"
+"\">Sylpheed weboldalát</a>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/email.html:24
@@ -124,12 +122,12 @@ msgstr "Segítségkérés"
 msgid "If you need help, you can contact us:"
 msgstr "Ha segítségre lenne szüksége, felveheti velünk a kapcsolatot:"
 
-#. The url should not be translated
+#.  The url should not be translated 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:12
 msgid ""
-"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
-"page</a>."
+"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki page</"
+"a>."
 msgstr ""
 "A <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki oldalunkon</a> "
 "keresztül."
@@ -238,13 +236,13 @@ msgstr ""
 "A Lubuntu az <em>LXDE asztali környezetre</em>, egy gyors és "
 "energiatakarékos asztali környezetre épül."
 
-#. The url "lxde.org" should not be translated
+#.  The url "lxde.org" should not be translated 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/lxde.html:12
 msgid "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
 msgstr ""
-"További információkért lásd az <a href=\"http://lxde.org\">LXDE "
-"weboldalát</a>."
+"További információkért lásd az <a href=\"http://lxde.org\">LXDE weboldalát</"
+"a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/office.html:1
@@ -255,15 +253,14 @@ msgstr "Abiword és Gnumeric"
 #: slideshows/lubuntu/slides/office.html:8
 msgid ""
 "Use <em>Abiword and Gnumeric</em>, lightweight alternatives for LibreOffice, "
-"and create letters, spreadsheets, etc. Information on <a "
-"href=\"http://www.abisource.com/\">Abiword</a> and <a "
-"href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> websites."
+"and create letters, spreadsheets, etc. Information on <a href=\"http://www."
+"abisource.com/\">Abiword</a> and <a href=\"http://projects.gnome.org/"
+"gnumeric/\">Gnumeric</a> websites."
 msgstr ""
 "Használja az <em>Abiword és Gnumeric</em> alkalmazásokat, a Libreoffice "
 "pehelysúlyú alternatíváit, és készítsen leveleket, táblázatokat stb. "
-"Információkért nézze meg az <a "
-"href=\"http://www.abisource.com/\">Abiword</a> és <a "
-"href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> oldalait."
+"Információkért nézze meg az <a href=\"http://www.abisource.com/\">Abiword</"
+"a> és <a href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> oldalait."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:16
@@ -316,13 +313,11 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/videos.html:16
 msgid ""
-"More information on <a "
-"href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-"website</a>."
+"More information on <a href=\"http://sites.google.com/site/kdekorte2/"
+"gnomemplayer\">gnome-mplayer website</a>."
 msgstr ""
-"További információk a <a "
-"href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-"honlapján</a>."
+"További információk a <a href=\"http://sites.google.com/site/kdekorte2/"
+"gnomemplayer\">gnome-mplayer honlapján</a>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/videos.html:24
@@ -341,76 +336,13 @@ msgstr "Üdvözöljük!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:8
-msgid "Thank you for choosing Lubuntu 11.04."
-msgstr "Köszönjük, hogy a Lubuntu 11.04-et választotta."
+msgid "Thank you for choosing Lubuntu 11.10."
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:12
 msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
 msgstr "A Lubuntut egyszerűnek és gyorsnak terveztük. Fedezze fel bátran!"
 
-#~ msgid ""
-#~ "You will be able to watch videos with <em>gnome-mplayer</em>, a fast video "
-#~ "player using mplayer."
-#~ msgstr ""
-#~ "Videók nézésére a <em>gnome-mplayert</em>, az mplayert használó gyors "
-#~ "videolejátszót használhatja."
-
-#~ msgid ""
-#~ "More information on <a href=\"http://www.abisource.com/\">Abiword</a> and <a "
-#~ "href=\"http://projects.gnome.org/gnumeric/\">Gnumeric websites</a>."
-#~ msgstr ""
-#~ "További információkért lásd az <a "
-#~ "href=\"http://www.abisource.com/\">Abiword</a> és a <a "
-#~ "href=\"http://projects.gnome.org/gnumeric/\">Gnumeric weboldalait</a>."
-
-#~ msgid "You can create and edit documents like spreadsheets and letters."
-#~ msgstr "Ezekkel táblázatokat és leveleket szerkeszthet."
-
-#~ msgid ""
-#~ "Lubuntu comes with <em>Abiword and Gnumeric</em>, lightweight alternatives "
-#~ "for OpenOffice."
-#~ msgstr ""
-#~ "A Lubuntu az<em>Abiword és Gnumeric</em> programokat tartalmazza, az "
-#~ "OpenOffice könnyűsúlyú alternatíváit."
-
-#~ msgid ""
-#~ "More information on <a "
-#~ "href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-#~ "website.</a>"
-#~ msgstr ""
-#~ "További információkért lásd a <a "
-#~ "href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-#~ "weboldalát.</a>"
-
-#~ msgid "If you need help, you can contact us :"
-#~ msgstr "Ha segítségre van szüksége, keressen meg minket:"
-
-#~ msgid ""
-#~ "Go to the menu, and click on Pidgin icon to connect to many Instant Message "
-#~ "services, such as Jabber or Windows Live."
-#~ msgstr ""
-#~ "A menüben a Pidgin ikonra kattintva számos üzenetküldő szolgáltatáshoz "
-#~ "csatlakozhat, mint például a Jabber vagy az MSN."
-
-#~ msgid "Installing softwares"
-#~ msgstr "Szoftverek telepítése"
-
-#~ msgid ""
-#~ "Go to the menu, click on Preferences and <em>Synaptic Software Manager</em>."
-#~ msgstr ""
-#~ "Nyissa meg a menü Beállítások pontját, majd a <em>Synaptic "
-#~ "csomagkezelőt</em>."
-
-#~ msgid "Thank you for choosing Lubuntu 10.10."
-#~ msgstr "Köszönjük, hogy a Lubuntu 10.10-et választotta."
-
-#~ msgid "Support for many formats is included."
-#~ msgstr "Számos formátumot támogat."
-
-#~ msgid ""
-#~ "Lubuntu comes with <em>Abiword and Gnumeric</em>, lightweight alternatives "
-#~ "for LibreOffice."
-#~ msgstr ""
-#~ "A Lubuntu a könnyűsúlyú <em>Abiword és Gnumeric</em> alkalmazásokat "
-#~ "szállítja a LibreOffice kiváltására."
+#~ msgid "Thank you for choosing Lubuntu 11.04."
+#~ msgstr "Köszönjük, hogy a Lubuntu 11.04-et választotta."

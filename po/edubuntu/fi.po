@@ -7,22 +7,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2011-04-03 09:52+0000\n"
-"Last-Translator: Antti Kajander <antti.kajander@gmail.com>\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
+"PO-Revision-Date: 2011-09-15 07:10+0000\n"
+"Last-Translator: Timo Jyrinki <timo.jyrinki@gmail.com>\n"
 "Language-Team: Finnish <fi@li.org>\n"
+"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:38+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
+"X-Launchpad-Export-Date: 2011-09-18 19:12+0000\n"
+"X-Generator: Launchpad (build 13955)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
 msgid "Accessibility in Edubuntu"
 msgstr "Esteettömyys Edubuntussa"
 
-#. "your" refers to a large group that includes the reader.
+#.  "your" refers to a large group that includes the reader. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:6
 msgid ""
@@ -31,8 +32,8 @@ msgid ""
 "accessible operating systems around."
 msgstr ""
 
-#. The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#. Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention.
+#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
+#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:7
 msgid ""
@@ -46,8 +47,8 @@ msgstr ""
 "päälle avustavia toimintoja, kuten <em>Orca</em> tekstin ääneen lukemiseen "
 "ja pysenapsautus hiiren painikkeiden automaattisen painamiseen."
 
-#. As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#. Preferences > Appearance. Certain words were kept the same to make the menu item discoverable.
+#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
+#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:8
 msgid ""
@@ -92,8 +93,8 @@ msgstr "Gnome-laskin"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome "
-"Calculator</em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
+"em>."
 msgstr ""
 "Edubuntussa on mukana viimeisin versio tehokkaasta <em>Gnome-laskimesta</em>."
 
@@ -180,7 +181,7 @@ msgstr ""
 msgid "Getting Help with Edubuntu"
 msgstr ""
 
-#. The string "Help and Support" should be exactly as it appears in the System menu.
+#.  The string "Help and Support" should be exactly as it appears in the System menu. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:6
 msgid ""
@@ -190,7 +191,7 @@ msgstr ""
 "Jos kaipaat opastusta, neuvoja löytyy Järjestelmä-valikon kohdasta "
 "<em>Ohjeet ja tuki</em> tai useimpien ohjelmien <em>Ohje</em>-valikosta."
 
-#. The url "edubuntu.org/support" should not be translated
+#.  The url "edubuntu.org/support" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid ""
@@ -205,15 +206,15 @@ msgstr ""
 msgid "edubuntu.org</a>"
 msgstr "edubuntu.org</a>"
 
-#. The url "edubuntu.org/community" should not be translated
+#.  The url "edubuntu.org/community" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a "
-"href=\"http://edubuntu.com/community\">"
+"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
+"community\">"
 msgstr ""
-"Kerro meille kokemuksesi Edubuntusta osoitteessa <a "
-"href=\"http://edubuntu.com/community\">"
+"Kerro meille kokemuksesi Edubuntusta osoitteessa <a href=\"http://edubuntu."
+"com/community\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -230,13 +231,12 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/documentation.html:11
 msgid "The installation will finish soon. We hope you enjoy Edubuntu."
-msgstr ""
-"Asennus valmistuu pian. Toivomme, että nautit Edubuntun käyttämisestä."
+msgstr "Asennus valmistuu pian. Toivomme, että nautit Edubuntun käyttämisestä."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
 msgid "Edubuntu menu editor"
-msgstr ""
+msgstr "Edubuntun valikkomuokkain"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:6
@@ -408,8 +408,7 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/italc.html:7
-msgid ""
-"Broadcast a desktop session to all users to demonstrate a new concept."
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -586,8 +585,7 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/sabayon.html:8
-msgid ""
-"Easily apply custom desktops that have been created to users or groups."
+msgid "Easily apply custom desktops that have been created to users or groups."
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -629,21 +627,21 @@ msgstr "Kiitos ja tervetuloa"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 11.04."
+msgid "Thank you for testing what will become Edubuntu 11.10."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:7
 msgid ""
-"If this is an alpha/beta candidate, please log this installation on <a "
-"href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+"If this is an alpha/beta candidate, please log this installation on <a href="
+"\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:8
 msgid ""
-"File bugs at <a "
-"href=\"http://bugs.launchpad.net\">http://bugs.launchpad.net</a>."
+"File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
+"net</a>."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -654,8 +652,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:10
 msgid ""
-"Most up to date news at <a "
-"href=\"http://edubuntu.org\">http://edubuntu.org</a>"
+"Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu.org</"
+"a>"
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -678,8 +676,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:7
 msgid ""
-"Learn basic computer skills and unleash your creativity with "
-"<em>TuxPaint</em>."
+"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
+"em>."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -723,8 +721,8 @@ msgid ""
 "going to <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
 msgstr ""
 "Ota käyttöösi käynnistämällä <em>Ubuntu Onen asetukset</em> -sovellus tai "
-"menemällä osoitteeseen <a "
-"href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
+"menemällä osoitteeseen <a href=\"http://one.ubuntu.com/\">http://one.ubuntu."
+"com/</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/underthehood.html:1
@@ -738,13 +736,12 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 2.6.38 boosts performance and hardware support."
+msgid "Linux 3.0 boosts performance and hardware support."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid ""
-"Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
+msgid "Xorg 1.10, Mesa 7.11 and Compiz delivers breathtaking graphics support."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -759,8 +756,8 @@ msgstr "Tervetuloa"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 11.04."
-msgstr "Kiitos Edubuntu 11.04:n valitsemisesta."
+msgid "Thank you for choosing Edubuntu 11.10."
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:7
@@ -782,59 +779,5 @@ msgstr ""
 msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr "Edubuntu on suunniteltu helppokäyttöiseksi. Tutki sitä vapaasti!"
 
-#~ msgid ""
-#~ "There are powerful applications for all sorts of interests, from programming "
-#~ "to creating music and exploring the universe. Take a look at the "
-#~ "<em>Featured Applications</em> section for some of our favourites!"
-#~ msgstr ""
-#~ "Tarjolla on loistavia sovelluksia ohjelmoinnista aina musiikin luomiseen "
-#~ "sekä maailmankaikkeuden tutkimiseen. Joitain ehdottamiamme sovelluksia näet "
-#~ "<em>Suositellut sovellukset</em> -osiossa."
-
-#~ msgid ""
-#~ "Click the envelope near the clock to log in to your accounts. New messages "
-#~ "appear there, too, so you can see what's happening at a glance."
-#~ msgstr ""
-#~ "Napsauta kellon vieressä olevaa kirjekuoren kuvaa kirjautuaksesi "
-#~ "käyttäjätileillesi. Tätä kautta näet myös uudet viestit yhdellä silmäyksellä."
-
-#~ msgid ""
-#~ "Share folders using your synchronised address book. Project collaboration "
-#~ "has never been easier."
-#~ msgstr ""
-#~ "Jaa kansioita synkronoidussa osoitekirjassasi. Yhteistyöprojektit eivät ole "
-#~ "koskaan olleet helpompia."
-
-#~ msgid ""
-#~ "Shuffle between your laptop, netbook, and company desktop and find "
-#~ "everything you need automatically synchronised. Your documents, music, "
-#~ "bookmarks, address book, and notes – everything goes where you go with "
-#~ "<em>Ubuntu One</em>."
-#~ msgstr ""
-#~ "Automaattisen synkronoinnin ansiosta voit vaihtaa kannettavan, miniläppärin "
-#~ "tai työpaikan tietokoneen välillä helposti. Asiakirjasi, musiikkisi, "
-#~ "kirjanmerkkisi, osoitekirjasi ja muistiinpanosi seuraavat sinua kaikkialle "
-#~ "<em>Ubuntu Onen</em> avulla."
-
-#~ msgid "Edubuntu Menu Editor"
-#~ msgstr "Edubuntun valikkomuokkain"
-
-#~ msgid "Excercise your gray matter"
-#~ msgstr "Harjoita aivojasi"
-
-#~ msgid "Play and Learn"
-#~ msgstr "Pelaa ja opi"
-
-#~ msgid "iTalc"
-#~ msgstr "iTalc"
-
-#~ msgid "."
-#~ msgstr "."
-
-#~ msgid "Allows you to test downloaded software in a protected environment."
-#~ msgstr ""
-#~ "Mahdollistaa ladattujen ohjelmistojen kokeilemisen suojatussa ympäristössä."
-
-#~ msgid "Automatically sync feeds and news to your favourive device."
-#~ msgstr ""
-#~ "Synkronoi syötteet ja uutiset automaattisesti haluamaasi laitteeseen."
+#~ msgid "Thank you for choosing Edubuntu 11.04."
+#~ msgstr "Kiitos Edubuntu 11.04:n valitsemisesta."

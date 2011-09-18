@@ -7,22 +7,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2011-04-03 08:49+0000\n"
-"Last-Translator: Gabor Kelemen <kelemeng@gnome.hu>\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
+"PO-Revision-Date: 2011-09-04 10:24+0000\n"
+"Last-Translator: Bence Lukács <Unknown>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:38+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
+"X-Launchpad-Export-Date: 2011-09-18 19:12+0000\n"
+"X-Generator: Launchpad (build 13955)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
 msgid "Accessibility in Edubuntu"
-msgstr ""
+msgstr "Akadálymentesítés az Edubuntuban"
 
-#. "your" refers to a large group that includes the reader.
+#.  "your" refers to a large group that includes the reader. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:6
 msgid ""
@@ -30,9 +31,12 @@ msgid ""
 "circumstances. So, we provide tools that make Edubuntu one of the most "
 "accessible operating systems around."
 msgstr ""
+"Fizikai állapotától függetlenül, mindenki számára használható számítógépeket "
+"akarunk készíteni. Ezért láttuk el olyan eszközökkel az Edubuntut, amelyek "
+"az egyik legjobban akadálymentesített operációs rendszerré teszik azt."
 
-#. The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#. Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention.
+#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
+#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:7
 msgid ""
@@ -46,8 +50,8 @@ msgstr ""
 "kapcsolhat be, mint a képernyőn megjelenő szöveget felolvasó <em>Orka</em>, "
 "vagy az egérgombok lenyomását végző elidőzési kattintás."
 
-#. As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#. Preferences > Appearance. Certain words were kept the same to make the menu item discoverable.
+#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
+#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:8
 msgid ""
@@ -62,13 +66,15 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/arkose.html:1
 msgid "Arkose application sandboxing"
-msgstr ""
+msgstr "Arkose alkalmazáshomokozó"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:6
 msgid ""
 "<em>Arkose</em> allows you to run an application in a contained environment."
 msgstr ""
+"Az <em>Arkose</em> segítségével az alkalmazásokat elzárt környezetben "
+"futtathatja."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:7
@@ -76,6 +82,8 @@ msgid ""
 "You can now test downloaded software in a protected environment easily "
 "before deploying."
 msgstr ""
+"Ezzel könnyen tesztelheti a letöltött szoftvereket egy védett környezetben, "
+"mielőtt telepítené azokat."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:8
@@ -83,23 +91,28 @@ msgid ""
 "Integrates with file manager allowing safe execution with a few simple "
 "clicks."
 msgstr ""
+"A fájlkezelőbe való integráció biztonságos futtatást biztosít pár "
+"kattintással."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
 msgid "Gnome Calculator"
-msgstr ""
+msgstr "Gnome számológép"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome "
-"Calculator</em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
+"em>."
 msgstr ""
+"Az Edubuntu a hatékony <em>Gnome számológép</em> legújabb változatát "
+"szállítja."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:7
 msgid "It supports financial operations and up-to-date currency conversions."
 msgstr ""
+"Támogatja a pénzügyi számításokat és a pénznemek közti naprakész átváltást."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:8
@@ -107,17 +120,19 @@ msgid ""
 "Use the programming function for logical computations and advanced mode for "
 "scientific computations."
 msgstr ""
+"Használja a programozói módot a logikai számításokhoz és a speciális módot a "
+"tudományos számításokhoz."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calibre.html:1
 msgid "Calibre e-book manager"
-msgstr ""
+msgstr "Calibre e-book könyvtárkezelő"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:6
 msgid ""
 "<em>Calibre</em> is an e-library solution for cataloging electronic books."
-msgstr ""
+msgstr "A <em>Calibre</em> egy könyvtárkezelő elektronikus könyvekhez."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:7
@@ -125,6 +140,8 @@ msgid ""
 "It supports many formats, including MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, "
 "RTF, PDF and more."
 msgstr ""
+"Rengeteg formátumot támogat, többek között MOBI, LIT, PRC, EPUB, ODT, HTML, "
+"CBR, RTF, PDF és sok mást."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:8
@@ -132,16 +149,18 @@ msgid ""
 "Supports for many different hardware platforms, including the most popular "
 "commercial e-book platforms available."
 msgstr ""
+"Sok különböző eszközt támogat, beleértve a legnépszerűbb kereskedelmi e-book "
+"platformokat."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:9
 msgid "Automatically sync feeds and news to your favorite device."
-msgstr ""
+msgstr "Feliratkozásait automatikusan szinkronizálja kedvenc eszközével."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/desktop-software.html:1
 msgid "Great desktop software"
-msgstr ""
+msgstr "Nagyszerű asztali szoftverek"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:6
@@ -149,6 +168,7 @@ msgid ""
 "<em>LibreOffice</em> is a powerful office software suite that is easy to "
 "understand."
 msgstr ""
+"A <em>LibreOffice</em> egy nagy tudású, könnyen használható irodai csomag."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:7
@@ -156,6 +176,8 @@ msgid ""
 "<em>Firefox</em> provides a safe and easy web browsing experience with many "
 "useful add-ons available."
 msgstr ""
+"A <em>Firefox</em> biztonságos és egyszerű böngészést, valamint számos "
+"hasznos kiegészítőt biztosít."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:8
@@ -163,28 +185,30 @@ msgid ""
 "<em>Inkscape</em> is a vector drawing program capable of exporting to many "
 "popular formats."
 msgstr ""
+"Az <em>Inkscape</em> egy vektorgrafikus képszerkesztő program, amely sok "
+"népszerű formátumba képes exportálni."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:9
 msgid "<em>Gimp</em> is a powerful and scriptable image and photo editor."
-msgstr ""
+msgstr "A <em>Gimp</em> egy nagy tudású és bővíthető képszerkesztő program."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/documentation.html:1
 msgid "Getting Help with Edubuntu"
-msgstr ""
+msgstr "Segítség az Edubuntuhoz"
 
-#. The string "Help and Support" should be exactly as it appears in the System menu.
+#.  The string "Help and Support" should be exactly as it appears in the System menu. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:6
 msgid ""
 "If you need help, try <em>Help and Support</em> from the System menu, or the "
 "<em>Help</em> menu in most applications."
 msgstr ""
-"Ha segítségre van szüksége, válassza a Rendszer menü <em>Súgó és "
-"támogatás</em> pontját, vagy a legtöbb alkalmazás <em>Súgó</em> menüjét."
+"Ha segítségre van szüksége, válassza a Rendszer menü <em>Súgó és támogatás</"
+"em> pontját, vagy a legtöbb alkalmazás <em>Súgó</em> menüjét."
 
-#. The url "edubuntu.org/support" should not be translated
+#.  The url "edubuntu.org/support" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid ""
@@ -197,20 +221,22 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid "edubuntu.org</a>"
-msgstr ""
+msgstr "edubuntu.org</a>"
 
-#. The url "edubuntu.org/community" should not be translated
+#.  The url "edubuntu.org/community" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a "
-"href=\"http://edubuntu.com/community\">"
+"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
+"community\">"
 msgstr ""
+"Ossza meg velünk tapasztalatait az Edubuntu felhasználói élményről a <a href="
+"\"http://edubuntu.com/community\"> oldalon."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid "edubuntu.org/community</a>"
-msgstr ""
+msgstr "edubuntu.org/community</a>"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:9
@@ -218,16 +244,18 @@ msgid ""
 "Thanks for viewing our slideshow, if you selected additional options, then "
 "the installation process will take a bit longer to complete."
 msgstr ""
+"Köszönjük, hogy megnézte a diavetítésünket, a telepítés a plusz "
+"beállításoktól függően még eltarthat egy ideig."
 
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/documentation.html:11
 msgid "The installation will finish soon. We hope you enjoy Edubuntu."
-msgstr ""
+msgstr "A telepítés nemsokára véget ér. Reméljük, élvezni fogja az Edubuntut."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
 msgid "Edubuntu menu editor"
-msgstr ""
+msgstr "Edubuntu menüszerkesztő"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:6
@@ -235,6 +263,8 @@ msgid ""
 "The <em>Edubuntu Menu Editor</em> allows administrators to create and apply "
 "custom menus."
 msgstr ""
+"Az <em>Edubuntu menüszerkesztő</em> segítségével a rendszergazdák egyéni "
+"menüket készíthetnek és állíthatnak be."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:7
@@ -245,6 +275,8 @@ msgstr ""
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:8
 msgid "Settings can be applied to users or groups system-wide."
 msgstr ""
+"A beállításokat lehet felhasználónként vagy csoportonként rendszerszinten is "
+"alkalmazni."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/empathy.html:1
@@ -257,6 +289,9 @@ msgid ""
 "From the start, Edubuntu connects to online chat and broadcast services "
 "including Facebook, Twitter, Windows Live and Google Talk."
 msgstr ""
+"Az Edubuntu a kezdetektől képes csatlakozni csevegő- és közösségi "
+"szolgáltatásokhoz, beleértve a Facebookot, Twittert, Windows Live-ot és a "
+"Google Talkot."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:7
@@ -264,45 +299,48 @@ msgid ""
 "Click the envelope near the clock to log in to your accounts. New messages "
 "appear there too, so you can see what's happening at a glance."
 msgstr ""
+"A bejelentkezéshez kattintson a borítékra az óra mellett. Az új üzenetek is "
+"itt jelennek meg, így egy pillantással látja, ha történik valami."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:8
 msgid ""
 "If you're busy, click your name at the top of the screen to change your "
 "status."
-msgstr ""
-"Állapotának megváltoztatásához kattintson a nevére a képernyő tetején."
+msgstr "Állapotának megváltoztatásához kattintson a nevére a képernyő tetején."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
 msgid "FreeMind mindmapping"
-msgstr ""
+msgstr "FreeMind ötlettérkép eszköz"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:6
 msgid "<em>FreeMind</em> is a powerful mindmapping tool."
-msgstr ""
+msgstr "A <em>FreeMind</em> egy hasznos ötlettérkép eszköz."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:7
 msgid "Summarize huge amounts of data efficiently."
-msgstr ""
+msgstr "Összegezzen nagy mennyiségű adatokat hatékonyan."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:8
 msgid "Make subsections stand out with cloud bubbles and custom colours."
-msgstr ""
+msgstr "Emelje ki az alszakaszokat felhőbuborékokkal és különböző színekkel."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:9
 msgid ""
 "Organize your goals, future plans, events and more with this great tool!"
 msgstr ""
+"Szervezze meg céljait, jövőbeli terveit, eseményeit és sok mást ezzel a "
+"nagyszerű programmal."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/gbrainy.html:1
 msgid "Exercise your gray matter"
-msgstr ""
+msgstr "Használja szürkeállományát"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:6
@@ -310,13 +348,15 @@ msgid ""
 "Edubuntu ships with <em>gbrainy</em>, a platform to train memory, "
 "arithmetical and logical capabilities."
 msgstr ""
+"Az Edubuntu tartalmazza a <em>gbrainyt</em>, amellyel fejlesztheti "
+"memóriáját, számolási képességeit és logikáját."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:7
 msgid ""
 "Logic Puzzles: games designed to challenge your reasoning and thinking "
 "skills."
-msgstr ""
+msgstr "Logikai rejtvények: tegye próbára gondolkodási képességeit."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:8
@@ -324,31 +364,36 @@ msgid ""
 "Mental Calculation: games based on arithmetical operations designed to prove "
 "your mental calculation skills."
 msgstr ""
+"Fejszámolás: tesztelje fejszámolási képességeit matematikai műveleteken "
+"alapuló játékokkal."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:9
 msgid "Memory Trainers: games designed to challenge your short term memory."
-msgstr ""
+msgstr "Memóriafejlesztők: rövidtávú memóriafejlesztő játékok."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/geogebra.html:1
 msgid "Geogebra dynamic mathematics"
-msgstr ""
+msgstr "Geogebra dinamikus matematika"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/geogebra.html:6
 msgid "<em>Geogebra</em> is a dynamic geometry system."
-msgstr ""
+msgstr "A <em>Geogebra</em> egy dinamikus geometriai szoftver."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/geogebra.html:7
 msgid "Do constructions with points, vectors, segments, lines and more."
 msgstr ""
+"Szerkesszen pontokat, vektorokat, szakaszokat, egyeneseket és sok mást."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/geogebra.html:8
 msgid "Modify functions dynamically and edit equations directly."
 msgstr ""
+"Változtassa a függvényeket dinamikusan, és szerkessze közvetlenül az "
+"egyenleteket."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/geogebra.html:9
@@ -368,6 +413,8 @@ msgid ""
 "Need more software? Try the <em>Ubuntu Software Center</em> to choose from "
 "thousands of extras you can download for free."
 msgstr ""
+"Több szoftverre van szüksége? Próbálja ki az <em>Ubuntu szoftverközpontot</"
+"em>, és válogasson több ezer ingyenes alkalmazás közül."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:7
@@ -376,6 +423,9 @@ msgid ""
 "to creating music and exploring the universe. Take a look at the "
 "<em>Featured Applications</em> section for some of our favorites!"
 msgstr ""
+"Több hasznos alkalmazást talál rengeteg érdeklődési körhöz, a programozástól "
+"a zenekészítésen át az univerzum fölfedezéséig. Kedvenceinket megtalálja a "
+"<em>Kiemelt alkalmazások</em> részlegben."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:8
@@ -398,8 +448,7 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/italc.html:7
-msgid ""
-"Broadcast a desktop session to all users to demonstrate a new concept."
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -576,8 +625,7 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/sabayon.html:8
-msgid ""
-"Easily apply custom desktops that have been created to users or groups."
+msgid "Easily apply custom desktops that have been created to users or groups."
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -619,21 +667,21 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 11.04."
+msgid "Thank you for testing what will become Edubuntu 11.10."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:7
 msgid ""
-"If this is an alpha/beta candidate, please log this installation on <a "
-"href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+"If this is an alpha/beta candidate, please log this installation on <a href="
+"\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:8
 msgid ""
-"File bugs at <a "
-"href=\"http://bugs.launchpad.net\">http://bugs.launchpad.net</a>."
+"File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
+"net</a>."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -644,8 +692,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:10
 msgid ""
-"Most up to date news at <a "
-"href=\"http://edubuntu.org\">http://edubuntu.org</a>"
+"Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu.org</"
+"a>"
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -668,8 +716,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:7
 msgid ""
-"Learn basic computer skills and unleash your creativity with "
-"<em>TuxPaint</em>."
+"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
+"em>."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -713,8 +761,8 @@ msgid ""
 "going to <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
 msgstr ""
 "Iratkozzon fel az <em>Ubuntu One beállítások</em> alkalmazás elindításával, "
-"vagy látogassa meg a <a "
-"href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a> webhelyet."
+"vagy látogassa meg a <a href=\"http://one.ubuntu.com/\">http://one.ubuntu."
+"com/</a> webhelyet."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/underthehood.html:1
@@ -728,13 +776,12 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 2.6.38 boosts performance and hardware support."
+msgid "Linux 3.0 boosts performance and hardware support."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid ""
-"Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
+msgid "Xorg 1.10, Mesa 7.11 and Compiz delivers breathtaking graphics support."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -749,7 +796,7 @@ msgstr "Üdvözöljük"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 11.04."
+msgid "Thank you for choosing Edubuntu 11.10."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -771,11 +818,3 @@ msgstr ""
 #: slideshows/edubuntu/slides/welcome.html:10
 msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr ""
-
-#~ msgid ""
-#~ "Click the envelope near the clock to log in to your accounts. New messages "
-#~ "appear there, too, so you can see what's happening at a glance."
-#~ msgstr ""
-#~ "A fiókjaiba való bejelentkezéshez kattintson az óra közelében lévő "
-#~ "borítékra. Az új üzenetek is itt jelennek meg, így egy pillanat alatt "
-#~ "láthatja, hogy éppen mi zajlik."

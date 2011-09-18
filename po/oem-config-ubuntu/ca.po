@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2011-04-14 20:23+0000\n"
-"Last-Translator: Joan Duran <jodufi@gmail.com>\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
+"PO-Revision-Date: 2011-04-26 06:22+0000\n"
+"Last-Translator: Rafael Carreras <rcarreras@caliu.cat>\n"
 "Language-Team: Catalan <ca@li.org>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:38+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
-"Language: ca\n"
+"X-Launchpad-Export-Date: 2011-09-18 19:13+0000\n"
+"X-Generator: Launchpad (build 13955)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -26,15 +26,11 @@ msgstr "Personalitzeu l'Ubuntu"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
 msgid ""
-"At the heart of Ubuntu&#8217;s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and many options like your "
-"preferred fonts, colour schemes, and languages, Ubuntu is all about working "
-"for real people."
+"At the heart of Ubuntu’s philosophy is a belief that computing is for "
+"everyone. With advanced accessibility tools and options like your preferred "
+"color scheme, text size, and language, Ubuntu is all about working for real "
+"people."
 msgstr ""
-"La convicció que tothom hauria de poder utilitzar un ordinador és el punt "
-"central de la filosofia de l'Ubuntu. Eines avançades d'accessibilitat i un "
-"gran nombre d'opcions com ara tipus de lletra, esquemes de colors i "
-"llengües, fan que l'Ubuntu sigui per a gent real."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:12
@@ -43,8 +39,8 @@ msgstr "Opcions de personalització"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:16
-msgid "Appearance preferences"
-msgstr "Preferències de l'aparença"
+msgid "Appearance"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:20
@@ -65,15 +61,11 @@ msgstr "Navegueu per la web"
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
 msgid ""
 "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from Ubuntu Software Center."
+"choose alternative browsers from the Ubuntu Software Center."
 msgstr ""
-"L'Ubuntu inclou el navegador web Mozilla Firefox, el qual permet una "
-"navegació segura i ràpida. També podeu triar altres navegadors alternatius "
-"al centre de programari de l'Ubuntu."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
-#: slideshows/oem-config-ubuntu/slides/email.html:12
 #: slideshows/oem-config-ubuntu/slides/music.html:12
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
@@ -87,8 +79,7 @@ msgstr "Navegador web Firefox"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:19
-#: slideshows/oem-config-ubuntu/slides/email.html:23
-#: slideshows/oem-config-ubuntu/slides/photos.html:23
+#: slideshows/oem-config-ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "Programari compatible"
 
@@ -103,78 +94,38 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu/slides/email.html:1
-msgid "Email and chat"
-msgstr "Envieu correus i feu xats"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:8
-msgid ""
-"The Messaging Menu has lots of features to make online communication "
-"effortless. Chat helps you log in to all your instant messaging accounts "
-"including MSN, Jabber, and Facebook. Your contacts appear in the same place, "
-"ready for text or video chat."
-msgstr ""
-"El menú de missatgeria té moltes funcions per comunicar-se en línia sense "
-"esforços. El xat us ajuda a entrar a tots els vostres comptes de missatgeria "
-"instantània, incloent-hi el MSN, el Jabber i el Facebook. Els contactes "
-"apareixen en el mateix lloc, llestos per fer un xat de text o de vídeo."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:16
-msgid "Empathy IM"
-msgstr "Missatgeria instantània Empathy"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:20
-msgid "Evolution Mail"
-msgstr "Correu de l'Evolution"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:27
-msgid "Skype"
-msgstr "Skype"
-
-#. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Thank you"
-msgstr "Gràcies"
+msgid "Any questions?"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
 msgid ""
-"Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, so "
-"don&#8217;t hesitate to explore! If you have any questions, try the Help "
-"menu in most applications or browse to <a "
+"Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
+"to get an answer about Ubuntu. With most questions already answered, and "
+"thousands of people ready to help, you’ll be sorted in no time at all. And "
+"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
+"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
 "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options. We hope you enjoy Ubuntu."
+"your other options."
 msgstr ""
-"Us agraïm de nou que hàgiu triat l'Ubuntu. L'Ubuntu està dissenyat per ser "
-"fàcil i segur, per la qual cosa no dubteu en explorar-lo. Si teniu alguna "
-"pregunta, utilitzeu el menú d'ajuda que hi ha a la majoria d'aplicacions, o "
-"bé aneu al lloc web <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> (en anglès) "
-"per tal de conèixer altres opcions. Esperem que gaudiu de l'Ubuntu!"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:1
-msgid "Mobilise your digital life"
-msgstr "Mobilitzeu la vostra vida digital"
+msgid "Your own personal cloud"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:8
 msgid ""
-"All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-"One</a> account. Ubuntu One allows you to sync all kinds of files online so "
-"you can access them anywhere. Sync bookmarks, contacts, music, and pictures "
-"across all your computers. Take everything everywhere with Ubuntu One."
+"An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> account "
+"gives you 5GB of cloud storage, so you can store and sync your files and "
+"photos across devices and access them wherever you are in the world. Easily "
+"share them with friends, family and colleagues. Take a photo on your mobile "
+"phone and immediately see it on your desktop, or add <a href=\"https://one."
+"ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
+"music on the move."
 msgstr ""
-"Tots els usuaris de l'Ubuntu obtenen un compte gratuït de l'<a "
-"href=\"https://one.ubuntu.com/\">Ubuntu One</a>. L'Ubuntu One us permet "
-"sincronitzar qualsevol tipus de fitxer en línia, de manera que hi pugueu "
-"accedir des de qualsevol lloc. Sincronitzeu adreces d'interès, música i "
-"imatges entre tots els vostres ordinadors. Dueu-ho tot a tot arreu amb "
-"l'Ubuntu One."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:1
@@ -185,15 +136,10 @@ msgstr "Porteu la vostra música sempre a sobre"
 #: slideshows/oem-config-ubuntu/slides/music.html:8
 msgid ""
 "Ubuntu comes with the amazing Banshee music player. With advanced playback "
-"options and the Ubuntu One music store built in, it&#8217;s simple to queue "
-"up the perfect songs. And it works great with CDs and portable music "
-"players, so you can enjoy all your music wherever you go."
+"options and the Ubuntu One music store built in, it’s simple to queue up the "
+"perfect songs. And it works great with CDs and portable music players, so "
+"you can enjoy all your music wherever you go."
 msgstr ""
-"L'Ubuntu incorpora l'increïble reproductor de música Banshee. Amb opcions "
-"avançades de reproducció i la botiga de música integrada de l'Ubuntu One, és "
-"molt senzill afegir les millors cançons a la cua de reproducció. Funciona "
-"perfectament amb CD i reproductors de música portàtils, de manera que podreu "
-"gaudir de tota la vostra música a tot arreu on sigueu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:16
@@ -207,21 +153,17 @@ msgstr "Botiga de música de l'Ubuntu One"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
-msgid "Write and present with ease"
-msgstr "Escriviu i presenteu amb facilitat"
+msgid "Write and present for free"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
 msgid ""
-"LibreOffice is a free office suite packed with everything you&#8217;ll need "
-"to create impressive documents, spreadsheets, and presentations. LibreOffice "
+"LibreOffice is a free office suite packed with everything you’ll need to "
+"create impressive documents, spreadsheets, and presentations. LibreOffice "
 "tries its best to work with other office software, and it uses the "
 "OpenDocument standards for far-reaching compatibility."
 msgstr ""
-"El LibreOffice és un paquet ofimàtic lliure que duu tot el que cal per crear "
-"documents, fulls de càlcul i presentacions impressionants. Funciona amb "
-"altre programari ofimàtic de manera remarcable i utilitza els estàndards de "
-"l'OpenDocument per assolir una gran compatibilitat."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
@@ -242,15 +184,10 @@ msgstr "Gaudiu de les vostres fotografies"
 #: slideshows/oem-config-ubuntu/slides/photos.html:8
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it&#8217;s easy to share "
-"them and keep them safe. If you&#8217;re feeling creative, you can try lots "
-"of photo apps from the Ubuntu Software Centre."
+"camera or a phone to transfer your photos, then it’s easy to share them and "
+"keep them safe. If you’re feeling creative, you can try lots of photo apps "
+"from the Ubuntu Software Center."
 msgstr ""
-"El Shotwell és un gestor de fotografies realment útil, sempre a punt per "
-"funcionar amb tots els vostres ginys. Connecteu-hi una càmera o un telèfon "
-"per transferir fotografies, de manera que sigui fàcil compartir-les i desar-"
-"les de manera segura. Si us sentiu creatiu, podeu provar un munt "
-"d'aplicacions fotogràfiques al Centre de programari de l'Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:16
@@ -258,32 +195,27 @@ msgid "Shotwell Photo Manager"
 msgstr "Gestor fotogràfic Shotwell"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/photos.html:20
-msgid "Pitivi Video Editor"
-msgstr "Editor de vídeo Pitivi"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/photos.html:27
+#: slideshows/oem-config-ubuntu/slides/photos.html:23
 msgid "GIMP Image Editor"
 msgstr "Editor d'imatges GIMP"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/photos.html:27
+msgid "Pitivi Video Editor"
+msgstr "Editor de vídeo Pitivi"
+
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/social.html:1
-msgid "Social from the start"
-msgstr "Social de bon principi"
+msgid "Stay connected"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:8
 msgid ""
-"The Me Menu is your instant connection to web services like Facebook and "
-"Twitter. Just set up your accounts to log in and share with friends. "
-"Anything sent to you appears in the Messaging Menu so you can reply when you "
-"want."
+"The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+"messages from all applications and social networks. See at a glance when "
+"there’s something new to read, regardless how it arrived."
 msgstr ""
-"El menú personal és la vostra connexió instantània a serveis web com el "
-"Facebook i el Twitter. Només us cal configurar els vostres comptes per "
-"entrar-hi i compartir amb els amics. Tot el que rebeu apareixerà al menú de "
-"comunicacions, de manera que pugueu respondre quan vulgueu."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -313,224 +245,187 @@ msgstr "Trobeu encara més programari"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
 msgid ""
-"The Ubuntu Software Centre has thousands of new applications ready for your "
+"The Ubuntu Software Center has thousands of new applications ready for your "
 "computer. Just type what you want or explore the categories like games, "
-"science, and education. It is simple to download new stuff and write reviews "
+"science, and education. It is easy to download new stuff and write reviews "
 "to share your experiences."
 msgstr ""
-"El Centre de programari de l'Ubuntu té milers d'aplicacions noves preparades "
-"per utilitzar-les al vostre ordinador. Només cal que escriviu què voleu o "
-"n'exploreu les categories, com ara jocs, ciència i educació. És fàcil baixar "
-"aplicacions noves i escriure ressenyes per compartir les experiències."
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/usc.html:12
-msgid "Some of our favourites"
-msgstr "Algunes de les nostres preferides"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:16
-msgid "Stellarium"
-msgstr "Stellarium"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:20
-msgid "Inkscape"
-msgstr "Inkscape"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:24
-msgid "Frozen Bubble"
-msgstr "Frozen Bubble"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
 msgid "Welcome"
-msgstr "Vos donem la benvinguda"
+msgstr "Us donem la benvinguda"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 11.04. This version brings some exciting "
+"Thank you for choosing Ubuntu 11.10. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
-"Us agraïm que hàgiu triat l'Ubuntu 11.04. Aquesta versió porta diversos "
-"canvis interessants, com ara una interfície d'escriptori totalment "
-"redissenyada, el Unity. Mentre s'instal·la l'Ubuntu, aquesta presentació de "
-"diapositives us la mostrarà."
 
-#~ msgid "Customize Ubuntu"
-#~ msgstr "Personalitzeu l'Ubuntu"
-
-#~ msgid "Customization options"
-#~ msgstr "Opcions de personalització"
-
-#~ msgid "Google Chrome"
-#~ msgstr "Google Chrome"
+#~ msgid "Appearance preferences"
+#~ msgstr "Preferències de l'aparença"
 
 #~ msgid ""
-#~ "Use Empathy to get chatting with your accounts from Yahoo, Facebook, Gmail, "
-#~ "MSN, Jabber and many more. Set your status and reach all your instant "
-#~ "messaging contacts from a single place."
+#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+#~ "choose alternative browsers from Ubuntu Software Center."
 #~ msgstr ""
-#~ "Utilitzeu l'Empathy per fer xats amb els vostres comptes del Yahoo, del "
-#~ "Facebook, del Gmail, de l'MSN i molts més. Definiu el vostre estat i "
-#~ "comuniqueu-vos amb tots els vostres contactes des d'un sol lloc."
+#~ "L'Ubuntu inclou el navegador web Mozilla Firefox, el qual permet una "
+#~ "navegació segura i ràpida. També podeu triar altres navegadors "
+#~ "alternatius al centre de programari de l'Ubuntu."
 
-#~ msgid "Gwibber Microblogging"
-#~ msgstr "Microblocs del Gwibber"
+#~ msgid "Email and chat"
+#~ msgstr "Envieu correus i feu xats"
 
-#~ msgid "Get help with Ubuntu"
-#~ msgstr "Obteniu ajuda per a l'Ubuntu"
+#~ msgid "Empathy IM"
+#~ msgstr "Missatgeria instantània Empathy"
+
+#~ msgid "Evolution Mail"
+#~ msgstr "Correu de l'Evolution"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "Social from the start"
+#~ msgstr "Social de bon principi"
 
 #~ msgid ""
-#~ "Ubuntu is designed to be easy and safe, so don&#8217;t hesitate to explore! "
-#~ "If you have any questions, try the Help menu in most applications or <a "
-#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-#~ "your other options. We hope you enjoy Ubuntu."
+#~ "Thank you for choosing Ubuntu 11.04. This version brings some exciting "
+#~ "changes including a totally redesigned desktop interface, Unity. While "
+#~ "Ubuntu is configured, this slideshow will show you around."
 #~ msgstr ""
-#~ "L'Ubuntu està dissenyat per a ser fàcil. No dubteu en explorar-lo! Si teniu "
-#~ "qualsevol dubte, a la majoria d'aplicacions podeu anar al menú d'Ajuda o bé "
-#~ "al lloc web <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> "
-#~ "(en anglés) per explorar altres opcions. Esperem que gaudiu de l'Ubuntu."
+#~ "Us agraïm que hàgiu triat l'Ubuntu 11.04. Aquesta versió porta diversos "
+#~ "canvis interessants, com ara una interfície d'escriptori totalment "
+#~ "redissenyada, el Unity. Mentre s'instal·la l'Ubuntu, aquesta presentació "
+#~ "de diapositives us la mostrarà."
 
-#~ msgid "Mobilize your digital life"
+#~ msgid "Thank you"
+#~ msgstr "Gràcies"
+
+#~ msgid "Mobilise your digital life"
 #~ msgstr "Mobilitzeu la vostra vida digital"
 
-#~ msgid "Buy music while you listen"
-#~ msgstr "Compreu música mentre l'escolteu"
+#~ msgid "Write and present with ease"
+#~ msgstr "Escriviu i presenteu amb facilitat"
+
+#~ msgid "Some of our favourites"
+#~ msgstr "Algunes de les nostres preferides"
+
+#~ msgid "Inkscape"
+#~ msgstr "Inkscape"
+
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "Frozen Bubble"
+#~ msgstr "Frozen Bubble"
 
 #~ msgid ""
-#~ "Ubuntu&#8217;s music player includes a built-in store, so you can buy and "
-#~ "download new tracks with a few clicks. Thanks to Ubuntu One&#8217;s file-"
-#~ "syncing magic you can store your music online and listen to it from other "
-#~ "computers. You can add your music to a portable music player, too; just plug "
-#~ "it in to get started."
+#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
+#~ "for everyone. With advanced accessibility tools and many options like "
+#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
+#~ "working for real people."
 #~ msgstr ""
-#~ "El reproductor de música de l'Ubuntu One inclou una botiga integrada, de "
-#~ "manera que podreu comprar i baixar cançons noves amb un parell de clics del "
-#~ "ratolí. Gràcies a la funció de sincronització de fitxers de l'Ubuntu One, "
-#~ "podeu emmagatzemar la vostra música en línia i escoltar-la des d'altres "
-#~ "ordinadors. També podeu afegir la vostra música a un reproductor de música "
-#~ "portàtil: només cal que el connecteu a l'ordinador per començar."
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Reproductor de música Rhythmbox"
-
-#~ msgid "Create documents and presentations"
-#~ msgstr "Creeu documents i presentacions"
+#~ "La convicció que tothom hauria de poder utilitzar un ordinador és el punt "
+#~ "central de la filosofia de l'Ubuntu. Eines avançades d'accessibilitat i "
+#~ "un gran nombre d'opcions com ara tipus de lletra, esquemes de colors i "
+#~ "llengües, fan que l'Ubuntu sigui per a gent real."
 
 #~ msgid ""
-#~ "OpenOffice.org is fully compatible with Microsoft Office and has everything "
-#~ "you need to create professional documents, spreadsheets and presentations. "
-#~ "OpenOffice.org is easy to use, packed with the features you need and "
-#~ "completely free."
+#~ "The Messaging Menu has lots of features to make online communication "
+#~ "effortless. Chat helps you log in to all your instant messaging accounts "
+#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
+#~ "place, ready for text or video chat."
 #~ msgstr ""
-#~ "L'OpenOffice.org és totalment compatible amb l'Office de Microsoft, i té tot "
-#~ "el que vos fa falta per crear documents professionals, fulls de càlcul i "
-#~ "presentacions. L'OpenOffice.org és fàcil d'utilitzar, conté totes les "
-#~ "funcions que necessiteu, i és completament lliure."
-
-#~ msgid "OpenOffice.org"
-#~ msgstr "OpenOffice.org"
-
-#~ msgid "View, store and edit photos"
-#~ msgstr "Visualitzeu, emmagatzemeu i editeu fotografies"
-
-#~ msgid ""
-#~ "Ubuntu is ready for all your gadgets. Just connect your phones or cameras to "
-#~ "get started. Shotwell makes it easy to organize your digital photos and "
-#~ "share them on Picasa, Facebook or Flickr. For advanced photo editing, you "
-#~ "can find more free applications in Ubuntu Software Center."
-#~ msgstr ""
-#~ "L'Ubuntu és compatible amb tots els vostres ginys. Simplement connecteu els "
-#~ "vostres telèfons mòbils o càmeres per començar. El Shotwell vos permet "
-#~ "organitzar les fotografies digitals fàcilment i compartir-les al Picasa, al "
-#~ "Facebook o al Flickr. Si vos calen funcions més avançades d'edició de "
-#~ "fotografia, també trobareu més aplicacions lliures al centre de programari "
-#~ "de l'Ubuntu."
-
-#~ msgid ""
-#~ "With the Me Menu, being sociable has never been so easy. Use it to instantly "
-#~ "post updates on sites like Facebook and Twitter. New messages appear in the "
-#~ "messaging menu so you can respond when you want."
-#~ msgstr ""
-#~ "Mai fou tan fàcil ser sociable gràcies al menú personal. Utilitzeu-lo per a "
-#~ "enviar actualitzacions instantànies a llocs web com ara el Facebook i el "
-#~ "Twitter. Els missatges nous apareixen al menú de missatgeria, de manera que "
-#~ "podreu respondre quan vulgueu."
-
-#~ msgid "Get free software"
-#~ msgstr "Obteniu programari lliure"
-
-#~ msgid ""
-#~ "Ubuntu Software Center gives you instant access to thousands of free, open-"
-#~ "source applications. Browse categories including Education, Games, Graphics "
-#~ "and Science. Software is easy to find, easy to install and easy to remove."
-#~ msgstr ""
-#~ "El centre de programari de l'Ubuntu vos dóna accés instantani a milers "
-#~ "d'aplicacions de programari lliure gratuïtes. Proveu de navegar per les "
-#~ "categories d'educació, jocs, gràfics i ciència. El programari és fàcil de "
-#~ "trobar, fàcil d'instal·lar i de suprimir."
-
-#~ msgid "Featured software"
-#~ msgstr "Programari destacat"
-
-#~ msgid "GIMP – Advanced image editing for photographers and graphic designers"
-#~ msgstr ""
-#~ "El GIMP - un editor d'imatges avançat per a fotògrafs i dissenyadors gràfics"
-
-#~ msgid "Jokosher – Your very own home recording studio"
-#~ msgstr "El Jokosher - el vostre estudi d'enregistrament personal a casa"
-
-#~ msgid "Stellarium – A 3D planetarium for your computer"
-#~ msgstr "L'Stellarium – un planetari en 3D per al vostre ordinador"
-
-#~ msgid ""
-#~ "Thank you for choosing Ubuntu 10.10. This version brings some exciting "
-#~ "changes including a new sound menu, the Shotwell photo manager and features "
-#~ "that make it even easier to find and install new software. While Ubuntu is "
-#~ "installed, this slideshow will show you around."
-#~ msgstr ""
-#~ "Vos agraïm que hàgeu triat l'Ubuntu 10.10. Esta versió duu molts canvis "
-#~ "emocionants, els quals inclouen un menú de so nou, el gestor fotogràfic "
-#~ "Shotwell i altres funcions que fan que cercar i instal·lar programari nou "
-#~ "encara siga més fàcil. Esta presentació vos les mostrarà mentre s'instal·la "
-#~ "l'Ubuntu."
+#~ "El menú de missatgeria té moltes funcions per comunicar-se en línia sense "
+#~ "esforços. El xat us ajuda a entrar a tots els vostres comptes de "
+#~ "missatgeria instantània, incloent-hi el MSN, el Jabber i el Facebook. Els "
+#~ "contactes apareixen en el mateix lloc, llestos per fer un xat de text o "
+#~ "de vídeo."
 
 #~ msgid ""
 #~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online so "
-#~ "you can access them anywhere. Sync bookmarks, contacts, music and pictures "
-#~ "across all your computers. Take everything everywhere with Ubuntu One."
+#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
+#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
+#~ "pictures across all your computers. Take everything everywhere with "
+#~ "Ubuntu One."
 #~ msgstr ""
-#~ "Tot usuari de l'Ubuntu rep un compte gratuït de l'<a "
-#~ "href=\"https://one.ubuntu.com/\">Ubuntu One</a>. L'Ubuntu One us permetrà "
-#~ "sincronitzar tot tipus de fitxers en línia, de manera que hi pugueu accedir "
-#~ "des de qualsevol lloc. Sincronitzeu les adreces d'interès, contactes, música "
-#~ "i fotografies en tots els vostres ordinadors. Dueu-ho tot a tot arreu amb "
+#~ "Tots els usuaris de l'Ubuntu obtenen un compte gratuït de l'<a href="
+#~ "\"https://one.ubuntu.com/\">Ubuntu One</a>. L'Ubuntu One us permet "
+#~ "sincronitzar qualsevol tipus de fitxer en línia, de manera que hi pugueu "
+#~ "accedir des de qualsevol lloc. Sincronitzeu adreces d'interès, música i "
+#~ "imatges entre tots els vostres ordinadors. Dueu-ho tot a tot arreu amb "
 #~ "l'Ubuntu One."
 
 #~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is the belief that computing is "
-#~ "for everyone. With advanced accessibility tools and hundreds of options like "
-#~ "your preferred fonts, color schemes and languages, Ubuntu provides the "
-#~ "flexibility to fit real people, whoever they are."
+#~ "Ubuntu comes with the amazing Banshee music player. With advanced "
+#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
+#~ "simple to queue up the perfect songs. And it works great with CDs and "
+#~ "portable music players, so you can enjoy all your music wherever you go."
 #~ msgstr ""
-#~ "La convicció que tothom hauria de poder utilitzar un ordinador és el punt "
-#~ "central de la filosofia de l'Ubuntu. Gràcies a eines avançades "
-#~ "d'accessibilitat i centenars d'opcions com ara tipus de lletra, esquemes de "
-#~ "colors i llengües, l'Ubuntu proporciona la flexibilitat d'adaptar-se a les "
-#~ "persones reals, siguin qui siguin."
+#~ "L'Ubuntu incorpora l'increïble reproductor de música Banshee. Amb opcions "
+#~ "avançades de reproducció i la botiga de música integrada de l'Ubuntu One, "
+#~ "és molt senzill afegir les millors cançons a la cua de reproducció. "
+#~ "Funciona perfectament amb CD i reproductors de música portàtils, de "
+#~ "manera que podreu gaudir de tota la vostra música a tot arreu on sigueu."
 
 #~ msgid ""
-#~ "LibreOffice is fully compatible with Microsoft Office and has everything you "
-#~ "need to create professional documents, spreadsheets and presentations. "
-#~ "LibreOffice is easy to use, packed with the features you need and completely "
-#~ "free."
+#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
+#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
+#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
+#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
+#~ "hope you enjoy Ubuntu."
 #~ msgstr ""
-#~ "El LibreOffice és totalment compatible amb l'Office de Microsoft i "
-#~ "proporciona tot el que cal per crear documents, fulls de càlcul i "
-#~ "presentacions professionals. El LibreOffice és fàcil de fer servir, té tot "
-#~ "el que necessiteu i és completament lliure."
+#~ "Us agraïm de nou que hàgiu triat l'Ubuntu. L'Ubuntu està dissenyat per "
+#~ "ser fàcil i segur, per la qual cosa no dubteu en explorar-lo. Si teniu "
+#~ "alguna pregunta, utilitzeu el menú d'ajuda que hi ha a la majoria "
+#~ "d'aplicacions, o bé aneu al lloc web <a href=\"http://www.ubuntu.com/"
+#~ "support\">ubuntu.com/support</a> (en anglès) per tal de conèixer altres "
+#~ "opcions. Esperem que gaudiu de l'Ubuntu!"
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
+#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
+#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
+#~ "try lots of photo apps from the Ubuntu Software Centre."
+#~ msgstr ""
+#~ "El Shotwell és un gestor de fotografies realment útil, sempre a punt per "
+#~ "funcionar amb tots els vostres ginys. Connecteu-hi una càmera o un "
+#~ "telèfon per transferir fotografies, de manera que sigui fàcil compartir-"
+#~ "les i desar-les de manera segura. Si us sentiu creatiu, podeu provar un "
+#~ "munt d'aplicacions fotogràfiques al Centre de programari de l'Ubuntu."
+
+#~ msgid ""
+#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
+#~ "need to create impressive documents, spreadsheets, and presentations. "
+#~ "LibreOffice tries its best to work with other office software, and it "
+#~ "uses the OpenDocument standards for far-reaching compatibility."
+#~ msgstr ""
+#~ "El LibreOffice és un paquet ofimàtic lliure que duu tot el que cal per "
+#~ "crear documents, fulls de càlcul i presentacions impressionants. Funciona "
+#~ "amb altre programari ofimàtic de manera remarcable i utilitza els "
+#~ "estàndards de l'OpenDocument per assolir una gran compatibilitat."
+
+#~ msgid ""
+#~ "The Ubuntu Software Centre has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is simple to download new stuff and "
+#~ "write reviews to share your experiences."
+#~ msgstr ""
+#~ "El Centre de programari de l'Ubuntu té milers d'aplicacions noves "
+#~ "preparades per utilitzar-les al vostre ordinador. Només cal que escriviu "
+#~ "què voleu o n'exploreu les categories, com ara jocs, ciència i educació. "
+#~ "És fàcil baixar aplicacions noves i escriure ressenyes per compartir les "
+#~ "experiències."
+
+#~ msgid ""
+#~ "The Me Menu is your instant connection to web services like Facebook and "
+#~ "Twitter. Just set up your accounts to log in and share with friends. "
+#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
+#~ "you want."
+#~ msgstr ""
+#~ "El menú personal és la vostra connexió instantània a serveis web com el "
+#~ "Facebook i el Twitter. Només us cal configurar els vostres comptes per "
+#~ "entrar-hi i compartir amb els amics. Tot el que rebeu apareixerà al menú "
+#~ "de comunicacions, de manera que pugueu respondre quan vulgueu."

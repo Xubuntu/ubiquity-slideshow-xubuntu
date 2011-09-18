@@ -8,23 +8,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2011-04-13 08:57+0000\n"
-"Last-Translator: yurchor <Unknown>\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
+"PO-Revision-Date: 2011-08-26 07:41+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@gmail.com>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
+"Language: ukPlural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:38+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
-"Language: ukPlural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2011-09-18 19:12+0000\n"
+"X-Generator: Launchpad (build 13955)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
 msgid "Accessibility in Edubuntu"
 msgstr "Доступність у Edubuntu"
 
-#. "your" refers to a large group that includes the reader.
+#.  "your" refers to a large group that includes the reader. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:6
 msgid ""
@@ -36,8 +36,8 @@ msgstr ""
 "фізичних можливостей. Отже творці дистрибутива додали у нього програми, які "
 "роблять Edubuntu однією з найдоступніших операційних систем у світі."
 
-#. The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#. Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention.
+#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
+#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:7
 msgid ""
@@ -52,8 +52,8 @@ msgstr ""
 "програму <em>Orca</em> для озвучення тексту на екрані та програму для "
 "автоматичного натискання кнопок миші."
 
-#. As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#. Preferences > Appearance. Certain words were kept the same to make the menu item discoverable.
+#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
+#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:8
 msgid ""
@@ -104,8 +104,8 @@ msgstr "Калькулятор Gnome"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome "
-"Calculator</em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
+"em>."
 msgstr ""
 "Частиною Edubuntu є найсвіжіша версія потужного <em>Калькулятора Gnome</em>."
 
@@ -207,18 +207,18 @@ msgstr ""
 msgid "Getting Help with Edubuntu"
 msgstr "Отримання довідкових даних щодо Edubuntu"
 
-#. The string "Help and Support" should be exactly as it appears in the System menu.
+#.  The string "Help and Support" should be exactly as it appears in the System menu. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:6
 msgid ""
 "If you need help, try <em>Help and Support</em> from the System menu, or the "
 "<em>Help</em> menu in most applications."
 msgstr ""
-"Якщо вам потрібна довідка, скористайтеся пунктом <em>Довідка і "
-"підтримка</em> у меню <em>Система</em> або відповідний пунктом меню "
-"<em>Довідка</em> більшості програм."
+"Якщо вам потрібна довідка, скористайтеся пунктом <em>Довідка і підтримка</"
+"em> у меню <em>Система</em> або відповідний пунктом меню <em>Довідка</em> "
+"більшості програм."
 
-#. The url "edubuntu.org/support" should not be translated
+#.  The url "edubuntu.org/support" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid ""
@@ -230,20 +230,20 @@ msgstr ""
 "Окрім докладної довідки до програмного забезпечення, спільнота Edubuntu "
 "надає безкоштовну технічну підтримку за допомогою інтернету. Передбачено "
 "також комерційну підтримку від компанії Canonical, її партнерів та "
-"сертифікованих компаній. Докладніше про це за адресою <a "
-"href=\"http://www.edubuntu.org/documentation\">ubuntu.com/support</a"
+"сертифікованих компаній. Докладніше про це за адресою <a href=\"http://www."
+"edubuntu.org/documentation\">ubuntu.com/support</a"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid "edubuntu.org</a>"
 msgstr "edubuntu.org</a>"
 
-#. The url "edubuntu.org/community" should not be translated
+#.  The url "edubuntu.org/community" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a "
-"href=\"http://edubuntu.com/community\">"
+"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
+"community\">"
 msgstr ""
 "Повідомити нам про ваші враження від роботи у Edubuntu можна на сторінці <a "
 "href=\"http://edubuntu.com/community\">"
@@ -478,8 +478,7 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/italc.html:7
-msgid ""
-"Broadcast a desktop session to all users to demonstrate a new concept."
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 "Надішліть зображення з вашого екрана всім користувачам у класі з метою "
 "демонстрації нового поняття."
@@ -515,8 +514,7 @@ msgstr ""
 #: slideshows/edubuntu/slides/kdeedu.html:8
 msgid ""
 "Improve mathematical skills with fraction, geometry and algebra software."
-msgstr ""
-"Передбачено програми з навчання діям з дробами, геометрії та алгебри."
+msgstr "Передбачено програми з навчання діям з дробами, геометрії та алгебри."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:9
@@ -692,8 +690,7 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/sabayon.html:8
-msgid ""
-"Easily apply custom desktops that have been created to users or groups."
+msgid "Easily apply custom desktops that have been created to users or groups."
 msgstr ""
 "Просте застосування створених записів нетипових налаштувань до користувачів "
 "та груп."
@@ -745,26 +742,26 @@ msgstr "Вітаємо і дякуємо"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 11.04."
-msgstr "Дякуємо за те, що ви користуєтеся тим, що стане Edubuntu 11.04."
+msgid "Thank you for testing what will become Edubuntu 11.10."
+msgstr "Дякуємо за те, що ви користуєтеся тим, що стане Edubuntu 11.10."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:7
 msgid ""
-"If this is an alpha/beta candidate, please log this installation on <a "
-"href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+"If this is an alpha/beta candidate, please log this installation on <a href="
+"\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 msgstr ""
-"Якщо це тестова версія, повідомляйте про встановлення на <a "
-"href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+"Якщо це тестова версія, повідомляйте про встановлення на <a href=\"http://"
+"iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:8
 msgid ""
-"File bugs at <a "
-"href=\"http://bugs.launchpad.net\">http://bugs.launchpad.net</a>."
+"File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
+"net</a>."
 msgstr ""
-"Про вади повідомляйте на сторінці <a "
-"href=\"http://bugs.launchpad.net\">http://bugs.launchpad.net</a>."
+"Про вади повідомляйте на сторінці <a href=\"http://bugs.launchpad.net"
+"\">http://bugs.launchpad.net</a>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:9
@@ -774,11 +771,11 @@ msgstr "Спілкуйтеся з нами на каналі #edubuntu серв�
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:10
 msgid ""
-"Most up to date news at <a "
-"href=\"http://edubuntu.org\">http://edubuntu.org</a>"
+"Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu.org</"
+"a>"
 msgstr ""
-"Останні новини можна знайти на сторінці <a "
-"href=\"http://edubuntu.org\">http://edubuntu.org</a>"
+"Останні новини можна знайти на сторінці <a href=\"http://edubuntu.org"
+"\">http://edubuntu.org</a>"
 
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/testing.html:12
@@ -802,8 +799,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:7
 msgid ""
-"Learn basic computer skills and unleash your creativity with "
-"<em>TuxPaint</em>."
+"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
+"em>."
 msgstr ""
 "Оволодійте базовими навичками роботи з комп’ютером та продемонструйте ваші "
 "творчі можливості за допомогою <em>TuxPaint</em>."
@@ -859,8 +856,8 @@ msgid ""
 "going to <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
 msgstr ""
 "Підпишіться на послугу за допомогою програми <em>Ubuntu One</em> або "
-"відповідної сторінки у Інтернеті: <a "
-"href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
+"відповідної сторінки у Інтернеті: <a href=\"http://one.ubuntu.com/\">http://"
+"one.ubuntu.com/</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/underthehood.html:1
@@ -876,16 +873,15 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 2.6.38 boosts performance and hardware support."
-msgstr "Ядро Linux 2.6.38 покращує швидкодію та підтримку обладнання."
+msgid "Linux 3.0 boosts performance and hardware support."
+msgstr "Ядро Linux 3.0 покращує швидкодію та підтримку обладнання."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid ""
-"Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
+msgid "Xorg 1.10, Mesa 7.11 and Compiz delivers breathtaking graphics support."
 msgstr ""
-"Xorg 1.10, Mesa 7.10 та Compiz забезпечують чудову підтримку роботи у "
-"графічному режимі."
+"Xorg 1.10, Mesa 7.11 та Compiz забезпечують чудову роботу у графічному \r\n"
+"середовищі."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:9
@@ -900,8 +896,8 @@ msgstr "Ласкаво просимо!"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 11.04."
-msgstr "Дякуємо за те, що вибрали Edubuntu 11.04."
+msgid "Thank you for choosing Edubuntu 11.10."
+msgstr "Дякуємо за те, що вибрали Edubuntu 11.10."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:7
@@ -929,171 +925,17 @@ msgstr ""
 msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr "Користуватися Edubuntu дуже просто. Переконайтеся у цьому самі!"
 
-#~ msgid "Play and Learn"
-#~ msgstr "Гра, поєднана з навчанням"
+#~ msgid "Thank you for choosing Edubuntu 11.04."
+#~ msgstr "Дякуємо за те, що вибрали Edubuntu 11.04."
+
+#~ msgid "Thank you for testing what will become Edubuntu 11.04."
+#~ msgstr "Дякуємо за те, що ви користуєтеся тим, що стане Edubuntu 11.04."
+
+#~ msgid "Linux 2.6.38 boosts performance and hardware support."
+#~ msgstr "Ядро Linux 2.6.38 покращує швидкодію та підтримку обладнання."
 
 #~ msgid ""
-#~ "Also included are geography games, turtle programming, a typing tutor, "
-#~ "memory excercises and more!"
+#~ "Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
 #~ msgstr ""
-#~ "Крім того, можна скористатися програмами з вивчення географії, "
-#~ "програмування, друку наосліп, потренувати пам’ять тощо!"
-
-#~ msgid "Sabayon User Profile Editor"
-#~ msgstr "Редактор профілів користувачів Sabayon"
-
-#~ msgid "iTalc"
-#~ msgstr "iTalc"
-
-#~ msgid "Monitor user desktops."
-#~ msgstr "Керування діями користувачів."
-
-#~ msgid "Edubuntu Menu Editor"
-#~ msgstr "Редактор меню Edubuntu"
-
-#~ msgid "Menus are created and applied using an easy to use menu editor.."
-#~ msgstr ""
-#~ "Меню можна створити і призначити за допомогою простого у користуванні "
-#~ "редактора меню."
-
-#~ msgid "Excercise your gray matter"
-#~ msgstr "Тренуйте свої розумові здібності"
-
-#~ msgid ""
-#~ "Click the envelope near the clock to log in to your accounts. New messages "
-#~ "appear there, too, so you can see what's happening at a glance."
-#~ msgstr ""
-#~ "Натисніть пункт з зображенням конверта, розташований поруч з годинником, щоб "
-#~ "увійти до ваших облікових записів. За допомогою цього пункту система "
-#~ "сповіщатиме вас про надходження нових повідомлень."
-
-#~ msgid "iTalc Intelligent Teaching"
-#~ msgstr "Сучасне навчання за допомогою iTalc"
-
-#~ msgid "<em>Gnome Nanny</em> provides parental controls in Edubuntu."
-#~ msgstr ""
-#~ "Захистити користувачів від небажаних впливів можна за допомогою <em>Gnome "
-#~ "Nanny</em> Edubuntu."
-
-#~ msgid ""
-#~ "There are powerful applications for all sorts of interests, from programming "
-#~ "to creating music and exploring the universe. Take a look at the "
-#~ "<em>Featured Applications</em> section for some of our favourites!"
-#~ msgstr ""
-#~ "У наборі програм ви знайдете програми на будь-який смак, від програмування "
-#~ "до створення музики та дослідження Всесвіту. Зверніть увагу на розділ "
-#~ "<em>Рекомендовані програми</em>, щоб побачити деякі найкращі з наших програм!"
-
-#~ msgid "Launch browsers in full-sceen mode in kiosk environments."
-#~ msgstr ""
-#~ "Запускайте переглядачі у повноекранному режимі у середовищах, подібних до "
-#~ "інтернет-кіосків."
-
-#~ msgid ""
-#~ "Share folders using your synchronised address book. Project collaboration "
-#~ "has never been easier."
-#~ msgstr ""
-#~ "За допомогою вашої синхронізованої адресної книги ви зможете надавати у "
-#~ "спільне користування ваші теки адрес. Спільна робота над проектами ніколи ще "
-#~ "не була простішою."
-
-#~ msgid ""
-#~ "Shuffle between your laptop, netbook, and company desktop and find "
-#~ "everything you need automatically synchronised. Your documents, music, "
-#~ "bookmarks, address book, and notes – everything goes where you go with "
-#~ "<em>Ubuntu One</em>."
-#~ msgstr ""
-#~ "Користуйтесь ноутбуком, нетбуком чи офісним комп’ютером, — всі потрібні вам "
-#~ "дані автоматично синхронізовано. Ваші документи, музика, закладки, адресна "
-#~ "книга та нотатки — все буде під рукою з <em>Ubuntu One</em>."
-
-#~ msgid "Calibre e-Book Manager"
-#~ msgstr "Програма для керування збірками книжок Calibre"
-
-#~ msgid "Geogebra Dynamic Mathematics"
-#~ msgstr "Інтерактивна математика Geogebra"
-
-#~ msgid "FreeMind Mindmapping"
-#~ msgstr "Програма для роботи з картами пам’яті FreeMind"
-
-#~ msgid "Summarize huge amounts of data quickly and easily."
-#~ msgstr "Створення резюме великих об’ємів даних швидко і просто."
-
-#~ msgid "<em>FreeMind</em> is a mindmapping tool for everyone."
-#~ msgstr ""
-#~ "<em>FreeMind</em> — програма для роботи з картами пам’яті для будь-кого."
-
-#~ msgid "LibreCAD Computer Aided Drawing"
-#~ msgstr "Креслення за допомогою комп’ютера з LibreCAD"
-
-#~ msgid ""
-#~ "<em>LibreCAD</em>, is a an application for 2D Computer Aided Design (CAD)."
-#~ msgstr ""
-#~ "<em>LibreCAD</em> — програма для побудови креслень на площині за допомогою "
-#~ "комп’ютера (CAD)."
-
-#~ msgid "Support for many geometric contstructions is provided."
-#~ msgstr "Передбачено підтримку побудови багатьох геометричних об’єктів."
-
-#~ msgid "Unleash Your Creativity With Pencil"
-#~ msgstr "Необмежена творчість з Pencil"
-
-#~ msgid "ENTER TITLE HERE"
-#~ msgstr "ТУТ МАЄ БУТИ ЗАГОЛОВОК"
-
-#~ msgid "Application Testdrive"
-#~ msgstr "Тестування програм"
-
-#~ msgid "."
-#~ msgstr "."
-
-#~ msgid "Edubuntu ships with <em>software</em>, which has a description."
-#~ msgstr ""
-#~ "Частиною Edubuntu є <em>програмне забезпечення</em>, яке має опис. ;)"
-
-#~ msgid ""
-#~ "It supports many different hardware platforms, including the most popular "
-#~ "commercial e-book platforms available."
-#~ msgstr ""
-#~ "Передбачено підтримку багатьох апаратних платформ, зокрема найпопулярніших "
-#~ "комерційних платформ для роботи з електронними книжками."
-
-#~ msgid "Automatically sync feeds and news to your favourive device."
-#~ msgstr ""
-#~ "Автоматична синхронізація подач і нови з вашим основним пристроєм для "
-#~ "зберігання даних."
-
-#~ msgid "Allows you to test downloaded software in a protected environment."
-#~ msgstr ""
-#~ "Надає вам змогу перевірити отримане програмне забезпечення у захищеному "
-#~ "середовищі."
-
-#~ msgid "Arkose Application Sandboxing"
-#~ msgstr "Запуск програм з обмеженими правами у Arkose"
-
-#~ msgid ""
-#~ "<em>Calibre</em> is an e-library solution to all your electronic books."
-#~ msgstr "<em>Calibre</em> — електронна бібліотека для електронних книжок."
-
-#~ msgid ""
-#~ "Integrates with file manager allowing easy execution via graphical "
-#~ "environment."
-#~ msgstr ""
-#~ "Вбудовується до керування файлами, що спрощує виконання завдань у графічному "
-#~ "середовищі."
-
-#~ msgid ""
-#~ "Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support ."
-#~ msgstr ""
-#~ "Xorg 1.10, Mesa 7.10 та Compiz забезпечують чудову роботу у графічному "
-#~ "середовищі."
-
-#~ msgid "Under The Hood"
-#~ msgstr "За лаштунками"
-
-#~ msgid ""
-#~ "Create technical drawings such as building plans, interiors, mechanical "
-#~ "parts or schemas and diagrams."
-#~ msgstr ""
-#~ "Створюйте технічні креслення, зокрема плани будинків, інтер’єри, креслення "
-#~ "елементів конструкцій, схеми та діаграми."
+#~ "Xorg 1.10, Mesa 7.10 та Compiz забезпечують чудову підтримку роботи у "
+#~ "графічному режимі."

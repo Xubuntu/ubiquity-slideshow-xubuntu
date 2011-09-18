@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2011-04-05 23:31+0000\n"
-"Last-Translator: Xhacker Liu <liu.dongyuan@gmail.com>\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
+"PO-Revision-Date: 2011-04-19 03:42+0000\n"
+"Last-Translator: 英华 <wantinghard@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:37+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
-"Language: \n"
+"X-Launchpad-Export-Date: 2011-09-18 19:13+0000\n"
+"X-Generator: Launchpad (build 13955)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/browser.html:1
@@ -28,7 +28,9 @@ msgstr "用 Chromium 浏览互联网"
 msgid ""
 "Lubuntu is shipped with <em>Chromium</em>, the open-source version of "
 "Chrome, a browser developed by Google."
-msgstr "Lubuntu 自带 <em>Chromium</em> 浏览器，它是 Google 开发的 Chrome 浏览器的开源版。"
+msgstr ""
+"Lubuntu 自带 <em>Chromium</em> 浏览器，它是 Google 开发的 Chrome 浏览器的开源"
+"版。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/browser.html:12
@@ -38,12 +40,11 @@ msgstr "Chromium 浏览器界面简洁，运行迅速。"
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/browser.html:16
 msgid ""
-"More information on the <a "
-"href=\"http://sites.google.com/a/chromium.org/dev/Home\">Chromium "
-"website</a>."
+"More information on the <a href=\"http://sites.google.com/a/chromium.org/dev/"
+"Home\">Chromium website</a>."
 msgstr ""
-"更多信息请访问 <a "
-"href=\"http://sites.google.com/a/chromium.org/dev/Home\">Chromium</a> 网站。"
+"更多信息请访问 <a href=\"http://sites.google.com/a/chromium.org/dev/Home"
+"\">Chromium</a> 网站。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/browser.html:20
@@ -96,7 +97,8 @@ msgid ""
 "More information on <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed "
 "website</a>."
 msgstr ""
-"更多信息请登录 <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed website</a> 。"
+"更多信息请登录 <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed website</"
+"a> 。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/email.html:24
@@ -116,22 +118,24 @@ msgstr "获得帮助"
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/help.html:8
 msgid "If you need help, you can contact us:"
-msgstr ""
+msgstr "如果您需要帮助，可以联系我们："
 
-#. The url should not be translated
+#.  The url should not be translated 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:12
 msgid ""
-"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
-"page</a>."
-msgstr "使用 <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">维基页</a> 。"
+"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki page</"
+"a>."
+msgstr ""
+"使用 <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">维基页</a> 。"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:16
 msgid ""
 "On the mailing list, subscribe on <a href=\"https://launchpad.net/~lubuntu-"
 "desktop\">the page</a>."
-msgstr "邮件列表，<a href=\"https://launchpad.net/~lubuntu-desktop\">在此订阅</a> 。"
+msgstr ""
+"邮件列表，<a href=\"https://launchpad.net/~lubuntu-desktop\">在此订阅</a> 。"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:20
@@ -159,6 +163,8 @@ msgid ""
 "Go to the menu, and click on Pidgin icon to connect to many services, such "
 "as Jabber, Google Talk or Windows Live."
 msgstr ""
+"转到菜单并点击 Pidgin 图标来连接到众多的服务，如 Jabber、Google Talk 或 "
+"Windows Live。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/im.html:16
@@ -196,7 +202,7 @@ msgstr "使用 Lubuntu，您可以访问全部 Ubuntu 软件仓库和它提供�
 #: slideshows/lubuntu/slides/install.html:12
 msgid ""
 "Go to the menu, click on System Tools and <em>Synaptic Software Manager</em>."
-msgstr ""
+msgstr "转到菜单，点击 系统工具→<em>新立得软件包管理器em>。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/install.html:16
@@ -215,7 +221,7 @@ msgid ""
 "energy-saving desktop environment."
 msgstr "Lubuntu 基于快速执行和节能的桌面环境 LXDE Desktop Environment 。"
 
-#. The url "lxde.org" should not be translated
+#.  The url "lxde.org" should not be translated 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/lxde.html:12
 msgid "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
@@ -230,10 +236,13 @@ msgstr "Abiword 和 Gnumeric"
 #: slideshows/lubuntu/slides/office.html:8
 msgid ""
 "Use <em>Abiword and Gnumeric</em>, lightweight alternatives for LibreOffice, "
-"and create letters, spreadsheets, etc. Information on <a "
-"href=\"http://www.abisource.com/\">Abiword</a> and <a "
-"href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> websites."
+"and create letters, spreadsheets, etc. Information on <a href=\"http://www."
+"abisource.com/\">Abiword</a> and <a href=\"http://projects.gnome.org/"
+"gnumeric/\">Gnumeric</a> websites."
 msgstr ""
+"使用 LibreOffice 的轻量替代软件，<em>Abiword 和 Gnumeric</em>来创建信件、电子"
+"表格等等。参见 <a href=\"http://www.abisource.com/\">Abiword</a> 和 <a href="
+"\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> 网站上的信息。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:16
@@ -271,21 +280,25 @@ msgid ""
 "Watch videos with <em>gnome-mplayer</em>, a fast video player using mplayer. "
 "Support for many formats is included."
 msgstr ""
+"使用 <em>gnome-mplayer</em> 查看视频。这是一个使用 mplayer 引擎的快速视频播放"
+"器，内置众多格式支持。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/videos.html:12
 msgid ""
 "You can also obtain additional non-free support by installing the lubuntu-"
 "restricted-extras package."
-msgstr "您还可以通过安装 lubuntu-restricted-extras 软件包来获得额外的非自由支持。"
+msgstr ""
+"您还可以通过安装 lubuntu-restricted-extras 软件包来获得额外的非自由支持。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/videos.html:16
 msgid ""
-"More information on <a "
-"href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-"website</a>."
+"More information on <a href=\"http://sites.google.com/site/kdekorte2/"
+"gnomemplayer\">gnome-mplayer website</a>."
 msgstr ""
+"更多信息参见 <a href=\"http://sites.google.com/site/kdekorte2/gnomemplayer"
+"\">gnome-mplayer 网站</a>。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/videos.html:24
@@ -304,61 +317,13 @@ msgstr "欢迎"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:8
-msgid "Thank you for choosing Lubuntu 11.04."
-msgstr "感谢您选择 Lubuntu 11.04。"
+msgid "Thank you for choosing Lubuntu 11.10."
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:12
 msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
 msgstr "Lubuntu 旨在提供一个快速、易用的操作系统，请尽情探索！"
 
-#~ msgid ""
-#~ "More information on <a href=\"http://www.abisource.com/\">Abiword</a> and <a "
-#~ "href=\"http://projects.gnome.org/gnumeric/\">Gnumeric websites</a>."
-#~ msgstr ""
-#~ "更多信息请访问<a href=\"http://www.abisource.com/\">Abiword</a> 以及 <a "
-#~ "href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> 网站。"
-
-#~ msgid "If you need help, you can contact us :"
-#~ msgstr "如需帮助，请联系我们："
-
-#~ msgid "Installing softwares"
-#~ msgstr "安装软件"
-
-#~ msgid "You can create and edit documents like spreadsheets and letters."
-#~ msgstr "您可以创建并编辑各种文档，例如表格及信件。"
-
-#~ msgid ""
-#~ "More information on <a "
-#~ "href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-#~ "website.</a>"
-#~ msgstr ""
-#~ "更多信息请访问 <a "
-#~ "href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer</a"
-#~ "> 网站。"
-
-#~ msgid "Thank you for choosing Lubuntu 10.10."
-#~ msgstr "感谢您选择 Lubuntu 10.10。"
-
-#~ msgid ""
-#~ "You will be able to watch videos with <em>gnome-mplayer</em>, a fast video "
-#~ "player using mplayer."
-#~ msgstr "您可以使用 <em>gnome-mplayer</em> 来观看视频，它是使用 mplayer 的快速视频播放器。"
-
-#~ msgid "Support for many formats is included."
-#~ msgstr "包含对众多格式的支持。"
-
-#~ msgid ""
-#~ "Lubuntu comes with <em>Abiword and Gnumeric</em>, lightweight alternatives "
-#~ "for OpenOffice."
-#~ msgstr ""
-#~ "Lubuntu 自带了轻量级办公软件 <em>Abiword</em> 和 <em>Gnumeric</em>来替代OpenOffice。"
-
-#~ msgid ""
-#~ "Go to the menu, and click on Pidgin icon to connect to many Instant Message "
-#~ "services, such as Jabber or Windows Live."
-#~ msgstr "转到主菜单上，单击 Pidgin 图标可以连接到多种即时消息服务器，例如 Jabber 或者 Windows Live。"
-
-#~ msgid ""
-#~ "Go to the menu, click on Preferences and <em>Synaptic Software Manager</em>."
-#~ msgstr "转到主菜单，单击 首选项 然后选择 <em>Synaptic Software Manager</em> 。"
+#~ msgid "Thank you for choosing Lubuntu 11.04."
+#~ msgstr "感谢您选择 Lubuntu 11.04。"

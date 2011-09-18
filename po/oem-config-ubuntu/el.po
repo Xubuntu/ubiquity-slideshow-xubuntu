@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2011-04-16 18:48+0000\n"
-"Last-Translator: Michael Kotsarinis <Unknown>\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
+"PO-Revision-Date: 2011-09-11 19:10+0000\n"
+"Last-Translator: Michael Kotsarinis <mk73628@gmail.com>\n"
 "Language-Team: Greek <el@li.org>\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:38+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
-"Language: el\n"
+"X-Launchpad-Export-Date: 2011-09-18 19:14+0000\n"
+"X-Generator: Launchpad (build 13955)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -26,15 +26,11 @@ msgstr "Προσαρμογή του Ubuntu"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
 msgid ""
-"At the heart of Ubuntu&#8217;s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and many options like your "
-"preferred fonts, colour schemes, and languages, Ubuntu is all about working "
-"for real people."
+"At the heart of Ubuntu’s philosophy is a belief that computing is for "
+"everyone. With advanced accessibility tools and options like your preferred "
+"color scheme, text size, and language, Ubuntu is all about working for real "
+"people."
 msgstr ""
-"Στο επίκεντρο της φιλοσοφίας του Ubuntu είναι μια πεποίθηση ότι η "
-"πληροφορική είναι για όλους. Με προηγμένα εργαλεία προσιτότητας και πολλές "
-"επιλογές, όπως τις αγαπημένες γραμματοσειρές σας, συνδυασμούς χρωμάτων, και "
-"γλωσσών, το Ubuntu δουλεύει για τους πραγματικούς ανθρώπους."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:12
@@ -43,8 +39,8 @@ msgstr "Επιλογές προσαρμογής"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:16
-msgid "Appearance preferences"
-msgstr "Προτιμήσεις εμφάνισης"
+msgid "Appearance"
+msgstr "Εμφάνιση"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:20
@@ -65,15 +61,11 @@ msgstr "Περιηγηθείτε στον ιστό"
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
 msgid ""
 "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from Ubuntu Software Center."
+"choose alternative browsers from the Ubuntu Software Center."
 msgstr ""
-"Το Ubuntu περιλαμβάνει τον Mozilla Firefox για γρήγορη και ασφαλή περιήγηση "
-"στον ιστό. Μπορείτε ακόμη να επιλέξετε εναλλακτικούς περιηγητές από το "
-"Κέντρο λογισμικού Ubuntu."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
-#: slideshows/oem-config-ubuntu/slides/email.html:12
 #: slideshows/oem-config-ubuntu/slides/music.html:12
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
@@ -87,8 +79,7 @@ msgstr "Περιηγητής ιστού Firefox"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:19
-#: slideshows/oem-config-ubuntu/slides/email.html:23
-#: slideshows/oem-config-ubuntu/slides/photos.html:23
+#: slideshows/oem-config-ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "Υποστηριζόμενο λογισμικό"
 
@@ -103,79 +94,46 @@ msgid "Chromium"
 msgstr "Χρώμιο"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu/slides/email.html:1
-msgid "Email and chat"
-msgstr "Email και chat"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:8
-msgid ""
-"The Messaging Menu has lots of features to make online communication "
-"effortless. Chat helps you log in to all your instant messaging accounts "
-"including MSN, Jabber, and Facebook. Your contacts appear in the same place, "
-"ready for text or video chat."
-msgstr ""
-"Το μενού Μηνύματα έχει πολλά χαρακτηριστικά για να κάνει την επικοινωνίας "
-"μέσω διαδικτύου εύκολη. Το πρόγραμμα συνομιλίας σάς βοηθά να συνδεθείτε σε "
-"όλους τους λογαριασμούς σας άμεσων μηνυμάτων, συμπεριλαμβανομένων των MSN, "
-"Jabber και Facebook. Οι επαφές σας εμφανίζονται στην ίδια θέση, έτοιμες για "
-"συνομιλία μέσω κειμένου ή βίντεο."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:16
-msgid "Empathy IM"
-msgstr "Άμεσα μηνύματα Empathy"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:20
-msgid "Evolution Mail"
-msgstr "Evolution Mail"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/email.html:27
-msgid "Skype"
-msgstr "Skype"
-
-#. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Thank you"
-msgstr "Σας ευχαριστούμε"
+msgid "Any questions?"
+msgstr "Ερωτήσεις;"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
 msgid ""
-"Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, so "
-"don&#8217;t hesitate to explore! If you have any questions, try the Help "
-"menu in most applications or browse to <a "
+"Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
+"to get an answer about Ubuntu. With most questions already answered, and "
+"thousands of people ready to help, you’ll be sorted in no time at all. And "
+"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
+"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
 "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options. We hope you enjoy Ubuntu."
+"your other options."
 msgstr ""
-"Ευχαριστούμε και πάλι για την επιλογή του Ubuntu. Το Ubuntu είναι "
-"σχεδιασμένο ώστε να είναι εύκολο και ασφαλές, οπότε μη διστάσετε να "
-"εξερευνήσετε! Αν έχετε οποιεσδήποτε απορίες, δοκιμάστε το μενού Βοήθεια στις "
-"περισσότερες εφαρμογές ή περιηγηθείτε στο <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> για να "
-"εξερευνήσετε και τις άλλες επιλογές. Ελπίζουμε να απολαύσετε το Ubuntu."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:1
-msgid "Mobilise your digital life"
-msgstr "Κινητοποιήστε την ψηφιακή σας ζωή"
+msgid "Your own personal cloud"
+msgstr "Το προσωπικό σας σύννεφο"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:8
 msgid ""
-"All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-"One</a> account. Ubuntu One allows you to sync all kinds of files online so "
-"you can access them anywhere. Sync bookmarks, contacts, music, and pictures "
-"across all your computers. Take everything everywhere with Ubuntu One."
+"An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> account "
+"gives you 5GB of cloud storage, so you can store and sync your files and "
+"photos across devices and access them wherever you are in the world. Easily "
+"share them with friends, family and colleagues. Take a photo on your mobile "
+"phone and immediately see it on your desktop, or add <a href=\"https://one."
+"ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
+"music on the move."
 msgstr ""
-"Σε όλους τους χρήστες του Ubuntu διατίθεται ένας δωρεάν λογαριασμός <a "
-"href=\"https://one.ubuntu.com/\">Ubuntu One</ a>. Το Ubuntu One σας "
-"επιτρέπει να συγχρονίσετε όλα τα είδη αρχείων στο διαδίκτυο, έτσι ώστε να "
-"μπορείτε να έχετε πρόσβαση από οπουδήποτε. Συγχρονισμός σελιδοδεικτών, "
-"επαφών, μουσικής και εικόνων σε όλους τους υπολογιστές σας. Πάρτε τα πάντα "
-"παντού με το Ubuntu One."
+"Ένας λογαριασμός <a href=\"https://one.ubuntu.com/services/\">Ubuntu One "
+"Free</a> σας δίνει 5GB αποθήκευσης στο σύννεφο, για αποθήκευση και "
+"συγχρονισμό των αρχείων και των φωτογραφιών σας σε όλες τις συσκευές και "
+"πρόσβαση οπουδήποτε και αν είστε. Μοιραστείτε εύκολα με φίλους, οικογένεια "
+"και συναδέλφους. Τραβήξτε μια φωτογραφία με το κινητό σας και δείτε αμέσως "
+"στην επιφάνεια εργασίας σας ή προσθέστε το <a href=\"https://one.ubuntu.com/"
+"services/music/\">Music Streaming</a> για κινητά για να απολαύσετε τη "
+"μουσική σας καθ' οδόν."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:1
@@ -186,15 +144,10 @@ msgstr "Πάρτε τη μουσική σας μαζί σας"
 #: slideshows/oem-config-ubuntu/slides/music.html:8
 msgid ""
 "Ubuntu comes with the amazing Banshee music player. With advanced playback "
-"options and the Ubuntu One music store built in, it&#8217;s simple to queue "
-"up the perfect songs. And it works great with CDs and portable music "
-"players, so you can enjoy all your music wherever you go."
+"options and the Ubuntu One music store built in, it’s simple to queue up the "
+"perfect songs. And it works great with CDs and portable music players, so "
+"you can enjoy all your music wherever you go."
 msgstr ""
-"Το Ubuntu περιέχει την καταπληκτική εφαρμογή αναπαραγωγής μουσικής Banshee. "
-"Με προηγμένες επιλογές αναπαραγωγής και ενσωματωμένο το κατάστημα μουσικής "
-"Ubuntu One, η επιλογή των τέλειων κομματιών για τη λίστα σας γίνεται απλή "
-"υπόθεση. Και λειτουργεί τέλεια με CD και φορητές συσκευές, έτσι ώστε να "
-"απολαμβάνετε τη μουσική σας όπου και αν πάτε."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:16
@@ -208,21 +161,17 @@ msgstr "Κατάστημα μουσικής Ubuntu One"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
-msgid "Write and present with ease"
-msgstr "Δημιουγήστε εύκολα έγγραφα και παρουσιάσεις"
+msgid "Write and present for free"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
 msgid ""
-"LibreOffice is a free office suite packed with everything you&#8217;ll need "
-"to create impressive documents, spreadsheets, and presentations. LibreOffice "
+"LibreOffice is a free office suite packed with everything you’ll need to "
+"create impressive documents, spreadsheets, and presentations. LibreOffice "
 "tries its best to work with other office software, and it uses the "
 "OpenDocument standards for far-reaching compatibility."
 msgstr ""
-"Το LibreOffice είναι μια ελεύθερη σουίτα εφαρμογών γραφείου που περιέχει όλα "
-"όσα χρειάζεστε για τη δημιουργία εντυπωσιακών εγγράφων, λογιστικών φύλλων "
-"και παρουσιάσεων. Το LibreOffice συνεργάζεται με άλλες εφαρμογές γραφείου "
-"και χρησιμοποιεί τα πρότυπα OpenDocument για ευρεία συμβατότητα."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
@@ -243,16 +192,10 @@ msgstr "Διασκεδάστε με τις φωτογραφίες σας"
 #: slideshows/oem-config-ubuntu/slides/photos.html:8
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it&#8217;s easy to share "
-"them and keep them safe. If you&#8217;re feeling creative, you can try lots "
-"of photo apps from the Ubuntu Software Centre."
+"camera or a phone to transfer your photos, then it’s easy to share them and "
+"keep them safe. If you’re feeling creative, you can try lots of photo apps "
+"from the Ubuntu Software Center."
 msgstr ""
-"Το Shotwell είναι ένα εύχρηστο πρόγραμμα διαχείρισης φωτογραφιών έτοιμο να "
-"συνεργαστεί με τις συσκευές σας. Συνδέστε μια φωτογραφική μηχανή ή ένα "
-"κινητό τηλέφωνο για να μεταφέρετε τις φωτογραφίες σας. Τώρα είναι εύκολο να "
-"τις μοιραστείτε και να τις διατηρήσετε ασφαλείς. Εάν αισθάνεστε "
-"δημιουργικοί, μπορείτε να δοκιμάσετε κάποιες από τις πολλές εφαρμογές "
-"επεξεργασίας φωτογραφιών που διατίθενται από το Κέντρο λογισμικού του Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:16
@@ -260,33 +203,27 @@ msgid "Shotwell Photo Manager"
 msgstr "Διαχειριστής εικόνων Shotwell"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/photos.html:20
-msgid "Pitivi Video Editor"
-msgstr "Επεξεργαστής βίντεο Pitivi"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/photos.html:27
+#: slideshows/oem-config-ubuntu/slides/photos.html:23
 msgid "GIMP Image Editor"
 msgstr "Επεξεργασία εικόνων GIMP"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/photos.html:27
+msgid "Pitivi Video Editor"
+msgstr "Επεξεργαστής βίντεο Pitivi"
+
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/social.html:1
-msgid "Social from the start"
-msgstr "Κοινωνικό από την αρχή"
+msgid "Stay connected"
+msgstr "Μείνετε συνδεδεμένοι"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:8
 msgid ""
-"The Me Menu is your instant connection to web services like Facebook and "
-"Twitter. Just set up your accounts to log in and share with friends. "
-"Anything sent to you appears in the Messaging Menu so you can reply when you "
-"want."
+"The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+"messages from all applications and social networks. See at a glance when "
+"there’s something new to read, regardless how it arrived."
 msgstr ""
-"Το Me Menu σας παρέχει άμεση σύνδεση σε διαδικτυακές υπηρεσίες όπως το "
-"Facebook και το Twitter. Απλά ρυθμίστε τους λογαριασμούς σας για να "
-"συνδεθείτε και να αρχίσετε να μοιράζεστε με τους φίλους σας. Οτιδήποτε σας "
-"στέλνουν εμφανίζεται στο Μενού Μηνυμάτων για να μπορείτε να απαντήσετε όποτε "
-"θέλετε."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -316,35 +253,11 @@ msgstr "Ανακαλύψτε ακόμα περισσότερο λογισμικ�
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
 msgid ""
-"The Ubuntu Software Centre has thousands of new applications ready for your "
+"The Ubuntu Software Center has thousands of new applications ready for your "
 "computer. Just type what you want or explore the categories like games, "
-"science, and education. It is simple to download new stuff and write reviews "
+"science, and education. It is easy to download new stuff and write reviews "
 "to share your experiences."
 msgstr ""
-"Το Κέντρο Λογισμικού του Ubuntu διαθέτει χιλιάδες νέες εφαρμογές έτοιμες για "
-"τον υπολογιστή σας. Απλά πληκτρολογήστε αυτό που θέλετε ή εξερευνήστε "
-"διάφορες κατηγορίες όπως παιχνίδια, επιστήμη και εκπαίδευση. Εγκαταστήστε "
-"εύκολα νέες εφαρμογές και γράψτε σχόλια για να μοιραστείτε τις εμπειρίες σας."
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/usc.html:12
-msgid "Some of our favourites"
-msgstr "Κάποιες από τις αγαπημένες μας"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:16
-msgid "Stellarium"
-msgstr "Stellarium"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:20
-msgid "Inkscape"
-msgstr "Inkscape"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/usc.html:24
-msgid "Frozen Bubble"
-msgstr "Frozen Bubble"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -354,174 +267,176 @@ msgstr "Καλώς ήλθατε"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 11.04. This version brings some exciting "
+"Thank you for choosing Ubuntu 11.10. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
-"Ευχαριστούμε που επιλέξατε το Ubuntu 11.04. Αυτή η έκδοση φέρνει μερικές "
-"συναρπαστικές αλλαγές, όπως την πλήρως ανασχεδιασμένη διεπαφή επιφάνειας "
-"εργασίας Unity. Παρότι το Ubuntu είναι ήδη ρυθμισμένο, αυτή η παρουσίαση θα "
-"σας ξεναγήσει σ' αυτό."
 
-#~ msgid "Customize Ubuntu"
-#~ msgstr "Προσαρμόστε το Ubuntu"
+#~ msgid "Appearance preferences"
+#~ msgstr "Προτιμήσεις εμφάνισης"
 
 #~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is the belief that computing is "
-#~ "for everyone. With advanced accessibility tools and hundreds of options like "
-#~ "your preferred fonts, color schemes and languages, Ubuntu provides the "
-#~ "flexibility to fit real people, whoever they are."
+#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+#~ "choose alternative browsers from Ubuntu Software Center."
 #~ msgstr ""
-#~ "Στην καρδιά της φιλοσοφίας του Ubuntu υπάρχει η πεποίθηση ότι η πληροφορική "
-#~ "είναι για όλους. Με προηγμένα εργαλεία προσιτότητας και εκατοντάδες επιλογές "
-#~ "όπως οι γραμματοσειρές που προτιμάτε, χρωματικά θέματα και γλώσσες, το "
-#~ "Ubuntu έχει την ευελιξία να ταιριάξει σε πραγματικούς ανθρώπους, όποιοι κι "
-#~ "αν είναι."
+#~ "Το Ubuntu περιλαμβάνει τον Mozilla Firefox για γρήγορη και ασφαλή "
+#~ "περιήγηση στον ιστό. Μπορείτε ακόμη να επιλέξετε εναλλακτικούς περιηγητές "
+#~ "από το Κέντρο λογισμικού Ubuntu."
 
-#~ msgid "Customization options"
-#~ msgstr "Επιλογές προσαρμογής"
+#~ msgid "Email and chat"
+#~ msgstr "Email και chat"
 
-#~ msgid "Google Chrome"
-#~ msgstr "Google Chrome"
+#~ msgid "Empathy IM"
+#~ msgstr "Άμεσα μηνύματα Empathy"
+
+#~ msgid "Evolution Mail"
+#~ msgstr "Evolution Mail"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "Social from the start"
+#~ msgstr "Κοινωνικό από την αρχή"
 
 #~ msgid ""
-#~ "Use Empathy to get chatting with your accounts from Yahoo, Facebook, Gmail, "
-#~ "MSN, Jabber and many more. Set your status and reach all your instant "
-#~ "messaging contacts from a single place."
+#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
+#~ "for everyone. With advanced accessibility tools and many options like "
+#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
+#~ "working for real people."
 #~ msgstr ""
-#~ "Με το Empathy μπορείτε να συνομιλήσετε χρησιμοποιώντας τους λογαριασμούς σας "
-#~ "στο Yahoo, Facebook, Gmail, MSN, Jabber και πολλά άλλα. Ορίστε την κατάσταση "
-#~ "σας και αποκτήστε πρόσβαση σε όλες σας τις επαφές από ένα μόνο σημείο."
+#~ "Στο επίκεντρο της φιλοσοφίας του Ubuntu είναι μια πεποίθηση ότι η "
+#~ "πληροφορική είναι για όλους. Με προηγμένα εργαλεία προσιτότητας και "
+#~ "πολλές επιλογές, όπως τις αγαπημένες γραμματοσειρές σας, συνδυασμούς "
+#~ "χρωμάτων, και γλωσσών, το Ubuntu δουλεύει για τους πραγματικούς ανθρώπους."
 
-#~ msgid "Gwibber Microblogging"
-#~ msgstr "Κοινωνική δικτύωση Gwibber"
+#~ msgid "Thank you"
+#~ msgstr "Σας ευχαριστούμε"
 
-#~ msgid "Get help with Ubuntu"
-#~ msgstr "Βοήθεια για το Ubuntu"
+#~ msgid "Write and present with ease"
+#~ msgstr "Δημιουγήστε εύκολα έγγραφα και παρουσιάσεις"
 
 #~ msgid ""
-#~ "Ubuntu is designed to be easy and safe, so don&#8217;t hesitate to explore! "
-#~ "If you have any questions, try the Help menu in most applications or <a "
-#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-#~ "your other options. We hope you enjoy Ubuntu."
+#~ "Thank you for choosing Ubuntu 11.04. This version brings some exciting "
+#~ "changes including a totally redesigned desktop interface, Unity. While "
+#~ "Ubuntu is configured, this slideshow will show you around."
 #~ msgstr ""
-#~ "Το Ubuntu σχεδιάστηκε ώστε να είναι εύκολο και ασφαλές, μην διστάζετε να το "
-#~ "εξερευνήσετε! Αν έχετε ερωτήσεις, δείτε το μενού βοήθειας στις περισσότερες "
-#~ "εφαρμογές ή το <a "
-#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> για να "
-#~ "εξερευνήσετε  τις άλλες επιλογές βοήθειας. Ελπίζουμε να σας αρέσει το Ubuntu."
+#~ "Ευχαριστούμε που επιλέξατε το Ubuntu 11.04. Αυτή η έκδοση φέρνει μερικές "
+#~ "συναρπαστικές αλλαγές, όπως την πλήρως ανασχεδιασμένη διεπαφή επιφάνειας "
+#~ "εργασίας Unity. Παρότι το Ubuntu είναι ήδη ρυθμισμένο, αυτή η παρουσίαση "
+#~ "θα σας ξεναγήσει σ' αυτό."
 
-#~ msgid "Mobilize your digital life"
-#~ msgstr "Η ψηφιακή ζωή σας στον ιστό"
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "Frozen Bubble"
+#~ msgstr "Frozen Bubble"
+
+#~ msgid "Inkscape"
+#~ msgstr "Inkscape"
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
+#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
+#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
+#~ "try lots of photo apps from the Ubuntu Software Centre."
+#~ msgstr ""
+#~ "Το Shotwell είναι ένα εύχρηστο πρόγραμμα διαχείρισης φωτογραφιών έτοιμο "
+#~ "να συνεργαστεί με τις συσκευές σας. Συνδέστε μια φωτογραφική μηχανή ή ένα "
+#~ "κινητό τηλέφωνο για να μεταφέρετε τις φωτογραφίες σας. Τώρα είναι εύκολο "
+#~ "να τις μοιραστείτε και να τις διατηρήσετε ασφαλείς. Εάν αισθάνεστε "
+#~ "δημιουργικοί, μπορείτε να δοκιμάσετε κάποιες από τις πολλές εφαρμογές "
+#~ "επεξεργασίας φωτογραφιών που διατίθενται από το Κέντρο λογισμικού του "
+#~ "Ubuntu."
+
+#~ msgid ""
+#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
+#~ "need to create impressive documents, spreadsheets, and presentations. "
+#~ "LibreOffice tries its best to work with other office software, and it "
+#~ "uses the OpenDocument standards for far-reaching compatibility."
+#~ msgstr ""
+#~ "Το LibreOffice είναι μια ελεύθερη σουίτα εφαρμογών γραφείου που περιέχει "
+#~ "όλα όσα χρειάζεστε για τη δημιουργία εντυπωσιακών εγγράφων, λογιστικών "
+#~ "φύλλων και παρουσιάσεων. Το LibreOffice συνεργάζεται με άλλες εφαρμογές "
+#~ "γραφείου και χρησιμοποιεί τα πρότυπα OpenDocument για ευρεία συμβατότητα."
+
+#~ msgid "Some of our favourites"
+#~ msgstr "Κάποιες από τις αγαπημένες μας"
+
+#~ msgid ""
+#~ "The Ubuntu Software Centre has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is simple to download new stuff and "
+#~ "write reviews to share your experiences."
+#~ msgstr ""
+#~ "Το Κέντρο Λογισμικού του Ubuntu διαθέτει χιλιάδες νέες εφαρμογές έτοιμες "
+#~ "για τον υπολογιστή σας. Απλά πληκτρολογήστε αυτό που θέλετε ή εξερευνήστε "
+#~ "διάφορες κατηγορίες όπως παιχνίδια, επιστήμη και εκπαίδευση. Εγκαταστήστε "
+#~ "εύκολα νέες εφαρμογές και γράψτε σχόλια για να μοιραστείτε τις εμπειρίες "
+#~ "σας."
+
+#~ msgid ""
+#~ "The Me Menu is your instant connection to web services like Facebook and "
+#~ "Twitter. Just set up your accounts to log in and share with friends. "
+#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
+#~ "you want."
+#~ msgstr ""
+#~ "Το Me Menu σας παρέχει άμεση σύνδεση σε διαδικτυακές υπηρεσίες όπως το "
+#~ "Facebook και το Twitter. Απλά ρυθμίστε τους λογαριασμούς σας για να "
+#~ "συνδεθείτε και να αρχίσετε να μοιράζεστε με τους φίλους σας. Οτιδήποτε "
+#~ "σας στέλνουν εμφανίζεται στο Μενού Μηνυμάτων για να μπορείτε να "
+#~ "απαντήσετε όποτε θέλετε."
+
+#~ msgid ""
+#~ "The Messaging Menu has lots of features to make online communication "
+#~ "effortless. Chat helps you log in to all your instant messaging accounts "
+#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
+#~ "place, ready for text or video chat."
+#~ msgstr ""
+#~ "Το μενού Μηνύματα έχει πολλά χαρακτηριστικά για να κάνει την επικοινωνίας "
+#~ "μέσω διαδικτύου εύκολη. Το πρόγραμμα συνομιλίας σάς βοηθά να συνδεθείτε "
+#~ "σε όλους τους λογαριασμούς σας άμεσων μηνυμάτων, συμπεριλαμβανομένων των "
+#~ "MSN, Jabber και Facebook. Οι επαφές σας εμφανίζονται στην ίδια θέση, "
+#~ "έτοιμες για συνομιλία μέσω κειμένου ή βίντεο."
+
+#~ msgid ""
+#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
+#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
+#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
+#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
+#~ "hope you enjoy Ubuntu."
+#~ msgstr ""
+#~ "Ευχαριστούμε και πάλι για την επιλογή του Ubuntu. Το Ubuntu είναι "
+#~ "σχεδιασμένο ώστε να είναι εύκολο και ασφαλές, οπότε μη διστάσετε να "
+#~ "εξερευνήσετε! Αν έχετε οποιεσδήποτε απορίες, δοκιμάστε το μενού Βοήθεια "
+#~ "στις περισσότερες εφαρμογές ή περιηγηθείτε στο <a href=\"http://www."
+#~ "ubuntu.com/support\">ubuntu.com/support</a> για να εξερευνήσετε και τις "
+#~ "άλλες επιλογές. Ελπίζουμε να απολαύσετε το Ubuntu."
+
+#~ msgid "Mobilise your digital life"
+#~ msgstr "Κινητοποιήστε την ψηφιακή σας ζωή"
 
 #~ msgid ""
 #~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online so "
-#~ "you can access them anywhere. Sync bookmarks, contacts, music and pictures "
-#~ "across all your computers. Take everything everywhere with Ubuntu One."
+#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
+#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
+#~ "pictures across all your computers. Take everything everywhere with "
+#~ "Ubuntu One."
 #~ msgstr ""
-#~ "Όλοι οι χρήστες του Ubuntu αποκτούν έναν δωρεάν λογαριασμό στο <a "
-#~ "href=\"https://one.ubuntu.com/\">Ubuntu One</a>. Το Ubuntu One σας επιτρέπει "
-#~ "να συγχρονίσετε κάθε είδους αρχεία στον ιστό ώστε να είναι προσβάσιμα από "
-#~ "παντού. Συγχρονίστε σελιδοδείκτες, επαφές, μουσική και εικόνες σε όλους τους "
-#~ "υπολογιστές σας. Πάρτε τα πάντα παντού με το Ubuntu One."
-
-#~ msgid "Buy music while you listen"
-#~ msgstr "Αγοράστε μουσική"
+#~ "Σε όλους τους χρήστες του Ubuntu διατίθεται ένας δωρεάν λογαριασμός <a "
+#~ "href=\"https://one.ubuntu.com/\">Ubuntu One</ a>. Το Ubuntu One σας "
+#~ "επιτρέπει να συγχρονίσετε όλα τα είδη αρχείων στο διαδίκτυο, έτσι ώστε να "
+#~ "μπορείτε να έχετε πρόσβαση από οπουδήποτε. Συγχρονισμός σελιδοδεικτών, "
+#~ "επαφών, μουσικής και εικόνων σε όλους τους υπολογιστές σας. Πάρτε τα "
+#~ "πάντα παντού με το Ubuntu One."
 
 #~ msgid ""
-#~ "Ubuntu&#8217;s music player includes a built-in store, so you can buy and "
-#~ "download new tracks with a few clicks. Thanks to Ubuntu One&#8217;s file-"
-#~ "syncing magic you can store your music online and listen to it from other "
-#~ "computers. You can add your music to a portable music player, too; just plug "
-#~ "it in to get started."
+#~ "Ubuntu comes with the amazing Banshee music player. With advanced "
+#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
+#~ "simple to queue up the perfect songs. And it works great with CDs and "
+#~ "portable music players, so you can enjoy all your music wherever you go."
 #~ msgstr ""
-#~ "Η αναπαραγωγή μουσικής του Ubuntu έχει ένα ενσωματωμένο ψηφιακό κατάστημα, "
-#~ "για να μπορείτε ν' αγοράζετε και να κατεβάζετε καινούργια κομμάτια με λίγα "
-#~ "κλικ. Χάρη στην δυνατότητα συγχρονισμού αρχείων του Ubuntu One μπορείτε ν' "
-#~ "αποθηκεύετε την μουσική σας online και να την ακούτε και από άλλους "
-#~ "υπολογιστές. Μπορείτε να την προσθέσετε και σε φορητές συσκευές "
-#~ "αναπαραγωγής, επίσης· απλά συνδέστε τις και ξεκινήστε."
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Αναπαραγωγή μουσικής Rhythmbox"
-
-#~ msgid "Create documents and presentations"
-#~ msgstr "Έγγραφα και παρουσιάσεις"
-
-#~ msgid ""
-#~ "OpenOffice.org is fully compatible with Microsoft Office and has everything "
-#~ "you need to create professional documents, spreadsheets and presentations. "
-#~ "OpenOffice.org is easy to use, packed with the features you need and "
-#~ "completely free."
-#~ msgstr ""
-#~ "Το OpenOffice.org είναι απόλυτα συμβατό με το Microsoft Office και έχει ό, "
-#~ "τι χρειάζεστε για να δημιουργήσετε έγγραφα, λογιστικά φύλλα και παρουσιάσεις "
-#~ "με επαγγελματική εμφάνιση. Το OpenOffice.org είναι εύκολο στην χρήση, γεμάτο "
-#~ "από τα χαρακτηριστικά που χρειάζεστε και είναι απολύτως ελεύθερο και δωρεάν."
-
-#~ msgid "OpenOffice.org"
-#~ msgstr "OpenOffice.org"
-
-#~ msgid "View, store and edit photos"
-#~ msgstr "Χειριστείτε φωτογραφίες"
-
-#~ msgid ""
-#~ "Ubuntu is ready for all your gadgets. Just connect your phones or cameras to "
-#~ "get started. Shotwell makes it easy to organize your digital photos and "
-#~ "share them on Picasa, Facebook or Flickr. For advanced photo editing, you "
-#~ "can find more free applications in Ubuntu Software Center."
-#~ msgstr ""
-#~ "Το Ubuntu είναι έτοιμο για όλες τις συσκευές σας. Απλά συνδέστε τα τηλέφωνα "
-#~ "ή τις κάμερες σας για να ξεκινήσετε. Το Shotwell διευκολύνει την οργάνωση "
-#~ "και την δημοσίευση των ψηφιακών φωτογραφιών σας στο Picasa, το Facebook ή το "
-#~ "Flickr. Για εξειδικευμένη επεξεργασία φωτογραφιών, μπορείτε να βρείτε "
-#~ "περισσότερες ελεύθερες και δωρεάν εφαρμογές στο Κέντρο λογισμικού Ubuntu."
-
-#~ msgid ""
-#~ "With the Me Menu, being sociable has never been so easy. Use it to instantly "
-#~ "post updates on sites like Facebook and Twitter. New messages appear in the "
-#~ "messaging menu so you can respond when you want."
-#~ msgstr ""
-#~ "Με το προσωπικό σας μενού, το να είστε κοινωνικός δεν ήταν ποτέ τόσο εύκολο. "
-#~ "Χρησιμοποιήστε το για να δημοσιεύσετε άμεσα ενημερώσεις σε ιστότοπους όπως "
-#~ "το Facebook και το Twitter. Τα νέα μηνύματα εμφανίζονται στο μενού μηνυμάτων "
-#~ "για να μπορείτε να απαντήσετε όταν θέλετε."
-
-#~ msgid "Get free software"
-#~ msgstr "Βρείτε ελεύθερο λογισμικό"
-
-#~ msgid ""
-#~ "Ubuntu Software Center gives you instant access to thousands of free, open-"
-#~ "source applications. Browse categories including Education, Games, Graphics "
-#~ "and Science. Software is easy to find, easy to install and easy to remove."
-#~ msgstr ""
-#~ "Το Κέντρο λογισμικού Ubuntu δίνει άμεση πρόσβαση σε χιλιάδες ελεύθερες και "
-#~ "δωρεάν, εφαρμογές ανοιχτού κώδικα. Ψάξτε τις κατηγορίες που περιλαμβάνουν "
-#~ "Εκπαίδευση, Παιχνίδια, Γραφικά και Επιστήμες. Βρίσκετε, εγκαθιστάτε, "
-#~ "αφαιρείτε πολύ εύκολα οποιοδήποτε λογισμικό."
-
-#~ msgid "Featured software"
-#~ msgstr "Προτεινόμενο λογισμικό"
-
-#~ msgid "GIMP – Advanced image editing for photographers and graphic designers"
-#~ msgstr ""
-#~ "GIMP - Εξειδικευμένη επεξεργασία εικόνας για φωτογράφους και γραφίστες"
-
-#~ msgid "Jokosher – Your very own home recording studio"
-#~ msgstr "Jokosher - Φτιάξτε το δικό σας οικιακό studio ηχογράφησης"
-
-#~ msgid "Stellarium – A 3D planetarium for your computer"
-#~ msgstr "Stellarium –Ένα τρισδιάστατο πλανητάριο στον υπολογιστή σας"
-
-#~ msgid ""
-#~ "Thank you for choosing Ubuntu 10.10. This version brings some exciting "
-#~ "changes including a new sound menu, the Shotwell photo manager and features "
-#~ "that make it even easier to find and install new software. While Ubuntu is "
-#~ "installed, this slideshow will show you around."
-#~ msgstr ""
-#~ "Ευχαριστούμε που διαλέξατε το Ubuntu 10.10. Αυτή η έκδοση φέρνει μερικές "
-#~ "αξιοσημείωτες αλλαγές όπως το νέο μενού ήχου, τον διαχειριστή εικόνων "
-#~ "Shotwell και λειτουργίες που κάνουν την αναζήτηση και εγκατάσταση νέου "
-#~ "λογισμικού ακόμη ευκολότερη. Όσο το Ubuntu εγκαθίσταται, αυτή η προβολή θα "
-#~ "σας ξεναγήσει στο νέο περιβάλλον."
+#~ "Το Ubuntu περιέχει την καταπληκτική εφαρμογή αναπαραγωγής μουσικής "
+#~ "Banshee. Με προηγμένες επιλογές αναπαραγωγής και ενσωματωμένο το "
+#~ "κατάστημα μουσικής Ubuntu One, η επιλογή των τέλειων κομματιών για τη "
+#~ "λίστα σας γίνεται απλή υπόθεση. Και λειτουργεί τέλεια με CD και φορητές "
+#~ "συσκευές, έτσι ώστε να απολαμβάνετε τη μουσική σας όπου και αν πάτε."
