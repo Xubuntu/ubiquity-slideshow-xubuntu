@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
 "PO-Revision-Date: 2011-04-05 17:30+0000\n"
-"Last-Translator: Tran Duy Hung <nguyentieuhau@gmail.com>\n"
+"Last-Translator: Hung Tran <nguyentieuhau@gmail.com>\n"
 "Language-Team: Vietnamese <vi@li.org>\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:37+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
-"Language: vi\n"
+"X-Launchpad-Export-Date: 2011-09-26 09:37+0000\n"
+"X-Generator: Launchpad (build 14012)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/browser.html:1
@@ -40,13 +40,11 @@ msgstr "Nó nhanh với một giao diện người dùng rõ ràng."
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/browser.html:16
 msgid ""
-"More information on the <a "
-"href=\"http://sites.google.com/a/chromium.org/dev/Home\">Chromium "
-"website</a>."
+"More information on the <a href=\"http://sites.google.com/a/chromium.org/dev/"
+"Home\">Chromium website</a>."
 msgstr ""
-"Tham khảo thêm tại <a "
-"href=\"http://sites.google.com/a/chromium.org/dev/Home\">website của "
-"Chromium</a>."
+"Tham khảo thêm tại <a href=\"http://sites.google.com/a/chromium.org/dev/Home"
+"\">website của Chromium</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/browser.html:20
@@ -125,12 +123,12 @@ msgstr "Tìm kiếm sự trợ giúp"
 msgid "If you need help, you can contact us:"
 msgstr "Nếu cần trợ giúp, bạn có thể liên lạc với chúng tôi:"
 
-#. The url should not be translated
+#.  The url should not be translated 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:12
 msgid ""
-"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
-"page</a>."
+"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki page</"
+"a>."
 msgstr ""
 "Sử dụng <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">trang wiki</a>."
 
@@ -140,8 +138,8 @@ msgid ""
 "On the mailing list, subscribe on <a href=\"https://launchpad.net/~lubuntu-"
 "desktop\">the page</a>."
 msgstr ""
-"Trên mailing list, hãy đăng ký theo dõi tại <a "
-"href=\"https://launchpad.net/~lubuntu-desktop\">trang này</a>."
+"Trên mailing list, hãy đăng ký theo dõi tại <a href=\"https://launchpad.net/"
+"~lubuntu-desktop\">trang này</a>."
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:20
@@ -204,8 +202,7 @@ msgstr "Cài đặt phần mềm"
 msgid ""
 "With Lubuntu, you have access to the whole Ubuntu repository and all the "
 "software included."
-msgstr ""
-"Với Lubuntu, bạn có thể truy cập vào toàn bộ kho phần mềm của Ubuntu."
+msgstr "Với Lubuntu, bạn có thể truy cập vào toàn bộ kho phần mềm của Ubuntu."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/install.html:12
@@ -234,7 +231,7 @@ msgstr ""
 "Lubuntu được dựa trên <em>Môi trường Màn hình nền LXDE</em>, một môi trường "
 "màn hình nền nhanh và tiết kiệm năng lượng."
 
-#. The url "lxde.org" should not be translated
+#.  The url "lxde.org" should not be translated 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/lxde.html:12
 msgid "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
@@ -249,14 +246,14 @@ msgstr "Abiword và Gnumeric"
 #: slideshows/lubuntu/slides/office.html:8
 msgid ""
 "Use <em>Abiword and Gnumeric</em>, lightweight alternatives for LibreOffice, "
-"and create letters, spreadsheets, etc. Information on <a "
-"href=\"http://www.abisource.com/\">Abiword</a> and <a "
-"href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> websites."
+"and create letters, spreadsheets, etc. Information on <a href=\"http://www."
+"abisource.com/\">Abiword</a> and <a href=\"http://projects.gnome.org/"
+"gnumeric/\">Gnumeric</a> websites."
 msgstr ""
 "Sử dụng <em>Abiword và Gnumeric</em>, những thay thế gọn nhẹ cho "
 "LibreOffice, và tạo văn bản, bảng tính, vân vân. Thông tin tại website của "
-"<a href=\"http://www.abisource.com/\">Abiword</a> và <a "
-"href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a>."
+"<a href=\"http://www.abisource.com/\">Abiword</a> và <a href=\"http://"
+"projects.gnome.org/gnumeric/\">Gnumeric</a>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:16
@@ -309,13 +306,11 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/videos.html:16
 msgid ""
-"More information on <a "
-"href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-"website</a>."
+"More information on <a href=\"http://sites.google.com/site/kdekorte2/"
+"gnomemplayer\">gnome-mplayer website</a>."
 msgstr ""
-"Thông tin thêm tại <a "
-"href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">website của "
-"gnome-mplayer</a>."
+"Thông tin thêm tại <a href=\"http://sites.google.com/site/kdekorte2/"
+"gnomemplayer\">website của gnome-mplayer</a>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/videos.html:24
@@ -334,8 +329,8 @@ msgstr "Xin chào"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:8
-msgid "Thank you for choosing Lubuntu 11.04."
-msgstr "Cảm ơn bạn đã chọn Lubuntu 11.04."
+msgid "Thank you for choosing Lubuntu 11.10."
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:12
@@ -343,68 +338,5 @@ msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
 msgstr ""
 "Lubuntu được thiết kế để chạy nhanh và dễ sử dụng. Hãy thoải mái khám phá!"
 
-#~ msgid ""
-#~ "You will be able to watch videos with <em>gnome-mplayer</em>, a fast video "
-#~ "player using mplayer."
-#~ msgstr ""
-#~ "Bạn sẽ có thể xem video với <em>gnome-mplayer</em>, một chương trình nhanh "
-#~ "sử dụng mplayer để chơi video."
-
-#~ msgid ""
-#~ "More information on <a href=\"http://www.abisource.com/\">Abiword</a> and <a "
-#~ "href=\"http://projects.gnome.org/gnumeric/\">Gnumeric websites</a>."
-#~ msgstr ""
-#~ "Tham khảo thêm tại website của <a "
-#~ "href=\"http://www.abisource.com/\">Abiword</a> và <a "
-#~ "href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a>."
-
-#~ msgid "You can create and edit documents like spreadsheets and letters."
-#~ msgstr "Bạn có thể tạo và chỉnh sửa những tài liệu như bảng tính và thư từ."
-
-#~ msgid ""
-#~ "Lubuntu comes with <em>Abiword and Gnumeric</em>, lightweight alternatives "
-#~ "for OpenOffice."
-#~ msgstr ""
-#~ "Lubuntu cung cấp <em>Abiword và Gnumeric</em>, những ứng dụng gọn nhẹ thay "
-#~ "thế cho OpenOffice."
-
-#~ msgid ""
-#~ "More information on <a "
-#~ "href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-#~ "website.</a>"
-#~ msgstr ""
-#~ "Tham khảo thêm tại <a "
-#~ "href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">website của "
-#~ "gnome-mplayer.</a>"
-
-#~ msgid "If you need help, you can contact us :"
-#~ msgstr "Nếu bạn cần sự giúp đỡ, bạn có thể liên lạc với chúng tôi:"
-
-#~ msgid "Support for many formats is included."
-#~ msgstr "Hỗ trợ nhiều định dạng."
-
-#~ msgid ""
-#~ "Go to the menu, and click on Pidgin icon to connect to many Instant Message "
-#~ "services, such as Jabber or Windows Live."
-#~ msgstr ""
-#~ "Vào trình đơn, nhấp chuột vào biểu tượng của Pidgin để kết nối đến nhiều "
-#~ "dịch vụ Tin nhắn Nhanh như Jabber hay Windows Live."
-
-#~ msgid "Installing softwares"
-#~ msgstr "Cài đặt phần mềm"
-
-#~ msgid "Thank you for choosing Lubuntu 10.10."
-#~ msgstr "Cám ơn bạn đã chọn Lubuntu 10.10."
-
-#~ msgid ""
-#~ "Go to the menu, click on Preferences and <em>Synaptic Software Manager</em>."
-#~ msgstr ""
-#~ "Vào trình đơn, tìm đến mục Tùy thích và chọn <em>Bộ quản lý Phần mềm "
-#~ "Synaptic</em>."
-
-#~ msgid ""
-#~ "Lubuntu comes with <em>Abiword and Gnumeric</em>, lightweight alternatives "
-#~ "for LibreOffice."
-#~ msgstr ""
-#~ "Đi kèm với Ubuntu là <em>Abiword và Gnumeric</em>, những ứng dụng nhẹ ký "
-#~ "thay thế cho LibreOffice."
+#~ msgid "Thank you for choosing Lubuntu 11.04."
+#~ msgstr "Cảm ơn bạn đã chọn Lubuntu 11.04."

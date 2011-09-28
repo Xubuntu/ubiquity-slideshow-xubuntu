@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
 "PO-Revision-Date: 2010-11-18 05:20+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Bengali <bn@li.org>\n"
+"Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:37+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
+"X-Launchpad-Export-Date: 2011-09-26 09:37+0000\n"
+"X-Generator: Launchpad (build 14012)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/browser.html:1
@@ -28,8 +29,8 @@ msgid ""
 "Lubuntu is shipped with <em>Chromium</em>, the open-source version of "
 "Chrome, a browser developed by Google."
 msgstr ""
-"লুবুন্টুতে <em>ক্রোমিয়াম</em> নামের একটি ওয়েব ব্রাউজার থাকে, এটি গুগলের "
-"ডেভলপ করা ক্রোম ব্রাউজারের একটি মুক্ত সংস্করণ।"
+"লুবুন্টুতে <em>ক্রোমিয়াম</em> নামের একটি ওয়েব ব্রাউজার থাকে, এটি গুগলের ডেভলপ করা "
+"ক্রোম ব্রাউজারের একটি মুক্ত সংস্করণ।"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/browser.html:12
@@ -39,9 +40,8 @@ msgstr "এটি দ্রুত, একটি পরিষ্কার ইউ�
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/browser.html:16
 msgid ""
-"More information on the <a "
-"href=\"http://sites.google.com/a/chromium.org/dev/Home\">Chromium "
-"website</a>."
+"More information on the <a href=\"http://sites.google.com/a/chromium.org/dev/"
+"Home\">Chromium website</a>."
 msgstr ""
 "<a href=\"http://sites.google.com/a/chromium.org/dev/Home\">ক্রোমিয়াম "
 "ওয়েবসাইটে</a> বিস্তারিত জানুন।"
@@ -119,12 +119,12 @@ msgstr "সহায়তা পাওয়া"
 msgid "If you need help, you can contact us:"
 msgstr ""
 
-#. The url should not be translated
+#.  The url should not be translated 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:12
 msgid ""
-"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
-"page</a>."
+"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki page</"
+"a>."
 msgstr ""
 "<a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">উইকি পেজ</a> ব্যবহার "
 "করা।"
@@ -135,8 +135,8 @@ msgid ""
 "On the mailing list, subscribe on <a href=\"https://launchpad.net/~lubuntu-"
 "desktop\">the page</a>."
 msgstr ""
-"মেইলিং লিস্টে যুক্ত হতে দেখুন <a href=\"https://launchpad.net/~lubuntu-"
-"desktop\">এই পাতাটি</a>।"
+"মেইলিং লিস্টে যুক্ত হতে দেখুন <a href=\"https://launchpad.net/~lubuntu-desktop"
+"\">এই পাতাটি</a>।"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:20
@@ -156,8 +156,7 @@ msgstr "আপনাদের বন্ধুদের সঙ্গে চ্য
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/im.html:8
 msgid "With <em>Pidgin</em>, you will be able to chat with your friends."
-msgstr ""
-"আপনি <em>Pidgin</em> এর সাহায্য আপনার বন্ধুদের সাথে চ্যাট করতে পারবেন।"
+msgstr "আপনি <em>Pidgin</em> এর সাহায্য আপনার বন্ধুদের সাথে চ্যাট করতে পারবেন।"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/im.html:12
@@ -197,8 +196,8 @@ msgid ""
 "With Lubuntu, you have access to the whole Ubuntu repository and all the "
 "software included."
 msgstr ""
-"লুবুন্টুর মাধ্যমে আপনি উবুন্টুর পূর্ণাঙ্গ রিপোজিটরী এবং অন্যান্য সকল "
-"সফটওয়্যার ব্যবহার করতে পারবেন।"
+"লুবুন্টুর মাধ্যমে আপনি উবুন্টুর পূর্ণাঙ্গ রিপোজিটরী এবং অন্যান্য সকল সফটওয়্যার ব্যবহার করতে "
+"পারবেন।"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/install.html:12
@@ -222,10 +221,10 @@ msgid ""
 "Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing and "
 "energy-saving desktop environment."
 msgstr ""
-"লুবুন্টু <em>LXDE ডেস্কটপ পরিবেশ</em> এর ওপর ভিত্তি করে তৈরী, যা দ্রুত কাজ "
-"করে এবং শক্তি বাচাঁয়।"
+"লুবুন্টু <em>LXDE ডেস্কটপ পরিবেশ</em> এর ওপর ভিত্তি করে তৈরী, যা দ্রুত কাজ করে এবং "
+"শক্তি বাচাঁয়।"
 
-#. The url "lxde.org" should not be translated
+#.  The url "lxde.org" should not be translated 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/lxde.html:12
 msgid "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
@@ -240,9 +239,9 @@ msgstr "এবিওয়ার্ড এবং গ্নুমেরিক"
 #: slideshows/lubuntu/slides/office.html:8
 msgid ""
 "Use <em>Abiword and Gnumeric</em>, lightweight alternatives for LibreOffice, "
-"and create letters, spreadsheets, etc. Information on <a "
-"href=\"http://www.abisource.com/\">Abiword</a> and <a "
-"href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> websites."
+"and create letters, spreadsheets, etc. Information on <a href=\"http://www."
+"abisource.com/\">Abiword</a> and <a href=\"http://projects.gnome.org/"
+"gnumeric/\">Gnumeric</a> websites."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -288,15 +287,14 @@ msgid ""
 "You can also obtain additional non-free support by installing the lubuntu-"
 "restricted-extras package."
 msgstr ""
-"বিনামূল্যে পাওয়া যায় না এমন সেবাসমূহ ব্যবহার করতে ইনস্টল করুন lubuntu-"
-"restricted-extras প্যাকেজটি।"
+"বিনামূল্যে পাওয়া যায় না এমন সেবাসমূহ ব্যবহার করতে ইনস্টল করুন lubuntu-restricted-"
+"extras প্যাকেজটি।"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/videos.html:16
 msgid ""
-"More information on <a "
-"href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-"website</a>."
+"More information on <a href=\"http://sites.google.com/site/kdekorte2/"
+"gnomemplayer\">gnome-mplayer website</a>."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -316,69 +314,10 @@ msgstr "স্বাগতম"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:8
-msgid "Thank you for choosing Lubuntu 11.04."
+msgid "Thank you for choosing Lubuntu 11.10."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:12
 msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
-msgstr ""
-"লুবুন্টু সহজ এবং দ্রুত হবার জন্য ডিজাইন করা হয়েছে। পরিভ্রমণের জন্য আপনি "
-"মুক্ত!"
-
-#~ msgid "You can create and edit documents like spreadsheets and letters."
-#~ msgstr "আপনি স্প্রেডশীট এবং চিঠির মত ডকুমেন্ট তৈরী এবং সম্পাদন করতে পারেন"
-
-#~ msgid ""
-#~ "Lubuntu comes with <em>Abiword and Gnumeric</em>, lightweight alternatives "
-#~ "for OpenOffice."
-#~ msgstr ""
-#~ "<em>এবিওয়ার্ড এবং গ্নুমেরিক</em>,ওপেনঅফিসের বিকল্প লুবুন্টু এর সাথে আসে"
-
-#~ msgid ""
-#~ "More information on <a "
-#~ "href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-#~ "website.</a>"
-#~ msgstr ""
-#~ "<a href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-"
-#~ "mplayer ওয়েবসাইট</a> এ অতিরিক্ত তথ্য।"
-
-#~ msgid "If you need help, you can contact us :"
-#~ msgstr "আপনি যদি সাহায্য চান, আপনি আমাদের সাথে যোগাযোগ করতে পারেন"
-
-#~ msgid "Support for many formats is included."
-#~ msgstr "অনেক ফরম্যাটের জন্য সাপোর্ট দেয়া আছে।"
-
-#~ msgid ""
-#~ "Go to the menu, and click on Pidgin icon to connect to many Instant Message "
-#~ "services, such as Jabber or Windows Live."
-#~ msgstr ""
-#~ "অনেক তাৎক্ষণিক বার্তা সুবিধার জন্য, যেমন, জব্বার এবং উইন্ডোজ লাইভ মেনুতে যান "
-#~ "এবং Pidgin আইকনের ওপর ক্লিক করুন।"
-
-#~ msgid "Installing softwares"
-#~ msgstr "সফটওয়্যার ইন্সটল করা"
-
-#~ msgid "Thank you for choosing Lubuntu 10.10."
-#~ msgstr "লুবুন্টু ১০.১০ বেছে নেবার জন্য ধন্যবাদ।"
-
-#~ msgid ""
-#~ "You will be able to watch videos with <em>gnome-mplayer</em>, a fast video "
-#~ "player using mplayer."
-#~ msgstr ""
-#~ "<em>জিনোম-এমপ্লেয়ার</em> ব্যবহার করে আপনি এখানে ভিডিও দেখতে পারবেন, এটি "
-#~ "এমপ্লেয়ার ভিত্তিক একটি মিডিয়া প্লেয়ার।"
-
-#~ msgid ""
-#~ "Go to the menu, click on Preferences and <em>Synaptic Software Manager</em>."
-#~ msgstr ""
-#~ "মেনু থেকে Preferences এ যান এবং <em>সিন্যাপটিক প্যাকেজ ম্যানেজার</em>-এ  "
-#~ "ক্লিক করুন।"
-
-#~ msgid ""
-#~ "More information on <a href=\"http://www.abisource.com/\">Abiword</a> and <a "
-#~ "href=\"http://projects.gnome.org/gnumeric/\">Gnumeric websites</a>."
-#~ msgstr ""
-#~ "<a href=\"http://www.abisource.com/\">এবিআই ওয়ার্ড</a> এবং <a "
-#~ "href=\"http://projects.gnome.org/gnumeric/\">জিনিউমেরি ওয়েবসাইট</a> সম্পর্কে "
-#~ "বিস্তারিত জানুন।"
+msgstr "লুবুন্টু সহজ এবং দ্রুত হবার জন্য ডিজাইন করা হয়েছে। পরিভ্রমণের জন্য আপনি মুক্ত!"

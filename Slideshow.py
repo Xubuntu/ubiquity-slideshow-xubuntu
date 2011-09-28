@@ -1,8 +1,7 @@
 #!/usr/bin/python
 
 import os
-import gtk
-import webkit
+from gi.repository import Gdk, Gtk, WebKit
 import ConfigParser
 import subprocess
 
@@ -12,11 +11,11 @@ from optparse import OptionParser
 import gobject
 
 '''
-A basic GTK widget (webkit.WebView) which displays a slideshow in the
+A basic GTK widget (WebKit.WebView) which displays a slideshow in the
 ubiquity-slideshow format. Feel free to copy and paste this to your application
 and customize it as needed.
 '''
-class SlideshowViewer(webkit.WebView):
+class SlideshowViewer(WebKit.WebView):
 	'''
 	@param  path  Path to the slideshow, in which the slideshow.conf file is stored.
 	@param  locale  Ideal locale to use for the slideshow
@@ -41,12 +40,12 @@ class SlideshowViewer(webkit.WebView):
 		if rtl:
 			parameters += '?rtl'
 		
-		webkit.WebView.__init__(self)
+		WebKit.WebView.__init__(self)
 		self.open(slideshow_main+'#'+parameters)
 		
 		settings = self.get_settings()
 		settings.set_property("enable-default-context-menu", False)
-		#Recent webkit feature. See <http://trac.webkit.org/changeset/52087>.
+		#Recent webkit feature. See <http://trac.WebKit.org/changeset/52087>.
 		settings.set_property("enable-file-access-from-file-uris", True)
 		
 		config_width = int(config.get('Slideshow','width'))
@@ -142,19 +141,19 @@ if os.path.exists(options.path) == False:
 	sys.exit()
 
 
-gtk.gdk.threads_init()
+Gdk.threads_init()
 
-slideshow_window = gtk.Window()
+slideshow_window = Gtk.Window()
 slideshow_window.set_title("Ubiquity Slideshow with Webkit")
-slideshow_window.connect('destroy',gtk.main_quit)
+slideshow_window.connect('destroy',Gtk.main_quit)
 
-slideshow_container = gtk.VBox()
+slideshow_container = Gtk.VBox()
 slideshow_container.set_spacing(8)
 slideshow_window.add(slideshow_container)
 
 slideshow = SlideshowViewer(options.path, locale=options.locale, rtl=options.rtl, controls=options.controls)
 
-install_progressbar = gtk.ProgressBar()
+install_progressbar = Gtk.ProgressBar()
 install_progressbar.set_size_request(-1,30)
 install_progressbar.set_text("Pretending to install. Please wait...")
 install_progressbar.set_fraction(0)
@@ -172,4 +171,4 @@ slideshow_window.show_all()
 install_timer = gobject.timeout_add_seconds(2, progress_increment, install_progressbar, 0.01)
 
 
-gtk.main()
+Gtk.main()

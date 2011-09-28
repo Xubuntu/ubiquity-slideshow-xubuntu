@@ -7,22 +7,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2011-04-12 06:20+0000\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
+"PO-Revision-Date: 2011-09-15 17:06+0000\n"
 "Last-Translator: Miguel Anxo Bouzada <mbouzada@gmail.com>\n"
 "Language-Team: Galician <gl@li.org>\n"
+"Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:38+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
+"X-Launchpad-Export-Date: 2011-09-26 09:36+0000\n"
+"X-Generator: Launchpad (build 14012)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
 msgid "Accessibility in Edubuntu"
 msgstr "Accesibilidade en Edubuntu"
 
-#. "your" refers to a large group that includes the reader.
+#.  "your" refers to a large group that includes the reader. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:6
 msgid ""
@@ -34,8 +35,8 @@ msgstr ""
 "sexa a súa condición física. Polo que, ofrecemos ferramentas que fan de "
 "Edubuntu un dos sistemas operativos máis accesíbeis que existen."
 
-#. The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#. Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention.
+#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
+#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:7
 msgid ""
@@ -50,8 +51,8 @@ msgstr ""
 "da pantalla) ou clic en pausa (para premer os botóns do rato "
 "automaticamente)."
 
-#. As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#. Preferences > Appearance. Certain words were kept the same to make the menu item discoverable.
+#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
+#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:8
 msgid ""
@@ -102,17 +103,16 @@ msgstr "Calculadora de Gnome"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome "
-"Calculator</em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
+"em>."
 msgstr ""
-"Edubuntu inclúe a versión máis recente da potente <em>Calculadora de "
-"Gnome</em>."
+"Edubuntu inclúe a versión máis recente da potente <em>Calculadora de Gnome</"
+"em>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:7
 msgid "It supports financial operations and up-to-date currency conversions."
-msgstr ""
-"Admite operacións financeiras e ata conversións de moeda actualizadas."
+msgstr "Admite operacións financeiras e ata conversións de moeda actualizadas."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:8
@@ -170,8 +170,7 @@ msgstr "Un gran software de escritorio"
 msgid ""
 "<em>LibreOffice</em> is a powerful office software suite that is easy to "
 "understand."
-msgstr ""
-"<em>LibreOffice</em> é unha potente suite ofimática doada de manexar."
+msgstr "<em>LibreOffice</em> é unha potente suite ofimática doada de manexar."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:7
@@ -201,7 +200,7 @@ msgstr "<em>Gimp</em> é un editor de imaxes e fotos potente e programable."
 msgid "Getting Help with Edubuntu"
 msgstr "Conseguir axuda en Edubuntu"
 
-#. The string "Help and Support" should be exactly as it appears in the System menu.
+#.  The string "Help and Support" should be exactly as it appears in the System menu. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:6
 msgid ""
@@ -211,7 +210,7 @@ msgstr ""
 "Se precisa axuda, probe en <em>Axuda e asistencia técnica</em> no menú "
 "Sistema, ou no menú de <em>Axuda</em> na maioría dos aplicativos."
 
-#. The url "edubuntu.org/support" should not be translated
+#.  The url "edubuntu.org/support" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid ""
@@ -230,15 +229,15 @@ msgstr ""
 msgid "edubuntu.org</a>"
 msgstr "edubuntu.org</a>"
 
-#. The url "edubuntu.org/community" should not be translated
+#.  The url "edubuntu.org/community" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a "
-"href=\"http://edubuntu.com/community\">"
+"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
+"community\">"
 msgstr ""
-"Fáganos saber a súa experiencia con Edubuntu en <a "
-"href=\"http://edubuntu.com/community\">"
+"Fáganos saber a súa experiencia con Edubuntu en <a href=\"http://edubuntu."
+"com/community\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -463,8 +462,7 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/italc.html:7
-msgid ""
-"Broadcast a desktop session to all users to demonstrate a new concept."
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 "Difundir unha sesión de escritorio para todos os usuarios para demostrar un "
 "novo concepto."
@@ -673,8 +671,7 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/sabayon.html:8
-msgid ""
-"Easily apply custom desktops that have been created to users or groups."
+msgid "Easily apply custom desktops that have been created to users or groups."
 msgstr ""
 "Aplique de xeito sinxelo escritorios personalizados que se teñan creado para "
 "usuarios ou grupos."
@@ -723,26 +720,26 @@ msgstr "Benvido/a e grazas"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 11.04."
-msgstr "Grazas por probar o que se vai a converter en Edubuntu 11.04"
+msgid "Thank you for testing what will become Edubuntu 11.10."
+msgstr "Grazas por  probar o que se convertera en Edubuntu 11.10."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:7
 msgid ""
-"If this is an alpha/beta candidate, please log this installation on <a "
-"href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+"If this is an alpha/beta candidate, please log this installation on <a href="
+"\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 msgstr ""
-"Se isto é una candidata alpha ou beta, rexistre esta instalación en <a "
-"href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+"Se isto é una candidata alpha ou beta, rexistre esta instalación en <a href="
+"\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:8
 msgid ""
-"File bugs at <a "
-"href=\"http://bugs.launchpad.net\">http://bugs.launchpad.net</a>."
+"File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
+"net</a>."
 msgstr ""
-"Informe dos erros en <a "
-"href=\"http://bugs.launchpad.net\">http://bugs.launchpad.net</a>."
+"Informe dos erros en <a href=\"http://bugs.launchpad.net\">http://bugs."
+"launchpad.net</a>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:9
@@ -752,11 +749,11 @@ msgstr "Converse con nós en irc.freenode.net, canle #edubuntu"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:10
 msgid ""
-"Most up to date news at <a "
-"href=\"http://edubuntu.org\">http://edubuntu.org</a>"
+"Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu.org</"
+"a>"
 msgstr ""
-"La mayoría de noticias recientes se pueden encontrar en <a "
-"href=\"http://edubuntu.org\">http://edubuntu.org</a>"
+"La mayoría de noticias recientes se pueden encontrar en <a href=\"http://"
+"edubuntu.org\">http://edubuntu.org</a>"
 
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/testing.html:12
@@ -780,8 +777,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:7
 msgid ""
-"Learn basic computer skills and unleash your creativity with "
-"<em>TuxPaint</em>."
+"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
+"em>."
 msgstr ""
 "Aprender as habilidades básicas de computación e darlle pulo á creatividade "
 "con <em>TuxPaint</em>."
@@ -851,15 +848,15 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 2.6.38 boosts performance and hardware support."
-msgstr "Linux 2.6.38 mellora o rendemento e a compatibilidade de hardware."
+msgid "Linux 3.0 boosts performance and hardware support."
+msgstr "Linux 3.0 aumenta el rendemento e a compatibilidade para hardware."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid ""
-"Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
+msgid "Xorg 1.10, Mesa 7.11 and Compiz delivers breathtaking graphics support."
 msgstr ""
-"Xorg 1.10, Mesa 7.10 e Compiz ofrecen apoio a uns gráficos impresionantes."
+"Xorg 1.10, Mesa 7.11 e Compiz fornecen unha impresionante compatibilidade de "
+"gráficos."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:9
@@ -873,8 +870,8 @@ msgstr "Benvido/a"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 11.04."
-msgstr "Grazas por elixir Edubuntu 11.04."
+msgid "Thank you for choosing Edubuntu 11.10."
+msgstr "Grazas por escoller Edubuntu 11.10."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:7
@@ -903,166 +900,16 @@ msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr ""
 "Edubuntu foi deseñada pada ser doada de empregar. Síntase libre de explorala!"
 
-#~ msgid "Edubuntu Menu Editor"
-#~ msgstr "Editor do menú de Edubuntu"
+#~ msgid "Thank you for choosing Edubuntu 11.04."
+#~ msgstr "Grazas por elixir Edubuntu 11.04."
+
+#~ msgid "Linux 2.6.38 boosts performance and hardware support."
+#~ msgstr "Linux 2.6.38 mellora o rendemento e a compatibilidade de hardware."
+
+#~ msgid "Thank you for testing what will become Edubuntu 11.04."
+#~ msgstr "Grazas por probar o que se vai a converter en Edubuntu 11.04"
 
 #~ msgid ""
-#~ "Click the envelope near the clock to log in to your accounts. New messages "
-#~ "appear there, too, so you can see what's happening at a glance."
+#~ "Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
 #~ msgstr ""
-#~ "Prema no sobre situado preto do reloxo para iniciar a sesión nas súas "
-#~ "contas. As mensaxes novas tamén aparecerán alí, polo que poderá ver dunha "
-#~ "soa ollada todo o que está pasando."
-
-#~ msgid ""
-#~ "There are powerful applications for all sorts of interests, from programming "
-#~ "to creating music and exploring the universe. Take a look at the "
-#~ "<em>Featured Applications</em> section for some of our favourites!"
-#~ msgstr ""
-#~ "Hai aplicativos excelentes para todo tipo de intereses, tanto para a "
-#~ "programación como para crear música ou explorar o universo. Bótelle un ollo "
-#~ "á sección <em>Aplicativos destacados</em> para ver algún dos nosos "
-#~ "preferidos."
-
-#~ msgid ""
-#~ "Shuffle between your laptop, netbook, and company desktop and find "
-#~ "everything you need automatically synchronised. Your documents, music, "
-#~ "bookmarks, address book, and notes – everything goes where you go with "
-#~ "<em>Ubuntu One</em>."
-#~ msgstr ""
-#~ "Cambie entre o seu computador portátil, netbook e computador do traballo e "
-#~ "atopará todo o que necesita sincronizado automaticamente. Os seus "
-#~ "documentos, música, marcadores, caderno de enderezos e notas - todo vai onde "
-#~ "vostede vaia con <em>Ubuntu One</em>."
-
-#~ msgid ""
-#~ "Share folders using your synchronised address book. Project collaboration "
-#~ "has never been easier."
-#~ msgstr ""
-#~ "Comparta cartafoles empregando a sincronización do seu caderno de enderezos. "
-#~ "A colaboración en proxectos nunca foi tan doada."
-
-#~ msgid "Excercise your gray matter"
-#~ msgstr "Exercite a súa materia gris"
-
-#~ msgid "Menus are created and applied using an easy to use menu editor.."
-#~ msgstr ""
-#~ "Os menús créanse e aplícanse cun editor de menús doado de empregar..."
-
-#~ msgid "iTalc Intelligent Teaching"
-#~ msgstr "Ensino intelixente iTalk"
-
-#~ msgid "Play and Learn"
-#~ msgstr "Xogar e aprender"
-
-#~ msgid ""
-#~ "Also included are geography games, turtle programming, a typing tutor, "
-#~ "memory excercises and more!"
-#~ msgstr ""
-#~ "Inclúense tamén xogos de xeografía, a programación de «tartaruga, un titor "
-#~ "de mecanografía, exercicios de memoria e moito máis!"
-
-#~ msgid "<em>Gnome Nanny</em> provides parental controls in Edubuntu."
-#~ msgstr "<em>Gnome Nanny</em> fornece o control paterno en Edubuntu."
-
-#~ msgid "Launch browsers in full-sceen mode in kiosk environments."
-#~ msgstr "Inicie os navegadores a pantalla completa en contornos «quiosco»."
-
-#~ msgid "Monitor user desktops."
-#~ msgstr "Monitor de escritorios de usuarios."
-
-#~ msgid "iTalc"
-#~ msgstr "iTalc"
-
-#~ msgid "Sabayon User Profile Editor"
-#~ msgstr "Editor de perfís de usuario Sabayon"
-
-#~ msgid "ENTER TITLE HERE"
-#~ msgstr "INTRODUZA AQUÍ O TÍTULO"
-
-#~ msgid "Under The Hood"
-#~ msgstr "Nos miolos"
-
-#~ msgid ""
-#~ "<em>Calibre</em> is an e-library solution to all your electronic books."
-#~ msgstr ""
-#~ "<em>Calibre</em> é unha solución de biblioteca electrónica para todos os "
-#~ "seus libros electrónicos."
-
-#~ msgid "Calibre e-Book Manager"
-#~ msgstr "Xestor de libros electrónicos Calibre"
-
-#~ msgid "Geogebra Dynamic Mathematics"
-#~ msgstr "Matemáticas dinámicas Geogebra"
-
-#~ msgid "FreeMind Mindmapping"
-#~ msgstr "Ferramenta para mapas mentais FreeMind"
-
-#~ msgid "Summarize huge amounts of data quickly and easily."
-#~ msgstr "Resuma grandes cantidades de información de xeito rápido e doado."
-
-#~ msgid "<em>FreeMind</em> is a mindmapping tool for everyone."
-#~ msgstr ""
-#~ "<em>FreeMind</em> é unha ferramenta para elaborar mapas mentais para "
-#~ "calquera persoa."
-
-#~ msgid "LibreCAD Computer Aided Drawing"
-#~ msgstr "Deseño asistido por computador LibreCAD"
-
-#~ msgid ""
-#~ "<em>LibreCAD</em>, is a an application for 2D Computer Aided Design (CAD)."
-#~ msgstr ""
-#~ "<em>LibreCAD</em>, é un aplicativo de deseño asistido por computador (CAD) "
-#~ "en 2D."
-
-#~ msgid ""
-#~ "Create technical drawings such as building plans, interiors, mechanical "
-#~ "parts or schemas and diagrams."
-#~ msgstr ""
-#~ "Cree deseños técnicos como planos de edificios, de interiores, pezas "
-#~ "mecánicas ou esquemas e diagramas."
-
-#~ msgid "."
-#~ msgstr "."
-
-#~ msgid ""
-#~ "Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support ."
-#~ msgstr ""
-#~ "Xorg 1.10, Mesa 7.10 e Compiz fornecen unha compatibilidade abraiante."
-
-#~ msgid ""
-#~ "It supports many different hardware platforms, including the most popular "
-#~ "commercial e-book platforms available."
-#~ msgstr ""
-#~ "É compatíbel con diferentes plataformas de hardware, incluíndo as máis "
-#~ "populares plataformas comerciais dispoñíbeis para libros electrónicos."
-
-#~ msgid "Allows you to test downloaded software in a protected environment."
-#~ msgstr "Permítelle probar o software descargado nun contorno protexido."
-
-#~ msgid "Arkose Application Sandboxing"
-#~ msgstr "Contorno de probas para aplicativos Arkose"
-
-#~ msgid ""
-#~ "Integrates with file manager allowing easy execution via graphical "
-#~ "environment."
-#~ msgstr ""
-#~ "Integrado co administrador de ficheiros permitindo unha execución doada a "
-#~ "través do contorno gráfico."
-
-#~ msgid "Unleash Your Creativity With Pencil"
-#~ msgstr "Desenvolva a súa creatividade con Pencil"
-
-#~ msgid "Application Testdrive"
-#~ msgstr "Proba de aplicativos Testdrive"
-
-#~ msgid "Edubuntu ships with <em>software</em>, which has a description."
-#~ msgstr "Edubuntu distribúese con <em>software</em>, que ten unha descrición."
-
-#~ msgid "Support for many geometric contstructions is provided."
-#~ msgstr "Fornecese compatibilidade para moitas construcións xeométricas."
-
-#~ msgid "Automatically sync feeds and news to your favourive device."
-#~ msgstr ""
-#~ "Sincronice de xeito automático as fontes e as novas co seu dispositivo "
-#~ "favorito."
+#~ "Xorg 1.10, Mesa 7.10 e Compiz ofrecen apoio a uns gráficos impresionantes."

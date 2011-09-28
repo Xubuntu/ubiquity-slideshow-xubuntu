@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
 "PO-Revision-Date: 2011-04-10 20:53+0000\n"
 "Last-Translator: mahfiaz <mahfiaz@gmail.com>\n"
 "Language-Team: Estonian <et@li.org>\n"
+"Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:37+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
+"X-Launchpad-Export-Date: 2011-09-26 09:37+0000\n"
+"X-Generator: Launchpad (build 14012)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/browser.html:1
@@ -39,12 +40,11 @@ msgstr "See on kiire ja selge kasutajaliidesega."
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/browser.html:16
 msgid ""
-"More information on the <a "
-"href=\"http://sites.google.com/a/chromium.org/dev/Home\">Chromium "
-"website</a>."
+"More information on the <a href=\"http://sites.google.com/a/chromium.org/dev/"
+"Home\">Chromium website</a>."
 msgstr ""
-"Rohkem informatsiooni lehelt <a "
-"href=\"http://sites.google.com/a/chromium.org/dev/Home\">Chromium</a>."
+"Rohkem informatsiooni lehelt <a href=\"http://sites.google.com/a/chromium."
+"org/dev/Home\">Chromium</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/browser.html:20
@@ -122,15 +122,15 @@ msgstr "Abi saamine"
 msgid "If you need help, you can contact us:"
 msgstr "Kui vajad abi, võid meiega ühendust võtta:"
 
-#. The url should not be translated
+#.  The url should not be translated 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:12
 msgid ""
-"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
-"page</a>."
+"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki page</"
+"a>."
 msgstr ""
-"Kasutades <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
-"lehte</a>."
+"Kasutades <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki lehte</"
+"a>."
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:16
@@ -230,7 +230,7 @@ msgstr ""
 "Lubuntu põhineb <em>LXDE töölaua keskkonnal</em>, kiirelt toimival ja "
 "energiat säästval töölaua keskkonnal."
 
-#. The url "lxde.org" should not be translated
+#.  The url "lxde.org" should not be translated 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/lxde.html:12
 msgid "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
@@ -245,14 +245,14 @@ msgstr "Abiword ja Gnumeric"
 #: slideshows/lubuntu/slides/office.html:8
 msgid ""
 "Use <em>Abiword and Gnumeric</em>, lightweight alternatives for LibreOffice, "
-"and create letters, spreadsheets, etc. Information on <a "
-"href=\"http://www.abisource.com/\">Abiword</a> and <a "
-"href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> websites."
+"and create letters, spreadsheets, etc. Information on <a href=\"http://www."
+"abisource.com/\">Abiword</a> and <a href=\"http://projects.gnome.org/"
+"gnumeric/\">Gnumeric</a> websites."
 msgstr ""
 "<em>Abiword ja Gnumeric</em>, vähenõudlikud alternatiivid LibreOffice'le "
-"loomaks tekstidokumente, arvutustabeleid ja muud. Rohkem teavet <a "
-"href=\"http://www.abisource.com/\">Abiword</a>i ja <a "
-"href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a>i veebilehtedel."
+"loomaks tekstidokumente, arvutustabeleid ja muud. Rohkem teavet <a href="
+"\"http://www.abisource.com/\">Abiword</a>i ja <a href=\"http://projects."
+"gnome.org/gnumeric/\">Gnumeric</a>i veebilehtedel."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:16
@@ -305,13 +305,11 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/videos.html:16
 msgid ""
-"More information on <a "
-"href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-"website</a>."
+"More information on <a href=\"http://sites.google.com/site/kdekorte2/"
+"gnomemplayer\">gnome-mplayer website</a>."
 msgstr ""
-"Rohkem teavet <a "
-"href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-"kodulehelt</ a>."
+"Rohkem teavet <a href=\"http://sites.google.com/site/kdekorte2/gnomemplayer"
+"\">gnome-mplayer kodulehelt</ a>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/videos.html:24
@@ -330,76 +328,13 @@ msgstr "Tere tulemast"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:8
-msgid "Thank you for choosing Lubuntu 11.04."
-msgstr "Täname, et valisid Lubuntu 11.04."
+msgid "Thank you for choosing Lubuntu 11.10."
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:12
 msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
 msgstr "Lubuntu eesmärk on olla lihtne ja kiire. Uuri julgelt!"
 
-#~ msgid ""
-#~ "You will be able to watch videos with <em>gnome-mplayer</em>, a fast video "
-#~ "player using mplayer."
-#~ msgstr ""
-#~ "Videoid võid vaadata <em>gnome-mplayer'iga</em>, mis on kiire mplayer'i "
-#~ "baasil videoesitaja."
-
-#~ msgid ""
-#~ "More information on <a href=\"http://www.abisource.com/\">Abiword</a> and <a "
-#~ "href=\"http://projects.gnome.org/gnumeric/\">Gnumeric websites</a>."
-#~ msgstr ""
-#~ "Rohkem informatsiooni leiad <a "
-#~ "href=\"http://www.abisource.com/\">Abiwordi</a> ja <a "
-#~ "href=\"http://projects.gnome.org/gnumeric/\">Gnumeric veebilehtedelt</a>."
-
-#~ msgid "You can create and edit documents like spreadsheets and letters."
-#~ msgstr ""
-#~ "Sa saad koostada ja redigeerida dokumente nagu näiteks arvutustabelid ja "
-#~ "kirjad."
-
-#~ msgid ""
-#~ "Lubuntu comes with <em>Abiword and Gnumeric</em>, lightweight alternatives "
-#~ "for OpenOffice."
-#~ msgstr ""
-#~ "Lubuntuga tuleb kaasa <em>Abiword ja Gnumeric</em>, kerge alternatiiv "
-#~ "OpenOffice'le."
-
-#~ msgid ""
-#~ "More information on <a "
-#~ "href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer "
-#~ "website.</a>"
-#~ msgstr ""
-#~ "Rohkem teavet <a "
-#~ "href=\"http://sites.google.com/site/kdekorte2/gnomemplayer\">gnome-mplayer'i "
-#~ "veebilehelt.</a>"
-
-#~ msgid "If you need help, you can contact us :"
-#~ msgstr "Kui vajad abi, võid meiega ühendust võtta:"
-
-#~ msgid "Support for many formats is included."
-#~ msgstr "Sisaldab paljude formaatide tuge."
-
-#~ msgid "Installing softwares"
-#~ msgstr "Tarkvara paigaldamine"
-
-#~ msgid "Thank you for choosing Lubuntu 10.10."
-#~ msgstr "Täname, et valisid Lubuntu 10.10."
-
-#~ msgid ""
-#~ "Go to the menu, and click on Pidgin icon to connect to many Instant Message "
-#~ "services, such as Jabber or Windows Live."
-#~ msgstr ""
-#~ "Mine menüüsse ja vajuta Pidgin ikoonile, et ühineda paljude \"Instant "
-#~ "Message\" teenustega, nagu Jabber või Windows Live."
-
-#~ msgid ""
-#~ "Go to the menu, click on Preferences and <em>Synaptic Software Manager</em>."
-#~ msgstr "Mine menüüse, vajuta Eelistused ja <em>Synaptic paketihaldur</ em>."
-
-#~ msgid ""
-#~ "Lubuntu comes with <em>Abiword and Gnumeric</em>, lightweight alternatives "
-#~ "for LibreOffice."
-#~ msgstr ""
-#~ "Lubuntuga on kaasas <em>Abiword ja Gnumeric</ em>, vähenõudlikud "
-#~ "alternatiivid LibreOffice'le."
+#~ msgid "Thank you for choosing Lubuntu 11.04."
+#~ msgstr "Täname, et valisid Lubuntu 11.04."

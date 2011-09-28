@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-04-11 09:58+0200\n"
-"PO-Revision-Date: 2011-04-13 20:26+0000\n"
+"POT-Creation-Date: 2011-09-15 09:18+0200\n"
+"PO-Revision-Date: 2011-09-22 18:51+0000\n"
 "Last-Translator: Shushi Kurose <md81bird@hitaki.net>\n"
 "Language-Team: Japanese <ja@li.org>\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-04-18 08:36+0000\n"
-"X-Generator: Launchpad (build 12821)\n"
-"Language: ja\n"
+"X-Launchpad-Export-Date: 2011-09-26 09:38+0000\n"
+"X-Generator: Launchpad (build 14012)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -26,13 +26,15 @@ msgstr "Ubuntuのカスタマイズ"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/accessibility.html:8
 msgid ""
-"At the heart of Ubuntu&#8217;s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and many options like your "
-"preferred fonts, colour schemes, and languages, Ubuntu is all about working "
-"for real people."
+"At the heart of Ubuntu’s philosophy is a belief that computing is for "
+"everyone. With advanced accessibility tools and options like your preferred "
+"color scheme, text size, and language, Ubuntu is all about working for real "
+"people."
 msgstr ""
-"Ubuntuの理念は、コンピュータはすべての人のためのものであるという信念に基づいています。高度なアクセシビリティツールや、フォント、カラースキーム、言語"
-"といったオプションを提供することで、Ubuntuがあらゆる人にとって役に立つようになっています。"
+"Ubuntuの哲学の中心には万人のためのコンピューティングという信念があります。自"
+"分好みのカラースキーム、テキストサイズ、言語といった先進的なアクセシビリティ"
+"ツールやオプションによって、Ubuntuを実際に使う人が使いやすいようにすることが"
+"できます。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
@@ -41,8 +43,8 @@ msgstr "カスタマイズのオプション"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:16
-msgid "Appearance preferences"
-msgstr "外観の設定"
+msgid "Appearance"
+msgstr "外観"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:20
@@ -63,14 +65,13 @@ msgstr "ウェブを閲覧しましょう"
 #: slideshows/ubuntu/slides/browse.html:8
 msgid ""
 "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from Ubuntu Software Center."
+"choose alternative browsers from the Ubuntu Software Center."
 msgstr ""
-"UbuntuにはMozilla "
-"Firefoxが含まれ、高速で安全なWebブラウジングができます。Ubuntuソフトウェアセンターから、他のブラウザを選ぶこともできます。"
+"Ubuntu には Mozilla Firefox が含まれており、高速で安全なWebブラウジングができ"
+"ます。Ubuntuソフトウェアセンターで他のブラウザーを選ぶこともできます。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
-#: slideshows/ubuntu/slides/email.html:12
 #: slideshows/ubuntu/slides/music.html:12
 #: slideshows/ubuntu/slides/office.html:12
 #: slideshows/ubuntu/slides/photos.html:12
@@ -80,12 +81,11 @@ msgstr "含まれるソフトウェア"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:16
 msgid "Firefox web browser"
-msgstr "Firefox ウェブ・ブラウザ"
+msgstr "Firefox ウェブブラウザー"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:19
-#: slideshows/ubuntu/slides/email.html:23
-#: slideshows/ubuntu/slides/photos.html:23
+#: slideshows/ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "サポートされるソフトウェア"
 
@@ -100,74 +100,51 @@ msgid "Chromium"
 msgstr "Chromium"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/email.html:1
-msgid "Email and chat"
-msgstr "メールとチャット"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/email.html:8
-msgid ""
-"The Messaging Menu has lots of features to make online communication "
-"effortless. Chat helps you log in to all your instant messaging accounts "
-"including MSN, Jabber, and Facebook. Your contacts appear in the same place, "
-"ready for text or video chat."
-msgstr ""
-"Messaging Menu にはオンラインのコミュニケーションを簡単で身近なものにするためのたくさんの機能があります。チャットでは、あなたの持つ "
-"MSN、Jabber、Facebook "
-"などのインスタントメッセージのアカウントすべてにログインすることができます。あなたの連絡先はすべて同じ場所に表示され、テキストによるチャットとビデオによる"
-"チャットの両方に対応しています。"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/email.html:16
-msgid "Empathy IM"
-msgstr "Empathy インターネット・メッセンジャー"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/email.html:20
-msgid "Evolution Mail"
-msgstr "Evolution メール"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/email.html:27
-msgid "Skype"
-msgstr "Skype"
-
-#. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Thank you"
-msgstr "ありがとうございます"
+msgid "Any questions?"
+msgstr "質問がありますか?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
-"Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, so "
-"don&#8217;t hesitate to explore! If you have any questions, try the Help "
-"menu in most applications or browse to <a "
+"Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
+"to get an answer about Ubuntu. With most questions already answered, and "
+"thousands of people ready to help, you’ll be sorted in no time at all. And "
+"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
+"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
 "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options. We hope you enjoy Ubuntu."
+"your other options."
 msgstr ""
-"Ubuntuをお選びいただきありがとうございます。Ubuntuは簡単かつ安全であるよう設計されていますので、ためらわずにUbuntuを探検してみてください"
-"！何か疑問がある場合は、ほとんどのアプリケーションにあるヘルプを読むか、他の選択肢を見つけるには <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> "
-"にアクセスしてください。それでは、Ubuntuをお楽しみください。"
+"Ubuntuについての回答を得るのに最適な <a href=\"http://askubuntu.com/\">Ask "
+"Ubuntu</a> を確認してみましょう。多くの質問がすでに回答済みであったり、助けて"
+"くれる何千もの人々がいたり、すぐに分類することができます。また、期限までに回"
+"答が必要な場合、Canonicalはビジネスユーザー向けに<a href=\"http://www.ubuntu."
+"com/support\">商用サポート</a>を提供しています。その他の選択肢を探すのであれ"
+"ば、<a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>を見てく"
+"ださい。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/mobilise.html:1
-msgid "Mobilise your digital life"
-msgstr "デジタルライフをひとまとめに"
+msgid "Your own personal cloud"
+msgstr "あなたのパーソナルクラウド"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/mobilise.html:8
 msgid ""
-"All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-"One</a> account. Ubuntu One allows you to sync all kinds of files online so "
-"you can access them anywhere. Sync bookmarks, contacts, music, and pictures "
-"across all your computers. Take everything everywhere with Ubuntu One."
+"An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> account "
+"gives you 5GB of cloud storage, so you can store and sync your files and "
+"photos across devices and access them wherever you are in the world. Easily "
+"share them with friends, family and colleagues. Take a photo on your mobile "
+"phone and immediately see it on your desktop, or add <a href=\"https://one."
+"ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
+"music on the move."
 msgstr ""
-"すべてのUbuntuユーザは無料の<a href=\"https://one.ubuntu.com/\">Ubuntu "
-"One</a>アカウントを与えられます。Ubuntu "
-"Oneではあらゆる種類のファイルを同期することができ、どこからでもアクセスすることができます。ブックマーク、音楽、写真などをあなたのすべてのコンピュータの"
-"間で同期することができます。Ubuntu Oneを使って、あらゆるファイルをあらゆる場所から利用しましょう。"
+"<a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> アカウント"
+"は 5GB 分のクラウドストレージを取得できるので、ファイルや写真を保存してデバイ"
+"ス間で同期したり、世界中のどこからでもアクセスしたりできます。これらは友人、"
+"家族、同僚の間で簡単に共有できます。携帯電話で撮った写真をデスクトップで瞬時"
+"に見たり、モバイル向けの<a href=\"https://one.ubuntu.com/services/music/\">音"
+"楽ストリーミング</a>を追加して、移動中に音楽を楽しめます。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:1
@@ -178,13 +155,14 @@ msgstr "音楽を持ち歩こう"
 #: slideshows/ubuntu/slides/music.html:8
 msgid ""
 "Ubuntu comes with the amazing Banshee music player. With advanced playback "
-"options and the Ubuntu One music store built in, it&#8217;s simple to queue "
-"up the perfect songs. And it works great with CDs and portable music "
-"players, so you can enjoy all your music wherever you go."
+"options and the Ubuntu One music store built in, it’s simple to queue up the "
+"perfect songs. And it works great with CDs and portable music players, so "
+"you can enjoy all your music wherever you go."
 msgstr ""
-"Ubuntu には素晴らしい Banshee 音楽プレイヤーが搭載されています。これには高度な再生オプションや Ubuntu One "
-"ミュージックストアが内蔵されており、音楽を快適に再生できます。さらに CD "
-"や携帯音楽プレイヤーとの連携も優れており、音楽を好きな場所に持ち運んで楽しめます。"
+"Ubuntu には Banshee という素晴らしい音楽プレーヤーが入っています。先進的な再"
+"生オプションや Ubuntu One ミュージックストアが組み込まれており、お気に入りの"
+"曲を順番に流すことが簡単にできます。また、CDや携帯音楽プレーヤーとの連携も優"
+"れているので、どこにいても音楽を楽しむことができます。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:16
@@ -198,20 +176,21 @@ msgstr "Ubuntu One ミュージックストア"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
-msgid "Write and present with ease"
-msgstr "執筆やプレゼンテーションも簡単です"
+msgid "Write and present for free"
+msgstr "フリーの文書作成・プレゼンテーション"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/office.html:8
 msgid ""
-"LibreOffice is a free office suite packed with everything you&#8217;ll need "
-"to create impressive documents, spreadsheets, and presentations. LibreOffice "
+"LibreOffice is a free office suite packed with everything you’ll need to "
+"create impressive documents, spreadsheets, and presentations. LibreOffice "
 "tries its best to work with other office software, and it uses the "
 "OpenDocument standards for far-reaching compatibility."
 msgstr ""
-"LibreOffice "
-"は、印象的な文書、スプレッドシート、プレゼンテーションを作成するためのすべてが含まれたフリーのオフィススイートです。LibreOffice "
-"は、他のオフィスソフトウェアとの併用が最適に行えることを目指しており、高い互換性のある OpenDocument 規格を利用しています。"
+"LibreOfficeはフリーのオフィススイートで、印象的なドキュメント、表計算、プレゼ"
+"ンテーションを作成するのに必要なものがすべて含まれています。LibreOfficeは他の"
+"オフィスソフトウェアと協調できるよう力を尽くしており、高い互換性のある "
+"OpenDocument 規格を採用しています"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
@@ -232,13 +211,14 @@ msgstr "写真を楽しもう"
 #: slideshows/ubuntu/slides/photos.html:8
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it&#8217;s easy to share "
-"them and keep them safe. If you&#8217;re feeling creative, you can try lots "
-"of photo apps from the Ubuntu Software Centre."
+"camera or a phone to transfer your photos, then it’s easy to share them and "
+"keep them safe. If you’re feeling creative, you can try lots of photo apps "
+"from the Ubuntu Software Center."
 msgstr ""
-"Shotwell "
-"は手軽に写真管理を行うことのできるガジェットです。カメラや電話を接続して写真を転送すると、写真の共有や保管が安全に行なえます。写真を編集したい場合は、Ub"
-"untu ソフトウェアセンターにある多数の写真アプリを試すことができます。"
+"Shotwellはガジェットに対応した便利な写真管理ツールです。カメラや電話を接続し"
+"て写真を転送すれば、写真の共有や安全な保管を簡単に行なえます。クリエイティブ"
+"なことをしたい場合は、Ubuntuソフトウェアセンターからたくさんの写真アプリケー"
+"ションを試すことができます。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -246,31 +226,30 @@ msgid "Shotwell Photo Manager"
 msgstr "Shotwell フォトマネージャ"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:20
-msgid "Pitivi Video Editor"
-msgstr "PiTiVi 動画エディタ"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:27
+#: slideshows/ubuntu/slides/photos.html:23
 msgid "GIMP Image Editor"
 msgstr "GIMP 画像エディタ"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/photos.html:27
+msgid "Pitivi Video Editor"
+msgstr "PiTiVi 動画エディタ"
+
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/social.html:1
-msgid "Social from the start"
-msgstr "ここから、みんなが繋がります"
+msgid "Stay connected"
+msgstr "つながったままで"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/social.html:8
 msgid ""
-"The Me Menu is your instant connection to web services like Facebook and "
-"Twitter. Just set up your accounts to log in and share with friends. "
-"Anything sent to you appears in the Messaging Menu so you can reply when you "
-"want."
+"The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+"messages from all applications and social networks. See at a glance when "
+"there’s something new to read, regardless how it arrived."
 msgstr ""
-"Me Menu により Facebook や Twitter といった Web "
-"サービスに瞬時に繋ぐことができます。ログインのためのアカウントを設定するだけで友達と共有できます。あなた宛のすべてのメッセージは Messaging "
-"Menu に表示されるので、好きなときに返信できます。"
+"Ubuntuメッセージインジケーターは、すべてのアプリケーションやソーシャルネット"
+"ワークからの受信メッセージを追跡してお知らせします。どのアプリケーションから"
+"来たかに関係なく、新着メッセージがあるときに見てみてください。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/social.html:12
@@ -295,218 +274,200 @@ msgstr "Identi.ca"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
 msgid "Find even more software"
-msgstr "追加のソフトウェアを見つけてみましょう"
+msgstr "追加のソフトウェアを見つけましょう"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"The Ubuntu Software Centre has thousands of new applications ready for your "
+"The Ubuntu Software Center has thousands of new applications ready for your "
 "computer. Just type what you want or explore the categories like games, "
-"science, and education. It is simple to download new stuff and write reviews "
+"science, and education. It is easy to download new stuff and write reviews "
 "to share your experiences."
 msgstr ""
-"Ubuntu "
-"ソフトウェアセンターには、あなたのコンピュータに対応した数千ものアプリケーションがあります。欲しいソフト名を入力したり、ゲーム・科学・教育といったカテゴリ"
-"から探すだけです。新しいソフトのダウンロードや、体験を共有するためのレビューが簡単に行なえます。"
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/usc.html:12
-msgid "Some of our favourites"
-msgstr "私たちのお気に入りです"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/usc.html:16
-msgid "Stellarium"
-msgstr "Stellarium"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/usc.html:20
-msgid "Inkscape"
-msgstr "Inkscape"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/usc.html:24
-msgid "Frozen Bubble"
-msgstr "Frozen Bubble"
+"Ubuntuソフトウェアセンターには、あなたのコンピューターに対応した数千もの新し"
+"いアプリケーションがあります。欲しいソフト名を入力したり、ゲーム・科学・教育"
+"といったカテゴリから探すだけです。新しいソフトのダウンロードや、体験を共有す"
+"るためのレビューが簡単に行なえます。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 11.04"
-msgstr "Ubuntu 11.04 へようこそ"
+msgid "Welcome to Ubuntu 11.10"
+msgstr "Ubuntu 11.10 へようこそ"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
 msgid ""
 "Ubuntu is packed with features to make your computer delightful to use. This "
-"version introduces the Unity desktop interface; a brand new way to find and "
-"manage your applications. We&#8217;d like to show some cool things to look "
-"for in your new operating system."
+"version consolidates the Unity desktop interface; a brand new way to find "
+"and manage your applications. Now with more features and faster. We’d like "
+"to show some cool things to look for in your new operating system."
 msgstr ""
-"Ubuntu にはコンピュータを楽しく使うための機能が詰め込まれています。このバージョンには Unity "
-"デスクトップインターフェースや、アプリケーションを探したり管理したりするための新しい方法が取り込まれています。これから、新しいオペレーティングシステムのク"
-"ールな部分を紹介いたします。"
+"Ubuntu にはコンピューターを楽しく使うための機能が詰め込まれています。このバー"
+"ジョンには Unity デスクトップインターフェースが採用されており、新しい方法でア"
+"プリケーションを探したり管理することができます。また、より多機能で高速になっ"
+"ています。これから、新しいオペレーティングシステムのクールな部分を紹介いたし"
+"ます。"
 
-#~ msgid "Welcome"
-#~ msgstr "ようこそ"
+#~ msgid "Social from the start"
+#~ msgstr "ここから、みんなが繋がります"
 
-#~ msgid "Get help with Ubuntu"
-#~ msgstr "Ubuntu に関するヘルプ"
+#~ msgid "Appearance preferences"
+#~ msgstr "外観の設定"
 
-#~ msgid "OpenOffice.org"
-#~ msgstr "OpenOffice.org"
+#~ msgid "Skype"
+#~ msgstr "Skype"
 
-#~ msgid "View, store and edit photos"
-#~ msgstr "写真を表示、保存、編集しましょう"
-
-#~ msgid "GIMP – Advanced image editing for photographers and graphic designers"
-#~ msgstr "GIMP – 写真家、グラフィックデザイナーのための高機能画像エディタ"
-
-#~ msgid "Jokosher – Your very own home recording studio"
-#~ msgstr "Jokosher – あなたの家のレコーディングスタジオ"
-
-#~ msgid "Stellarium – A 3D planetarium for your computer"
-#~ msgstr "Stellarium – コンピュータ上で動作する3Dプラネタリウム"
+#~ msgid "Evolution Mail"
+#~ msgstr "Evolution メール"
 
 #~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is the belief that computing is "
-#~ "for everyone. With advanced accessibility tools and hundreds of options like "
-#~ "your preferred fonts, color schemes and languages, Ubuntu provides the "
-#~ "flexibility to fit real people, whoever they are."
+#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+#~ "choose alternative browsers from Ubuntu Software Center."
 #~ msgstr ""
-#~ "「Ubuntuの哲学」の核心部分は、誰もがコンピュータを使えるようにすることです。Ubuntuは、高度なアクセシビリティ・ツールと、たとえば主に使われるフ"
-#~ "ォントやカラースキーマ、利用言語など、多くの選択肢を提供します。Ubuntuは、「そこにいる」人すべてに、求めるものに沿ったものを提供しようとしています。"
+#~ "UbuntuにはMozilla Firefoxが含まれ、高速で安全なWebブラウジングができます。"
+#~ "Ubuntuソフトウェアセンターから、他のブラウザを選ぶこともできます。"
 
-#~ msgid "Customization options"
-#~ msgstr "カスタマイズの選択肢"
+#~ msgid "Empathy IM"
+#~ msgstr "Empathy インターネット・メッセンジャー"
 
-#~ msgid "Gwibber Microblogging"
-#~ msgstr "Gwibber ソーシャルクライアント"
+#~ msgid "Email and chat"
+#~ msgstr "メールとチャット"
 
-#~ msgid "Mobilize your digital life"
-#~ msgstr "デジタルライフをひとつにまとめる"
+#~ msgid "Mobilise your digital life"
+#~ msgstr "デジタルライフをひとまとめに"
+
+#~ msgid "Write and present with ease"
+#~ msgstr "執筆やプレゼンテーションも簡単です"
+
+#~ msgid "Welcome to Ubuntu 11.04"
+#~ msgstr "Ubuntu 11.04 へようこそ"
+
+#~ msgid "Stellarium"
+#~ msgstr "Stellarium"
+
+#~ msgid "Inkscape"
+#~ msgstr "Inkscape"
+
+#~ msgid "Some of our favourites"
+#~ msgstr "私たちのお気に入りです"
 
 #~ msgid ""
-#~ "Use Empathy to get chatting with your accounts from Yahoo, Facebook, Gmail, "
-#~ "MSN, Jabber and many more. Set your status and reach all your instant "
-#~ "messaging contacts from a single place."
+#~ "The Me Menu is your instant connection to web services like Facebook and "
+#~ "Twitter. Just set up your accounts to log in and share with friends. "
+#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
+#~ "you want."
 #~ msgstr ""
-#~ "Empathy を使えば、Yahoo、Facebook、Gmail、MSN、Jabber "
-#~ "他、多数のアカウントでチャットできます。ステータスの変更とインスタントメッセージングのコンタクトは、一箇所から設定できます。"
+#~ "Me Menu により Facebook や Twitter といった Web サービスに瞬時に繋ぐことが"
+#~ "できます。ログインのためのアカウントを設定するだけで友達と共有できます。あ"
+#~ "なた宛のすべてのメッセージは Messaging Menu に表示されるので、好きなときに"
+#~ "返信できます。"
 
 #~ msgid ""
-#~ "Ubuntu&#8217;s music player includes a built-in store, so you can buy and "
-#~ "download new tracks with a few clicks. Thanks to Ubuntu One&#8217;s file-"
-#~ "syncing magic you can store your music online and listen to it from other "
-#~ "computers. You can add your music to a portable music player, too; just plug "
-#~ "it in to get started."
+#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
+#~ "need to create impressive documents, spreadsheets, and presentations. "
+#~ "LibreOffice tries its best to work with other office software, and it "
+#~ "uses the OpenDocument standards for far-reaching compatibility."
 #~ msgstr ""
-#~ "Ubuntu の音楽プレイヤーにはミュージックストアが組み込まれています。数クリックで新しい楽曲を購入し、ダウンロードできます。Ubuntu One "
-#~ "のファイル同期マジックにより、オンライン上に楽曲を保存し、他のコンピュータで聞くこともできます。携帯音楽プレイヤーに、購入した音楽を追加することもできます"
-#~ "。方法は、お手持ちのプレイヤーを接続するだけです。"
+#~ "LibreOffice は、印象的な文書、スプレッドシート、プレゼンテーションを作成す"
+#~ "るためのすべてが含まれたフリーのオフィススイートです。LibreOffice は、他の"
+#~ "オフィスソフトウェアとの併用が最適に行えることを目指しており、高い互換性の"
+#~ "ある OpenDocument 規格を利用しています。"
+
+#~ msgid ""
+#~ "Ubuntu comes with the amazing Banshee music player. With advanced "
+#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
+#~ "simple to queue up the perfect songs. And it works great with CDs and "
+#~ "portable music players, so you can enjoy all your music wherever you go."
+#~ msgstr ""
+#~ "Ubuntu には素晴らしい Banshee 音楽プレイヤーが搭載されています。これには高"
+#~ "度な再生オプションや Ubuntu One ミュージックストアが内蔵されており、音楽を"
+#~ "快適に再生できます。さらに CD や携帯音楽プレイヤーとの連携も優れており、音"
+#~ "楽を好きな場所に持ち運んで楽しめます。"
 
 #~ msgid ""
 #~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online so "
-#~ "you can access them anywhere. Sync bookmarks, contacts, music and pictures "
-#~ "across all your computers. Take everything everywhere with Ubuntu One."
+#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
+#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
+#~ "pictures across all your computers. Take everything everywhere with "
+#~ "Ubuntu One."
 #~ msgstr ""
-#~ "すべてのUbuntuユーザーは、無料の <a href=\"https://one.ubuntu.com/\">Ubuntu One</a> "
-#~ "アカウントを取得できます。Ubuntu One "
-#~ "を使うと、あらゆるファイルをオンラインで同期でき、どこからでもアクセスできます。ブックマーク、連絡先、音楽、画像を、お使いのコンピュータ同士で同期しましょ"
-#~ "う。いつでも、どこからでも、Ubuntu One は共にあります。"
+#~ "すべてのUbuntuユーザは無料の<a href=\"https://one.ubuntu.com/\">Ubuntu "
+#~ "One</a>アカウントを与えられます。Ubuntu Oneではあらゆる種類のファイルを同"
+#~ "期することができ、どこからでもアクセスすることができます。ブックマーク、音"
+#~ "楽、写真などをあなたのすべてのコンピュータの間で同期することができます。"
+#~ "Ubuntu Oneを使って、あらゆるファイルをあらゆる場所から利用しましょう。"
 
 #~ msgid ""
-#~ "Ubuntu is ready for all your gadgets. Just connect your phones or cameras to "
-#~ "get started. Shotwell makes it easy to organize your digital photos and "
-#~ "share them on Picasa, Facebook or Flickr. For advanced photo editing, you "
-#~ "can find more free applications in Ubuntu Software Center."
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
+#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
+#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
+#~ "try lots of photo apps from the Ubuntu Software Centre."
 #~ msgstr ""
-#~ "Ubuntu はあらゆるガジェットに対応しています。電話やカメラを接続するだけで、初期設定は完了です。Shotwell "
-#~ "はデジタル写真の整理、Picasa、Facebook、Flickr "
-#~ "での共有を簡単に行えます。高度な画像修正が必要なら、Ubuntuソフトウェアセンターで多くの「自由な」アプリケーションを見つけることができるでしょう。"
+#~ "Shotwell は手軽に写真管理を行うことのできるガジェットです。カメラや電話を"
+#~ "接続して写真を転送すると、写真の共有や保管が安全に行なえます。写真を編集し"
+#~ "たい場合は、Ubuntu ソフトウェアセンターにある多数の写真アプリを試すことが"
+#~ "できます。"
+
+#~ msgid "Frozen Bubble"
+#~ msgstr "Frozen Bubble"
 
 #~ msgid ""
-#~ "OpenOffice.org is fully compatible with Microsoft Office and has everything "
-#~ "you need to create professional documents, spreadsheets and presentations. "
-#~ "OpenOffice.org is easy to use, packed with the features you need and "
-#~ "completely free."
+#~ "The Messaging Menu has lots of features to make online communication "
+#~ "effortless. Chat helps you log in to all your instant messaging accounts "
+#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
+#~ "place, ready for text or video chat."
 #~ msgstr ""
-#~ "OpenOffice.org は Microsoft Office "
-#~ "との完全な互換性を持ち、高品質な文書、スプレッドシート、プレゼンテーションをあなたの思いのままに作成できます。OpenOffice.org "
-#~ "は簡単に使え、求められる機能を搭載した、完全に自由に使えるソフトウェアです。"
+#~ "Messaging Menu にはオンラインのコミュニケーションを簡単で身近なものにする"
+#~ "ためのたくさんの機能があります。チャットでは、あなたの持つ MSN、Jabber、"
+#~ "Facebook などのインスタントメッセージのアカウントすべてにログインすること"
+#~ "ができます。あなたの連絡先はすべて同じ場所に表示され、テキストによるチャッ"
+#~ "トとビデオによるチャットの両方に対応しています。"
 
-#~ msgid "Create documents and presentations"
-#~ msgstr "ドキュメントやプレゼンテーションの作成"
-
-#~ msgid "Get free software"
-#~ msgstr "フリーソフトウェアを利用しましょう"
+#~ msgid "Thank you"
+#~ msgstr "ありがとうございます"
 
 #~ msgid ""
-#~ "Ubuntu Software Center gives you instant access to thousands of free, open-"
-#~ "source applications. Browse categories including Education, Games, Graphics "
-#~ "and Science. Software is easy to find, easy to install and easy to remove."
+#~ "The Ubuntu Software Centre has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is simple to download new stuff and "
+#~ "write reviews to share your experiences."
 #~ msgstr ""
-#~ "Ubuntuソフトウェアセンターでは、数多くのフリーかつオープンソースのアプリケーションに簡単にアクセスできます。「教育・教養」・「ゲーム」・「グラフィッ"
-#~ "クス」「科学＆工学」といった分類から探すことができます。ソフトウェアは簡単に検索、インストール、削除できます。"
-
-#~ msgid "Featured software"
-#~ msgstr "「注目ソフト」"
+#~ "Ubuntu ソフトウェアセンターには、あなたのコンピュータに対応した数千ものア"
+#~ "プリケーションがあります。欲しいソフト名を入力したり、ゲーム・科学・教育と"
+#~ "いったカテゴリから探すだけです。新しいソフトのダウンロードや、体験を共有す"
+#~ "るためのレビューが簡単に行なえます。"
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 10.10. This version brings some exciting "
-#~ "changes including a new sound menu, the Shotwell photo manager and features "
-#~ "that make it even easier to find and install new software. While Ubuntu is "
-#~ "installed, this slideshow will show you around."
+#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
+#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
+#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
+#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
+#~ "hope you enjoy Ubuntu."
 #~ msgstr ""
-#~ "Ubuntu 10.10 を選んで頂き、ありがとうございます。このバージョンには、新しいサウンドメニュー・Shotwell "
-#~ "フォトマネージャ・ソフトウェアを簡単に検索してインストールできる機能などなど、大胆な変更が加えられています。Ubuntu "
-#~ "がインストールされている間、スライドショーが新機能をご案内します。"
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Rhythmbox ミュージック・プレイヤー"
-
-#~ msgid "Google Chrome"
-#~ msgstr "Google Chrome"
-
-#~ msgid "Buy music while you listen"
-#~ msgstr "音楽を聴きながら購入"
+#~ "Ubuntuをお選びいただきありがとうございます。Ubuntuは簡単かつ安全であるよう"
+#~ "設計されていますので、ためらわずにUbuntuを探検してみてください！何か疑問が"
+#~ "ある場合は、ほとんどのアプリケーションにあるヘルプを読むか、他の選択肢を見"
+#~ "つけるには <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</"
+#~ "a> にアクセスしてください。それでは、Ubuntuをお楽しみください。"
 
 #~ msgid ""
-#~ "With the Me Menu, being sociable has never been so easy. Use it to instantly "
-#~ "post updates on sites like Facebook and Twitter. New messages appear in the "
-#~ "messaging menu so you can respond when you want."
+#~ "Ubuntu is packed with features to make your computer delightful to use. "
+#~ "This version introduces the Unity desktop interface; a brand new way to "
+#~ "find and manage your applications. We&#8217;d like to show some cool "
+#~ "things to look for in your new operating system."
 #~ msgstr ""
-#~ "Me Menu によって、これまでにないほど簡単に繋がるようになりました。これを使うことで Facebook や Twitter "
-#~ "などのサイトに素早く最新情報を投稿できます。メッセージングメニューに新着メッセージが表示されるため、必要なときに返信できます。"
+#~ "Ubuntu にはコンピューターを楽しく使うための機能が詰め込まれています。この"
+#~ "バージョンには Unity デスクトップインターフェースが採用されており、新しい"
+#~ "方法でアプリケーションを探したり管理することができます。これから、新しいオ"
+#~ "ペレーティングシステムのクールな部分を紹介いたします。"
 
 #~ msgid ""
-#~ "Ubuntu is designed to be easy and safe, so don&#8217;t hesitate to explore! "
-#~ "If you have any questions, try the Help menu in most applications or <a "
-#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-#~ "your other options. We hope you enjoy Ubuntu."
+#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
+#~ "for everyone. With advanced accessibility tools and many options like "
+#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
+#~ "working for real people."
 #~ msgstr ""
-#~ "Ubuntuは簡単で安全なように設計されています。ぜひ色々なものを触ってみてください。質問があるときは、たいていのアプリケーションにある「ヘルプ」メニュー"
-#~ "を開くか、<a "
-#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>を参照してください。Ubuntu"
-#~ "で楽しまれることを願っています。"
-
-#~ msgid "Customize Ubuntu"
-#~ msgstr "Ubuntu のカスタマイズ"
-
-#~ msgid ""
-#~ "Thank you for choosing Ubuntu 11.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is installed, this slideshow will show you around."
-#~ msgstr ""
-#~ "Ubuntu 11.04 を選んで頂き、ありがとうございます。このバージョンには、完全に再デザインされたデスクトップインタフェースである Unity "
-#~ "などの大胆な変更が加えられています。Ubuntu がインストールされている間、スライドショーが新機能をご案内します。"
-
-#~ msgid ""
-#~ "LibreOffice is fully compatible with Microsoft Office and has everything you "
-#~ "need to create professional documents, spreadsheets and presentations. "
-#~ "LibreOffice is easy to use, packed with the features you need and completely "
-#~ "free."
-#~ msgstr ""
-#~ "LibreOffice はMicrosoft Office "
-#~ "と完全に互換性があり、プロフェッショナルなドキュメント、表計算、プレゼンテーションを作成するのに必要なものすべてを備えています。LibreOffice "
-#~ "は使いやすく、必要な機能が詰めこまれており、完全にフリーです。"
+#~ "Ubuntu&#8217; の理念は、コンピューターはすべての人のためのものであるという"
+#~ "信念に基づいています。高度なアクセシビリティツールや、フォント、カラース"
+#~ "キーム、言語といったオプションを提供することで、Ubuntu があらゆる人にとっ"
+#~ "て役に立つようになっています。"
