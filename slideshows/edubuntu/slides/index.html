@@ -5,12 +5,15 @@
 <head>
 	<title>ubiquity-slideshow-edubuntu</title>
 	
-	<link href="link/general.css" rel="stylesheet" type="text/css" />
+	<link href="link/base.css" rel="stylesheet" type="text/css" />
 	
 	<base target="_blank" />
 	
 	<script type="text/javascript" src="link-core/jquery.js"></script>
 	<script type="text/javascript" src="link-core/jquery.cycle.all.js"></script>
+	
+	<script type="text/javascript" src="link-core/base.js"></script>
+	
 	<script type="text/javascript" src="directory.js"></script>
 	<script type="text/javascript">
 		SLIDESHOW_OPTIONS = {
@@ -18,6 +21,7 @@
 			speed:200,
 		}
 	</script>
+	
 	<script type="text/javascript" src="link-core/slideshow.js"></script>
 </head>
 
@@ -59,9 +63,9 @@
 </div>
 
 <div id="controls">
-<a class="control-arrow" id="prev-slide"></a>
-<a class="control-arrow" id="next-slide"></a>
-<input type="hidden" id="current-slide" />
+	<a class="control-arrow" id="prev-slide" style="display:none;"></a>
+	<a class="control-arrow" id="next-slide"></a>
+	<input type="hidden" id="current-slide" />
 </div>
 
 

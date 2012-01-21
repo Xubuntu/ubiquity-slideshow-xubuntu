@@ -83,20 +83,23 @@ html, body {
 	background: transparent;
 	background-position: 0 0;
 }
-	.control-arrow:hover, .control-arrow:focus {
-		background-position: 0 -69px;
-	}
-	.control-arrow:active {
-		background-position: 0 -138px;
-	}
-	#prev-slide {
-		left: 0;
-		background-image: url(arrow-prev.png);
-	}
-	#next-slide {
-		left: 760px;
-		background-image: url(arrow-next.png);
-	}
+.control-arrow.disabled {
+	cursor:default;
+}
+.control-arrow:hover, .control-arrow:focus {
+	background-position: 0 -69px;
+}
+.control-arrow:active {
+	background-position: 0 -138px;
+}
+#prev-slide {
+	left: 0;
+	background-image: url(arrow-prev.png);
+}
+#next-slide {
+	left: 760px;
+	background-image: url(arrow-next.png);
+}
 
 /* */
 

@@ -77,6 +77,9 @@ a {
 	background-repeat:no-repeat;
 	cursor:pointer;
 }
+.control-arrow.disabled {
+	cursor:default;
+}
 .control-arrow:hover {
 	background-position: 0px -65px;
 }
