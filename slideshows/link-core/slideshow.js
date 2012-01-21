@@ -156,6 +156,7 @@ function setLocale(locale) {
 
 function loadSlides() {
 	var slides = slideshow.children('div');
+	slides.css('display', 'none');
 	slides.each(function(index, slide) {
 		url = $(slide).children('a').attr('href');
 		if (index == 0) $(slide).data('first', true);
