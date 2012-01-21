@@ -1,5 +1,5 @@
 /*
-Javascript component of ubiquity-slideshow global to all variations.
+Slideshow script for ubiquity-slideshow, global to all variations.
 
 * Interprets parameters passed via location.hash (in #?param1=key?param2 format)
 * Creates an animated slideshow inside the #slideshow element.
@@ -9,10 +9,13 @@ Javascript component of ubiquity-slideshow global to all variations.
 Assumptions are made about the design of the html document this is inside of.
 Please see slides/ubuntu/index.html for an example of this script in use.
 
+Please include this script last, after any other scripts.
+
 
 Dependencies (please load these first):
 link-core/jquery.js
 link-core/jquery.cycle.all.js
+link-core/signals.js
 directory.js (note that this file does not exist yet, but will when the build script runs)
 */
 
@@ -21,6 +24,8 @@ directory.js (note that this file does not exist yet, but will when the build sc
    
    The default callback for cycle.next also checks an extra autopause parameter,
    which will pause the slideshow when it reaches the end (but doesn't stop it)
+   
+   Signals: slides-loaded
 */
 
 var slideshow;
@@ -76,8 +81,6 @@ $(document).ready(function() {
 		slideshow_options.next = $('#next-slide');
 	}
 	
-	
-	
 	slideshow_options.after = function(curr, next, opts) {
 		var index = opts.currSlide;
 		/* pause at last slide if requested in options */
@@ -86,8 +89,25 @@ $(document).ready(function() {
 		}
 	}
 	
+	slideshow_options.before = function(curr, next, opts) {
+		if ($(next).data('last')) {
+			$('#next-slide').addClass('disabled').fadeOut(slideshow_options.speed);
+			
+		} else {
+			$('#next-slide').removeClass('disabled').fadeIn(slideshow_options.speed);
+		}
+		
+		if ($(next).data('first')) {
+			$('#prev-slide').addClass('disabled').fadeOut(slideshow_options.speed);
+		} else {
+			$('#prev-slide').removeClass('disabled').fadeIn(slideshow_options.speed);
+		}
+	}
+	
 	$.extend(slideshow_options, window.SLIDESHOW_OPTIONS);
 	slideshow.cycle(slideshow_options);
+	
+	Signals.fire('slides-loaded');
 });
 
 
@@ -135,9 +155,18 @@ function setLocale(locale) {
 
 
 function loadSlides() {
-	slideshow.children('div').each(function() {
-		url = $(this).children('a').attr('href');
-		$(this).load(url);
+	var slides = slideshow.children('div');
+	slides.each(function(index, slide) {
+		url = $(slide).children('a').attr('href');
+		if (index == 0) $(slide).data('first', true);
+		if (index == slides.length-1) $(slide).data('last', true);
+		$.ajax({
+			url: url,
+			async: false,
+			success: function(data, status, xhr) {
+				$(slide).append(data);	
+			}
+		});
 	});
 }
 
