@@ -2,10 +2,36 @@
 
 /* FIXME: Load (and verify connection) immediately, but do not start showing tweets until twitter-stream is visible! */
 
-var SEARCH_URL = 'http://search.twitter.com/search.json';
-
 function escapeHTML(text) {
 	return $('<div/>').text(text).html()
+}
+
+function spliceText(text, indices) {
+	// Copyright 2010, Wade Simmons <https://gist.github.com/442463>
+	// Licensed under the MIT license
+	var result = "";
+	var last_i = 0;
+	var i = 0;
+	
+	for (i=0; i < text.length; ++i) {
+		var ind = indices[i];
+		if (ind) {
+			var end = ind[0];
+			var output = ind[1];
+			if (i > last_i) {
+				result += escapeHTML(text.substring(last_i, i));
+			}
+			result += output;
+			i = end - 1;
+			last_i = end;
+		}
+	}
+	
+	if (i > last_i) {
+		result += escapeHTML(text.substring(last_i, i));
+	}
+	
+	return result;
 }
 
 function Tweet(data) {
@@ -43,29 +69,7 @@ function Tweet(data) {
 			entityIndices[entry.indices[0]] = [entry.indices[1], link];
 		});
 		
-		var result = "";
-		var last_i = 0;
-		var i = 0;
-		
-		for (i=0; i < data.text.length; ++i) {
-			var ind = entityIndices[i];
-			if (ind) {
-				var end = ind[0];
-				var output = ind[1];
-				if (i > last_i) {
-					result += escapeHTML(data.text.substring(last_i, i));
-				}
-				result += output;
-				i = end - 1;
-				last_i = end;
-			}
-		}
-		
-		if (i > last_i) {
-			result += escapeHTML(data.text.substring(last_i, i));
-		}
-		
-		return result;
+		return spliceText(data.text, entityIndices);
 	}
 	var linkedText = linkEntities();
 	
@@ -99,7 +103,7 @@ function TweetsList(container) {
 	container.append(list);
 	
 	var cleanup = function() {
-		var bottom = list.offsetParent().height();
+		var bottom = container.height();
 		list.children().each(function(index, listItem) {
 			if ($(listItem).position().top > bottom) {
 				$(listItem).remove();
@@ -127,90 +131,127 @@ function TweetsList(container) {
 	}
 }
 
+function TweetQuery(lang) {
+	var tweetQuery = this;
+	
+	var QUERY_URL = 'http://search.twitter.com/search.json';
+	
+	lang = lang || 'all';
+	var request = {
+		'q' : '#ubuntu',
+		'lang' : lang,
+		'rpp' : '30',
+		'result_type' : 'recent', // FIXME: I'd like to do 'popular', but it only returns one result
+		'include_entities' : 'true'
+	};
+	// request is tightly encapsulated because we might move that logic to a remote server
+	
+	var lastUpdate = 0;
+	
+	/** Time since last update, in seconds */
+	this.getTimeSinceUpdate = function() {
+		var now = Date.now();
+		return now - lastUpdate;
+	}
+	
+	this.loadTweets = function(loadedCallback) {
+		var newTweets = [];
+		
+		$.ajax({
+			url: QUERY_URL,
+			dataType: 'jsonp',
+			data: request,
+			timeout: 5000,
+			success: function(data, status, xhr) {
+				if ('results' in data) {
+					$.each(data.results, function(index, tweet_data) {
+						var tweet = new Tweet(tweet_data);
+						newTweets.push(tweet);					
+					});
+				}
+			},
+			complete: function(xhr, status) {
+				loadedCallback(newTweets);
+			}
+		});
+		lastUpdate = Date.now();
+	}
+}
+
+function TweetBuffer() {
+	var tweetBuffer = this;
+	
+	var query = new TweetQuery('all');
+	
+	var tweets = [];
+	var nextTweetIndex = 0;
+	
+	var loadedCallback = function(newTweets) {
+		if (newTweets.length > 0) {
+			tweets = newTweets;
+		}
+		nextTweet = 0;
+	}
+	
+	/* Loads (if necessary) the next tweet and asynchronously sends it to
+	 * the tweetRetrieved(tweet) callback. The tweet parameter is undefined
+	 * if no tweets are available.
+	 */
+	this.getNextTweet = function(tweetRetrieved) {
+		var advanceBufferAndReturn = function() {
+			var tweet = tweets[nextTweetIndex];
+			nextTweetIndex += 1;
+			tweetRetrieved(tweet);
+		}
+		
+		if (nextTweetIndex < tweets.length) {
+			advanceBufferAndReturn();
+		} else {
+			nextTweetIndex = 0;
+			if (query.getTimeSinceUpdate() > 10 * 60 * 1000) {
+				// load new tweets every 10 minutes
+				query.loadTweets(function(newTweets) {
+					loadedCallback(newTweets);
+					advanceBufferAndReturn();
+				});
+			} else {
+				advanceBufferAndReturn();
+			}
+		}
+	}
+}
+
 Signals.watch('slides-loaded', function() {
 	$('.twitter-stream').each(function(index, stream) {
-		var tweetsContainer = $('<div class="twitter-stream-tweets">');
+		var tweetsContainer = $(stream).children('.twitter-stream-tweets');
 		var tweetsList = new TweetsList(tweetsContainer);
-		$(stream).append(tweetsContainer);
 		
 		
 		var streamActive = false;
-		var tweetsBuffer = [];
+		var tweetBuffer = new TweetBuffer();
 		
-		var nextTweet = 0;
+		var showNextInterval = undefined;
 		var showNextTweet = function() {
-			if (nextTweet < tweetsBuffer.length) {
-				var tweet = tweetsBuffer[nextTweet];
-				tweetsList.showTweet(tweet);
-				nextTweet += 1;
-			} else {
-				loadTweets();
-			}
+			tweetBuffer.getNextTweet(function(tweet) {
+				if (tweet) {
+					if (! streamActive) {
+						$(stream).fadeIn(150);
+						streamActive = true;
+					}
+					tweetsList.showTweet(tweet);
+				} else {
+					// this isn't working, so we'll hide the stream
+					if (streamActive) {
+						$(stream).hide();
+						streamActive = false;
+					}
+					if (showNextInterval) window.clearInterval(showNextInterval);
+				}
+			});
 		}
 		
-		var showNextInterval;
-		var lastUpdate = 0;
-		var loadTweets = function() {
-			var request = {};
-			request['q'] = "#ubuntu";
-			request['lang'] = "all";
-			request['rpp'] = '20';
-			request['result_type'] = 'mixed'; // FIXME: I'd like to do 'popular', but it only returns one result
-			request['include_entities'] = 'true';
-			
-			if (showNextInterval) window.clearInterval(showNextInterval);
-			
-			var showFirstTweet = function() {
-				nextTweet = 0;
-				if (streamActive) {
-					if (tweetsBuffer.length > 0) {
-						showNextTweet();
-					}
-					showNextInterval = window.setInterval(showNextTweet, 2000);
-				}
-			}
-			
-			var now = Date.now();
-			if (now - lastUpdate < 600 * 1000) {
-				// reuse existing data for up to 10 minutes
-				showFirstTweet();
-			} else {
-				// pull more data from the server
-				var request = $.ajax({
-					url: SEARCH_URL,
-					dataType: 'jsonp',
-					data: request,
-					timeout: 5000,
-					success: function(data, status, xhr) {
-						if (! 'results' in data) return;
-					
-						if (data.results.length > 0) {
-							if (!streamActive) {
-								$(stream).fadeIn(150);
-								streamActive = true;
-							}
-							
-							tweetsBuffer = [];
-							$.each(data.results, function(index, tweet_data) {
-								var tweet = new Tweet(tweet_data);
-								tweetsBuffer.push(tweet);					
-							});
-						}
-					},
-					error: function(xhr, status, error) {
-						if (tweetsBuffer.length == 0) {
-							$(stream).hide();
-							streamActive = false;
-						}
-						// otherwise, we'll keep showing the existing tweets
-					},
-					complete: function(xhr, status) {
-						showFirstTweet();
-					}
-				});
-				lastUpdate = now;
-			}
-		}
-		loadTweets();
+		showNextInterval = window.setInterval(showNextTweet, 2000);
+		showNextTweet();
 	});
 });
+

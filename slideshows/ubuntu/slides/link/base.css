@@ -247,11 +247,18 @@ Inner space is 224px wide.
 	right:16px;
 	z-index:2;
 	
+	color:#eee;
+}
+
+.twitter-stream-tweets {
 	overflow:hidden;
 	
-	-webkit-mask-image:-webkit-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,0) 100%);
+	height:100%;
 	
-	color:#eee;
+	margin:0 6px;
+	
+	/* Warning: this is non-standard, only works in Webkit, could break at any time */
+	-webkit-mask-image:-webkit-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,0) 100%);
 }
 
 .twitter-stream h2.twitter-stream-title {
@@ -260,10 +267,7 @@ Inner space is 224px wide.
 	margin:6px 0;
 }
 
-.twitter-stream .tweets-list {
-	margin:0 6px;
-}
-.twitter-stream .tweets-list .tweet {
+.twitter-stream .tweet {
 	padding:6px 0;
 	border-bottom:1px dotted rgba(255, 255, 255, 0.2);
 }
