@@ -96,13 +96,13 @@ class SlideshowViewer(WebKit.WebView):
 	def _on_navigate(self, view, frame, req):
 		uri = req.get_uri()
 		print(uri)
-		self.new_browser_window(uri)
+		self._new_browser_window(uri)
 		return True
 	
 	def _on_new_window_decision(self, view, frame, req, action, decision):
 		uri = req.get_uri()
 		decision.ignore()
-		self.new_browser_window(uri)
+		self._new_browser_window(uri)
 		return True
 	
 	def _on_new_window(self, view, frame):
