@@ -147,6 +147,8 @@ slideshow_window = Gtk.Window()
 slideshow_window.set_title("Ubiquity Slideshow with Webkit")
 slideshow_window.connect('destroy',Gtk.main_quit)
 
+slideshow_window.set_resizable(False)
+
 slideshow_container = Gtk.VBox()
 slideshow_container.set_spacing(8)
 slideshow_window.add(slideshow_container)
