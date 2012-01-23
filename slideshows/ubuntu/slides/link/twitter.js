@@ -39,10 +39,6 @@ function spliceText(text, indices) {
 function Tweet(data) {
 	var tweet = this;
 	
-	function escapeHTML(s) {
-		return s.replace(/</g,"&lt;").replace(/>/g,"^&gt;");
-	}
-	
 	var linkHashTag = function(hashTag) {
 		return 'http://twitter.com/search?q='+escape('#'+hashTag);
 	}
@@ -52,24 +48,35 @@ function Tweet(data) {
 	}
 	
 	var linkEntities = function() {
-		var entities = data.entities;
-		
 		entityIndices = {};
 		
-		$.each(entities.urls, function(i, entry) {
-			var link = '<a class="twitter-url" href="'+escapeHTML(entry.expanded_url)+'">'+escapeHTML(entry.display_url)+'</a>';
-			entityIndices[entry.indices[0]] = [entry.indices[1], link];
-		});
+		if (data.entities.media) {
+			$.each(data.entities.media, function(i, entry) {
+				var link = '<a class="twitter-url twitter-media" href="'+escapeHTML(entry.media_url)+'">'+escapeHTML(entry.display_url)+'</a>';
+				entityIndices[entry.indices[0]] = [entry.indices[1], link];
+			});
+		}
 		
-		$.each(entities.hashtags, function(i, entry) {
-			var link = '<a class="twitter-hashtag" href="'+linkHashTag(entry.text)+'">'+escapeHTML('#'+entry.text)+'</a>';
-			entityIndices[entry.indices[0]] = [entry.indices[1], link];
-		});
+		if (data.entities.urls) {
+			$.each(data.entities.urls, function(i, entry) {
+				var link = '<a class="twitter-url" href="'+escapeHTML(entry.url)+'">'+escapeHTML(entry.display_url)+'</a>';
+				entityIndices[entry.indices[0]] = [entry.indices[1], link];
+			});
+		}
 		
-		$.each(entities.user_mentions, function(i, entry) {
-			var link = '<a class="twitter-mention" href="'+linkUser(entry.screen_name)+'">'+escapeHTML('@'+entry.screen_name)+'</a>';
-			entityIndices[entry.indices[0]] = [entry.indices[1], link];
-		});
+		if (data.entities.hashtags) {
+			$.each(data.entities.hashtags, function(i, entry) {
+				var link = '<a class="twitter-hashtag" href="'+linkHashTag(entry.text)+'">'+escapeHTML('#'+entry.text)+'</a>';
+				entityIndices[entry.indices[0]] = [entry.indices[1], link];
+			});
+		}
+		
+		if (data.entities.user_mentions) {
+			$.each(data.entities.user_mentions, function(i, entry) {
+				var link = '<a class="twitter-mention" href="'+linkUser(entry.screen_name)+'">'+escapeHTML('@'+entry.screen_name)+'</a>';
+				entityIndices[entry.indices[0]] = [entry.indices[1], link];
+			});
+		}
 		
 		return spliceText(data.text, entityIndices);
 	}
