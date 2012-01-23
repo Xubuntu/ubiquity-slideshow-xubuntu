@@ -1,6 +1,8 @@
 /* requires jquery.tweet.js */
 
 /* FIXME: Load (and verify connection) immediately, but do not start showing tweets until twitter-stream is visible! */
+/* FIXME: We need to localize “I'm installing #Ubuntu” in the twitter-stream-header link! */
+/* TODO: Fix tweet slideDown animation to actually slide down instead of changing height */
 
 function escapeHTML(text) {
 	return $('<div/>').text(text).html()
@@ -82,7 +84,7 @@ function Tweet(data) {
 		var authorName = $('<span class="tweet-author-name">');
 		authorName.text(data['from_user_name']);
 		var authorID = $('<span class="tweet-author-id">');
-		authorID.text('@'+data['from_user']);
+		authorID.text(data['from_user']);
 		
 		authorDetails.append(authorName, authorID);
 		container.append(authorDetails);
@@ -135,6 +137,7 @@ function TweetQuery(lang) {
 	var tweetQuery = this;
 	
 	var QUERY_URL = 'http://search.twitter.com/search.json';
+	// note we can support identi.ca with http://identi.ca/api/search.json
 	
 	lang = lang || 'all';
 	var request = {
@@ -250,7 +253,7 @@ Signals.watch('slides-loaded', function() {
 			});
 		}
 		
-		showNextInterval = window.setInterval(showNextTweet, 2000);
+		showNextInterval = window.setInterval(showNextTweet, 5000);
 		showNextTweet();
 	});
 });
