@@ -1,7 +1,5 @@
 /* requires jquery.tweet.js */
 
-/* FIXME: Load (and verify connection) immediately, but do not start showing tweets until twitter-stream is visible! */
-/* FIXME: We need to localize “I'm installing #Ubuntu” in the twitter-stream-header link! */
 /* TODO: Fix tweet slideDown animation to actually slide down instead of changing height */
 
 function escapeHTML(text) {
@@ -203,65 +201,143 @@ function TweetBuffer() {
 		nextTweet = 0;
 	}
 	
-	/* Loads (if necessary) the next tweet and asynchronously sends it to
-	 * the tweetRetrieved(tweet) callback. The tweet parameter is undefined
-	 * if no tweets are available.
-	 */
-	this.getNextTweet = function(tweetRetrieved) {
-		var advanceBufferAndReturn = function() {
-			var tweet = tweets[nextTweetIndex];
-			nextTweetIndex += 1;
-			tweetRetrieved(tweet);
-		}
-		
+	var getNextTweet = function(returnTweet) {
 		if (nextTweetIndex < tweets.length) {
-			advanceBufferAndReturn();
+			returnTweet(tweets[nextTweetIndex]);
 		} else {
 			nextTweetIndex = 0;
 			if (query.getTimeSinceUpdate() > 10 * 60 * 1000) {
 				// load new tweets every 10 minutes
 				query.loadTweets(function(newTweets) {
 					loadedCallback(newTweets);
-					advanceBufferAndReturn();
+					returnTweet(tweets[nextTweetIndex]);
 				});
 			} else {
-				advanceBufferAndReturn();
+				returnTweet(tweets[nextTweetIndex]);
 			}
 		}
 	}
+	
+	
+	this.dataIsAvailable = function(response) {
+		getNextTweet(function(tweet) {
+			response ( (tweet !== undefined) );
+		});
+	}
+	
+	/* Loads (if necessary) the next tweet and sends it asynchronously to
+	 * the tweetReceived(tweet) callback. The tweet parameter is undefined
+	 * if no tweets are available.
+	 */
+	this.popTweet = function(tweetReceived) {
+		getNextTweet(function(tweet) {
+			nextTweetIndex += 1;
+			tweetReceived(tweet);
+		});
+	}
 }
 
-Signals.watch('slides-loaded', function() {
-	$('.twitter-stream').each(function(index, stream) {
-		var tweetsContainer = $(stream).children('.twitter-stream-tweets');
-		var tweetsList = new TweetsList(tweetsContainer);
-		
-		
-		var streamActive = false;
-		var tweetBuffer = new TweetBuffer();
-		
-		var showNextInterval = undefined;
-		var showNextTweet = function() {
-			tweetBuffer.getNextTweet(function(tweet) {
-				if (tweet) {
-					if (! streamActive) {
-						$(stream).fadeIn(150);
-						streamActive = true;
-					}
-					tweetsList.showTweet(tweet);
-				} else {
-					// this isn't working, so we'll hide the stream
-					if (streamActive) {
-						$(stream).hide();
-						streamActive = false;
-					}
-					if (showNextInterval) window.clearInterval(showNextInterval);
-				}
-			});
+function TwitterStream(streamContainer) {
+	var twitterStream = this;
+	
+	var tweetsContainer = $(streamContainer).children('.twitter-stream-tweets');
+	var tweetsList = new TweetsList(tweetsContainer);
+	
+	var tweetBuffer = new TweetBuffer();
+	
+	var showNextInterval = undefined;
+	
+	var showNextTweet = function() {
+		tweetBuffer.popTweet(function(tweet) {
+			if (tweet) {
+				twitterStream.enable();
+				tweetsList.showTweet(tweet);
+			} else {
+				// this isn't working, so we'll hide the stream
+				twitterStream.disable();
+			}
+		});
+	}
+	
+	var _enabled = false;
+	this.isEnabled = function() {
+		return _enabled;
+	}
+	this.enable = function(immediate) {
+		if (_enabled) return;
+		if (immediate) {
+			$(streamContainer).show();
+		} else {
+			$(streamContainer).fadeIn(150);
 		}
-		
+		_enabled = true;
+	}
+	this.disable = function(immediate) {
+		if (! _enabled) return;
+		if (immediate) {
+			$(streamContainer).hide();
+		} else {
+			$(streamContainer).fadeOut(150);
+		}
+		_enabled = false;
+		this.stop();
+	}
+	
+	this.start = function() {
+		this.stop();
 		showNextInterval = window.setInterval(showNextTweet, 5000);
 		showNextTweet();
+	}
+	this.stop = function() {
+		if (showNextInterval) window.clearInterval(showNextInterval);
+	}
+	
+	var _init = function() {
+		tweetBuffer.dataIsAvailable(function(available) {
+			if (available) {
+				twitterStream.enable(true);
+			} else {
+				twitterStream.disable(true);
+			}
+		});
+	}
+	_init();
+}
+
+Signals.watch('slideshow-loaded', function() {
+	$('.twitter-stream').each(function(index, streamContainer) {
+		var stream = new TwitterStream(streamContainer);
+		$(streamContainer).data('stream-object', stream);
+		// TODO: test connection, show immediately if connection is good
+	});
+	
+	$('.twitter-post-status-link').each(function(index, linkContent) {
+		// twitter-post-status-link is a <div> to avoid being translated; we need to wrap it around an <a> tag
+		var statusURL = 'http://twitter.com/home?status='+escape($(linkContent).data('translate'));
+		var link = $('<a>');
+		link.attr('href', statusURL);
+		link.insertBefore(linkContent);
+		$(linkContent).appendTo(link);
+	});
+});
+
+Signals.watch('slide-opened', function(slide) {
+	var streamContainers = $('.twitter-stream', slide);
+	streamContainers.each(function(index, streamContainer) {
+		var stream = $(streamContainer).data('stream-object');
+		if (stream) {
+			stream.start();
+		}
+	});
+});
+
+Signals.watch('slide-closing', function(slide) {
+	var streamContainers = $('.twitter-stream', slide);
+	streamContainers.each(function(index, streamContainer) {
+		var stream = $(streamContainer).data('stream-object');
+		if (stream) {
+			stream.stop();
+		}
 	});
 });
 

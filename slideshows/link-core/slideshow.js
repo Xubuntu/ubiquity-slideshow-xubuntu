@@ -25,7 +25,12 @@ directory.js (note that this file does not exist yet, but will when the build sc
    The default callback for cycle.next also checks an extra autopause parameter,
    which will pause the slideshow when it reaches the end (but doesn't stop it)
    
-   Signals: slides-loaded
+   Signals: slideshow-loaded
+            slideshow-started
+            slide-opening
+            slide-opened
+            slide-closing
+            slide-closed
 */
 
 var slideshow;
@@ -41,58 +46,20 @@ $(document).ready(function() {
 		autopause:true,
 		manualTrump:false,
 	};
+	$.extend(slideshow_options, window.SLIDESHOW_OPTIONS);
 	
-	
-	
-	var instance_options = [];
-	parameters = window.location.hash.slice(window.location.hash.indexOf('#') + 1).split('?');
-	for(var i = 0; i < parameters.length; i++)
-	{
-		hash = parameters[i].split('=');
-		instance_options.push(hash[0]);
-		instance_options[hash[0]] = hash[1];
-	}
-	
-	if ( instance_options.indexOf('locale') > -1 )
+	if ( 'locale' in INSTANCE_OPTIONS )
 		setLocale(instance_options['locale']);
 	
-	if ( instance_options.indexOf('rtl') > -1 )
+	if ( 'rtl' in INSTANCE_OPTIONS )
 		$(document.body).addClass('rtl');
 	
 	loadSlides();
-	
-	
-	
-	var debug_controls;
-	if ( instance_options.indexOf('controls') > -1 )
-		debug_controls = $('#debug-controls');
-	var controls = $('#controls') || debug_controls;
-	
-	if (debug_controls) {
-		debug_controls.show();
-	}
-	
-	if (controls) {
-		/* we assume #controls contains
-		   #current-slide, #prev-slide and #next-slide */
-		/*slideshow.options.loop = true;*/ /* TODO: USE CYCLE.NOWRAP */
-		
-		slideshow_options.prev = $('#prev-slide');
-		slideshow_options.next = $('#next-slide');
-	}
-	
-	slideshow_options.after = function(curr, next, opts) {
-		var index = opts.currSlide;
-		/* pause at last slide if requested in options */
-		if ( index == opts.slideCount - 1 && opts.autopause ) {
-			slideshow.cycle('pause'); /* slides can still be advanced manually */
-		}
-	}
+	Signals.fire('slideshow-loaded');
 	
 	slideshow_options.before = function(curr, next, opts) {
 		if ($(next).data('last')) {
 			$('#next-slide').addClass('disabled').fadeOut(slideshow_options.speed);
-			
 		} else {
 			$('#next-slide').removeClass('disabled').fadeIn(slideshow_options.speed);
 		}
@@ -102,12 +69,35 @@ $(document).ready(function() {
 		} else {
 			$('#prev-slide').removeClass('disabled').fadeIn(slideshow_options.speed);
 		}
+		
+		Signals.fire('slide-closing', $(curr));
+		Signals.fire('slide-opening', $(next));
 	}
 	
-	$.extend(slideshow_options, window.SLIDESHOW_OPTIONS);
-	slideshow.cycle(slideshow_options);
+	slideshow_options.after = function(curr, next, opts) {
+		var index = opts.currSlide;
+		/* pause at last slide if requested in options */
+		if ( index == opts.slideCount - 1 && opts.autopause ) {
+			slideshow.cycle('pause'); /* slides can still be advanced manually */
+		}
+		
+		Signals.fire('slide-closed', $(curr));
+		Signals.fire('slide-opened', $(next));
+	}
 	
-	Signals.fire('slides-loaded');
+	var controls = $('#controls');
+	if ( 'controls' in INSTANCE_OPTIONS ) {
+		var debug_controls = $('#debug-controls');
+		if (debug_controls.length > 0) {
+			debug_controls.show();
+			controls = debug_controls;
+		}
+	}
+	slideshow_options.prev = controls.children('#prev-slide');
+	slideshow_options.next = controls.children('#next-slide');
+	
+	slideshow.cycle(slideshow_options);
+	Signals.fire('slideshow-started');
 });
 
 

@@ -2,6 +2,16 @@
 Additional Javascript for ubiquity-slideshow, global to all variations.
 */
 
+var INSTANCE_OPTIONS = [];
+(function() {
+	var parameters = window.location.hash.slice(window.location.hash.indexOf('#') + 1).split('?');
+	$.each(parameters, function(i, parameter) {
+		hash = parameter.split('=');
+		INSTANCE_OPTIONS.push(hash[0]);
+		INSTANCE_OPTIONS[hash[0]] = hash[1];
+	});
+})();
+
 var Signals = new function() {
 	var handlers = {};
 	
