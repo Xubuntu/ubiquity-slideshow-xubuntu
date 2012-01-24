@@ -312,10 +312,10 @@ Signals.watch('slideshow-loaded', function() {
 	});
 	
 	$('.twitter-post-status-link').each(function(index, linkContent) {
-		// twitter-post-status-link is a <div> to avoid being translated; we need to wrap it around an <a> tag
-		var statusURL = 'http://twitter.com/home?status='+escape($(linkContent).data('translate'));
+		// Twitter-post-status-link is a <div> to avoid being translated. We need to wrap it around an <a> tag
+		var statusText = $(linkContent).children('.twitter-post-status-text').text();
 		var link = $('<a>');
-		link.attr('href', statusURL);
+		link.attr('href', 'http://twitter.com/home?status='+encodeURIComponent(statusText));
 		link.insertBefore(linkContent);
 		$(linkContent).appendTo(link);
 	});
