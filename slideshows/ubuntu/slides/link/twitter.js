@@ -286,7 +286,6 @@ function TwitterStream(streamContainer) {
 	this.start = function() {
 		this.stop();
 		showNextInterval = window.setInterval(showNextTweet, 5000);
-		showNextTweet();
 	}
 	this.stop = function() {
 		if (showNextInterval) window.clearInterval(showNextInterval);
@@ -296,6 +295,8 @@ function TwitterStream(streamContainer) {
 		tweetBuffer.dataIsAvailable(function(available) {
 			if (available) {
 				twitterStream.enable(true);
+				// make sure there is some content visible from the start
+				showNextTweet();
 			} else {
 				twitterStream.disable(true);
 			}

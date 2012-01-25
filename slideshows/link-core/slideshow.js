@@ -46,10 +46,11 @@ $(document).ready(function() {
 		autopause:true,
 		manualTrump:false,
 	};
+	
 	$.extend(slideshow_options, window.SLIDESHOW_OPTIONS);
 	
 	if ( 'locale' in INSTANCE_OPTIONS )
-		setLocale(instance_options['locale']);
+		setLocale(INSTANCE_OPTIONS['locale']);
 	
 	if ( 'rtl' in INSTANCE_OPTIONS )
 		$(document.body).addClass('rtl');
@@ -95,6 +96,9 @@ $(document).ready(function() {
 	}
 	slideshow_options.prev = controls.children('#prev-slide');
 	slideshow_options.next = controls.children('#next-slide');
+	
+	if ( 'slideNumber' in INSTANCE_OPTIONS )
+		slideshow_options.startingSlide = INSTANCE_OPTIONS['slideNumber'];
 	
 	slideshow.cycle(slideshow_options);
 	Signals.fire('slideshow-started');
