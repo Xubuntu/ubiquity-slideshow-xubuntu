@@ -3,7 +3,7 @@
 /* TODO: Fix tweet slideDown animation to actually slide down instead of changing height */
 
 function escapeHTML(text) {
-	return $('<div/>').text(text).html()
+	return $('<div/>').text(text).html();
 }
 
 function spliceText(text, indices) {
@@ -37,6 +37,13 @@ function spliceText(text, indices) {
 function Tweet(data) {
 	var tweet = this;
 	
+	var innerData = data;
+	if (data.retweeted_status) innerData = data.retweeted_status;
+	
+	var userID = innerData.from_user || innerData.user.id;
+	var userRealName = innerData.from_user_name || innerData.user.name;
+	var userScreenName = innerData.from_user || innerData.user.screen_name;
+	
 	var linkHashTag = function(hashTag) {
 		return 'http://twitter.com/search?q='+escape('#'+hashTag);
 	}
@@ -45,51 +52,48 @@ function Tweet(data) {
 		return 'http://twitter.com/'+escape(userName);
 	}
 	
-	var linkEntities = function() {
+	var linkUserID = function(userID) {
+		return 'http://twitter.com/account/redirect_by_id?id='+userID;
+	}
+	
+	var linkEntities = function(entities, text) {
 		entityIndices = {};
 		
-		if (data.entities.media) {
-			$.each(data.entities.media, function(i, entry) {
-				var link = '<a class="twitter-url twitter-media" href="'+escapeHTML(entry.media_url)+'">'+escapeHTML(entry.display_url)+'</a>';
-				entityIndices[entry.indices[0]] = [entry.indices[1], link];
-			});
-		}
+		$.each(entities.media || [], function(i, entry) {
+			var link = '<a class="twitter-url twitter-media" href="'+escapeHTML(entry.media_url)+'">'+escapeHTML(entry.display_url || entry.url)+'</a>';
+			entityIndices[entry.indices[0]] = [entry.indices[1], link];
+		});
 		
-		if (data.entities.urls) {
-			$.each(data.entities.urls, function(i, entry) {
-				var link = '<a class="twitter-url" href="'+escapeHTML(entry.url)+'">'+escapeHTML(entry.display_url)+'</a>';
-				entityIndices[entry.indices[0]] = [entry.indices[1], link];
-			});
-		}
+		$.each(entities.urls || [], function(i, entry) {
+			var link = '<a class="twitter-url" href="'+escapeHTML(entry.url)+'">'+escapeHTML(entry.display_url || entry.url)+'</a>';
+			entityIndices[entry.indices[0]] = [entry.indices[1], link];
+		});
 		
-		if (data.entities.hashtags) {
-			$.each(data.entities.hashtags, function(i, entry) {
-				var link = '<a class="twitter-hashtag" href="'+linkHashTag(entry.text)+'">'+escapeHTML('#'+entry.text)+'</a>';
-				entityIndices[entry.indices[0]] = [entry.indices[1], link];
-			});
-		}
+		$.each(entities.hashtags || [], function(i, entry) {
+			var link = '<a class="twitter-hashtag" href="'+linkHashTag(entry.text)+'">'+escapeHTML('#'+entry.text)+'</a>';
+			entityIndices[entry.indices[0]] = [entry.indices[1], link];
+		});
 		
-		if (data.entities.user_mentions) {
-			$.each(data.entities.user_mentions, function(i, entry) {
-				var link = '<a class="twitter-mention" href="'+linkUser(entry.screen_name)+'">'+escapeHTML('@'+entry.screen_name)+'</a>';
-				entityIndices[entry.indices[0]] = [entry.indices[1], link];
-			});
-		}
+		$.each(entities.user_mentions || [], function(i, entry) {
+			var link = '<a class="twitter-mention" href="'+linkUserID(entry.id)+'">'+escapeHTML('@'+entry.screen_name)+'</a>';
+			entityIndices[entry.indices[0]] = [entry.indices[1], link];
+		});
 		
-		return spliceText(data.text, entityIndices);
+		return spliceText(text, entityIndices);
 	}
-	var linkedText = linkEntities();
+	var linkedText = linkEntities(innerData.entities, innerData.text);
 	
 	this.getHtml = function() {
 		var container = $('<div class="tweet">');
 		
 		var authorDetails = $('<a class="tweet-author-details">');
-		authorDetails.attr('href', linkUser(data['from_user']));
+		authorDetails.attr('href', linkUserID(userID));
 		
 		var authorName = $('<span class="tweet-author-name">');
-		authorName.text(data['from_user_name']);
+		authorName.text(userRealName);
+		
 		var authorID = $('<span class="tweet-author-id">');
-		authorID.text(data['from_user']);
+		authorID.text(userScreenName);
 		
 		authorDetails.append(authorName, authorID);
 		container.append(authorDetails);
@@ -106,7 +110,7 @@ function TweetsList(container) {
 	var tweetsList = this;
 	
 	container = $(container);
-	list = $('<ul class="tweets-list">');
+	var list = $('<ul class="tweets-list">');
 	container.append(list);
 	
 	var cleanup = function() {
@@ -141,18 +145,25 @@ function TweetsList(container) {
 function TweetQuery(lang) {
 	var tweetQuery = this;
 	
-	var QUERY_URL = 'http://search.twitter.com/search.json';
-	// note we can support identi.ca with http://identi.ca/api/search.json
-	
-	lang = lang || 'all';
-	var request = {
-		'q' : '#ubuntu',
-		'lang' : lang,
-		'rpp' : '30',
-		'result_type' : 'recent', // FIXME: I'd like to do 'popular', but it only returns one result
-		'include_entities' : 'true'
-	};
 	// request is tightly encapsulated because we might move that logic to a remote server
+	
+	var QUERY_URL = 'http://api.twitter.com/1/lists/statuses.json';
+	var request = {
+		'owner_screen_name' : 'hello_ubuntu',
+		'slug' : 'installer-slideshow',
+		'include_entities' : true,
+		'include_rts' : true,
+		'per_page' : 25
+	}
+	
+	//var QUERY_URL = 'http://search.twitter.com/search.json';
+	/*var request = {
+		'q' : 'from:ubuntu OR from:ubuntudev OR from:planetubuntu OR from:ubuntul10n OR from:ubuntucloud OR from:ubuntuone OR from:ubuntudesigners OR from:ubuntuunity OR from:canonical',
+		'lang' : 'all',
+		'result_type' : 'recent',
+		'rpp' : 25,
+		'include_entities' : true
+	}*/
 	
 	var lastUpdate = 0;
 	
@@ -171,12 +182,13 @@ function TweetQuery(lang) {
 			data: request,
 			timeout: 5000,
 			success: function(data, status, xhr) {
-				if ('results' in data) {
-					$.each(data.results, function(index, tweet_data) {
-						var tweet = new Tweet(tweet_data);
-						newTweets.push(tweet);					
-					});
-				}
+				//var results = data.results || [];
+				var results = data || [];
+				if ('results' in results) results = results.results;
+				$.each(results, function(index, tweetData) {
+					var tweet = new Tweet(tweetData);
+					newTweets.unshift(tweet);
+				});
 			},
 			complete: function(xhr, status) {
 				loadedCallback(newTweets);
@@ -206,8 +218,8 @@ function TweetBuffer() {
 			returnTweet(tweets[nextTweetIndex]);
 		} else {
 			nextTweetIndex = 0;
-			if (query.getTimeSinceUpdate() > 10 * 60 * 1000) {
-				// load new tweets every 10 minutes
+			if (query.getTimeSinceUpdate() > 15 * 60 * 1000) {
+				// load new tweets every 15 minutes
 				query.loadTweets(function(newTweets) {
 					loadedCallback(newTweets);
 					returnTweet(tweets[nextTweetIndex]);
