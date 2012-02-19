@@ -150,13 +150,15 @@ slideshow_window.connect('destroy',Gtk.main_quit)
 slideshow_window.set_resizable(False)
 
 slideshow_container = Gtk.VBox()
-slideshow_container.set_spacing(8)
 slideshow_window.add(slideshow_container)
 
 slideshow = SlideshowViewer(options.path, locale=options.locale, rtl=options.rtl, controls=options.controls)
 
 install_progressbar = Gtk.ProgressBar()
-install_progressbar.set_size_request(-1,30)
+install_progressbar.set_margin_top(8)
+install_progressbar.set_margin_right(8)
+install_progressbar.set_margin_bottom(8)
+install_progressbar.set_margin_left(8)
 install_progressbar.set_text("Pretending to install. Please wait...")
 install_progressbar.set_fraction(0)
 
