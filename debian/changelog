@@ -1,12 +1,22 @@
 ubiquity-slideshow-ubuntu (53) UNRELEASED; urgency=low
 
+  [ Dylan McCall ]
   * Updates for Ubuntu slideshow
    - Added stream of #ubuntu Twitter messages in gethelp slide
    - Ubuntu version is 12.04 instead of 11.10 (LP: #902505)
    - Updated Chromium icon (LP: #902505)
    - Minor copy changes
 
- -- Dylan McCall <dylanmccall@ubuntu.com>  Tue, 24 Jan 2012 18:10:40 -0800
+  [ Jonathan Carter ]
+  * Updates for the Edubuntu slideshow
+   - Addded larger logo
+   - Increased width between characters in title
+   - Added new background image
+   - Added new logo icons
+   - Re-enable gbrainy slide
+   - Disable freemind slide
+
+ -- Jonathan Carter <jonathan@ubuntu.com>  Tue, 21 Feb 2012 21:52:05 -0500
 
 ubiquity-slideshow-ubuntu (52) precise; urgency=low
 
