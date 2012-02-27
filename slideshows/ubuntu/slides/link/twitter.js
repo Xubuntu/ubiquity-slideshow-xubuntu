@@ -297,7 +297,7 @@ function TwitterStream(streamContainer) {
 	
 	this.start = function() {
 		this.stop();
-		showNextInterval = window.setInterval(showNextTweet, 5000);
+		showNextInterval = window.setInterval(showNextTweet, 6000);
 	}
 	this.stop = function() {
 		if (showNextInterval) window.clearInterval(showNextInterval);
