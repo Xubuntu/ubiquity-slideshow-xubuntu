@@ -317,24 +317,44 @@ function TwitterStream(streamContainer) {
 	_init();
 }
 
+/* Only show the Twitter stuff if the slideshow is supposed to be English */
+var doTwitter = true;
+var language = 'en';
+if ('locale' in INSTANCE_OPTIONS) {
+	var locale_data = parse_locale_code(INSTANCE_OPTIONS['locale']);
+	language = locale_data['language'];
+}
+if (language == 'en') {
+	doTwitter = true;
+} else {
+	doTwitter = false;
+}
+
 Signals.watch('slideshow-loaded', function() {
-	$('.twitter-stream').each(function(index, streamContainer) {
-		var stream = new TwitterStream(streamContainer);
-		$(streamContainer).data('stream-object', stream);
-		// TODO: test connection, show immediately if connection is good
-	});
+	if (doTwitter) {
+		$('.twitter-stream').each(function(index, streamContainer) {
+			var stream = new TwitterStream(streamContainer);
+			$(streamContainer).data('stream-object', stream);
+			// TODO: test connection, show immediately if connection is good
+		});
 	
-	$('.twitter-post-status-link').each(function(index, linkContent) {
-		// Twitter-post-status-link is a <div> to avoid being translated. We need to wrap it around an <a> tag
-		var statusText = $(linkContent).children('.twitter-post-status-text').text();
-		var link = $('<a>');
-		link.attr('href', 'http://twitter.com/home?status='+encodeURIComponent(statusText));
-		link.insertBefore(linkContent);
-		$(linkContent).appendTo(link);
-	});
+		$('.twitter-post-status-link').each(function(index, linkContent) {
+			// Twitter-post-status-link is a <div> to avoid being translated. We need to wrap it around an <a> tag
+			var statusText = $(linkContent).children('.twitter-post-status-text').text();
+			var link = $('<a>');
+			link.attr('href', 'http://twitter.com/home?status='+encodeURIComponent(statusText));
+			link.insertBefore(linkContent);
+			$(linkContent).appendTo(link);
+		});
+	} else {
+		$('.twitter-stream').hide();
+		/* TODO: show something charming? */
+	}
 });
 
 Signals.watch('slide-opened', function(slide) {
+	if (! doTwitter) return;
+	
 	var streamContainers = $('.twitter-stream', slide);
 	streamContainers.each(function(index, streamContainer) {
 		var stream = $(streamContainer).data('stream-object');
@@ -345,6 +365,8 @@ Signals.watch('slide-opened', function(slide) {
 });
 
 Signals.watch('slide-closing', function(slide) {
+	if (! doTwitter) return;
+	
 	var streamContainers = $('.twitter-stream', slide);
 	streamContainers.each(function(index, streamContainer) {
 		var stream = $(streamContainer).data('stream-object');

@@ -35,6 +35,9 @@ directory.js (note that this file does not exist yet, but will when the build sc
 
 var slideshow;
 
+var SLIDESHOW_TRANSLATED;
+var SLIDESHOW_LOCALE;
+
 $(document).ready(function() {
 	slideshow = $('#slideshow');
 	
@@ -106,16 +109,21 @@ $(document).ready(function() {
 
 
 function setLocale(locale) {
+	SLIDESHOW_TRANSLATED = true;
+	SLIDESHOW_LOCALE = locale;
+	
 	slideshow.find('div>a').each(function() {
 		var new_url = get_translated_url($(this).attr('href'), locale);
 		
-		if ( new_url != null ) {
+		if ( new_url != undefined ) {
 			$(this).attr('href', new_url);
+		} else {
+			SLIDESHOW_TRANSLATED = false;
 		}
 	})
 	
 	function get_translated_url(slide_name, locale) {
-		var translated_url = null
+		var translated_url = undefined;
 		
 		if ( translation_exists(slide_name, locale) ) {
 			translated_url = "./loc."+locale+"/"+slide_name;
@@ -146,7 +154,6 @@ function setLocale(locale) {
 		return result;
 	}
 }
-
 
 function loadSlides() {
 	var slides = slideshow.children('div');
