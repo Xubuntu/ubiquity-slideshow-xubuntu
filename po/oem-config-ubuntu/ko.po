@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:17+0200\n"
-"PO-Revision-Date: 2011-09-22 17:20+0000\n"
-"Last-Translator: MinSoo Kim <misol@korea.ac.kr>\n"
+"POT-Creation-Date: 2012-03-15 18:49-0300\n"
+"PO-Revision-Date: 2012-03-06 17:22+0000\n"
+"Last-Translator: Kim Boram <boramism@gmail.com>\n"
 "Language-Team: Korean <ko@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:07+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
-msgid "Customise Ubuntu"
-msgstr "내게 맞게 우분투 다듬기"
+msgid "Customize Ubuntu"
+msgstr "우분투 사용자 설정"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
@@ -31,11 +31,14 @@ msgid ""
 "color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
 "are, and wherever you are."
 msgstr ""
+"우분투 정신의 핵심은 컴퓨터를 모두가 사용할 수 있게 하는 것입니다. 고급 접근"
+"성 도구와 사용자가 선호하는 색, 텍스트 크기, 언어를 설정 옵션이 사람과 장소"
+"에 상관없이 모든 사람이 우분투를 사용할 수 있게 도와줍니다."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:12
-msgid "Customisation options"
-msgstr "다듬기 옵션"
+msgid "Customization options"
+msgstr "사용자 설정 옵션"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:16
@@ -55,14 +58,20 @@ msgstr "언어 지원"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/browse.html:1
 msgid "Browse the web"
-msgstr "인터넷 사용하기"
+msgstr "웹 찾아보기"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from the Ubuntu Software Center."
+"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
+"use and it’s backed by a non-profit foundation that loves the web. If you "
+"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
+"Software Center."
 msgstr ""
+"우분투는 안전하고 빠르게 웹을 찾아볼 수 있는 모질라 파이어폭스를 포함하고 있"
+"습니다. 파이어폭스는 사용하기 쉽고 웹을 사랑하는 비 영리 재단이 지원하고 있습"
+"니다. 파이어폭스를 좋아하지 않으시면 우분투 소프트웨어 센터에서 수많은 대안"
+"을 찾을 수 있습니다."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
@@ -70,12 +79,12 @@ msgstr ""
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
 msgid "Included software"
-msgstr "내장된 소프트웨어"
+msgstr "포함된 소프트웨어"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:16
 msgid "Firefox web browser"
-msgstr "파이어폭스 웹브라우저"
+msgstr "파이어폭스 웹 브라우저"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:19
@@ -96,7 +105,7 @@ msgstr "크로미움"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
 msgid "Any questions?"
-msgstr ""
+msgstr "궁금한 점이 있으십니까?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
@@ -104,16 +113,31 @@ msgid ""
 "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
 "to get an answer about Ubuntu. With most questions already answered, and "
 "thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
-"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options."
+"if you need an answer on a deadline, you can get commercial support and more "
+"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 msgstr ""
+"<a href=\"http://askubuntu.com/\">Ask Ubuntu</a>를 확인하십시오. 우분투에 대"
+"한 질문의 답을 얻을 수 있는 가장 좋은 장소입니다. 대부분의 질문에 대한 대답"
+"이 이미 존재하며 수천 명이 도움을 주기 위해 기다리고 있습니다. 당신의 질문은 "
+"바로 분류됩니다. 특정 시간까지 답을 얻어야 하는 경우에는 <a href=\"http://"
+"www.ubuntu.com/support\">ubuntu.com/support</a> 페이지에서 상업 지원 등을 얻"
+"을 수 있습니다."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
+msgid "Let’s talk Ubuntu"
+msgstr "우분투를 말해봅시다."
+
+#. type: Content of: <div><div><div><div>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
+#, fuzzy
+msgid "I'm installing #Ubuntu!"
+msgstr "설지 중입니다 #Ubuntu"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:1
 msgid "Your own personal cloud"
-msgstr ""
+msgstr "당신만의 개인 클라우드"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:8
@@ -126,25 +150,35 @@ msgid ""
 "ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
 "music on the move."
 msgstr ""
+"<a href=\"https://one.ubuntu.com/services/\">우분투 원 무료</a> 계정은 5GB의 "
+"클라우드 저장소를 제공하므로 전세계 어디에서도 파일과 사진을 여러 장치에 동기"
+"화하고 접근할 수 있습니다. 쉽게 친구들, 가족, 그리고 동료들과 공유하세요. 휴"
+"대전화로 사진을 찍고 바로 데스크톱에서 보거나 모바일용 <a href=\"https://one."
+"ubuntu.com/services/music/\">음악 스트리밍</a>을 추가해 이동 중에도 음악을 즐"
+"기세요"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:1
 msgid "Take your music with you"
-msgstr "언제 어디서나 음악과 함께"
+msgstr "항상 음악과 함께하십시오."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:8
 msgid ""
-"Ubuntu comes with the amazing Banshee music player. With advanced playback "
+"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
 "options and the Ubuntu One music store built in, it’s simple to queue up the "
 "perfect songs. And it works great with CDs and portable music players, so "
 "you can enjoy all your music wherever you go."
 msgstr ""
+"우분투에는 고급 재생 옵션과 우분투 원 음악 상점이 내장되어 있는 매우 뛰어난 "
+"리듬박스 음악 연주기를 포함하고 있습니다. 완벽한 노래를 간단하게 대기열에 추"
+"가할 수 있으며 CD와 음악 연주기와 완벽하게 호환되므로 어떤 장소에서도 가지고 "
+"있는 모든 음악을 즐길 수 있습니다."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:16
-msgid "Banshee Music Player"
-msgstr "밴시 음악 플레이어"
+msgid "Rhythmbox Music Player"
+msgstr "리듬박스 음악 연주기"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:20
@@ -154,7 +188,7 @@ msgstr "우분투 원 음악 상점"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
 msgid "Write and present for free"
-msgstr ""
+msgstr "자유롭게 작성하고, 발표하세요"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
@@ -164,16 +198,25 @@ msgid ""
 "tries its best to work with other office software, and it uses the "
 "OpenDocument standards for far-reaching compatibility."
 msgstr ""
+"LibreOffice는 자유로운 오피스 묶음으로 인상적인 문서, 스프레드시트, 그리고 발"
+"표 자료를 만들 때 필요한 모든 것이 들어있습니다.\r\n"
+"LibreOffice는 다른 오피스 프로그램들과 같이 돌아갈 수 있도록 노력하며 높은 호"
+"환성을 위해 OpenDocument 표준을 씁니다."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
-msgid "LibreOffice"
-msgstr "LibreOffice"
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:20
-msgid "Tomboy Notes"
-msgstr "톰보이 쪽지"
+msgid "LibreOffice Calc"
+msgstr "LibreOffice Calc"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/photos.html:1
@@ -188,11 +231,15 @@ msgid ""
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
 "from the Ubuntu Software Center."
 msgstr ""
+"샷웰은 당신의 디지털 기기를 위해 준비된 편리한 사진 관리자입니다. 카메라나 휴"
+"대전화를 연결한 후 사진을 전송한 후 쉽게 공유하고 안전하게 보관할 수 있습니"
+"다. 번뜩이는 아이디어가 있으시다면 우분투 소프트웨어 센터의 수많은 사진 프로"
+"그램을 사용하십시오."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:16
 msgid "Shotwell Photo Manager"
-msgstr "샷웰 사진 관리기"
+msgstr "샷웰 사진 관리자"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:23
@@ -202,12 +249,12 @@ msgstr "김프 이미지 편집기"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:27
 msgid "Pitivi Video Editor"
-msgstr "Pitivi 동영상 편집기"
+msgstr "피티비 동영상 편집기"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/social.html:1
 msgid "Stay connected"
-msgstr ""
+msgstr "관계 유지"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:8
@@ -216,11 +263,14 @@ msgid ""
 "messages from all applications and social networks. See at a glance when "
 "there’s something new to read, regardless how it arrived."
 msgstr ""
+"우분투 메시지 알리미는 모든 프로그램과 소셜 네트워크의 메시지를 빠르게 확인"
+"할 수 있게 도와줍니다. 도착 방식에 관계 없이 새로운 읽을 거리를 한눈에 보세"
+"요."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
 msgid "Supported services"
-msgstr "지원 서비스"
+msgstr "지원하는 서비스"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:16
@@ -235,7 +285,7 @@ msgstr "페이스북"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:24
 msgid "Identi.ca"
-msgstr "Identi.ca"
+msgstr "아이덴티.카"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1
@@ -250,6 +300,10 @@ msgid ""
 "science, and education. It is easy to download new stuff and write reviews "
 "to share your experiences."
 msgstr ""
+"우분투 소프트웨어 센터에는 당신의 컴퓨터에서 사용할 수 있는 수천 가지의 새로"
+"운 프로그램이 있습니다. 쉽게 원하는 것을 입력하거나 게임, 과학, 교육과 같은 "
+"분류를 살펴보세요. 새로운 것을 다운로드하는 것과 리뷰를 작성하여 경험을 공유"
+"하는 것은 매우 간단합니다."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -259,162 +313,70 @@ msgstr "환영합니다"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 11.10. This version brings some exciting "
+"Thank you for choosing Ubuntu 12.04 LTS. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
+"우분투 12.04 LTS를 선택해 주셔서 감사합니다. 이 버전을 완전하게 다시 디자인"
+"한 데스크톱 인터페이스인 유니티와 같은 흥미진진한 변화를 제공합니다. 우분투"
+"를 설정하는 동안 슬라이드 쇼를 통해 확인하십시오."
 
-#~ msgid "Appearance preferences"
-#~ msgstr "모양새 설정"
+#~ msgid "Tomboy Notes"
+#~ msgstr "톰보이 쪽지"
+
+#~ msgid "LibreOffice"
+#~ msgstr "LibreOffice"
+
+#~ msgid "Customisation options"
+#~ msgstr "다듬기 옵션"
+
+#~ msgid "Customise Ubuntu"
+#~ msgstr "내게 맞게 우분투 다듬기"
+
+#~ msgid "Banshee Music Player"
+#~ msgstr "밴시 음악 플레이어"
 
 #~ msgid ""
 #~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-#~ "choose alternative browsers from Ubuntu Software Center."
+#~ "choose alternative browsers from the Ubuntu Software Center."
 #~ msgstr ""
-#~ "우분투는 빠르고 안전한 웹 브라우징을 위해 모질라 파이어폭스를 내장하고 있"
-#~ "습니다. 우분투 소프트웨어 센터에서 다른 브라우저를 선택할 수 있습니다."
-
-#~ msgid "Email and chat"
-#~ msgstr "이메일과 채팅"
-
-#~ msgid "Empathy IM"
-#~ msgstr "Empathy 메신저"
-
-#~ msgid "Evolution Mail"
-#~ msgstr "에볼루션 메일"
-
-#~ msgid "Skype"
-#~ msgstr "스카이프"
-
-#~ msgid "Social from the start"
-#~ msgstr "시작과 동시에 가능한 사회 활동"
+#~ "우분투는 안전하고 빠른 웹 브라우징을 위해 Mozilla Firefox를 가지고 있습니"
+#~ "다. 또한, 여러분은 우분투 소프트웨어 센터에서 다른 브라우저를 선택할 수 있"
+#~ "습니다."
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 11.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is configured, this slideshow will show you around."
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, Canonical offers <a "
+#~ "href=\"http://www.ubuntu.com/support\">commercial support</a> to business "
+#~ "users. Browse to <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a> to explore your other options."
 #~ msgstr ""
-#~ "우분투 11.04를 선택해 주셔서 감사합니다. 11.04는 Unity라는 기존과는 다른 "
-#~ "데스크탑 인터페이스를 사용하고 있습니다. 우분투가 설정되는 동안 슬라이드쇼"
-#~ "에서 확인하실 수 있습니다."
-
-#~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
-#~ "for everyone. With advanced accessibility tools and many options like "
-#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
-#~ "working for real people."
-#~ msgstr ""
-#~ "우분투 철학의 핵심은 모두를 위한 컴퓨팅입니다. 더욱 진보된 접근성 도구와 "
-#~ "선호하는 폰트, 색상, 언어에 대한 옵션으로 우분투는 모두를 위하여 동작하는 "
-#~ "운영체제가 되었습니다."
-
-#~ msgid ""
-#~ "The Messaging Menu has lots of features to make online communication "
-#~ "effortless. Chat helps you log in to all your instant messaging accounts "
-#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
-#~ "place, ready for text or video chat."
-#~ msgstr ""
-#~ "메시지 메뉴는 쉬운 온라인 커뮤니케이션을 위한 많은 기능을 제공합니다. 채팅"
-#~ "으로 MSN, Jabber, Facebook 같은 메신저 서비스에 로그인할 수 있습니다. 텍스"
-#~ "트 채팅과 비디오 채팅을 위한 연락처도 메시지 메뉴에서 보실 수 있습니다."
-
-#~ msgid "Thank you"
-#~ msgstr "감사합니다"
-
-#~ msgid ""
-#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
-#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
-#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
-#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
-#~ "hope you enjoy Ubuntu."
-#~ msgstr ""
-#~ "우분투를 선택해주셔서 다시 한번 감사의 말씀을 드립니다. 우분투는 쉽고 안전"
-#~ "하게 디자인되었습니다. 그러니 망설이지말고 마음껏 누비세요! 만약 질문이 있"
-#~ "으시다면 대부분의 애플리케이션에 있는 도움말 메뉴를 이용하시거나 <a href="
-#~ "\"http://www.ubuntu.or.kr/>우분투 커뮤니티</a> 로 접속하셔서 검색을 해보세"
-#~ "요. 우리는 당신이 우분투를 즐겁게 사용할 수 있길 바랍니다."
-
-#~ msgid "Mobilise your digital life"
-#~ msgstr "모바일 디지털 라이프"
-
-#~ msgid ""
-#~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
-#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
-#~ "pictures across all your computers. Take everything everywhere with "
-#~ "Ubuntu One."
-#~ msgstr ""
-#~ "모든 우분투 사용자는 <a href=\"https://one.ubuntu.com/\">우분투 원</a> 계"
-#~ "정을 무료로 받으실 수 있습니다. 우분투 원은 어떤 종류의 파일이든 온라인에 "
-#~ "동기화할 수 있어서 언제 어디에서든 파일에 접근하실 수 있습니다. 즐겨찾기, "
-#~ "연락처, 음악, 사진을 모든 컴퓨터에 동기화 시키세요. 어떤 것이든 우분투 원"
-#~ "과 함께 어떤 곳에든지 가져갈 수 있습니다."
+#~ "우분투에 대한 가장 나은 대답을 들을 수 있는 <a href=\"http://askubuntu."
+#~ "com/\">Ask Ubuntu</a>를살펴보세요. 많은 물음이 답해졌고 수천명의 사람들이 "
+#~ "도와줄 준비가 되어 있는 곳에서 당신은 금방 원하는 걸 얻을 수 있을 것입니"
+#~ "다. 그리고 만약 당신이 정해진 시간 안에 답을 찾아야 한다면, 비즈니스 사용"
+#~ "자를 위한 Canonical의 <a href=\"http://www.ubuntu.com/support\">상업적 지"
+#~ "원</a>을 받을 수 있습니다. <a href=\"http://www.ubuntu.com/support"
+#~ "\">ubuntu.com/support</a> 에 들어가 다른 여러 옵션을 알아보세요."
 
 #~ msgid ""
 #~ "Ubuntu comes with the amazing Banshee music player. With advanced "
-#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
-#~ "simple to queue up the perfect songs. And it works great with CDs and "
-#~ "portable music players, so you can enjoy all your music wherever you go."
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
 #~ msgstr ""
-#~ "우분투는 놀라운 기능을 가진 밴시 음악 플레이어가 기본으로 제공됩니다. 진보"
-#~ "된 재생 옵션과 우분투원 뮤직 스토어가 내장되어있어서 많은 노래들을 간단하"
-#~ "게 들을 수 있습니다. 밴시는 CD와 휴대용 음악 플레이어를 지원해서 언제 어디"
-#~ "에서든 음악을 즐기실 수 있습니다."
-
-#~ msgid "Write and present with ease"
-#~ msgstr "문서 작성과 프레젠테이션도 쉽게"
+#~ "우분투는 놀라운 밴시 음악 플레이어를 가지고 있습니다. 고급 재생 옵션에다 "
+#~ "안에 들어있는 우분투 원 음악 가게를 통해 쉽게 완벽한 노래들을 줄세울 수 있"
+#~ "습니다. 그리고 이건 CD와 휴대용 음악 플레이어와도 잘 돌아가기 때문에 당신"
+#~ "의 음악을 어디서든 즐길 수 있습니다."
 
 #~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
-#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
-#~ "try lots of photo apps from the Ubuntu Software Centre."
+#~ "Thank you for choosing Ubuntu 11.10. This version brings some exciting "
+#~ "changes including a totally redesigned desktop interface, Unity. While "
+#~ "Ubuntu is configured, this slideshow will show you around."
 #~ msgstr ""
-#~ "샷웰은 사용자의 기기에 최적화 되어있는 유용한 사진 관리자입니다. 카메라나 "
-#~ "폰을 연결해 사진을 전송하세요. 사진을 쉽게 공유하고 안전하게 보관할 수 있"
-#~ "습니다. 만약 창의성이 불타오르신다면 우분투 소프트웨어 센터에서 많은 사진 "
-#~ "앱들을 체험해보세요."
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
-#~ "need to create impressive documents, spreadsheets, and presentations. "
-#~ "LibreOffice tries its best to work with other office software, and it "
-#~ "uses the OpenDocument standards for far-reaching compatibility."
-#~ msgstr ""
-#~ "LibreOffice는 인상적인 문서, 스프레드시트, 프레젠테이션에 필요한 모든 것"
-#~ "을 갖추고 있는 자유 오피스 스위트입니다. LibreOffice는 다른 오피스 소프트"
-#~ "웨어와의 호환에 최선을 다하고 있으며, 넓은 호환성을 자랑하는 OpenDocument "
-#~ "표준을 사용하고 있습니다."
-
-#~ msgid "Some of our favourites"
-#~ msgstr "추천 항목"
-
-#~ msgid ""
-#~ "The Ubuntu Software Centre has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is simple to download new stuff and "
-#~ "write reviews to share your experiences."
-#~ msgstr ""
-#~ "우분투 소프트웨어 센터는 여러분의 컴퓨터를 위한 방대한 양의 새로운 소프트"
-#~ "웨어가 준비되어있습니다. 원하는 것을 바로 검색해보거나 게임, 과학, 교육과 "
-#~ "같은 분류를 돌아보세요. 간단하게 새로운 소프트웨어를 받고 리뷰를 써서 사"
-#~ "용 경험을 공유할 수 있습니다."
-
-#~ msgid "Inkscape"
-#~ msgstr "잉크스케이프"
-
-#~ msgid "Stellarium"
-#~ msgstr "스텔라리움"
-
-#~ msgid ""
-#~ "The Me Menu is your instant connection to web services like Facebook and "
-#~ "Twitter. Just set up your accounts to log in and share with friends. "
-#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
-#~ "you want."
-#~ msgstr ""
-#~ "Me 메뉴를 통해 페이스북과 트위터 같은 웹 서비스에 바로 연결할 수 있습니"
-#~ "다. 로그인할 계정을 설정하고 바로 친구들과 일상을 공유하세요. 사용자에게 "
-#~ "보낸 메시지는 모두 메시징 메뉴에 나타나서 원하는 때에 답할 수 있습니다."
-
-#~ msgid "Frozen Bubble"
-#~ msgstr "프로즌버블"
+#~ "우분투 11.10을 골라주셔서 감사합니다. 이번 판은 완전히 다시 디자인된 데스"
+#~ "크톱 인터페이스인 유니티를 비롯해 여러 흥미로운 변화를 가지고 있습니다. 우"
+#~ "분투가 설정되는 동안 이 슬라이드쇼가 진행될 것입니다."

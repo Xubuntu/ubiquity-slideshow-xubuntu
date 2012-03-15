@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:17+0200\n"
-"PO-Revision-Date: 2011-09-27 08:10+0000\n"
-"Last-Translator: Vu Do Quynh <vdquynh@gmail.com>\n"
+"POT-Creation-Date: 2012-03-15 18:49-0300\n"
+"PO-Revision-Date: 2012-02-24 19:10+0000\n"
+"Last-Translator: Trần Đức Nam <Unknown>\n"
 "Language-Team: Vietnamese <vi@li.org>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:06+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
-msgid "Customise Ubuntu"
-msgstr "Tùy biến Ubuntu"
+msgid "Customize Ubuntu"
+msgstr "Tùy biến Ubuntu theo ý"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
@@ -38,8 +38,8 @@ msgstr ""
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:12
-msgid "Customisation options"
-msgstr "Tùy chọn cho Tùy biến"
+msgid "Customization options"
+msgstr "Các lựa chọn tùy thích"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:16
@@ -64,12 +64,15 @@ msgstr "Duyệt trang web"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from the Ubuntu Software Center."
+"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
+"use and it’s backed by a non-profit foundation that loves the web. If you "
+"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
+"Software Center."
 msgstr ""
-"Ubuntu có sẵn Mozilla Firefox để duyệt web một cách nhanh chóng và an toàn. "
-"Bạn cũng có thể chọn những trình duyệt web khác trong Trung tâm Phần mềm "
-"Ubuntu."
+"Ubuntu cài sẵn Mozilla Firefox làm trình duyệt nhanh chóng và bảo mật. Dễ "
+"dàng sử dụng và được tài trợ bởi một quỹ phi lợi nhuận gắn bó với trình "
+"duyệt. Nếu bạn không phải là một người hâm mộ Firefox thì có rất nhiều phần "
+"mềm thay thế trong Trung tâm phần mềm Ubuntu"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
@@ -111,19 +114,19 @@ msgid ""
 "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
 "to get an answer about Ubuntu. With most questions already answered, and "
 "thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
-"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options."
+"if you need an answer on a deadline, you can get commercial support and more "
+"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 msgstr ""
-"Hãy tra cứu trang web <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, là "
-"nơi tốt nhất để tìm câu trả lời liên quan đến Ubuntu. Đa số các câu hỏi đã "
-"được đáp lại, cùng với hàng ngàn người sẵn sàng giúp đỡ, bạn sẽ giải quyết "
-"đươc mọi thắc mắc của bạn. Và nếu như bạn cần nhận một câu trả lời trong "
-"thời gian có hạn, Canonical có thể cung cấp sự <a href=\"http://www.ubuntu."
-"com/support\">hỗ trợ thương mại</a> cho các doanh nhân. Hãy vào trang web <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> để tìm hiểu "
-"thêm mọi khả năng hỗ trợ."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
+msgid "Let’s talk Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><div>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
+msgid "I'm installing #Ubuntu!"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:1
@@ -159,20 +162,16 @@ msgstr "Hãy mang âm nhạc theo bạn"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:8
 msgid ""
-"Ubuntu comes with the amazing Banshee music player. With advanced playback "
+"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
 "options and the Ubuntu One music store built in, it’s simple to queue up the "
 "perfect songs. And it works great with CDs and portable music players, so "
 "you can enjoy all your music wherever you go."
 msgstr ""
-"Ubuntu có sẵn Trình chơi nhạc Banshee. Cùng những tính năng chơi nhạc tiên "
-"tiến và cửa hàng nhạc Ubuntu One đã tích hợp, việc tạo ra danh mục chơi nhạc "
-"tuyệt vời đơn giản. Banshee quản lý tốt các CD và cá thiết bị nghe nhạc di "
-"động, cho phép bạn được thưởng thức nhạc ở bất kỳ nơi nào mà bạn đi đến."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:16
-msgid "Banshee Music Player"
-msgstr "Trình Chơi nhạc Banshee"
+msgid "Rhythmbox Music Player"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:20
@@ -199,13 +198,18 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
-msgid "LibreOffice"
-msgstr "LibreOffice"
+msgid "LibreOffice Writer"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:20
-msgid "Tomboy Notes"
-msgstr "Ghi chú Tomboy"
+msgid "LibreOffice Calc"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/photos.html:1
@@ -301,171 +305,70 @@ msgstr "Chào mừng"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 11.10. This version brings some exciting "
+"Thank you for choosing Ubuntu 12.04 LTS. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
-"Cám ơn bạn đã chọn Ubuntu 11.10. Phiên bản này mang theo một số thay đổi "
-"phấn khích bao gồm một giao diện làm việc dồ họa Unity đã được hoàn toàn "
-"thiết kế lại. Trong lúc Ubuntu tự cấu hình lại, bản trình diễn tiếp theo sẽ "
-"giúp bạn biết thêm."
 
-#~ msgid "Appearance preferences"
-#~ msgstr "Tùy thích diện mạo"
+#~ msgid "Tomboy Notes"
+#~ msgstr "Ghi chú Tomboy"
 
-#~ msgid ""
-#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-#~ "choose alternative browsers from Ubuntu Software Center."
-#~ msgstr ""
-#~ "Ubuntu có sẵn trình duyệt web Mozilla Firefox để tra cứu trang web nhanh "
-#~ "và an toàn. Bạn cũng có thể chọn những trình duyệt web khác từ Trung tâm "
-#~ "Phần mềm Ubuntu."
+#~ msgid "LibreOffice"
+#~ msgstr "LibreOffice"
 
-#~ msgid "Email and chat"
-#~ msgstr "Điện thứ và nhắn tin"
+#~ msgid "Customisation options"
+#~ msgstr "Tùy chọn cho Tùy biến"
 
-#~ msgid "Empathy IM"
-#~ msgstr "Empathy IM"
+#~ msgid "Customise Ubuntu"
+#~ msgstr "Tùy biến Ubuntu"
 
-#~ msgid "Evolution Mail"
-#~ msgstr "Evolution Mail"
-
-#~ msgid "Skype"
-#~ msgstr "Skype"
-
-#~ msgid "Social from the start"
-#~ msgstr "Mang tính chất xã hội ngay từ đầu"
+#~ msgid "Banshee Music Player"
+#~ msgstr "Trình Chơi nhạc Banshee"
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 11.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is configured, this slideshow will show you around."
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, Canonical offers <a "
+#~ "href=\"http://www.ubuntu.com/support\">commercial support</a> to business "
+#~ "users. Browse to <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a> to explore your other options."
 #~ msgstr ""
-#~ "Cảm ơn bạn đã lựa chọn sử dụng Ubuntu 11.04. Phiên bản này mang lại những "
-#~ "thay đổi thú vị bao gồm thiết kế lại hoàn toàn giao diện desktop với "
-#~ "Unity. Trình diễn này sẽ chỉ cho bạn thấy những điều thú vị này trong khi "
-#~ "Ubuntu đang được cấu hình."
-
-#~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
-#~ "for everyone. With advanced accessibility tools and many options like "
-#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
-#~ "working for real people."
-#~ msgstr ""
-#~ "Trọng tâm trong triết lý của Ubuntu là niềm tin rằng máy tính dành cho "
-#~ "tất cả mọi người. Với những công cụ hỗ trợ truy cập nâng cao và nhiều tùy "
-#~ "chọn như thay đổi phông chữ, phông màu và ngôn ngữ, mục đích của Ubuntu "
-#~ "là phục vụ con người một cách thiết thực."
-
-#~ msgid ""
-#~ "The Messaging Menu has lots of features to make online communication "
-#~ "effortless. Chat helps you log in to all your instant messaging accounts "
-#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
-#~ "place, ready for text or video chat."
-#~ msgstr ""
-#~ "Trình đơn Thông điệp có nhiều tính năng khiến cho việc liên lạc trực "
-#~ "tuyến dễ dàng hơn. Mục Chat (Tán gẫu) giúp bạn đăng nhập vào tất cả các "
-#~ "tài khoản nhắn tin tức thời như MSN, Jabber và Facebook. Danh sách liên "
-#~ "lạc của bạn cũng hiển thịở đó, sẵn sàng để bạn tán gẫu."
-
-#~ msgid "Thank you"
-#~ msgstr "Xin cảm ơn"
-
-#~ msgid ""
-#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
-#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
-#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
-#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
-#~ "hope you enjoy Ubuntu."
-#~ msgstr ""
-#~ "Cảm ơn bạn đã chọn dùng Ubuntu. Ubuntu được thiết kế sao cho thật dễ sử "
-#~ "dụng và an toàn nên xin bạn đừng e ngại việc tự do khám phá. Nếu bạn có "
-#~ "bất cứ câu hỏi nào, hãy thử dùng trình đơn Trợ giúp hoặc vào <a href="
-#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>. Chúng tôi hy "
-#~ "vọng là bạn sẽ thích thú với Ubuntu."
-
-#~ msgid "Mobilise your digital life"
-#~ msgstr "Di động hóa cuộc sống số của bạn"
-
-#~ msgid ""
-#~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
-#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
-#~ "pictures across all your computers. Take everything everywhere with "
-#~ "Ubuntu One."
-#~ msgstr ""
-#~ "Mỗi một người dùng Ubuntu sẽ có được một tài khoản <a href=\"https://one."
-#~ "ubuntu.com/\">Ubuntu One</a>. Ubuntu One cho phép bạn đồng bộ hóa mọi "
-#~ "loại tập tin trực tuyến để bạn có thể quản lý chúng bất kỳ nơi nào. Hãy "
-#~ "đồng bộ hóa dấu nhớ, danh sách liên lạc, âm nhạc, hình ảnh cho tất cả các "
-#~ "máy tính của bạn. Hãy mang theo mọi thứ ở bất cứ nơi đâu cùng Ubuntu One."
-
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
-#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
-#~ "try lots of photo apps from the Ubuntu Software Centre."
-#~ msgstr ""
-#~ "Shotwell là một trình quản lý ảnh chụp tiện dụng. Hãy kết nối tới một "
-#~ "chiếc máy ảnh hay điện thoại để chuyển ảnh vào, sau đó thì thật dễ dàng "
-#~ "chia sẻ và cất giữ chúng an toàn. Nếu thích sáng tạo, bạn có thể thử dùng "
-#~ "rất nhiều ứng dụng ảnh chụp từ Trung tâm Phần mềm Ubuntu."
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
-#~ "need to create impressive documents, spreadsheets, and presentations. "
-#~ "LibreOffice tries its best to work with other office software, and it "
-#~ "uses the OpenDocument standards for far-reaching compatibility."
-#~ msgstr ""
-#~ "LibreOffice là một bộ phần mềm văn phòng tự do đã tích hợp rất nhiều thứ "
-#~ "bạn cần để tạo ra những tài liệu, bảng tính và trình chiếu ấn tượng. "
-#~ "LibreOffice nỗ lực hết mình để làm việc tốt với các phần mềm văn phòng "
-#~ "khác và sử dụng chuẩn tài liệu mở để tương thích tốt hơn."
-
-#~ msgid ""
-#~ "The Ubuntu Software Centre has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is simple to download new stuff and "
-#~ "write reviews to share your experiences."
-#~ msgstr ""
-#~ "Trung tâm Phần mềm Ubuntu chứa hàng ngàn ứng dụng mới sẵn sàng cho máy "
-#~ "tính của bạn. Chỉ việc gõ những gì bạn cần và khám phá các danh mục như "
-#~ "trò chơi, khoa học và giáo dục. Thật dễ dàng để tải về những ứng dụng mới "
-#~ "và nhận xét để chia sẻ kinh nghiệm sử dụng."
+#~ "Hãy tra cứu trang web <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, "
+#~ "là nơi tốt nhất để tìm câu trả lời liên quan đến Ubuntu. Đa số các câu "
+#~ "hỏi đã được đáp lại, cùng với hàng ngàn người sẵn sàng giúp đỡ, bạn sẽ "
+#~ "giải quyết đươc mọi thắc mắc của bạn. Và nếu như bạn cần nhận một câu trả "
+#~ "lời trong thời gian có hạn, Canonical có thể cung cấp sự <a href=\"http://"
+#~ "www.ubuntu.com/support\">hỗ trợ thương mại</a> cho các doanh nhân. Hãy "
+#~ "vào trang web <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a> để tìm hiểu thêm mọi khả năng hỗ trợ."
 
 #~ msgid ""
 #~ "Ubuntu comes with the amazing Banshee music player. With advanced "
-#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
-#~ "simple to queue up the perfect songs. And it works great with CDs and "
-#~ "portable music players, so you can enjoy all your music wherever you go."
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
 #~ msgstr ""
-#~ "Đồng hành với Ubuntu là trình chơi nhạc Banshee. Với những tùy chọn phát "
-#~ "nhạc và tích hợp sẵn gian hàng âm nhạc Ubuntu One, thật đơn giản để "
-#~ "Banshee phát những bài hát tuyệt vời. Nó còn làm việc tốt với đĩa CD và "
-#~ "máy nghe nhạc nên bạn có thể tận hưởng âm nhạc của mình ở bất kỳ nơi nào."
-
-#~ msgid "Write and present with ease"
-#~ msgstr "Viết lách và diễn thuyết thật dễ dàng"
+#~ "Ubuntu có sẵn Trình chơi nhạc Banshee. Cùng những tính năng chơi nhạc "
+#~ "tiên tiến và cửa hàng nhạc Ubuntu One đã tích hợp, việc tạo ra danh mục "
+#~ "chơi nhạc tuyệt vời đơn giản. Banshee quản lý tốt các CD và cá thiết bị "
+#~ "nghe nhạc di động, cho phép bạn được thưởng thức nhạc ở bất kỳ nơi nào mà "
+#~ "bạn đi đến."
 
 #~ msgid ""
-#~ "The Me Menu is your instant connection to web services like Facebook and "
-#~ "Twitter. Just set up your accounts to log in and share with friends. "
-#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
-#~ "you want."
+#~ "Thank you for choosing Ubuntu 11.10. This version brings some exciting "
+#~ "changes including a totally redesigned desktop interface, Unity. While "
+#~ "Ubuntu is configured, this slideshow will show you around."
 #~ msgstr ""
-#~ "Trình đơn Me giúp bạn kết nối tức thời với các dịch vụ web như Facebook "
-#~ "và Twitter. Chỉ cần cấu hình tài khoản của bạn để đăng nhập và chia sẻ "
-#~ "với bạn bè. Những gì được gửi cho bạn sẽ xuất hiện tại Trình đơn Thông "
-#~ "điệp để bạn có thể hồi đáp khi cần."
+#~ "Cám ơn bạn đã chọn Ubuntu 11.10. Phiên bản này mang theo một số thay đổi "
+#~ "phấn khích bao gồm một giao diện làm việc dồ họa Unity đã được hoàn toàn "
+#~ "thiết kế lại. Trong lúc Ubuntu tự cấu hình lại, bản trình diễn tiếp theo "
+#~ "sẽ giúp bạn biết thêm."
 
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
-
-#~ msgid "Some of our favourites"
-#~ msgstr "Một vài thứ ưa thích của chúng tôi"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
-
-#~ msgid "Frozen Bubble"
-#~ msgstr "Frozen Bubble"
+#~ msgid ""
+#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+#~ "choose alternative browsers from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "Ubuntu có sẵn Mozilla Firefox để duyệt web một cách nhanh chóng và an "
+#~ "toàn. Bạn cũng có thể chọn những trình duyệt web khác trong Trung tâm "
+#~ "Phần mềm Ubuntu."

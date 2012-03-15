@@ -7,20 +7,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:16+0200\n"
-"PO-Revision-Date: 2011-04-19 13:43+0000\n"
-"Last-Translator: Adi Roiban <adi@roiban.ro>\n"
+"POT-Creation-Date: 2012-03-15 18:48-0300\n"
+"PO-Revision-Date: 2012-02-24 11:50+0000\n"
+"Last-Translator: Marian Vasile <marianvasile@upcmail.ro>\n"
 "Language-Team: Romanian Gnome Team <gnomero-list@lists.sourceforge.net>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:07+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Customise Ubuntu"
+msgid "Customize Ubuntu"
 msgstr "Personalizați Ubuntu"
 
 #. type: Content of: <div><div><div><p>
@@ -31,16 +31,20 @@ msgid ""
 "color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
 "are, and wherever you are."
 msgstr ""
+"În centrul filosofiei Ubuntu stă credința că accesul la sistemele "
+"informatice trebuie să fie permis oricui. Integrând unelte avansate pentru "
+"accesibilitate și opțiuni precum scheme preferate de culori, dimensiune text "
+"și limbă, Ubuntu se adresează tuturor. Oricine ați fi și oriunde v-ați afla."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
-msgid "Customisation options"
+msgid "Customization options"
 msgstr "Opțiuni de personalizare"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:16
 msgid "Appearance"
-msgstr ""
+msgstr "Aspect"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:20
@@ -60,9 +64,15 @@ msgstr "Navigați pe Internet"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from the Ubuntu Software Center."
+"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
+"use and it’s backed by a non-profit foundation that loves the web. If you "
+"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
+"Software Center."
 msgstr ""
+"Ubuntu include Mozilla Firefox pentru o navigare pe Internet sigură și "
+"rapidă. Este ușor de folosit și este dezvoltată de o fundație non-profit "
+"care adoră Internetul. Dacă  nu sunteți un fan Firefox, există alternative "
+"în Centrul software Ubuntu."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -96,7 +106,7 @@ msgstr "Chromium"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
 msgid "Any questions?"
-msgstr ""
+msgstr "Aveți întrebări?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
@@ -104,16 +114,31 @@ msgid ""
 "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
 "to get an answer about Ubuntu. With most questions already answered, and "
 "thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
-"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options."
+"if you need an answer on a deadline, you can get commercial support and more "
+"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 msgstr ""
+"Consultați <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, cel mai bun loc "
+"în care puteți obține răspunsuri despre Ubuntu. Cu foarte multe întrebări "
+"care au deja un răspuns și mii de persoane gata să vă ajute, veți obține "
+"ajutor foarte repede. Dacă aveți neapărat nevoie de un răspuns rapid, puteți "
+"obțține asistență comercială și mai multe îndrumări la <a href=\"http://www."
+"ubuntu.com/support\">ubuntu.com/support</a>."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/gethelp.html:17
+msgid "Let’s talk Ubuntu"
+msgstr "Să vorbim despre Ubuntu"
+
+#. type: Content of: <div><div><div><div>
+#: slideshows/ubuntu/slides/gethelp.html:18
+#, fuzzy
+msgid "I'm installing #Ubuntu!"
+msgstr "Instalez #Ubuntu"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/mobilise.html:1
 msgid "Your own personal cloud"
-msgstr ""
+msgstr "Spațiul dumneavoastră personal pe Internet"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/mobilise.html:8
@@ -126,6 +151,13 @@ msgid ""
 "ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
 "music on the move."
 msgstr ""
+"Un cont <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> vă "
+"oferă 5GB de spațiu în nor în care puteți stoca și sincroniza fișierele și "
+"pozele dumneavostră între dispozitive și le puteți accesa oriunde în lume. "
+"Partajați-le cu ușurință cu prietenii, familia și colegii. Faceți o poză cu "
+"telefonul mobil și va apărea imediat pe desktop, sau adăugați <a href="
+"\"https://one.ubuntu.com/services/music/\">Music Streaming</a> pentru "
+"telefonul mobil și bucurați-vă de muzica dumneavoastră oriunde ați fi."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:1
@@ -135,16 +167,21 @@ msgstr "Luați-vă muzica cu dumneavoastră"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/music.html:8
 msgid ""
-"Ubuntu comes with the amazing Banshee music player. With advanced playback "
+"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
 "options and the Ubuntu One music store built in, it’s simple to queue up the "
 "perfect songs. And it works great with CDs and portable music players, so "
 "you can enjoy all your music wherever you go."
 msgstr ""
+"Ubuntu conține extraordinarul player muzical Rhythmbox. Cu ajutorul "
+"opțiunilor avansate pentru redarea pieselor muzicale și cu magazinul de "
+"muzică online Ubuntu One inclus, este simplu să ascultați cântecele "
+"preferate. Funcționează foarte bine cu CD-uri și dispozitive de redare "
+"portabile, așa că puteți să vă bucurați de muzică oriunde mergeți."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:16
-msgid "Banshee Music Player"
-msgstr "Player-ul de muzică Banshee"
+msgid "Rhythmbox Music Player"
+msgstr "Playerul de muzică Rhythmbox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:20
@@ -154,7 +191,7 @@ msgstr "Magazinul de muzică Ubuntu One"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
 msgid "Write and present for free"
-msgstr ""
+msgstr "Creați și prezentați cu un program gratuit"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/office.html:8
@@ -164,16 +201,25 @@ msgid ""
 "tries its best to work with other office software, and it uses the "
 "OpenDocument standards for far-reaching compatibility."
 msgstr ""
+"LibreOffice este o suită pentru birou care conține tot ce vă trebuie pentru "
+"a crea documente, foi de calcul și prezentări impresionante. LibreOffice "
+"încearcă să lucreze cel mai bine cu alte aplicații pentru birou și folosește "
+"standardele OpenDocument pentru o compatibilitate mai mare."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
-msgid "LibreOffice"
-msgstr "LibreOffice"
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:20
-msgid "Tomboy Notes"
-msgstr "Notițe Tomboy"
+msgid "LibreOffice Calc"
+msgstr "LibreOffice Calc"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
@@ -188,6 +234,11 @@ msgid ""
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
 "from the Ubuntu Software Center."
 msgstr ""
+"Shotwell este un administrator de fotografii ușor de folosit și pregătit "
+"pentru gadgeturile dumneavoastră. Conectați o cameră foto sau un telefon "
+"mobil pentru a vă transfera pozele, apoi este ușor să le partajați și să le "
+"păstrați în siguranță. Dacă sunteți creativ, puteți încerca multe alte "
+"aplicații pentru fotografii din Centrul software Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -207,7 +258,7 @@ msgstr "Editorul video Pitivi"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/social.html:1
 msgid "Stay connected"
-msgstr ""
+msgstr "Rămâneți conectat"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/social.html:8
@@ -216,6 +267,9 @@ msgid ""
 "messages from all applications and social networks. See at a glance when "
 "there’s something new to read, regardless how it arrived."
 msgstr ""
+"Indicatorul pentru mesaje Ubuntu vă oferă o vedere de perspectivă asupra "
+"mesajelor provenite de la toate aplicațiile și rețelele sociale. Vedeți, pe "
+"scurt, când este ceva nou de citit, indiferent de modul prin care ajunge."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/social.html:12
@@ -250,189 +304,92 @@ msgid ""
 "science, and education. It is easy to download new stuff and write reviews "
 "to share your experiences."
 msgstr ""
+"Centrul software Ubuntu conține mii de aplicații noi, gata pentru a fi "
+"instalate pe computerul dumneavoastră. Căutați orice doriți sau explorați "
+"categorii precum jocuri, știință sau educație. Este simplu să descărcați "
+"lucruri noi și să evaluați prin recenzii experiențele dumneavoastră."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 11.10"
-msgstr ""
+msgid "Welcome to Ubuntu 12.04 LTS"
+msgstr "Bine ați venit în Ubuntu 12.04 LTS"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
 msgid ""
-"Ubuntu is packed with features to make your computer delightful to use. This "
-"version consolidates the Unity desktop interface; a brand new way to find "
-"and manage your applications. Now with more features and faster. We’d like "
-"to show some cool things to look for in your new operating system."
+"Fast and feature-packed, Ubuntu makes your PC a delight to use. And with the "
+"latest version of the Unity interface, it's now easier than ever. Here are a "
+"few more cool new things to look out for."
 msgstr ""
+"Rapid și bogat în programe, Ubuntu vă aduce calculatorul mai aproape. Cu "
+"ultima versiune a interfeței Unity este mai ușor de utilizat decât oricând. "
+"Vă prezentăm câteva lucruri care merită aprofundate."
 
-#~ msgid "Social from the start"
-#~ msgstr "Social de la început"
+#~ msgid "Tomboy Notes"
+#~ msgstr "Notițe Tomboy"
 
-#~ msgid "Appearance preferences"
-#~ msgstr "Preferințe aspect"
+#~ msgid "LibreOffice"
+#~ msgstr "LibreOffice"
 
-#~ msgid "Skype"
-#~ msgstr "Skype"
+#~ msgid "Customisation options"
+#~ msgstr "Opțiuni de personalizare"
 
-#~ msgid "Email and chat"
-#~ msgstr "Email și chat"
+#~ msgid "Customise Ubuntu"
+#~ msgstr "Personalizați Ubuntu"
 
-#~ msgid "Empathy IM"
-#~ msgstr "Empathy IM"
-
-#~ msgid "Evolution Mail"
-#~ msgstr "Email Evolution"
-
-#~ msgid "Thank you"
-#~ msgstr "Vă mulțumim"
-
-#~ msgid "Mobilise your digital life"
-#~ msgstr "Mobilizați-vă viața digitală"
-
-#~ msgid "Frozen Bubble"
-#~ msgstr "Frozen Bubble"
-
-#~ msgid "Welcome to Ubuntu 11.04"
-#~ msgstr "Bun venit la Ubuntu 11.04"
-
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
-
-#~ msgid "Some of our favourites"
-#~ msgstr "Unele dintre preferatele noastre"
-
-#~ msgid ""
-#~ "The Ubuntu Software Centre has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is simple to download new stuff and "
-#~ "write reviews to share your experiences."
-#~ msgstr ""
-#~ "Centrul Software Ubuntu conține mii de aplicații noi, care sunt gata să "
-#~ "fie instalate. Scrieți doar ce doriți sau explorați categorii precum "
-#~ "jocuri, știință sau educație. Este simplu să descărcați programe noi și "
-#~ "să scrieți impresiile dumneavoastră pentru a le împărtășii cu ceilalți."
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
-#~ "need to create impressive documents, spreadsheets, and presentations. "
-#~ "LibreOffice tries its best to work with other office software, and it "
-#~ "uses the OpenDocument standards for far-reaching compatibility."
-#~ msgstr ""
-#~ "LibreOffice este o suită de birou gratuită, care conține tot ce aveți "
-#~ "nevoie pentru a crea documente, foi de calcul și prezentări "
-#~ "impresionante. LibreOffice face tot ce-i stă în putință pentru a fi "
-#~ "compatibil cu alte suite de birou și folosește standardele OpenDocument "
-#~ "pentru o compatibilitate extinsă."
-
-#~ msgid ""
-#~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
-#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
-#~ "pictures across all your computers. Take everything everywhere with "
-#~ "Ubuntu One."
-#~ msgstr ""
-#~ "Toți utilizatorii Ubuntu primesc gratuit un cont <a href=\"https://one."
-#~ "ubuntu.com/\">Ubuntu One</a>. Ubuntu One vă permite să sincronizați pe "
-#~ "Internet orice tip de fișiere pentru a avea acces la ele de oriunde. "
-#~ "Sincronizați pagini de Internet la care ați pus semne de carte, contacte, "
-#~ "muzică și poze cu toate calculatoarele dumneavoastră. Luați orice oriunde "
-#~ "cu Ubuntu One."
-
-#~ msgid "Write and present with ease"
-#~ msgstr "Scrieți și prezentați cu ușurință"
-
-#~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
-#~ "for everyone. With advanced accessibility tools and many options like "
-#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
-#~ "working for real people."
-#~ msgstr ""
-#~ "În centrul filosofiei Ubuntu stă convingerea că utilizarea calculatorului "
-#~ "trebuie să fie accesibilă oricui. Având instrumente de accesibilitate "
-#~ "avansate și opțiuni numeroase precum personalizarea fonturilor, a "
-#~ "schemelor de culori și a limbii preferate, Ubuntu este în întregime "
-#~ "gândit pentru oameni."
+#~ msgid "Banshee Music Player"
+#~ msgstr "Player-ul de muzică Banshee"
 
 #~ msgid ""
 #~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-#~ "choose alternative browsers from Ubuntu Software Center."
+#~ "choose alternative browsers from the Ubuntu Software Center."
 #~ msgstr ""
-#~ "Ubuntu include Mozilla Firefox pentru navigare rapidă și sigură pe "
-#~ "Internet. Puteți alege alte navigatoare din Centrul Software Ubuntu."
-
-#~ msgid ""
-#~ "The Messaging Menu has lots of features to make online communication "
-#~ "effortless. Chat helps you log in to all your instant messaging accounts "
-#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
-#~ "place, ready for text or video chat."
-#~ msgstr ""
-#~ "Meniul pentru mesagerie are multe facilități care ușurează comunicarea pe "
-#~ "Internet. Chat-ul vă permite să vă autentificați în toate conturile de "
-#~ "mesagerie instant incluzând MSN, Jabber, Yahoo! și Facebook. Toate "
-#~ "contactele vor apărea în aceleași loc, gata pentru conversații prin text "
-#~ "sau video."
-
-#~ msgid ""
-#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
-#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
-#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
-#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
-#~ "hope you enjoy Ubuntu."
-#~ msgstr ""
-#~ "Vă mulțumim din nou pentru că ați ales Ubuntu. Ubuntu este proiectat să "
-#~ "fie ușor și sigur, așa că nu ezitați să îl explorați! Dacă aveți vreo "
-#~ "întrebare, consultați meniul de Ajutor din majoritatea aplicațiilor sau "
-#~ "navigați la adresa <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
-#~ "support</a> pentru a explora alte opțiuni. Sperăm că veți utiliza Ubuntu "
-#~ "cu plăcere."
+#~ "Ubuntu include Mozilla Firefox pentru o navigare rapidă și sigură. "
+#~ "Puteți, de asemenea, să alegeți browsere alternative din Centrul software "
+#~ "Ubuntu."
 
 #~ msgid ""
 #~ "Ubuntu comes with the amazing Banshee music player. With advanced "
-#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
-#~ "simple to queue up the perfect songs. And it works great with CDs and "
-#~ "portable music players, so you can enjoy all your music wherever you go."
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
 #~ msgstr ""
-#~ "Ubuntu vine cu extraordinarul player de muzică Banshee. Cu opțiuni "
-#~ "avansate de redare și magazinul online de muzică Ubuntu One, puteți "
-#~ "asculta foarte ușor piesele preferate. De asemenea, funcționează foarte "
-#~ "bine cu CD-uri și playere portabile de muzică, așa că puteți să vă "
-#~ "bucurați de muzică oriunde ați merge."
+#~ "Ubuntu vine cu extraordinarul player pentru muzică Banshee. Cu opțiuni "
+#~ "avansate de redare și magazinul de muzică Ubuntu One inclus, este simplu "
+#~ "să găsiți muzica preferată. Funcționează foarte bine cu CD-uri și playere "
+#~ "portabile pentru a vă putea bucura de muzica dumneavoastră oriunde vă "
+#~ "aflați."
 
 #~ msgid ""
-#~ "The Me Menu is your instant connection to web services like Facebook and "
-#~ "Twitter. Just set up your accounts to log in and share with friends. "
-#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
-#~ "you want."
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, Canonical offers <a "
+#~ "href=\"http://www.ubuntu.com/support\">commercial support</a> to business "
+#~ "users. Browse to <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a> to explore your other options."
 #~ msgstr ""
-#~ "Meniul „Eu” reprezintă conexiunea la servicii web precum Facebook și "
-#~ "Twitter. Trebuie doar să vă configurați conturile și să vă autentificați "
-#~ "pentru a comunica cu prietenii. Orice mesaj primit va apărea în meniul "
-#~ "„Mesagerie” și îi veți putea răspunde oricând doriți."
+#~ "Vizitați <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, cel mai bun "
+#~ "loc pentru a obține informații despre Ubuntu. Majoritatea întrebărilor "
+#~ "având deja un răspuns și cu mii de oameni gata să vă ajute, veți găsi "
+#~ "rapid o soluție la problema dumneavoastră. Iar dacă doriți un răspuns "
+#~ "imediat, Canonical oferă <a href=\"http://www.ubuntu.com/support"
+#~ "\">asistență comercială</a> utilizatorilor business. Răsfoiți <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a> pentru a explora "
+#~ "și alte opțiuni."
 
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
-#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
-#~ "try lots of photo apps from the Ubuntu Software Centre."
-#~ msgstr ""
-#~ "Shotwell este un administrator de fotografii util complet pregătit pentru "
-#~ "a accesa dispozitivele dumneavoastră. Conectați o cameră sau un telefon "
-#~ "pentru a transfera fotografiile, după care va fi ușor să le împărtășiți "
-#~ "cu ceilalți și să le mențineți în siguranță. Pe lângă Shotwell, Centrul "
-#~ "Software Ubuntu oferă un număr mare de aplicații de editat fotografii."
+#~ msgid "Welcome to Ubuntu 11.10"
+#~ msgstr "Bine ați venit în Ubuntu 11.10"
 
 #~ msgid ""
 #~ "Ubuntu is packed with features to make your computer delightful to use. "
-#~ "This version introduces the Unity desktop interface; a brand new way to "
-#~ "find and manage your applications. We&#8217;d like to show some cool "
-#~ "things to look for in your new operating system."
+#~ "This version consolidates the Unity desktop interface; a brand new way to "
+#~ "find and manage your applications. Now with more features and faster. "
+#~ "We’d like to show some cool things to look for in your new operating "
+#~ "system."
 #~ msgstr ""
-#~ "Ubuntu este încărcat cu facilități ce vă vor face să percepeți utilizarea "
-#~ "calculatorului ca pe o experiență foarte plăcută. Aceasă versiune "
-#~ "prezintă pentru prima dată interfața de desktop Unity, o metodă nouă de a "
-#~ "vă găsi și gestiona aplicațiile. Vă vom prezenta câteva elemente "
-#~ "interesante pe care le veți regăsiți în noul dumneavoastră sistem de "
-#~ "operare."
+#~ "Ubuntu conține funcții care fac din utilizarea calculatorului o plăcere. "
+#~ "Această versiune consolidează interfața Unity; un nou mod de a găsi și "
+#~ "administra aplicațiile. Acum cu mai multe facilități și mai rapid. Vrem "
+#~ "să vă arătăm câteva lucruri interesante pe care le veți vedea în noul "
+#~ "dumneavoastră sistem de operare."

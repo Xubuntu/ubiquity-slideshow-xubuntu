@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:16+0200\n"
+"POT-Creation-Date: 2012-03-15 18:48-0300\n"
 "PO-Revision-Date: 2011-09-18 17:19+0000\n"
-"Last-Translator: mabynke <Unknown>\n"
+"Last-Translator: Mathias Bynke <Unknown>\n"
 "Language-Team: Norwegian Bokmal <nb@li.org>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:05+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:52+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -308,6 +308,33 @@ msgstr ""
 "status."
 
 #. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/epoptes.html:1
+msgid "Epoptes classroom control"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:6
+msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:7
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
+msgstr ""
+"Kringkast en skrivebordsøkt til alle brukerne for å demonstrere nye "
+"konsepter."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:8
+msgid "Monitor user sessions to keep tabs on mischievous users."
+msgstr "Overåk brukerøkter for å holde orden på ustrukturerte brukere."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:9
+msgid "Epoptes dynamically detects clients and integrates well with LTSP."
+msgstr ""
+
+#. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
 msgid "FreeMind mindmapping"
 msgstr ""
@@ -432,29 +459,6 @@ msgstr ""
 "Alt som finnes i Programvaresenteret er lagret i våre nettarkiver. Vi sørger "
 "alltid for å holde disse trygge, og oppdateringer vil bli gitt direkte til "
 "deg."
-
-#. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/italc.html:1
-msgid "iTalc intelligent teaching"
-msgstr ""
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:6
-msgid "<em>iTalc</em> allows a lecturer to take control of student desktops."
-msgstr ""
-"<em> iTalc </ em> lar en foreleser ta kontrollen over studentens skrivebord."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:7
-msgid "Broadcast a desktop session to all users to demonstrate a new concept."
-msgstr ""
-"Kringkast en skrivebordsøkt til alle brukerne for å demonstrere nye "
-"konsepter."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:8
-msgid "Monitor user sessions to keep tabs on mischievous users."
-msgstr "Overåk brukerøkter for å holde orden på ustrukturerte brukere."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
@@ -691,7 +695,7 @@ msgstr "Velkommen og takk"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 11.10."
+msgid "Thank you for testing what will become Edubuntu 12.04 LTS."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -816,12 +820,13 @@ msgstr "Edubuntu ier bygget på det siste og beste innen åpen programvare."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 3.0 boosts performance and hardware support."
+msgid "Linux 3.2 boosts performance and hardware support."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid "Xorg 1.10, Mesa 7.11 and Compiz delivers breathtaking graphics support."
+msgid ""
+"Xorg 1.11, Mesa 8.0.1 and Compiz delivers breathtaking graphics support."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -836,8 +841,8 @@ msgstr "Velkommen"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 11.10."
-msgstr "Takk for at du valgte Edubuntu 11.10."
+msgid "Thank you for choosing Edubuntu 12.04 LTS."
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:7
@@ -864,11 +869,11 @@ msgstr ""
 msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr "Edubuntu er utviklet for å være enkelt. Føl deg fri til å utforske!"
 
-#~ msgid "Thank you for choosing Edubuntu 11.04."
-#~ msgstr "Takk for at du valgte Edubuntu 11.04."
+#~ msgid ""
+#~ "<em>iTalc</em> allows a lecturer to take control of student desktops."
+#~ msgstr ""
+#~ "<em> iTalc </ em> lar en foreleser ta kontrollen over studentens "
+#~ "skrivebord."
 
-#~ msgid "Thank you for testing what will become Edubuntu 11.04."
-#~ msgstr "Takk for at du tester det som vil bli Edubuntu 11.04"
-
-#~ msgid "Linux 2.6.38 boosts performance and hardware support."
-#~ msgstr "Linux 2.6.38 utmerker seg med sin ytelse og brede maskinvarestøtte."
+#~ msgid "Thank you for choosing Edubuntu 11.10."
+#~ msgstr "Takk for at du valgte Edubuntu 11.10."

@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:17+0200\n"
-"PO-Revision-Date: 2011-09-11 19:10+0000\n"
-"Last-Translator: Michael Kotsarinis <mk73628@gmail.com>\n"
+"POT-Creation-Date: 2012-03-15 18:49-0300\n"
+"PO-Revision-Date: 2012-02-24 20:31+0000\n"
+"Last-Translator: Filippos Kolyvas <fkolyvas@gmail.com>\n"
 "Language-Team: Greek <el@li.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:06+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
-msgid "Customise Ubuntu"
-msgstr "Προσαρμογή του Ubuntu"
+msgid "Customize Ubuntu"
+msgstr "Προσαρμόστε το Ubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
@@ -31,10 +31,15 @@ msgid ""
 "color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
 "are, and wherever you are."
 msgstr ""
+"Στο κέντρο της φιλοσοφίας του Ubuntu βρίσκεται η πεποίθηση ότι η χρήση "
+"υπολογιστή είναι για τον καθένα. Με προχωρημένα εργαλεία προσπελασιμότητος "
+"και επιλογές όπως προτιμώμενο συνδυασμό χρωμάτων, μέγεθος κειμένου και "
+"γλώσσα, το Ubuntu είναι για τον καθένα. Όποιος και αν είναι, όπου και να "
+"είναι."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:12
-msgid "Customisation options"
+msgid "Customization options"
 msgstr "Επιλογές προσαρμογής"
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -60,9 +65,15 @@ msgstr "Περιηγηθείτε στον ιστό"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from the Ubuntu Software Center."
+"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
+"use and it’s backed by a non-profit foundation that loves the web. If you "
+"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
+"Software Center."
 msgstr ""
+"Το Ubuntu περιλαμβάνει τον Mozilla Firefox για γρήγορη και ασφαλή περιήγηση "
+"στο διαδίκτυο. Είναι εύκολος στη χρήση και υποστηρίζεται από μια μη "
+"κερδοσκοπική οργάνωση που αγαπά τον παγκόσμιο ιστό. Αν δεν είστε φίλος του "
+"Firefox, υπάρχουν επίσης πολλές εναλλακτικές στο κέντρο λογισμικού Ubuntu"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
@@ -104,11 +115,27 @@ msgid ""
 "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
 "to get an answer about Ubuntu. With most questions already answered, and "
 "thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
-"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options."
+"if you need an answer on a deadline, you can get commercial support and more "
+"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 msgstr ""
+"Δείτε το <a href=\"http://askubuntu.com/\">Ask Ubuntu</a >, το καλύτερο "
+"μέρος για να πάρετε μια απάντηση στην αγγλική γλώσσα σχετικά με το Ubuntu. "
+"Με τις περισσότερες ερωτήσεις να έχουν ήδη απαντηθεί και χιλιάδες άτομα "
+"έτοιμα να βοηθήσουν, θα εξυπηρετηθείτε σε πολύ λίγο χρόνο. Στην περίπτωση "
+"που χρειάζεστε μια απάντηση εντός συγκεκριμένης χρονικής προθεσμίας , "
+"μπορείτε να έχετε εμπορική υποστήριξη και περισσότερες υπηρεσίες στο <a href="
+"\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
+msgid "Let’s talk Ubuntu"
+msgstr "Ας μιλήσουμε για το Ubuntu"
+
+#. type: Content of: <div><div><div><div>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
+#, fuzzy
+msgid "I'm installing #Ubuntu!"
+msgstr "Εγκαθιστώ το #Ubuntu"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:1
@@ -143,16 +170,22 @@ msgstr "Πάρτε τη μουσική σας μαζί σας"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:8
 msgid ""
-"Ubuntu comes with the amazing Banshee music player. With advanced playback "
+"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
 "options and the Ubuntu One music store built in, it’s simple to queue up the "
 "perfect songs. And it works great with CDs and portable music players, so "
 "you can enjoy all your music wherever you go."
 msgstr ""
+"Το Ubuntu έρχεται με την καταπληκτική εφαρμογή αναπαραγωγής μουσικής "
+"Rhythmbox. Με προχωρημένες δυνατότητες αναπαραγωγής και ενσωματωμένο το "
+"μουσικό κατάστημα Ubuntu One, είναι εξαιρετικά εύκολο να βάλετε στη σειρά τα "
+"καλύτερα τραγούδια. Δουλεύει τέλεια με τα CDs αλλά και με τους φορητούς "
+"αναπαραγωγείς μουσικής, ώστε να μπορείτε να απολαμβάνετε την μουσική όπου "
+"και αν βρίσκεστε."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:16
-msgid "Banshee Music Player"
-msgstr "Αναπαραγωγή μουσικής Banshee"
+msgid "Rhythmbox Music Player"
+msgstr "Αναπαραγωγή μουσικής Rhythmbox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:20
@@ -162,7 +195,7 @@ msgstr "Κατάστημα μουσικής Ubuntu One"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
 msgid "Write and present for free"
-msgstr ""
+msgstr "Γράψτε και παρουσιάστε ελεύθερα"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
@@ -172,16 +205,26 @@ msgid ""
 "tries its best to work with other office software, and it uses the "
 "OpenDocument standards for far-reaching compatibility."
 msgstr ""
+"Το LibreOffice είναι μια ελεύθερη σουίτα γραφείου που περιλαμβάνει όλα όσα "
+"θα  χρειαστείτε για να δημιουργήσετε εντυπωσιακά έγγραφα, υπολογιστικά φύλλα "
+"και παρουσιάσεις. Το LibreOffice προσπαθεί να συνεργάζεται όσο το δυνατόν "
+"καλύτερα με άλλες σουίτες γραφείου και χρησιμοποιεί τα πρότυπα του "
+"OpenDocument για να επιτύχει την μέγιστη συμβατότητα."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
-msgid "LibreOffice"
-msgstr "LibreOffice"
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:20
-msgid "Tomboy Notes"
-msgstr "Σημειώσεις Tomboy"
+msgid "LibreOffice Calc"
+msgstr "LibreOffice Calc"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/photos.html:1
@@ -196,6 +239,11 @@ msgid ""
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
 "from the Ubuntu Software Center."
 msgstr ""
+"Το Shotwell είναι ένας εύχρηστος διαχειριστής φωτογραφιών, έτοιμος για όλα "
+"σας τα gadget. Συνδέστε την κάμερα ή το τηλέφωνό σας για να μεταφέρετε τις "
+"φωτογραφίες σας. Έπειτα είναι εύκολο να τις διαμοιραστείτε και να τις "
+"κρατήσετε ασφαλείς. Εάν αισθάνεστε δημιουργικά, μπορείτε να δοκιμάσετε "
+"πολλές από τις εφαρμογές φωτογραφίας που υπάρχουν στο Κέντρο Λογισμικού."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:16
@@ -224,6 +272,10 @@ msgid ""
 "messages from all applications and social networks. See at a glance when "
 "there’s something new to read, regardless how it arrived."
 msgstr ""
+"Ο Δείκτης μηνυμάτων Ubuntu σας δίνει την δυνατότητα να έχετε την εποπτεία "
+"των εισερχομένων μηνυμάτων όλων των εφαρμογών, αλλά και των κοινωνικών "
+"δικτύων. Δείτε με μια ματιά πότε υπάρχει κάτι νέο για να διαβάσετε, χωρίς να "
+"δίνετε σημασία για το πώς έφτασε."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -258,6 +310,11 @@ msgid ""
 "science, and education. It is easy to download new stuff and write reviews "
 "to share your experiences."
 msgstr ""
+"Το Κέντρο Λογισμικού έχει χιλιάδες νέες εφαρμογές έτοιμες για εγκατάσταση "
+"στον υπολογιστή σας. Απλώς πληκτρολογήστε τι χρειάζεστε ή εξερευνήστε τις "
+"διάφορες κατηγορίες όπως παιχνίδια, επιστήμη και εκπαίδευση. Είναι "
+"πραγματικά εύκολο να κατεβάσετε νέο υλικό αλλά και να γράψετε κριτικές ώστε "
+"να μοιραστείτε τις εντυπώσεις σας."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -267,176 +324,76 @@ msgstr "Καλώς ήλθατε"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 11.10. This version brings some exciting "
+"Thank you for choosing Ubuntu 12.04 LTS. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
+"Ευχαριστούμε που επιλέξατε το Ubuntu 12.04 LTS. Αυτή η έκδοση φέρει μερικές "
+"συναρπαστικές αλλαγές που συμπεριλαμβάνουν και ένα εντελώς επανασχεδιασμένο "
+"περιβάλλον εργασίας, το Unity. Όσο το Ubuntu διαμορφώνεται, αυτή η "
+"παρουσίαση διαφανειών θα σας ξεναγήσει."
 
-#~ msgid "Appearance preferences"
-#~ msgstr "Προτιμήσεις εμφάνισης"
+#~ msgid "Tomboy Notes"
+#~ msgstr "Σημειώσεις Tomboy"
 
-#~ msgid ""
-#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-#~ "choose alternative browsers from Ubuntu Software Center."
-#~ msgstr ""
-#~ "Το Ubuntu περιλαμβάνει τον Mozilla Firefox για γρήγορη και ασφαλή "
-#~ "περιήγηση στον ιστό. Μπορείτε ακόμη να επιλέξετε εναλλακτικούς περιηγητές "
-#~ "από το Κέντρο λογισμικού Ubuntu."
+#~ msgid "Customisation options"
+#~ msgstr "Επιλογές προσαρμογής"
 
-#~ msgid "Email and chat"
-#~ msgstr "Email και chat"
+#~ msgid "Customise Ubuntu"
+#~ msgstr "Προσαρμογή του Ubuntu"
 
-#~ msgid "Empathy IM"
-#~ msgstr "Άμεσα μηνύματα Empathy"
+#~ msgid "LibreOffice"
+#~ msgstr "LibreOffice"
 
-#~ msgid "Evolution Mail"
-#~ msgstr "Evolution Mail"
-
-#~ msgid "Skype"
-#~ msgstr "Skype"
-
-#~ msgid "Social from the start"
-#~ msgstr "Κοινωνικό από την αρχή"
+#~ msgid "Banshee Music Player"
+#~ msgstr "Αναπαραγωγή μουσικής Banshee"
 
 #~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
-#~ "for everyone. With advanced accessibility tools and many options like "
-#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
-#~ "working for real people."
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, Canonical offers <a "
+#~ "href=\"http://www.ubuntu.com/support\">commercial support</a> to business "
+#~ "users. Browse to <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a> to explore your other options."
 #~ msgstr ""
-#~ "Στο επίκεντρο της φιλοσοφίας του Ubuntu είναι μια πεποίθηση ότι η "
-#~ "πληροφορική είναι για όλους. Με προηγμένα εργαλεία προσιτότητας και "
-#~ "πολλές επιλογές, όπως τις αγαπημένες γραμματοσειρές σας, συνδυασμούς "
-#~ "χρωμάτων, και γλωσσών, το Ubuntu δουλεύει για τους πραγματικούς ανθρώπους."
-
-#~ msgid "Thank you"
-#~ msgstr "Σας ευχαριστούμε"
-
-#~ msgid "Write and present with ease"
-#~ msgstr "Δημιουγήστε εύκολα έγγραφα και παρουσιάσεις"
-
-#~ msgid ""
-#~ "Thank you for choosing Ubuntu 11.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is configured, this slideshow will show you around."
-#~ msgstr ""
-#~ "Ευχαριστούμε που επιλέξατε το Ubuntu 11.04. Αυτή η έκδοση φέρνει μερικές "
-#~ "συναρπαστικές αλλαγές, όπως την πλήρως ανασχεδιασμένη διεπαφή επιφάνειας "
-#~ "εργασίας Unity. Παρότι το Ubuntu είναι ήδη ρυθμισμένο, αυτή η παρουσίαση "
-#~ "θα σας ξεναγήσει σ' αυτό."
-
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
-
-#~ msgid "Frozen Bubble"
-#~ msgstr "Frozen Bubble"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
-
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
-#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
-#~ "try lots of photo apps from the Ubuntu Software Centre."
-#~ msgstr ""
-#~ "Το Shotwell είναι ένα εύχρηστο πρόγραμμα διαχείρισης φωτογραφιών έτοιμο "
-#~ "να συνεργαστεί με τις συσκευές σας. Συνδέστε μια φωτογραφική μηχανή ή ένα "
-#~ "κινητό τηλέφωνο για να μεταφέρετε τις φωτογραφίες σας. Τώρα είναι εύκολο "
-#~ "να τις μοιραστείτε και να τις διατηρήσετε ασφαλείς. Εάν αισθάνεστε "
-#~ "δημιουργικοί, μπορείτε να δοκιμάσετε κάποιες από τις πολλές εφαρμογές "
-#~ "επεξεργασίας φωτογραφιών που διατίθενται από το Κέντρο λογισμικού του "
-#~ "Ubuntu."
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
-#~ "need to create impressive documents, spreadsheets, and presentations. "
-#~ "LibreOffice tries its best to work with other office software, and it "
-#~ "uses the OpenDocument standards for far-reaching compatibility."
-#~ msgstr ""
-#~ "Το LibreOffice είναι μια ελεύθερη σουίτα εφαρμογών γραφείου που περιέχει "
-#~ "όλα όσα χρειάζεστε για τη δημιουργία εντυπωσιακών εγγράφων, λογιστικών "
-#~ "φύλλων και παρουσιάσεων. Το LibreOffice συνεργάζεται με άλλες εφαρμογές "
-#~ "γραφείου και χρησιμοποιεί τα πρότυπα OpenDocument για ευρεία συμβατότητα."
-
-#~ msgid "Some of our favourites"
-#~ msgstr "Κάποιες από τις αγαπημένες μας"
-
-#~ msgid ""
-#~ "The Ubuntu Software Centre has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is simple to download new stuff and "
-#~ "write reviews to share your experiences."
-#~ msgstr ""
-#~ "Το Κέντρο Λογισμικού του Ubuntu διαθέτει χιλιάδες νέες εφαρμογές έτοιμες "
-#~ "για τον υπολογιστή σας. Απλά πληκτρολογήστε αυτό που θέλετε ή εξερευνήστε "
-#~ "διάφορες κατηγορίες όπως παιχνίδια, επιστήμη και εκπαίδευση. Εγκαταστήστε "
-#~ "εύκολα νέες εφαρμογές και γράψτε σχόλια για να μοιραστείτε τις εμπειρίες "
-#~ "σας."
-
-#~ msgid ""
-#~ "The Me Menu is your instant connection to web services like Facebook and "
-#~ "Twitter. Just set up your accounts to log in and share with friends. "
-#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
-#~ "you want."
-#~ msgstr ""
-#~ "Το Me Menu σας παρέχει άμεση σύνδεση σε διαδικτυακές υπηρεσίες όπως το "
-#~ "Facebook και το Twitter. Απλά ρυθμίστε τους λογαριασμούς σας για να "
-#~ "συνδεθείτε και να αρχίσετε να μοιράζεστε με τους φίλους σας. Οτιδήποτε "
-#~ "σας στέλνουν εμφανίζεται στο Μενού Μηνυμάτων για να μπορείτε να "
-#~ "απαντήσετε όποτε θέλετε."
-
-#~ msgid ""
-#~ "The Messaging Menu has lots of features to make online communication "
-#~ "effortless. Chat helps you log in to all your instant messaging accounts "
-#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
-#~ "place, ready for text or video chat."
-#~ msgstr ""
-#~ "Το μενού Μηνύματα έχει πολλά χαρακτηριστικά για να κάνει την επικοινωνίας "
-#~ "μέσω διαδικτύου εύκολη. Το πρόγραμμα συνομιλίας σάς βοηθά να συνδεθείτε "
-#~ "σε όλους τους λογαριασμούς σας άμεσων μηνυμάτων, συμπεριλαμβανομένων των "
-#~ "MSN, Jabber και Facebook. Οι επαφές σας εμφανίζονται στην ίδια θέση, "
-#~ "έτοιμες για συνομιλία μέσω κειμένου ή βίντεο."
-
-#~ msgid ""
-#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
-#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
-#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
-#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
-#~ "hope you enjoy Ubuntu."
-#~ msgstr ""
-#~ "Ευχαριστούμε και πάλι για την επιλογή του Ubuntu. Το Ubuntu είναι "
-#~ "σχεδιασμένο ώστε να είναι εύκολο και ασφαλές, οπότε μη διστάσετε να "
-#~ "εξερευνήσετε! Αν έχετε οποιεσδήποτε απορίες, δοκιμάστε το μενού Βοήθεια "
-#~ "στις περισσότερες εφαρμογές ή περιηγηθείτε στο <a href=\"http://www."
-#~ "ubuntu.com/support\">ubuntu.com/support</a> για να εξερευνήσετε και τις "
-#~ "άλλες επιλογές. Ελπίζουμε να απολαύσετε το Ubuntu."
-
-#~ msgid "Mobilise your digital life"
-#~ msgstr "Κινητοποιήστε την ψηφιακή σας ζωή"
-
-#~ msgid ""
-#~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
-#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
-#~ "pictures across all your computers. Take everything everywhere with "
-#~ "Ubuntu One."
-#~ msgstr ""
-#~ "Σε όλους τους χρήστες του Ubuntu διατίθεται ένας δωρεάν λογαριασμός <a "
-#~ "href=\"https://one.ubuntu.com/\">Ubuntu One</ a>. Το Ubuntu One σας "
-#~ "επιτρέπει να συγχρονίσετε όλα τα είδη αρχείων στο διαδίκτυο, έτσι ώστε να "
-#~ "μπορείτε να έχετε πρόσβαση από οπουδήποτε. Συγχρονισμός σελιδοδεικτών, "
-#~ "επαφών, μουσικής και εικόνων σε όλους τους υπολογιστές σας. Πάρτε τα "
-#~ "πάντα παντού με το Ubuntu One."
+#~ "Δείτε το <a href=\"http://askubuntu.com/\">Ask Ubuntu</a >, το καλύτερο "
+#~ "μέρος για να πάρετε μια απάντηση σχετικά με το Ubuntu. Με τις "
+#~ "περισσότερες ερωτήσεις να έχουν ήδη απαντηθεί και χιλιάδες άτομα έτοιμα "
+#~ "να βοηθήσουν, θα εξυπηρετηθείτε σε πολύ λίγο χρόνο. Στην περίπτωση που "
+#~ "χρειάζεστε μια απάντηση εντός συγκεκριμένης χρονικής προθεσμίας , η "
+#~ "Canonical προσφέρει την <a href=\"http://www.ubuntu.com/support"
+#~ "\">Εμπορική υποστήριξη</a> σε επαγγελματίες χρήστες. Περιηγηθείτε στο "
+#~ "σημείο <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> "
+#~ "για να εξερευνήσετε τις επιλογές σας."
 
 #~ msgid ""
 #~ "Ubuntu comes with the amazing Banshee music player. With advanced "
-#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
-#~ "simple to queue up the perfect songs. And it works great with CDs and "
-#~ "portable music players, so you can enjoy all your music wherever you go."
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
 #~ msgstr ""
-#~ "Το Ubuntu περιέχει την καταπληκτική εφαρμογή αναπαραγωγής μουσικής "
-#~ "Banshee. Με προηγμένες επιλογές αναπαραγωγής και ενσωματωμένο το "
-#~ "κατάστημα μουσικής Ubuntu One, η επιλογή των τέλειων κομματιών για τη "
-#~ "λίστα σας γίνεται απλή υπόθεση. Και λειτουργεί τέλεια με CD και φορητές "
-#~ "συσκευές, έτσι ώστε να απολαμβάνετε τη μουσική σας όπου και αν πάτε."
+#~ "Το Ubuntu χρησιμοποιεί τον καταπληκτικό Banshee για αναπαραγωγή μουσικής. "
+#~ "Με προχωρημένες δυνατότητες αναπαραγωγής και ενσωματωμένο το μουσικό "
+#~ "κατάστημα Ubuntu One, είναι εξαιρετικά εύκολο να βάλετε στη σειρά τα "
+#~ "καλύτερα τραγούδια. Δουλεύει τέλεια με τα CDs αλλά και με τους φορητούς "
+#~ "αναπαραγωγείς μουσικής, ώστε να μπορείτε να απολαμβάνετε την μουσική όπου "
+#~ "και αν βρίσκεστε."
+
+#~ msgid ""
+#~ "Thank you for choosing Ubuntu 11.10. This version brings some exciting "
+#~ "changes including a totally redesigned desktop interface, Unity. While "
+#~ "Ubuntu is configured, this slideshow will show you around."
+#~ msgstr ""
+#~ "Ευχαριστούμε που επιλέξατε το Ubuntu 11.10. Αυτή η έκδοση φέρει "
+#~ "συναρπαστικές αλλαγές συμπεριλαμβάνοντας ένα εξ' ολοκλήρου "
+#~ "επανασχεδιασμένο περιβάλλον εργασίας, το Unity. Αυτή η παρουσίαση θα σας "
+#~ "ξεναγήσει στο νέο λειτουργικό όσο το Ubuntu θα ρυθμίζεται."
+
+#~ msgid ""
+#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+#~ "choose alternative browsers from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "Το Ubuntu περιλαμβάνει τον Mozilla Firefox για γρήγορη και ασφαλή "
+#~ "πλοήγηση στο διαδίκτυο. Επίσης, μπορείτε να επιλέξετε διαφορετικούς "
+#~ "περιηγητές από το Κέντρο Λογισμικού."

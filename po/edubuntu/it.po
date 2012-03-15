@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:16+0200\n"
+"POT-Creation-Date: 2012-03-15 18:48-0300\n"
 "PO-Revision-Date: 2011-09-18 11:04+0000\n"
 "Last-Translator: Luca Chiodini <Unknown>\n"
 "Language-Team: Italian <it@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:05+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:52+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -319,6 +319,33 @@ msgstr ""
 "cambiare il vostro stato."
 
 #. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/epoptes.html:1
+msgid "Epoptes classroom control"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:6
+msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:7
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
+msgstr ""
+"Trasmetti una sessione a tutti gli utenti per dimostrare un nuovo concetto."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:8
+msgid "Monitor user sessions to keep tabs on mischievous users."
+msgstr ""
+"Controlla le sessioni degli utenti per tenere d'occhio gli utenti birichini."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:9
+msgid "Epoptes dynamically detects clients and integrates well with LTSP."
+msgstr ""
+
+#. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
 msgid "FreeMind mindmapping"
 msgstr "Mappe mentali con FreeMind"
@@ -450,29 +477,6 @@ msgstr ""
 "Tutti i programmi in «Software Center» sono disponibili attraverso i nostri "
 "archivi online, organizzati accuratamente per essere sicuri e per fornirti "
 "aggiornamenti diretti."
-
-#. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/italc.html:1
-msgid "iTalc intelligent teaching"
-msgstr "Insegnamento intelligente iTalc"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:6
-msgid "<em>iTalc</em> allows a lecturer to take control of student desktops."
-msgstr ""
-"<em>iTalc</em> permette ai docenti di controllare i desktop degli studenti."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:7
-msgid "Broadcast a desktop session to all users to demonstrate a new concept."
-msgstr ""
-"Trasmetti una sessione a tutti gli utenti per dimostrare un nuovo concetto."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:8
-msgid "Monitor user sessions to keep tabs on mischievous users."
-msgstr ""
-"Controlla le sessioni degli utenti per tenere d'occhio gli utenti birichini."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
@@ -721,8 +725,8 @@ msgstr "Benvenuti e grazie"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 11.10."
-msgstr "Grazie per aver provato ciò che diventerà Edubuntu 11.10."
+msgid "Thank you for testing what will become Edubuntu 12.04 LTS."
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:7
@@ -853,14 +857,14 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 3.0 boosts performance and hardware support."
-msgstr "Linux 3.0 aumenta le prestazioni e il supporto hardware"
+msgid "Linux 3.2 boosts performance and hardware support."
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid "Xorg 1.10, Mesa 7.11 and Compiz delivers breathtaking graphics support."
+msgid ""
+"Xorg 1.11, Mesa 8.0.1 and Compiz delivers breathtaking graphics support."
 msgstr ""
-"Xorg 1.10, Mesa 7.11 e Compiz offrono supporto per una grafica mozzafiato."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:9
@@ -874,8 +878,8 @@ msgstr "Benvenuti"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 11.10."
-msgstr "Grazie per aver scelto Edubuntu 11.10."
+msgid "Thank you for choosing Edubuntu 12.04 LTS."
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:7
@@ -904,16 +908,25 @@ msgstr ""
 "Edubuntu è progettato per essere facile e sicuro: non esitare a esplorare il "
 "sistema!"
 
-#~ msgid "Thank you for choosing Edubuntu 11.04."
-#~ msgstr "Grazie per aver scelto Edubuntu 11.04."
-
-#~ msgid "Thank you for testing what will become Edubuntu 11.04."
-#~ msgstr "Grazie per aver provato ciò che diventerà Edubuntu 11.04."
-
-#~ msgid "Linux 2.6.38 boosts performance and hardware support."
+#~ msgid ""
+#~ "<em>iTalc</em> allows a lecturer to take control of student desktops."
 #~ msgstr ""
-#~ "Il kernel linux 2.6.38 aumenta le performance e il supporto hardware."
+#~ "<em>iTalc</em> permette ai docenti di controllare i desktop degli "
+#~ "studenti."
+
+#~ msgid "iTalc intelligent teaching"
+#~ msgstr "Insegnamento intelligente iTalc"
+
+#~ msgid "Thank you for testing what will become Edubuntu 11.10."
+#~ msgstr "Grazie per aver provato ciò che diventerà Edubuntu 11.10."
+
+#~ msgid "Thank you for choosing Edubuntu 11.10."
+#~ msgstr "Grazie per aver scelto Edubuntu 11.10."
+
+#~ msgid "Linux 3.0 boosts performance and hardware support."
+#~ msgstr "Linux 3.0 aumenta le prestazioni e il supporto hardware"
 
 #~ msgid ""
-#~ "Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
-#~ msgstr "Xorg 1.10, Mesa 7.10 and Compiz per effetti grafici mozzafiato."
+#~ "Xorg 1.10, Mesa 7.11 and Compiz delivers breathtaking graphics support."
+#~ msgstr ""
+#~ "Xorg 1.10, Mesa 7.11 e Compiz offrono supporto per una grafica mozzafiato."

@@ -7,20 +7,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:16+0200\n"
-"PO-Revision-Date: 2011-09-19 04:36+0000\n"
-"Last-Translator: SiraNokyoongtong <gumaraa@gmail.com>\n"
+"POT-Creation-Date: 2012-03-15 18:48-0300\n"
+"PO-Revision-Date: 2011-10-29 10:40+0000\n"
+"Last-Translator: Manop Pornpeanvichanon(มานพ พรเพียรวิชานนท์) <Unknown>\n"
 "Language-Team: Thai <th@li.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:07+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Customise Ubuntu"
+msgid "Customize Ubuntu"
 msgstr "ปรับแต่ง Ubuntu"
 
 #. type: Content of: <div><div><div><p>
@@ -31,10 +31,13 @@ msgid ""
 "color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
 "are, and wherever you are."
 msgstr ""
+"หัวใจของปรัชญา Ubuntu คือความเชื่อที่ว่าคอมพิวเตอร์เป็นของทุกคน "
+"ด้วยเครื่องมือที่ทันสมัยและการเข้าถึงตัวเลือกเช่นโทนสีที่คุณต้องการ ขนาดตัวอักษรและภาษา Ubuntu "
+"เป็นสำหรับทุก ๆ คน ไม่ว่าคุณจะเป็นใคร"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
-msgid "Customisation options"
+msgid "Customization options"
 msgstr "ตัวเลือกการปรับแต่ง"
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -60,11 +63,11 @@ msgstr "ท่องดูเว็บ"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from the Ubuntu Software Center."
+"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
+"use and it’s backed by a non-profit foundation that loves the web. If you "
+"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
+"Software Center."
 msgstr ""
-"Ubuntu มาพร้อมกับ Mozilla Firefox เพื่อการท่องเว็บอย่างรวดเร็วและปลอดภัย "
-"แน่นอนว่าคุณสามารถเลือกใช้โปรแกรมท่องเว็บอื่นๆ ได้จากโปรแกรมศูนย์ซอฟต์แวร์ Ubuntu"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -106,19 +109,19 @@ msgid ""
 "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
 "to get an answer about Ubuntu. With most questions already answered, and "
 "thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
-"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options."
+"if you need an answer on a deadline, you can get commercial support and more "
+"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 msgstr ""
-"ไปที่ <a href=\"http://askubuntu.com/\">Ask Ubuntu</a> "
-"จะเป็นที่ที่ดีที่สุดที่จะได้รับคำตอบเกี่ยวกับ Ubuntu พร้อมทั้งคำถามที่ถูกถามบ่อย "
-"และกับผู้ใช้อีกว่าพันคนที่พร้อมจะช่วยเหลือคุณ คุณจะใช้เวลาเพียงเล็กน้อย "
-"หรือถ้าคุณเป็นผู้ใช้งานภาษาไทย อย่าลืมแวะไปที่ <a href=\"http://www.ubuntuclub.com/\"> "
-"และถ้าคุณต้องการคำตอบในเวลาที่จำกัด บริษัท Canonical ขอเสนอ<a href=\"http://www."
-"ubuntu.com/support\">การสนับสนุนสำหรับภาคธุรกิจ</a>สำหรับผู้ใช้ในองค์กร ไปที่ <a href="
-"\"http://www.ubuntu.com/support\">ubuntu.com/support</a> เพื่อดูทางเลือกต่างๆ "
-"สำหรับคุณ"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/gethelp.html:17
+msgid "Let’s talk Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><div>
+#: slideshows/ubuntu/slides/gethelp.html:18
+msgid "I'm installing #Ubuntu!"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/mobilise.html:1
@@ -152,20 +155,16 @@ msgstr "นำเพลงติดไปกับคุณ"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/music.html:8
 msgid ""
-"Ubuntu comes with the amazing Banshee music player. With advanced playback "
+"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
 "options and the Ubuntu One music store built in, it’s simple to queue up the "
 "perfect songs. And it works great with CDs and portable music players, so "
 "you can enjoy all your music wherever you go."
 msgstr ""
-"Ubuntu มาพร้อมกับโปรแกรมเล่นเพลง Banshee ที่น่าตื่นตาตื่นใจ ด้วยตัวเลือกการเล่นขั้นสูง "
-"และร้านขายเพลง Ubuntu One ที่รวมมาด้วยแล้วในชุด มันง่ายมากที่จะจัดรายการเพลงอันสุดยอด "
-"แน่นอนว่ามันยังทำงานได้ดีกับแผ่นซีดีเพลงและเครื่องเล่นเพลงแบบพกพาได้อีกด้วย "
-"คุณสามารถสนุกไปได้ทุกที่กับเพลงของคุณในทุกที่ที่คุณไป"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:16
-msgid "Banshee Music Player"
-msgstr "โปรแกรมเล่นเพลง Banshee"
+msgid "Rhythmbox Music Player"
+msgstr "โปรแกรมเล่นเพลง Rhythmbox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:20
@@ -192,13 +191,18 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
-msgid "LibreOffice"
-msgstr "LibreOffice"
+msgid "LibreOffice Writer"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:20
-msgid "Tomboy Notes"
-msgstr "บันทึก Tomboy"
+msgid "LibreOffice Calc"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
@@ -287,176 +291,80 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 11.10"
-msgstr "ยินดีต้อนรับสู่ Ubuntu 11.10"
+msgid "Welcome to Ubuntu 12.04 LTS"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
 msgid ""
-"Ubuntu is packed with features to make your computer delightful to use. This "
-"version consolidates the Unity desktop interface; a brand new way to find "
-"and manage your applications. Now with more features and faster. We’d like "
-"to show some cool things to look for in your new operating system."
+"Fast and feature-packed, Ubuntu makes your PC a delight to use. And with the "
+"latest version of the Unity interface, it's now easier than ever. Here are a "
+"few more cool new things to look out for."
 msgstr ""
-"Ubuntu มาพร้อมกับความสามารถที่จะทำให้คอมพิวเตอร์ของคุณน่าใช้ "
-"รุ่นนี้ได้รวบรวมส่วนติดต่อผู้ใช้ที่เรียกว่า Unity เอาไว้ด้วย "
-"มันเป็นวิธีการใหม่ที่จะช่วยคุณค้าหาและจัดการโปรแกรมของคุณ "
-"และตอนนี้เราจะนำเสนอความสามารถใหม่ ความเร็ว และของเด็ดๆ "
-"ที่คุณได้มองหาสำหรับระบบปฏิบัติการของคุณ"
 
-#~ msgid "Social from the start"
-#~ msgstr "เข้าสู่สังคมตั้งแต่เริ่ม"
+#~ msgid "Tomboy Notes"
+#~ msgstr "บันทึก Tomboy"
 
-#~ msgid "Appearance preferences"
-#~ msgstr "ปรับแต่งรูปโฉม"
+#~ msgid "LibreOffice"
+#~ msgstr "LibreOffice"
+
+#~ msgid "Customisation options"
+#~ msgstr "ตัวเลือกการปรับแต่ง"
+
+#~ msgid "Customise Ubuntu"
+#~ msgstr "ปรับแต่ง Ubuntu"
+
+#~ msgid "Banshee Music Player"
+#~ msgstr "โปรแกรมเล่นเพลง Banshee"
+
+#~ msgid "Welcome to Ubuntu 11.10"
+#~ msgstr "ยินดีต้อนรับสู่ Ubuntu 11.10"
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, Canonical offers <a "
+#~ "href=\"http://www.ubuntu.com/support\">commercial support</a> to business "
+#~ "users. Browse to <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a> to explore your other options."
+#~ msgstr ""
+#~ "ไปที่ <a href=\"http://askubuntu.com/\">Ask Ubuntu</a> "
+#~ "จะเป็นที่ที่ดีที่สุดที่จะได้รับคำตอบเกี่ยวกับ Ubuntu พร้อมทั้งคำถามที่ถูกถามบ่อย "
+#~ "และกับผู้ใช้อีกว่าพันคนที่พร้อมจะช่วยเหลือคุณ คุณจะใช้เวลาเพียงเล็กน้อย "
+#~ "หรือถ้าคุณเป็นผู้ใช้งานภาษาไทย อย่าลืมแวะไปที่ <a href=\"http://www.ubuntuclub.com/"
+#~ "\"> และถ้าคุณต้องการคำตอบในเวลาที่จำกัด บริษัท Canonical ขอเสนอ<a href=\"http://"
+#~ "www.ubuntu.com/support\">การสนับสนุนสำหรับภาคธุรกิจ</a>สำหรับผู้ใช้ในองค์กร ไปที่ <a "
+#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> "
+#~ "เพื่อดูทางเลือกต่างๆ สำหรับคุณ"
 
 #~ msgid ""
 #~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-#~ "choose alternative browsers from Ubuntu Software Center."
+#~ "choose alternative browsers from the Ubuntu Software Center."
 #~ msgstr ""
-#~ "Ubuntu มาพร้อมกับ Mozilla Firefox เพื่อความเร็ว และการท่องดูเว็บอย่างปลอดภัย "
-#~ "คุณสามารถเลือกใช้เบราว์เซอร์อื่นได้เช่นกันผ่านทาง ศูนย์ซอฟต์แวร์ Ubuntu"
-
-#~ msgid "Skype"
-#~ msgstr "Skype"
-
-#~ msgid "Empathy IM"
-#~ msgstr "Empathy โปรแกรมข้อความทันใจ"
-
-#~ msgid "Evolution Mail"
-#~ msgstr "เมล Evolution"
-
-#~ msgid "Email and chat"
-#~ msgstr "อีเมลและสนทนา"
-
-#~ msgid ""
-#~ "The Messaging Menu has lots of features to make online communication "
-#~ "effortless. Chat helps you log in to all your instant messaging accounts "
-#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
-#~ "place, ready for text or video chat."
-#~ msgstr ""
-#~ "เมนูข้อความมีความสามารถมากมายที่จะติดต่อสื่อสารออนไลน์ได้อย่างง่ายดาย "
-#~ "แชทจะช่วยคุณเข้าสู่บัญชีข้อความด่วนทั้งหมดของคุณ รวมถึง MSN, Jabber, และ Facebook "
-#~ "รายชื่อผู้ติดต่อของคุณจะปรากฏในที่เดียวกัน พร้อมสำหรับข้อความและวิดีโอแชท"
-
-#~ msgid "Thank you"
-#~ msgstr "ขอบคุณ"
-
-#~ msgid "Mobilise your digital life"
-#~ msgstr "ชีวิตดิจิตอลเคลื่อนที่ของคุณ"
-
-#~ msgid "Write and present with ease"
-#~ msgstr "เขียนและนำเสนอได้โดยสะดวก"
-
-#~ msgid "Frozen Bubble"
-#~ msgstr "Frozen Bubble"
-
-#~ msgid "Welcome to Ubuntu 11.04"
-#~ msgstr "ยินดีต้อนรับสู่ Ubuntu 11.04"
-
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
-
-#~ msgid "Some of our favourites"
-#~ msgstr "บางสิ่งที่เราชอบ"
-
-#~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
-#~ "for everyone. With advanced accessibility tools and many options like "
-#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
-#~ "working for real people."
-#~ msgstr ""
-#~ "หัวใจของปรัชญา Ubuntu คือ ความเชื่อที่ว่าคอมพิวเตอร์มีไว้สำหรับทุก ๆ คน "
-#~ "ด้วยเครื่องมือที่ทันสมัย และตัวเลือกมากมาย เช่น แบบอักษรที่คุณต้องการ, โทนสี, และภาษา, "
-#~ "Ubuntu มีทุกสิ่งที่คนทำงานต้องการ"
-
-#~ msgid ""
-#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
-#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
-#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
-#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
-#~ "hope you enjoy Ubuntu."
-#~ msgstr ""
-#~ "ขอขอบคุณอีกครั้งที่เลือก Ubuntu, Ubuntu ถูกออกแบบมาให้ง่ายและปลอดภัย "
-#~ "อย่าลังเลที่จะสำรวจ! หากคุณมีคำถามใด ๆ ลองไปที่เมนูวิธีใช้ในโปรแกรมส่วนใหญ่ หรือไปที่ <a "
-#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> และ <a href="
-#~ "\"http://ubuntuclub.com\">ubuntuclub.com</a> สำหรับผู้ใช้ที่เป็นคนไทย "
-#~ "เราหวังว่าคุณจะสนุกกับ Ubuntu"
+#~ "Ubuntu มาพร้อมกับ Mozilla Firefox เพื่อการท่องเว็บอย่างรวดเร็วและปลอดภัย "
+#~ "แน่นอนว่าคุณสามารถเลือกใช้โปรแกรมท่องเว็บอื่นๆ ได้จากโปรแกรมศูนย์ซอฟต์แวร์ Ubuntu"
 
 #~ msgid ""
 #~ "Ubuntu comes with the amazing Banshee music player. With advanced "
-#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
-#~ "simple to queue up the perfect songs. And it works great with CDs and "
-#~ "portable music players, so you can enjoy all your music wherever you go."
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
 #~ msgstr ""
-#~ "Ubuntu มาพร้อมกับโปรแกรมเล่นเพลง Banshee ที่น่าตื่นตาตื่นใจ "
-#~ "ด้วยตัวเลือกการเล่นขั้นสูงและร้านขายเพลง Ubuntu One ในตัว "
-#~ "มันง่ายมากที่จะจัดลำดับการเล่นเพลงที่สมบูรณ์ และมันใช้งานได้ดีกับแผ่นซีดีและเครื่องเล่นเพลงพกพา "
-#~ "เพื่อให้คุณสามารถเพลิดเพลินไปกับเสียงเพลงของคุณในทุกที่ที่คุณไป"
-
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
-#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
-#~ "try lots of photo apps from the Ubuntu Software Centre."
-#~ msgstr ""
-#~ "Shotwell เป็นโปรแกรมจัดการภาพถ่ายที่พร้อมสำหรับอุปกรณ์อิเลกทรอนิกของคุณ "
-#~ "เพียงเชื่อมต่อกล้องหรือโทรศัพท์เพื่อการถ่ายโอนภาพถ่ายของคุณ "
-#~ "มันเป็นเรื่องง่ายที่จะแบ่งปันและจัดเก็บไว้อย่างปลอดภัย หรือถ้าคุณอยากสร้างสรรค์ "
-#~ "คุณสามารถลองโปรแกรมภาพถ่ายที่มีอยู่มากมายในศูนย์ซอฟต์แวร์ Ubuntu"
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
-#~ "need to create impressive documents, spreadsheets, and presentations. "
-#~ "LibreOffice tries its best to work with other office software, and it "
-#~ "uses the OpenDocument standards for far-reaching compatibility."
-#~ msgstr ""
-#~ "LibreOffice คือชุดโปรแกรมสำนักงานฟรี ที่เต็มไปด้วยทุกสิ่งที่คุณต้องการเพื่อสร้างเอกสาร "
-#~ "ตารางคำนวน และงานนำเสนอ LibreOffice "
-#~ "พยายามอย่างดีที่สุดเพื่อให้ทำงานร่วมกันได้กับซอฟต์แวร์สำนักงานอื่น ๆ และมันใช้มาตรฐาน "
-#~ "OpenDocument เพื่อความเข้ากันได้อย่างดีที่สุด"
-
-#~ msgid ""
-#~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
-#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
-#~ "pictures across all your computers. Take everything everywhere with "
-#~ "Ubuntu One."
-#~ msgstr ""
-#~ "ผู้ใช้ Ubuntu ทุกคนจะได้รับบัญชี <a href=\"https://one.ubuntu.com/\">Ubuntu One</"
-#~ "a> ฟรี Ubuntu One จะช่วยให้คุณสามารถปรับข้อมูลของแฟ้มให้ตรงกัน "
-#~ "ทำให้คุณสามารถเข้าถึงได้จากทุกที่ ปรับข้อมูลที่คั่นหน้า, รายชื่อผู้ติดต่อ, เพลง "
-#~ "และภาพถ่ายบนคอมพิวเตอร์ทั้งหมดของคุณให้ตรงกัน นำทุกสิ่งไปได้ทุกที่ด้วย Ubuntu One"
-
-#~ msgid ""
-#~ "The Me Menu is your instant connection to web services like Facebook and "
-#~ "Twitter. Just set up your accounts to log in and share with friends. "
-#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
-#~ "you want."
-#~ msgstr ""
-#~ "เมนูตัวฉันคือการเชื่อมต่อด่วนเข้ากับบริการเว็บ เช่น Facebook และ Twitter "
-#~ "เพียงตั้งค่าบัญชีของคุณเพื่อเข้าสู่ระบบและแบ่งปันสิ่งต่าง ๆ กับเพื่อน "
-#~ "สิ่งที่ส่งมาหาคุณจะปรากฏในเมนูข้อความ ซึ่งคุณสามารถตอบกลับได้เมื่อคุณต้องการ"
+#~ "Ubuntu มาพร้อมกับโปรแกรมเล่นเพลง Banshee ที่น่าตื่นตาตื่นใจ ด้วยตัวเลือกการเล่นขั้นสูง "
+#~ "และร้านขายเพลง Ubuntu One ที่รวมมาด้วยแล้วในชุด มันง่ายมากที่จะจัดรายการเพลงอันสุดยอด "
+#~ "แน่นอนว่ามันยังทำงานได้ดีกับแผ่นซีดีเพลงและเครื่องเล่นเพลงแบบพกพาได้อีกด้วย "
+#~ "คุณสามารถสนุกไปได้ทุกที่กับเพลงของคุณในทุกที่ที่คุณไป"
 
 #~ msgid ""
 #~ "Ubuntu is packed with features to make your computer delightful to use. "
-#~ "This version introduces the Unity desktop interface; a brand new way to "
-#~ "find and manage your applications. We&#8217;d like to show some cool "
-#~ "things to look for in your new operating system."
+#~ "This version consolidates the Unity desktop interface; a brand new way to "
+#~ "find and manage your applications. Now with more features and faster. "
+#~ "We’d like to show some cool things to look for in your new operating "
+#~ "system."
 #~ msgstr ""
-#~ "Ubuntu เต็มไปด้วยความสามารถที่จะทำให้คอมพิวเตอร์ของคุณน่าใช้ "
-#~ "รุ่นนี้จะแนะนำส่วนติดต่อที่เรียกว่า Unity ซึ่งเป็นวิธีใหม่ที่จะค้นหาและจัดการโปรแกรมของคุณ "
-#~ "เราอยากจะแสดงสิ่งใหม่ ๆ ที่คุณจะได้เห็นในระบบปฏิบัติการของคุณ"
-
-#~ msgid ""
-#~ "The Ubuntu Software Centre has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is simple to download new stuff and "
-#~ "write reviews to share your experiences."
-#~ msgstr ""
-#~ "ศูนย์ซอฟต์แวร์ Ubuntu มีโปรแกรมใหม่กว่าพันรายการที่พร้อมสำหรับคอมพิวเตอร์ของคุณ "
-#~ "เพียงป้อนสิ่งที่คุณต้องการ หรือท่องดูตามหมวด เช่น เกม, วิทยาศาสตร์ และการศึกษา "
-#~ "มันง่ายมากที่จะดาวน์โหลดสิ่งใหม่ ๆ และเขียนข้อคิดเห็นเพื่อแบ่งปันประสพการณ์ของคุณ"
+#~ "Ubuntu มาพร้อมกับความสามารถที่จะทำให้คอมพิวเตอร์ของคุณน่าใช้ "
+#~ "รุ่นนี้ได้รวบรวมส่วนติดต่อผู้ใช้ที่เรียกว่า Unity เอาไว้ด้วย "
+#~ "มันเป็นวิธีการใหม่ที่จะช่วยคุณค้าหาและจัดการโปรแกรมของคุณ "
+#~ "และตอนนี้เราจะนำเสนอความสามารถใหม่ ความเร็ว และของเด็ดๆ "
+#~ "ที่คุณได้มองหาสำหรับระบบปฏิบัติการของคุณ"

@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:16+0200\n"
-"PO-Revision-Date: 2011-04-16 18:40+0000\n"
-"Last-Translator: Michael Kotsarinis <mk73628@gmail.com>\n"
+"POT-Creation-Date: 2012-03-15 18:48-0300\n"
+"PO-Revision-Date: 2012-02-28 17:31+0000\n"
+"Last-Translator: Filippos Kolyvas <fkolyvas@gmail.com>\n"
 "Language-Team: Greek <el@li.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:05+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:52+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -324,6 +324,39 @@ msgstr ""
 "ώστε να αλλάξετε την κατάσταση σας."
 
 #. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/epoptes.html:1
+msgid "Epoptes classroom control"
+msgstr "Ελεγκτής αίθουσας Epoptes"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:6
+msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgstr ""
+"Η εφαρμογή <em>Epoptes</em> επιτρέπει στον ομιλητή να πάρει τον έλεγχο των "
+"υπολογιστών των μαθητών."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:7
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
+msgstr ""
+"Να μεταδίδει ένα μάθημα από τη δική του επιφάνεια εργασίας σε όλους τους "
+"χρήστες, ώστε να παρουσιάσει μία νέα έννοια."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:8
+msgid "Monitor user sessions to keep tabs on mischievous users."
+msgstr ""
+"Να ελέγχει τις εργασίες του κάθε χρήστη και να παρακολουθεί τους άτακτους "
+"μαθητές."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:9
+msgid "Epoptes dynamically detects clients and integrates well with LTSP."
+msgstr ""
+"Η εφαρμογή Epoptes ανιχνεύει δυναμικά πελάτες και ενσωματώνεται καλά με το "
+"LTSP."
+
+#. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
 msgid "FreeMind mindmapping"
 msgstr "Η εφαρμογή νοητικού χάρτη FreeMind"
@@ -459,32 +492,6 @@ msgstr ""
 "Όλες οι εφαρμογές στο Κέντρο λογισμικού βρίσκονται στο διαδικτυακό "
 "αποθετήριό μας. Προσέχουμε ώστε να το διατηρούμε ασφαλές και ενημερωμένο με "
 "όλες τις τελευταίες εκδόσεις."
-
-#. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/italc.html:1
-msgid "iTalc intelligent teaching"
-msgstr "iTalc έξυπνη διδασκαλία"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:6
-msgid "<em>iTalc</em> allows a lecturer to take control of student desktops."
-msgstr ""
-"Το <em>iTalc</em> επιτρέπεςι στο διδάσκοντα να ελέγχει την επιφάνεια "
-"εργασίας των μαθητών."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:7
-msgid "Broadcast a desktop session to all users to demonstrate a new concept."
-msgstr ""
-"Να μεταδίδει ένα μάθημα από τη δική του επιφάνεια εργασίας σε όλους τους "
-"χρήστες, ώστε να παρουσιάσει μία νέα έννοια."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:8
-msgid "Monitor user sessions to keep tabs on mischievous users."
-msgstr ""
-"Να ελέγχει τις εργασίες του κάθε χρήστη και να παρακολουθεί τους άτακτους "
-"μαθητές."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
@@ -737,7 +744,7 @@ msgstr "Καλώς ήλθατε και ευχαριστώ"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 11.10."
+msgid "Thank you for testing what will become Edubuntu 12.04 LTS."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -869,12 +876,15 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 3.0 boosts performance and hardware support."
+msgid "Linux 3.2 boosts performance and hardware support."
 msgstr ""
+"Ο πυρήνας Linux 3.2 ενισχύει την απόδοση και επεκτείνει την υποστήριξη "
+"υλικού."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid "Xorg 1.10, Mesa 7.11 and Compiz delivers breathtaking graphics support."
+msgid ""
+"Xorg 1.11, Mesa 8.0.1 and Compiz delivers breathtaking graphics support."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -891,8 +901,8 @@ msgstr "Καλώς ήλθατε"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 11.10."
-msgstr ""
+msgid "Thank you for choosing Edubuntu 12.04 LTS."
+msgstr "Σας ευχαριστούμε που επιλέξατε το Edubuntu 12.04 LTS."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:7
@@ -922,18 +932,11 @@ msgstr ""
 "Το Edubuntu είναι σχεδιασμένο για τη δική σας ευκολία. Εξερευνήστε το "
 "ελεύθερα!"
 
-#~ msgid "Thank you for testing what will become Edubuntu 11.04."
-#~ msgstr "Ευχαριστώ που δοκιμάσατε αυτό που θα είναι το Edubuntu 11.04."
+#~ msgid "iTalc intelligent teaching"
+#~ msgstr "iTalc έξυπνη διδασκαλία"
 
 #~ msgid ""
-#~ "Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
+#~ "<em>iTalc</em> allows a lecturer to take control of student desktops."
 #~ msgstr ""
-#~ "Τα Xorg 1.10, Mesa 7.10 και Compiz προσφέρουν υποστήριξη εκπληκτικών "
-#~ "γραφικών."
-
-#~ msgid "Thank you for choosing Edubuntu 11.04."
-#~ msgstr "Σας ευχαριστούμε που διαλέξατε το Edubuntu 11.04."
-
-#~ msgid "Linux 2.6.38 boosts performance and hardware support."
-#~ msgstr ""
-#~ "Ο πυρήνας Linux 2.6.38 αυξάνει τις αποδόσεις και την υποστήριξη υλικού."
+#~ "Το <em>iTalc</em> επιτρέπεςι στο διδάσκοντα να ελέγχει την επιφάνεια "
+#~ "εργασίας των μαθητών."

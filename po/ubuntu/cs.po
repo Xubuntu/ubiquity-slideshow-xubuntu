@@ -7,20 +7,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:16+0200\n"
-"PO-Revision-Date: 2011-09-29 20:25+0000\n"
+"POT-Creation-Date: 2012-03-15 18:48-0300\n"
+"PO-Revision-Date: 2012-03-03 12:47+0000\n"
 "Last-Translator: Vojtěch Trefný <vojtech.trefny@gmail.com>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:07+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Customise Ubuntu"
+msgid "Customize Ubuntu"
 msgstr "Přizpůsobte si Ubuntu"
 
 #. type: Content of: <div><div><div><p>
@@ -38,7 +38,7 @@ msgstr ""
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
-msgid "Customisation options"
+msgid "Customization options"
 msgstr "Možnosti přizpůsobení"
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -64,11 +64,15 @@ msgstr "Brouzdejte Internetem"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from the Ubuntu Software Center."
+"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
+"use and it’s backed by a non-profit foundation that loves the web. If you "
+"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
+"Software Center."
 msgstr ""
-"Pro rychlé a bezpečné prohlížení webu obsahuje Ubuntu prohlížeč Mozilla "
-"Firefox. Z Centra softwaru pro Ubuntu si můžete zvolit i další prohlížeče."
+"Ubuntu obsahuje Mozilla Firefox pro rychlé a bezpečné prohlížení webu. Tento "
+"prohlížeč je navržen pro jednoduché použití a je zaštítěn neziskovou "
+"organizací, která miluje web. Pokud nejste fanouškem Firefoxu, nezoufejte. V "
+"centru softwaru pro Ubuntu je  nachystáno mnoho alternativních prohlížečů."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -110,17 +114,26 @@ msgid ""
 "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
 "to get an answer about Ubuntu. With most questions already answered, and "
 "thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
-"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options."
+"if you need an answer on a deadline, you can get commercial support and more "
+"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 msgstr ""
-"Navštivte <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, nejlepší místo "
-"pro získání pomoci s Ubuntu. S většinou otázek již zodpovězenou a s tisíci "
-"lidmi připravenými pomoci vám, neztratíte ani minutu. A pokud potřebujete "
-"profesionální pomoc, Canonical nabízí firemním zákazníkům <a href=\"http://"
-"www.ubuntu.cz/podpora/placena\">komerční podporu</a>. Pro další možnosti "
-"navštivte <a href=\"http://www.ubuntu.cz/podpora\">ubuntu.cz/podpora</a>."
+"Podívejte se na <a href=\"http://forum.ubuntu.cz/\">Fórum Ubuntu</a>, což je "
+"nejlepší místo, kde dostanete odpovědi na své otázky ohledně Ubuntu. Je tam "
+"k dispozici mnoho již zodpovězených otázek a tisíce lidí čekajících, aby vám "
+"v krátkém čase pomohli. Pokud ovšem vyžadujete okamžitou a přesnou odpověď, "
+"můžete si objednat komerční podporu a mnohem více na <a href=\"http://www."
+"ubuntu.com/podpora\">ubuntu.cz/podpora</a>."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/gethelp.html:17
+msgid "Let’s talk Ubuntu"
+msgstr "Pojďme se bavit o Ubuntu"
+
+#. type: Content of: <div><div><div><div>
+#: slideshows/ubuntu/slides/gethelp.html:18
+#, fuzzy
+msgid "I'm installing #Ubuntu!"
+msgstr "Instaluji #Ubuntu"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/mobilise.html:1
@@ -154,20 +167,21 @@ msgstr "Mějte svou hudbu s sebou"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/music.html:8
 msgid ""
-"Ubuntu comes with the amazing Banshee music player. With advanced playback "
+"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
 "options and the Ubuntu One music store built in, it’s simple to queue up the "
 "perfect songs. And it works great with CDs and portable music players, so "
 "you can enjoy all your music wherever you go."
 msgstr ""
-"Ubuntu přichází s úžasným přehrávačem hudby Banshee. S pokročilými možnostmi "
-"nastavení a vestavěným obchodem s hudbou Ubuntu One, je poslech báječných "
-"písniček tak snadný. Banshee výborně spolupracuje s CD nosiči a přenosnými "
-"hudebními přehrávači, takže si můžete užít svou hudbu kdekoli."
+"Ubuntu přichází s úžasným přehrávačem hudby - Rhythmbox. S pokročilými "
+"možnostmi přehrávání a s vestavěnou podporou služby Ubuntu One music store, "
+"je velmi snadné vybrat si skvělé písničky. Také výborně spolupracuje s "
+"přenosnými přehrávači, takže si můžete užít veškerou svou hudbu naprosto "
+"kdekoliv."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:16
-msgid "Banshee Music Player"
-msgstr "Přehrávač hudby Banshee"
+msgid "Rhythmbox Music Player"
+msgstr "Přehrávač hudby Rhythmbox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:20
@@ -194,13 +208,18 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
-msgid "LibreOffice"
-msgstr "LibreOffice"
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:20
-msgid "Tomboy Notes"
-msgstr "Poznámky Tomboy"
+msgid "LibreOffice Calc"
+msgstr "LibreOffice Calc"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
@@ -291,186 +310,82 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 11.10"
-msgstr "Vítejte v Ubuntu 11.10"
+msgid "Welcome to Ubuntu 12.04 LTS"
+msgstr "Vítejte v Ubuntu 12.04 LTS"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
 msgid ""
-"Ubuntu is packed with features to make your computer delightful to use. This "
-"version consolidates the Unity desktop interface; a brand new way to find "
-"and manage your applications. Now with more features and faster. We’d like "
-"to show some cool things to look for in your new operating system."
+"Fast and feature-packed, Ubuntu makes your PC a delight to use. And with the "
+"latest version of the Unity interface, it's now easier than ever. Here are a "
+"few more cool new things to look out for."
 msgstr ""
-"Ubuntu je vytvořeno tak, aby vám zpříjemnilo práci s počítačem. Tato verze "
-"dále zlepšuje uživatelské prostředí Unity, které představuje zcela novou "
-"cestu jak pracovat s aplikacemi. Nyní ještě rychleji a pohodlněji. Rádi "
-"bychom vám představili některé zajímavé věci, na které se můžete těšit ve "
-"svém novém systému."
+"Rychlé a nabité funkcemi, Ubuntu učiní váš počítač dokonale použitelným. S "
+"poslední verzí prostředí Unity je ovládání počítače jednodušší než kdy "
+"dříve. Zde je několik nových báječných věcí, které byste měli vidět."
 
-#~ msgid "Social from the start"
-#~ msgstr "Buďte neustále v kontaktu"
+#~ msgid "Tomboy Notes"
+#~ msgstr "Poznámky Tomboy"
 
-#~ msgid "Appearance preferences"
-#~ msgstr "Předvolby vzhledu"
+#~ msgid "LibreOffice"
+#~ msgstr "LibreOffice"
 
-#~ msgid "Skype"
-#~ msgstr "Skype"
+#~ msgid "Customisation options"
+#~ msgstr "Možnosti přizpůsobení"
 
-#~ msgid "Evolution Mail"
-#~ msgstr "Pošta Evolution"
+#~ msgid "Banshee Music Player"
+#~ msgstr "Přehrávač hudby Banshee"
 
-#~ msgid "Empathy IM"
-#~ msgstr "Komunikátor Empathy"
+#~ msgid "Customise Ubuntu"
+#~ msgstr "Přizpůsobte si Ubuntu"
 
-#~ msgid "Email and chat"
-#~ msgstr "E-mail a chat"
-
-#~ msgid ""
-#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-#~ "choose alternative browsers from Ubuntu Software Center."
-#~ msgstr ""
-#~ "Ubuntu obsahuje Mozilla Firefox pro rychlé a bezpečné prohlížení "
-#~ "internetu. V Centru softwaru pro Ubuntu si můžete zvolit také jiné "
-#~ "prohlížeče."
-
-#~ msgid "Thank you"
-#~ msgstr "Poděkování"
-
-#~ msgid ""
-#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
-#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
-#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
-#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
-#~ "hope you enjoy Ubuntu."
-#~ msgstr ""
-#~ "Ještě jednou děkujeme za výběr Ubuntu. Ubuntu je navrženo tak, aby bylo "
-#~ "uživatelsky přívětivé a bezpečné, takže se jej nebojte prozkoumat! Pokud "
-#~ "máte nějaké otázky, zvolte ve většině aplikací nabídku Nápověda nebo "
-#~ "navštivte stránku <a href=\"http://www.ubuntu.com/support\">ubuntu.cz/"
-#~ "podpora</a> ke zjištění dalších možností. Doufáme, že používání Ubuntu "
-#~ "bude pro vás příjemným zážitkem!"
-
-#~ msgid ""
-#~ "Ubuntu comes with the amazing Banshee music player. With advanced "
-#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
-#~ "simple to queue up the perfect songs. And it works great with CDs and "
-#~ "portable music players, so you can enjoy all your music wherever you go."
-#~ msgstr ""
-#~ "Ubuntu přichází s úžasným přehrávačem hudby Banshee. Díky pokročilým "
-#~ "možnostem přehrávání a vestavěnému obchodu s hudbou Ubuntu One je "
-#~ "jednoduché sestavit si sbírku skladeb k poslechu. Funguje skvěle také s "
-#~ "přehrávači CD a přenosnými přehrávači hudby, takže si můžete vychutnat "
-#~ "vaši hudbu, ať jste kdekoliv."
-
-#~ msgid "Mobilise your digital life"
-#~ msgstr "Přistupujte ke svým datům odkudkoliv"
-
-#~ msgid ""
-#~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
-#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
-#~ "pictures across all your computers. Take everything everywhere with "
-#~ "Ubuntu One."
-#~ msgstr ""
-#~ "Všichni uživatelé Ubuntu získávají zdarma účet <a href=\"https://one."
-#~ "ubuntu.com/\">Ubuntu One</a>. Ubuntu One vám umožňuje synchronizovat "
-#~ "všechny druhy souborů s webovým úložištěm, takže k nim můžete přistupovat "
-#~ "kdekoliv. Synchronizujte záložky, kontakty, hudbu a obrázky mezi všemi "
-#~ "svými počítači. S Ubuntu One máte svůj digitální život na dosah kdekoliv."
-
-#~ msgid "Write and present with ease"
-#~ msgstr "Piště a prezentuje s lehkostí"
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
-#~ "need to create impressive documents, spreadsheets, and presentations. "
-#~ "LibreOffice tries its best to work with other office software, and it "
-#~ "uses the OpenDocument standards for far-reaching compatibility."
-#~ msgstr ""
-#~ "LibreOffice je svobodný kancelářský balík obsahující vše, co budete "
-#~ "potřebovat pro vytváření profesionálních dokumentů, tabulek a prezentací. "
-#~ "LibreOffice se snaží co nejlépe spolupracovat s dalšími kancelářskými "
-#~ "balíky a pro dosažení vysoké kompatibility používá standardy OpenDocument."
-
-#~ msgid ""
-#~ "The Messaging Menu has lots of features to make online communication "
-#~ "effortless. Chat helps you log in to all your instant messaging accounts "
-#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
-#~ "place, ready for text or video chat."
-#~ msgstr ""
-#~ "Nabídka \"Zprávy\" obsahuje mnoho funkcí a usnadňuje tak komunikaci přes "
-#~ "internet. Chat vám pomůže přihlásit se do všech vašich účtů IM včetně "
-#~ "MSN, Jabber a Facebook. Vaše kontakty se zobrazují na stejném místě a "
-#~ "jsou vždy připraveny pro textovou nebo obrazovou komunikaci."
-
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
-#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
-#~ "try lots of photo apps from the Ubuntu Software Centre."
-#~ msgstr ""
-#~ "Shotwell je šikovný správce fotografií, který je připraven na vaše "
-#~ "výtvory. Připojte fotoaparát nebo telefon k přenosu fotografií do "
-#~ "počítače a pak je již snadné se o ně podělit a udržet je v bezpečí. Pokud "
-#~ "jste kreativní, můžete vyzkoušet spoustu aplikací pro práci s "
-#~ "fotografiemi dostupných v Centru softwaru pro Ubuntu."
-
-#~ msgid ""
-#~ "The Me Menu is your instant connection to web services like Facebook and "
-#~ "Twitter. Just set up your accounts to log in and share with friends. "
-#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
-#~ "you want."
-#~ msgstr ""
-#~ "Nabídka \"O mně\" slouží k okamžitému spojení s webovými službami jako "
-#~ "Facebook a Twitter. Stačí si nastavit své účty a ihned jste v kontaktu se "
-#~ "svými přáteli. Cokoliv vám bude zasláno, se objeví v nabídce \"Zprávy\", "
-#~ "takže můžete odpovědět, pokud budete chtít."
-
-#~ msgid "Welcome to Ubuntu 11.04"
-#~ msgstr "Vítejte v Ubuntu 11.04"
-
-#~ msgid "Frozen Bubble"
-#~ msgstr "Frozen Bubble"
-
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
+#~ msgid "Welcome to Ubuntu 11.10"
+#~ msgstr "Vítejte v Ubuntu 11.10"
 
 #~ msgid ""
 #~ "Ubuntu is packed with features to make your computer delightful to use. "
-#~ "This version introduces the Unity desktop interface; a brand new way to "
-#~ "find and manage your applications. We&#8217;d like to show some cool "
-#~ "things to look for in your new operating system."
+#~ "This version consolidates the Unity desktop interface; a brand new way to "
+#~ "find and manage your applications. Now with more features and faster. "
+#~ "We’d like to show some cool things to look for in your new operating "
+#~ "system."
 #~ msgstr ""
-#~ "Ubuntu je nabitý funkcemi, aby byla práce s počítačem příjemná. Toto "
-#~ "vydání přináší pracovní prostředí Unity, zcela nový způsob hledání a "
-#~ "správy aplikací. Rádi bychom vám ukázali některé úžasné prvky, které "
-#~ "naleznete ve svém novém operačním systému."
-
-#~ msgid "Some of our favourites"
-#~ msgstr "Některé z našich oblíbených"
-
-#~ msgid ""
-#~ "The Ubuntu Software Centre has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is simple to download new stuff and "
-#~ "write reviews to share your experiences."
-#~ msgstr ""
-#~ "Centrum softwaru pro Ubuntu poskytuje tisíce nových aplikací dostupných "
-#~ "pro váš počítač. Stačí napsat, co hledáte nebo procházet kategoriemi jako "
-#~ "hry, věda a vzdělávání. Stáhnout nový software je snadné, stejně tak "
-#~ "napsat o něm recenzi a podělit se o své zkušenosti."
+#~ "Ubuntu je vytvořeno tak, aby vám zpříjemnilo práci s počítačem. Tato "
+#~ "verze dále zlepšuje uživatelské prostředí Unity, které představuje zcela "
+#~ "novou cestu jak pracovat s aplikacemi. Nyní ještě rychleji a pohodlněji. "
+#~ "Rádi bychom vám představili některé zajímavé věci, na které se můžete "
+#~ "těšit ve svém novém systému."
 
 #~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
-#~ "for everyone. With advanced accessibility tools and many options like "
-#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
-#~ "working for real people."
+#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+#~ "choose alternative browsers from the Ubuntu Software Center."
 #~ msgstr ""
-#~ "Základní filozofií Ubuntu je přesvědčení, že počítač je pro každého. S "
-#~ "pokročilými nástroji pro zpřístupnění a mnoha možnostmi nastavení jako "
-#~ "upřednostňovaná písma, barevné motivy a jazyky, je Ubuntu určeno pro "
-#~ "každodenní práci."
+#~ "Pro rychlé a bezpečné prohlížení webu obsahuje Ubuntu prohlížeč Mozilla "
+#~ "Firefox. Z Centra softwaru pro Ubuntu si můžete zvolit i další prohlížeče."
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, Canonical offers <a "
+#~ "href=\"http://www.ubuntu.com/support\">commercial support</a> to business "
+#~ "users. Browse to <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a> to explore your other options."
+#~ msgstr ""
+#~ "Navštivte <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, nejlepší "
+#~ "místo pro získání pomoci s Ubuntu. S většinou otázek již zodpovězenou a s "
+#~ "tisíci lidmi připravenými pomoci vám, neztratíte ani minutu. A pokud "
+#~ "potřebujete profesionální pomoc, Canonical nabízí firemním zákazníkům <a "
+#~ "href=\"http://www.ubuntu.cz/podpora/placena\">komerční podporu</a>. Pro "
+#~ "další možnosti navštivte <a href=\"http://www.ubuntu.cz/podpora\">ubuntu."
+#~ "cz/podpora</a>."
+
+#~ msgid ""
+#~ "Ubuntu comes with the amazing Banshee music player. With advanced "
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
+#~ msgstr ""
+#~ "Ubuntu přichází s úžasným přehrávačem hudby Banshee. S pokročilými "
+#~ "možnostmi nastavení a vestavěným obchodem s hudbou Ubuntu One, je poslech "
+#~ "báječných písniček tak snadný. Banshee výborně spolupracuje s CD nosiči a "
+#~ "přenosnými hudebními přehrávači, takže si můžete užít svou hudbu kdekoli."

@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:16+0200\n"
-"PO-Revision-Date: 2011-09-04 15:48+0000\n"
-"Last-Translator: Jaroslav Matura III <Unknown>\n"
+"POT-Creation-Date: 2012-03-15 18:48-0300\n"
+"PO-Revision-Date: 2012-03-06 15:06+0000\n"
+"Last-Translator: Antonín Kanát <anthony.kanat@gmail.com>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:07+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,8 +25,8 @@ msgstr "Blahopřejeme!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 11.10."
-msgstr "Vybrali jste instalaci poslední verze Xubuntu, 11.10."
+msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
+msgstr "Zvolili jste instalaci poslední verze Xubuntu, 12.04 LTS."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -122,10 +122,11 @@ msgstr "Xubuntu přináší <em>Pidgin</em> jako výchozího klienta komunikáto
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:8
+#, fuzzy
 msgid ""
 "You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
-"(Google Talk). You can also use the Facebook chat and update your Twitter "
-"account via third-party plugins."
+"(Google Talk, Facebook). You can also update your Twitter account via third-"
+"party plugin."
 msgstr ""
 "Můžete se spojit různými protokoly jako AIM, ICQ, IRC, MSN and XMPP (Google "
 "Talk). Můžete také využít Facebook chat a aktualizovat svůj účet Twitter "
@@ -332,3 +333,6 @@ msgstr ""
 "A nakonec poznejte různé způsoby jak přispět Xubuntu na <a href=\"http://"
 "xubuntu.org/devel\">Zapojte se</a> části našich webových stránek. "
 "Potřebujeme vaši pomoc!"
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 11.10."
+#~ msgstr "Vybrali jste instalaci poslední verze Xubuntu, 11.10."

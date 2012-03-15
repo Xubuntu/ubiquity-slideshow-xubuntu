@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:16+0200\n"
-"PO-Revision-Date: 2011-04-04 09:43+0000\n"
-"Last-Translator: Sérgio Marques <Unknown>\n"
+"POT-Creation-Date: 2012-03-15 18:48-0300\n"
+"PO-Revision-Date: 2011-10-06 00:49+0000\n"
+"Last-Translator: Ana Figueiras <phreakia@gmail.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:07+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Customise Ubuntu"
-msgstr "Personalização do Ubuntu"
+msgid "Customize Ubuntu"
+msgstr "Personalizar o Ubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/accessibility.html:8
@@ -31,16 +31,20 @@ msgid ""
 "color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
 "are, and wherever you are."
 msgstr ""
+"No coração da filosofia Ubuntu está a aposta de que a informática é para "
+"todos. O Ubuntu é para todos, com ferramentas avançadas de acessibilidade e "
+"opções tal como o esquema de cores personalizado, tamanho de texto e idioma. "
+"Quem quer que você seja, e onde estiver."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
-msgid "Customisation options"
+msgid "Customization options"
 msgstr "Opções de personalização"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:16
 msgid "Appearance"
-msgstr ""
+msgstr "Aspeto"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:20
@@ -60,8 +64,10 @@ msgstr "Navegar na web"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from the Ubuntu Software Center."
+"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
+"use and it’s backed by a non-profit foundation that loves the web. If you "
+"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
+"Software Center."
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
@@ -96,7 +102,7 @@ msgstr "Chromium"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
 msgid "Any questions?"
-msgstr ""
+msgstr "Algumas dúvidas?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
@@ -104,16 +110,24 @@ msgid ""
 "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
 "to get an answer about Ubuntu. With most questions already answered, and "
 "thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
-"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options."
+"if you need an answer on a deadline, you can get commercial support and more "
+"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+msgstr ""
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/gethelp.html:17
+msgid "Let’s talk Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><div>
+#: slideshows/ubuntu/slides/gethelp.html:18
+msgid "I'm installing #Ubuntu!"
 msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/mobilise.html:1
 msgid "Your own personal cloud"
-msgstr ""
+msgstr "A sua nuvem pessoal"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/mobilise.html:8
@@ -126,6 +140,14 @@ msgid ""
 "ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
 "music on the move."
 msgstr ""
+"Uma conta <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
+"dá-lhe 5GB de armazenamento para que possa armazenar e sincronizar seus "
+"ficheiros e fotos em vários dispositivos e aceder a todos eles em qualquer "
+"parte do mundo. Partilhe-os facilmente com seus amigos, familiares e "
+"colegas. Tire uma foto com o seu telemóvel veja-a imediatamente no seu "
+"desktop, ou adicione o <a href=\"https://one.ubuntu.com/services/music/"
+"\">Music Streaming</a> para dispositivos móveis, para desfrutar da sua "
+"música enquanto se desloca."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:1
@@ -135,7 +157,7 @@ msgstr "Leve a sua música consigo"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/music.html:8
 msgid ""
-"Ubuntu comes with the amazing Banshee music player. With advanced playback "
+"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
 "options and the Ubuntu One music store built in, it’s simple to queue up the "
 "perfect songs. And it works great with CDs and portable music players, so "
 "you can enjoy all your music wherever you go."
@@ -143,8 +165,8 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:16
-msgid "Banshee Music Player"
-msgstr "Reprodutor de músicas Banshee"
+msgid "Rhythmbox Music Player"
+msgstr "Reprodutor de Música Rhythmbox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:20
@@ -154,7 +176,7 @@ msgstr "Loja de Música do Ubuntu One"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
 msgid "Write and present for free"
-msgstr ""
+msgstr "Escreva e apresente gratuitamente"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/office.html:8
@@ -164,16 +186,26 @@ msgid ""
 "tries its best to work with other office software, and it uses the "
 "OpenDocument standards for far-reaching compatibility."
 msgstr ""
+"LibreOffice é um conjunto de aplicações de produtividade repleto de "
+"funcionalidades que lhe permitirão criar documentos, folhas de cálculo e "
+"apresentações. O LibreOffice tenta ao máximo ser interoperável com outros "
+"softwares de produtividade e utiliza os  formatos standard OpenDocument para "
+"maior compatibilidade."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
-msgid "LibreOffice"
-msgstr "LibreOffice"
+msgid "LibreOffice Writer"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:20
-msgid "Tomboy Notes"
-msgstr "Notas com o Tomboy"
+msgid "LibreOffice Calc"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
@@ -188,6 +220,9 @@ msgid ""
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
 "from the Ubuntu Software Center."
 msgstr ""
+"Shotwell é um coveniente gestor de fotos que está preparado para todas as "
+"suas gadgets. Ligue uma camara ou um telemóvel para transferir as suas "
+"fotos, torna-se então fácil partilha-las e mantê-las em segurança."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -207,7 +242,7 @@ msgstr "Editor de vídeo Pitivi"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/social.html:1
 msgid "Stay connected"
-msgstr ""
+msgstr "Permanecer ligado"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/social.html:8
@@ -216,6 +251,9 @@ msgid ""
 "messages from all applications and social networks. See at a glance when "
 "there’s something new to read, regardless how it arrived."
 msgstr ""
+"O Indicador de Mensagens Ubuntu facilita a leitura de mensagens recebidas de "
+"todas as aplicações e redes sociais. Veja de relance quando há algo novo "
+"para ler, independentemente da forma como chegou."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/social.html:12
@@ -250,185 +288,88 @@ msgid ""
 "science, and education. It is easy to download new stuff and write reviews "
 "to share your experiences."
 msgstr ""
+"O Ubuntu Software Center tem milhares de novas aplicações prontas para o seu "
+"computador. Basta introduzir o que quer ou explorar categorias como jogos, "
+"ciência e educação. É fácil descarregar coisas novas e fazer análises para "
+"partilhar as suas experiências."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 11.10"
+msgid "Welcome to Ubuntu 12.04 LTS"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
 msgid ""
-"Ubuntu is packed with features to make your computer delightful to use. This "
-"version consolidates the Unity desktop interface; a brand new way to find "
-"and manage your applications. Now with more features and faster. We’d like "
-"to show some cool things to look for in your new operating system."
+"Fast and feature-packed, Ubuntu makes your PC a delight to use. And with the "
+"latest version of the Unity interface, it's now easier than ever. Here are a "
+"few more cool new things to look out for."
 msgstr ""
 
-#~ msgid "Skype"
-#~ msgstr "Skype"
+#~ msgid "LibreOffice"
+#~ msgstr "LibreOffice"
 
-#~ msgid "Appearance preferences"
-#~ msgstr "Preferências de aparência"
+#~ msgid "Customisation options"
+#~ msgstr "Opções de personalização"
 
-#~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
-#~ "for everyone. With advanced accessibility tools and many options like "
-#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
-#~ "working for real people."
-#~ msgstr ""
-#~ "A filosofia subjacente ao Ubuntu é que os computadores devem ser para "
-#~ "todos. Com avançadas ferramentas de acessibilidade e diversas opções de "
-#~ "personalização, como as letras, esquema de cores e idiomas, o Ubuntu é "
-#~ "desenvolvido para a utilização de todos."
+#~ msgid "Tomboy Notes"
+#~ msgstr "Notas com o Tomboy"
 
-#~ msgid ""
-#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-#~ "choose alternative browsers from Ubuntu Software Center."
-#~ msgstr ""
-#~ "O Ubuntu inclui o Mozilla Firefox para uma navegação rápida e segura. "
-#~ "Poderá também escolher navegadores alternativos no Centro de Software "
-#~ "Ubuntu."
+#~ msgid "Banshee Music Player"
+#~ msgstr "Reprodutor de músicas Banshee"
 
-#~ msgid "Empathy IM"
-#~ msgstr "Empathy IM"
+#~ msgid "Customise Ubuntu"
+#~ msgstr "Personalização do Ubuntu"
 
-#~ msgid "Evolution Mail"
-#~ msgstr "Cliente de correio Evolution"
-
-#~ msgid ""
-#~ "The Messaging Menu has lots of features to make online communication "
-#~ "effortless. Chat helps you log in to all your instant messaging accounts "
-#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
-#~ "place, ready for text or video chat."
-#~ msgstr ""
-#~ "O menu \"Messaging\" tem diversas funcionalidades para facilitar as "
-#~ "comunicações. O chat permite-lhe iniciar sessão nas suas contas de "
-#~ "mensagens instantâneas e inclui MSN, Jabber, Facebook e outros. Os "
-#~ "contactos aparecem num só local, prontos para comunicações em vídeo ou "
-#~ "texto."
-
-#~ msgid "Email and chat"
-#~ msgstr "Mensagens e conversação"
+#~ msgid "Welcome to Ubuntu 11.10"
+#~ msgstr "Bem-vindo ao Ubuntu 11.10"
 
 #~ msgid ""
 #~ "Ubuntu comes with the amazing Banshee music player. With advanced "
-#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
-#~ "simple to queue up the perfect songs. And it works great with CDs and "
-#~ "portable music players, so you can enjoy all your music wherever you go."
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
 #~ msgstr ""
-#~ "O Ubuntu disponibiliza o extraordinário Banshee. com diversas opções de "
-#~ "reprodução e com a loja de música do Ubuntu One, esta é a melhor forma de "
-#~ "criar listas de reprodução perfeitas. Para além disso, funciona com Cds e "
-#~ "leitores portáteis, para que possa apreciar a sua música para onde quer "
-#~ "que vá."
-
-#~ msgid "Mobilise your digital life"
-#~ msgstr "Mobilize a sua vida digital"
+#~ "O Ubuntu vem com o incrível reprodutor audio Banshee. Com opções de "
+#~ "reprodução avançadas e a loja de música Ubuntu One embutida, é simples "
+#~ "mixar as músicas perfeitas. E funciona muita bem com CDs e leitores de "
+#~ "música portáteis, para que possa desfrutar de toda a sua música onde quer "
+#~ "que esteja."
 
 #~ msgid ""
-#~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
-#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
-#~ "pictures across all your computers. Take everything everywhere with "
-#~ "Ubuntu One."
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, Canonical offers <a "
+#~ "href=\"http://www.ubuntu.com/support\">commercial support</a> to business "
+#~ "users. Browse to <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a> to explore your other options."
 #~ msgstr ""
-#~ "Todos os utilizadores Ubuntu têm direito a uma conta <a href=\"https://"
-#~ "one.ubuntu.com/\">Ubuntu One</a>. O Ubuntu One permite-lhe sincronizar os "
-#~ "seus ficheiros na rede, de modo a que lhes possa aceder em qualquer lugar "
-#~ "que estiver. Sincronize marcadores, contactos, músicas e imagens nos "
-#~ "diversos computadores. Vá a todo o lado com o Ubuntu One."
-
-#~ msgid "Write and present with ease"
-#~ msgstr "Documentos e apresentações fáceis"
+#~ "Visite <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, o melhor sítio "
+#~ "para obter respostas sobre o Ubuntu. Com grande parte das dúvidas já "
+#~ "esclarecidas e milhares de pessoas prontas a ajudar, você será "
+#~ "esclarecido em pouco tempo. E se precisar de uma resposta imediata, a "
+#~ "Canonical oferece <a href=\"http://www.ubuntu.com/support\">suporte "
+#~ "comercial</a> para utilizadores empresariais. Visite <a href=\"http://www."
+#~ "ubuntu.com/support\">ubuntu.com/support</a> para explorar outras opções."
 
 #~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
-#~ "need to create impressive documents, spreadsheets, and presentations. "
-#~ "LibreOffice tries its best to work with other office software, and it "
-#~ "uses the OpenDocument standards for far-reaching compatibility."
+#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+#~ "choose alternative browsers from the Ubuntu Software Center."
 #~ msgstr ""
-#~ "O Libreoffice é o conjunto de aplicações de produtividade com tudo o que "
-#~ "precisa para criar documentos, folhas de cálculo e apresentações. O "
-#~ "Libreoffice faz o que pode para trabalhar com os documentos das outras "
-#~ "aplicações de produtividade e utilizar os padrões Opendocument para uma "
-#~ "compatibilidade entre utilizadores."
-
-#~ msgid "Social from the start"
-#~ msgstr "Social desde o início"
-
-#~ msgid "Frozen Bubble"
-#~ msgstr "Frozen Bubble"
-
-#~ msgid "Welcome to Ubuntu 11.04"
-#~ msgstr "Bem vindo(a) ao Ubuntu 11.04"
-
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
+#~ "O Ubuntu inclui o navegador Mozilla Firefox para uma navegação pela Web "
+#~ "mais rápida e segura. Pode também optar por outros navegadores "
+#~ "disponíveis no Centro de Programas Ubuntu."
 
 #~ msgid ""
 #~ "Ubuntu is packed with features to make your computer delightful to use. "
-#~ "This version introduces the Unity desktop interface; a brand new way to "
-#~ "find and manage your applications. We&#8217;d like to show some cool "
-#~ "things to look for in your new operating system."
+#~ "This version consolidates the Unity desktop interface; a brand new way to "
+#~ "find and manage your applications. Now with more features and faster. "
+#~ "We’d like to show some cool things to look for in your new operating "
+#~ "system."
 #~ msgstr ""
-#~ "O Ubuntu possui diversas funcionalidades para tornar a sua experiência a "
-#~ "melhor possível. Esta versão disponibiliza o Unity: uma nova forma de "
-#~ "encontrar e gerir as suas aplicações. Veja agora algumas das "
-#~ "funcionalidades do seu novo sistema operativo."
-
-#~ msgid ""
-#~ "The Me Menu is your instant connection to web services like Facebook and "
-#~ "Twitter. Just set up your accounts to log in and share with friends. "
-#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
-#~ "you want."
-#~ msgstr ""
-#~ "O Me Menu é o seu local de ligações rápidas ao Facebook e Twitter. "
-#~ "Configure as suas contas para iniciar a sessão e conversar com os amigos. "
-#~ "Tudo o que lhe for remetido, vai aparecer no menu de \"Messaging\" para "
-#~ "que possa responder aos seus amigos."
-
-#~ msgid "Thank you"
-#~ msgstr "Obrigado"
-
-#~ msgid ""
-#~ "The Ubuntu Software Centre has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is simple to download new stuff and "
-#~ "write reviews to share your experiences."
-#~ msgstr ""
-#~ "O Centro de Software Ubuntu possui centenas de aplicações para o seu "
-#~ "computador. Basta fazer uma pesquisa ou explorar as diversas categorias "
-#~ "existentes. É muito simples transferir e instalar as aplicações, bem como "
-#~ "tecer comentários sobre as mesmas."
-
-#~ msgid ""
-#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
-#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
-#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
-#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
-#~ "hope you enjoy Ubuntu."
-#~ msgstr ""
-#~ "Obrigado por ter escolhido o Ubuntu. O Ubuntu foi desenvolvido para ser "
-#~ "fácil e seguro, então não perca tempo e experimente-o! Se tiver dúvidas, "
-#~ "veja no menu de Ajuda das diversas aplicações ou vá até <a href=\"http://"
-#~ "www.ubuntu.com/support\">ubuntu.com/support</a> para ver mais opções. "
-#~ "Esperamos que goste do Ubuntu."
-
-#~ msgid "Some of our favourites"
-#~ msgstr "Algumas das nossas preferidas"
-
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
-#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
-#~ "try lots of photo apps from the Ubuntu Software Centre."
-#~ msgstr ""
-#~ "O Shotwell é um gestor de fotos preparado para os seus equipamentos. "
-#~ "Ligue a máquina digital ou telefone para transferir as suas fotos. Após a "
-#~ "transferência, é muito fácil partilhá-las e protegê-las. Caso se "
-#~ "considere criativo, pode experimentar diversas aplicações para edição de "
-#~ "fotos através do Centro de Software Ubuntu."
+#~ "Ubuntu está recheado de funcionalidades para que sejaagradável utilizar o "
+#~ "seu computador . Esta versão consolida a interface desktop Unity, uma "
+#~ "nova forma de localizar e gerir as suas aplicações. Agora com mais "
+#~ "funcionalidades e mais rápido. Nós gostaríamos de lhe mostrar algumas "
+#~ "coisas interessantes para descobrir no seu novo sistema operativo."

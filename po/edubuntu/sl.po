@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:16+0200\n"
-"PO-Revision-Date: 2011-09-12 16:27+0000\n"
+"POT-Creation-Date: 2012-03-15 18:48-0300\n"
+"PO-Revision-Date: 2012-02-24 13:43+0000\n"
 "Last-Translator: Andrej Znidarsic <andrej.znidarsic@gmail.com>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:05+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:52+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -312,6 +312,35 @@ msgstr ""
 "vašega stanja."
 
 #. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/epoptes.html:1
+msgid "Epoptes classroom control"
+msgstr "Nadzor učilnice Epoptes"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:6
+msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgstr ""
+"<em>Epoptes</em> predavatelju omogoča prevzem nadzora nad računalniki "
+"slušateljev."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:7
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
+msgstr ""
+"Razpršeno oddajajte svojo namizno sejo vsem uporabnikom za predstavitev "
+"novega koncepta."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:8
+msgid "Monitor user sessions to keep tabs on mischievous users."
+msgstr "Nadzorujte seje uporabnikov in sledite objestnim uporabnikom."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:9
+msgid "Epoptes dynamically detects clients and integrates well with LTSP."
+msgstr "Epoptes dinamično zazna odjemalca in se dobro vključi z LTSP."
+
+#. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
 msgid "FreeMind mindmapping"
 msgstr "Program za ustvarjanje miselnih vzorcev FreeMind"
@@ -438,28 +467,6 @@ msgid ""
 msgstr ""
 "Vse v Programskem središču je shranjeno v našem spletnem skladišču. Skrbimo, "
 "da je skladišče varno in da bodo posodobitve dostavljene neposredno k vam."
-
-#. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/italc.html:1
-msgid "iTalc intelligent teaching"
-msgstr "Inteligentno učenje iTalc"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:6
-msgid "<em>iTalc</em> allows a lecturer to take control of student desktops."
-msgstr "<em>iTalc</em> omogoča predavatelju nadzor nad namizji študentov."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:7
-msgid "Broadcast a desktop session to all users to demonstrate a new concept."
-msgstr ""
-"Razpršeno oddajajte svojo namizno sejo vsem uporabnikom za predstavitev "
-"novega koncepta."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:8
-msgid "Monitor user sessions to keep tabs on mischievous users."
-msgstr "Nadzorujte seje uporabnikov in sledite objestnim uporabnikom."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
@@ -707,8 +714,8 @@ msgstr "Dobrodošli in hvala"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 11.10."
-msgstr "Hvala, ker preizkušate bodoči Edubuntu 11.10."
+msgid "Thank you for testing what will become Edubuntu 12.04 LTS."
+msgstr "Hvala, ker preizkušate nekaj, kar bo postalo Edubuntu 12.04 LTS."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:7
@@ -835,14 +842,15 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 3.0 boosts performance and hardware support."
-msgstr "Linux 3.0 izboljšuje hitrost delovanja in podporo strojne opreme."
+msgid "Linux 3.2 boosts performance and hardware support."
+msgstr "Linux 3.2 ponuja izboljšano zmogljivost in podprtost strojne opreme."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid "Xorg 1.10, Mesa 7.11 and Compiz delivers breathtaking graphics support."
+msgid ""
+"Xorg 1.11, Mesa 8.0.1 and Compiz delivers breathtaking graphics support."
 msgstr ""
-"Xorg 1.10, Mesa 7.11 in Compiz zagotavljajo dih jemajočo grafično podporo."
+"Xorg 1.11, Mesa 8.0.1 in Compiz zagotavljajo dih jemajočo grafično podporo."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:9
@@ -856,8 +864,8 @@ msgstr "Dobrodošli"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 11.10."
-msgstr "Hvala vam, ker ste izbrali Edubuntu 11.10."
+msgid "Thank you for choosing Edubuntu 12.04 LTS."
+msgstr "Hvala vam, ker ste izbrali Edubuntu 12.04 LTS."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:7
@@ -885,16 +893,23 @@ msgstr ""
 msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr "Edubuntu je zasnovan za enostavnost. Ne bojte se raziskovati!"
 
-#~ msgid "Thank you for choosing Edubuntu 11.04."
-#~ msgstr "Hvala, ker ste izbrali Edubuntu 11.04."
+#~ msgid ""
+#~ "<em>iTalc</em> allows a lecturer to take control of student desktops."
+#~ msgstr "<em>iTalc</em> omogoča predavatelju nadzor nad namizji študentov."
 
-#~ msgid "Thank you for testing what will become Edubuntu 11.04."
-#~ msgstr "Hvala vam za preizkušanje sistema, ki bo postal Edubuntu 11.04."
-
-#~ msgid "Linux 2.6.38 boosts performance and hardware support."
-#~ msgstr "Linux 2.6.38 izboljša hitrost delovanja in podporo strojne opreme."
+#~ msgid "iTalc intelligent teaching"
+#~ msgstr "Inteligentno učenje iTalc"
 
 #~ msgid ""
-#~ "Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
+#~ "Xorg 1.10, Mesa 7.11 and Compiz delivers breathtaking graphics support."
 #~ msgstr ""
-#~ "Xorg 1.10, Mesa 7.10 in Compiz zagotavljajo osupljivo grafično podporo."
+#~ "Xorg 1.10, Mesa 7.11 in Compiz zagotavljajo dih jemajočo grafično podporo."
+
+#~ msgid "Linux 3.0 boosts performance and hardware support."
+#~ msgstr "Linux 3.0 izboljšuje hitrost delovanja in podporo strojne opreme."
+
+#~ msgid "Thank you for testing what will become Edubuntu 11.10."
+#~ msgstr "Hvala, ker preizkušate bodoči Edubuntu 11.10."
+
+#~ msgid "Thank you for choosing Edubuntu 11.10."
+#~ msgstr "Hvala vam, ker ste izbrali Edubuntu 11.10."

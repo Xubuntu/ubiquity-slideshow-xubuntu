@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:17+0200\n"
+"POT-Creation-Date: 2012-03-15 18:49-0300\n"
 "PO-Revision-Date: 2011-09-16 11:12+0000\n"
 "Last-Translator: පසිඳු කාවින්ද <Unknown>\n"
 "Language-Team: Sinhalese <si@li.org>\n"
@@ -15,13 +15,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:07+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
-msgid "Customise Ubuntu"
-msgstr "උබුන්ටු රිසිකරණය"
+msgid "Customize Ubuntu"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
@@ -34,8 +34,8 @@ msgstr ""
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:12
-msgid "Customisation options"
-msgstr "රිසිකරණ විකල්ප"
+msgid "Customization options"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:16
@@ -60,8 +60,10 @@ msgstr "ජාලය පිරික්සන්න"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from the Ubuntu Software Center."
+"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
+"use and it’s backed by a non-profit foundation that loves the web. If you "
+"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
+"Software Center."
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
@@ -104,10 +106,18 @@ msgid ""
 "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
 "to get an answer about Ubuntu. With most questions already answered, and "
 "thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
-"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options."
+"if you need an answer on a deadline, you can get commercial support and more "
+"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+msgstr ""
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
+msgid "Let’s talk Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><div>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
+msgid "I'm installing #Ubuntu!"
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -135,7 +145,7 @@ msgstr "ඔබේ සංගීතය ඔබ සමග ගෙන යන්න"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:8
 msgid ""
-"Ubuntu comes with the amazing Banshee music player. With advanced playback "
+"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
 "options and the Ubuntu One music store built in, it’s simple to queue up the "
 "perfect songs. And it works great with CDs and portable music players, so "
 "you can enjoy all your music wherever you go."
@@ -143,8 +153,8 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:16
-msgid "Banshee Music Player"
-msgstr "බන්ශී සංගීත වාදකය"
+msgid "Rhythmbox Music Player"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:20
@@ -167,13 +177,18 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
-msgid "LibreOffice"
-msgstr "ලිබ්රේ ඔෆිස්"
+msgid "LibreOffice Writer"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:20
-msgid "Tomboy Notes"
-msgstr "ටොම්බෝයි සටහන්"
+msgid "LibreOffice Calc"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/photos.html:1
@@ -259,77 +274,22 @@ msgstr "ආයුබෝවන්"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 11.10. This version brings some exciting "
+"Thank you for choosing Ubuntu 12.04 LTS. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
 
-#~ msgid "Appearance preferences"
-#~ msgstr "දෘශ්‍යමාන අභිරුචි"
+#~ msgid "Customisation options"
+#~ msgstr "රිසිකරණ විකල්ප"
 
-#~ msgid "Skype"
-#~ msgstr "ස්කයිප්"
+#~ msgid "Customise Ubuntu"
+#~ msgstr "උබුන්ටු රිසිකරණය"
 
-#~ msgid "Evolution Mail"
-#~ msgstr "ක්‍රමවිකාශ තැපෑල"
+#~ msgid "Tomboy Notes"
+#~ msgstr "ටොම්බෝයි සටහන්"
 
-#~ msgid "Thank you"
-#~ msgstr "ස්තුතියි"
+#~ msgid "LibreOffice"
+#~ msgstr "ලිබ්රේ ඔෆිස්"
 
-#~ msgid "Empathy IM"
-#~ msgstr "තදනුභූතී IM"
-
-#~ msgid "Email and chat"
-#~ msgstr "විද්‍යුත් තැපැල්කරණය සහ සම්භාෂණය"
-
-#~ msgid ""
-#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-#~ "choose alternative browsers from Ubuntu Software Center."
-#~ msgstr ""
-#~ "වේගවත්, ආරක්ෂාකාරී වෙබ් ගවේශනයක් සඳහා උබුන්ටු විසින් මොසිල්ලා ෆයර්ෆොක්ස් අඩංගු කර ඇත. ඔබගේ "
-#~ "කැමැත්ත පරිදි උබුන්ටු මෘදුකාංග මධ්‍යස්ථානය ඔස්සේ වෙනත් ගවේශකයක් තොරා ගත හැක."
-
-#~ msgid ""
-#~ "The Messaging Menu has lots of features to make online communication "
-#~ "effortless. Chat helps you log in to all your instant messaging accounts "
-#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
-#~ "place, ready for text or video chat."
-#~ msgstr ""
-#~ "මාර්ගගත සන්නිවේදනය නිරුත්සාහවත් කිරීම සඳහා පණිවුඩකරන මේනුව සතුව ගුණාංග රාශියක් ඇත. "
-#~ "සම්භාෂණය මගින් එම්එස්එන්, ජබ්බර්, සහ ෆේස්බුක් වැනි සියලුම ක්ෂණික පණිවුඩකරන ගිණුම් තුලට ප්‍රවිෂ්ට "
-#~ "වීමට සහය වෙයි. ඔබගේ සම්බන්ධතාවයන් එකම ස්ථානයකදී පෙන්නුම් කරනු ලබන අතර, පාඨාත්මක හෝ "
-#~ "විදෘශ්‍ය සම්භාෂණයකට සුදානම් වීමට එමගින් හැකි වෙනු ඇත."
-
-#~ msgid ""
-#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
-#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
-#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
-#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
-#~ "hope you enjoy Ubuntu."
-#~ msgstr ""
-#~ "උබුන්ටු තෝරාගැනීම පිළිබද නැවතත් ස්තුතියි. උබුන්ටු නිර්මාණය කර ඇත්තේ පහසුවෙන් සහ ආරක්ෂාකාරී වීම "
-#~ "පිණිසය, එබැවින් ගවේෂණය කිරීමට පසුබට වන්න එපා! ඔබට කිසියම් ගැටලුවක් ඇත්නම්, ඉතා වැඩි පංගුවක් "
-#~ "වැඩසටහන් මත ඇති උදව් මෙනුව හෝ ඔබගේ අනෙකුත් විකල්ප ගවේෂණය කෙරුම සඳහා <a href="
-#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a> වෙත පිවිසෙන්න. ඔබ "
-#~ "උබුන්ටු සමග විනෝද වෙතැයි අප සිතන්නෙමු."
-
-#~ msgid "Mobilise your digital life"
-#~ msgstr "ඔබේ කලා දිවිය ජංගනය කරන්න"
-
-#~ msgid "Write and present with ease"
-#~ msgstr "සැනසිල්ල සමගින් ලියමින් ඉදිරිපත් කරන්න"
-
-#~ msgid "Social from the start"
-#~ msgstr "ආරම්භය මගින් සමාජයික"
-
-#~ msgid "Some of our favourites"
-#~ msgstr "අපගේ ප්‍රියතමයන්ගෙන් සමහරක්"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
-
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
-
-#~ msgid "Frozen Bubble"
-#~ msgstr "මිදුණු බිබිල"
+#~ msgid "Banshee Music Player"
+#~ msgstr "බන්ශී සංගීත වාදකය"

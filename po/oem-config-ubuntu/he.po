@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:17+0200\n"
-"PO-Revision-Date: 2011-09-27 06:50+0000\n"
+"POT-Creation-Date: 2012-03-15 18:49-0300\n"
+"PO-Revision-Date: 2012-03-03 09:22+0000\n"
 "Last-Translator: Yaron <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:06+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
-msgid "Customise Ubuntu"
-msgstr "התאמת אובונטו"
+msgid "Customize Ubuntu"
+msgstr "התאמת אובונטו לטעמך"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
@@ -37,8 +37,8 @@ msgstr ""
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:12
-msgid "Customisation options"
-msgstr "אפשרויות להתאמה"
+msgid "Customization options"
+msgstr "אפשרויות ההתאמה האישית"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:16
@@ -63,11 +63,14 @@ msgstr "גלישה באינטרנט"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from the Ubuntu Software Center."
+"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
+"use and it’s backed by a non-profit foundation that loves the web. If you "
+"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
+"Software Center."
 msgstr ""
-"אובונטו כוללת את פיירפוקס מבית מוזילה לטובת גלישה מהירה ובטוחה. ניתן לבחור "
-"בדפדפנים חלופיים ממרכז התכנה של אובונטו."
+"באובונטו יש את Mozilla Firefox לגלישה מהירה ובטוחה. השימוש בדפדפן הוא נוח "
+"והוא נתמך על ידי עמותה ללא מטרות רווח שאוהבת את רשת האינטרנט. אם הדפדפן הזה "
+"פחות מועדף עליך, יש לא מעט חלופות במרכז התכנה של אובונטו."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
@@ -80,13 +83,13 @@ msgstr "תוכנות בהפצה"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:16
 msgid "Firefox web browser"
-msgstr "דפדפן האינטרנט פיירפוקס"
+msgstr "דפדפן האינטרנט Firefox"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:19
 #: slideshows/oem-config-ubuntu/slides/photos.html:19
 msgid "Supported software"
-msgstr "תוכנות תומכות"
+msgstr "תוכנות נתמכות"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:23
@@ -109,17 +112,25 @@ msgid ""
 "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
 "to get an answer about Ubuntu. With most questions already answered, and "
 "thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
-"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options."
+"if you need an answer on a deadline, you can get commercial support and more "
+"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 msgstr ""
-"כדאי לבקר ב־<a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, המיקום הטוב "
-"ביותר לקבל תשובות בכל הנוגע לאובונטו. כיוון שרוב השאלות כבר נענו וישנם עוד "
-"אלפי אנשים המוכנים לעזור, הסוגיה המוטלת בספק תיפתר כמעט באופן מיידי. ואם "
-"עדיין יש לך צורך במענה, Canonical מציעה <a href=\"http://www.ubuntu.com/"
-"support\">תמיכה עסקית</a> למשתמשים עסקיים. יש לעבור לעמוד <a href=\"http://"
-"www.ubuntu.com/support\">ubuntu.com/support</a> כדי לפגוש באפשרויות נוספות."
+"כדאי לבקר ב־<a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, המקום הטוב "
+"ביותר לקבל תשובות בנוגע לאובונטו. כיוון שרבות מן השאלות כבר נענו בעבר וישנם "
+"אלפי אנשים המוכנים לסייע, הבעיה שלך תיפתר במהירות הבזק. אם התשובה נחוצה לך "
+"באופן מיידי ניתן לקבל תמיכה מסחרית ועוד בכתובת <a href=\"http://www.ubuntu."
+"com/support\">ubuntu.com/support</a>."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
+msgid "Let’s talk Ubuntu"
+msgstr "מדברים אובונטו"
+
+#. type: Content of: <div><div><div><div>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
+#, fuzzy
+msgid "I'm installing #Ubuntu!"
+msgstr "אני באמצע התקנה של #אובונטו"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:1
@@ -152,20 +163,20 @@ msgstr "לקחת את המוזיקה שלך אתך"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:8
 msgid ""
-"Ubuntu comes with the amazing Banshee music player. With advanced playback "
+"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
 "options and the Ubuntu One music store built in, it’s simple to queue up the "
 "perfect songs. And it works great with CDs and portable music players, so "
 "you can enjoy all your music wherever you go."
 msgstr ""
-"לאובונטו מצורף נגן המוזיקה המדהים Banshee. בזכות אפשרויות הנגינה המתקדמות "
-"שלו והתמיכה המובנית בחנות המוזיקה של Ubuntu One פשוט וקל לאסוף מגוון שירים "
-"מושלמים בתור להשמעה. הנגן עובד גם עם תקליטורים ונגני מוזיקה ניידים, כך "
-"שניתנת לך האפשרות ליהנות מהמוזיקה שלך בכל מקום."
+"באובונטו ישנו גם את נגן המוזיקה Rhythmbox. הנגן מתפאר ביכולות נגינה מתקדמות "
+"ותמיכה מובנית בחנות המוזיקה Ubuntu One, כך שפשוט מאוד להכין רשימת השמעה של "
+"השירים האהובים עליך. הנגן עובד גם מצוין עם תקליטורים ונגני מוזיקה ניידים כך "
+"ששמורה לך האפשרות ליהנות מכל המוזיקה שלך בכל מקום."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:16
-msgid "Banshee Music Player"
-msgstr "נגן המוזיקה Banshee"
+msgid "Rhythmbox Music Player"
+msgstr "נגן המוזיקה Rhythmbox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:20
@@ -192,13 +203,18 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
-msgid "LibreOffice"
-msgstr "LibreOffice"
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:20
-msgid "Tomboy Notes"
-msgstr "פתקיות Tomboy"
+msgid "LibreOffice Calc"
+msgstr "LibreOffice Calc"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/photos.html:1
@@ -295,163 +311,69 @@ msgstr "ברוך בואך"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 11.10. This version brings some exciting "
+"Thank you for choosing Ubuntu 12.04 LTS. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
-"תודה לך על בחירתך באובונטו 11.10. גרסה זו מציעה מספר שינויים מלהיבים כגון "
-"מנשק שולחן עבודה שעוצב מחדש לחלוטין, Unity. בזמן הגדרת אובונטו, מצגת שקפים "
-"זו תערוך לך סיור."
+"תודה לך על בחירתך באובונטו 12.04 LTS (עם תמיכה לטווח ארוך). גרסה זו מציגה "
+"מספר שינויים מעוררי השתאות כגון מנשק שולחן עבודה שעוצב לגמרי מחדש בשם Unity. "
+"במהלך הגדרת אובונטו, מצגת זו תערוך לך היכרות."
 
-#~ msgid "Appearance preferences"
-#~ msgstr "העדפות מראה"
+#~ msgid "Tomboy Notes"
+#~ msgstr "פתקיות Tomboy"
+
+#~ msgid "LibreOffice"
+#~ msgstr "LibreOffice"
+
+#~ msgid "Customisation options"
+#~ msgstr "אפשרויות להתאמה"
+
+#~ msgid "Customise Ubuntu"
+#~ msgstr "התאמת אובונטו"
+
+#~ msgid "Banshee Music Player"
+#~ msgstr "נגן המוזיקה Banshee"
 
 #~ msgid ""
 #~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-#~ "choose alternative browsers from Ubuntu Software Center."
+#~ "choose alternative browsers from the Ubuntu Software Center."
 #~ msgstr ""
-#~ "אובונטו כוללת את הדפדפן Firefox לגלישה מהירה ובטוחה באינטרנט. ניתן לבחור "
-#~ "בדפדפנים חלופיים ממרכז התכנה של אובונטו."
-
-#~ msgid "Email and chat"
-#~ msgstr "דוא״ל וצ׳אטים"
-
-#~ msgid "Empathy IM"
-#~ msgstr "Empathy IM"
-
-#~ msgid "Evolution Mail"
-#~ msgstr "דואר Evolution"
-
-#~ msgid "Skype"
-#~ msgstr "Skype"
-
-#~ msgid "Social from the start"
-#~ msgstr "חברתי כבר מההתקנה"
+#~ "אובונטו כוללת את פיירפוקס מבית מוזילה לטובת גלישה מהירה ובטוחה. ניתן "
+#~ "לבחור בדפדפנים חלופיים ממרכז התכנה של אובונטו."
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 11.04. This version brings some exciting "
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, Canonical offers <a "
+#~ "href=\"http://www.ubuntu.com/support\">commercial support</a> to business "
+#~ "users. Browse to <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a> to explore your other options."
+#~ msgstr ""
+#~ "כדאי לבקר ב־<a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, המיקום הטוב "
+#~ "ביותר לקבל תשובות בכל הנוגע לאובונטו. כיוון שרוב השאלות כבר נענו וישנם "
+#~ "עוד אלפי אנשים המוכנים לעזור, הסוגיה המוטלת בספק תיפתר כמעט באופן מיידי. "
+#~ "ואם עדיין יש לך צורך במענה, Canonical מציעה <a href=\"http://www.ubuntu."
+#~ "com/support\">תמיכה עסקית</a> למשתמשים עסקיים. יש לעבור לעמוד <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a> כדי לפגוש "
+#~ "באפשרויות נוספות."
+
+#~ msgid ""
+#~ "Thank you for choosing Ubuntu 11.10. This version brings some exciting "
 #~ "changes including a totally redesigned desktop interface, Unity. While "
 #~ "Ubuntu is configured, this slideshow will show you around."
 #~ msgstr ""
-#~ "תודה לך על בחירתך באובונטו 11.04. גרסה זו מציגה מספר שינויים משמעותיים "
-#~ "כגון מנשק משתמש שעוצב מחדש לגמרי העונה לשם Unity. בזמן הגדרת אובונטו, "
-#~ "מצגת זו תערוך לך סיור."
-
-#~ msgid "Thank you"
-#~ msgstr "תודה לך"
-
-#~ msgid "Mobilise your digital life"
-#~ msgstr "ניוד החיים הדיגיטליים שלך"
-
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
-#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
-#~ "try lots of photo apps from the Ubuntu Software Centre."
-#~ msgstr ""
-#~ "Shotwell הוא מנהל תמונות שימושי שמוכן לכל הגאדג׳טים שלכם. חברו מצלמה או "
-#~ "טלפון על מנת להעביר את התמונות שלכם, לאחר מכן יהיה לכם פשוט וקל לשתף אותן "
-#~ "ולשמור עליהן במקום בטוח. אם אתם מרגישים יצירתיים, ניתן לנסות אחד מיישומי "
-#~ "התמונות הרבים ממרכז התכנה של אובונטו."
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
-#~ "need to create impressive documents, spreadsheets, and presentations. "
-#~ "LibreOffice tries its best to work with other office software, and it "
-#~ "uses the OpenDocument standards for far-reaching compatibility."
-#~ msgstr ""
-#~ "LibreOffice היא חבילת אופיס חינמית, שיש בה כל דבר שתצטרכו על מנת ליצור "
-#~ "מסמכים מרשימים, גליונות אלקטרונים ומצגות. LibreOffice עושה כמיטב יכולתה "
-#~ "לעבוד עם תוכנות אופיס אחרות, ומשתמשת בתקנים של OpenDocument בשביל תאימות "
-#~ "מרחיקת לכת."
-
-#~ msgid ""
-#~ "The Ubuntu Software Centre has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is simple to download new stuff and "
-#~ "write reviews to share your experiences."
-#~ msgstr ""
-#~ "במרכז התכנה של אובונטו יש אלפי יישומים חדשים, מוכנים למחשב שלכם. רק "
-#~ "הקלידו את מה שברצונכם למצוא או שתחקרו את הקטגוריות כגון משחקים, מדע "
-#~ "וחינוך. זה פשוט להוריד דברים חדשים ולכתוב ביקורות על מנת לחלוק חוויות."
-
-#~ msgid ""
-#~ "The Me Menu is your instant connection to web services like Facebook and "
-#~ "Twitter. Just set up your accounts to log in and share with friends. "
-#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
-#~ "you want."
-#~ msgstr ""
-#~ "תפריט Me הוא הקישור המיידי שלכם לשירותי אינטרנט כמו פייסבוק וטוויטר. כל "
-#~ "שעליכם לעשות הוא להגדיר את החשבונות שלכם כדי להיכנס אליהם ולשתף עם חברים. "
-#~ "כל דבר שנשלח אליכם מופיע בתפריט ההודעות כך שניתן לענות מתי שאתם רוצים."
+#~ "תודה לך על בחירתך באובונטו 11.10. גרסה זו מציעה מספר שינויים מלהיבים כגון "
+#~ "מנשק שולחן עבודה שעוצב מחדש לחלוטין, Unity. בזמן הגדרת אובונטו, מצגת "
+#~ "שקפים זו תערוך לך סיור."
 
 #~ msgid ""
 #~ "Ubuntu comes with the amazing Banshee music player. With advanced "
-#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
-#~ "simple to queue up the perfect songs. And it works great with CDs and "
-#~ "portable music players, so you can enjoy all your music wherever you go."
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
 #~ msgstr ""
-#~ "אובונטו מגיעה עם נגן המוזיקה המדהים Banshee. באמצעות אפשרויות השמעה "
-#~ "מתקדמות וחנות המוזיקה המובנית של Ubuntu One, זה פשוט וקל לערוך רשימות "
-#~ "השמעה של שירים מושלמים. בנוסף, Banshee עובדת נהדר עם תקליטורים ונגני "
-#~ "מוזיקה ניידים, כך שאתם יכולים להנות מכל המוזיקה שלכם בכל מקום אליו אתם "
-#~ "הולכים."
-
-#~ msgid "Write and present with ease"
-#~ msgstr "כתיבה והצגה בקלי קלות"
-
-#~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
-#~ "for everyone. With advanced accessibility tools and many options like "
-#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
-#~ "working for real people."
-#~ msgstr ""
-#~ "בליבת הפילוסופיה של אובונטו ישנה האמונה שמחשוב מיועד לכולם. באמצעות כלי "
-#~ "נגישות מתקדמים ואפשרויות רבות כגון גופנים, ערכות נושא ושפות מועדפים, "
-#~ "אובונטו באמת מיועדת לצרכים של אנשים."
-
-#~ msgid "Some of our favourites"
-#~ msgstr "כמה מהמועדפים עלינו"
-
-#~ msgid "Inkscape"
-#~ msgstr "אינקסקייפ"
-
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
-
-#~ msgid "Frozen Bubble"
-#~ msgstr "Frozen Bubble"
-
-#~ msgid ""
-#~ "The Messaging Menu has lots of features to make online communication "
-#~ "effortless. Chat helps you log in to all your instant messaging accounts "
-#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
-#~ "place, ready for text or video chat."
-#~ msgstr ""
-#~ "לתפריט ההודעות יש תכונות רבות אשר הופכות את התקשורת המקוונת לנינוחה "
-#~ "במיוחד. Chat עוזרת להתחבר לכל חשבונות המסרים המידיים, לרבות MSN,‏ Jabber "
-#~ "ופייסבוק. אנשי הקשר שלכם יופיעו באותו המקום, מוכנים לשיחת טקסט או וידאו."
-
-#~ msgid ""
-#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
-#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
-#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
-#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
-#~ "hope you enjoy Ubuntu."
-#~ msgstr ""
-#~ "שוב תודה על הבחירה באובונטו. אובונטו תוכננה להיות פשוטה ובטוחה,  כך שאין "
-#~ "צורך להסס לחקור! אם יש לכם שאלות, נסו את תפריט העזרה ברוב היישומים או "
-#~ "גלשו ל־<a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> "
-#~ "על מנת לחקור את האפשרויות השונות. אנחנו מקווים שתיהנו מאובונטו."
-
-#~ msgid ""
-#~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
-#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
-#~ "pictures across all your computers. Take everything everywhere with "
-#~ "Ubuntu One."
-#~ msgstr ""
-#~ "כל משתמשי אובונטו מקבלים חשבון <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> בחינם. Ubuntu One מאפשרת לך לסנכרן שלל קבצים באופן מקוון, כך "
-#~ "שניתן לגשת אליהם מכל מקום. סנכרנו סימניות, אנשי קשר, מוזיקה ותמונות מכל "
-#~ "המחשבים שלכם. קחו כל דבר לכל מקום בעזרת Ubuntu One."
+#~ "לאובונטו מצורף נגן המוזיקה המדהים Banshee. בזכות אפשרויות הנגינה המתקדמות "
+#~ "שלו והתמיכה המובנית בחנות המוזיקה של Ubuntu One פשוט וקל לאסוף מגוון "
+#~ "שירים מושלמים בתור להשמעה. הנגן עובד גם עם תקליטורים ונגני מוזיקה ניידים, "
+#~ "כך שניתנת לך האפשרות ליהנות מהמוזיקה שלך בכל מקום."

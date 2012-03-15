@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:16+0200\n"
-"PO-Revision-Date: 2011-09-22 12:08+0000\n"
-"Last-Translator: Daniel Schury <das.surst@googlemail.com>\n"
+"POT-Creation-Date: 2012-03-15 18:48-0300\n"
+"PO-Revision-Date: 2012-02-27 06:47+0000\n"
+"Last-Translator: Hendrik Knackstedt <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:05+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:52+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -331,6 +331,36 @@ msgstr ""
 "Bildschirmrand, um Ihren Status zu verändern."
 
 #. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/epoptes.html:1
+msgid "Epoptes classroom control"
+msgstr "Epoptes – Klassenzimmersteuerung"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:6
+msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgstr ""
+"<em>Epoptes</em> ermöglicht einem Dozenten die Rechner der Schüler/Studenten "
+"zu steuern."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:7
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
+msgstr ""
+"Übertragen Sie eine Arbeitsplatz-Sitzung an alle Benutzer, um ein neues "
+"Konzept zu demonstrieren."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:8
+msgid "Monitor user sessions to keep tabs on mischievous users."
+msgstr ""
+"Überwachen Sie  Ihre Benutzer, um ihre Aufmerksamkeit zu kontrollieren."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/epoptes.html:9
+msgid "Epoptes dynamically detects clients and integrates well with LTSP."
+msgstr "Epoptes erkennt Clienten dynamisch und integriert sich gut in LTSP."
+
+#. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
 msgid "FreeMind mindmapping"
 msgstr "FreeMind-Mindmapping"
@@ -463,31 +493,6 @@ msgstr ""
 "Alle Programme aus dem Software-Center befinden in unseren Paketquellen. Wir "
 "halten sie immer aktuell und Aktualisierungen werden direkt an Sie "
 "weitergegeben."
-
-#. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/italc.html:1
-msgid "iTalc intelligent teaching"
-msgstr "Intelligentes Unterrichten mit iTalc"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:6
-msgid "<em>iTalc</em> allows a lecturer to take control of student desktops."
-msgstr ""
-"<em>iTalc</em> erlaubt einem Vortragenden, die Kontrolle über den "
-"Arbeitsplatz eines Schülers zu übernehmen."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:7
-msgid "Broadcast a desktop session to all users to demonstrate a new concept."
-msgstr ""
-"Übertragen Sie eine Arbeitsplatz-Sitzung an alle Benutzer, um ein neues "
-"Konzept zu demonstrieren."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/italc.html:8
-msgid "Monitor user sessions to keep tabs on mischievous users."
-msgstr ""
-"Überwachen Sie  Ihre Benutzer, um ihre Aufmerksamkeit zu kontrollieren."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
@@ -740,8 +745,9 @@ msgstr "Willkommen und danke schön"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 11.10."
-msgstr "Vielen Dank, dass Sie die Vorabversion von Edubuntu 10.10 testen."
+msgid "Thank you for testing what will become Edubuntu 12.04 LTS."
+msgstr ""
+"Danke, dass Sie die Vorabveröffentlichung von Edubuntu 12.04 LTS testen."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:7
@@ -869,15 +875,16 @@ msgstr "Edubuntu baut auf der neuesten und besten freien Software auf."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 3.0 boosts performance and hardware support."
+msgid "Linux 3.2 boosts performance and hardware support."
 msgstr ""
-"Linux 3.0 erhöht die Leistung und verbessert die Hardwareunterstützung."
+"Linux 3.2 erhöht die Leistung und verbessert die Unterstützung von Hardware."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid "Xorg 1.10, Mesa 7.11 and Compiz delivers breathtaking graphics support."
+msgid ""
+"Xorg 1.11, Mesa 8.0.1 and Compiz delivers breathtaking graphics support."
 msgstr ""
-"Xorg 1.10, Mesa 7.11 und Compiz bieten atemberaubende Grafikunterstützung."
+"Xorg 1.11, Mesa 8.0.1 und Compiz liefern atemberaubende Grafikunterstützung."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:9
@@ -891,8 +898,8 @@ msgstr "Willkommen"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 11.10."
-msgstr "Vielen Dank, dass Sie sich für Edubuntu 11.10 entschieden haben."
+msgid "Thank you for choosing Edubuntu 12.04 LTS."
+msgstr "Danke, dass Sie sich für Edubuntu 12.04 LTS entschieden haben."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:7
@@ -920,19 +927,26 @@ msgstr ""
 msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr "Edubuntu wurde gestaltet, um einfach zu sein. Sehen Sie sich um!"
 
-#~ msgid "Thank you for choosing Edubuntu 11.04."
-#~ msgstr "Danke, dass Sie sich für Edubuntu 11.04 entschieden haben."
-
-#~ msgid "Thank you for testing what will become Edubuntu 11.04."
-#~ msgstr "Danke, dass Sie das zukünftige Edubuntu 11.04 getestet haben."
-
-#~ msgid "Linux 2.6.38 boosts performance and hardware support."
+#~ msgid ""
+#~ "<em>iTalc</em> allows a lecturer to take control of student desktops."
 #~ msgstr ""
-#~ "Linux 2.6.38 macht Ihren Rechner leistungsfähiger und verbessert die "
-#~ "Hardware-Unterstützung."
+#~ "<em>iTalc</em> erlaubt einem Vortragenden, die Kontrolle über den "
+#~ "Arbeitsplatz eines Schülers zu übernehmen."
+
+#~ msgid "iTalc intelligent teaching"
+#~ msgstr "Intelligentes Unterrichten mit iTalc"
+
+#~ msgid "Thank you for choosing Edubuntu 11.10."
+#~ msgstr "Vielen Dank, dass Sie sich für Edubuntu 11.10 entschieden haben."
+
+#~ msgid "Linux 3.0 boosts performance and hardware support."
+#~ msgstr ""
+#~ "Linux 3.0 erhöht die Leistung und verbessert die Hardwareunterstützung."
+
+#~ msgid "Thank you for testing what will become Edubuntu 11.10."
+#~ msgstr "Vielen Dank, dass Sie die Vorabversion von Edubuntu 10.10 testen."
 
 #~ msgid ""
-#~ "Xorg 1.10, Mesa 7.10 and Compiz delivers breathtaking graphics support."
+#~ "Xorg 1.10, Mesa 7.11 and Compiz delivers breathtaking graphics support."
 #~ msgstr ""
-#~ "Xorg 1.10, Mesa 7.10 und Compiz liefern atemberaubende "
-#~ "Grafikunterstützung."
+#~ "Xorg 1.10, Mesa 7.11 und Compiz bieten atemberaubende Grafikunterstützung."

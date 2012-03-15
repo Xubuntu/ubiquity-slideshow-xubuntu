@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-09-28 16:16+0200\n"
+"POT-Creation-Date: 2012-03-15 18:48-0300\n"
 "PO-Revision-Date: 2011-09-30 08:07+0000\n"
 "Last-Translator: tabbernuk <boamaod@gmail.com>\n"
 "Language-Team: Estonian <et@li.org>\n"
@@ -15,13 +15,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-10-03 09:07+0000\n"
-"X-Generator: Launchpad (build 14071)\n"
+"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
+"X-Generator: Launchpad (build 14946)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Customise Ubuntu"
-msgstr "Kohanda Ubuntut"
+msgid "Customize Ubuntu"
+msgstr "Ubuntu kohandamine"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/accessibility.html:8
@@ -38,8 +38,8 @@ msgstr ""
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
-msgid "Customisation options"
-msgstr "Kohandusvalikud"
+msgid "Customization options"
+msgstr "Kohandamise valikud"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:16
@@ -64,12 +64,11 @@ msgstr "Veebi sirvimine"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-"choose alternative browsers from the Ubuntu Software Center."
+"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
+"use and it’s backed by a non-profit foundation that loves the web. If you "
+"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
+"Software Center."
 msgstr ""
-"Ubuntusse on paigaldatud Mozilla Firefox, millega on veebi sirvimine kiire "
-"ja turvaline. Loomulikult võid kasutamiseks valida mõne teise brauseri "
-"Ubuntu tarkvarakeskusest."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -111,18 +110,19 @@ msgid ""
 "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
 "to get an answer about Ubuntu. With most questions already answered, and "
 "thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, Canonical offers <a href=\"http://www."
-"ubuntu.com/support\">commercial support</a> to business users. Browse to <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> to explore "
-"your other options."
+"if you need an answer on a deadline, you can get commercial support and more "
+"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 msgstr ""
-"Heida pilk <a href=\"http://askubuntu.com/\">Ask Ubuntu</a> saidile, mis on "
-"parim koht oma Ubuntu küsimustele vastuste saamiseks! Enamik küsimusi on "
-"seal juba vastatud ja tuhanded kasutajad on valmis aitama sind su uute "
-"küsimustega. Kui vajad aga vastust kindlaks tähtajaks, siis pakub Canonical "
-"<a href=\"http://www.ubuntu.com/support\">tasulist tuge</a> ärikasutajale. "
-"Kõigi kasutajatoe võimalustega tutvumiseks vaata lehele <a href=\"http://www."
-"ubuntu.com/support\">ubuntu.com/support</a>."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/gethelp.html:17
+msgid "Let’s talk Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><div>
+#: slideshows/ubuntu/slides/gethelp.html:18
+msgid "I'm installing #Ubuntu!"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/mobilise.html:1
@@ -156,20 +156,16 @@ msgstr "Võta oma muusika endaga kaasa"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/music.html:8
 msgid ""
-"Ubuntu comes with the amazing Banshee music player. With advanced playback "
+"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
 "options and the Ubuntu One music store built in, it’s simple to queue up the "
 "perfect songs. And it works great with CDs and portable music players, so "
 "you can enjoy all your music wherever you go."
 msgstr ""
-"Ubuntus on imepärane Banshee muusikaesitaja. Mitmekesiste esitussätete ja "
-"Ubuntu One'i muusikapoe abil on lihtne reastada kuulamiseks parimad lood. "
-"Banshee töötab hästi ka CD-de ja taskupleieritega, millega saad sa oma "
-"muusikat nautida kus ja millal tahes."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:16
-msgid "Banshee Music Player"
-msgstr "Banshee muusikaesitaja"
+msgid "Rhythmbox Music Player"
+msgstr "Rhythmbox muusikamängija"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:20
@@ -196,13 +192,18 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
-msgid "LibreOffice"
-msgstr "LibreOffice"
+msgid "LibreOffice Writer"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:20
-msgid "Tomboy Notes"
-msgstr "Tomboy märkmed"
+msgid "LibreOffice Calc"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
@@ -293,168 +294,69 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 11.10"
-msgstr "Tere tulemast Ubuntu versiooni 11.10"
+msgid "Welcome to Ubuntu 12.04 LTS"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
 msgid ""
-"Ubuntu is packed with features to make your computer delightful to use. This "
-"version consolidates the Unity desktop interface; a brand new way to find "
-"and manage your applications. Now with more features and faster. We’d like "
-"to show some cool things to look for in your new operating system."
+"Fast and feature-packed, Ubuntu makes your PC a delight to use. And with the "
+"latest version of the Unity interface, it's now easier than ever. Here are a "
+"few more cool new things to look out for."
 msgstr ""
-"Ubuntu on tulvil valikuvõimalustest, millega saad muuta arvuti kasutamise "
-"nauditavaks. Sellesse versiooni on esmakordselt paigaldatud Unity töölaud, "
-"uhiuus lahendus rakenduste leidmiseks ja haldamiseks. Soovime sulle näidata, "
-"mis põnevaid asju võid sa oma uuest süsteemist veel leida."
 
-#~ msgid "Social from the start"
-#~ msgstr "Sotsiaalne algusest peale"
+#~ msgid "Tomboy Notes"
+#~ msgstr "Tomboy märkmed"
 
-#~ msgid "Empathy IM"
-#~ msgstr "Empathy interneti sõnumivahetus"
+#~ msgid "LibreOffice"
+#~ msgstr "LibreOffice"
 
-#~ msgid "Evolution Mail"
-#~ msgstr "Evolutioni e-posti klient"
+#~ msgid "Customise Ubuntu"
+#~ msgstr "Kohanda Ubuntut"
 
-#~ msgid "Skype"
-#~ msgstr "Skype"
+#~ msgid "Banshee Music Player"
+#~ msgstr "Banshee muusikaesitaja"
 
-#~ msgid "Appearance preferences"
-#~ msgstr "Välimuse eelistused"
+#~ msgid "Customisation options"
+#~ msgstr "Kohandusvalikud"
 
-#~ msgid "Thank you"
-#~ msgstr "Suur tänu"
-
-#~ msgid "Frozen Bubble"
-#~ msgstr "Frozen Bubble"
-
-#~ msgid "Stellarium"
-#~ msgstr "Stellarium"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
-
-#~ msgid "Write and present with ease"
-#~ msgstr "Hõlbus kirjutamine ja esitlemine"
-
-#~ msgid "Some of our favourites"
-#~ msgstr "Mõned meie lemmikud"
+#~ msgid "Welcome to Ubuntu 11.10"
+#~ msgstr "Tere tulemast Ubuntu versiooni 11.10"
 
 #~ msgid ""
-#~ "At the heart of Ubuntu&#8217;s philosophy is a belief that computing is "
-#~ "for everyone. With advanced accessibility tools and many options like "
-#~ "your preferred fonts, colour schemes, and languages, Ubuntu is all about "
-#~ "working for real people."
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, Canonical offers <a "
+#~ "href=\"http://www.ubuntu.com/support\">commercial support</a> to business "
+#~ "users. Browse to <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a> to explore your other options."
 #~ msgstr ""
-#~ "Ubuntu filosoofia tuumaks on arusaam, et arvutid on kõigile. Kõrgel "
-#~ "tasemel hõlbustusvahenditega ja võimalusega valida endale kasutamiseks "
-#~ "meelepäraseid kirjatüüpe, värviskeeme ja keeli on Ubuntu loodud töötama "
-#~ "inimese heaks."
-
-#~ msgid ""
-#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
-#~ "choose alternative browsers from Ubuntu Software Center."
-#~ msgstr ""
-#~ "Ubuntusse on paigaldatud Mozilla Firefox, millega on veebi sirvimine "
-#~ "kiire ja turvaline. Loomulikult võid kasutamiseks valida mõne teise "
-#~ "brauseri Ubuntu tarkvarakeskusest."
-
-#~ msgid ""
-#~ "The Messaging Menu has lots of features to make online communication "
-#~ "effortless. Chat helps you log in to all your instant messaging accounts "
-#~ "including MSN, Jabber, and Facebook. Your contacts appear in the same "
-#~ "place, ready for text or video chat."
-#~ msgstr ""
-#~ "Sõnumiside menüüs on palju funktsioone, mis muudavad internetis "
-#~ "suhtlemine mõnusaks. Vestlusrakendus aitab sul sisse logida "
-#~ "kiirsuhtluskontodele nagu MSN, Jabber ja Facebook. Kõik su kontaktid "
-#~ "esitatakse ühtse nimekirjana, valmis teksti- ja videovestluseks."
-
-#~ msgid ""
-#~ "Thanks again for choosing Ubuntu. Ubuntu is designed to be easy and safe, "
-#~ "so don&#8217;t hesitate to explore! If you have any questions, try the "
-#~ "Help menu in most applications or browse to <a href=\"http://www.ubuntu."
-#~ "com/support\">ubuntu.com/support</a> to explore your other options. We "
-#~ "hope you enjoy Ubuntu."
-#~ msgstr ""
-#~ "Veelkord suur tänu, et valisid Ubuntu. Ubuntu on loodud lihtsaks ja "
-#~ "turvaliseks, ära pelga avastada! Kui sul on küsimusi, proovi rakenduse "
-#~ "abimenüüd või vaata veebist <a href=\"http://www.ubuntu.com/support"
-#~ "\">ubuntu.com/support</a>. Me loodame, et sa naudid Ubuntut."
-
-#~ msgid "Email and chat"
-#~ msgstr "E-post ja sõnumiside"
+#~ "Heida pilk <a href=\"http://askubuntu.com/\">Ask Ubuntu</a> saidile, mis "
+#~ "on parim koht oma Ubuntu küsimustele vastuste saamiseks! Enamik küsimusi "
+#~ "on seal juba vastatud ja tuhanded kasutajad on valmis aitama sind su uute "
+#~ "küsimustega. Kui vajad aga vastust kindlaks tähtajaks, siis pakub "
+#~ "Canonical <a href=\"http://www.ubuntu.com/support\">tasulist tuge</a> "
+#~ "ärikasutajale. Kõigi kasutajatoe võimalustega tutvumiseks vaata lehele <a "
+#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
 #~ msgid ""
 #~ "Ubuntu comes with the amazing Banshee music player. With advanced "
-#~ "playback options and the Ubuntu One music store built in, it&#8217;s "
-#~ "simple to queue up the perfect songs. And it works great with CDs and "
-#~ "portable music players, so you can enjoy all your music wherever you go."
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
 #~ msgstr ""
 #~ "Ubuntus on imepärane Banshee muusikaesitaja. Mitmekesiste esitussätete ja "
-#~ "Ubuntu One'i muusikapoe abiga on lihtne reastada kuulamiseks parimad "
-#~ "lood. Banshee töötab hästi ka CD'de ja taskupleieritega, millega saad sa "
-#~ "oma muusikat nautida kus ja millal tahes."
-
-#~ msgid "Mobilise your digital life"
-#~ msgstr "Võta oma digielu endaga kaasa"
-
-#~ msgid ""
-#~ "All Ubuntu users get a free <a href=\"https://one.ubuntu.com/\">Ubuntu "
-#~ "One</a> account. Ubuntu One allows you to sync all kinds of files online "
-#~ "so you can access them anywhere. Sync bookmarks, contacts, music, and "
-#~ "pictures across all your computers. Take everything everywhere with "
-#~ "Ubuntu One."
-#~ msgstr ""
-#~ "Kõik Ubuntu kasutajad saavad tasuta <a href=\"https://one.ubuntu.com/"
-#~ "\">Ubuntu One</a> konto. Ubuntu One võimaldab failid internetti "
-#~ "sünkroonida, et sa saaksid neile igalt poolt ligi. Sünkroniseeri "
-#~ "järjehoidjad, kontaktid, muusika ja pildid kõigis oma arvutites. Võta "
-#~ "kõik asjad Ubuntu One'i abil kõikjale kaasa!"
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you&#8217;ll "
-#~ "need to create impressive documents, spreadsheets, and presentations. "
-#~ "LibreOffice tries its best to work with other office software, and it "
-#~ "uses the OpenDocument standards for far-reaching compatibility."
-#~ msgstr ""
-#~ "LibreOffice on tasuta kontoritarkvara pakett, milles on kõik, mida vajad "
-#~ "muljetavaldavate dokumentide, arvutustabelite ja esitluste loomiseks. "
-#~ "LibreOffice teeb kõik, et saada läbi ka muu kontoritarkvaraga kasutades "
-#~ "kõrgetasemelise ühilduvuse tagamiseks OpenDocument standardit."
-
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it&#8217;s easy to "
-#~ "share them and keep them safe. If you&#8217;re feeling creative, you can "
-#~ "try lots of photo apps from the Ubuntu Software Centre."
-#~ msgstr ""
-#~ "Shotwell on mugav fotohaldur. Ühenda kaamera, telefon või mistahes muu "
-#~ "seade ja kanna fotod üle oma arvutisse, kus on need kindlas kohas ning "
-#~ "lihtsalt teistega jagatavad. Kui sind tabab loomepuhang, võid proovida "
-#~ "Ubuntu tarkvarakeskusest ka paljusid teisi fotorakendusi."
-
-#~ msgid ""
-#~ "The Me Menu is your instant connection to web services like Facebook and "
-#~ "Twitter. Just set up your accounts to log in and share with friends. "
-#~ "Anything sent to you appears in the Messaging Menu so you can reply when "
-#~ "you want."
-#~ msgstr ""
-#~ "\"Minu\" menüü ühendab sind kiiresti veebiteenustega nagu Facebook ja "
-#~ "Twitter. Lihtsalt seadista kontod ja oledki sisse loginud ning võid "
-#~ "jagada muljeid sõpradega. Kõik, mis sulle saadetakse, ilmub "
-#~ "suhtlusmenüüsse, kust saad vastata, millal aga soovid."
-
-#~ msgid "Welcome to Ubuntu 11.04"
-#~ msgstr "Tere tulemast Ubuntu väljalaskesse 11.04"
+#~ "Ubuntu One'i muusikapoe abil on lihtne reastada kuulamiseks parimad lood. "
+#~ "Banshee töötab hästi ka CD-de ja taskupleieritega, millega saad sa oma "
+#~ "muusikat nautida kus ja millal tahes."
 
 #~ msgid ""
 #~ "Ubuntu is packed with features to make your computer delightful to use. "
-#~ "This version introduces the Unity desktop interface; a brand new way to "
-#~ "find and manage your applications. We&#8217;d like to show some cool "
-#~ "things to look for in your new operating system."
+#~ "This version consolidates the Unity desktop interface; a brand new way to "
+#~ "find and manage your applications. Now with more features and faster. "
+#~ "We’d like to show some cool things to look for in your new operating "
+#~ "system."
 #~ msgstr ""
 #~ "Ubuntu on tulvil valikuvõimalustest, millega saad muuta arvuti kasutamise "
 #~ "nauditavaks. Sellesse versiooni on esmakordselt paigaldatud Unity "
@@ -462,12 +364,9 @@ msgstr ""
 #~ "sulle näidata, mis põnevaid asju võid sa oma uuest süsteemist veel leida."
 
 #~ msgid ""
-#~ "The Ubuntu Software Centre has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is simple to download new stuff and "
-#~ "write reviews to share your experiences."
+#~ "Ubuntu includes Mozilla Firefox for fast, safe web browsing. You can also "
+#~ "choose alternative browsers from the Ubuntu Software Center."
 #~ msgstr ""
-#~ "Ubuntu tarkvarakeskuses on tuhandeid uusi rakendusi. Lihtsalt kirjuta "
-#~ "otsingusse, mida soovid, või sirvi kategooriaid nagu mängud, teadus ja "
-#~ "haridus. Uute rakenduste paigaldamine ja nende arvustamine oma kogemuse "
-#~ "jagamiseks on lihtne."
+#~ "Ubuntusse on paigaldatud Mozilla Firefox, millega on veebi sirvimine "
+#~ "kiire ja turvaline. Loomulikult võid kasutamiseks valida mõne teise "
+#~ "brauseri Ubuntu tarkvarakeskusest."
