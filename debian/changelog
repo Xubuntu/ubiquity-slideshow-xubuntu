@@ -1,4 +1,9 @@
-ubiquity-slideshow-ubuntu (54) UNRELEASED; urgency=low
+ubiquity-slideshow-ubuntu (54) precise; urgency=low
+
+  [ Stéphane Graber ]
+  * New release (LP: #956554)
+  * Refresh translation templates for previous changes.
+  * Update translations from Launchpad
 
   [ Dylan McCall ]
   * Ubuntu: Only show Twitter feed if English language is used. (LP: #942046)
@@ -15,11 +20,7 @@ ubiquity-slideshow-ubuntu (54) UNRELEASED; urgency=low
   * Xubuntu: Optimize the PNG's
   * Xubuntu: Update Pidgin description.
 
-  [ Stéphane Graber ]
-  * Refresh translation templates for previous changes.
-  * Update translations from Launchpad
-
- -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 15 Mar 2012 18:57:37 -0400
+ -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 15 Mar 2012 19:18:21 -0400
 
 ubiquity-slideshow-ubuntu (53) precise; urgency=low
 
