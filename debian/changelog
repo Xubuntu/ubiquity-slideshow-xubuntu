@@ -1,10 +1,21 @@
 ubiquity-slideshow-ubuntu (54) UNRELEASED; urgency=low
 
-  * Updates for Ubuntu slideshow
-   - Only show Twitter feed if English language is used.
-   - Link hover effect.
+  [ Dylan McCall ]
+  * Ubuntu: Only show Twitter feed if English language is used. (LP: #942046)
+  * Ubuntu: Change delay betweens tweets from 5s to 6s
+  * Ubuntu: Slightly more exciting sounding "I'm installing Ubuntu" message.
+  * Merge fix for bashism in test-slideshow.sh
 
- -- Dylan McCall <dylanmccall@ubuntu.com>  Wed, 29 Feb 2012 19:06:19 -0800
+  [ Christian Giordano ]
+  * Ubuntu: Update background of first slide for Precise
+  * Ubuntu: Underline links on hover
+
+  [ Pasi Lallinaho ]
+  * Xubuntu: Switch to new logo (LP: #955396)
+  * Xubuntu: Optimize the PNG's
+  * Xubuntu: Udpate Pidgin description.
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 15 Mar 2012 18:38:17 -0400
 
 ubiquity-slideshow-ubuntu (53) precise; urgency=low
 
