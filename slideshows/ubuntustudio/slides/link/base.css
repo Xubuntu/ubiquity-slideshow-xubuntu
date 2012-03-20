@@ -59,7 +59,7 @@ table {
 /* */
 
 html, body {
-	font-family: "Droid Sans", sans-serif;
+	font-family: "Ubuntu", sans-serif;
 }
 
 #slideshow {
@@ -104,12 +104,12 @@ html, body {
 /* */
 
 a {
-	color: #214478;
+	color: #126ba8;
 	text-decoration: none;
 }
 
 .main a {
-	border-bottom: 1px dashed #bbb;
+	border-bottom: 1px dashed #2c89c4;
 }
 
 em {
@@ -121,12 +121,12 @@ p, ul, ol {
 }
 
 h2 {
-	border-top: 1px solid rgba(0,0,0,.1);
+	border-top: 1px solid rgba(255,255,255,.1);
 	padding-top: 5px;
 	margin-top: 2em;
 	margin-bottom: 0.5em;
 
-	font-family: "Droid Serif", serif;
+	font-family: "Ubuntu", serif;
 	font-size: 90%;
 	color: #2c7092;
 }
@@ -144,12 +144,13 @@ h2 {
 	.header h1 {
 		color: #fff;
 
-		font-size: 300%;
-		font-family: "Droid Serif", serif;
+		font-size: 250%;
+		font-family: "Ubuntu", serif;
 	}
 
 .main {
 	padding: 40px 0 0 0;
+	color: #fff;
 }
 	.main .content, .main .shot {
 		float: left;
@@ -174,22 +175,19 @@ h2 {
 		width: 450px;
 	}
 
-/* */
-.paths {
-	width: 230px;
-	position: absolute;
-	top: 400px;
-}
-.path { /* application paths */
-	font-size: 65%;
-	width: 270px; /* everything fits in oneliners with 270px! */
-}
-
-.path span {
-	font-size: 120%;
-	font-weight: bold;
-}
-
 .desktop_icon {
 	margin-bottom: 7px;
 }
+
+/* featured applications */
+
+.featured li {
+	padding: 5px 0;
+	margin-left: 32px;
+}
+
+.featured img {
+	margin-left: -32px;
+	padding-right: 8px;
+}
+
