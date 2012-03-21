@@ -63,10 +63,10 @@ html, body {
 }
 
 #slideshow {
-	background-image: url(background-xubuntu-1104.png);
+	background-image: url(background-xubuntu.png);
 
 	width: 790px;
-	height: 550px;
+	height: 520px;
 
 	overflow: hidden;
 }
@@ -75,7 +75,7 @@ html, body {
 .control-arrow {
 	z-index: 100;
 	position: absolute;
-	top: 290px;
+	top: 255px;
 
 	width: 30px;
 	height: 69px;
@@ -137,19 +137,19 @@ h2 {
 	display: table-cell;
 
 	padding: 0 60px;
-	height: 100px;
+	height: 80px;
 
 	vertical-align: middle;
 }
 	.header h1 {
 		color: #fff;
 
-		font-size: 300%;
+		font-size: 240%;
 		font-family: "Droid Serif", serif;
 	}
 
 .main {
-	padding: 40px 0 0 0;
+	padding: 30px 0 0 0;
 }
 	.main .content, .main .shot {
 		float: left;
@@ -171,11 +171,12 @@ h2 {
 		width: 450px;
 	}
 
+
 /* */
 .paths {
 	width: 230px;
 	position: absolute;
-	top: 400px;
+	top: 380px;
 }
 .path { /* application paths */
 	font-size: 65%;
