@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2012-03-05 21:17+0000\n"
-"Last-Translator: rob <linuxned@gmail.com>\n"
+"PO-Revision-Date: 2012-04-11 18:49+0000\n"
+"Last-Translator: Redmar <Unknown>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-22 18:44+0000\n"
-"X-Generator: Launchpad (build 14981)\n"
+"X-Launchpad-Export-Date: 2012-04-12 09:36+0000\n"
+"X-Generator: Launchpad (build 15070)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -31,9 +31,9 @@ msgid ""
 "circumstances. So, we provide tools that make Edubuntu one of the most "
 "accessible operating systems around."
 msgstr ""
-"Wij willen computers voor iedereen laten werken, ongeacht fysieke "
-"gesteldheid. Dus bieden wij hulpmiddelen aan die Edubuntu een van de "
-"toegankelijkste besturingssystemen maakt."
+"Wij willen computers toegankelijk maken voor iedereen, ongeacht iemands "
+"fysieke gesteldheid. Dus bieden wij hulpmiddelen aan die Edubuntu tot één "
+"van de meest toegankelijke besturingssystemen maakt."
 
 #.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
 #.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
@@ -90,8 +90,8 @@ msgid ""
 "Integrates with file manager allowing safe execution with a few simple "
 "clicks."
 msgstr ""
-"Het integreert met bestandsbeheer om veilig te kunnen uitvoeren met een paar "
-"keer klikken."
+"Het integreert met bestandsbeheer, zodat u met een programma met een paar "
+"klikken veilig kunt uitvoeren."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
@@ -126,7 +126,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calibre.html:1
 msgid "Calibre e-book manager"
-msgstr "Calibre e-boekbeheer"
+msgstr "Calibre e-bookbeheer"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:6
@@ -142,7 +142,7 @@ msgid ""
 "It supports many formats, including MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, "
 "RTF, PDF and more."
 msgstr ""
-"Calibre ondersteunt veel e-boekformaten, onder andere MOBI, LIT, PRC, EPUB, "
+"Calibre ondersteunt veel e-bookformaten, onder andere MOBI, LIT, PRC, EPUB, "
 "ODT, HTML, CBR, RTF en PDF"
 
 #. type: Content of: <div><div><ul><li>
@@ -152,7 +152,7 @@ msgid ""
 "commercial e-book platforms available."
 msgstr ""
 "Ondersteuning voor verschillende apparaten, waaronder de meest populaire e-"
-"boekplatforms."
+"bookplatforms."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:9
@@ -211,7 +211,7 @@ msgid ""
 "<em>Help</em> menu in most applications."
 msgstr ""
 "Hulp nodig? Probeer dan <em>Hulp en ondersteuning</em> in het menu Systeem, "
-"of het menu <em>Help</em> in de meeste programma's."
+"of het menu <em>Hulp</em> in de meeste programma's."
 
 #.  The url "edubuntu.org/support" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
@@ -274,8 +274,8 @@ msgid ""
 "The <em>Edubuntu Menu Editor</em> allows administrators to create and apply "
 "custom menus."
 msgstr ""
-"Met de <em>Edubuntu menu-editor</em> kunnen beheerders aangepaste menu's "
-"maken en instellen."
+"Met de <em>Edubuntu menu-editor</em> kunt u zelf aangepaste menu's maken en "
+"instellen."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:7
@@ -310,8 +310,9 @@ msgid ""
 "Click the envelope near the clock to log in to your accounts. New messages "
 "appear there too, so you can see what's happening at a glance."
 msgstr ""
-"Klik op de envelop vlakbij de klik om aan te melden. Nieuwe berichten zullen "
-"daar ook getoond worden, zodat u in één oogopslag kan zien wat er gebeurt."
+"Klik op de envelop vlakbij de klok om u aan te melden. Nieuwe berichten "
+"zullen daar ook getoond worden, zodat u in één oogopslag kunt zien wat er "
+"gebeurt."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:8
@@ -350,8 +351,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:9
 msgid "Epoptes dynamically detects clients and integrates well with LTSP."
-msgstr ""
-"Epoptes detecteert clienten dynamisch en kan goed samenwerken met LTSP."
+msgstr "Epoptes detecteert clienten dynamisch en werkt goed samen met LTSP."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
@@ -446,7 +446,7 @@ msgid ""
 "osculating circle and more."
 msgstr ""
 "Ondersteunt ook veel elementaire calculus-gebaseerde hulpmiddelen zoals "
-"afgeleiden, kromtestraal en andere."
+"afgeleiden, kromtestraal etc."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/installing-software.html:1
@@ -471,7 +471,7 @@ msgid ""
 msgstr ""
 "Er zijn voor alle gebruikers krachtige applicaties beschikbaar: van "
 "programmeren tot het componeren van muziek of het verkennen van het heelal. "
-"Kijk eens bij <em>Aanbevolen</em> voor onze favorieten!"
+"Kijk eens bij de categorie <em>Aanbevolen</em> voor onze favorieten!"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:8
@@ -480,8 +480,8 @@ msgid ""
 "careful to keep it safe and updates will be delivered directly to you."
 msgstr ""
 "Alles in het softwarecentrum is afkomstig uit onze online softwarebron, die "
-"wij met zorg beheren. Op deze manier beschikt u altijd over veilige en meest "
-"recente software."
+"wij met zorg beheren. Op deze manier beschikt u altijd over de veiligste en "
+"meest recente software."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
@@ -521,7 +521,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/librecad.html:1
 msgid "LibreCAD computer aided drawing"
-msgstr "LibreCAD computerondersteund tekenen"
+msgstr "LibreCAD computer-ondersteund tekenen"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:6
@@ -537,8 +537,8 @@ msgid ""
 "Create technical drawings such as building plans, interiors or mechanical "
 "parts."
 msgstr ""
-"Technische tekeningen maken zoals bouwplannen, interieurs of mechanische "
-"onderdelen."
+"Technische tekeningen zoals bouwplannen, interieurs of mechanische "
+"onderdelen maken."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:8
@@ -604,7 +604,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/pencil.html:1
 msgid "Drawing with Pencil"
-msgstr "Tekenen met potlood"
+msgstr "Tekenen met Pencil"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pencil.html:6
@@ -708,7 +708,7 @@ msgid ""
 "Demo applications to users on their machines without making any permanent "
 "local changes."
 msgstr ""
-"Laat gebruikers op hun eigen computer programma's zien zonder dat u iets op "
+"Laat gebruikers op hun eigen computer programma's zien, zonder dat u iets op "
 "hun computer aanpast."
 
 #. type: Content of: <div><div><ul><li>
@@ -716,8 +716,8 @@ msgstr ""
 msgid ""
 "Find it in Software Center, which can be found under the Applications menu."
 msgstr ""
-"Zoek het op in het softwarecentrum, welke gevonden kan worden in het menu "
-"Toepassingen."
+"Zoek het op in het softwarecentrum, die u in het menu Toepassingen kunt "
+"vinden."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/testing.html:1
@@ -819,7 +819,7 @@ msgid ""
 "personal cloud storage for free (and more if you need it)."
 msgstr ""
 "Wilt u een veilige plaats voor uw belangrijke bestanden? Alle Edubuntu "
-"gebruikers krijgen gratis 2 GB aan cloud-opslag (en meer als u het nodig "
+"gebruikers krijgen gratis 5 GB aan cloud-opslag (en meer als u dat nodig "
 "heeft)."
 
 #. type: Content of: <div><div><ul><li>
@@ -828,8 +828,8 @@ msgid ""
 "Share folders using your synchronized address book. Project collaboration "
 "has never been easier."
 msgstr ""
-"Deel mappen met uw gesynchroniseerde adresboek. Samen aan een project werken "
-"was nooit eenvoudiger."
+"Deel mappen met behulp van uw gesynchroniseerde adresboek. Samen aan een "
+"project werken was nooit eenvoudiger."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ubuntuone.html:9
@@ -884,8 +884,8 @@ msgid ""
 "This release brings updates, bug fixes and new software. Please refer to the "
 "release notes on our website for the most up to date information."
 msgstr ""
-"Deze uitgave brengt updates, foutreparaties en nieuwe software. Kijk naar de "
-"uitgave-opmerkingen op onze website voor de recentste informatie."
+"Deze uitgave brengt updates, verbeteringen en nieuwe software. Kijk naar de "
+"uitgave-opmerkingen op onze website voor de laatste informatie."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:8
@@ -895,7 +895,7 @@ msgid ""
 "show you around."
 msgstr ""
 "Of u een nieuwe gebruiker bent van Edubuntu of niet, we zijn er zeker van "
-"dat er iets is wat u leuk vindt. Terwijl Edubuntu wordt geïnstalleerd zal "
+"dat het in de smaak zal vallen. Terwijl Edubuntu wordt geïnstalleerd zal "
 "deze presentatie u rondleiden."
 
 #. type: Content of: <div><div><p>
