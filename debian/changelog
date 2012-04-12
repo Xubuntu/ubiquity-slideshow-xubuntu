@@ -1,3 +1,21 @@
+ubiquity-slideshow-ubuntu (57) precise; urgency=low
+
+  [ Dylan McCall ]
+  * Fix background image in OEM mode (LP: #978111)
+  * Rename screenshots from .jpeg to .jpg
+  * Remove unused startfast screenshot
+  * Add missing twitter links in oem-config-ubuntu
+  * Rename oem_config_ubuntu to oem-config-ubuntu in Makefile
+
+  [ Stéphane Graber ]
+  * The following changes were reverted before this upload as they were
+    lacking UIFe:
+    - New UbuntuOne screenshot
+    - Updated browse.jpg, music.jpg, photos.jpg and social.jpg screenshots
+  * Refresh translations from Launchpad
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 12 Apr 2012 11:29:52 +0200
+
 ubiquity-slideshow-ubuntu (56) precise; urgency=low
 
   * Refresh translations from Launchpad
