@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-15 18:48-0300\n"
-"PO-Revision-Date: 2011-09-20 15:50+0000\n"
-"Last-Translator: Takashi Sakamoto <Unknown>\n"
+"POT-Creation-Date: 2012-03-21 12:17-0300\n"
+"PO-Revision-Date: 2012-04-12 22:38+0000\n"
+"Last-Translator: tomoya tabuchi <Unknown>\n"
 "Language-Team: Japanese <ja@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
-"X-Generator: Launchpad (build 14946)\n"
+"X-Launchpad-Export-Date: 2012-04-17 15:01+0000\n"
+"X-Generator: Launchpad (build 15099)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -26,7 +26,7 @@ msgstr "おめでとうございます!"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
 msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
-msgstr ""
+msgstr "Xubuntuの最新バージョンである12.04 LTSのインストールを選択しました。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -102,7 +102,7 @@ msgstr "インターネット <span>»</span>"
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/01_web.html:11
 msgid "Firefox Web Browser"
-msgstr "Firefox ウェブ・ブラウザ"
+msgstr "Firefox ウェブブラウザー"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/01_web.html:12
@@ -122,20 +122,19 @@ msgstr "Xubuntuは、<em>Pidgin</em>を概定のIMクライアントとして提
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:8
-#, fuzzy
 msgid ""
 "You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
 "(Google Talk, Facebook). You can also update your Twitter account via third-"
 "party plugin."
 msgstr ""
-"AIMやICQ、IRC、MSN、XMPP (Google Tolk)といったあらゆるプロトコルに対応してい"
-"ます。サードパーティのプラグインを使うことで、Facebookチャットや、Twitterを使"
-"うこともできます。"
+"AIM、ICQ、IRC、MSNとXMPP (GoogleトークやFacebook)などさまざまなプロトコルで接"
+"続できます。サードパーティのプラグインを経由して Twitterアカウントも更新でき"
+"ます。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:11
 msgid "Pidgin Internet Messenger"
-msgstr "Pidgin インターネット・メッセンジャー"
+msgstr "Pidgin インターネットメッセンジャー"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:2
@@ -334,6 +333,15 @@ msgstr ""
 "最後に、<a href=\"http://xubuntu.org/devel\">Get Involved</a>では、Xubuntuに"
 "対するさまざまな貢献方法を紹介しています。私たちはあなたの助けを必要としてい"
 "るのです！"
+
+#~ msgid ""
+#~ "You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
+#~ "(Google Talk). You can also use the Facebook chat and update your Twitter "
+#~ "account via third-party plugins."
+#~ msgstr ""
+#~ "AIMやICQ、IRC、MSN、XMPP (Google Tolk)といったあらゆるプロトコルに対応して"
+#~ "います。サードパーティのプラグインを使うことで、Facebookチャットや、"
+#~ "Twitterを使うこともできます。"
 
 #~ msgid "You have chosen to install the latest version of Xubuntu, 11.10."
 #~ msgstr ""

@@ -1,9 +1,58 @@
-ubiquity-slideshow-ubuntu (55) UNRELEASED; urgency=low
+ubiquity-slideshow-ubuntu (59) UNRELEASED; urgency=low
 
   * Lubuntu: Replacing Synaptic by Lubuntu-Software-Center (LP: #958880)
   * Lubuntu: Change the link to the mailing list
 
- -- Julien Lavergne <gilir@ubuntu.com>  Mon, 19 Mar 2012 00:06:07 +0100
+ -- Julien Lavergne <gilir@ubuntu.com>  Fri, 04 May 2012 18:41:41 +0200
+
+ubiquity-slideshow-ubuntu (58) precise; urgency=low
+
+  [ Dylan McCall ]
+  * New screenshots for Ubuntu slideshow.
+    (LP: #983833, LP: #982109, LP: #983936, LP: #983795)
+
+  [ Stéphane Graber ]
+  * Refresh translations from Launchpad
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Tue, 17 Apr 2012 17:00:01 +0200
+
+ubiquity-slideshow-ubuntu (57) precise; urgency=low
+
+  [ Dylan McCall ]
+  * Fix background image in OEM mode (LP: #978111)
+  * Rename screenshots from .jpeg to .jpg
+  * Remove unused startfast screenshot
+  * Add missing twitter links in oem-config-ubuntu
+  * Rename oem_config_ubuntu to oem-config-ubuntu in Makefile
+
+  [ Stéphane Graber ]
+  * The following changes were reverted before this upload as they were
+    lacking UIFe:
+    - New UbuntuOne screenshot
+    - Updated browse.jpg, music.jpg, photos.jpg and social.jpg screenshots
+  * Refresh translations from Launchpad
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 12 Apr 2012 11:29:52 +0200
+
+ubiquity-slideshow-ubuntu (56) precise; urgency=low
+
+  * Refresh translations from Launchpad
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 22 Mar 2012 14:47:06 -0400
+
+ubiquity-slideshow-ubuntu (55) precise; urgency=low
+
+  [ Dylan McCall ]
+  * New Ubuntu Studio slideshow (LP: #959504)
+
+  [ Pasi Lallinaho  ]
+  * Fixes Xubuntu slideshow for most netbooks (LP: #961041)
+
+  [ Stéphane Graber ]
+  * Update po templates
+  * Refresh translations from Launchpad
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Wed, 21 Mar 2012 12:26:41 -0400
 
 ubiquity-slideshow-ubuntu (54) precise; urgency=low
 

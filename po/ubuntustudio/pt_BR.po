@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-15 18:49-0300\n"
-"PO-Revision-Date: 2012-03-11 15:35+0000\n"
-"Last-Translator: Yuri Fidelis <Unknown>\n"
+"POT-Creation-Date: 2012-03-21 12:17-0300\n"
+"PO-Revision-Date: 2012-03-27 23:36+0000\n"
+"Last-Translator: Neliton Pereira Junior <nelitonpjr@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-03-15 22:53+0000\n"
-"X-Generator: Launchpad (build 14946)\n"
+"X-Launchpad-Export-Date: 2012-04-17 15:01+0000\n"
+"X-Generator: Launchpad (build 15099)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/00_welcome.html:2
@@ -31,138 +31,191 @@ msgstr "Obrigado por escolher o Ubuntu Studio, e bem-vindo à instalação."
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/00_welcome.html:8
 msgid ""
-"In this slideshow we will present a few applications which make Ubuntu "
-"Studio the perfect companion for artists."
+"In this slideshow we will present a few features which make Ubuntu Studio "
+"the perfect companion for artists."
 msgstr ""
-"Nesta apresentação de slides mostraremos alguns aplicativos que fazem do "
-"Ubuntu Studio o companheiro perfeito para artistas."
+"Nessa apresentação de slides nós mostraremos algumas características que "
+"fazem o Ubuntu Studio o companheiro perfeito para artistas."
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntustudio/slides/01_jack.html:2
-msgid "JACK"
-msgstr "JACK"
+#: slideshows/ubuntustudio/slides/01_audio.html:2
+msgid "Let the world hear you"
+msgstr "Deixe o mundo ouvi-lo"
 
 #. type: Content of: <div><div><p>
-#: slideshows/ubuntustudio/slides/01_jack.html:7
-msgid "Start with low latency audio with unlimited inputs and outputs."
-msgstr "Iniciar com áudio de baixa latência com entradas e saídas ilimitadas."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntustudio/slides/02_ardour.html:2
-msgid "Ardour"
-msgstr "Ardour"
-
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntustudio/slides/02_ardour.html:7
-msgid "Add Ardour to record, mix and master. A whole studio on your computer!"
-msgstr ""
-"Adicione Ardour para gravar, mixar e masterizar. Um estúdio inteiro no seu "
-"computador!"
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntustudio/slides/03_midi1.html:2
-#: slideshows/ubuntustudio/slides/04_midi2.html:2
-msgid "MIDI"
-msgstr "MIDI"
-
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntustudio/slides/03_midi1.html:7
+#: slideshows/ubuntustudio/slides/01_audio.html:7
 msgid ""
-"Use provided software synthesisers, or your own external sound modules to "
-"make MIDI sequencing easy."
+"From recording an album, podcast editing, or scoring a film, Ubuntu Studio "
+"includes applications and documented work flows to support your audio needs."
 msgstr ""
-"Use programas sintetizadores fornecidos, ou seus próprios módulos de som "
-"externos para fazer o sequenciamento MIDI fácil."
+"Desde a gravação de um álbum, edição de podcasts ou edição de vídeos, Ubuntu "
+"Studio inclui aplicações e fluxos de trabalho documentados para apoiar suas "
+"necessidades  de áudio."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntustudio/slides/01_audio.html:9
+#: slideshows/ubuntustudio/slides/02_video.html:9
+#: slideshows/ubuntustudio/slides/03_graphics.html:9
+#: slideshows/ubuntustudio/slides/04_photography.html:9
+msgid "Included software"
+msgstr "Programas inclusos"
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntustudio/slides/01_audio.html:11
+msgid "Ardour DAW"
+msgstr "Ardour DAW"
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntustudio/slides/01_audio.html:12
+msgid "JACK Sound Server"
+msgstr "Servidor de áudio JACK"
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntustudio/slides/01_audio.html:13
+msgid "LADSPA/LV2 Plugins"
+msgstr "Plug-ins LADSPA/LV2"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntustudio/slides/02_video.html:2
+msgid "Create amazing videos"
+msgstr "Crie vídeos incríveis"
 
 #. type: Content of: <div><div><p>
-#: slideshows/ubuntustudio/slides/04_midi2.html:7
+#: slideshows/ubuntustudio/slides/02_video.html:7
 msgid ""
-"For drum machines, Hydrogen offers a much wider range of sound and "
-"capability than most professional grade external units."
+"From simple home movies to feature length film with compositing and post "
+"production effects, Ubuntu Studio can help you realize your videographic "
+"vision."
 msgstr ""
-"Para máquinas de ritmo, o Hydrogen oferece uma gama muito maior de som e "
-"capacidade do que a maioria das unidades externas de classe profissional."
+"Desde simples vídeos caseiros até filmes com efeitos de composição e pós-"
+"produção, o Ubuntu Studio lhe ajudará a tornar suas ideias em realidade."
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntustudio/slides/02_video.html:11
+msgid "Blender Sequence Editor and Compositing"
+msgstr "Editor e compositor de sequência Blender"
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntustudio/slides/02_video.html:12
+msgid "Open Shot Video Editor"
+msgstr "Editor de vídeo Open Shot"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntustudio/slides/05_effect1.html:2
-#: slideshows/ubuntustudio/slides/06_effect2.html:2
-msgid "Effects"
-msgstr "Efeitos"
+#: slideshows/ubuntustudio/slides/03_graphics.html:2
+msgid "Graphic artists and designers"
+msgstr "Designers e artistas gráficos"
 
 #. type: Content of: <div><div><p>
-#: slideshows/ubuntustudio/slides/05_effect1.html:7
-msgid "Effects and sound modules can be added inside many of the programs..."
-msgstr ""
-"Efeitos e módulos de som podem ser adicionados dentro de muitos dos "
-"programas..."
-
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntustudio/slides/06_effect2.html:7
-msgid "...or plugged in to the patch bay with JACK."
-msgstr "...ou conectados no vão de correção com JACK."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntustudio/slides/07_blender.html:2
-msgid "Blender"
-msgstr "Blender"
-
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntustudio/slides/07_blender.html:7
-msgid "Create fantastic or realistic 3D art."
-msgstr "Crie fantástica ou realista arte 3D."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntustudio/slides/08_openshot.html:2
-msgid "OpenShot"
-msgstr "OpenShot"
-
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntustudio/slides/08_openshot.html:7
-msgid "Work with your photos, for Internet or printing."
-msgstr "Trabalhe com suas fotos, para Internet ou impressão"
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntustudio/slides/09_gimp.html:2
-msgid "GIMP"
-msgstr "GIMP"
-
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntustudio/slides/09_gimp.html:7
+#: slideshows/ubuntustudio/slides/03_graphics.html:7
 msgid ""
-"Take graphics or pictures... or both! Easily create brochures or posters."
+"With Ubuntu Studio, you can easily create 3D models, animated films, "
+"scalable vector graphics, logos, flyers... and more!"
 msgstr ""
-"Pegue gráficos ou imagens... ou ambos! Crie facilmente folhetos ou cartazes."
+"Com o Ubuntu Studio, você pode facilmente criar modelos 3D, filmes de "
+"animação, gráficos vetoriais escalonáveis, logos, flyers... e muito mais!"
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntustudio/slides/03_graphics.html:11
+msgid "Blender 3D Content Creation Suite"
+msgstr "Suíte de criação de conteúdo 3D Blender"
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntustudio/slides/03_graphics.html:12
+msgid "Inkscape Scalable Vector Graphics Editor"
+msgstr "Editor gráfico vetorial escalonável Inkscape"
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntustudio/slides/03_graphics.html:13
+#: slideshows/ubuntustudio/slides/04_photography.html:14
+msgid "GIMP Image Editor"
+msgstr "Editor de imagens GIMP"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntustudio/slides/10_thanks.html:2
-msgid "Thanks!"
+#: slideshows/ubuntustudio/slides/04_photography.html:2
+msgid "Photographers too"
+msgstr "Fotógrafos também"
+
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntustudio/slides/04_photography.html:7
+msgid ""
+"From casual hobbyist to professional, handy and powerful applications are "
+"included to help you manage your photos and process them."
+msgstr ""
+"De amadores a profissionais, aplicativos úteis e poderosos estão incluídos "
+"para ajudar você a organizar e processar suas fotos."
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntustudio/slides/04_photography.html:11
+msgid "Darkroom Photo Editor"
+msgstr "Editor de fotos Darkroom"
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntustudio/slides/04_photography.html:12
+msgid "RawTherapee Raw Image Processor"
+msgstr "Processador de imagem RawTherapee"
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntustudio/slides/04_photography.html:13
+msgid "Shotwell Photo Manager"
+msgstr "Organizador de fotos Shotwell"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntustudio/slides/05_software.html:2
+msgid "Get more applications"
+msgstr "Obtenha mais aplicativos"
+
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntustudio/slides/05_software.html:7
+msgid ""
+"Not only is Ubuntu Studio designed to be a media creation power, it is also "
+"a robust desktop OS."
+msgstr ""
+"O Ubuntu Studio foi projetado não só para ser um poderoso criador de mídia, "
+"ele também é um sistema operacional robusto."
+
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntustudio/slides/05_software.html:8
+msgid ""
+"However, if you want additional applications not installed by default you "
+"can choose from the tens of thousands in the Ubuntu repositories."
+msgstr ""
+"Entretanto, se você quer aplicativos adicionais que não estão instalados por "
+"padrão, você pode escolher entre dezenas de milhares nos repositórios Ubuntu."
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntustudio/slides/06_support.html:2
+msgid "Thank you!"
 msgstr "Obrigado!"
 
 #. type: Content of: <div><div><p>
-#: slideshows/ubuntustudio/slides/10_thanks.html:7
+#: slideshows/ubuntustudio/slides/06_support.html:7
 msgid ""
-"This is the last slide of the introductory slideshow. If you want more "
-"information or need support, you can find us at:"
+"Thanks for taking the time with us. We'd love to hear about your experiences "
+"with Ubuntu Studio. You can share them on the <a href=\"https://lists.ubuntu."
+"com/mailman/listinfo/Ubuntu-Studio-users\">Ubuntu Studio users mailing list</"
+"a>."
 msgstr ""
-"Este é o último slide dessa apresentação inicial. Se você quiser mais "
-"informações ou precisar de suporte, você pode encontrar-nos em:"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntustudio/slides/10_thanks.html:9
-msgid "Ubuntustudio.org"
-msgstr "Ubuntustudio.org"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntustudio/slides/10_thanks.html:10
-msgid "#ubuntustudio at Freenode"
-msgstr "#ubuntustudio no Freenode"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/ubuntustudio/slides/10_thanks.html:11
-msgid "..."
-msgstr "..."
+"Obrigado por compartilhar seu tempo conosco. Nós adoraríamos saber de suas "
+"experiências com o Ubuntu Studio. Você pode compartilhá-las na <a href="
+"\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-users\">lista de e-"
+"mail dos usuários do Ubuntu Studio</a>."
 
 #. type: Content of: <div><div><p>
-#: slideshows/ubuntustudio/slides/10_thanks.html:13
-msgid "Thanks again for choosing Ubuntu Studio!"
-msgstr "Obrigado novamente por escolher o Ubuntu Studio!"
+#: slideshows/ubuntustudio/slides/06_support.html:8
+msgid ""
+"Join our IRC channel <em>#ubuntustudio</em> for online support by <a href="
+"\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-user..."
+"&prompt=1\">clicking here</a>."
+msgstr ""
+"Inscreva-se no nosso canal IRC <em>#ubuntustudio</em> para suporte online <a "
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-user..."
+"&prompt=1\">clicando aqui</a>"
+
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntustudio/slides/06_support.html:9
+msgid ""
+"Finally, visit us on the web at the <a href=\"http://ubuntustudio.org"
+"\">Ubuntu Studio website</a>. Thank you again!"
+msgstr ""
+"Por fim, visite-nos na Internet no <a href=\"http://ubuntustudio.org\">site "
+"do Ubuntu Studio</a>. Mais uma vez, obrigado!"

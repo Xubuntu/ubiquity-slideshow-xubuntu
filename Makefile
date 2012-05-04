@@ -4,7 +4,7 @@ SOURCE=.
 BUILD=$(SOURCE)/build
 SOURCESLIDES=$(SOURCE)/slideshows
 
-all: clean build_ubuntu build_kubuntu build_xubuntu build_lubuntu build_edubuntu build_ubuntustudio build_oem_config_ubuntu translations
+all: clean build_ubuntu build_kubuntu build_xubuntu build_lubuntu build_edubuntu build_ubuntustudio build_oem-config-ubuntu translations
 
 build_init:
 	mkdir -p $(BUILD)
@@ -27,7 +27,7 @@ build_edubuntu: build_init
 build_ubuntustudio: build_init
 	cp -rL $(SOURCESLIDES)/ubuntustudio $(BUILD)
 
-build_oem_config_ubuntu: build_init
+build_oem-config-ubuntu: build_init
 	cp -rL $(SOURCESLIDES)/oem-config-ubuntu $(BUILD)
 
 translations:
