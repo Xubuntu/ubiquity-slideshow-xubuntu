@@ -2,14 +2,24 @@
 Additional Javascript for ubiquity-slideshow, global to all variations.
 */
 
+/* FIXME: Replace this with a proper querystring deparam function (and update Ubiquity for new format) */
 var INSTANCE_OPTIONS = {
 	'locale' : 'en'
 };
 (function() {
 	var parameters = window.location.hash.slice(window.location.hash.indexOf('#') + 1).split('?');
 	$.each(parameters, function(i, parameter) {
-		hash = parameter.split('=');
-		INSTANCE_OPTIONS[hash[0]] = hash[1];
+		var hash = parameter.split('=');
+		var key = hash[0];
+		if (hash[1] !== undefined) {
+			var value = decodeURIComponent(
+				hash[1].replace(/\+/g, '%20')
+			);
+		} else {
+			var value = undefined;
+		}
+		
+		INSTANCE_OPTIONS[key] = value;
 	});
 })();
 
@@ -61,6 +71,5 @@ var parse_locale_code = function(locale) {
 	data['language'] = territory[0];
 	
 	return data;
-	
 }
 
