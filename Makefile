@@ -31,13 +31,13 @@ build_oem-config-ubuntu: build_init
 	cp -rL $(SOURCESLIDES)/oem-config-ubuntu $(BUILD)
 
 translations:
-	./generate-local-slides.sh ubuntu
-	./generate-local-slides.sh kubuntu
-	./generate-local-slides.sh xubuntu
-	./generate-local-slides.sh lubuntu
-	./generate-local-slides.sh edubuntu
-	./generate-local-slides.sh ubuntustudio
-	./generate-local-slides.sh oem-config-ubuntu
+	python generate-local-slides.py ubuntu
+	python generate-local-slides.py kubuntu
+	python generate-local-slides.py xubuntu
+	python generate-local-slides.py lubuntu
+	python generate-local-slides.py edubuntu
+	python generate-local-slides.py ubuntustudio
+	python generate-local-slides.py oem-config-ubuntu
 
 .PHONY : clean
 
