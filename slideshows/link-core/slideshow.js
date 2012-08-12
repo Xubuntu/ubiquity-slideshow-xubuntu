@@ -41,8 +41,9 @@ $(document).ready(function() {
 	function loadExtraSlides() {
 		$.ajax({
 			type: 'GET',
-			url: 'extra/directory.json',
-			cache: false,
+			url: 'extra/directory.jsonp',
+			dataType: 'jsonp',
+			jsonpCallback: 'ubiquitySlideshowDirectoryCb',
 			success: function(data, status, xhr) {
 				extra_directory = $.extend(extra_directory, data);
 			},
@@ -54,8 +55,9 @@ $(document).ready(function() {
 	
 	$.ajax({
 		type: 'GET',
-		url: 'directory.json',
-		cache: false,
+		url: 'directory.jsonp',
+		dataType: 'jsonp',
+		jsonpCallback: 'ubiquitySlideshowDirectoryCb',
 		success: function(data, status, xhr) {
 			directory = $.extend(directory, data);
 		},

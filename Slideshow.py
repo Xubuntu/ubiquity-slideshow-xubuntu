@@ -1,14 +1,13 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 import os
-from gi.repository import Gdk, Gtk, WebKit
-import ConfigParser
+from gi.repository import GLib, Gdk, Gtk, WebKit
+from configparser import ConfigParser
 import subprocess
 
 import sys
 import locale
 from optparse import OptionParser
-import gobject
 
 '''
 A basic GTK widget (WebKit.WebView) which displays a slideshow in the
@@ -21,27 +20,28 @@ class SlideshowViewer(WebKit.WebView):
 	@param  locale  Ideal locale to use for the slideshow
 	@param  rtl  True if the given locale should be displayed right-to-left
 	'''
-	def __init__(self, path, locale='c', rtl=False, controls=False):
+	def __init__(self, path, locale='C', rtl=False, controls=False):
 		self.path = path
 		
-		config = ConfigParser.ConfigParser()
+		config = ConfigParser()
 		config.read(os.path.join(self.path,'slideshow.conf'))
-		
-		self.locale = self._find_available_locale(locale)
 		
 		slideshow_main = 'file://' + os.path.join(self.path, 'slides', 'index.html')
 		
-		parameters = ''
-		
-		if controls:
-			parameters += "?controls"
-		if self.locale != 'c': #slideshow will use default automatically
-			parameters += '?locale=' + self.locale
+		parameters = []
+		slideshow_locale = self._find_available_locale(locale)
+		print(slideshow_locale)
+		parameters.append('locale=%s' % 'it')
 		if rtl:
-			parameters += '?rtl'
+			parameters.append('rtl')
+		if controls:
+			parameters.append('controls')
 		
 		WebKit.WebView.__init__(self)
-		self.open(slideshow_main+'#'+parameters)
+		parameters_encoded = '&'.join(parameters)
+		print(parameters_encoded)
+		print('%s#%s' % (slideshow_main, parameters_encoded))
+		self.open('%s#%s' % (slideshow_main, parameters_encoded))
 		
 		settings = self.get_settings()
 		settings.set_property("enable-default-context-menu", False)
@@ -64,21 +64,18 @@ class SlideshowViewer(WebKit.WebView):
 	@return  The available locale which best matches the input.
 	'''
 	def _find_available_locale(self, locale):
-		slides_dir = os.path.join(self.path, "slides")
-		locale_choice = 'c'
+		base_slides_dir = os.path.join(self.path, 'slides', 'l10n')
+		extra_slides_dir = os.path.join(base_slides_dir, 'extra')
 		
-		if os.path.exists( os.path.join(slides_dir, "loc."+locale) ):
-			locale_choice = locale
-		else:
-			ll_cc = locale.split('.')[0]
-			ll = ll_cc.split('_')[0]
-			if os.path.exists('%s/loc.%s' % (slides_dir,ll_cc)):
-				locale_choice = ll_cc
-			elif os.path.exists('%s/loc.%s' % (slides_dir,ll)):
-				locale_choice = ll
+		ll_cc = locale.split('.')[0]
+		ll = ll_cc.split('_')[0]
 		
-		return locale_choice
-	
+		for slides_dir in [extra_slides_dir, base_slides_dir]:
+			for test_locale in [locale, ll_cc, ll]:
+				locale_dir = os.path.join(slides_dir, test_locale)
+				if os.path.exists(locale_dir):
+					return test_locale
+		return 'C'
 	
 	def _new_browser_window(self, uri):
 		subprocess.Popen(['xdg-open', uri], close_fds=True)
@@ -113,11 +110,9 @@ def progress_increment(progressbar, fraction):
 	new_fraction = progressbar.get_fraction() + fraction
 	if new_fraction > 1:
 		progressbar.set_fraction(1.0)
-		install_progressbar.set_text("Finished pretending to install.")
 		return False
 	
 	progressbar.set_fraction(new_fraction)
-	install_progressbar.set_text("Pretending to install... %d%%" % (new_fraction * 100))
 	return True
 
 
@@ -159,7 +154,6 @@ install_progressbar.set_margin_top(8)
 install_progressbar.set_margin_right(8)
 install_progressbar.set_margin_bottom(8)
 install_progressbar.set_margin_left(8)
-install_progressbar.set_text("Pretending to install. Please wait...")
 install_progressbar.set_fraction(0)
 
 
@@ -172,7 +166,7 @@ slideshow_container.set_child_packing(install_progressbar, True, False, 0, 0)
 slideshow_window.show_all()
 
 
-install_timer = gobject.timeout_add_seconds(2, progress_increment, install_progressbar, 0.01)
+install_timer = GLib.timeout_add_seconds(2, progress_increment, install_progressbar, 0.01)
 
 
 Gtk.main()

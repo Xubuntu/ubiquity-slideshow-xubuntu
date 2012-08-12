@@ -70,7 +70,8 @@ for locale_file in glob.glob( os.path.join(po_dir, '*.po') ):
 				# Directory is not empty
 				pass
 	
-	directory_file = open(os.path.join(build_slides, 'directory.json'), 'w')
-	json.dump(directory, directory_file)
+	directory_file = open(os.path.join(build_slides, 'directory.jsonp'), 'w')
+	content = json.dumps(directory)
+	directory_file.write('ubiquitySlideshowDirectoryCb(%s);' % content)
 	directory_file.close()
 
