@@ -16,7 +16,6 @@ Dependencies (please load these first):
 link-core/jquery.js
 link-core/jquery.cycle.all.js
 link-core/signals.js
-directory.js (note that this file does not exist yet, but will when the build script runs)
 */
 
 /* Pass parameters by creating a global SLIDESHOW_OPTIONS object, containing
@@ -35,10 +34,40 @@ directory.js (note that this file does not exist yet, but will when the build sc
 
 var slideshow;
 
-var SLIDESHOW_TRANSLATED;
-var SLIDESHOW_LOCALE;
+var directory = {};
+var extra_directory = {};
 
 $(document).ready(function() {
+	function loadExtraSlides() {
+		$.ajax({
+			type: 'GET',
+			url: 'extra/directory.jsonp',
+			dataType: 'jsonp',
+			jsonpCallback: 'ubiquitySlideshowDirectoryCb',
+			success: function(data, status, xhr) {
+				extra_directory = $.extend(extra_directory, data);
+			},
+			complete: function(xhr, status) {
+				slideshowReady();
+			}
+		});
+	}
+	
+	$.ajax({
+		type: 'GET',
+		url: 'directory.jsonp',
+		dataType: 'jsonp',
+		jsonpCallback: 'ubiquitySlideshowDirectoryCb',
+		success: function(data, status, xhr) {
+			directory = $.extend(directory, data);
+		},
+		complete: function(xhr, status) {
+			loadExtraSlides();
+		}
+	});
+});
+
+function slideshowReady() {
 	slideshow = $('#slideshow');
 	
 	var slideshow_options = {
@@ -52,13 +81,12 @@ $(document).ready(function() {
 	
 	$.extend(slideshow_options, window.SLIDESHOW_OPTIONS);
 	
-	if ( 'locale' in INSTANCE_OPTIONS )
-		setLocale(INSTANCE_OPTIONS['locale']);
-	
 	if ( 'rtl' in INSTANCE_OPTIONS )
 		$(document.body).addClass('rtl');
 	
-	loadSlides();
+	var locale = INSTANCE_OPTIONS['locale'] || 'C';
+	loadSlides(locale);
+	
 	Signals.fire('slideshow-loaded');
 	
 	slideshow_options.before = function(curr, next, opts) {
@@ -105,57 +133,38 @@ $(document).ready(function() {
 	
 	slideshow.cycle(slideshow_options);
 	Signals.fire('slideshow-started');
-});
+};
 
-
-function setLocale(locale) {
-	SLIDESHOW_TRANSLATED = true;
-	SLIDESHOW_LOCALE = locale;
+function getTranslatedFile(locale, file_name, file_category) {
+	var territory = locale.split(".",1)[0];
+	var language = territory.split("_",1)[0];
 	
-	slideshow.find('div>a').each(function() {
-		var new_url = get_translated_url($(this).attr('href'), locale);
-		
-		if ( new_url != undefined ) {
-			$(this).attr('href', new_url);
-		} else {
-			SLIDESHOW_TRANSLATED = false;
-		}
-	})
+	return tryFileLocale(locale, file_name, file_category) ||
+	       tryFileLocale(territory, file_name, file_category) ||
+	       tryFileLocale(language, file_name, file_category) ||
+	       tryFileLocale('C', file_name, file_category);
 	
-	function get_translated_url(slide_name, locale) {
-		var translated_url = undefined;
-		
-		if ( translation_exists(slide_name, locale) ) {
-			translated_url = "./loc."+locale+"/"+slide_name;
+	function tryFileLocale(locale, file_name, file_category) {
+		if (translationFileExists(extra_directory, locale, file_name, file_category)) {
+			// extra_directory can override slides from any locale, including C
+			return './extra/'+locale+'/'+file_name;
+		} else if (locale == 'C') {
+			return './'+file_name;
+		} else if (translationFileExists(directory, locale, file_name, file_category)) {
+			return './l10n/'+locale+'/'+file_name;
 		} else {
-			var before_dot = locale.split(".",1)[0];
-			var before_underscore = before_dot.split("_",1)[0];
-			if ( before_underscore != null && translation_exists(slide_name, before_underscore) )
-				translated_url = "./loc."+before_underscore+"/"+slide_name;
-			else if ( before_dot != null && translation_exists(slide_name, before_dot) )
-				translated_url = "./loc."+before_dot+"/"+slide_name;
+			return undefined;
 		}
-		
-		return translated_url;
 	}
 	
-	function translation_exists(slide_name, locale) {
-		result = false;
-		try {
-			result = ( directory[locale][slide_name] == true );
-		} catch(err) {
-			/*
-			This usually happens if the directory object
-			(auto-generated at build time, placed in ./directory.js)
-			does not exist. That object is needed to know whether
-			a translation exists for the given locale.
-			*/
-		}
-		return result;
+	function translationFileExists(directory, locale, file_name, file_category) {
+		return locale in directory &&
+		       file_category in directory[locale] &&
+		       directory[locale][file_category].indexOf(file_name) >= 0;
 	}
 }
 
-function loadSlides() {
+function loadSlides(locale) {
 	var selected_slidesets = []
 	if ( 'slidesets' in INSTANCE_OPTIONS )
 		selected_slidesets = INSTANCE_OPTIONS['slidesets'].split(' ');
@@ -163,7 +172,6 @@ function loadSlides() {
 	function slideIsVisible(slide) {
 		var slidesets = $(slide).data('slidesets');
 		var is_visible = true;
-		
 		if ( slidesets !== undefined ) {
 			is_visible = false;
 			$.each(slidesets.split(' '), function(index, slideset) {
@@ -172,24 +180,40 @@ function loadSlides() {
 				}
 			});
 		}
-		
 		return is_visible;
+	}
+	
+	function translateSlideContents(locale, contents) {
+		// Warning: this assumes all images are local.
+		// TODO: Only translate images selected by $(img.translatable)
+		var images = $('img', contents);
+		$.each(images, function(index, image) {
+			var image_name = $(image).attr('src');
+			var translated_image = getTranslatedFile(locale, image_name, 'media');
+			$(image).attr('src', translated_image);
+		});
 	}
 	
 	slideshow.children('div').each(function(index, slide) {
 		if ( slideIsVisible($(slide)) ) {
-			var url = $(slide).children('a').attr('href');
+			var slide_name = $(slide).children('a').attr('href');
+			var translated_slide = getTranslatedFile(locale, slide_name, 'slides');
+			
 			$.ajax({
-				url: url,
+				type: 'GET',
+				url: translated_slide,
+				cache: false,
 				async: false,
 				success: function(data, status, xhr) {
-					$(slide).append(data);	
+					$(data).appendTo(slide);
+					translateSlideContents(locale, slide);
 				}
 			});
 		} else {
 			$(slide).detach();
 		}
 	});
+	
 	slideshow.children('div').first().data('first', true);
 	slideshow.children('div').last().data('last', true);
 }

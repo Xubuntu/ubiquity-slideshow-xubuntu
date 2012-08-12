@@ -7,7 +7,8 @@ var INSTANCE_OPTIONS = {
 	'locale' : 'en'
 };
 (function() {
-	var parameters = window.location.hash.slice(window.location.hash.indexOf('#') + 1).split('?');
+	var hash = window.location.hash.split('#')[1] || '';
+	var parameters = hash.split(/\?|&/);
 	$.each(parameters, function(i, parameter) {
 		var hash = parameter.split('=');
 		var key = hash[0];

@@ -8,7 +8,13 @@ ubiquity-slideshow-ubuntu (59) UNRELEASED; urgency=low
   [ Harald Sitter ]
   * Kubuntu: Remove reference to commercial support from Canonical 
 
- -- Julien Lavergne <gilir@ubuntu.com>  Tue, 26 Jun 2012 21:53:19 +0200
+  [ Dylan McCall ]
+  * Support slideshow customization with ubiquity-slideshow/extra folder
+    (LP: #1035806)
+  * Changed build script to use some Python internally.
+  * New, tidier format for build directory.
+
+ -- Dylan McCall <dylanmccall@ubuntu.com>  Sun, 12 Aug 2012 00:00:35 -0700
 
 ubiquity-slideshow-ubuntu (58) precise; urgency=low
 
