@@ -1,3 +1,11 @@
+ubiquity-slideshow-ubuntu (60) quantal; urgency=low
+
+  * Previous fix still allows for https MITM by not checking the SSL
+    certificate. So turn off twitter completely for now. (LP: #991982)
+    CVE-2012-0956
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Wed, 15 Aug 2012 15:23:01 -0400
+
 ubiquity-slideshow-ubuntu (59) quantal; urgency=low
 
   [ Julien Lavergne ]
