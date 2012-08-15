@@ -330,6 +330,9 @@ if (language == 'en') {
 	doTwitter = false;
 }
 
+// Turn off Twitter for security reason
+doTwitter = false;
+
 Signals.watch('slideshow-loaded', function() {
 	if (doTwitter) {
 		$('.twitter-stream').each(function(index, streamContainer) {
