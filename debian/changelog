@@ -13,8 +13,11 @@ ubiquity-slideshow-ubuntu (59) UNRELEASED; urgency=low
     (LP: #1035806)
   * Changed build script to use some Python internally.
   * New, tidier format for build directory.
+  * Always access twitter over https and properly encode URLs received from
+    the twitter feed. (LP: #991982)
+  * CVE-2012-0956
 
- -- Dylan McCall <dylanmccall@ubuntu.com>  Sun, 12 Aug 2012 00:00:35 -0700
+ -- Stéphane Graber <stgraber@ubuntu.com>  Wed, 15 Aug 2012 12:36:46 -0400
 
 ubiquity-slideshow-ubuntu (58) precise; urgency=low
 

@@ -45,27 +45,27 @@ function Tweet(data) {
 	var userScreenName = innerData.from_user || innerData.user.screen_name;
 	
 	var linkHashTag = function(hashTag) {
-		return 'http://twitter.com/search?q='+escape('#'+hashTag);
+		return 'https://twitter.com/search?q='+encodeURIComponent('#'+hashTag);
 	}
 	
 	var linkUser = function(userName) {
-		return 'http://twitter.com/'+escape(userName);
+		return 'https://twitter.com/'+encodeURIComponent(userName);
 	}
 	
 	var linkUserID = function(userID) {
-		return 'http://twitter.com/account/redirect_by_id?id='+userID;
+		return 'https://twitter.com/account/redirect_by_id?id='+encodeURIComponent(userID);
 	}
 	
 	var linkEntities = function(entities, text) {
 		entityIndices = {};
 		
 		$.each(entities.media || [], function(i, entry) {
-			var link = '<a class="twitter-url twitter-media" href="'+escapeHTML(entry.media_url)+'">'+escapeHTML(entry.display_url || entry.url)+'</a>';
+			var link = '<a class="twitter-url twitter-media" href="'+encodeURI(entry.media_url)+'">'+escapeHTML(entry.display_url || entry.url)+'</a>';
 			entityIndices[entry.indices[0]] = [entry.indices[1], link];
 		});
 		
 		$.each(entities.urls || [], function(i, entry) {
-			var link = '<a class="twitter-url" href="'+escapeHTML(entry.url)+'">'+escapeHTML(entry.display_url || entry.url)+'</a>';
+			var link = '<a class="twitter-url" href="'+encodeURI(entry.url)+'">'+escapeHTML(entry.display_url || entry.url)+'</a>';
 			entityIndices[entry.indices[0]] = [entry.indices[1], link];
 		});
 		
@@ -147,7 +147,7 @@ function TweetQuery(lang) {
 	
 	// request is tightly encapsulated because we might move that logic to a remote server
 	
-	var QUERY_URL = 'http://api.twitter.com/1/lists/statuses.json';
+	var QUERY_URL = 'https://api.twitter.com/1/lists/statuses.json';
 	var request = {
 		'owner_screen_name' : 'hello_ubuntu',
 		'slug' : 'installer-slideshow',
@@ -156,7 +156,7 @@ function TweetQuery(lang) {
 		'per_page' : 25
 	}
 	
-	//var QUERY_URL = 'http://search.twitter.com/search.json';
+	//var QUERY_URL = 'https://search.twitter.com/search.json';
 	/*var request = {
 		'q' : 'from:ubuntu OR from:ubuntudev OR from:planetubuntu OR from:ubuntul10n OR from:ubuntucloud OR from:ubuntuone OR from:ubuntudesigners OR from:ubuntuunity OR from:canonical',
 		'lang' : 'all',
@@ -342,7 +342,7 @@ Signals.watch('slideshow-loaded', function() {
 			// Twitter-post-status-link is a <div> to avoid being translated. We need to wrap it around an <a> tag
 			var statusText = $(linkContent).children('.twitter-post-status-text').text();
 			var link = $('<a>');
-			link.attr('href', 'http://twitter.com/home?status='+encodeURIComponent(statusText));
+			link.attr('href', 'https://twitter.com/home?status='+encodeURIComponent(statusText));
 			link.insertBefore(linkContent);
 			$(linkContent).appendTo(link);
 		});
