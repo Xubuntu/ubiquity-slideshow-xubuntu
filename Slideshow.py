@@ -137,7 +137,7 @@ Gdk.threads_init()
 # This is important, because libsoup is not secure by default.
 soup_session = WebKit.get_default_session()
 soup_session.set_property('ssl-strict', True)
-soup_session.set_property('ssl-ca-file', '/etc/ssl/certs/ca-certificates.crt')
+soup_session.set_property('ssl-use-system-ca-file', True)
 
 
 slideshow_window = Gtk.Window()
