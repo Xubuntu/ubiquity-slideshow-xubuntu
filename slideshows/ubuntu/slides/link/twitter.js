@@ -318,16 +318,18 @@ function TwitterStream(streamContainer) {
 }
 
 /* Only show the Twitter stuff if the slideshow is supposed to be English */
-var doTwitter = true;
-var language = 'en';
 if ('locale' in INSTANCE_OPTIONS) {
 	var locale_data = parse_locale_code(INSTANCE_OPTIONS['locale']);
-	language = locale_data['language'];
-}
-if (language == 'en') {
-	doTwitter = true;
+	var language = locale_data['language'];
 } else {
-	doTwitter = false;
+	var language = 'C';
+}
+
+var twitterLanguages = ['en', 'C'];
+if (twitterLanguages.indexOf(language) >= 0) {
+	var doTwitter = true;
+} else {
+	var doTwitter = false;
 }
 
 // Turn off Twitter for security reason

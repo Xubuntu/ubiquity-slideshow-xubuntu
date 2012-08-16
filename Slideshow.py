@@ -30,8 +30,7 @@ class SlideshowViewer(WebKit.WebView):
 		
 		parameters = []
 		slideshow_locale = self._find_available_locale(locale)
-		print(slideshow_locale)
-		parameters.append('locale=%s' % 'it')
+		parameters.append('locale=%s' % slideshow_locale)
 		if rtl:
 			parameters.append('rtl')
 		if controls:
@@ -39,8 +38,6 @@ class SlideshowViewer(WebKit.WebView):
 		
 		WebKit.WebView.__init__(self)
 		parameters_encoded = '&'.join(parameters)
-		print(parameters_encoded)
-		print('%s#%s' % (slideshow_main, parameters_encoded))
 		self.open('%s#%s' % (slideshow_main, parameters_encoded))
 		
 		settings = self.get_settings()
@@ -82,7 +79,6 @@ class SlideshowViewer(WebKit.WebView):
 	
 	def _on_navigate_decision(self, view, frame, req, action, decision):
 		reason = action.get_reason()
-		print(reason)
 		if reason == "link-clicked":
 			decision.use()
 			return False
@@ -92,7 +88,6 @@ class SlideshowViewer(WebKit.WebView):
 	
 	def _on_navigate(self, view, frame, req):
 		uri = req.get_uri()
-		print(uri)
 		self._new_browser_window(uri)
 		return True
 	
@@ -137,6 +132,13 @@ if os.path.exists(options.path) == False:
 
 
 Gdk.threads_init()
+
+# Set default SSL CA file for secure communication with web services.
+# This is important, because libsoup is not secure by default.
+soup_session = WebKit.get_default_session()
+soup_session.set_property('ssl-strict', True)
+soup_session.set_property('ssl-ca-file', '/etc/ssl/certs/ca-certificates.crt')
+
 
 slideshow_window = Gtk.Window()
 slideshow_window.set_title("Ubiquity Slideshow with Webkit")
