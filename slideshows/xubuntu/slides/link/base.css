@@ -1,4 +1,7 @@
-/* eric meyers css reset... */
+/*
+ *  CSS Reset
+ *
+ */
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -56,29 +59,38 @@ table {
 	border-spacing: 0;
 }
 
-/* */
+/*
+ *  Main layout
+ *
+ */
 
 html, body {
 	font-family: "Droid Sans", sans-serif;
+
+	color: #bbcdde;
 }
 
 #slideshow {
-	background-image: url(background-xubuntu.png);
+	background-image: url(wall.png);
 
-	width: 790px;
-	height: 520px;
+	width: 750px;
+	height: 420px;
 
 	overflow: hidden;
 }
 
-/* */
+/*
+ *  Controls
+ *
+ */
+
 .control-arrow {
 	z-index: 100;
 	position: absolute;
-	top: 255px;
+	top: 20px;
 
-	width: 30px;
-	height: 69px;
+	width: 20px;
+	height: 20px;
 
 	background: transparent;
 	background-position: 0 0;
@@ -87,29 +99,32 @@ html, body {
 	cursor:default;
 }
 .control-arrow:hover, .control-arrow:focus {
-	background-position: 0 -69px;
+	background-position: 0 -20px;
 }
 .control-arrow:active {
-	background-position: 0 -138px;
+	background-position: 0 -40px;
 }
 #prev-slide {
-	left: 0;
+	left: 670px;
 	background-image: url(arrow-prev.png);
 }
 #next-slide {
-	left: 760px;
+	left: 710px;
 	background-image: url(arrow-next.png);
 }
 
-/* */
+/*
+ *  Elements
+ *
+ */
 
 a {
-	color: #214478;
+	color: #fff; /*#214478; */
 	text-decoration: none;
 }
 
 .main a {
-	border-bottom: 1px dashed #bbb;
+	border-bottom: 1px solid #bbb;
 }
 
 em {
@@ -121,46 +136,60 @@ p, ul, ol {
 }
 
 h2 {
-	border-top: 1px solid rgba(0,0,0,.1);
+	width: 270px;
+
+/*	border-top: 1px solid rgba( 255, 255, 255, 0.3 ); */
 	padding-top: 5px;
 	margin-top: 2em;
 	margin-bottom: 0.5em;
 
 	font-family: "Droid Serif", serif;
 	font-size: 90%;
-	color: #2c7092;
+	color: #fff;
 }
 
-/* */
+/*
+ *  More layout
+ *
+ */
 
 .header {
 	display: table-cell;
+	width: 750px;
 
-	padding: 0 60px;
-	height: 80px;
+	padding: 0 100px 0 20px;
+	height: 60px;
 
 	vertical-align: middle;
+
+	background-color: rgba( 0, 0, 0, 0.5 );
 }
 	.header h1 {
 		color: #fff;
 
-		font-size: 240%;
+		font-size: 180%;
 		font-family: "Droid Serif", serif;
+		font-weight: normal;
 	}
 
 .main {
+	font-size: 90%;
+
+	background-image: url(shadow.png);
+	background-position: 0 0;
+	background-repeat: repeat-x;
+
 	padding: 30px 0 0 0;
 }
 	.main .content, .main .shot {
 		float: left;
 	}
 	.main .content {	
-		width: 220px;
-		padding: 0 60px;
+		width: 260px;
+		padding: 0 20px;
 	}
 	.main .shot {
 		margin-left: 10px;
-		width: 440px;
 	}
 	.main .shot.full {
 		margin-left: -10px;
@@ -168,24 +197,37 @@ h2 {
 	}
 	.main .shot.clip {
 		margin-left: 0;
-		width: 450px;
+	}
+	.main .shot.leftpad {
+		margin-left: 30px;
 	}
 
 
-/* */
+/*
+ *  Application paths
+ *
+ */
+
 .paths {
 	width: 230px;
 	position: absolute;
-	top: 380px;
+	top: 280px;
+
+	color: #fff;
 }
 .path { /* application paths */
-	font-size: 65%;
+	font-size: 75%;
 	width: 270px; /* everything fits in oneliners with 270px! */
 }
 
 .path span {
+	display: inline-block;
+	margin: 0 2px;
+
 	font-size: 120%;
 	font-weight: bold;
+
+	color: #007fbe;
 }
 
 .desktop_icon {
