@@ -62,7 +62,7 @@ class SlideshowViewer(WebKit.WebView):
 	'''
 	def _find_available_locale(self, locale):
 		base_slides_dir = os.path.join(self.path, 'slides', 'l10n')
-		extra_slides_dir = os.path.join(base_slides_dir, 'extra')
+		extra_slides_dir = os.path.join(self.path, 'slides', 'extra')
 		
 		ll_cc = locale.split('.')[0]
 		ll = ll_cc.split('_')[0]
