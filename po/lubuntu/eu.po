@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2011-04-09 12:52+0000\n"
-"Last-Translator: Oier Mees <Unknown>\n"
+"PO-Revision-Date: 2012-09-03 19:20+0000\n"
+"Last-Translator: Asier Iturralde Sarasola <Unknown>\n"
 "Language-Team: Basque <eu@li.org>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-08-30 20:41+0000\n"
-"X-Generator: Launchpad (build 15877)\n"
+"X-Launchpad-Export-Date: 2012-09-14 18:48+0000\n"
+"X-Generator: Launchpad (build 15944)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/browser.html:1
@@ -53,12 +53,12 @@ msgstr ""
 #: slideshows/lubuntu/slides/office.html:12
 #: slideshows/lubuntu/slides/videos.html:20
 msgid "Included software"
-msgstr ""
+msgstr "Instalatutako softwarea"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/browser.html:24
 msgid "Chromium web browser"
-msgstr ""
+msgstr "Chromium web-arakatzailea"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/browser.html:27
@@ -67,12 +67,12 @@ msgstr ""
 #: slideshows/lubuntu/slides/office.html:27
 #: slideshows/lubuntu/slides/videos.html:27
 msgid "Supported software"
-msgstr ""
+msgstr "Software eskuragarria"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/browser.html:31
 msgid "Firefox web browser"
-msgstr "Firefox web nabigatzailea"
+msgstr "Firefox web-arakatzailea"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/email.html:1
@@ -90,7 +90,8 @@ msgid ""
 "It will allow you to check your email messages, and read them even if you "
 "are offline."
 msgstr ""
-"Zure postak jaso eta irakurri ahal izango duzu, deskonektatuta egon arren."
+"Zure e-postak jaso eta irakurtzeko aukera eskainiko dizu, baita lineaz kanpo "
+"zaudenean ere."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/email.html:16
@@ -104,17 +105,17 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/email.html:24
 msgid "Sylpheed"
-msgstr ""
+msgstr "Sylpheed"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/email.html:31
 msgid "Thunderbird mail client"
-msgstr ""
+msgstr "Thunderbird posta bezeroa"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/help.html:1
 msgid "Getting Help"
-msgstr "Laguntza Lortzen"
+msgstr "Lortu laguntza"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/help.html:8
@@ -137,23 +138,23 @@ msgid ""
 "On the mailing list, subscribe on <a href=\"https://launchpad.net/~lubuntu-"
 "desktop\">the page</a>."
 msgstr ""
-"Posta zerrendan,<a href=\"https://launchpad.net/~lubuntu-desktop\">orrian</"
+"Posta-zerrendan,<a href=\"https://launchpad.net/~lubuntu-desktop\">orrian</"
 "a> harpidetuz."
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/lubuntu/slides/help.html:20
 msgid "On the IRC chan #lubuntu on irc.freenode.net."
-msgstr "#lubuntu on irc.freenode.net IRC kanalean."
+msgstr "irc.freenode.net-eko #lubuntu IRC kanalean."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/help.html:24
 msgid "The installation will finish soon. We hope you enjoy Lubuntu."
-msgstr "Instalazioa laster bukatuko da. Zu zeuk lubuntu gozatzea espero dugu."
+msgstr "Instalazioa laster bukatuko da. Lubuntu gozatzea espero dugu."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/im.html:1
 msgid "Chatting with your friends"
-msgstr "Zure lagunekin berriketan ari"
+msgstr "Zure lagunekin berriketan aritu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/im.html:8
@@ -166,6 +167,8 @@ msgid ""
 "Go to the menu, and click on Pidgin icon to connect to many services, such "
 "as Jabber, Google Talk or Windows Live."
 msgstr ""
+"Joan menura eta klikatu Pidgin ikonoan hainbat zerbitzutara konektatzeko, "
+"hala nola, Jabber, Google Talk edo Windows Live."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/im.html:16
@@ -180,7 +183,7 @@ msgstr "Pidgin"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/im.html:31
 msgid "Empathy IM"
-msgstr ""
+msgstr "Empathy IM"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/im.html:35
@@ -190,7 +193,7 @@ msgstr "Skype"
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/install.html:1
 msgid "Install software"
-msgstr "Instalatu programak"
+msgstr "Instalatu softwarea"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/install.html:8
@@ -198,14 +201,15 @@ msgid ""
 "With Lubuntu, you have access to the whole Ubuntu repository and all the "
 "software included."
 msgstr ""
-"Lubunturekin, errepositorio guztia, eta barnean duen software guztia eskura "
-"izango duzu."
+"Lubunturekin, Ubuntu software-biltegiko software guztia eskura izango duzu."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/install.html:12
 msgid ""
 "Go to the menu, click on System Tools and <em>Synaptic Software Manager</em>."
 msgstr ""
+"Joan menura eta klikatu 'Sistemaren tresnak' menuko <em>Synaptic sofware-"
+"kudeatzailea</em> aukeran."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/install.html:16
@@ -223,7 +227,7 @@ msgid ""
 "Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing and "
 "energy-saving desktop environment."
 msgstr ""
-"Lubuntu <em>LXDE Mahaigain Ingurunean</em> oinarrituta dago, energia "
+"Lubuntu <em>LXDE mahaigain ingurunean</em> oinarrituta dago, energia "
 "aurreratzen duen mahaigain ingurune arina."
 
 #.  The url "lxde.org" should not be translated 
@@ -245,6 +249,10 @@ msgid ""
 "abisource.com/\">Abiword</a> and <a href=\"http://projects.gnome.org/"
 "gnumeric/\">Gnumeric</a> websites."
 msgstr ""
+"Erabili <em>Abiword eta Gnumeric</em>, LibreOfficeren alternatiba arinak eta "
+"sortu gutunak,  create letters, kalkulu-orriak, eta abar. Informazio gehiago "
+"nahi baduzu bisitatu <a href=\"http://www.abisource.com/\">Abiword</a> eta "
+"<a href=\"http://projects.gnome.org/gnumeric/\">Gnumeric</a> webguneak."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:16
@@ -254,12 +262,12 @@ msgstr "Abiword"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:20
 msgid "Gnumeric"
-msgstr ""
+msgstr "Gnumeric"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:24
 msgid "Xpad Notes"
-msgstr ""
+msgstr "Xpad oharrak"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/office.html:31
@@ -282,6 +290,9 @@ msgid ""
 "Watch videos with <em>gnome-mplayer</em>, a fast video player using mplayer. "
 "Support for many formats is included."
 msgstr ""
+"Ikusi bideoak <em>gnome-mplayer</em> erabiliz, mplayer-en oinarritutako "
+"bideo-erreproduzitzaile azkarra. Hainbat formaturentzako euskarria "
+"eskaintzen du."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/videos.html:12
@@ -289,8 +300,8 @@ msgid ""
 "You can also obtain additional non-free support by installing the lubuntu-"
 "restricted-extras package."
 msgstr ""
-"Sostengu ez aske gehigarria lor dezakezu, lubuntu-restricted-extras paketea "
-"instalatuz."
+"Formatu ez-libreentzako euskarri gehigarria lor dezakezu, lubuntu-restricted-"
+"extras paketea instalatuz."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/videos.html:16
@@ -298,16 +309,18 @@ msgid ""
 "More information on <a href=\"http://sites.google.com/site/kdekorte2/"
 "gnomemplayer\">gnome-mplayer website</a>."
 msgstr ""
+"Informazio gehiago <a href=\"http://sites.google.com/site/kdekorte2/"
+"gnomemplayer\">gnome-mplayer webgunean</a>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/videos.html:24
 msgid "Gnome-Mplayer videos player"
-msgstr ""
+msgstr "Gnome-Mplayer bideo-erreproduzitzailea"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/videos.html:31
 msgid "VLC videos player"
-msgstr ""
+msgstr "VLC bideo-erreproduzitzailea"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/welcome.html:1
@@ -317,10 +330,11 @@ msgstr "Ongi etorri"
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:8
 msgid "Thank you for choosing Lubuntu 12.04."
-msgstr ""
+msgstr "Mila esker Lubuntu 12.04 aukeratzeagatik"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/welcome.html:12
 msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
 msgstr ""
-"Lubuntu diseinatu da erraza eta arina izateko. Esploratu nahi duzun beste!"
+"Lubuntu erraza eta arina izateko diseinatuta dago. Esploratu nahi duzun "
+"beste!"
