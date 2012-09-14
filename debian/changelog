@@ -1,3 +1,23 @@
+ubiquity-slideshow-ubuntu (62) quantal; urgency=low
+
+  [ Pasi Lallinaho ]
+  * Xubuntu slideshow
+    - Update of the office slide (drop gnumeric, update abiword screenshot).
+      (LP: #1049658)
+
+  [ Jonathan Carter ]
+  * Edubuntu slideshow (LP: #1051023)
+    - Remove geogebra slide (no longer shipped).
+    - Update versions in under-the-hood slide.
+
+  [ Stéphane Graber ]
+  * Edubuntu slideshow (LP: #1051023)
+    - Update indication on how to start LTSP-Live.
+    - Don't mention arkose-nautilus, it doesn't work with nautilus3.
+  * Update translations from Launchpad.
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Fri, 14 Sep 2012 14:40:57 -0400
+
 ubiquity-slideshow-ubuntu (61) quantal; urgency=low
 
   [ Pasi Lallinaho ]
