@@ -1,3 +1,18 @@
+ubiquity-slideshow-ubuntu (61) quantal; urgency=low
+
+  [ Pasi Lallinaho ]
+  * Update Xubuntu slideshow.
+  * Change test-slideshow.sh to accept a slideshow as parameter.
+
+  [ Dylan McCall ]
+  * Fix slideshow.py to properly handle SSL.
+  * Fix twitter stream not appearing in C locale.
+
+  [ Stéphane Graber ]
+  * Refresh translations from Launchpad.
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Thu, 30 Aug 2012 13:49:38 -0700
+
 ubiquity-slideshow-ubuntu (60) quantal; urgency=low
 
   * Previous fix still allows for https MITM by not checking the SSL
