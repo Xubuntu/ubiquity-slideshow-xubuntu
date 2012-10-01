@@ -1,8 +1,12 @@
 ubiquity-slideshow-ubuntu (64) UNRELEASED; urgency=low
 
+  [ Stéphane Graber ]
   * Fix invalid html in Xubuntu slideshow preventing pot files generation.
     (LP: #1043222)
   * Re-generate all po templates (was already manually imported in Launchpad)
+
+  [ Dylan McCall ]
+  * Updated copy for Ubuntu slideshow. (LP: #1056456)
 
  -- Stéphane Graber <stgraber@ubuntu.com>  Tue, 25 Sep 2012 09:41:40 -0400
 
