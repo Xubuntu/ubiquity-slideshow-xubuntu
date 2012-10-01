@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
 "PO-Revision-Date: 2012-04-12 22:38+0000\n"
 "Last-Translator: tomoya tabuchi <Unknown>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:36+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,8 +25,8 @@ msgstr "おめでとうございます!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
-msgstr "Xubuntuの最新バージョンである12.04 LTSのインストールを選択しました。"
+msgid "You have chosen to install the latest version of Xubuntu, 12.10."
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -75,7 +75,7 @@ msgstr ""
 #: slideshows/xubuntu/slides/01_web.html:10
 #: slideshows/xubuntu/slides/02_messaging.html:10
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:10
-#: slideshows/xubuntu/slides/04_office.html:10
+#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/06_explore.html:11
 msgid "Where?"
 msgstr "アクセス方法："
@@ -85,7 +85,6 @@ msgstr "アクセス方法："
 #: slideshows/xubuntu/slides/01_web.html:12
 #: slideshows/xubuntu/slides/02_messaging.html:11
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 #: slideshows/xubuntu/slides/06_explore.html:12
 #: slideshows/xubuntu/slides/06_explore.html:13
@@ -171,44 +170,39 @@ msgstr "gmusicbrowser"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_office.html:2
-msgid "Lighter alternatives"
-msgstr "軽量な代替品"
+msgid "In the office"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
 msgid ""
-"<em>Abiword</em> is a word processor, which can read almost all known "
-"document formats. <em>Gnumeric</em> is a spreadsheet program with an "
-"emphasis on accuracy."
+"For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+"word processor, which can read almost all known document formats."
 msgstr ""
-"ワープロソフトである<em>Abiword</em>は、よく使われるほとんどのドキュメント形"
-"式を読み込めます。表計算ソフトである<em>Gnumeric</em>は、数値の取り扱いの厳密"
-"さが特徴です。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
 msgid ""
-"While Abiword and Gnumeric are lightweight, they provide almost all of the "
-"functions of the LibreOffice suite."
+"If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
+"repositories."
 msgstr ""
-"AbiwordやGnumericは軽量であるにも関わらず、LibreOfficeが持っている機能のほと"
-"んどすべてを提供しています。"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_office.html:9
+msgid ""
+"LibreOffice is also available in the repositories, if you're more "
+"comfortable with it or need a full office suite."
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Office <span>»</span>"
 msgstr "オフィス <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
+#: slideshows/xubuntu/slides/04_office.html:12
 msgid "Abiword"
 msgstr "Abiword"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:12
-msgid "Gnumeric"
-msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -333,3 +327,29 @@ msgstr ""
 "最後に、<a href=\"http://xubuntu.org/devel\">Get Involved</a>では、Xubuntuに"
 "対するさまざまな貢献方法を紹介しています。私たちはあなたの助けを必要としてい"
 "るのです！"
+
+#~ msgid "Lighter alternatives"
+#~ msgstr "軽量な代替品"
+
+#~ msgid ""
+#~ "While Abiword and Gnumeric are lightweight, they provide almost all of "
+#~ "the functions of the LibreOffice suite."
+#~ msgstr ""
+#~ "AbiwordやGnumericは軽量であるにも関わらず、LibreOfficeが持っている機能のほ"
+#~ "とんどすべてを提供しています。"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid ""
+#~ "<em>Abiword</em> is a word processor, which can read almost all known "
+#~ "document formats. <em>Gnumeric</em> is a spreadsheet program with an "
+#~ "emphasis on accuracy."
+#~ msgstr ""
+#~ "ワープロソフトである<em>Abiword</em>は、よく使われるほとんどのドキュメント"
+#~ "形式を読み込めます。表計算ソフトである<em>Gnumeric</em>は、数値の取り扱い"
+#~ "の厳密さが特徴です。"
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
+#~ msgstr ""
+#~ "Xubuntuの最新バージョンである12.04 LTSのインストールを選択しました。"

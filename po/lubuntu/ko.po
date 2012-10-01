@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
 "PO-Revision-Date: 2011-03-13 07:38+0000\n"
 "Last-Translator: sangho <Unknown>\n"
 "Language-Team: Korean <ko@li.org>\n"
@@ -15,317 +15,353 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:37+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/browser.html:1
-msgid "Internet with Chromium"
-msgstr "크로미움을 통한 인터넷"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/browser.html:8
-msgid ""
-"Lubuntu is shipped with <em>Chromium</em>, the open-source version of "
-"Chrome, a browser developed by Google."
+#: slideshows/lubuntu/slides/00_welcome.html:1
+msgid "Welcome to Lubuntu 12.10"
 msgstr ""
-"루분투는 구글에서제작한 크롬의 오픈소스 버전, <em>크로미움</em>을 포함합니다."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/browser.html:12
-msgid "It's fast with a clean user interface."
-msgstr "깔끔한 구성과 빠른 속도가 장점입니다."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/browser.html:16
+#: slideshows/lubuntu/slides/00_welcome.html:8
 msgid ""
-"More information on the <a href=\"http://sites.google.com/a/chromium.org/dev/"
-"Home\">Chromium website</a>."
+"Lubuntu is designed to be lightweight, easy and fast. Let's have a closer "
+"look!"
 msgstr ""
-"더 많은 정보를 원하시면 <a href=\"http://sites.google.com/a/chromium.org/dev/"
-"Home\">Chromiun website</a>를 방문해 주십시오."
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/01_lxde.html:1
+msgid "Built on a solid foundation"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/01_lxde.html:8
+msgid ""
+"Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing and "
+"energy-saving desktop environment. LXDE has been proven to work well with "
+"both old and new computers, ensuring you a smooth desktop experience."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/02_browser.html:1
+msgid "Browse the web"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/02_browser.html:8
+msgid ""
+"Browse the web with <em>Chromium</em>, the open-source version of Chrome, a "
+"web browser developed by Google. It's safe, stable, fast and even supports "
+"your favorite addons/extensions."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/02_browser.html:12
+msgid ""
+"Did you know that Lubuntu has it's own Chrome extension available for free? "
+"Visit the <a href=\"https://chrome.google.com/webstore/detail/"
+"hemkkjpjknkkndhconammdhlhdkjclim\">Chrome Web Store</a> for more information."
+msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/lubuntu/slides/browser.html:20
-#: slideshows/lubuntu/slides/email.html:20
-#: slideshows/lubuntu/slides/im.html:20
-#: slideshows/lubuntu/slides/office.html:12
-#: slideshows/lubuntu/slides/videos.html:20
+#: slideshows/lubuntu/slides/02_browser.html:16
+#: slideshows/lubuntu/slides/03_office.html:12
+#: slideshows/lubuntu/slides/04_media.html:18
+#: slideshows/lubuntu/slides/05_social.html:12
 msgid "Included software"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/browser.html:24
-msgid "Chromium web browser"
+#: slideshows/lubuntu/slides/02_browser.html:20
+msgid "Chromium"
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/lubuntu/slides/browser.html:27
-#: slideshows/lubuntu/slides/email.html:27
-#: slideshows/lubuntu/slides/im.html:27
-#: slideshows/lubuntu/slides/office.html:27
-#: slideshows/lubuntu/slides/videos.html:27
+#: slideshows/lubuntu/slides/02_browser.html:23
+#: slideshows/lubuntu/slides/03_office.html:23
+#: slideshows/lubuntu/slides/04_media.html:32
+#: slideshows/lubuntu/slides/05_social.html:19
 msgid "Supported software"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/browser.html:31
-msgid "Firefox web browser"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/email.html:1
-msgid "Checking your emails"
-msgstr "이메일 확인"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/email.html:8
-msgid "Lubuntu provides a mail client named <em>Sylpheed</em>."
-msgstr "루분투는 <em>Sylpheed</em> 메일 클라이언트를 제공합니다."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/email.html:12
-msgid ""
-"It will allow you to check your email messages, and read them even if you "
-"are offline."
-msgstr ""
-"이 프로그램은 여러분이 오프라인 상태라 하더라도, 이메일 메시지를 확인하고 읽"
-"을 수 있게 해 줍니다."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/email.html:16
-msgid ""
-"More information on <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed "
-"website</a>."
-msgstr ""
-"더 많은 정보를 원하시면 <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed "
-"website</a>를 방문해 주십시오."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/email.html:24
-msgid "Sylpheed"
+#: slideshows/lubuntu/slides/02_browser.html:27
+msgid "Flash"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/email.html:31
-msgid "Thunderbird mail client"
+#: slideshows/lubuntu/slides/02_browser.html:32
+msgid "Firefox"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/help.html:1
-msgid "Getting Help"
-msgstr "도움 받기"
+#: slideshows/lubuntu/slides/03_office.html:1
+msgid "Create and edit documents"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/help.html:8
-msgid "If you need help, you can contact us:"
-msgstr "도움을 필요로 하시면 연락하세요."
-
-#.  The url should not be translated 
-#. type: Content of: <div><div><div><li>
-#: slideshows/lubuntu/slides/help.html:12
+#: slideshows/lubuntu/slides/03_office.html:8
 msgid ""
-"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki page</"
-"a>."
-msgstr ""
-"<a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">위키페이지</a>를 통하거"
-"나"
-
-#. type: Content of: <div><div><div><li>
-#: slideshows/lubuntu/slides/help.html:16
-msgid ""
-"On the mailing list, subscribe on <a href=\"https://launchpad.net/~lubuntu-"
-"desktop\">the page</a>."
-msgstr ""
-"<a href=\"https://launchpad.net/~lubuntu-desktop\">메일링 리스트</a>에 구독하"
-"거나"
-
-#. type: Content of: <div><div><div><li>
-#: slideshows/lubuntu/slides/help.html:20
-msgid "On the IRC chan #lubuntu on irc.freenode.net."
-msgstr "irc.freenode.net 의 #lubuntu 채널을 사용합니다."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/help.html:24
-msgid "The installation will finish soon. We hope you enjoy Lubuntu."
-msgstr "곧 설치가 완료됩니다. 루분투를 즐겨주세요."
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/im.html:1
-msgid "Chatting with your friends"
-msgstr "친구들과 대화하기"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/im.html:8
-msgid "With <em>Pidgin</em>, you will be able to chat with your friends."
-msgstr "<em>Pidgin</em>을 사용해서 친구들과 채팅을 할 수 있습니다."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/im.html:12
-msgid ""
-"Go to the menu, and click on Pidgin icon to connect to many services, such "
-"as Jabber, Google Talk or Windows Live."
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/im.html:16
-msgid "More information on <a href=\"http://pidgin.im/\">Pidgin website</a>."
-msgstr ""
-"더 많은 정보를 원하시면 <a href=\"http://pidgin.im/\">Pidgin website</a>를 방"
-"문해 주십시오."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/im.html:24
-msgid "Pidgin"
+"Use <em>Abiword</em> and <em>Gnumeric</em>, lightweight alternatives for "
+"LibreOffice, to create documents and spreadsheets. Both applications provide "
+"support for industry standard document types and will allow you to "
+"collaborate on documents written by colleagues, friends or family."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/im.html:31
-msgid "Empathy IM"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/im.html:35
-msgid "Skype"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/install.html:1
-msgid "Install software"
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/install.html:8
-msgid ""
-"With Lubuntu, you have access to the whole Ubuntu repository and all the "
-"software included."
-msgstr ""
-"루분투를 사용하게 되면, 우분투 저장소와 그 안에 포함된 모든 소프트웨어에 접근"
-"할 권한을 가지게 됩니다."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/install.html:12
-msgid ""
-"Go to the menu, click on System Tools and <em>Synaptic Software Manager</em>."
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/install.html:16
-msgid "You can search for software by clicking on the Search button."
-msgstr "찾기 버튼을 이용해서 소프트웨어를 찾을 수 있습니다."
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/lxde.html:1
-msgid "Based on LXDE Desktop"
-msgstr "LXDE 데스크탑 기반"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/lxde.html:8
-msgid ""
-"Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing and "
-"energy-saving desktop environment."
-msgstr ""
-"루분투는 처리 속도가 빠르고 에너지를 적게 사용하는 데스크톱 환경인 <em>LXDE "
-"데스크톱 환경</em>을 기반으로 하고 있습니다."
-
-#.  The url "lxde.org" should not be translated 
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/lxde.html:12
-msgid "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
-msgstr ""
-"더 많은 정보를 원하시면 <a href=\"http://lxde.org\">LXDE website</a>를 방문"
-"해 주십시오."
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/office.html:1
-msgid "Abiword and Gnumeric"
-msgstr "Abiword 와 Gnumeric"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/office.html:8
-msgid ""
-"Use <em>Abiword and Gnumeric</em>, lightweight alternatives for LibreOffice, "
-"and create letters, spreadsheets, etc. Information on <a href=\"http://www."
-"abisource.com/\">Abiword</a> and <a href=\"http://projects.gnome.org/"
-"gnumeric/\">Gnumeric</a> websites."
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:16
+#: slideshows/lubuntu/slides/03_office.html:16
 msgid "Abiword"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:20
+#: slideshows/lubuntu/slides/03_office.html:20
 msgid "Gnumeric"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:24
-msgid "Xpad Notes"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:31
+#: slideshows/lubuntu/slides/03_office.html:27
 msgid "LibreOffice"
 msgstr ""
 
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/04_media.html:1
+msgid "Enjoy your music and videos"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/04_media.html:10
+msgid ""
+"Listen to your favorite music with <em>Audacious</em>, a simple but powerful "
+"audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
+"video player powered by mplayer with support for many formats."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/04_media.html:14
+msgid ""
+"You can also obtain additional codec support by installing the <em>lubuntu-"
+"restricted-extras</em> package."
+msgstr ""
+
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:35
-msgid "Tomboy Notes"
+#: slideshows/lubuntu/slides/04_media.html:23
+msgid "Audacious"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:28
+msgid "Gnome-Mplayer"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:36
+msgid "Exaile"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:41
+msgid "VLC media player"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/videos.html:1
-msgid "Videos with gnome-mplayer"
-msgstr "gnome-mplayer을 통한 영상 재생"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/videos.html:8
-msgid ""
-"Watch videos with <em>gnome-mplayer</em>, a fast video player using mplayer. "
-"Support for many formats is included."
+#: slideshows/lubuntu/slides/05_social.html:1
+msgid "Chat with your friends"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/videos.html:12
+#: slideshows/lubuntu/slides/05_social.html:8
 msgid ""
-"You can also obtain additional non-free support by installing the lubuntu-"
-"restricted-extras package."
-msgstr ""
-"또한 lubuntu-restricted-extras 패키지를 설치하여 비자유적인 부가 지원을 받을 "
-"수 있습니다."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/videos.html:16
-msgid ""
-"More information on <a href=\"http://sites.google.com/site/kdekorte2/"
-"gnomemplayer\">gnome-mplayer website</a>."
-msgstr ""
-"더 많은 정보는 <a href=\"http://sites.google.com/site/kdekorte2/gnomemplayer"
-"\">gnome-mplayer website</a>에서 확인하실 수 있습니다."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/videos.html:24
-msgid "Gnome-Mplayer videos player"
+"With <em>Pidgin</em>, you will be able to keep in touch with all your "
+"friends. It supports a wide range of chat services, such as Windows Live, "
+"Google Talk and Facebook."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/videos.html:31
-msgid "VLC videos player"
+#: slideshows/lubuntu/slides/05_social.html:16
+msgid "Pidgin"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/05_social.html:23
+msgid "Skype"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/05_social.html:28
+msgid "Empathy"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/welcome.html:1
-msgid "Welcome"
-msgstr "환영합니다."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/welcome.html:8
-msgid "Thank you for choosing Lubuntu 12.04."
+#: slideshows/lubuntu/slides/06_lsc.html:1
+msgid "Download software with ease"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/welcome.html:12
-msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
-msgstr "루분투는 쉽고 빠릅니다."
+#: slideshows/lubuntu/slides/06_lsc.html:8
+msgid ""
+"With Lubuntu, you have access to the whole Ubuntu repository and all the "
+"software included. This means that thousands of new applications are ready "
+"for your computer, free of charge. Use the <em>Lubuntu Software Center</em> "
+"and explore categories such as games, science and education, or search for "
+"your favorite software."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/07_help.html:1
+msgid "Need help?"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/07_help.html:8
+msgid ""
+"One of the biggest advantages with Lubuntu is the wonderful community that "
+"comes with it. Other users will gladly help you out if you encounter "
+"problems. There are many different ways to get help, the easiest way is to "
+"visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
+"the information you need."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/08_thanks.html:1
+msgid "Thank you for choosing Lubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/08_thanks.html:8
+msgid ""
+"The installation will finish soon. We hope you will enjoy Lubuntu and all "
+"the freedom that comes with it.  If you wish to help us improve Lubuntu, "
+"either by giving us feedback or by getting involved in the project, please "
+"visit our <a href=\"http://lubuntu.net/\">website</a>."
+msgstr ""
+
+#~ msgid "It's fast with a clean user interface."
+#~ msgstr "깔끔한 구성과 빠른 속도가 장점입니다."
+
+#~ msgid "Videos with gnome-mplayer"
+#~ msgstr "gnome-mplayer을 통한 영상 재생"
+
+#~ msgid ""
+#~ "Lubuntu is shipped with <em>Chromium</em>, the open-source version of "
+#~ "Chrome, a browser developed by Google."
+#~ msgstr ""
+#~ "루분투는 구글에서제작한 크롬의 오픈소스 버전, <em>크로미움</em>을 포함합니"
+#~ "다."
+
+#~ msgid "Abiword and Gnumeric"
+#~ msgstr "Abiword 와 Gnumeric"
+
+#~ msgid "Internet with Chromium"
+#~ msgstr "크로미움을 통한 인터넷"
+
+#~ msgid ""
+#~ "On the mailing list, subscribe on <a href=\"https://launchpad.net/"
+#~ "~lubuntu-desktop\">the page</a>."
+#~ msgstr ""
+#~ "<a href=\"https://launchpad.net/~lubuntu-desktop\">메일링 리스트</a>에 구"
+#~ "독하거나"
+
+#~ msgid "The installation will finish soon. We hope you enjoy Lubuntu."
+#~ msgstr "곧 설치가 완료됩니다. 루분투를 즐겨주세요."
+
+#~ msgid "Getting Help"
+#~ msgstr "도움 받기"
+
+#~ msgid "Based on LXDE Desktop"
+#~ msgstr "LXDE 데스크탑 기반"
+
+#~ msgid ""
+#~ "Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
+#~ "page</a>."
+#~ msgstr ""
+#~ "<a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">위키페이지</a>를 통"
+#~ "하거나"
+
+#~ msgid "On the IRC chan #lubuntu on irc.freenode.net."
+#~ msgstr "irc.freenode.net 의 #lubuntu 채널을 사용합니다."
+
+#~ msgid "Chatting with your friends"
+#~ msgstr "친구들과 대화하기"
+
+#~ msgid "Welcome"
+#~ msgstr "환영합니다."
+
+#~ msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
+#~ msgstr "루분투는 쉽고 빠릅니다."
+
+#~ msgid "Checking your emails"
+#~ msgstr "이메일 확인"
+
+#~ msgid ""
+#~ "You can also obtain additional non-free support by installing the lubuntu-"
+#~ "restricted-extras package."
+#~ msgstr ""
+#~ "또한 lubuntu-restricted-extras 패키지를 설치하여 비자유적인 부가 지원을 받"
+#~ "을 수 있습니다."
+
+#~ msgid ""
+#~ "More information on the <a href=\"http://sites.google.com/a/chromium.org/"
+#~ "dev/Home\">Chromium website</a>."
+#~ msgstr ""
+#~ "더 많은 정보를 원하시면 <a href=\"http://sites.google.com/a/chromium.org/"
+#~ "dev/Home\">Chromiun website</a>를 방문해 주십시오."
+
+#~ msgid ""
+#~ "Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing "
+#~ "and energy-saving desktop environment."
+#~ msgstr ""
+#~ "루분투는 처리 속도가 빠르고 에너지를 적게 사용하는 데스크톱 환경인 "
+#~ "<em>LXDE 데스크톱 환경</em>을 기반으로 하고 있습니다."
+
+#~ msgid ""
+#~ "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
+#~ msgstr ""
+#~ "더 많은 정보를 원하시면 <a href=\"http://lxde.org\">LXDE website</a>를 방"
+#~ "문해 주십시오."
+
+#~ msgid "With <em>Pidgin</em>, you will be able to chat with your friends."
+#~ msgstr "<em>Pidgin</em>을 사용해서 친구들과 채팅을 할 수 있습니다."
+
+#~ msgid ""
+#~ "More information on <a href=\"http://pidgin.im/\">Pidgin website</a>."
+#~ msgstr ""
+#~ "더 많은 정보를 원하시면 <a href=\"http://pidgin.im/\">Pidgin website</a>"
+#~ "를 방문해 주십시오."
+
+#~ msgid "You can search for software by clicking on the Search button."
+#~ msgstr "찾기 버튼을 이용해서 소프트웨어를 찾을 수 있습니다."
+
+#~ msgid ""
+#~ "With Lubuntu, you have access to the whole Ubuntu repository and all the "
+#~ "software included."
+#~ msgstr ""
+#~ "루분투를 사용하게 되면, 우분투 저장소와 그 안에 포함된 모든 소프트웨어에 "
+#~ "접근할 권한을 가지게 됩니다."
+
+#~ msgid ""
+#~ "More information on <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed "
+#~ "website</a>."
+#~ msgstr ""
+#~ "더 많은 정보를 원하시면 <a href=\"http://sylpheed.sraoss.jp/en/"
+#~ "\">Sylpheed website</a>를 방문해 주십시오."
+
+#~ msgid ""
+#~ "It will allow you to check your email messages, and read them even if you "
+#~ "are offline."
+#~ msgstr ""
+#~ "이 프로그램은 여러분이 오프라인 상태라 하더라도, 이메일 메시지를 확인하고 "
+#~ "읽을 수 있게 해 줍니다."
+
+#~ msgid "Lubuntu provides a mail client named <em>Sylpheed</em>."
+#~ msgstr "루분투는 <em>Sylpheed</em> 메일 클라이언트를 제공합니다."
+
+#~ msgid "If you need help, you can contact us:"
+#~ msgstr "도움을 필요로 하시면 연락하세요."
+
+#~ msgid ""
+#~ "More information on <a href=\"http://sites.google.com/site/kdekorte2/"
+#~ "gnomemplayer\">gnome-mplayer website</a>."
+#~ msgstr ""
+#~ "더 많은 정보는 <a href=\"http://sites.google.com/site/kdekorte2/"
+#~ "gnomemplayer\">gnome-mplayer website</a>에서 확인하실 수 있습니다."

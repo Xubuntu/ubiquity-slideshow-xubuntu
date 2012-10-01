@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2012-04-28 06:53+0000\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
+"PO-Revision-Date: 2012-09-26 19:28+0000\n"
 "Last-Translator: Yaron <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:37+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,9 +25,8 @@ msgstr "ברכות!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
-msgstr ""
-"בחרת להתקין את הגרסה האחרונה של זובונטו, 12.04 עם תמיכה לטווח ארוך (LTS)."
+msgid "You have chosen to install the latest version of Xubuntu, 12.10."
+msgstr "בחרת להתקין את הגרסה העדכנית ביותר של זובונטו, 12.10."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -76,7 +75,7 @@ msgstr ""
 #: slideshows/xubuntu/slides/01_web.html:10
 #: slideshows/xubuntu/slides/02_messaging.html:10
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:10
-#: slideshows/xubuntu/slides/04_office.html:10
+#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/06_explore.html:11
 msgid "Where?"
 msgstr "איפה?"
@@ -86,7 +85,6 @@ msgstr "איפה?"
 #: slideshows/xubuntu/slides/01_web.html:12
 #: slideshows/xubuntu/slides/02_messaging.html:11
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 #: slideshows/xubuntu/slides/06_explore.html:12
 #: slideshows/xubuntu/slides/06_explore.html:13
@@ -172,43 +170,45 @@ msgstr "gmusicbrowser"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_office.html:2
-msgid "Lighter alternatives"
-msgstr "חלופות קלילות יותר"
+msgid "In the office"
+msgstr "במשרד"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
 msgid ""
-"<em>Abiword</em> is a word processor, which can read almost all known "
-"document formats. <em>Gnumeric</em> is a spreadsheet program with an "
-"emphasis on accuracy."
+"For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+"word processor, which can read almost all known document formats."
 msgstr ""
-"<em>Abiword</em> הוא מעבד תמלילים שיכול לקרוא כמעט את כל סוגי המסמכים. "
-"<em>Gnumeric</em> הנה תכנית גיליון נתונים ששמה דגש על דיוק."
+"על מנת לענות על הצרכים המשרדיים שלך, יחד עם זובונטו מותקנת התכנית "
+"<em>Abiword</em>, מעבד תמלילים קליל שמסוגל לקרוא כמעט את כל סוגי קובצי "
+"המסמכים המוכרים."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
 msgid ""
-"While Abiword and Gnumeric are lightweight, they provide almost all of the "
-"functions of the LibreOffice suite."
+"If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
+"repositories."
 msgstr ""
-"למרות ש־Abiword ו־Gnumeric נחשבות לקלילות, הן מספקות כמעט את כל התכונות "
-"שמציעה חבילת LibreOffice."
+"אם יש לך צורך בעורך גיליונות מומלץ להתקין את <em>Gnumeric</em> מהמאגרים."
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_office.html:9
+msgid ""
+"LibreOffice is also available in the repositories, if you're more "
+"comfortable with it or need a full office suite."
+msgstr ""
+"גם LibreOffice זמינה במאגרים, אם החבילה הזאת יותר נוחה לך או שיש לך צורך "
+"בחבילה שלמה של כלים משרדיים."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Office <span>»</span>"
 msgstr "כלים משרדיים <span>«</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
+#: slideshows/xubuntu/slides/04_office.html:12
 msgid "Abiword"
 msgstr "Abiword"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:12
-msgid "Gnumeric"
-msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -328,3 +328,28 @@ msgid ""
 msgstr ""
 "ודבר אחרון חביב, ניתן לעיין בדרכים השונות לתרום לזובונטו באגף <a href="
 "\"http://xubuntu.org/devel\">מעורבות</a> באתר שלנו. נשמח לעזרתך!"
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
+#~ msgstr ""
+#~ "בחרת להתקין את הגרסה האחרונה של זובונטו, 12.04 עם תמיכה לטווח ארוך (LTS)."
+
+#~ msgid "Lighter alternatives"
+#~ msgstr "חלופות קלילות יותר"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid ""
+#~ "While Abiword and Gnumeric are lightweight, they provide almost all of "
+#~ "the functions of the LibreOffice suite."
+#~ msgstr ""
+#~ "למרות ש־Abiword ו־Gnumeric נחשבות לקלילות, הן מספקות כמעט את כל התכונות "
+#~ "שמציעה חבילת LibreOffice."
+
+#~ msgid ""
+#~ "<em>Abiword</em> is a word processor, which can read almost all known "
+#~ "document formats. <em>Gnumeric</em> is a spreadsheet program with an "
+#~ "emphasis on accuracy."
+#~ msgstr ""
+#~ "<em>Abiword</em> הוא מעבד תמלילים שיכול לקרוא כמעט את כל סוגי המסמכים. "
+#~ "<em>Gnumeric</em> הנה תכנית גיליון נתונים ששמה דגש על דיוק."

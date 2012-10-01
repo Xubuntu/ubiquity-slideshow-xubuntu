@@ -7,341 +7,440 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2012-03-29 22:19+0000\n"
-"Last-Translator: Valter Mura <valtermura@gmail.com>\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
+"PO-Revision-Date: 2012-09-30 08:06+0000\n"
+"Last-Translator: Claudio Arseni <claudio.arseni@ubuntu.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:37+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/browser.html:1
-msgid "Internet with Chromium"
-msgstr "Internet, con Chromium"
+#: slideshows/lubuntu/slides/00_welcome.html:1
+msgid "Welcome to Lubuntu 12.10"
+msgstr "Benvenuti in Lubuntu 12.10"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/browser.html:8
+#: slideshows/lubuntu/slides/00_welcome.html:8
 msgid ""
-"Lubuntu is shipped with <em>Chromium</em>, the open-source version of "
-"Chrome, a browser developed by Google."
+"Lubuntu is designed to be lightweight, easy and fast. Let's have a closer "
+"look!"
 msgstr ""
-"In Lubuntu è presente <em>Chromium</em>, la versione open source di Chrome, "
-"il browser sviluppato da Google."
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/01_lxde.html:1
+msgid "Built on a solid foundation"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/browser.html:12
-msgid "It's fast with a clean user interface."
-msgstr "È veloce e ha un'interfaccia semplice e intuitiva."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/browser.html:16
+#: slideshows/lubuntu/slides/01_lxde.html:8
 msgid ""
-"More information on the <a href=\"http://sites.google.com/a/chromium.org/dev/"
-"Home\">Chromium website</a>."
+"Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing and "
+"energy-saving desktop environment. LXDE has been proven to work well with "
+"both old and new computers, ensuring you a smooth desktop experience."
 msgstr ""
-"Maggiori informazioni sono disponibili sul <a href=\"http://sites.google.com/"
-"a/chromium.org/dev/Home\">sito web di Chromium</a>."
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/02_browser.html:1
+msgid "Browse the web"
+msgstr "Esplora il web"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/02_browser.html:8
+msgid ""
+"Browse the web with <em>Chromium</em>, the open-source version of Chrome, a "
+"web browser developed by Google. It's safe, stable, fast and even supports "
+"your favorite addons/extensions."
+msgstr ""
+"Esplora il web con <em>Chromium</em>, la versione open source di Chrome, il "
+"browser sviluppato da Google. È sicura, stabile, veloce e supporta tutti i "
+"componenti aggiuntivi e le estensioni."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/02_browser.html:12
+msgid ""
+"Did you know that Lubuntu has it's own Chrome extension available for free? "
+"Visit the <a href=\"https://chrome.google.com/webstore/detail/"
+"hemkkjpjknkkndhconammdhlhdkjclim\">Chrome Web Store</a> for more information."
+msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/lubuntu/slides/browser.html:20
-#: slideshows/lubuntu/slides/email.html:20
-#: slideshows/lubuntu/slides/im.html:20
-#: slideshows/lubuntu/slides/office.html:12
-#: slideshows/lubuntu/slides/videos.html:20
+#: slideshows/lubuntu/slides/02_browser.html:16
+#: slideshows/lubuntu/slides/03_office.html:12
+#: slideshows/lubuntu/slides/04_media.html:18
+#: slideshows/lubuntu/slides/05_social.html:12
 msgid "Included software"
 msgstr "Programmi inclusi"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/browser.html:24
-msgid "Chromium web browser"
-msgstr "Browser web Chromium"
+#: slideshows/lubuntu/slides/02_browser.html:20
+msgid "Chromium"
+msgstr "Chromium"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/lubuntu/slides/browser.html:27
-#: slideshows/lubuntu/slides/email.html:27
-#: slideshows/lubuntu/slides/im.html:27
-#: slideshows/lubuntu/slides/office.html:27
-#: slideshows/lubuntu/slides/videos.html:27
+#: slideshows/lubuntu/slides/02_browser.html:23
+#: slideshows/lubuntu/slides/03_office.html:23
+#: slideshows/lubuntu/slides/04_media.html:32
+#: slideshows/lubuntu/slides/05_social.html:19
 msgid "Supported software"
 msgstr "Programmi supportati"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/browser.html:31
-msgid "Firefox web browser"
-msgstr "Browser web Firefox"
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/email.html:1
-msgid "Checking your emails"
-msgstr "Controlla la posta elettronica"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/email.html:8
-msgid "Lubuntu provides a mail client named <em>Sylpheed</em>."
-msgstr ""
-"Lubuntu offre un programma di posta elettronica chiamato <em>Sylpheed</em>."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/email.html:12
-msgid ""
-"It will allow you to check your email messages, and read them even if you "
-"are offline."
-msgstr ""
-"Esso ti permette di controllare e leggere i tuoi messaggi di posta "
-"elettronica,  anche se non sei connesso."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/email.html:16
-msgid ""
-"More information on <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed "
-"website</a>."
-msgstr ""
-"Ulteriori informazioni sono disponibili nel <a href=\"http://sylpheed.sraoss."
-"jp/en/\">sito web di Sylpheed</a>."
+#: slideshows/lubuntu/slides/02_browser.html:27
+msgid "Flash"
+msgstr "Flash"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/email.html:24
-msgid "Sylpheed"
-msgstr "Sylpheed"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/email.html:31
-msgid "Thunderbird mail client"
-msgstr "Client di posta Thunderbird"
+#: slideshows/lubuntu/slides/02_browser.html:32
+msgid "Firefox"
+msgstr "Firefox"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/help.html:1
-msgid "Getting Help"
-msgstr "Ottenere aiuto"
+#: slideshows/lubuntu/slides/03_office.html:1
+msgid "Create and edit documents"
+msgstr "Crea e modifica documenti"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/help.html:8
-msgid "If you need help, you can contact us:"
-msgstr "Se hai bisogno di aiuto, contattaci:"
-
-#.  The url should not be translated 
-#. type: Content of: <div><div><div><li>
-#: slideshows/lubuntu/slides/help.html:12
+#: slideshows/lubuntu/slides/03_office.html:8
 msgid ""
-"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki page</"
-"a>."
+"Use <em>Abiword</em> and <em>Gnumeric</em>, lightweight alternatives for "
+"LibreOffice, to create documents and spreadsheets. Both applications provide "
+"support for industry standard document types and will allow you to "
+"collaborate on documents written by colleagues, friends or family."
 msgstr ""
-"tramite la <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">pagina "
-"wiki</a>"
-
-#. type: Content of: <div><div><div><li>
-#: slideshows/lubuntu/slides/help.html:16
-msgid ""
-"On the mailing list, subscribe on <a href=\"https://launchpad.net/~lubuntu-"
-"desktop\">the page</a>."
-msgstr ""
-"tramite la mailing list, iscrivendoti da <a href=\"https://launchpad.net/"
-"~lubuntu-desktop\">questa pagina</a>"
-
-#. type: Content of: <div><div><div><li>
-#: slideshows/lubuntu/slides/help.html:20
-msgid "On the IRC chan #lubuntu on irc.freenode.net."
-msgstr "nel canale IRC #lubuntu su irc.freenode.net"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/help.html:24
-msgid "The installation will finish soon. We hope you enjoy Lubuntu."
-msgstr ""
-"L'installazione sta per concludersi. Ci auguriamo che Lubuntu sia di tuo "
-"gradimento."
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/im.html:1
-msgid "Chatting with your friends"
-msgstr "Conversare con gli amici"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/im.html:8
-msgid "With <em>Pidgin</em>, you will be able to chat with your friends."
-msgstr "Potrai conversare con i tuoi amici tramite <em>Pidgin</em>."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/im.html:12
-msgid ""
-"Go to the menu, and click on Pidgin icon to connect to many services, such "
-"as Jabber, Google Talk or Windows Live."
-msgstr ""
-"Apri il menù e fai clic sull'icona di Pidgin per accedere a vari servizi "
-"come Jabber, Google Talk o Windows Live."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/im.html:16
-msgid "More information on <a href=\"http://pidgin.im/\">Pidgin website</a>."
-msgstr ""
-"Ulteriori informazioni sono disponibili nel <a href=\"http://pidgin.im"
-"\">sito web di Pidgin</a>."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/im.html:24
-msgid "Pidgin"
-msgstr "Pidgin"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/im.html:31
-msgid "Empathy IM"
-msgstr "Messaggistica Empathy"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/im.html:35
-msgid "Skype"
-msgstr "Skype"
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/install.html:1
-msgid "Install software"
-msgstr "Installa software"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/install.html:8
-msgid ""
-"With Lubuntu, you have access to the whole Ubuntu repository and all the "
-"software included."
-msgstr ""
-"Con Lubuntu puoi accedere all'intero repository di Ubuntu e a tutto il "
-"software in esso incluso."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/install.html:12
-msgid ""
-"Go to the menu, click on System Tools and <em>Synaptic Software Manager</em>."
-msgstr ""
-"Vai al menù e fai clic su Strumenti di sistema, quindi seleziona <em>Gestore "
-"pacchetti Synaptic</em>."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/install.html:16
-msgid "You can search for software by clicking on the Search button."
-msgstr "Puoi ricercare il software tramite il pulsante Cerca."
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/lxde.html:1
-msgid "Based on LXDE Desktop"
-msgstr "Basato sul desktop LXDE"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/lxde.html:8
-msgid ""
-"Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing and "
-"energy-saving desktop environment."
-msgstr ""
-"Lubuntu è basato su <em>LXDE Desktop Environment</em>, un ambiente desktop "
-"caratterizzato da alte prestazioni e bassi consumi."
-
-#.  The url "lxde.org" should not be translated 
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/lxde.html:12
-msgid "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
-msgstr ""
-"Ulteriori informazioni sono disponibili nel <a href=\"http://lxde.org\">sito "
-"web di LXDE</a>."
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/office.html:1
-msgid "Abiword and Gnumeric"
-msgstr "Abiword e Gnumeric"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/office.html:8
-msgid ""
-"Use <em>Abiword and Gnumeric</em>, lightweight alternatives for LibreOffice, "
-"and create letters, spreadsheets, etc. Information on <a href=\"http://www."
-"abisource.com/\">Abiword</a> and <a href=\"http://projects.gnome.org/"
-"gnumeric/\">Gnumeric</a> websites."
-msgstr ""
-"Usa <em>Abiword e Gnumeric</em>, alternative a LibreOffice, e crea lettere, "
-"fogli di calcolo, ecc. Puoi trovare maggiori informazioni nei siti di <a "
-"href=\"http://www.abisource.com/\">Abiword</a> e <a href=\"http://projects."
-"gnome.org/gnumeric/\">Gnumeric</a>."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:16
+#: slideshows/lubuntu/slides/03_office.html:16
 msgid "Abiword"
 msgstr "Abiword"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:20
+#: slideshows/lubuntu/slides/03_office.html:20
 msgid "Gnumeric"
 msgstr "Gnumeric"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:24
-msgid "Xpad Notes"
-msgstr "Xpad Notes"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:31
+#: slideshows/lubuntu/slides/03_office.html:27
 msgid "LibreOffice"
 msgstr "LibreOffice"
 
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/04_media.html:1
+msgid "Enjoy your music and videos"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/04_media.html:10
+msgid ""
+"Listen to your favorite music with <em>Audacious</em>, a simple but powerful "
+"audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
+"video player powered by mplayer with support for many formats."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/04_media.html:14
+msgid ""
+"You can also obtain additional codec support by installing the <em>lubuntu-"
+"restricted-extras</em> package."
+msgstr ""
+"È inoltre possibile ottenere il supporto per altri codec installando il "
+"pacchetto <em>lubuntu-restricted-extras</em>."
+
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:35
-msgid "Tomboy Notes"
-msgstr "Note Tomboy"
+#: slideshows/lubuntu/slides/04_media.html:23
+msgid "Audacious"
+msgstr "Audacious"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:28
+msgid "Gnome-Mplayer"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:36
+msgid "Exaile"
+msgstr "Exaile"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:41
+msgid "VLC media player"
+msgstr "Lettore multimediale VLC"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/videos.html:1
-msgid "Videos with gnome-mplayer"
-msgstr "Video con Gnome-mplayer"
+#: slideshows/lubuntu/slides/05_social.html:1
+msgid "Chat with your friends"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/videos.html:8
+#: slideshows/lubuntu/slides/05_social.html:8
 msgid ""
-"Watch videos with <em>gnome-mplayer</em>, a fast video player using mplayer. "
-"Support for many formats is included."
+"With <em>Pidgin</em>, you will be able to keep in touch with all your "
+"friends. It supports a wide range of chat services, such as Windows Live, "
+"Google Talk and Facebook."
 msgstr ""
-"Guarda i video con <em>gnome-mplayer</em>, un riproduttore video basato su "
-"mplayer con supporto per molti formati video."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/videos.html:12
-msgid ""
-"You can also obtain additional non-free support by installing the lubuntu-"
-"restricted-extras package."
-msgstr ""
-"Installando il pacchetto «lubuntu-restricted-extras» potrai ottenere "
-"ulteriore software non ufficialmente supportato."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/videos.html:16
-msgid ""
-"More information on <a href=\"http://sites.google.com/site/kdekorte2/"
-"gnomemplayer\">gnome-mplayer website</a>."
-msgstr ""
-"Puoi trovare maggiori informazioni sul <a href=\"http://sites.google.com/"
-"site/kdekorte2/gnomemplayer\">sito web di gnome-mplayer</a>."
+"Con <em>Pidgin</em>, potrai restare in contatto con i tuoi amici. Offre il "
+"supporto con molti servizi di chat, come Windows Live, Google Talk e "
+"Facebook."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/videos.html:24
-msgid "Gnome-Mplayer videos player"
-msgstr "Riproduttore video Gnome-Mplayer"
+#: slideshows/lubuntu/slides/05_social.html:16
+msgid "Pidgin"
+msgstr "Pidgin"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/videos.html:31
-msgid "VLC videos player"
-msgstr "Riproduttore video VLC"
+#: slideshows/lubuntu/slides/05_social.html:23
+msgid "Skype"
+msgstr "Skype"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/05_social.html:28
+msgid "Empathy"
+msgstr "Empathy"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/welcome.html:1
-msgid "Welcome"
-msgstr "Benvenuto"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/welcome.html:8
-msgid "Thank you for choosing Lubuntu 12.04."
-msgstr "Grazie per aver scelto Lubuntu 12.04."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/welcome.html:12
-msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
+#: slideshows/lubuntu/slides/06_lsc.html:1
+msgid "Download software with ease"
 msgstr ""
-"Lubuntu è stato progettato per essere veloce e intuitivo. Sentiti libero di "
-"esplorarlo!"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/06_lsc.html:8
+msgid ""
+"With Lubuntu, you have access to the whole Ubuntu repository and all the "
+"software included. This means that thousands of new applications are ready "
+"for your computer, free of charge. Use the <em>Lubuntu Software Center</em> "
+"and explore categories such as games, science and education, or search for "
+"your favorite software."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/07_help.html:1
+msgid "Need help?"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/07_help.html:8
+msgid ""
+"One of the biggest advantages with Lubuntu is the wonderful community that "
+"comes with it. Other users will gladly help you out if you encounter "
+"problems. There are many different ways to get help, the easiest way is to "
+"visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
+"the information you need."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/08_thanks.html:1
+msgid "Thank you for choosing Lubuntu"
+msgstr "Grazie per aver scelto Lubuntu"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/08_thanks.html:8
+msgid ""
+"The installation will finish soon. We hope you will enjoy Lubuntu and all "
+"the freedom that comes with it.  If you wish to help us improve Lubuntu, "
+"either by giving us feedback or by getting involved in the project, please "
+"visit our <a href=\"http://lubuntu.net/\">website</a>."
+msgstr ""
+
+#~ msgid "Videos with gnome-mplayer"
+#~ msgstr "Video con Gnome-mplayer"
+
+#~ msgid "Abiword and Gnumeric"
+#~ msgstr "Abiword e Gnumeric"
+
+#~ msgid "Internet with Chromium"
+#~ msgstr "Internet, con Chromium"
+
+#~ msgid "Welcome"
+#~ msgstr "Benvenuto"
+
+#~ msgid ""
+#~ "More information on the <a href=\"http://sites.google.com/a/chromium.org/"
+#~ "dev/Home\">Chromium website</a>."
+#~ msgstr ""
+#~ "Maggiori informazioni sono disponibili sul <a href=\"http://sites.google."
+#~ "com/a/chromium.org/dev/Home\">sito web di Chromium</a>."
+
+#~ msgid "It's fast with a clean user interface."
+#~ msgstr "È veloce e ha un'interfaccia semplice e intuitiva."
+
+#~ msgid ""
+#~ "Lubuntu is shipped with <em>Chromium</em>, the open-source version of "
+#~ "Chrome, a browser developed by Google."
+#~ msgstr ""
+#~ "In Lubuntu è presente <em>Chromium</em>, la versione open source di "
+#~ "Chrome, il browser sviluppato da Google."
+
+#~ msgid "Getting Help"
+#~ msgstr "Ottenere aiuto"
+
+#~ msgid "Based on LXDE Desktop"
+#~ msgstr "Basato sul desktop LXDE"
+
+#~ msgid ""
+#~ "More information on <a href=\"http://pidgin.im/\">Pidgin website</a>."
+#~ msgstr ""
+#~ "Ulteriori informazioni sono disponibili nel <a href=\"http://pidgin.im"
+#~ "\">sito web di Pidgin</a>."
+
+#~ msgid ""
+#~ "Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing "
+#~ "and energy-saving desktop environment."
+#~ msgstr ""
+#~ "Lubuntu è basato su <em>LXDE Desktop Environment</em>, un ambiente "
+#~ "desktop caratterizzato da alte prestazioni e bassi consumi."
+
+#~ msgid ""
+#~ "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
+#~ msgstr ""
+#~ "Ulteriori informazioni sono disponibili nel <a href=\"http://lxde.org"
+#~ "\">sito web di LXDE</a>."
+
+#~ msgid "Chatting with your friends"
+#~ msgstr "Conversare con gli amici"
+
+#~ msgid "Lubuntu provides a mail client named <em>Sylpheed</em>."
+#~ msgstr ""
+#~ "Lubuntu offre un programma di posta elettronica chiamato <em>Sylpheed</"
+#~ "em>."
+
+#~ msgid ""
+#~ "More information on <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed "
+#~ "website</a>."
+#~ msgstr ""
+#~ "Ulteriori informazioni sono disponibili nel <a href=\"http://sylpheed."
+#~ "sraoss.jp/en/\">sito web di Sylpheed</a>."
+
+#~ msgid "On the IRC chan #lubuntu on irc.freenode.net."
+#~ msgstr "nel canale IRC #lubuntu su irc.freenode.net"
+
+#~ msgid ""
+#~ "Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
+#~ "page</a>."
+#~ msgstr ""
+#~ "tramite la <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">pagina "
+#~ "wiki</a>"
+
+#~ msgid ""
+#~ "On the mailing list, subscribe on <a href=\"https://launchpad.net/"
+#~ "~lubuntu-desktop\">the page</a>."
+#~ msgstr ""
+#~ "tramite la mailing list, iscrivendoti da <a href=\"https://launchpad.net/"
+#~ "~lubuntu-desktop\">questa pagina</a>"
+
+#~ msgid "The installation will finish soon. We hope you enjoy Lubuntu."
+#~ msgstr ""
+#~ "L'installazione sta per concludersi. Ci auguriamo che Lubuntu sia di tuo "
+#~ "gradimento."
+
+#~ msgid ""
+#~ "You can also obtain additional non-free support by installing the lubuntu-"
+#~ "restricted-extras package."
+#~ msgstr ""
+#~ "Installando il pacchetto «lubuntu-restricted-extras» potrai ottenere "
+#~ "ulteriore software non ufficialmente supportato."
+
+#~ msgid ""
+#~ "It will allow you to check your email messages, and read them even if you "
+#~ "are offline."
+#~ msgstr ""
+#~ "Esso ti permette di controllare e leggere i tuoi messaggi di posta "
+#~ "elettronica,  anche se non sei connesso."
+
+#~ msgid "With <em>Pidgin</em>, you will be able to chat with your friends."
+#~ msgstr "Potrai conversare con i tuoi amici tramite <em>Pidgin</em>."
+
+#~ msgid "You can search for software by clicking on the Search button."
+#~ msgstr "Puoi ricercare il software tramite il pulsante Cerca."
+
+#~ msgid ""
+#~ "With Lubuntu, you have access to the whole Ubuntu repository and all the "
+#~ "software included."
+#~ msgstr ""
+#~ "Con Lubuntu puoi accedere all'intero repository di Ubuntu e a tutto il "
+#~ "software in esso incluso."
+
+#~ msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
+#~ msgstr ""
+#~ "Lubuntu è stato progettato per essere veloce e intuitivo. Sentiti libero "
+#~ "di esplorarlo!"
+
+#~ msgid "Empathy IM"
+#~ msgstr "Messaggistica Empathy"
+
+#~ msgid "If you need help, you can contact us:"
+#~ msgstr "Se hai bisogno di aiuto, contattaci:"
+
+#~ msgid "Chromium web browser"
+#~ msgstr "Browser web Chromium"
+
+#~ msgid "Firefox web browser"
+#~ msgstr "Browser web Firefox"
+
+#~ msgid "Sylpheed"
+#~ msgstr "Sylpheed"
+
+#~ msgid "Tomboy Notes"
+#~ msgstr "Note Tomboy"
+
+#~ msgid "Gnome-Mplayer videos player"
+#~ msgstr "Riproduttore video Gnome-Mplayer"
+
+#~ msgid "VLC videos player"
+#~ msgstr "Riproduttore video VLC"
+
+#~ msgid "Xpad Notes"
+#~ msgstr "Xpad Notes"
+
+#~ msgid "Install software"
+#~ msgstr "Installa software"
+
+#~ msgid ""
+#~ "Use <em>Abiword and Gnumeric</em>, lightweight alternatives for "
+#~ "LibreOffice, and create letters, spreadsheets, etc. Information on <a "
+#~ "href=\"http://www.abisource.com/\">Abiword</a> and <a href=\"http://"
+#~ "projects.gnome.org/gnumeric/\">Gnumeric</a> websites."
+#~ msgstr ""
+#~ "Usa <em>Abiword e Gnumeric</em>, alternative a LibreOffice, e crea "
+#~ "lettere, fogli di calcolo, ecc. Puoi trovare maggiori informazioni nei "
+#~ "siti di <a href=\"http://www.abisource.com/\">Abiword</a> e <a href="
+#~ "\"http://projects.gnome.org/gnumeric/\">Gnumeric</a>."
+
+#~ msgid ""
+#~ "Go to the menu, and click on Pidgin icon to connect to many services, "
+#~ "such as Jabber, Google Talk or Windows Live."
+#~ msgstr ""
+#~ "Apri il menù e fai clic sull'icona di Pidgin per accedere a vari servizi "
+#~ "come Jabber, Google Talk o Windows Live."
+
+#~ msgid ""
+#~ "More information on <a href=\"http://sites.google.com/site/kdekorte2/"
+#~ "gnomemplayer\">gnome-mplayer website</a>."
+#~ msgstr ""
+#~ "Puoi trovare maggiori informazioni sul <a href=\"http://sites.google.com/"
+#~ "site/kdekorte2/gnomemplayer\">sito web di gnome-mplayer</a>."
+
+#~ msgid ""
+#~ "Watch videos with <em>gnome-mplayer</em>, a fast video player using "
+#~ "mplayer. Support for many formats is included."
+#~ msgstr ""
+#~ "Guarda i video con <em>gnome-mplayer</em>, un riproduttore video basato "
+#~ "su mplayer con supporto per molti formati video."
+
+#~ msgid "Checking your emails"
+#~ msgstr "Controlla la posta elettronica"
+
+#~ msgid "Thank you for choosing Lubuntu 12.04."
+#~ msgstr "Grazie per aver scelto Lubuntu 12.04."
+
+#~ msgid "Thunderbird mail client"
+#~ msgstr "Client di posta Thunderbird"
+
+#~ msgid ""
+#~ "Go to the menu, click on System Tools and <em>Synaptic Software Manager</"
+#~ "em>."
+#~ msgstr ""
+#~ "Vai al menù e fai clic su Strumenti di sistema, quindi seleziona "
+#~ "<em>Gestore pacchetti Synaptic</em>."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
 "PO-Revision-Date: 2012-04-08 11:03+0000\n"
 "Last-Translator: Carlos Gong <Unknown>\n"
 "Language-Team: Chinese (Simplified) <i18n-zh@googlegroups.com>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:37+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 "X-Poedit-Language: zh_CN\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -27,8 +27,8 @@ msgstr "欢迎使用"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
-msgstr "感谢您选择 Xubuntu 12.04 LTS"
+msgid "You have chosen to install the latest version of Xubuntu, 12.10."
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -72,7 +72,7 @@ msgstr ""
 #: slideshows/xubuntu/slides/01_web.html:10
 #: slideshows/xubuntu/slides/02_messaging.html:10
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:10
-#: slideshows/xubuntu/slides/04_office.html:10
+#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/06_explore.html:11
 msgid "Where?"
 msgstr "软件位置"
@@ -82,7 +82,6 @@ msgstr "软件位置"
 #: slideshows/xubuntu/slides/01_web.html:12
 #: slideshows/xubuntu/slides/02_messaging.html:11
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 #: slideshows/xubuntu/slides/06_explore.html:12
 #: slideshows/xubuntu/slides/06_explore.html:13
@@ -165,43 +164,39 @@ msgstr "gmusicbrowser"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_office.html:2
-msgid "Lighter alternatives"
-msgstr "轻量级办公选择"
+msgid "In the office"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
 msgid ""
-"<em>Abiword</em> is a word processor, which can read almost all known "
-"document formats. <em>Gnumeric</em> is a spreadsheet program with an "
-"emphasis on accuracy."
+"For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+"word processor, which can read almost all known document formats."
 msgstr ""
-"Xubuntu 中预装的 <em>Abiword</em> 文字处理软件支持几乎所有文档格式。"
-"<em>Gnumeric</em> 是一个精确可靠的电子表格程序。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
 msgid ""
-"While Abiword and Gnumeric are lightweight, they provide almost all of the "
-"functions of the LibreOffice suite."
+"If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
+"repositories."
 msgstr ""
-"简洁轻量的 Abiword 和 Gnumeric 提供了 LibreOffice 几乎所有的功能，足以满足您"
-"日常的办公需求。"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_office.html:9
+msgid ""
+"LibreOffice is also available in the repositories, if you're more "
+"comfortable with it or need a full office suite."
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Office <span>»</span>"
 msgstr "办公 <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
+#: slideshows/xubuntu/slides/04_office.html:12
 msgid "Abiword"
 msgstr "Abiword"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:12
-msgid "Gnumeric"
-msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -320,3 +315,27 @@ msgid ""
 msgstr ""
 "最后，您可以在 <a href=\"http://xubuntu.org/devel\">我们的官网</a> 找到为 "
 "Xubuntu 作贡献的各种途径。我们需要您的帮助！"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
+#~ msgstr "感谢您选择 Xubuntu 12.04 LTS"
+
+#~ msgid "Lighter alternatives"
+#~ msgstr "轻量级办公选择"
+
+#~ msgid ""
+#~ "<em>Abiword</em> is a word processor, which can read almost all known "
+#~ "document formats. <em>Gnumeric</em> is a spreadsheet program with an "
+#~ "emphasis on accuracy."
+#~ msgstr ""
+#~ "Xubuntu 中预装的 <em>Abiword</em> 文字处理软件支持几乎所有文档格式。"
+#~ "<em>Gnumeric</em> 是一个精确可靠的电子表格程序。"
+
+#~ msgid ""
+#~ "While Abiword and Gnumeric are lightweight, they provide almost all of "
+#~ "the functions of the LibreOffice suite."
+#~ msgstr ""
+#~ "简洁轻量的 Abiword 和 Gnumeric 提供了 LibreOffice 几乎所有的功能，足以满足"
+#~ "您日常的办公需求。"

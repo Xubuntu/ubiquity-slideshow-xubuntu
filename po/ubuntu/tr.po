@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2012-04-26 15:52+0000\n"
-"Last-Translator: kulkke <Unknown>\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
+"PO-Revision-Date: 2012-09-27 15:41+0000\n"
+"Last-Translator: onur uluturhan <onur@uluturhan.com>\n"
 "Language-Team: Turkish <tr@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:36+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -58,21 +58,17 @@ msgstr "Dil desteği"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
-msgid "Browse the web"
-msgstr "Genelağda gezinin"
+msgid "Make the most of the web"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
-"use and it’s backed by a non-profit foundation that loves the web. If you "
-"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
-"Software Center."
+"Ubuntu includes Firefox, the web browser used by millions of people around "
+"the world. And web applications you use frequently (like Facebook or Gmail, "
+"for example) can be pinned to your desktop for faster access, just like apps "
+"on your computer."
 msgstr ""
-"Ubuntu, genelağda hızlı ve güvenli bir gezinme için Mozilla Firefox'u "
-"içerir. Kullanması kolaydır ve kâr amacı gütmeyen ve genelağı seven bir "
-"kuruluş tarafından desteklenir. Firefox taraftarı değilseniz Ubuntu Yazılım "
-"Merkezi'nde birçok ek seçenek bulunmaktadır."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -110,12 +106,13 @@ msgstr "Herhangi bir sorunuz var mı?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
+#, fuzzy
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
-"to get an answer about Ubuntu. With most questions already answered, and "
-"thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, you can get commercial support and more "
-"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
+"all your Ubuntu questions. There’s a good chance your question will have "
+"been answered already and, if not, you’ll find thousands of volunteers eager "
+"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
+"support\">ubuntu.com/support</a>."
 msgstr ""
 "Ubuntu ile ilgili yanıt alabileceğiniz en uygun yer olan <a href=\"http://"
 "askubuntu.com/\">Ubuntu'ya Sor</a>'a göz atın. Daha önceden yanıtlanmış "
@@ -142,22 +139,13 @@ msgstr "Kendi kişisel bulutunuz"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/mobilise.html:8
 msgid ""
-"An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> account "
-"gives you 5GB of cloud storage, so you can store and sync your files and "
-"photos across devices and access them wherever you are in the world. Easily "
-"share them with friends, family and colleagues. Take a photo on your mobile "
-"phone and immediately see it on your desktop, or add <a href=\"https://one."
-"ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
-"music on the move."
+"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> gives you "
+"5GB of free cloud storage to access your files, share your photos and <a "
+"href=\"https://one.ubuntu.com/services/music/\">stream your music</a> to "
+"your computers, tablets and smartphones. Any photo you take appears on all "
+"your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
+"Mac, Android, iOS and the web."
 msgstr ""
-"Bir <a href=\"https://one.ubuntu.com/services/\">Ücretsiz Ubuntu One</a> "
-"hesabı size 5 GB depolama alanı sağlar. Bu sayede dosyalarınızı ve "
-"fotoğraflarınızı depolayabilir, dünyanın neresinde olursanız olun onlara "
-"erişebilir, onları kolayca arkadaşlarınızla paylaşabilir ve farklı "
-"cihazlarla eşitleyebilirsiniz. Cep telefonunuzla bir fotoğraf çekin ve "
-"fotoğrafı anında masaüstünüzde görün ya da mobil <a href=\"https://one."
-"ubuntu.com/services/music/\">Müzik Akışı</a> ile hareket halindeyken de "
-"müziğin tadını çıkarın."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:1
@@ -262,10 +250,11 @@ msgstr "Bağlantıyı koparmayın"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/social.html:8
+#, fuzzy
 msgid ""
-"The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
-"messages from all applications and social networks. See at a glance when "
-"there’s something new to read, regardless how it arrived."
+"The messaging menu gives you an eagle-eye view of incoming messages from all "
+"applications and social networks. So you can see straight away when there’s "
+"something new to read, regardless of how it arrived."
 msgstr ""
 "Ubuntu İleti Göstergesi, tüm uygulamalardan ve sosyal ağlardan gelen "
 "iletilere kolayca erişmenizi sağlar. Gelen ileti ne olursa olsun bir bakışta "
@@ -299,29 +288,71 @@ msgstr "Daha fazla yazılım edinin"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"The Ubuntu Software Center has thousands of new applications ready for your "
-"computer. Just type what you want or explore the categories like games, "
-"science, and education. It is easy to download new stuff and write reviews "
-"to share your experiences."
+"Say goodbye to searching the web for new software. With Ubuntu Software "
+"Center, you can find and install new apps with ease. Just type in what "
+"you’re looking for, or explore categories such as Science, Education and "
+"Games, alongside helpful reviews from other users."
 msgstr ""
-"Ubuntu Yazılım Merkezi'nde bilgisayarınız için hazır binlerce yeni uygulama "
-"var. İstediğiniz uygulamanın adını yazın ya da oyunlar, bilim ve eğitim gibi "
-"bölümler arasında gezinin. Uygulama indirmek ve deneyimlerinizi paylaşmak "
-"son derece kolaydır."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 12.04 LTS"
-msgstr "Ubuntu 12.04 LTS (Uzun Süreli Destek) sürümüne hoş geldiniz"
+msgid "Welcome to Ubuntu 12.10"
+msgstr "Ubuntu 12.10'a hoşgeldiniz"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"Fast and feature-packed, Ubuntu makes your PC a delight to use. And with the "
-"latest version of the Unity interface, it's now easier than ever. Here are a "
-"few more cool new things to look out for."
+"Fast and full of new features, the latest version of Ubuntu makes computing "
+"easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
 "Hızlı olması ve bir bilgisayarda olması gereken yazılımları barındırması "
 "nedeniyle Ubuntu bilgisayar kullanımını bir zevke dönüştürür. Unity "
 "arayüzünün son sürümüyle her şey artık daha kolay. Karşınızda bahsedilmesi "
 "gereken göz alıcı özelliklerden bazıları."
+
+#~ msgid "Browse the web"
+#~ msgstr "Genelağda gezinin"
+
+#~ msgid ""
+#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
+#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
+#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
+#~ "Ubuntu Software Center."
+#~ msgstr ""
+#~ "Ubuntu, genelağda hızlı ve güvenli bir gezinme için Mozilla Firefox'u "
+#~ "içerir. Kullanması kolaydır ve kâr amacı gütmeyen ve genelağı seven bir "
+#~ "kuruluş tarafından desteklenir. Firefox taraftarı değilseniz Ubuntu "
+#~ "Yazılım Merkezi'nde birçok ek seçenek bulunmaktadır."
+
+#~ msgid ""
+#~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
+#~ "account gives you 5GB of cloud storage, so you can store and sync your "
+#~ "files and photos across devices and access them wherever you are in the "
+#~ "world. Easily share them with friends, family and colleagues. Take a "
+#~ "photo on your mobile phone and immediately see it on your desktop, or add "
+#~ "<a href=\"https://one.ubuntu.com/services/music/\">Music Streaming</a> "
+#~ "for mobile to enjoy your music on the move."
+#~ msgstr ""
+#~ "Bir <a href=\"https://one.ubuntu.com/services/\">Ücretsiz Ubuntu One</a> "
+#~ "hesabı size 5 GB depolama alanı sağlar. Bu sayede dosyalarınızı ve "
+#~ "fotoğraflarınızı depolayabilir, dünyanın neresinde olursanız olun onlara "
+#~ "erişebilir, onları kolayca arkadaşlarınızla paylaşabilir ve farklı "
+#~ "cihazlarla eşitleyebilirsiniz. Cep telefonunuzla bir fotoğraf çekin ve "
+#~ "fotoğrafı anında masaüstünüzde görün ya da mobil <a href=\"https://one."
+#~ "ubuntu.com/services/music/\">Müzik Akışı</a> ile hareket halindeyken de "
+#~ "müziğin tadını çıkarın."
+
+#~ msgid ""
+#~ "The Ubuntu Software Center has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is easy to download new stuff and write "
+#~ "reviews to share your experiences."
+#~ msgstr ""
+#~ "Ubuntu Yazılım Merkezi'nde bilgisayarınız için hazır binlerce yeni "
+#~ "uygulama var. İstediğiniz uygulamanın adını yazın ya da oyunlar, bilim ve "
+#~ "eğitim gibi bölümler arasında gezinin. Uygulama indirmek ve "
+#~ "deneyimlerinizi paylaşmak son derece kolaydır."
+
+#~ msgid "Welcome to Ubuntu 12.04 LTS"
+#~ msgstr "Ubuntu 12.04 LTS (Uzun Süreli Destek) sürümüne hoş geldiniz"

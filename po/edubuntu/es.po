@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2012-03-16 04:34+0000\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
+"PO-Revision-Date: 2012-09-25 16:27+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:20+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:36+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -88,11 +88,11 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:8
 msgid ""
-"Integrates with file manager allowing safe execution with a few simple "
-"clicks."
+"<em>Arkose</em> is based on the popular LXC project, making use of advanced "
+"Linux containers capabilities."
 msgstr ""
-"Integrado con el gestor de archivos, permite una ejecución segura con unas "
-"pocas pulsaciones."
+"<em>Arkose</em> está basado en el popular proyecto LXC, haciendo uso de "
+"capacidades avanzadas de contención en Linux."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
@@ -557,11 +557,11 @@ msgstr "Edubuntu trae <em>LTSP</em>, Linux Terminal Server Project."
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:7
 msgid ""
-"You can try out a demo by launching LTSP Live from the Applications -> Other "
-"menu from within this live environment."
+"You can try out a demo from this live environment by clicking on the LTSP "
+"Live icon in the launcher."
 msgstr ""
-"Puede probar una demostración lanzando LSTP Live desde el menú Aplicaciones -"
-"> Otros"
+"Puede probar un demo desde este entorno «live» pulsando en el icono de LTSP "
+"Live en el lanzador."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:8
@@ -729,8 +729,8 @@ msgstr "Bienvenido/a y gracias"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 12.04 LTS."
-msgstr "Gracias por probar lo que vendrá con Edubuntu 12.04 LTS."
+msgid "Thank you for testing what will become Edubuntu 12.10."
+msgstr "Gracias por probar lo que será Edubuntu 12.10."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:7
@@ -858,21 +858,21 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 3.2 boosts performance and hardware support."
-msgstr "Linux 3.2 aumenta el rendimiento y la compatibilidad de hardware."
+msgid "Linux 3.5 boosts performance and hardware support."
+msgstr "Linux 3.5 aumenta el rendimiento y la compatibilidad de hardware."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid ""
-"Xorg 1.11, Mesa 8.0.1 and Compiz delivers breathtaking graphics support."
+msgid "Xorg 1.13, Mesa and Compiz delivers excellent graphics support."
 msgstr ""
-"Xorg 1.11, Mesa 8.0.1 y Compiz ofrecen compatibilidad con gráficos "
-"impresionantes."
+"Xorg 1.13, Mesa y Compiz proporcionan un soporte de gráficos excelente."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:9
-msgid "Python 2.7 provides increased performance and functionality."
-msgstr "Python 2.7 proporciona mejor rendimiento yfuncionalidad."
+msgid ""
+"Python 2.7 and Python 3.2 provides increased performance and functionality."
+msgstr ""
+"Python 2.7 y Python 3.2 proporcionan mejor rendimiento y funcionalidades."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/welcome.html:1
@@ -881,8 +881,8 @@ msgstr "Bienvenido/a"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 12.04 LTS."
-msgstr "Gracias por elegir Edubuntu 12.04 LTS."
+msgid "Thank you for choosing Edubuntu 12.10."
+msgstr "Gracias por elegir Edubuntu 12.10."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:7
@@ -910,3 +910,35 @@ msgstr ""
 msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr ""
 "Edubuntu se ha diseñado para ser sencillo. ¡Siéntase libre de explorar!"
+
+#~ msgid ""
+#~ "You can try out a demo by launching LTSP Live from the Applications -> "
+#~ "Other menu from within this live environment."
+#~ msgstr ""
+#~ "Puede probar una demostración lanzando LSTP Live desde el menú "
+#~ "Aplicaciones -> Otros"
+
+#~ msgid "Python 2.7 provides increased performance and functionality."
+#~ msgstr "Python 2.7 proporciona mejor rendimiento yfuncionalidad."
+
+#~ msgid ""
+#~ "Integrates with file manager allowing safe execution with a few simple "
+#~ "clicks."
+#~ msgstr ""
+#~ "Integrado con el gestor de archivos, permite una ejecución segura con "
+#~ "unas pocas pulsaciones."
+
+#~ msgid "Thank you for choosing Edubuntu 12.04 LTS."
+#~ msgstr "Gracias por elegir Edubuntu 12.04 LTS."
+
+#~ msgid "Thank you for testing what will become Edubuntu 12.04 LTS."
+#~ msgstr "Gracias por probar lo que vendrá con Edubuntu 12.04 LTS."
+
+#~ msgid ""
+#~ "Xorg 1.11, Mesa 8.0.1 and Compiz delivers breathtaking graphics support."
+#~ msgstr ""
+#~ "Xorg 1.11, Mesa 8.0.1 y Compiz ofrecen compatibilidad con gráficos "
+#~ "impresionantes."
+
+#~ msgid "Linux 3.2 boosts performance and hardware support."
+#~ msgstr "Linux 3.2 aumenta el rendimiento y la compatibilidad de hardware."

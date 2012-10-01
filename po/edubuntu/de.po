@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2012-02-27 06:47+0000\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
+"PO-Revision-Date: 2012-09-26 15:58+0000\n"
 "Last-Translator: Hendrik Knackstedt <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:20+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:36+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -88,11 +88,11 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:8
 msgid ""
-"Integrates with file manager allowing safe execution with a few simple "
-"clicks."
+"<em>Arkose</em> is based on the popular LXC project, making use of advanced "
+"Linux containers capabilities."
 msgstr ""
-"Wird in die Dateiverwaltung integriert, um die sichere Ausführung von "
-"Anwendungen mit ein paar Klicks zu ermöglichen."
+"<em>Arkose</em> basiert auf dem beliebten LXC-Projekt, und benutzt "
+"erweiterte Linux-Kontainermöglichkeiten"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
@@ -572,11 +572,11 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:7
 msgid ""
-"You can try out a demo by launching LTSP Live from the Applications -> Other "
-"menu from within this live environment."
+"You can try out a demo from this live environment by clicking on the LTSP "
+"Live icon in the launcher."
 msgstr ""
-"Sie können eine Demoversion direkt in dieser Live-Umgebung ausprobieren, "
-"indem Sie LTSP-Live aus dem Menü Anwendungen -> Sonstige starten."
+"Sie können eine Testversion dieser Live-Umgebung ausprobieren, indem Sie auf "
+"das LTSP-Live-Zeichen im Starter klicken."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:8
@@ -745,9 +745,8 @@ msgstr "Willkommen und danke schön"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 12.04 LTS."
-msgstr ""
-"Danke, dass Sie die Vorabveröffentlichung von Edubuntu 12.04 LTS testen."
+msgid "Thank you for testing what will become Edubuntu 12.10."
+msgstr "Danke für das Testen des zukünftigen Edubuntu 12.10."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testing.html:7
@@ -875,21 +874,20 @@ msgstr "Edubuntu baut auf der neuesten und besten freien Software auf."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 3.2 boosts performance and hardware support."
-msgstr ""
-"Linux 3.2 erhöht die Leistung und verbessert die Unterstützung von Hardware."
+msgid "Linux 3.5 boosts performance and hardware support."
+msgstr "Linux 3.5 steigert die Geschwindigkeit und die Hardware-Unterstützung."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid ""
-"Xorg 1.11, Mesa 8.0.1 and Compiz delivers breathtaking graphics support."
-msgstr ""
-"Xorg 1.11, Mesa 8.0.1 und Compiz liefern atemberaubende Grafikunterstützung."
+msgid "Xorg 1.13, Mesa and Compiz delivers excellent graphics support."
+msgstr "Xort 1.13, Mesa und Compiz liefern exzellente grafische Unterstützung."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:9
-msgid "Python 2.7 provides increased performance and functionality."
-msgstr "Python 2.7 ermöglicht eine verbesserte Leistung und Nutzbarkeit."
+msgid ""
+"Python 2.7 and Python 3.2 provides increased performance and functionality."
+msgstr ""
+"Python 2.7 und Python 3.2 bieten gesteigerte Leistung und Funktionalität."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/welcome.html:1
@@ -898,8 +896,8 @@ msgstr "Willkommen"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 12.04 LTS."
-msgstr "Danke, dass Sie sich für Edubuntu 12.04 LTS entschieden haben."
+msgid "Thank you for choosing Edubuntu 12.10."
+msgstr "Danke, dass Sie sich für Edubuntu 12.10 entschieden haben."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/welcome.html:7
@@ -926,3 +924,38 @@ msgstr ""
 #: slideshows/edubuntu/slides/welcome.html:10
 msgid "Edubuntu is designed to be easy. Feel free to explore!"
 msgstr "Edubuntu wurde gestaltet, um einfach zu sein. Sehen Sie sich um!"
+
+#~ msgid ""
+#~ "You can try out a demo by launching LTSP Live from the Applications -> "
+#~ "Other menu from within this live environment."
+#~ msgstr ""
+#~ "Sie können eine Demoversion direkt in dieser Live-Umgebung ausprobieren, "
+#~ "indem Sie LTSP-Live aus dem Menü Anwendungen -> Sonstige starten."
+
+#~ msgid "Python 2.7 provides increased performance and functionality."
+#~ msgstr "Python 2.7 ermöglicht eine verbesserte Leistung und Nutzbarkeit."
+
+#~ msgid ""
+#~ "Integrates with file manager allowing safe execution with a few simple "
+#~ "clicks."
+#~ msgstr ""
+#~ "Wird in die Dateiverwaltung integriert, um die sichere Ausführung von "
+#~ "Anwendungen mit ein paar Klicks zu ermöglichen."
+
+#~ msgid "Thank you for choosing Edubuntu 12.04 LTS."
+#~ msgstr "Danke, dass Sie sich für Edubuntu 12.04 LTS entschieden haben."
+
+#~ msgid "Linux 3.2 boosts performance and hardware support."
+#~ msgstr ""
+#~ "Linux 3.2 erhöht die Leistung und verbessert die Unterstützung von "
+#~ "Hardware."
+
+#~ msgid ""
+#~ "Xorg 1.11, Mesa 8.0.1 and Compiz delivers breathtaking graphics support."
+#~ msgstr ""
+#~ "Xorg 1.11, Mesa 8.0.1 und Compiz liefern atemberaubende "
+#~ "Grafikunterstützung."
+
+#~ msgid "Thank you for testing what will become Edubuntu 12.04 LTS."
+#~ msgstr ""
+#~ "Danke, dass Sie die Vorabveröffentlichung von Edubuntu 12.04 LTS testen."

@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2012-04-18 23:48+0000\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
+"PO-Revision-Date: 2012-09-26 01:39+0000\n"
 "Last-Translator: abuyop <Unknown>\n"
 "Language-Team: Malay <ms@li.org>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:37+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,8 +25,8 @@ msgstr "Tahniah!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
-msgstr "Anda telah pilih untuk memasang versi terkini Xubuntu, 12.04 LTS."
+msgid "You have chosen to install the latest version of Xubuntu, 12.10."
+msgstr "Anda telah memilih versi terkini Xubuntu, 12.10."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -75,7 +75,7 @@ msgstr ""
 #: slideshows/xubuntu/slides/01_web.html:10
 #: slideshows/xubuntu/slides/02_messaging.html:10
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:10
-#: slideshows/xubuntu/slides/04_office.html:10
+#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/06_explore.html:11
 msgid "Where?"
 msgstr "Dimana?"
@@ -85,7 +85,6 @@ msgstr "Dimana?"
 #: slideshows/xubuntu/slides/01_web.html:12
 #: slideshows/xubuntu/slides/02_messaging.html:11
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 #: slideshows/xubuntu/slides/06_explore.html:12
 #: slideshows/xubuntu/slides/06_explore.html:13
@@ -172,44 +171,46 @@ msgstr "gmusicbrowser"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_office.html:2
-msgid "Lighter alternatives"
-msgstr "Alternatif yang lebih ringan"
+msgid "In the office"
+msgstr "Dalam pejabat."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
 msgid ""
-"<em>Abiword</em> is a word processor, which can read almost all known "
-"document formats. <em>Gnumeric</em> is a spreadsheet program with an "
-"emphasis on accuracy."
+"For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+"word processor, which can read almost all known document formats."
 msgstr ""
-"<em>Abiword</em> ialah pemprosesan perkataan, yang mana boleh membaca "
-"kesemua format dokumen yang ada. <em>Gnumeric</em> ialah program hamparan "
-"elektronik yang mementingkan ketepatan."
+"Untuk keperluan pejabat anda, Xubuntu disertakan dengan <em>Abiword</em>, "
+"merupakan pemprosesan perkataan yang ringan dan pantas, ia dapat membaca "
+"hampir kesemua format dokumen yang diketahui."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
 msgid ""
-"While Abiword and Gnumeric are lightweight, they provide almost all of the "
-"functions of the LibreOffice suite."
+"If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
+"repositories."
 msgstr ""
-"Walaupun abiword dan Gnumeric adalah ringan dan pantas, kedua-duanya "
-"menyediakan hampir kesemua fungsi seperti suit LibreOffice."
+"Jika anda perlukan penyunting hamparan elektronik, pasang <em>Gnumeric</em> "
+"dari repositori."
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_office.html:9
+msgid ""
+"LibreOffice is also available in the repositories, if you're more "
+"comfortable with it or need a full office suite."
+msgstr ""
+"LibreOffice juga tersedia didalam repositori, jika anda lebih selesa "
+"dengannya atau perlukan suit pejabat yang lengkap."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Office <span>»</span>"
 msgstr "Office <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
+#: slideshows/xubuntu/slides/04_office.html:12
 msgid "Abiword"
 msgstr "Abiword"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:12
-msgid "Gnumeric"
-msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -335,3 +336,28 @@ msgstr ""
 "Akhir sekali, berikan pelbagai cara sumbangan ke Xubuntu dibahagian <a href="
 "\"http://xubuntu.org/devel\">Beri Sumbangan</a> pada laman sesawang kami. "
 "Kami memerlukan bantuan anda!"
+
+#~ msgid ""
+#~ "<em>Abiword</em> is a word processor, which can read almost all known "
+#~ "document formats. <em>Gnumeric</em> is a spreadsheet program with an "
+#~ "emphasis on accuracy."
+#~ msgstr ""
+#~ "<em>Abiword</em> ialah pemprosesan perkataan, yang mana boleh membaca "
+#~ "kesemua format dokumen yang ada. <em>Gnumeric</em> ialah program hamparan "
+#~ "elektronik yang mementingkan ketepatan."
+
+#~ msgid "Lighter alternatives"
+#~ msgstr "Alternatif yang lebih ringan"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid ""
+#~ "While Abiword and Gnumeric are lightweight, they provide almost all of "
+#~ "the functions of the LibreOffice suite."
+#~ msgstr ""
+#~ "Walaupun abiword dan Gnumeric adalah ringan dan pantas, kedua-duanya "
+#~ "menyediakan hampir kesemua fungsi seperti suit LibreOffice."
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
+#~ msgstr "Anda telah pilih untuk memasang versi terkini Xubuntu, 12.04 LTS."

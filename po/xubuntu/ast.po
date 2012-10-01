@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
 "PO-Revision-Date: 2011-04-12 17:50+0000\n"
 "Last-Translator: Iñigo Varela <malditoastur@gmail.com>\n"
 "Language-Team: Asturian <ast@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:36+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,7 +25,7 @@ msgstr "¡Norabona!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
+msgid "You have chosen to install the latest version of Xubuntu, 12.10."
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -76,7 +76,7 @@ msgstr ""
 #: slideshows/xubuntu/slides/01_web.html:10
 #: slideshows/xubuntu/slides/02_messaging.html:10
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:10
-#: slideshows/xubuntu/slides/04_office.html:10
+#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/06_explore.html:11
 msgid "Where?"
 msgstr "¿Ónde?"
@@ -86,7 +86,6 @@ msgstr "¿Ónde?"
 #: slideshows/xubuntu/slides/01_web.html:12
 #: slideshows/xubuntu/slides/02_messaging.html:11
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 #: slideshows/xubuntu/slides/06_explore.html:12
 #: slideshows/xubuntu/slides/06_explore.html:13
@@ -171,44 +170,39 @@ msgstr "gmusicbrowser"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_office.html:2
-msgid "Lighter alternatives"
-msgstr "Alternatives más llixeres"
+msgid "In the office"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
 msgid ""
-"<em>Abiword</em> is a word processor, which can read almost all known "
-"document formats. <em>Gnumeric</em> is a spreadsheet program with an "
-"emphasis on accuracy."
+"For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+"word processor, which can read almost all known document formats."
 msgstr ""
-"<em>Abiword</em> ye un procesador de testos, que pue lleer casi tolos "
-"formatos de documentos conocíos. <em>Gnumeric</em> ye un programa de fueya "
-"de cálculu qu'enfatiza la precisión."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
 msgid ""
-"While Abiword and Gnumeric are lightweight, they provide almost all of the "
-"functions of the LibreOffice suite."
+"If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
+"repositories."
 msgstr ""
-"Mientres Abiword y Gnumeric son aplicaciones llixeres, disponen de toles "
-"funciones incluyíes na suite LibreOffice."
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_office.html:9
+msgid ""
+"LibreOffice is also available in the repositories, if you're more "
+"comfortable with it or need a full office suite."
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Office <span>»</span>"
 msgstr "Oficina <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
+#: slideshows/xubuntu/slides/04_office.html:12
 msgid "Abiword"
 msgstr "Abiword"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:12
-msgid "Gnumeric"
-msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -332,3 +326,25 @@ msgstr ""
 "Finalmente, alcuentra estremaes formes de contribuyir a Xubuntu na seición "
 "del nuesu sitiu web <a href=\"http://xubuntu.org/devel\">Get Involved</a>. "
 "¡Necesitamos la to ayuda!"
+
+#~ msgid ""
+#~ "<em>Abiword</em> is a word processor, which can read almost all known "
+#~ "document formats. <em>Gnumeric</em> is a spreadsheet program with an "
+#~ "emphasis on accuracy."
+#~ msgstr ""
+#~ "<em>Abiword</em> ye un procesador de testos, que pue lleer casi tolos "
+#~ "formatos de documentos conocíos. <em>Gnumeric</em> ye un programa de "
+#~ "fueya de cálculu qu'enfatiza la precisión."
+
+#~ msgid "Lighter alternatives"
+#~ msgstr "Alternatives más llixeres"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid ""
+#~ "While Abiword and Gnumeric are lightweight, they provide almost all of "
+#~ "the functions of the LibreOffice suite."
+#~ msgstr ""
+#~ "Mientres Abiword y Gnumeric son aplicaciones llixeres, disponen de toles "
+#~ "funciones incluyíes na suite LibreOffice."

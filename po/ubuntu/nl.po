@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2012-09-02 06:42+0000\n"
-"Last-Translator: Martijn_Hoekstra <martijnhoekstra@gmail.com>\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
+"PO-Revision-Date: 2012-09-27 09:17+0000\n"
+"Last-Translator: Pjotr12345 <Unknown>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:36+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -58,22 +58,17 @@ msgstr "Taalondersteuning"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
-msgid "Browse the web"
-msgstr "Het web verkennen"
+msgid "Make the most of the web"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
-"use and it’s backed by a non-profit foundation that loves the web. If you "
-"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
-"Software Center."
+"Ubuntu includes Firefox, the web browser used by millions of people around "
+"the world. And web applications you use frequently (like Facebook or Gmail, "
+"for example) can be pinned to your desktop for faster access, just like apps "
+"on your computer."
 msgstr ""
-"Ubuntu wordt geleverd met Mozilla Firefox, waarmee u snel en veilig op het "
-"web kunt surfen. Het is gemakkelijk in gebruik en wordt ondersteund door een "
-"stichting zonder winstoogmerk die van het internet houdt. Als u geen "
-"liefhebber van Firefox bent, dan zijn er ook vele alternatieven beschikbaar "
-"in het softwarecentrum."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -111,12 +106,13 @@ msgstr "Vragen?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
+#, fuzzy
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
-"to get an answer about Ubuntu. With most questions already answered, and "
-"thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, you can get commercial support and more "
-"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
+"all your Ubuntu questions. There’s a good chance your question will have "
+"been answered already and, if not, you’ll find thousands of volunteers eager "
+"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
+"support\">ubuntu.com/support</a>."
 msgstr ""
 "Bezoek <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, de beste plek om "
 "antwoord te krijgen op vragen over Ubuntu. Doordat de meeste vragen al "
@@ -143,22 +139,13 @@ msgstr "Uw persoonlijke cloud"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/mobilise.html:8
 msgid ""
-"An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> account "
-"gives you 5GB of cloud storage, so you can store and sync your files and "
-"photos across devices and access them wherever you are in the world. Easily "
-"share them with friends, family and colleagues. Take a photo on your mobile "
-"phone and immediately see it on your desktop, or add <a href=\"https://one."
-"ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
-"music on the move."
+"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> gives you "
+"5GB of free cloud storage to access your files, share your photos and <a "
+"href=\"https://one.ubuntu.com/services/music/\">stream your music</a> to "
+"your computers, tablets and smartphones. Any photo you take appears on all "
+"your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
+"Mac, Android, iOS and the web."
 msgstr ""
-"Met een <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a>-"
-"account krijgt u 5GB cloudopslag; hierdoor kunt u uw bestanden en foto's "
-"bewaren en synchroniseren tussen verschillende apparaten. Bovendien heeft u "
-"toegang tot deze bestanden, waar ter wereld u ook bent. Deel ze op "
-"eenvoudige wijze met vrienden, familie en collega's. Neem een foto met uw "
-"mobiele telefoon en bekijk deze direct op uw computer, of voeg <a href="
-"\"https://one.ubuntu.com/services/music/\">Music Streaming</a> toe om te "
-"genieten van uw muziek wanneer u op pad bent."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:1
@@ -263,10 +250,11 @@ msgstr "Verbonden blijven"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/social.html:8
+#, fuzzy
 msgid ""
-"The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
-"messages from all applications and social networks. See at a glance when "
-"there’s something new to read, regardless how it arrived."
+"The messaging menu gives you an eagle-eye view of incoming messages from all "
+"applications and social networks. So you can see straight away when there’s "
+"something new to read, regardless of how it arrived."
 msgstr ""
 "De Ubuntu berichtenindicator geeft u een overzicht van inkomende berichten "
 "van alle toepassingen en sociale netwerken. Zie in een oogopslag of er iets "
@@ -300,28 +288,71 @@ msgstr "Ontdek nog meer software"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"The Ubuntu Software Center has thousands of new applications ready for your "
-"computer. Just type what you want or explore the categories like games, "
-"science, and education. It is easy to download new stuff and write reviews "
-"to share your experiences."
+"Say goodbye to searching the web for new software. With Ubuntu Software "
+"Center, you can find and install new apps with ease. Just type in what "
+"you’re looking for, or explore categories such as Science, Education and "
+"Games, alongside helpful reviews from other users."
 msgstr ""
-"Het Ubuntu softwarecentrum heeft duizenden nieuwe toepassingen voor u klaar "
-"staan. Typ in wat u wilt, of verken categorieën zoals spelletjes, wetenschap "
-"en educatie. Het is eenvoudig nieuwe programma's te downloaden en "
-"beoordelingen te schrijven om uw ervaringen te delen."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 12.04 LTS"
-msgstr "Welkom bij Ubuntu 12.04 LTS"
+msgid "Welcome to Ubuntu 12.10"
+msgstr "Welkom bij Ubuntu 12.10"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"Fast and feature-packed, Ubuntu makes your PC a delight to use. And with the "
-"latest version of the Unity interface, it's now easier than ever. Here are a "
-"few more cool new things to look out for."
+"Fast and full of new features, the latest version of Ubuntu makes computing "
+"easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
 "Ubuntu is snel en boordevol functies, waardoor het gebruik van uw PC een "
 "genot wordt. En met de nieuwste versie van de Unity-omgeving is het nu "
 "gemakkelijker dan ooit."
+
+#~ msgid "Browse the web"
+#~ msgstr "Het web verkennen"
+
+#~ msgid ""
+#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
+#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
+#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
+#~ "Ubuntu Software Center."
+#~ msgstr ""
+#~ "Ubuntu wordt geleverd met Mozilla Firefox, waarmee u snel en veilig op "
+#~ "het web kunt surfen. Het is gemakkelijk in gebruik en wordt ondersteund "
+#~ "door een stichting zonder winstoogmerk die van het internet houdt. Als u "
+#~ "geen liefhebber van Firefox bent, dan zijn er ook vele alternatieven "
+#~ "beschikbaar in het softwarecentrum."
+
+#~ msgid ""
+#~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
+#~ "account gives you 5GB of cloud storage, so you can store and sync your "
+#~ "files and photos across devices and access them wherever you are in the "
+#~ "world. Easily share them with friends, family and colleagues. Take a "
+#~ "photo on your mobile phone and immediately see it on your desktop, or add "
+#~ "<a href=\"https://one.ubuntu.com/services/music/\">Music Streaming</a> "
+#~ "for mobile to enjoy your music on the move."
+#~ msgstr ""
+#~ "Met een <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a>-"
+#~ "account krijgt u 5GB cloudopslag; hierdoor kunt u uw bestanden en foto's "
+#~ "bewaren en synchroniseren tussen verschillende apparaten. Bovendien heeft "
+#~ "u toegang tot deze bestanden, waar ter wereld u ook bent. Deel ze op "
+#~ "eenvoudige wijze met vrienden, familie en collega's. Neem een foto met uw "
+#~ "mobiele telefoon en bekijk deze direct op uw computer, of voeg <a href="
+#~ "\"https://one.ubuntu.com/services/music/\">Music Streaming</a> toe om te "
+#~ "genieten van uw muziek wanneer u op pad bent."
+
+#~ msgid ""
+#~ "The Ubuntu Software Center has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is easy to download new stuff and write "
+#~ "reviews to share your experiences."
+#~ msgstr ""
+#~ "Het Ubuntu softwarecentrum heeft duizenden nieuwe toepassingen voor u "
+#~ "klaar staan. Typ in wat u wilt, of verken categorieën zoals spelletjes, "
+#~ "wetenschap en educatie. Het is eenvoudig nieuwe programma's te downloaden "
+#~ "en beoordelingen te schrijven om uw ervaringen te delen."
+
+#~ msgid "Welcome to Ubuntu 12.04 LTS"
+#~ msgstr "Welkom bij Ubuntu 12.04 LTS"

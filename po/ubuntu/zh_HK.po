@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
 "PO-Revision-Date: 2012-03-24 16:35+0000\n"
 "Last-Translator: Anthony Wong <anthony.wong@canonical.com>\n"
 "Language-Team: Chinese (Hong Kong) <zh_HK@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:36+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -57,20 +57,17 @@ msgstr "語言支援"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
-msgid "Browse the web"
-msgstr "瀏覽網頁"
+msgid "Make the most of the web"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
-"use and it’s backed by a non-profit foundation that loves the web. If you "
-"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
-"Software Center."
+"Ubuntu includes Firefox, the web browser used by millions of people around "
+"the world. And web applications you use frequently (like Facebook or Gmail, "
+"for example) can be pinned to your desktop for faster access, just like apps "
+"on your computer."
 msgstr ""
-"Ubuntu 內含 Mozilla Firefox 瀏覽器，提供您快速、安全的網頁瀏覽體驗。它簡單易"
-"用，而且有一個熱愛網絡的非營利組織在背後提供支援。如果您不是 Friefox 的愛好"
-"者，在 Ubuntu 軟件中心裡面還有更多選擇。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -108,12 +105,13 @@ msgstr "有任何疑問嗎？"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
+#, fuzzy
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
-"to get an answer about Ubuntu. With most questions already answered, and "
-"thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, you can get commercial support and more "
-"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
+"all your Ubuntu questions. There’s a good chance your question will have "
+"been answered already and, if not, you’ll find thousands of volunteers eager "
+"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
+"support\">ubuntu.com/support</a>."
 msgstr ""
 "查查 <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>，一個能夠得到有關 "
 "Ubuntu 的答案的最佳場所。大部份會遇到的問題都已經有人回應，此外還有上千位網友"
@@ -139,19 +137,13 @@ msgstr "您的個人雲"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/mobilise.html:8
 msgid ""
-"An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> account "
-"gives you 5GB of cloud storage, so you can store and sync your files and "
-"photos across devices and access them wherever you are in the world. Easily "
-"share them with friends, family and colleagues. Take a photo on your mobile "
-"phone and immediately see it on your desktop, or add <a href=\"https://one."
-"ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
-"music on the move."
+"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> gives you "
+"5GB of free cloud storage to access your files, share your photos and <a "
+"href=\"https://one.ubuntu.com/services/music/\">stream your music</a> to "
+"your computers, tablets and smartphones. Any photo you take appears on all "
+"your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
+"Mac, Android, iOS and the web."
 msgstr ""
-"<a href=\"https://one.ubuntu.com/services/\">Ubuntu One 免費</a>帳號給您 5GB "
-"的雲端儲存空間，您可以儲存且將您的檔案與相片在多個裝置之間同步，並在世界任一"
-"個角落存取它們。輕鬆和朋友、家人、同事分享。用您的手機拍一張相片，立刻就能在"
-"您的桌面上見到，或者為流動裝置加入<a href=\"https://one.ubuntu.com/services/"
-"music/\">音樂串流服務</a>，讓您一舉一動都能享受您的音樂。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:1
@@ -251,10 +243,11 @@ msgstr "保持連繫"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/social.html:8
+#, fuzzy
 msgid ""
-"The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
-"messages from all applications and social networks. See at a glance when "
-"there’s something new to read, regardless how it arrived."
+"The messaging menu gives you an eagle-eye view of incoming messages from all "
+"applications and social networks. So you can see straight away when there’s "
+"something new to read, regardless of how it arrived."
 msgstr ""
 "Ubuntu 訊息指示器讓您擁有鷹般的眼睛可以俯視所有應用程式與社交網絡所傳來的訊"
 "息。您可以輕輕一瞥是否有新訊息可以讀取，而不用管它們是如何送達的。"
@@ -287,26 +280,64 @@ msgstr "發掘更多好用的軟件"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"The Ubuntu Software Center has thousands of new applications ready for your "
-"computer. Just type what you want or explore the categories like games, "
-"science, and education. It is easy to download new stuff and write reviews "
-"to share your experiences."
+"Say goodbye to searching the web for new software. With Ubuntu Software "
+"Center, you can find and install new apps with ease. Just type in what "
+"you’re looking for, or explore categories such as Science, Education and "
+"Games, alongside helpful reviews from other users."
 msgstr ""
-"Ubuntu 軟件中心擁有上千個準備好裝入您電腦的新程式。只要在各種分類，例如遊戲、"
-"科學、教育... 之中，輸入您想要的程式名稱或是直接探索都可以。您不僅能輕鬆下載"
-"新事物，還能撰寫評論來與其他人分享您的寶貴體驗。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 12.04 LTS"
-msgstr "歡迎使用 Ubuntu 12.04 長期支援版"
+msgid "Welcome to Ubuntu 12.10"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"Fast and feature-packed, Ubuntu makes your PC a delight to use. And with the "
-"latest version of the Unity interface, it's now easier than ever. Here are a "
-"few more cool new things to look out for."
+"Fast and full of new features, the latest version of Ubuntu makes computing "
+"easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
 "快速且富有特色，Ubuntu 讓您的 PC 使用起來更愉悅。有了最新版本的 Unity 介面，"
 "事情變得前所未有地簡單。這裡有一些值得您留意的超酷新玩意兒。"
+
+#~ msgid "Browse the web"
+#~ msgstr "瀏覽網頁"
+
+#~ msgid ""
+#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
+#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
+#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
+#~ "Ubuntu Software Center."
+#~ msgstr ""
+#~ "Ubuntu 內含 Mozilla Firefox 瀏覽器，提供您快速、安全的網頁瀏覽體驗。它簡單"
+#~ "易用，而且有一個熱愛網絡的非營利組織在背後提供支援。如果您不是 Friefox 的"
+#~ "愛好者，在 Ubuntu 軟件中心裡面還有更多選擇。"
+
+#~ msgid ""
+#~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
+#~ "account gives you 5GB of cloud storage, so you can store and sync your "
+#~ "files and photos across devices and access them wherever you are in the "
+#~ "world. Easily share them with friends, family and colleagues. Take a "
+#~ "photo on your mobile phone and immediately see it on your desktop, or add "
+#~ "<a href=\"https://one.ubuntu.com/services/music/\">Music Streaming</a> "
+#~ "for mobile to enjoy your music on the move."
+#~ msgstr ""
+#~ "<a href=\"https://one.ubuntu.com/services/\">Ubuntu One 免費</a>帳號給您 "
+#~ "5GB 的雲端儲存空間，您可以儲存且將您的檔案與相片在多個裝置之間同步，並在世"
+#~ "界任一個角落存取它們。輕鬆和朋友、家人、同事分享。用您的手機拍一張相片，立"
+#~ "刻就能在您的桌面上見到，或者為流動裝置加入<a href=\"https://one.ubuntu."
+#~ "com/services/music/\">音樂串流服務</a>，讓您一舉一動都能享受您的音樂。"
+
+#~ msgid ""
+#~ "The Ubuntu Software Center has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is easy to download new stuff and write "
+#~ "reviews to share your experiences."
+#~ msgstr ""
+#~ "Ubuntu 軟件中心擁有上千個準備好裝入您電腦的新程式。只要在各種分類，例如遊"
+#~ "戲、科學、教育... 之中，輸入您想要的程式名稱或是直接探索都可以。您不僅能輕"
+#~ "鬆下載新事物，還能撰寫評論來與其他人分享您的寶貴體驗。"
+
+#~ msgid "Welcome to Ubuntu 12.04 LTS"
+#~ msgstr "歡迎使用 Ubuntu 12.04 長期支援版"

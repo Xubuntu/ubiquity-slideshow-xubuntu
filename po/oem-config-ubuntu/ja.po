@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2012-04-12 22:48+0000\n"
-"Last-Translator: Kentaro Kazuhama <kazken3@gmail.com>\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
+"PO-Revision-Date: 2012-09-26 18:32+0000\n"
+"Last-Translator: Shushi Kurose <md81bird@hitaki.net>\n"
 "Language-Team: Japanese <ja@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:36+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -58,21 +58,17 @@ msgstr "言語サポート"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/browse.html:1
-msgid "Browse the web"
-msgstr "ウェブを閲覧しましょう"
+msgid "Make the most of the web"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
 msgid ""
-"Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy to "
-"use and it’s backed by a non-profit foundation that loves the web. If you "
-"aren’t a Firefox fan, there are also lots of alternatives in the Ubuntu "
-"Software Center."
+"Ubuntu includes Firefox, the web browser used by millions of people around "
+"the world. And web applications you use frequently (like Facebook or Gmail, "
+"for example) can be pinned to your desktop for faster access, just like apps "
+"on your computer."
 msgstr ""
-"Ubuntu は速く安全なウェブブラウザーとして、Mozilla Firefox を収録しています。"
-"Mozilla Firefox は簡単に利用でき、ウェブを愛する非営利の財団によって支援され"
-"ています。Firefox が好みでない場合は、Ubuntu ソフトウェアセンターに代わりとな"
-"る多くのブラウザーもあります。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
@@ -110,18 +106,19 @@ msgstr "質問がありますか?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
+#, fuzzy
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best place "
-"to get an answer about Ubuntu. With most questions already answered, and "
-"thousands of people ready to help, you’ll be sorted in no time at all. And "
-"if you need an answer on a deadline, you can get commercial support and more "
-"at <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
+"all your Ubuntu questions. There’s a good chance your question will have "
+"been answered already and, if not, you’ll find thousands of volunteers eager "
+"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
+"support\">ubuntu.com/support</a>."
 msgstr ""
-"Ubuntuについての回答を得るのに最適な <a href=\"http://askubuntu.com/\">Ask "
-"Ubuntu</a> を確認してみましょう。多くの質問がすでに回答済みであったり、助けて"
-"くれる何千もの人々がいたり、すぐに分類することができます。また期限までに回答"
-"が必要な場合、商用サポートなどを <a href=\"http://www.ubuntu.com/support"
-"\">ubuntu.com/support</a> で得ることができます。"
+"<a href=\"http://askubuntu.com/\">Ask Ubuntu</a> を確認してみましょう。Ubuntu"
+"について質問する最適な場所です。いろいろな疑問への答えと、多くの人々が助けに"
+"なってくれるでしょう。問題はすぐに解決するはずです。ただちに回答が必要な場"
+"合、商用サポートなどを <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a> で得ることができます。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:17
@@ -141,20 +138,13 @@ msgstr "あなたのパーソナルクラウド"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/mobilise.html:8
 msgid ""
-"An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> account "
-"gives you 5GB of cloud storage, so you can store and sync your files and "
-"photos across devices and access them wherever you are in the world. Easily "
-"share them with friends, family and colleagues. Take a photo on your mobile "
-"phone and immediately see it on your desktop, or add <a href=\"https://one."
-"ubuntu.com/services/music/\">Music Streaming</a> for mobile to enjoy your "
-"music on the move."
+"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> gives you "
+"5GB of free cloud storage to access your files, share your photos and <a "
+"href=\"https://one.ubuntu.com/services/music/\">stream your music</a> to "
+"your computers, tablets and smartphones. Any photo you take appears on all "
+"your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
+"Mac, Android, iOS and the web."
 msgstr ""
-"<a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> アカウント"
-"は 5GB 分のクラウドストレージを取得できるので、ファイルや写真を保存してデバイ"
-"ス間で同期したり、世界中のどこからでもアクセスすることができます。これらは友"
-"人、家族、同僚と簡単に共有できます。携帯電話で撮った写真をデスクトップですぐ"
-"に見たり、モバイル向けの<a href=\"https://one.ubuntu.com/services/music/\">音"
-"楽ストリーミング</a>を追加して、移動中に音楽を楽しめます。"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:1
@@ -200,7 +190,7 @@ msgstr ""
 "LibreOfficeはフリーのオフィススイートで、印象的なドキュメント、表計算、プレゼ"
 "ンテーションを作成するのに必要なものがすべて含まれています。LibreOfficeは他の"
 "オフィスソフトウェアと協調できるよう力を尽くしており、高い互換性のある "
-"OpenDocument 規格を採用しています"
+"OpenDocument 規格を採用しています。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
@@ -231,8 +221,8 @@ msgid ""
 "from the Ubuntu Software Center."
 msgstr ""
 "Shotwellはガジェットに対応した便利な写真管理ツールです。カメラや電話を接続し"
-"て写真を転送すれば、写真の共有や安全な保管を簡単に行なえます。クリエイティブ"
-"なことをしたい場合は、Ubuntuソフトウェアセンターからたくさんの写真アプリケー"
+"て写真を転送すれば、写真の共有や安全な保管を簡単に行えます。クリエイティブな"
+"ことをしたい場合は、Ubuntuソフトウェアセンターからたくさんの写真アプリケー"
 "ションを試すことができます。"
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -257,10 +247,11 @@ msgstr "つながったままで"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:8
+#, fuzzy
 msgid ""
-"The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
-"messages from all applications and social networks. See at a glance when "
-"there’s something new to read, regardless how it arrived."
+"The messaging menu gives you an eagle-eye view of incoming messages from all "
+"applications and social networks. So you can see straight away when there’s "
+"something new to read, regardless of how it arrived."
 msgstr ""
 "Ubuntuメッセージインジケーターは、すべてのアプリケーションやソーシャルネット"
 "ワークからの受信メッセージを追跡してお知らせします。どのアプリケーションから"
@@ -294,15 +285,11 @@ msgstr "追加のソフトウェアを見つけてみましょう"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
 msgid ""
-"The Ubuntu Software Center has thousands of new applications ready for your "
-"computer. Just type what you want or explore the categories like games, "
-"science, and education. It is easy to download new stuff and write reviews "
-"to share your experiences."
+"Say goodbye to searching the web for new software. With Ubuntu Software "
+"Center, you can find and install new apps with ease. Just type in what "
+"you’re looking for, or explore categories such as Science, Education and "
+"Games, alongside helpful reviews from other users."
 msgstr ""
-"Ubuntuソフトウェアセンターには、あなたのコンピューターに対応したたくさんの新"
-"しいアプリケーションがあります。欲しいソフト名を入力したり、ゲーム・科学・教"
-"育といったカテゴリから探すだけです。新しいソフトのダウンロードや、体験を共有"
-"するためのレビューが簡単に行なえます。"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -312,11 +299,59 @@ msgstr "ようこそ"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 12.04 LTS. This version brings some exciting "
+"Thank you for choosing Ubuntu 12.10. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
-"Ubuntu 12.04 LTSを選んでいただきありがとうございます。このバージョンでは、全"
-"体的に再デザインしたデスクトップインターフェースであるUnityを含め、ワクワクす"
-"るようないくつかの変更が採用されています。Ubuntuの設定を行うあいだ、このスラ"
-"イドショーでUbuntuについてご案内します。"
+
+#~ msgid "Browse the web"
+#~ msgstr "ウェブを閲覧しましょう"
+
+#~ msgid ""
+#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
+#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
+#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
+#~ "Ubuntu Software Center."
+#~ msgstr ""
+#~ "Ubuntu は速く安全なウェブブラウザーとして、Mozilla Firefox を収録していま"
+#~ "す。Mozilla Firefox は簡単に利用でき、ウェブを愛する非営利の財団によって支"
+#~ "援されています。Firefox が好みでない場合は、Ubuntu ソフトウェアセンターに"
+#~ "代わりとなる多くのブラウザーもあります。"
+
+#~ msgid ""
+#~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
+#~ "account gives you 5GB of cloud storage, so you can store and sync your "
+#~ "files and photos across devices and access them wherever you are in the "
+#~ "world. Easily share them with friends, family and colleagues. Take a "
+#~ "photo on your mobile phone and immediately see it on your desktop, or add "
+#~ "<a href=\"https://one.ubuntu.com/services/music/\">Music Streaming</a> "
+#~ "for mobile to enjoy your music on the move."
+#~ msgstr ""
+#~ "<a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> アカウン"
+#~ "トは 5GB 分のクラウドストレージを取得できるので、ファイルや写真を保存して"
+#~ "デバイス間で同期したり、世界中のどこからでもアクセスすることができます。こ"
+#~ "れらは友人、家族、同僚と簡単に共有できます。携帯電話で撮った写真をデスク"
+#~ "トップですぐに見たり、モバイル向けの<a href=\"https://one.ubuntu.com/"
+#~ "services/music/\">音楽ストリーミング</a>を追加して、移動中に音楽を楽しめま"
+#~ "す。"
+
+#~ msgid ""
+#~ "The Ubuntu Software Center has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is easy to download new stuff and write "
+#~ "reviews to share your experiences."
+#~ msgstr ""
+#~ "Ubuntuソフトウェアセンターには、あなたのコンピューターに対応したたくさんの"
+#~ "新しいアプリケーションがあります。欲しいソフト名を入力したり、ゲーム・科"
+#~ "学・教育といったカテゴリから探すだけです。新しいソフトのダウンロードや、体"
+#~ "験を共有するためのレビューが簡単に行えます。"
+
+#~ msgid ""
+#~ "Thank you for choosing Ubuntu 12.04 LTS. This version brings some "
+#~ "exciting changes including a totally redesigned desktop interface, Unity. "
+#~ "While Ubuntu is configured, this slideshow will show you around."
+#~ msgstr ""
+#~ "Ubuntu 12.04 LTSを選んでいただきありがとうございます。このバージョンでは、"
+#~ "全体的に再デザインしたデスクトップインターフェースであるUnityを含め、ワク"
+#~ "ワクするようないくつかの変更が採用されています。Ubuntuの設定を行うあいだ、"
+#~ "このスライドショーでUbuntuについてご案内します。"

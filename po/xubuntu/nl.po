@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2012-04-11 18:06+0000\n"
-"Last-Translator: Redmar <Unknown>\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
+"PO-Revision-Date: 2012-09-26 15:51+0000\n"
+"Last-Translator: Pjotr12345 <Unknown>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:37+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,10 +25,10 @@ msgstr "Gefeliciteerd!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
+msgid "You have chosen to install the latest version of Xubuntu, 12.10."
 msgstr ""
-"U hebt ervoor gekozen om de nieuwste versie van Xubuntu te installeren, "
-"12.04 LTS."
+"U heeft ervoor gekozen om de nieuwste versie van Xubuntu te installeren: "
+"12.10."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -77,7 +77,7 @@ msgstr ""
 #: slideshows/xubuntu/slides/01_web.html:10
 #: slideshows/xubuntu/slides/02_messaging.html:10
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:10
-#: slideshows/xubuntu/slides/04_office.html:10
+#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/06_explore.html:11
 msgid "Where?"
 msgstr "Waar?"
@@ -87,7 +87,6 @@ msgstr "Waar?"
 #: slideshows/xubuntu/slides/01_web.html:12
 #: slideshows/xubuntu/slides/02_messaging.html:11
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 #: slideshows/xubuntu/slides/06_explore.html:12
 #: slideshows/xubuntu/slides/06_explore.html:13
@@ -150,7 +149,7 @@ msgid ""
 "Whether your collection is small or large, <em>gmusicbrowser</em>, the "
 "default media player in Xubuntu, can handle it!"
 msgstr ""
-"Of uw collectie nu groot of klein is, <em>Gmusicbrowser</em>, de standaard-"
+"Of uw verzameling nu groot of klein is, <em>Gmusicbrowser</em>, de standaard-"
 "mediaspeler van Xubuntu, kan het aan!"
 
 #. type: Content of: <div><div><p>
@@ -174,44 +173,45 @@ msgstr "Gmusicbrowser"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_office.html:2
-msgid "Lighter alternatives"
-msgstr "Lichtere alternatieven"
+msgid "In the office"
+msgstr "Op kantoor"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
 msgid ""
-"<em>Abiword</em> is a word processor, which can read almost all known "
-"document formats. <em>Gnumeric</em> is a spreadsheet program with an "
-"emphasis on accuracy."
+"For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+"word processor, which can read almost all known document formats."
 msgstr ""
-"<em>Abiword</em> is een tekstverwerker die bijna alle bekende documenttypes "
-"kan lezen. <em>Gnumeric</em> is een rekenbladprogramma dat de nadruk op "
-"precisie legt."
+"Voor uw kantoorbehoeften heeft Xubuntu <em>Abiword</em>, een lichtgewicht "
+"tekstverwerker, die bijna alle bekende documenttypes kan lezen."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
 msgid ""
-"While Abiword and Gnumeric are lightweight, they provide almost all of the "
-"functions of the LibreOffice suite."
+"If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
+"repositories."
 msgstr ""
-"Hoewel Abiword en Gnumeric lichtgewichten zijn, bieden ze bijna alle "
-"functies die het LibreOffice-pakket ook heeft."
+"Indien u een rekenbladprogramma nodig hebt, dan kunt u <em>Gnumeric</em> "
+"installeren uit de pakketbronnen."
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_office.html:9
+msgid ""
+"LibreOffice is also available in the repositories, if you're more "
+"comfortable with it or need a full office suite."
+msgstr ""
+"LibreOffice is eveneens beschikbaar in de pakketbronnen, indien u die "
+"prettiger vindt of wanneer u een volwaardig kantoorpakket nodig heeft."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Office <span>»</span>"
 msgstr "Kantoor <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
+#: slideshows/xubuntu/slides/04_office.html:12
 msgid "Abiword"
 msgstr "Abiword"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:12
-msgid "Gnumeric"
-msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -334,3 +334,30 @@ msgstr ""
 "Op de <a href=\"http://xubuntu.org/devel\">Help mee-sectie</a> van onze "
 "website, kunt u tot slot verschillende manieren vinden om bij te dragen aan "
 "Xubuntu. Wij hebben uw hulp nodig!"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid "Lighter alternatives"
+#~ msgstr "Lichtere alternatieven"
+
+#~ msgid ""
+#~ "While Abiword and Gnumeric are lightweight, they provide almost all of "
+#~ "the functions of the LibreOffice suite."
+#~ msgstr ""
+#~ "Hoewel Abiword en Gnumeric lichtgewichten zijn, bieden ze bijna alle "
+#~ "functies die het LibreOffice-pakket ook heeft."
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
+#~ msgstr ""
+#~ "U hebt ervoor gekozen om de nieuwste versie van Xubuntu te installeren, "
+#~ "12.04 LTS."
+
+#~ msgid ""
+#~ "<em>Abiword</em> is a word processor, which can read almost all known "
+#~ "document formats. <em>Gnumeric</em> is a spreadsheet program with an "
+#~ "emphasis on accuracy."
+#~ msgstr ""
+#~ "<em>Abiword</em> is een tekstverwerker die bijna alle bekende "
+#~ "documenttypes kan lezen. <em>Gnumeric</em> is een rekenbladprogramma dat "
+#~ "de nadruk op precisie legt."

@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2012-03-16 11:04+0000\n"
-"Last-Translator: Tiago Hillebrandt <tiagohillebrandt@gmail.com>\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
+"PO-Revision-Date: 2012-09-26 02:16+0000\n"
+"Last-Translator: Neliton Pereira Jr. <nelitonpjr@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:37+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,8 +25,8 @@ msgstr "Parabéns!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
-msgstr "Você optou por instalar a última versão do Xubuntu, 12.04 LTS."
+msgid "You have chosen to install the latest version of Xubuntu, 12.10."
+msgstr "Você escolheu instalar a última versão do Xubuntu, 12.10."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -34,8 +34,8 @@ msgid ""
 "This exciting piece of software is brought to you free of any fees, for your "
 "use and any others you want to share it with."
 msgstr ""
-"Esta excitante porção de software é levada a você livre de qualquer custo, "
-"para seu uso e de outros aos quais você deseje compartilhar."
+"Este excitante programa é levado a você livre de qualquer custo, para seu "
+"uso e de outros com os quais você deseje compartilhar."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
@@ -44,9 +44,9 @@ msgid ""
 "free to examine things as it installs. After the installation, the desktop "
 "will look much the same as it does now."
 msgstr ""
-"Desde que esteja instalando esse programa usando o Xubuntu desktop CD, sinta-"
-"se livre para examinar as coisas enquanto ele instala. Depois da instalação, "
-"a área de trabalho ficará parecida com o que é agora."
+"Uma vez que você está instalando este programa usando o Xubuntu desktop CD, "
+"sinta-se livre para examinar as coisas enquanto ele é instalado. Depois da "
+"instalação, a área de trabalho ficará parecida com o que é agora."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_web.html:2
@@ -68,14 +68,14 @@ msgid ""
 "They offer you the web the way you like it: high performance, easy "
 "customization and advanced security."
 msgstr ""
-"Eles oferecem-lhe a web do jeito que você gosta: alta performance, fácil "
+"Eles lhe oferecem a web do jeito que você gosta: alta performance, fácil "
 "personalização e segurança avançada."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/xubuntu/slides/01_web.html:10
 #: slideshows/xubuntu/slides/02_messaging.html:10
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:10
-#: slideshows/xubuntu/slides/04_office.html:10
+#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/06_explore.html:11
 msgid "Where?"
 msgstr "Onde?"
@@ -85,7 +85,6 @@ msgstr "Onde?"
 #: slideshows/xubuntu/slides/01_web.html:12
 #: slideshows/xubuntu/slides/02_messaging.html:11
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 #: slideshows/xubuntu/slides/06_explore.html:12
 #: slideshows/xubuntu/slides/06_explore.html:13
@@ -119,7 +118,7 @@ msgstr "Mensageiro instantâneo"
 msgid ""
 "Xubuntu is shipping <em>Pidgin</em> as the default instant messaging client."
 msgstr ""
-"Xubuntu é entregue com  <em>Pidgin</em> como cliente padrão de mensagens "
+"O Xubuntu inclui o <em>Pidgin</em> como cliente padrão de mensagens "
 "instantâneas."
 
 #. type: Content of: <div><div><p>
@@ -149,7 +148,7 @@ msgid ""
 "Whether your collection is small or large, <em>gmusicbrowser</em>, the "
 "default media player in Xubuntu, can handle it!"
 msgstr ""
-"Quer sua coleção seja pequena ou grande, <em>gmusicbrowser</em>, o "
+"Quer sua coleção seja pequena ou grande, o <em>gmusicbrowser</em>, "
 "reprodutor de mídia padrão no Xubuntu, pode manipulá-la!"
 
 #. type: Content of: <div><div><p>
@@ -158,7 +157,7 @@ msgid ""
 "In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
 "Shimmer theme."
 msgstr ""
-"No Xubuntu, gmusicbrowser vêm com a boa aparência e o tema Shimmer fácil de "
+"No Xubuntu, o gmusicbrowser vem com o tema Shimmer, que é bonito e fácil de "
 "usar."
 
 #. type: Content of: <div><div><div><p>
@@ -173,44 +172,46 @@ msgstr "gmusicbrowser"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_office.html:2
-msgid "Lighter alternatives"
-msgstr "Alternativas leves"
+msgid "In the office"
+msgstr "No escritório"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
 msgid ""
-"<em>Abiword</em> is a word processor, which can read almost all known "
-"document formats. <em>Gnumeric</em> is a spreadsheet program with an "
-"emphasis on accuracy."
+"For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+"word processor, which can read almost all known document formats."
 msgstr ""
-"<em>Abiword</em> é um processador de texto, que abre quase todos os formatos "
-"de documentos conhecidos. <em>Gnumeric</em> é um programa de planilhas com "
-"ênfase na precisão."
+"Para suas necessidades de escritório, o Xubuntu vem com o <em>Abiword</em>, "
+"um editor de texto leve, que pode ler quase todos os formatos de documentos "
+"conhecidos."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
 msgid ""
-"While Abiword and Gnumeric are lightweight, they provide almost all of the "
-"functions of the LibreOffice suite."
+"If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
+"repositories."
 msgstr ""
-"Enquanto Abiword e Gnumeric são leves, eles fornecem quase todas as funções "
-"que o pacote LibreOffice."
+"Se você precisa de um editor de planilhas de cálculo, instale o "
+"<em>Gnumeric</em> a partir dos repositórios."
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_office.html:9
+msgid ""
+"LibreOffice is also available in the repositories, if you're more "
+"comfortable with it or need a full office suite."
+msgstr ""
+"O LibreOffice também está disponível nos repositórios, se você está mais "
+"acostumado com ele ou precisa uma suíte de escritório completa."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Office <span>»</span>"
 msgstr "Escritório <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:11
+#: slideshows/xubuntu/slides/04_office.html:12
 msgid "Abiword"
 msgstr "Abiword"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:12
-msgid "Gnumeric"
-msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -227,7 +228,7 @@ msgstr "1"
 msgid ""
 "The application-menu gives you complete access to all your applications."
 msgstr ""
-"O menu de aplicação lhe dá completo acesso a todos os seus aplicativos."
+"O menu de aplicativos dá a você acesso completo a todos os seus aplicativos."
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:12
@@ -240,9 +241,9 @@ msgid ""
 "The launcher panel gives you <em>quick access</em> to your most important "
 "applications. It is set to autohide by default to preserve screen estate."
 msgstr ""
-"O painel lançador dá a você <em>rápido acesso</em> para seus mais "
-"importantes aplicativos. Está definido por padrão como auto ocultar para "
-"preservar o estado da tela."
+"O painel lançador dá a você <em>acesso rápido</em> a seus aplicativos mais "
+"importantes. Ele está configurado por padrão para se ocultar automaticamente "
+"para preservar o estado da tela."
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:16
@@ -258,7 +259,7 @@ msgstr "Aplicativos em execução são mostradas no painel superior."
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/06_explore.html:2
 msgid "Know your desktop"
-msgstr "Conheça seu desktop"
+msgstr "Conheça seu ambiente de trabalho"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:7
@@ -266,8 +267,8 @@ msgid ""
 "For easy installation of new software, use the <em>Ubuntu Software Center</"
 "em>."
 msgstr ""
-"Para uma fácil instalação de um novo software, use a <em>Central do "
-"Programas do Ubuntu</em>."
+"Para a instalação fácil de um novo programa, use a <em>Central do Programas "
+"do Ubuntu</em>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:8
@@ -335,3 +336,28 @@ msgstr ""
 "Finalmente, encontre diferentes maneiras de contribuir com o Xubuntu na "
 "seção do nosso site <a href=\"http://xubuntu.org/devel\">Envolva-se</a>. "
 "Precisamos da sua ajuda!"
+
+#~ msgid "Gnumeric"
+#~ msgstr "Gnumeric"
+
+#~ msgid "Lighter alternatives"
+#~ msgstr "Alternativas leves"
+
+#~ msgid ""
+#~ "While Abiword and Gnumeric are lightweight, they provide almost all of "
+#~ "the functions of the LibreOffice suite."
+#~ msgstr ""
+#~ "Enquanto Abiword e Gnumeric são leves, eles fornecem quase todas as "
+#~ "funções que o pacote LibreOffice."
+
+#~ msgid ""
+#~ "<em>Abiword</em> is a word processor, which can read almost all known "
+#~ "document formats. <em>Gnumeric</em> is a spreadsheet program with an "
+#~ "emphasis on accuracy."
+#~ msgstr ""
+#~ "<em>Abiword</em> é um processador de texto, que abre quase todos os "
+#~ "formatos de documentos conhecidos. <em>Gnumeric</em> é um programa de "
+#~ "planilhas com ênfase na precisão."
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 12.04 LTS."
+#~ msgstr "Você optou por instalar a última versão do Xubuntu, 12.04 LTS."

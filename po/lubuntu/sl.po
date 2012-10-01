@@ -7,340 +7,466 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-03-21 12:17-0300\n"
-"PO-Revision-Date: 2012-02-24 13:36+0000\n"
+"POT-Creation-Date: 2012-10-01 08:19-0600\n"
+"PO-Revision-Date: 2012-09-27 07:23+0000\n"
 "Last-Translator: Andrej Znidarsic <andrej.znidarsic@gmail.com>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-09-20 17:21+0000\n"
-"X-Generator: Launchpad (build 15985)\n"
+"X-Launchpad-Export-Date: 2012-10-01 15:37+0000\n"
+"X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/browser.html:1
-msgid "Internet with Chromium"
-msgstr "Internet z brskalnikom Chromium"
+#: slideshows/lubuntu/slides/00_welcome.html:1
+msgid "Welcome to Lubuntu 12.10"
+msgstr "Dobrodošli v Lubuntu 12.10"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/browser.html:8
+#: slideshows/lubuntu/slides/00_welcome.html:8
 msgid ""
-"Lubuntu is shipped with <em>Chromium</em>, the open-source version of "
-"Chrome, a browser developed by Google."
+"Lubuntu is designed to be lightweight, easy and fast. Let's have a closer "
+"look!"
 msgstr ""
-"Lubuntu vsebuje <em>Chromium</em>, odprtokodno različico brskalnika Chrome, "
-"ki ga razvija Google."
+"Lubuntu je zasnovan, da je lahek, preprost in hiter. Pa si oglejmo pobližje!"
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/01_lxde.html:1
+msgid "Built on a solid foundation"
+msgstr "Zgrajen je na trdnih temeljih"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/browser.html:12
-msgid "It's fast with a clean user interface."
-msgstr "Je hiter in vsebuje preprost uporabniški vmesnik."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/browser.html:16
+#: slideshows/lubuntu/slides/01_lxde.html:8
 msgid ""
-"More information on the <a href=\"http://sites.google.com/a/chromium.org/dev/"
-"Home\">Chromium website</a>."
+"Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing and "
+"energy-saving desktop environment. LXDE has been proven to work well with "
+"both old and new computers, ensuring you a smooth desktop experience."
 msgstr ""
-"Več podrobnosti lahko najdete na <a href=\"http://sites.google.com/a/"
-"chromium.org/dev/Home\">spletišču Chromium</a>."
+"Lubuntu temelji na <em>namiznem okolju LXDE </em>, hitro delujočem in "
+"energetsko varčnem namiznem okolju. LXDE dokazano deluje dobro z novimi in "
+"starimi računalniki, kar vam zagotavlja gladko namizno izkušnjo."
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/02_browser.html:1
+msgid "Browse the web"
+msgstr "Brskajte po spletu"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/02_browser.html:8
+msgid ""
+"Browse the web with <em>Chromium</em>, the open-source version of Chrome, a "
+"web browser developed by Google. It's safe, stable, fast and even supports "
+"your favorite addons/extensions."
+msgstr ""
+"Brskajte po spletu s <em>Chromium</em>, odprtokodno različico Chromea, "
+"spletnim brskalnikom, ki ga je razvil Google. Je varen, stabilen, hiter in "
+"celo podpira vaše priljubljene dodatke/razširitve."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/02_browser.html:12
+msgid ""
+"Did you know that Lubuntu has it's own Chrome extension available for free? "
+"Visit the <a href=\"https://chrome.google.com/webstore/detail/"
+"hemkkjpjknkkndhconammdhlhdkjclim\">Chrome Web Store</a> for more information."
+msgstr ""
+"Ali ste vedeli, da ima Lubuntu svojo razširitev Chrome, ki je na voljo "
+"brezplačno? Za več podrobnosti obiščite <a href=\"https://chrome.google.com/"
+"webstore/detail/hemkkjpjknkkndhconammdhlhdkjclim\">Chrome Web Store</a>."
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/lubuntu/slides/browser.html:20
-#: slideshows/lubuntu/slides/email.html:20
-#: slideshows/lubuntu/slides/im.html:20
-#: slideshows/lubuntu/slides/office.html:12
-#: slideshows/lubuntu/slides/videos.html:20
+#: slideshows/lubuntu/slides/02_browser.html:16
+#: slideshows/lubuntu/slides/03_office.html:12
+#: slideshows/lubuntu/slides/04_media.html:18
+#: slideshows/lubuntu/slides/05_social.html:12
 msgid "Included software"
 msgstr "Vključeni programi"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/browser.html:24
-msgid "Chromium web browser"
-msgstr "Chromium spletni brskalnik"
+#: slideshows/lubuntu/slides/02_browser.html:20
+msgid "Chromium"
+msgstr "Chromium"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/lubuntu/slides/browser.html:27
-#: slideshows/lubuntu/slides/email.html:27
-#: slideshows/lubuntu/slides/im.html:27
-#: slideshows/lubuntu/slides/office.html:27
-#: slideshows/lubuntu/slides/videos.html:27
+#: slideshows/lubuntu/slides/02_browser.html:23
+#: slideshows/lubuntu/slides/03_office.html:23
+#: slideshows/lubuntu/slides/04_media.html:32
+#: slideshows/lubuntu/slides/05_social.html:19
 msgid "Supported software"
 msgstr "Podprti programi"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/browser.html:31
-msgid "Firefox web browser"
-msgstr "Spletni brskalnik Firefox"
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/email.html:1
-msgid "Checking your emails"
-msgstr "Branje elektronske pošte"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/email.html:8
-msgid "Lubuntu provides a mail client named <em>Sylpheed</em>."
-msgstr "Lubuntu vsebuje poštni odjemalec <em>Sylpheed</em>."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/email.html:12
-msgid ""
-"It will allow you to check your email messages, and read them even if you "
-"are offline."
-msgstr ""
-"Omogoča vam preverjanje za nova sporočila elektronske pošte in njihovo "
-"branje tudi, ko niste povezani."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/email.html:16
-msgid ""
-"More information on <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed "
-"website</a>."
-msgstr ""
-"Več podrobnosti lahko najdete na <a href=\"http://sylpheed.sraoss.jp/en/"
-"\">spletišču Sylpheed</a>."
+#: slideshows/lubuntu/slides/02_browser.html:27
+msgid "Flash"
+msgstr "Flash"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/email.html:24
-msgid "Sylpheed"
-msgstr "Sylpheed"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/email.html:31
-msgid "Thunderbird mail client"
-msgstr "Poštni odjemalec Thunderbird"
+#: slideshows/lubuntu/slides/02_browser.html:32
+msgid "Firefox"
+msgstr "Firefox"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/help.html:1
-msgid "Getting Help"
-msgstr "Kako do pomoči"
+#: slideshows/lubuntu/slides/03_office.html:1
+msgid "Create and edit documents"
+msgstr "Ustvarite in uredite dokumente"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/help.html:8
-msgid "If you need help, you can contact us:"
-msgstr "Če potrebujete pomoč, lahko navežete stik  z nami:"
-
-#.  The url should not be translated 
-#. type: Content of: <div><div><div><li>
-#: slideshows/lubuntu/slides/help.html:12
+#: slideshows/lubuntu/slides/03_office.html:8
 msgid ""
-"Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki page</"
-"a>."
+"Use <em>Abiword</em> and <em>Gnumeric</em>, lightweight alternatives for "
+"LibreOffice, to create documents and spreadsheets. Both applications provide "
+"support for industry standard document types and will allow you to "
+"collaborate on documents written by colleagues, friends or family."
 msgstr ""
-"Z uporabo <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki strani</"
-"a>."
-
-#. type: Content of: <div><div><div><li>
-#: slideshows/lubuntu/slides/help.html:16
-msgid ""
-"On the mailing list, subscribe on <a href=\"https://launchpad.net/~lubuntu-"
-"desktop\">the page</a>."
-msgstr ""
-"Na dopisni seznam se naročite na <a href=\"https://launchpad.net/~lubuntu-"
-"desktop\">tej strani</a>."
-
-#. type: Content of: <div><div><div><li>
-#: slideshows/lubuntu/slides/help.html:20
-msgid "On the IRC chan #lubuntu on irc.freenode.net."
-msgstr "Na IRC kanalu #lubuntu na irc.freenode.net"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/help.html:24
-msgid "The installation will finish soon. We hope you enjoy Lubuntu."
-msgstr ""
-"Namestitev se bo kmalu zaključila. Upamo, da boste v Lubuntuju uživali."
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/im.html:1
-msgid "Chatting with your friends"
-msgstr "Klepetajte s prijatelji"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/im.html:8
-msgid "With <em>Pidgin</em>, you will be able to chat with your friends."
-msgstr ""
-"S programom <em>Pidgin</em> boste lahko klepetali s svojimi prijatelji."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/im.html:12
-msgid ""
-"Go to the menu, and click on Pidgin icon to connect to many services, such "
-"as Jabber, Google Talk or Windows Live."
-msgstr ""
-"Pojdite v meni in kliknite na ikono Pidgin za povezavo z veliko storitvami "
-"kot so Jabber, Google Talk ali Windows Live."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/im.html:16
-msgid "More information on <a href=\"http://pidgin.im/\">Pidgin website</a>."
-msgstr ""
-"Več podrobnosti lahko najdete na <a href=\"http://pidgin.im/\">spletišu "
-"Pidgin</a>."
+"Za ustvarjanje dokumentov in preglednic uporabite <em>Abiword</em> in "
+"<em>Gnumeric</em>, lahki nadomestitvi za LibreOffice. Oba programa nudita "
+"podporo standardiziranim vrstam dokumentov  in vam omogočata, da sodelujete "
+"pri dokumentih, ki so jih spisali sodelavci, prijatelji ali družina."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/im.html:24
-msgid "Pidgin"
-msgstr "Pidgin"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/im.html:31
-msgid "Empathy IM"
-msgstr "Hipni sporočilnik Empathy"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/im.html:35
-msgid "Skype"
-msgstr "Skype"
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/install.html:1
-msgid "Install software"
-msgstr "Nameščanje programov"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/install.html:8
-msgid ""
-"With Lubuntu, you have access to the whole Ubuntu repository and all the "
-"software included."
-msgstr ""
-"V Lubuntuju imate dostop do celotnega skladišča Ubuntu in vseh vključenih "
-"programov."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/install.html:12
-msgid ""
-"Go to the menu, click on System Tools and <em>Synaptic Software Manager</em>."
-msgstr ""
-"Pojdite v meni, kliknite na Sistemska orodja in <em>Synaptic upravljalnik "
-"programov</em>."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/install.html:16
-msgid "You can search for software by clicking on the Search button."
-msgstr "Programe lahko iščete z uporabo gumba išči."
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/lxde.html:1
-msgid "Based on LXDE Desktop"
-msgstr "Osnovan na namizju LXDE"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/lxde.html:8
-msgid ""
-"Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing and "
-"energy-saving desktop environment."
-msgstr ""
-"Lubuntu je osnovan na <em>LXDE</em>, hitro delujočem in energijsko varčnem "
-"namiznem okolju."
-
-#.  The url "lxde.org" should not be translated 
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/lxde.html:12
-msgid "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
-msgstr ""
-"Več podrobnosti lahko najdete na <a href=\"http://lxde.org\">spletišču LXDE</"
-"a>."
-
-#. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/office.html:1
-msgid "Abiword and Gnumeric"
-msgstr "Abiword in Gnumeric"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/office.html:8
-msgid ""
-"Use <em>Abiword and Gnumeric</em>, lightweight alternatives for LibreOffice, "
-"and create letters, spreadsheets, etc. Information on <a href=\"http://www."
-"abisource.com/\">Abiword</a> and <a href=\"http://projects.gnome.org/"
-"gnumeric/\">Gnumeric</a> websites."
-msgstr ""
-"Uporabite <em>Abiword and Gnumeric</em>, lahka nadomestka za LibreOffice, in "
-"ustvarite pisma, preglednice, itd. Podrobnosti najdete na spletiščih <a href="
-"\"http://www.abisource.com/\">Abiword</a> in <a href=\"http://projects.gnome."
-"org/gnumeric/\">Gnumeric</a>."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:16
+#: slideshows/lubuntu/slides/03_office.html:16
 msgid "Abiword"
 msgstr "Abiword"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:20
+#: slideshows/lubuntu/slides/03_office.html:20
 msgid "Gnumeric"
 msgstr "Gnumeric"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:24
-msgid "Xpad Notes"
-msgstr "Xpad Notes"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:31
+#: slideshows/lubuntu/slides/03_office.html:27
 msgid "LibreOffice"
 msgstr "LibreOffice"
 
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/04_media.html:1
+msgid "Enjoy your music and videos"
+msgstr "Uživajte ob svoji glasbi in posnetkih"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/04_media.html:10
+msgid ""
+"Listen to your favorite music with <em>Audacious</em>, a simple but powerful "
+"audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
+"video player powered by mplayer with support for many formats."
+msgstr ""
+"Poslušajte svojo najljubšo glasbo z <em>Audacious</em>, preprostim, a "
+"zmogljivim predvajalnikom zvoka. In uživajte ob vaših posnetkih z <em>Gnome-"
+"Mplayer</em>, hitrim predvajalnikom posnetkov, ki ga poganja mplayer in "
+"podpira mnogo vrst videa."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/04_media.html:14
+msgid ""
+"You can also obtain additional codec support by installing the <em>lubuntu-"
+"restricted-extras</em> package."
+msgstr ""
+"Prav tako lahko pridobite dodatno podporo za kodeke z namestitvijo paketa "
+"<em>lubuntu-restricted-extras</em>."
+
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/office.html:35
-msgid "Tomboy Notes"
-msgstr "Sporočilca Tomboy"
+#: slideshows/lubuntu/slides/04_media.html:23
+msgid "Audacious"
+msgstr "Audacious"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:28
+msgid "Gnome-Mplayer"
+msgstr "Gnome-Mplayer"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:36
+msgid "Exaile"
+msgstr "Exaile"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/04_media.html:41
+msgid "VLC media player"
+msgstr "Večpredstavnostni predvajalnik VLC"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/videos.html:1
-msgid "Videos with gnome-mplayer"
-msgstr "Video posnetki z gnome-mplayer"
+#: slideshows/lubuntu/slides/05_social.html:1
+msgid "Chat with your friends"
+msgstr "Klepetajte s svojimi prijatelji"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/videos.html:8
+#: slideshows/lubuntu/slides/05_social.html:8
 msgid ""
-"Watch videos with <em>gnome-mplayer</em>, a fast video player using mplayer. "
-"Support for many formats is included."
+"With <em>Pidgin</em>, you will be able to keep in touch with all your "
+"friends. It supports a wide range of chat services, such as Windows Live, "
+"Google Talk and Facebook."
 msgstr ""
-"Oglejte si videoposnetke z <em>gnome-mplayer</em>, hitrim video "
-"predvajalnikom, ki uporablja mplayer. Vključena je podpora za veliko vrst "
-"datotek."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/videos.html:12
-msgid ""
-"You can also obtain additional non-free support by installing the lubuntu-"
-"restricted-extras package."
-msgstr ""
-"Dodatno podporo za neproste programe lahko dobite z namestitvijo paketa "
-"lubuntu-restricted-extras."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/videos.html:16
-msgid ""
-"More information on <a href=\"http://sites.google.com/site/kdekorte2/"
-"gnomemplayer\">gnome-mplayer website</a>."
-msgstr ""
-"Več podrobnosti o <a href=\"http://sites.google.com/site/kdekorte2/"
-"gnomemplayer\"> dobite na spletišču gnome-mplayer</a>."
+"S <em>Pidgin</em> lahko ostajate v stiku z vsemi svojimi prijatelji. Podpira "
+"mnogo storitev klepeta, kot so Windows Live, Google Talk in Facebook."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/videos.html:24
-msgid "Gnome-Mplayer videos player"
-msgstr "Gnome-Mplayer predvajalnik videoposnetkov"
+#: slideshows/lubuntu/slides/05_social.html:16
+msgid "Pidgin"
+msgstr "Pidgin"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/videos.html:31
-msgid "VLC videos player"
-msgstr "VLC video predvajalnik"
+#: slideshows/lubuntu/slides/05_social.html:23
+msgid "Skype"
+msgstr "Skype"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/lubuntu/slides/05_social.html:28
+msgid "Empathy"
+msgstr "Empathy"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/welcome.html:1
-msgid "Welcome"
-msgstr "Dobrodošli"
+#: slideshows/lubuntu/slides/06_lsc.html:1
+msgid "Download software with ease"
+msgstr "Prejmite programsko opremo z lahkoto"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/welcome.html:8
-msgid "Thank you for choosing Lubuntu 12.04."
-msgstr "Hvala vam, ker ste izbrali Lubuntu 12.04."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/welcome.html:12
-msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
+#: slideshows/lubuntu/slides/06_lsc.html:8
+msgid ""
+"With Lubuntu, you have access to the whole Ubuntu repository and all the "
+"software included. This means that thousands of new applications are ready "
+"for your computer, free of charge. Use the <em>Lubuntu Software Center</em> "
+"and explore categories such as games, science and education, or search for "
+"your favorite software."
 msgstr ""
-"Lubuntu je zasnovan, da bi bil preprost in hiter. Ne bojte se raziskovati!"
+"Z Lubuntujem imate dostop do celotnega skladišča Ubuntuja in vse vključujoče "
+"programske opreme. To pomeni, da je tisoče novih programov brezplačno na "
+"voljo za vaš računalnik. Uporabite <em>Programsko središče Lubuntu</em> in "
+"raziščite kategorije, kot so igre, znanost in izobraževanje, ali pa poiščite "
+"svojo priljubljeno programsko opremo."
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/07_help.html:1
+msgid "Need help?"
+msgstr "Potrebujete pomoč?"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/07_help.html:8
+msgid ""
+"One of the biggest advantages with Lubuntu is the wonderful community that "
+"comes with it. Other users will gladly help you out if you encounter "
+"problems. There are many different ways to get help, the easiest way is to "
+"visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
+"the information you need."
+msgstr ""
+"Ena od največjih prednosti Lubuntuja je čudovita skupnost, ki pride z njim. "
+"Če naletite na težave, vam bodo drugi uporabniki z veseljem pomagali. "
+"Obstaja veliko različnih načinov pomoči, najpreprostejša je ta, da obiščete "
+"naše <a href=\"http://lubuntu.net/\">spletišče</a>, saj smo zbrali vse "
+"podatke, ki jih potrebujete."
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/08_thanks.html:1
+msgid "Thank you for choosing Lubuntu"
+msgstr "Hvala, ker ste izbrali Lubuntu"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/lubuntu/slides/08_thanks.html:8
+msgid ""
+"The installation will finish soon. We hope you will enjoy Lubuntu and all "
+"the freedom that comes with it.  If you wish to help us improve Lubuntu, "
+"either by giving us feedback or by getting involved in the project, please "
+"visit our <a href=\"http://lubuntu.net/\">website</a>."
+msgstr ""
+"Namestitev se bo kmalu končala. Upamo, da boste uživali v Lubuntuju in vsej "
+"svobodi, ki jo prinaša. Če nam želite pomagati izboljšati Lubuntu, bodisi s "
+"povratnimi podatki bodisi z vključitvijo v projekt, obiščite naše <a href="
+"\"http://lubuntu.net/\">spletišče</a>."
+
+#~ msgid ""
+#~ "Lubuntu is shipped with <em>Chromium</em>, the open-source version of "
+#~ "Chrome, a browser developed by Google."
+#~ msgstr ""
+#~ "Lubuntu vsebuje <em>Chromium</em>, odprtokodno različico brskalnika "
+#~ "Chrome, ki ga razvija Google."
+
+#~ msgid "Internet with Chromium"
+#~ msgstr "Internet z brskalnikom Chromium"
+
+#~ msgid "On the IRC chan #lubuntu on irc.freenode.net."
+#~ msgstr "Na IRC kanalu #lubuntu na irc.freenode.net"
+
+#~ msgid "Based on LXDE Desktop"
+#~ msgstr "Osnovan na namizju LXDE"
+
+#~ msgid "Checking your emails"
+#~ msgstr "Branje elektronske pošte"
+
+#~ msgid "Chatting with your friends"
+#~ msgstr "Klepetajte s prijatelji"
+
+#~ msgid "Lubuntu provides a mail client named <em>Sylpheed</em>."
+#~ msgstr "Lubuntu vsebuje poštni odjemalec <em>Sylpheed</em>."
+
+#~ msgid "Welcome"
+#~ msgstr "Dobrodošli"
+
+#~ msgid "You can search for software by clicking on the Search button."
+#~ msgstr "Programe lahko iščete z uporabo gumba išči."
+
+#~ msgid "Lubuntu is designed to be easy and fast. Feel free to explore!"
+#~ msgstr ""
+#~ "Lubuntu je zasnovan, da bi bil preprost in hiter. Ne bojte se raziskovati!"
+
+#~ msgid "Videos with gnome-mplayer"
+#~ msgstr "Video posnetki z gnome-mplayer"
+
+#~ msgid "It's fast with a clean user interface."
+#~ msgstr "Je hiter in vsebuje preprost uporabniški vmesnik."
+
+#~ msgid "Abiword and Gnumeric"
+#~ msgstr "Abiword in Gnumeric"
+
+#~ msgid ""
+#~ "Using the <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
+#~ "page</a>."
+#~ msgstr ""
+#~ "Z uporabo <a href=\"https://wiki.ubuntu.com/Lubuntu/ContactUs\">wiki "
+#~ "strani</a>."
+
+#~ msgid ""
+#~ "You can also obtain additional non-free support by installing the lubuntu-"
+#~ "restricted-extras package."
+#~ msgstr ""
+#~ "Dodatno podporo za neproste programe lahko dobite z namestitvijo paketa "
+#~ "lubuntu-restricted-extras."
+
+#~ msgid "Getting Help"
+#~ msgstr "Kako do pomoči"
+
+#~ msgid "The installation will finish soon. We hope you enjoy Lubuntu."
+#~ msgstr ""
+#~ "Namestitev se bo kmalu zaključila. Upamo, da boste v Lubuntuju uživali."
+
+#~ msgid ""
+#~ "Lubuntu is based on <em>LXDE Desktop Environment</em>, a fast-performing "
+#~ "and energy-saving desktop environment."
+#~ msgstr ""
+#~ "Lubuntu je osnovan na <em>LXDE</em>, hitro delujočem in energijsko "
+#~ "varčnem namiznem okolju."
+
+#~ msgid "With <em>Pidgin</em>, you will be able to chat with your friends."
+#~ msgstr ""
+#~ "S programom <em>Pidgin</em> boste lahko klepetali s svojimi prijatelji."
+
+#~ msgid "If you need help, you can contact us:"
+#~ msgstr "Če potrebujete pomoč, lahko navežete stik  z nami:"
+
+#~ msgid "Empathy IM"
+#~ msgstr "Hipni sporočilnik Empathy"
+
+#~ msgid ""
+#~ "Go to the menu, and click on Pidgin icon to connect to many services, "
+#~ "such as Jabber, Google Talk or Windows Live."
+#~ msgstr ""
+#~ "Pojdite v meni in kliknite na ikono Pidgin za povezavo z veliko "
+#~ "storitvami kot so Jabber, Google Talk ali Windows Live."
+
+#~ msgid "Thunderbird mail client"
+#~ msgstr "Poštni odjemalec Thunderbird"
+
+#~ msgid "Chromium web browser"
+#~ msgstr "Chromium spletni brskalnik"
+
+#~ msgid "Firefox web browser"
+#~ msgstr "Spletni brskalnik Firefox"
+
+#~ msgid "Sylpheed"
+#~ msgstr "Sylpheed"
+
+#~ msgid ""
+#~ "Go to the menu, click on System Tools and <em>Synaptic Software Manager</"
+#~ "em>."
+#~ msgstr ""
+#~ "Pojdite v meni, kliknite na Sistemska orodja in <em>Synaptic upravljalnik "
+#~ "programov</em>."
+
+#~ msgid "Install software"
+#~ msgstr "Nameščanje programov"
+
+#~ msgid "Gnome-Mplayer videos player"
+#~ msgstr "Gnome-Mplayer predvajalnik videoposnetkov"
+
+#~ msgid "Xpad Notes"
+#~ msgstr "Xpad Notes"
+
+#~ msgid "Tomboy Notes"
+#~ msgstr "Sporočilca Tomboy"
+
+#~ msgid ""
+#~ "Watch videos with <em>gnome-mplayer</em>, a fast video player using "
+#~ "mplayer. Support for many formats is included."
+#~ msgstr ""
+#~ "Oglejte si videoposnetke z <em>gnome-mplayer</em>, hitrim video "
+#~ "predvajalnikom, ki uporablja mplayer. Vključena je podpora za veliko vrst "
+#~ "datotek."
+
+#~ msgid "VLC videos player"
+#~ msgstr "VLC video predvajalnik"
+
+#~ msgid ""
+#~ "More information on the <a href=\"http://sites.google.com/a/chromium.org/"
+#~ "dev/Home\">Chromium website</a>."
+#~ msgstr ""
+#~ "Več podrobnosti lahko najdete na <a href=\"http://sites.google.com/a/"
+#~ "chromium.org/dev/Home\">spletišču Chromium</a>."
+
+#~ msgid ""
+#~ "It will allow you to check your email messages, and read them even if you "
+#~ "are offline."
+#~ msgstr ""
+#~ "Omogoča vam preverjanje za nova sporočila elektronske pošte in njihovo "
+#~ "branje tudi, ko niste povezani."
+
+#~ msgid ""
+#~ "On the mailing list, subscribe on <a href=\"https://launchpad.net/"
+#~ "~lubuntu-desktop\">the page</a>."
+#~ msgstr ""
+#~ "Na dopisni seznam se naročite na <a href=\"https://launchpad.net/~lubuntu-"
+#~ "desktop\">tej strani</a>."
+
+#~ msgid ""
+#~ "More information on <a href=\"http://sylpheed.sraoss.jp/en/\">Sylpheed "
+#~ "website</a>."
+#~ msgstr ""
+#~ "Več podrobnosti lahko najdete na <a href=\"http://sylpheed.sraoss.jp/en/"
+#~ "\">spletišču Sylpheed</a>."
+
+#~ msgid ""
+#~ "More information on <a href=\"http://pidgin.im/\">Pidgin website</a>."
+#~ msgstr ""
+#~ "Več podrobnosti lahko najdete na <a href=\"http://pidgin.im/\">spletišu "
+#~ "Pidgin</a>."
+
+#~ msgid ""
+#~ "With Lubuntu, you have access to the whole Ubuntu repository and all the "
+#~ "software included."
+#~ msgstr ""
+#~ "V Lubuntuju imate dostop do celotnega skladišča Ubuntu in vseh vključenih "
+#~ "programov."
+
+#~ msgid ""
+#~ "Use <em>Abiword and Gnumeric</em>, lightweight alternatives for "
+#~ "LibreOffice, and create letters, spreadsheets, etc. Information on <a "
+#~ "href=\"http://www.abisource.com/\">Abiword</a> and <a href=\"http://"
+#~ "projects.gnome.org/gnumeric/\">Gnumeric</a> websites."
+#~ msgstr ""
+#~ "Uporabite <em>Abiword and Gnumeric</em>, lahka nadomestka za LibreOffice, "
+#~ "in ustvarite pisma, preglednice, itd. Podrobnosti najdete na spletiščih "
+#~ "<a href=\"http://www.abisource.com/\">Abiword</a> in <a href=\"http://"
+#~ "projects.gnome.org/gnumeric/\">Gnumeric</a>."
+
+#~ msgid ""
+#~ "More information on the <a href=\"http://lxde.org\">LXDE website</a>."
+#~ msgstr ""
+#~ "Več podrobnosti lahko najdete na <a href=\"http://lxde.org\">spletišču "
+#~ "LXDE</a>."
+
+#~ msgid ""
+#~ "More information on <a href=\"http://sites.google.com/site/kdekorte2/"
+#~ "gnomemplayer\">gnome-mplayer website</a>."
+#~ msgstr ""
+#~ "Več podrobnosti o <a href=\"http://sites.google.com/site/kdekorte2/"
+#~ "gnomemplayer\"> dobite na spletišču gnome-mplayer</a>."
+
+#~ msgid "Thank you for choosing Lubuntu 12.04."
+#~ msgstr "Hvala vam, ker ste izbrali Lubuntu 12.04."
