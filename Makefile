@@ -12,6 +12,9 @@ build_init:
 build_ubuntu: build_init
 	cp -rL $(SOURCESLIDES)/ubuntu $(BUILD)
 
+build_ubuntu-gnome: build_init
+	cp -rL $(SOURCESLIDES)/ubuntu-gnome $(BUILD)
+
 build_kubuntu: build_init
 	cp -rL $(SOURCESLIDES)/kubuntu $(BUILD)
 
