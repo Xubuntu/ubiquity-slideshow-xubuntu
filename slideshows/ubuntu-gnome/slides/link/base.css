@@ -47,7 +47,8 @@ html, body {
 Hyperlink-style text
 */
 a {
-	color:#4A98EB;
+	font-size:22px;
+	color:#FFFFFF;
 	text-decoration:none;
 	display:inline;
 }
@@ -161,8 +162,8 @@ Inner space is 224px wide.
 .main > .text {
 	position:absolute;
 	z-index:10;
-	top:25px;
-	left:36px;
+	top:100px;
+	left:40px;
 	width:248px;
 	bottom:35px;
 	min-height:329px; /* 369 - 25 - 15 (for bottom) */
@@ -228,26 +229,16 @@ Inner space is 224px wide.
 	z-index:2;
 }
 
-/* Expects logo to be 448x304 px */
-.main > .logo {
-	position:absolute;
-	top:30px;
-	right:152px;
-	
-	z-index:2;
-}
-
 /* Expects screenshot to be 448x304 px */
 .main > .screenshot {
 	position:absolute;
-	top:35px;
-	right:-2px; /* offsets 2px margin of .main */
+	top:30px;
+	right:125px;
 	
 	z-index:2;
-	
-	-webkit-box-shadow:#999999 0px 0px 5px;
-	-moz-box-shadow:#999999 0px 0px 5px;
-	box-shadow:#999999 0px 0px 5px;
+
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
 }
 
 /* Expects screenshot to be 748x370 px */
