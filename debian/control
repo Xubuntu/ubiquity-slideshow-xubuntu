@@ -68,6 +68,16 @@ Description: Ubiquity slideshow for Ubuntu Studio
  A slideshow intended for the Ubiquity installer, designed as a quick
   introduction to Ubuntu Studio.
 
+Package: ubiquity-slideshow-ubuntu-gnome
+Architecture: all
+Provides: ubiquity-slideshow
+Conflicts: ubiquity-slideshow
+Replaces: ubiquity-slideshow
+Depends: ${misc:Depends}
+Description: Ubiquity slideshow for Ubuntu GNOME
+ A slideshow intended for the Ubiquity installer, designed as a quick 
+ introduction to Ubuntu GNOME.
+
 Package: oem-config-slideshow-ubuntu
 Architecture: all
 Provides: oem-config-slideshow

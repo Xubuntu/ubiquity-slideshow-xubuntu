@@ -47,8 +47,7 @@ html, body {
 Hyperlink-style text
 */
 a {
-	font-size:22px;
-	color:#FFFFFF;
+	color:#4A98EB;
 	text-decoration:none;
 	display:inline;
 }
@@ -162,8 +161,8 @@ Inner space is 224px wide.
 .main > .text {
 	position:absolute;
 	z-index:10;
-	top:100px;
-	left:40px;
+	top:25px;
+	left:36px;
 	width:248px;
 	bottom:35px;
 	min-height:329px; /* 369 - 25 - 15 (for bottom) */

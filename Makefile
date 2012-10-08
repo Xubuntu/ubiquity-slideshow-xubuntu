@@ -35,13 +35,13 @@ build_oem-config-ubuntu: build_init
 
 translations:
 	python generate-local-slides.py ubuntu
-	#python generate-local-slides.py kubuntu
-	#python generate-local-slides.py xubuntu
-	#python generate-local-slides.py lubuntu
-	#python generate-local-slides.py edubuntu
-	#python generate-local-slides.py ubuntustudio
+	python generate-local-slides.py kubuntu
+	python generate-local-slides.py xubuntu
+	python generate-local-slides.py lubuntu
+	python generate-local-slides.py edubuntu
+	python generate-local-slides.py ubuntustudio
 	python generate-local-slides.py ubuntu-gnome
-	#python generate-local-slides.py oem-config-ubuntu
+	python generate-local-slides.py oem-config-ubuntu
 
 .PHONY : clean
 
