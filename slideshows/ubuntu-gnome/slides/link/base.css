@@ -219,10 +219,28 @@ Inner space is 224px wide.
 	vertical-align:middle;
 }
 
+/* Expects icon to be 512x512 px */
+.main > .icon {
+	position:absolute;
+	top:50px;
+	right:50px;
+	
+	z-index:2;
+}
+
+/* Expects logo to be 448x304 px */
+.main > .logo {
+	position:absolute;
+	top:30px;
+	right:152px;
+	
+	z-index:2;
+}
+
 /* Expects screenshot to be 448x304 px */
 .main > .screenshot {
 	position:absolute;
-	top:25px;
+	top:35px;
 	right:-2px; /* offsets 2px margin of .main */
 	
 	z-index:2;
