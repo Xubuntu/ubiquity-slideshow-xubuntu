@@ -237,7 +237,8 @@ Inner space is 224px wide.
 .main.wide > .background {
 	top:0px;
 	right:0px;
-	width:100%;
+	width:auto;
+	height:374px;
 	-webkit-box-shadow:none;
 	-moz-box-shadow:none;
 	box-shadow:none;
