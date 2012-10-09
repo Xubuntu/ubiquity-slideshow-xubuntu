@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-01 12:11-0300\n"
-"PO-Revision-Date: 2012-09-28 00:17+0000\n"
-"Last-Translator: Wang Dianjin <Unknown>\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2012-10-08 01:25+0000\n"
+"Last-Translator: 朱涛 <bill_zt@sina.com>\n"
 "Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2012-10-09 17:48+0000\n"
+"X-Generator: Launchpad (build 16112)\n"
 "X-Poedit-Language: zh_CN\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -60,7 +60,7 @@ msgstr "语言支持"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "网页浏览 顺畅自如"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
@@ -70,6 +70,9 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
+"Ubuntu 预装了 Firefox 浏览器，一个拥有数百万用户的网页浏览工具。该浏览器还具"
+"有将网络应用(如 Facebook 或 Gmail)本地化的功能，让网页应用与桌面环境无缝对"
+"接。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -107,7 +110,6 @@ msgstr "社区协力 有问必答"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
-#, fuzzy
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
 "all your Ubuntu questions. There’s a good chance your question will have "
@@ -117,9 +119,9 @@ msgid ""
 msgstr ""
 "如果您在安装和使用中遇到任何困难，都可以去 <a href=\"http://askubuntu.com/"
 "\">Ask Ubuntu</a> 提出问题。Ask Ubuntu 上的大多数问题都已得到解答，更有成千上"
-"万热心用户随时乐意为您提供帮助，相信您的问题很快就能得到解决。如果您需要在有"
-"限的时间里得到精确的解答，可以在 <a href=\"http://www.ubuntu.com/support"
-"\">ubuntu.com/support</a> 获取商业支持和更多服务。"
+"万热心用户随时乐意为您提供帮助，相信您的问题很快就能得到解决。如果您需要更多"
+"的支持，可以访问 <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a> 。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/gethelp.html:17
@@ -146,6 +148,12 @@ msgid ""
 "your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
 "Mac, Android, iOS and the web."
 msgstr ""
+"免费版<a href=\"https://one.ubuntu.com/services/\"> Ubuntu One </a>帐号为您提"
+"供 5GB 云存储空间，您可以将自己的文件、照片以及 <a href=\"https://one.ubuntu."
+"com/services/music/\">stream your music</a> 存储在云端，并与多个设备进行同"
+"步，以便随时随地都能访问。有了 Ubuntu One，您用手机拍完一张照片，立刻就能在桌"
+"面上看到它。Ubuntu One 可以运行在 Ubuntu、Windows、Mac、Android、iOS 以及网页"
+"版等多种平台上。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:1
@@ -246,14 +254,13 @@ msgstr "消息动态 一览无余"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/social.html:8
-#, fuzzy
 msgid ""
 "The messaging menu gives you an eagle-eye view of incoming messages from all "
 "applications and social networks. So you can see straight away when there’s "
 "something new to read, regardless of how it arrived."
 msgstr ""
-"Ubuntu 消息提醒工具让来自各种程序和社交网络的动态尽收眼底。不管信息来自何方，"
-"只需轻轻一瞥，一切尽在掌握。"
+"Ubuntu 消息指示器让来自各种程序和社交网络的动态尽收眼底。不管信息来自何方，只"
+"需轻轻一瞥，一切尽在掌握。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/social.html:12
@@ -288,6 +295,9 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
+"在网页上茫无头绪地搜索软件的日子将一去不复返了！有了 Ubuntu 软件中心，您可以"
+"方便地查找、安装新的软件。只需要输入您想要查找的软件，或者浏览各种软件类别，"
+"如科学、教育、游戏等，还能看到其它用户的使用心得与评论。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -296,13 +306,29 @@ msgstr "欢迎使用 Ubuntu 12.10"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
-#, fuzzy
 msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
-"Ubuntu 运行流畅，功能丰富，使用起来轻松愉快。带有最新版 Unity 界面的 Ubuntu "
-"12.04 比以往更加易于使用。我们将在接下来的这组幻灯片中为您做一个简要介绍。"
+"最新版本的 Ubuntu 快速且具有丰富新特性，用起来比以往更方便。这里有一些值得注"
+"意的的新玩意……"
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, you can get "
+#~ "commercial support and more at <a href=\"http://www.ubuntu.com/support"
+#~ "\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "如果您在安装和使用中遇到任何困难，都可以去 <a href=\"http://askubuntu.com/"
+#~ "\">Ask Ubuntu</a> 提出问题。Ask Ubuntu 上的大多数问题都已得到解答，更有成"
+#~ "千上万热心用户随时乐意为您提供帮助，相信您的问题很快就能得到解决。如果您需"
+#~ "要在有限的时间里得到精确的解答，可以在 <a href=\"http://www.ubuntu.com/"
+#~ "support\">ubuntu.com/support</a> 获取商业支持和更多服务。"
+
+#~ msgid "Welcome to Ubuntu 12.04 LTS"
+#~ msgstr "欢迎使用 Ubuntu 12.04 LTS"
 
 #~ msgid "Browse the web"
 #~ msgstr "网页浏览 顺畅自如"
@@ -334,6 +360,14 @@ msgstr ""
 #~ "到手机，随时随地享受优美的音乐。"
 
 #~ msgid ""
+#~ "The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+#~ "messages from all applications and social networks. See at a glance when "
+#~ "there’s something new to read, regardless how it arrived."
+#~ msgstr ""
+#~ "Ubuntu 消息提醒工具让来自各种程序和社交网络的动态尽收眼底。不管信息来自何"
+#~ "方，只需轻轻一瞥，一切尽在掌握。"
+
+#~ msgid ""
 #~ "The Ubuntu Software Center has thousands of new applications ready for "
 #~ "your computer. Just type what you want or explore the categories like "
 #~ "games, science, and education. It is easy to download new stuff and write "
@@ -343,5 +377,11 @@ msgstr ""
 #~ "学、教育等各大分类，或直接输入关键字进行搜索。您不仅能在这里轻松下载软件，"
 #~ "还能撰写评论与其它用户分享您的使用体验。"
 
-#~ msgid "Welcome to Ubuntu 12.04 LTS"
-#~ msgstr "欢迎使用 Ubuntu 12.04 LTS"
+#~ msgid ""
+#~ "Fast and feature-packed, Ubuntu makes your PC a delight to use. And with "
+#~ "the latest version of the Unity interface, it's now easier than ever. "
+#~ "Here are a few more cool new things to look out for."
+#~ msgstr ""
+#~ "Ubuntu 运行流畅，功能丰富，使用起来轻松愉快。带有最新版 Unity 界面的 "
+#~ "Ubuntu 12.04 比以往更加易于使用。我们将在接下来的这组幻灯片中为您做一个简"
+#~ "要介绍。"

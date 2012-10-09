@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu-gnome\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-10-01 12:11-0300\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
 "PO-Revision-Date: 2012-08-12 10:09+0000\n"
 "Last-Translator: Danial Behzadi <dani.behzi@gmail.com>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -19,92 +19,19 @@ msgstr ""
 "X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "سفارشی‌سازی‌ اوبونتو"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/accessibility.html:8
-msgid ""
-"At the heart of Ubuntu’s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and options like your preferred "
-"color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
-"are, and wherever you are."
-msgstr ""
-"در دل فلسفه ی اوبونتو باوری است که می‌گوید رایانش برای همه است. با ابزارها و "
-"گزینه‌های پیش‌رفته‌ای چون طرح رنگی، اندازه‌ی متن، و زبان ترجیحی شما، اوبونتو "
-"برای همه است. هرکه و هرکجا که باشید."
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/accessibility.html:12
-msgid "Customization options"
-msgstr "گزینه‌های سفارشی‌سازی"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:16
-msgid "Appearance"
-msgstr "ظاهر"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:20
-msgid "Assistive technologies"
-msgstr "فن‌آوری‌های یاری‌گر"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:24
-msgid "Language support"
-msgstr "پشتیبانی زبان"
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/browse.html:1
-msgid "Make the most of the web"
+#: slideshows/ubuntu-gnome/slides/00_welcome.html:1
+#: slideshows/ubuntu-gnome/slides/01_overview.html:1
+#: slideshows/ubuntu-gnome/slides/02_everything.html:1
+#: slideshows/ubuntu-gnome/slides/03_beautiful.html:1
+#: slideshows/ubuntu-gnome/slides/04_web.html:1
+#: slideshows/ubuntu-gnome/slides/05_documents.html:1
+#: slideshows/ubuntu-gnome/slides/06_messaging.html:1
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
+msgid "Ubuntu GNOME 12.10"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/browse.html:8
-msgid ""
-"Ubuntu includes Firefox, the web browser used by millions of people around "
-"the world. And web applications you use frequently (like Facebook or Gmail, "
-"for example) can be pinned to your desktop for faster access, just like apps "
-"on your computer."
-msgstr ""
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:12
-#: slideshows/ubuntu/slides/music.html:12
-#: slideshows/ubuntu/slides/office.html:12
-#: slideshows/ubuntu/slides/photos.html:12
-msgid "Included software"
-msgstr "نرم‌افزارهای موجود"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:16
-msgid "Firefox web browser"
-msgstr "مرورگر وب فایرفاکس"
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:19
-#: slideshows/ubuntu/slides/photos.html:19
-msgid "Supported software"
-msgstr "نرم‌افزارهای پشتیبانی‌شده"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:23
-msgid "Flash"
-msgstr "فلش"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:27
-msgid "Chromium"
-msgstr "کرومیوم"
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "پرسشی هست؟"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:8
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
 #, fuzzy
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
@@ -120,192 +47,162 @@ msgstr ""
 "را در <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> "
 "بیابید."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "بیا درباره‌ی اوبونتو صحبت کنیم"
+#~ msgid "Customize Ubuntu"
+#~ msgstr "سفارشی‌سازی‌ اوبونتو"
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "دارم #اوبونتو نصب می‌کنم!"
+#~ msgid ""
+#~ "At the heart of Ubuntu’s philosophy is a belief that computing is for "
+#~ "everyone. With advanced accessibility tools and options like your "
+#~ "preferred color scheme, text size, and language, Ubuntu is for anyone. "
+#~ "Whoever you are, and wherever you are."
+#~ msgstr ""
+#~ "در دل فلسفه ی اوبونتو باوری است که می‌گوید رایانش برای همه است. با ابزارها "
+#~ "و گزینه‌های پیش‌رفته‌ای چون طرح رنگی، اندازه‌ی متن، و زبان ترجیحی شما، "
+#~ "اوبونتو برای همه است. هرکه و هرکجا که باشید."
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/mobilise.html:1
-msgid "Your own personal cloud"
-msgstr "ابر شخصی خودتان"
+#~ msgid "Customization options"
+#~ msgstr "گزینه‌های سفارشی‌سازی"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/mobilise.html:8
-msgid ""
-"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> gives you "
-"5GB of free cloud storage to access your files, share your photos and <a "
-"href=\"https://one.ubuntu.com/services/music/\">stream your music</a> to "
-"your computers, tablets and smartphones. Any photo you take appears on all "
-"your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
-"Mac, Android, iOS and the web."
-msgstr ""
+#~ msgid "Appearance"
+#~ msgstr "ظاهر"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/music.html:1
-msgid "Take your music with you"
-msgstr "آهنگ‌هایتان را با خود به همراه ببرید"
+#~ msgid "Assistive technologies"
+#~ msgstr "فن‌آوری‌های یاری‌گر"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/music.html:8
-msgid ""
-"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options and the Ubuntu One music store built in, it’s simple to queue up the "
-"perfect songs. And it works great with CDs and portable music players, so "
-"you can enjoy all your music wherever you go."
-msgstr ""
-"اوبونتو همراه با پخش‌کننده‌ی موسیقی فوق‌العاده‌ی ریتم‌باکس می‌آید. با گزینه‌های پخش "
-"پیش‌رفته و فروشگاه موسیقی درون‌سازی شده‌ی اوبونتو وان، صف‌بندی آوازهای بی‌نظیر "
-"آسان است. و هم‌چنین به‌ بهترین نحو با سی‌دی‌ها و پخش‌کننده‌های موسیقی قابل‌حمل کار "
-"می‌کند، پس می‌توانید هرجا که می‌روید از تمام آهنگ‌هایتان لذت ببرید."
+#~ msgid "Language support"
+#~ msgstr "پشتیبانی زبان"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:16
-msgid "Rhythmbox Music Player"
-msgstr "پخش‌کننده‌ی آهنگ ریتم‌باکس"
+#~ msgid "Included software"
+#~ msgstr "نرم‌افزارهای موجود"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:20
-msgid "Ubuntu One Music Store"
-msgstr "فروشگاه آهنگ اوبونتو وان"
+#~ msgid "Firefox web browser"
+#~ msgstr "مرورگر وب فایرفاکس"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/office.html:1
-msgid "Write and present for free"
-msgstr "آزادانه بنویسید و ارائه دهید"
+#~ msgid "Supported software"
+#~ msgstr "نرم‌افزارهای پشتیبانی‌شده"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/office.html:8
-msgid ""
-"LibreOffice is a free office suite packed with everything you’ll need to "
-"create impressive documents, spreadsheets, and presentations. LibreOffice "
-"tries its best to work with other office software, and it uses the "
-"OpenDocument standards for far-reaching compatibility."
-msgstr ""
-"لیبره‌آفیس یک مجموعه‌ی اداری آزاد است که با هرآنچه برای ساخت اسناد تأثیرگذار، "
-"صفحات گسترده، و ارائه‌ها نیاز دارید بسته‌بندی شده است. لیبره‌آفیس بیش‌ترین تلاشش "
-"را می‌کند تا با دیگر نرم‌افزارهای اداری کار کند، و برای سازگاری گسترده از "
-"استانداردهای OpenDocument استفاده می‌کند."
+#~ msgid "Flash"
+#~ msgstr "فلش"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:16
-msgid "LibreOffice Writer"
-msgstr "نگارنده‌ی لیبره آفیس"
+#~ msgid "Chromium"
+#~ msgstr "کرومیوم"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:20
-msgid "LibreOffice Calc"
-msgstr "حسابگر لیبره آفیس"
+#~ msgid "Any questions?"
+#~ msgstr "پرسشی هست؟"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:24
-msgid "LibreOffice Impress"
-msgstr "ارائه دهنده‌ی لیبره آفیس"
+#~ msgid "Let’s talk Ubuntu"
+#~ msgstr "بیا درباره‌ی اوبونتو صحبت کنیم"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/photos.html:1
-msgid "Have fun with your photos"
-msgstr "از تصاویر خود لذت ببرید"
+#~ msgid "I'm installing #Ubuntu!"
+#~ msgstr "دارم #اوبونتو نصب می‌کنم!"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/photos.html:8
-msgid ""
-"Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
-msgstr ""
-"شات‌ول یک مدیر عکس سودمند است که برای گجت‌های شما آماده شده است. یک دوربین یا "
-"تلفن را برای انتفال عکس‌هایتان وصل کنید، بعد به‌اشتراک گذاری و امن نگه‌داشتن "
-"آن‌ها آسان می‌شود. اگر احساس خلاقیت می‌کنید، می‌توانید برنامه‌های بسیار کاربردی "
-"عکس را از مرکز نرم‌افزاری اوبونتو امتحان کنید."
+#~ msgid "Your own personal cloud"
+#~ msgstr "ابر شخصی خودتان"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:16
-msgid "Shotwell Photo Manager"
-msgstr "مدیر عکس شات‌ول"
+#~ msgid "Take your music with you"
+#~ msgstr "آهنگ‌هایتان را با خود به همراه ببرید"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:23
-msgid "GIMP Image Editor"
-msgstr "ویرایشگر تصویر گیمپ"
+#~ msgid ""
+#~ "Ubuntu comes with the amazing Rhythmbox music player. With advanced "
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
+#~ msgstr ""
+#~ "اوبونتو همراه با پخش‌کننده‌ی موسیقی فوق‌العاده‌ی ریتم‌باکس می‌آید. با گزینه‌های "
+#~ "پخش پیش‌رفته و فروشگاه موسیقی درون‌سازی شده‌ی اوبونتو وان، صف‌بندی آوازهای "
+#~ "بی‌نظیر آسان است. و هم‌چنین به‌ بهترین نحو با سی‌دی‌ها و پخش‌کننده‌های موسیقی "
+#~ "قابل‌حمل کار می‌کند، پس می‌توانید هرجا که می‌روید از تمام آهنگ‌هایتان لذت "
+#~ "ببرید."
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "ویراشگر ویدئوی پی‌تی‌وی"
+#~ msgid "Rhythmbox Music Player"
+#~ msgstr "پخش‌کننده‌ی آهنگ ریتم‌باکس"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/social.html:1
-msgid "Stay connected"
-msgstr "متصل بمانید"
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "فروشگاه آهنگ اوبونتو وان"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/social.html:8
+#~ msgid "Write and present for free"
+#~ msgstr "آزادانه بنویسید و ارائه دهید"
+
+#~ msgid ""
+#~ "LibreOffice is a free office suite packed with everything you’ll need to "
+#~ "create impressive documents, spreadsheets, and presentations. LibreOffice "
+#~ "tries its best to work with other office software, and it uses the "
+#~ "OpenDocument standards for far-reaching compatibility."
+#~ msgstr ""
+#~ "لیبره‌آفیس یک مجموعه‌ی اداری آزاد است که با هرآنچه برای ساخت اسناد "
+#~ "تأثیرگذار، صفحات گسترده، و ارائه‌ها نیاز دارید بسته‌بندی شده است. لیبره‌آفیس "
+#~ "بیش‌ترین تلاشش را می‌کند تا با دیگر نرم‌افزارهای اداری کار کند، و برای "
+#~ "سازگاری گسترده از استانداردهای OpenDocument استفاده می‌کند."
+
+#~ msgid "LibreOffice Writer"
+#~ msgstr "نگارنده‌ی لیبره آفیس"
+
+#~ msgid "LibreOffice Calc"
+#~ msgstr "حسابگر لیبره آفیس"
+
+#~ msgid "LibreOffice Impress"
+#~ msgstr "ارائه دهنده‌ی لیبره آفیس"
+
+#~ msgid "Have fun with your photos"
+#~ msgstr "از تصاویر خود لذت ببرید"
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
+#~ "a camera or a phone to transfer your photos, then it’s easy to share them "
+#~ "and keep them safe. If you’re feeling creative, you can try lots of photo "
+#~ "apps from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "شات‌ول یک مدیر عکس سودمند است که برای گجت‌های شما آماده شده است. یک دوربین "
+#~ "یا تلفن را برای انتفال عکس‌هایتان وصل کنید، بعد به‌اشتراک گذاری و امن "
+#~ "نگه‌داشتن آن‌ها آسان می‌شود. اگر احساس خلاقیت می‌کنید، می‌توانید برنامه‌های "
+#~ "بسیار کاربردی عکس را از مرکز نرم‌افزاری اوبونتو امتحان کنید."
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "مدیر عکس شات‌ول"
+
+#~ msgid "GIMP Image Editor"
+#~ msgstr "ویرایشگر تصویر گیمپ"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "ویراشگر ویدئوی پی‌تی‌وی"
+
+#~ msgid "Stay connected"
+#~ msgstr "متصل بمانید"
+
 #, fuzzy
-msgid ""
-"The messaging menu gives you an eagle-eye view of incoming messages from all "
-"applications and social networks. So you can see straight away when there’s "
-"something new to read, regardless of how it arrived."
-msgstr ""
-"نشانگر پیغام اوبونتو به شما نمایی چشم‌عقابی از پیغام‌های ورودی از همه‌ی "
-"برنامه‌ها و شبکه‌های اجتماعی می‌دهد. وقتی چیز جدیدی برای خواندن هست، بدون توجه "
-"به این که چگونه رسیده است، با یک نگاه آن را ببینید."
+#~ msgid ""
+#~ "The messaging menu gives you an eagle-eye view of incoming messages from "
+#~ "all applications and social networks. So you can see straight away when "
+#~ "there’s something new to read, regardless of how it arrived."
+#~ msgstr ""
+#~ "نشانگر پیغام اوبونتو به شما نمایی چشم‌عقابی از پیغام‌های ورودی از همه‌ی "
+#~ "برنامه‌ها و شبکه‌های اجتماعی می‌دهد. وقتی چیز جدیدی برای خواندن هست، بدون "
+#~ "توجه به این که چگونه رسیده است، با یک نگاه آن را ببینید."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/social.html:12
-msgid "Supported services"
-msgstr "خدمات پشتیبانی‌شده"
+#~ msgid "Supported services"
+#~ msgstr "خدمات پشتیبانی‌شده"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:16
-msgid "Twitter"
-msgstr "توییتر"
+#~ msgid "Twitter"
+#~ msgstr "توییتر"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:20
-msgid "Facebook"
-msgstr "فیس‌بوک"
+#~ msgid "Facebook"
+#~ msgstr "فیس‌بوک"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:24
-msgid "Identi.ca"
-msgstr "آیدنتی.کا"
+#~ msgid "Identi.ca"
+#~ msgstr "آیدنتی.کا"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/usc.html:1
-msgid "Find even more software"
-msgstr "نرم افزارهای بیش‌تری بیابید"
+#~ msgid "Find even more software"
+#~ msgstr "نرم افزارهای بیش‌تری بیابید"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/usc.html:8
-msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 12.10"
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/welcome.html:8
 #, fuzzy
-msgid ""
-"Fast and full of new features, the latest version of Ubuntu makes computing "
-"easier than ever. Here are just a few cool new things to look out for…"
-msgstr ""
-"سریع و پرامکانات، اوبونتو رایانه‌ی شخصی شما را برای استفاده لذت‌بخش می‌کند. و "
-"با آخرین نسخه‌ی رابط یونیتی، اکنون آسان‌تر از همیشه شده است. این‌جا چند چیز "
-"جدید و جالب دیگر برای نگاه انداختن وجود دارد."
+#~ msgid ""
+#~ "Fast and full of new features, the latest version of Ubuntu makes "
+#~ "computing easier than ever. Here are just a few cool new things to look "
+#~ "out for…"
+#~ msgstr ""
+#~ "سریع و پرامکانات، اوبونتو رایانه‌ی شخصی شما را برای استفاده لذت‌بخش می‌کند. "
+#~ "و با آخرین نسخه‌ی رابط یونیتی، اکنون آسان‌تر از همیشه شده است. این‌جا چند "
+#~ "چیز جدید و جالب دیگر برای نگاه انداختن وجود دارد."
 
 #~ msgid "Browse the web"
 #~ msgstr "مرور وب"

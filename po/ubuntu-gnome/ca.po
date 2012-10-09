@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu-gnome\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-01 12:11-0300\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
 "PO-Revision-Date: 2012-09-25 13:50+0000\n"
 "Last-Translator: David Planella <david.planella@ubuntu.com>\n"
 "Language-Team: Catalan\n"
@@ -19,94 +19,19 @@ msgstr ""
 "X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "Personalitzeu l'Ubuntu"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/accessibility.html:8
-msgid ""
-"At the heart of Ubuntu’s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and options like your preferred "
-"color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
-"are, and wherever you are."
-msgstr ""
-"La convicció que tothom hauria de poder utilitzar un ordinador és el punt "
-"central de la filosofia de l'Ubuntu. Eines avançades d'accessibilitat i un "
-"gran nombre d'opcions com ara tipus de lletra, esquemes de colors i "
-"llengües, fan de l'Ubuntu un sistema operatiu universal, sigueu qui sigueu i "
-"sigueu on sigueu."
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/accessibility.html:12
-msgid "Customization options"
-msgstr "Opcions de personalització"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:16
-msgid "Appearance"
-msgstr "Aparença"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:20
-msgid "Assistive technologies"
-msgstr "Tecnologies assistives"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:24
-msgid "Language support"
-msgstr "Suport de llengua"
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/browse.html:1
-msgid "Make the most of the web"
+#: slideshows/ubuntu-gnome/slides/00_welcome.html:1
+#: slideshows/ubuntu-gnome/slides/01_overview.html:1
+#: slideshows/ubuntu-gnome/slides/02_everything.html:1
+#: slideshows/ubuntu-gnome/slides/03_beautiful.html:1
+#: slideshows/ubuntu-gnome/slides/04_web.html:1
+#: slideshows/ubuntu-gnome/slides/05_documents.html:1
+#: slideshows/ubuntu-gnome/slides/06_messaging.html:1
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
+msgid "Ubuntu GNOME 12.10"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/browse.html:8
-msgid ""
-"Ubuntu includes Firefox, the web browser used by millions of people around "
-"the world. And web applications you use frequently (like Facebook or Gmail, "
-"for example) can be pinned to your desktop for faster access, just like apps "
-"on your computer."
-msgstr ""
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:12
-#: slideshows/ubuntu/slides/music.html:12
-#: slideshows/ubuntu/slides/office.html:12
-#: slideshows/ubuntu/slides/photos.html:12
-msgid "Included software"
-msgstr "Programari inclòs"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:16
-msgid "Firefox web browser"
-msgstr "Navegador web Firefox"
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:19
-#: slideshows/ubuntu/slides/photos.html:19
-msgid "Supported software"
-msgstr "Programari compatible"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:23
-msgid "Flash"
-msgstr "Flash"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:27
-msgid "Chromium"
-msgstr "Chromium"
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Alguna pregunta?"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:8
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
 #, fuzzy
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
@@ -121,195 +46,172 @@ msgstr ""
 "poc temps. I si us cal una resposta urgent, podeu obtenir suport comercial i "
 "més a <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Parlem de l'Ubuntu"
+#~ msgid "Customize Ubuntu"
+#~ msgstr "Personalitzeu l'Ubuntu"
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Estic instal·lant l'#Ubuntu!"
+#~ msgid ""
+#~ "At the heart of Ubuntu’s philosophy is a belief that computing is for "
+#~ "everyone. With advanced accessibility tools and options like your "
+#~ "preferred color scheme, text size, and language, Ubuntu is for anyone. "
+#~ "Whoever you are, and wherever you are."
+#~ msgstr ""
+#~ "La convicció que tothom hauria de poder utilitzar un ordinador és el punt "
+#~ "central de la filosofia de l'Ubuntu. Eines avançades d'accessibilitat i "
+#~ "un gran nombre d'opcions com ara tipus de lletra, esquemes de colors i "
+#~ "llengües, fan de l'Ubuntu un sistema operatiu universal, sigueu qui "
+#~ "sigueu i sigueu on sigueu."
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/mobilise.html:1
-msgid "Your own personal cloud"
-msgstr "El vostre núvol personal"
+#~ msgid "Customization options"
+#~ msgstr "Opcions de personalització"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/mobilise.html:8
-msgid ""
-"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> gives you "
-"5GB of free cloud storage to access your files, share your photos and <a "
-"href=\"https://one.ubuntu.com/services/music/\">stream your music</a> to "
-"your computers, tablets and smartphones. Any photo you take appears on all "
-"your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
-"Mac, Android, iOS and the web."
-msgstr ""
+#~ msgid "Appearance"
+#~ msgstr "Aparença"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/music.html:1
-msgid "Take your music with you"
-msgstr "Porteu la vostra música sempre a sobre"
+#~ msgid "Assistive technologies"
+#~ msgstr "Tecnologies assistives"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/music.html:8
-msgid ""
-"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options and the Ubuntu One music store built in, it’s simple to queue up the "
-"perfect songs. And it works great with CDs and portable music players, so "
-"you can enjoy all your music wherever you go."
-msgstr ""
-"L'Ubuntu incorpora l'increïble reproductor de música Rhythmbox. Amb opcions "
-"de reproducció avançades i la botiga de música integrada de l'Ubuntu One, fa "
-"molt senzill crear llistes de reproducció amb les vostres cançons "
-"preferides. També funciona molt bé amb els CD i reproductors de música "
-"portàtils, perquè pugueu gaudir de tota la vostra música allà on aneu."
+#~ msgid "Language support"
+#~ msgstr "Suport de llengua"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:16
-msgid "Rhythmbox Music Player"
-msgstr "Reproductor de música Rhythmbox"
+#~ msgid "Included software"
+#~ msgstr "Programari inclòs"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:20
-msgid "Ubuntu One Music Store"
-msgstr "Botiga de música de l'Ubuntu One"
+#~ msgid "Firefox web browser"
+#~ msgstr "Navegador web Firefox"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/office.html:1
-msgid "Write and present for free"
-msgstr "Escriviu i presenteu gratuïtament"
+#~ msgid "Supported software"
+#~ msgstr "Programari compatible"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/office.html:8
-msgid ""
-"LibreOffice is a free office suite packed with everything you’ll need to "
-"create impressive documents, spreadsheets, and presentations. LibreOffice "
-"tries its best to work with other office software, and it uses the "
-"OpenDocument standards for far-reaching compatibility."
-msgstr ""
-"El LibreOffice és un paquet ofimàtic lliure amb tot el que necessiteu per "
-"crear documents de qualitat, fulls de càlcul i presentacions. El LibreOffice "
-"intenta fer el possible per funcionar amb altres aplicacions ofimàtiques i "
-"utilitza l'estàndard OpenDocument per obtenir una extensa compatibilitat."
+#~ msgid "Flash"
+#~ msgstr "Flash"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:16
-msgid "LibreOffice Writer"
-msgstr "Processador de textos del LibreOffice"
+#~ msgid "Chromium"
+#~ msgstr "Chromium"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:20
-msgid "LibreOffice Calc"
-msgstr "Full de càlcul del LibreOffice"
+#~ msgid "Any questions?"
+#~ msgstr "Alguna pregunta?"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:24
-msgid "LibreOffice Impress"
-msgstr "Editor de presentacions del LibreOffice"
+#~ msgid "Let’s talk Ubuntu"
+#~ msgstr "Parlem de l'Ubuntu"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/photos.html:1
-msgid "Have fun with your photos"
-msgstr "Gaudiu de les vostres fotografies"
+#~ msgid "I'm installing #Ubuntu!"
+#~ msgstr "Estic instal·lant l'#Ubuntu!"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/photos.html:8
-msgid ""
-"Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
-msgstr ""
-"El Shotwell és un pràctic gestor de fotografies compatible amb tots els "
-"vostres ginys. Connecteu-hi una càmera o un telèfon per transferir les "
-"fotografies, de manera que després és molt fàcil compartir-les o mantenir-"
-"les segures. Si us sentiu creatiu, podeu utilitzar moltes altres aplicacions "
-"de fotografia del centre de programari de l'Ubuntu."
+#~ msgid "Your own personal cloud"
+#~ msgstr "El vostre núvol personal"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:16
-msgid "Shotwell Photo Manager"
-msgstr "Gestor fotogràfic Shotwell"
+#~ msgid "Take your music with you"
+#~ msgstr "Porteu la vostra música sempre a sobre"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:23
-msgid "GIMP Image Editor"
-msgstr "Editor d'imatges GIMP"
+#~ msgid ""
+#~ "Ubuntu comes with the amazing Rhythmbox music player. With advanced "
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
+#~ msgstr ""
+#~ "L'Ubuntu incorpora l'increïble reproductor de música Rhythmbox. Amb "
+#~ "opcions de reproducció avançades i la botiga de música integrada de "
+#~ "l'Ubuntu One, fa molt senzill crear llistes de reproducció amb les "
+#~ "vostres cançons preferides. També funciona molt bé amb els CD i "
+#~ "reproductors de música portàtils, perquè pugueu gaudir de tota la vostra "
+#~ "música allà on aneu."
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "Editor de vídeo Pitivi"
+#~ msgid "Rhythmbox Music Player"
+#~ msgstr "Reproductor de música Rhythmbox"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/social.html:1
-msgid "Stay connected"
-msgstr "Mantingueu-vos connectat"
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Botiga de música de l'Ubuntu One"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/social.html:8
+#~ msgid "Write and present for free"
+#~ msgstr "Escriviu i presenteu gratuïtament"
+
+#~ msgid ""
+#~ "LibreOffice is a free office suite packed with everything you’ll need to "
+#~ "create impressive documents, spreadsheets, and presentations. LibreOffice "
+#~ "tries its best to work with other office software, and it uses the "
+#~ "OpenDocument standards for far-reaching compatibility."
+#~ msgstr ""
+#~ "El LibreOffice és un paquet ofimàtic lliure amb tot el que necessiteu per "
+#~ "crear documents de qualitat, fulls de càlcul i presentacions. El "
+#~ "LibreOffice intenta fer el possible per funcionar amb altres aplicacions "
+#~ "ofimàtiques i utilitza l'estàndard OpenDocument per obtenir una extensa "
+#~ "compatibilitat."
+
+#~ msgid "LibreOffice Writer"
+#~ msgstr "Processador de textos del LibreOffice"
+
+#~ msgid "LibreOffice Calc"
+#~ msgstr "Full de càlcul del LibreOffice"
+
+#~ msgid "LibreOffice Impress"
+#~ msgstr "Editor de presentacions del LibreOffice"
+
+#~ msgid "Have fun with your photos"
+#~ msgstr "Gaudiu de les vostres fotografies"
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
+#~ "a camera or a phone to transfer your photos, then it’s easy to share them "
+#~ "and keep them safe. If you’re feeling creative, you can try lots of photo "
+#~ "apps from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "El Shotwell és un pràctic gestor de fotografies compatible amb tots els "
+#~ "vostres ginys. Connecteu-hi una càmera o un telèfon per transferir les "
+#~ "fotografies, de manera que després és molt fàcil compartir-les o mantenir-"
+#~ "les segures. Si us sentiu creatiu, podeu utilitzar moltes altres "
+#~ "aplicacions de fotografia del centre de programari de l'Ubuntu."
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "Gestor fotogràfic Shotwell"
+
+#~ msgid "GIMP Image Editor"
+#~ msgstr "Editor d'imatges GIMP"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Editor de vídeo Pitivi"
+
+#~ msgid "Stay connected"
+#~ msgstr "Mantingueu-vos connectat"
+
 #, fuzzy
-msgid ""
-"The messaging menu gives you an eagle-eye view of incoming messages from all "
-"applications and social networks. So you can see straight away when there’s "
-"something new to read, regardless of how it arrived."
-msgstr ""
-"L'indicador de missatges de l'Ubuntu us proporciona una vista ràpida dels "
-"missatges entrants de totes les aplicacions i xarxes socials. Vegeu d'un cop "
-"d'ull on hi ha alguna cosa per llegir nova, independentment d'on provingui."
+#~ msgid ""
+#~ "The messaging menu gives you an eagle-eye view of incoming messages from "
+#~ "all applications and social networks. So you can see straight away when "
+#~ "there’s something new to read, regardless of how it arrived."
+#~ msgstr ""
+#~ "L'indicador de missatges de l'Ubuntu us proporciona una vista ràpida dels "
+#~ "missatges entrants de totes les aplicacions i xarxes socials. Vegeu d'un "
+#~ "cop d'ull on hi ha alguna cosa per llegir nova, independentment d'on "
+#~ "provingui."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/social.html:12
-msgid "Supported services"
-msgstr "Serveis compatibles"
+#~ msgid "Supported services"
+#~ msgstr "Serveis compatibles"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:16
-msgid "Twitter"
-msgstr "Twitter"
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:20
-msgid "Facebook"
-msgstr "Facebook"
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:24
-msgid "Identi.ca"
-msgstr "Identi.ca"
+#~ msgid "Identi.ca"
+#~ msgstr "Identi.ca"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/usc.html:1
-msgid "Find even more software"
-msgstr "Trobeu encara més programari"
+#~ msgid "Find even more software"
+#~ msgstr "Trobeu encara més programari"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/usc.html:8
-msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
-msgstr ""
+#~ msgid "Welcome to Ubuntu 12.10"
+#~ msgstr "Us donem la benvinguda a l'Ubuntu 12.10"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 12.10"
-msgstr "Us donem la benvinguda a l'Ubuntu 12.10"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/welcome.html:8
 #, fuzzy
-msgid ""
-"Fast and full of new features, the latest version of Ubuntu makes computing "
-"easier than ever. Here are just a few cool new things to look out for…"
-msgstr ""
-"Ràpid i ple de funcions, l'Ubuntu fa que sigui una delícia utilitzar "
-"l'ordinador. Amb l'última versió de la interfície Unity, encara és més fàcil "
-"que mai. Aquí teniu algunes de les coses noves interessants a tindre en "
-"compte."
+#~ msgid ""
+#~ "Fast and full of new features, the latest version of Ubuntu makes "
+#~ "computing easier than ever. Here are just a few cool new things to look "
+#~ "out for…"
+#~ msgstr ""
+#~ "Ràpid i ple de funcions, l'Ubuntu fa que sigui una delícia utilitzar "
+#~ "l'ordinador. Amb l'última versió de la interfície Unity, encara és més "
+#~ "fàcil que mai. Aquí teniu algunes de les coses noves interessants a "
+#~ "tindre en compte."
 
 #~ msgid "Browse the web"
 #~ msgstr "Navegueu pel web"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-01 12:12-0300\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
 "PO-Revision-Date: 2012-04-18 13:37+0000\n"
 "Last-Translator: Andreas N. <Unknown>\n"
 "Language-Team: Norwegian Nynorsk <nn@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2012-10-09 17:48+0000\n"
+"X-Generator: Launchpad (build 16112)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -105,7 +105,6 @@ msgstr "Noko du lurer på?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
-#, fuzzy
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
 "all your Ubuntu questions. There’s a good chance your question will have "
@@ -113,11 +112,6 @@ msgid ""
 "to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
 "support\">ubuntu.com/support</a>."
 msgstr ""
-"Sjekk ut <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, den beste staden "
-"å få svar om Ubuntu. Dei fleste spørsmåla har allereie eit svar, og tusenvis "
-"av personar er klare til å hjelpa deg. Har spørsmålet tidsfrist, kan du få "
-"kommersiell støtte på <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
-"support</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:17
@@ -246,15 +240,11 @@ msgstr "Hald kontakten"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:8
-#, fuzzy
 msgid ""
 "The messaging menu gives you an eagle-eye view of incoming messages from all "
 "applications and social networks. So you can see straight away when there’s "
 "something new to read, regardless of how it arrived."
 msgstr ""
-"Meldingsvarslaren gjev deg full oversikt over meldingar frå alle program og "
-"sosiale medium. Sjå med eit blikk om det noko nytt, uavhengig av kvar det "
-"kom frå."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -307,17 +297,6 @@ msgstr ""
 #~ msgstr "Surf på nettet"
 
 #~ msgid ""
-#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
-#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
-#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
-#~ "Ubuntu Software Center."
-#~ msgstr ""
-#~ "Mozilla Firefox følgjer med Ubuntu for rask og sikker nettlesing. Den er "
-#~ "enkel å bruka og er støtta av ein ikkje-kommersiell organisasjon som "
-#~ "elskar internett. Det finst òg mange alternativ i programvaresenteret for "
-#~ "deg som ikkje er tilhengar av Firefox."
-
-#~ msgid ""
 #~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
 #~ "account gives you 5GB of cloud storage, so you can store and sync your "
 #~ "files and photos across devices and access them wherever you are in the "
@@ -335,6 +314,15 @@ msgstr ""
 #~ "\">musikkoverføring</a> på mobilen for å nyta musikken din på farten."
 
 #~ msgid ""
+#~ "The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+#~ "messages from all applications and social networks. See at a glance when "
+#~ "there’s something new to read, regardless how it arrived."
+#~ msgstr ""
+#~ "Meldingsvarslaren gjev deg full oversikt over meldingar frå alle program "
+#~ "og sosiale medium. Sjå med eit blikk om det noko nytt, uavhengig av kvar "
+#~ "det kom frå."
+
+#~ msgid ""
 #~ "The Ubuntu Software Center has thousands of new applications ready for "
 #~ "your computer. Just type what you want or explore the categories like "
 #~ "games, science, and education. It is easy to download new stuff and write "
@@ -344,6 +332,31 @@ msgstr ""
 #~ "di. Berre skriv kva du vil ha, eller utforsk kategoriane, som spel, "
 #~ "vitskap og utdanning. Det er enkelt å lasta ned noko nytt og skriva "
 #~ "omtalar for å dela meiningane dine."
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, you can get "
+#~ "commercial support and more at <a href=\"http://www.ubuntu.com/support"
+#~ "\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "Sjekk ut <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, den beste "
+#~ "staden å få svar om Ubuntu. Dei fleste spørsmåla har allereie eit svar, "
+#~ "og tusenvis av personar er klare til å hjelpa deg. Har spørsmålet "
+#~ "tidsfrist, kan du få kommersiell støtte på <a href=\"http://www.ubuntu."
+#~ "com/support\">ubuntu.com/support</a>."
+
+#~ msgid ""
+#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
+#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
+#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
+#~ "Ubuntu Software Center."
+#~ msgstr ""
+#~ "Mozilla Firefox følgjer med Ubuntu for rask og sikker nettlesing. Den er "
+#~ "enkel å bruka og er støtta av ein ikkje-kommersiell organisasjon som "
+#~ "elskar internett. Det finst òg mange alternativ i programvaresenteret for "
+#~ "deg som ikkje er tilhengar av Firefox."
 
 #~ msgid ""
 #~ "Thank you for choosing Ubuntu 12.04 LTS. This version brings some "

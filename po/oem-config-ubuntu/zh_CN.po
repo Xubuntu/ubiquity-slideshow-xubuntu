@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-01 12:12-0300\n"
-"PO-Revision-Date: 2012-09-28 00:17+0000\n"
-"Last-Translator: Wang Dianjin <Unknown>\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2012-10-08 01:26+0000\n"
+"Last-Translator: 朱涛 <bill_zt@sina.com>\n"
 "Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2012-10-09 17:48+0000\n"
+"X-Generator: Launchpad (build 16112)\n"
 "X-Poedit-Language: zh_CN\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -60,7 +60,7 @@ msgstr "语言支持"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "网页浏览 顺畅自如"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
@@ -70,6 +70,9 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
+"Ubuntu 预装了 Firefox 浏览器，一个拥有数百万用户的网页浏览工具。该浏览器还具"
+"有将网络应用(如 Facebook 或 Gmail)本地化的功能，让网页应用与桌面环境无缝对"
+"接。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
@@ -107,7 +110,6 @@ msgstr "社区协力 有问必答"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
-#, fuzzy
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
 "all your Ubuntu questions. There’s a good chance your question will have "
@@ -117,9 +119,9 @@ msgid ""
 msgstr ""
 "如果您在安装和使用中遇到任何困难，都可以去 <a href=\"http://askubuntu.com/"
 "\">Ask Ubuntu</a> 提出问题。Ask Ubuntu 上的大多数问题都已得到解答，更有成千上"
-"万热心用户随时乐意为您提供帮助，相信您的问题很快就能得到解决。如果您需要在有"
-"限的时间里得到精确的解答，可以在 <a href=\"http://www.ubuntu.com/support"
-"\">ubuntu.com/support</a> 获取商业支持和更多服务。"
+"万热心用户随时乐意为您提供帮助，相信您的问题很快就能得到解决。如果您需要更多"
+"的支持，可以访问 <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a> 。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:17
@@ -146,6 +148,12 @@ msgid ""
 "your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
 "Mac, Android, iOS and the web."
 msgstr ""
+"免费版<a href=\"https://one.ubuntu.com/services/\"> Ubuntu One </a>帐号为您提"
+"供 5GB 云存储空间，您可以将自己的文件、照片以及 <a href=\"https://one.ubuntu."
+"com/services/music/\">stream your music</a> 存储在云端，并与多个设备进行同"
+"步，以便随时随地都能访问。有了 Ubuntu One，您用手机拍完一张照片，立刻就能在桌"
+"面上看到它。Ubuntu One 可以运行在 Ubuntu、Windows、Mac、Android、iOS 以及网页"
+"版等多种平台上。"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:1
@@ -246,14 +254,13 @@ msgstr "消息动态 一览无余"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:8
-#, fuzzy
 msgid ""
 "The messaging menu gives you an eagle-eye view of incoming messages from all "
 "applications and social networks. So you can see straight away when there’s "
 "something new to read, regardless of how it arrived."
 msgstr ""
-"Ubuntu 消息提醒工具让来自各种程序和社交网络的动态尽收眼底。不管信息来自何方，"
-"只需轻轻一瞥，一切尽在掌握。"
+"Ubuntu 消息指示器让来自各种程序和社交网络的动态尽收眼底。不管信息来自何方，只"
+"需轻轻一瞥，一切尽在掌握。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -288,6 +295,9 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
+"在网页上茫无头绪地搜索软件的日子将一去不复返了！有了 Ubuntu 软件中心，您可以"
+"方便地查找、安装新的软件。只需要输入您想要查找的软件，或者浏览各种软件类别，"
+"如科学、教育、游戏等，还能看到其它用户的使用心得与评论。"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -304,8 +314,15 @@ msgstr ""
 "感谢您使用 Ubuntu 12.10。该版本带来了诸多令人兴奋的变化，如彻底重新设计的桌面"
 "环境 - Unity。配置 Ubuntu 时，将为您展示该幻灯片。"
 
-#~ msgid "Browse the web"
-#~ msgstr "网页浏览 顺畅自如"
+#~ msgid ""
+#~ "The Ubuntu Software Center has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is easy to download new stuff and write "
+#~ "reviews to share your experiences."
+#~ msgstr ""
+#~ "Ubuntu 软件中心为您的计算机带来了成千上万的新奇应用程序。您只需输入想要的"
+#~ "软件，或者浏览游戏、科学、教育等软件分类条目，就可以轻松下载新的软件或者发"
+#~ "表评论分享您的使用体验。"
 
 #~ msgid ""
 #~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
@@ -316,6 +333,23 @@ msgstr ""
 #~ "Ubuntu 中预装了 Mozilla Firefox 浏览器以便您快速安全地浏览网页。这个浏览器"
 #~ "简单易用，并由热爱网络的非营利基金会支持。如果您不喜欢 Firefox 浏览器，"
 #~ "Ubuntu 软件中心内还有很多其它浏览器供您选用。"
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, you can get "
+#~ "commercial support and more at <a href=\"http://www.ubuntu.com/support"
+#~ "\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "如果您在安装和使用中遇到任何困难，都可以去 <a href=\"http://askubuntu.com/"
+#~ "\">Ask Ubuntu</a> 提出问题。Ask Ubuntu 上的大多数问题都已得到解答，更有成"
+#~ "千上万热心用户随时乐意为您提供帮助，相信您的问题很快就能得到解决。如果您需"
+#~ "要在有限的时间里得到精确的解答，可以在 <a href=\"http://www.ubuntu.com/"
+#~ "support\">ubuntu.com/support</a> 获取商业支持和更多服务。"
+
+#~ msgid "Browse the web"
+#~ msgstr "网页浏览 顺畅自如"
 
 #~ msgid ""
 #~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
@@ -334,14 +368,12 @@ msgstr ""
 #~ "到手机，随时随地享受优美的音乐。"
 
 #~ msgid ""
-#~ "The Ubuntu Software Center has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is easy to download new stuff and write "
-#~ "reviews to share your experiences."
+#~ "The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+#~ "messages from all applications and social networks. See at a glance when "
+#~ "there’s something new to read, regardless how it arrived."
 #~ msgstr ""
-#~ "Ubuntu 软件中心为您的计算机带来了成千上万的新奇应用程序。您只需输入想要的"
-#~ "软件，或者浏览游戏、科学、教育等软件分类条目，就可以轻松下载新的软件或者发"
-#~ "表评论分享您的使用体验。"
+#~ "Ubuntu 消息提醒工具让来自各种程序和社交网络的动态尽收眼底。不管信息来自何"
+#~ "方，只需轻轻一瞥，一切尽在掌握。"
 
 #~ msgid ""
 #~ "Thank you for choosing Ubuntu 12.04 LTS. This version brings some "

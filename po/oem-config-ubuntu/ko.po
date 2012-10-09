@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-01 12:12-0300\n"
-"PO-Revision-Date: 2012-03-17 14:24+0000\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2012-10-02 13:59+0000\n"
 "Last-Translator: Kim Boram <boramism@gmail.com>\n"
 "Language-Team: Korean <ko@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2012-10-09 17:48+0000\n"
+"X-Generator: Launchpad (build 16112)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -58,7 +58,7 @@ msgstr "언어 지원"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "웹을 최대한 활용하십시오"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
@@ -68,6 +68,9 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
+"우분투는 전 세계 수백 명이 사용하는 웹 브라우저인 파이어폭스를 포함하고 있습"
+"니다. 또한 페이스북이나 지메일과 같이 자주 사용하는 웹 응용 프로그램을 데스크"
+"탑에 고정하여 컴퓨터 프로그램과 같이 빠르게 접근할 수 있습니다."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
@@ -105,7 +108,6 @@ msgstr "궁금한 점이 있으십니까?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
-#, fuzzy
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
 "all your Ubuntu questions. There’s a good chance your question will have "
@@ -113,12 +115,11 @@ msgid ""
 "to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
 "support\">ubuntu.com/support</a>."
 msgstr ""
-"<a href=\"http://askubuntu.com/\">Ask Ubuntu</a>를 확인하십시오. 우분투에 대"
-"한 질문의 답을 얻을 수 있는 가장 좋은 장소입니다. 대부분의 질문에 대한 대답"
-"이 이미 존재하며 수천 명이 도움을 주기 위해 기다리고 있습니다. 당신의 질문은 "
-"바로 분류됩니다. 특정 시간까지 답을 얻어야 하는 경우에는 <a href=\"http://"
-"www.ubuntu.com/support\">ubuntu.com/support</a> 페이지에서 상업 지원 등을 얻"
-"을 수 있습니다."
+"우분투에 대한 의문이 있는 경우에는 <a href=\"http://askubuntu.com/"
+"\">askubuntu.com</a> 페이지(영문)를 확인하십시오. 의문에 대한 해답이 이미 있"
+"을 수 있으며 그렇지 않은 겨우에는 수천 명의 자원 봉사자들이 최선을 다해 도움"
+"을 줄 것입니다.. 더 많은 지원 옵션은, <a href=\"http://www.ubuntu.com/support"
+"\">ubuntu.com/support</a>. 페이지에서 확인하십시오."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:17
@@ -145,6 +146,12 @@ msgid ""
 "your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
 "Mac, Android, iOS and the web."
 msgstr ""
+"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> 서비스는 컴"
+"퓨터나 스마트폰, 타블릿에서 파일에 접근하거나 사진을 공유할 수 있으며 <a "
+"href=\"https://one.ubuntu.com/services/music/\">음악을 스트림할 수 있는</a> "
+"5GB의 무료 클라우드 공간을 제공합니다. 내가 찍은 사진을 어떤 기기에서도 즉시 "
+"확인할 수 있습니다. Ubuntu One 서비스는 우분투, 윈도, 맥, 안드로이드, iOS 그"
+"리고 웹을 통해 이용하실 수 있습니다."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:1
@@ -247,15 +254,14 @@ msgstr "관계 유지"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:8
-#, fuzzy
 msgid ""
 "The messaging menu gives you an eagle-eye view of incoming messages from all "
 "applications and social networks. So you can see straight away when there’s "
 "something new to read, regardless of how it arrived."
 msgstr ""
-"우분투 메시지 알리미는 모든 프로그램과 소셜 네트워크의 메시지를 빠르게 확인"
-"할 수 있게 도와줍니다. 도착 방식에 관계 없이 새로운 읽을 거리를 한눈에 보세"
-"요."
+"메시지 메뉴는 모든 프로그램과 소셜 네트워크에서 들어오는 메시지를 세심하게 확"
+"인할 수 있도록 도와줄 것입니다. 메시지의 도착 방법과는 상관 없이 읽을 수 있"
+"는 새 메시지가 있다면 바로 확인하실 수 있습니다."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -290,6 +296,10 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
+"더이상 웹에서 새 소프트웨어를 검색할 필요가 없습니다. 우분투 소프트웨어 센터"
+"를 이용하면 프로그램을 쉽게 찾고 설치할 수 있습니다. 찾으려는 프로그램의 이름"
+"을 입력하거나 과학, 교육, 게임과 같은 분류와 다른 사용자의 평가를 찾아보십시"
+"오."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -303,6 +313,9 @@ msgid ""
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
+"우분투 12.10을 선택해주셔서 감사합니다. 이 버전은 전체적으로 다시 디자인한 유"
+"니티 데스크톱 인터페이스와 같은 흥미진진한 변화를 포함하고 있습니다. 우분투"
+"를 설정하는 중 슬라이드 쇼를 통해 확인하실 수 있습니다."
 
 #~ msgid "Browse the web"
 #~ msgstr "웹 찾아보기"
@@ -319,20 +332,28 @@ msgstr ""
 #~ "많은 대안을 찾을 수 있습니다."
 
 #~ msgid ""
-#~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
-#~ "account gives you 5GB of cloud storage, so you can store and sync your "
-#~ "files and photos across devices and access them wherever you are in the "
-#~ "world. Easily share them with friends, family and colleagues. Take a "
-#~ "photo on your mobile phone and immediately see it on your desktop, or add "
-#~ "<a href=\"https://one.ubuntu.com/services/music/\">Music Streaming</a> "
-#~ "for mobile to enjoy your music on the move."
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, you can get "
+#~ "commercial support and more at <a href=\"http://www.ubuntu.com/support"
+#~ "\">ubuntu.com/support</a>."
 #~ msgstr ""
-#~ "<a href=\"https://one.ubuntu.com/services/\">우분투 원 무료</a> 계정은 5GB"
-#~ "의 클라우드 저장소를 제공하므로 전세계 어디에서도 파일과 사진을 여러 장치"
-#~ "에 동기화하고 접근할 수 있습니다. 쉽게 친구들, 가족, 그리고 동료들과 공유"
-#~ "하세요. 휴대전화로 사진을 찍고 바로 데스크톱에서 보거나 모바일용 <a href="
-#~ "\"https://one.ubuntu.com/services/music/\">음악 스트리밍</a>을 추가해 이"
-#~ "동 중에도 음악을 즐기세요"
+#~ "<a href=\"http://askubuntu.com/\">Ask Ubuntu</a>를 확인하십시오. 우분투에 "
+#~ "대한 질문의 답을 얻을 수 있는 가장 좋은 장소입니다. 대부분의 질문에 대한 "
+#~ "대답이 이미 존재하며 수천 명이 도움을 주기 위해 기다리고 있습니다. 당신의 "
+#~ "질문은 바로 분류됩니다. 특정 시간까지 답을 얻어야 하는 경우에는 <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a> 페이지에서 상업 "
+#~ "지원 등을 얻을 수 있습니다."
+
+#~ msgid ""
+#~ "The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+#~ "messages from all applications and social networks. See at a glance when "
+#~ "there’s something new to read, regardless how it arrived."
+#~ msgstr ""
+#~ "우분투 메시지 알리미는 모든 프로그램과 소셜 네트워크의 메시지를 빠르게 확"
+#~ "인할 수 있게 도와줍니다. 도착 방식에 관계 없이 새로운 읽을 거리를 한눈에 "
+#~ "보세요."
 
 #~ msgid ""
 #~ "The Ubuntu Software Center has thousands of new applications ready for "
@@ -353,3 +374,19 @@ msgstr ""
 #~ "우분투 12.04 LTS를 선택해 주셔서 감사합니다. 이 버전을 완전하게 다시 디자"
 #~ "인한 데스크톱 인터페이스인 유니티와 같은 흥미진진한 변화를 제공합니다. 우"
 #~ "분투를 설정하는 동안 슬라이드 쇼를 통해 확인하십시오."
+
+#~ msgid ""
+#~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
+#~ "account gives you 5GB of cloud storage, so you can store and sync your "
+#~ "files and photos across devices and access them wherever you are in the "
+#~ "world. Easily share them with friends, family and colleagues. Take a "
+#~ "photo on your mobile phone and immediately see it on your desktop, or add "
+#~ "<a href=\"https://one.ubuntu.com/services/music/\">Music Streaming</a> "
+#~ "for mobile to enjoy your music on the move."
+#~ msgstr ""
+#~ "<a href=\"https://one.ubuntu.com/services/\">우분투 원 무료</a> 계정은 5GB"
+#~ "의 클라우드 저장소를 제공하므로 전세계 어디에서도 파일과 사진을 여러 장치"
+#~ "에 동기화하고 접근할 수 있습니다. 쉽게 친구들, 가족, 그리고 동료들과 공유"
+#~ "하세요. 휴대전화로 사진을 찍고 바로 데스크톱에서 보거나 모바일용 <a href="
+#~ "\"https://one.ubuntu.com/services/music/\">음악 스트리밍</a>을 추가해 이"
+#~ "동 중에도 음악을 즐기세요"

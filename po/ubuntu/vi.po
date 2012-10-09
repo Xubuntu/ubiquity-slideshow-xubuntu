@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-01 12:11-0300\n"
-"PO-Revision-Date: 2012-03-31 11:54+0000\n"
-"Last-Translator: Hai Lang <hailangvn@gmail.com>\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2012-10-02 04:02+0000\n"
+"Last-Translator: Vu Do Quynh <vdquynh@gmail.com>\n"
 "Language-Team: Vietnamese <vi@li.org>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2012-10-09 17:49+0000\n"
+"X-Generator: Launchpad (build 16112)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -59,7 +59,7 @@ msgstr "Hỗ trợ ngôn ngữ"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Tận dụng tối đa vọc web"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
@@ -69,6 +69,10 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
+"Ubuntu bao gồm trình duyệt Firefox, là phần mềm được hằng triệu người dùng "
+"quanh thế giới. Và nhưng ứng dụng web mà bạn dùng thường xuyên (như Facebook "
+"hoặc Gmail) có thể đặt trên màn hình desktop, giúp truy cập nhanh hơn, như "
+"các ứng dụng khác của máy tính của bạn."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -106,7 +110,6 @@ msgstr "Bạn có thắc mắc?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
-#, fuzzy
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
 "all your Ubuntu questions. There’s a good chance your question will have "
@@ -114,12 +117,11 @@ msgid ""
 "to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
 "support\">ubuntu.com/support</a>."
 msgstr ""
-"Hãy xem <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, nơi tốt nhất để "
-"tìm câu trả lời về Ubuntu. Đa số các câu hỏi đã được đáp lại rồi, và có đến "
-"hằng ngàn người sẵn sàng giúp đỡ để bạn được giải thích mọi thắc mắc. Và nếu "
-"bạn cần có câu trả lời theo thời hạn phù hợp với mình, bạn có thể tìm sự hỗ "
-"trợ chuyên nghiệp và hơn thế nữa tại <a href=\"http://www.ubuntu.com/support"
-"\">ubuntu.com/support</a>."
+"Hãy truy cập <a href=\"http://askubuntu.com/\">askubuntu.com</a> để tìm "
+"những câu trả lời về tất cả nhưng câu hỏi của bạn về Ubuntu. Sẽ có nhiều khả "
+"năng câu hỏi của bạn đã được đắp lại rồi và, nếu chưa có, bạn sẽ gặp hằng "
+"ngàn người tình nguyện sẵn sằng giúp bạn. Để được hỗ trợ đầy đủ hơn hãy truy "
+"cập vào <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/gethelp.html:17
@@ -146,6 +148,13 @@ msgid ""
 "your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
 "Mac, Android, iOS and the web."
 msgstr ""
+"Dịch vụ <a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> "
+"cung cấp cho bạn 5GB không gian lưu trữ miễn phí trên đám mây, cho phép bạn "
+"truy cập các tệp của bạn, chia sẻ các ảnh và <a href=\"https://one.ubuntu."
+"com/services/music/\">đưa dòng nhạc của bạn</a> đến máy tính, máy tính bảng "
+"và điện thoại thông minh của bạn. Như thế, bất kỳ ảnh nào mà bạn chụp sẽ "
+"hiện lên trên tất cả các thiết bị của bạn ngay sau khi chụp xong. Ubuntu One "
+"chạy được trên Ubuntu, Windows, Mac, Android, iOS và web."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:1
@@ -250,15 +259,14 @@ msgstr "Giữ kết nối"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/social.html:8
-#, fuzzy
 msgid ""
 "The messaging menu gives you an eagle-eye view of incoming messages from all "
 "applications and social networks. So you can see straight away when there’s "
 "something new to read, regardless of how it arrived."
 msgstr ""
-"Trình Thông báo tin nhắn Ubuntu đem đến cho bạn cái nhìn tổng thể về các tin "
-"nhắn đến từ các ứng dụng và mạng xã hội. Bạn sẽ nhìn thấy ngay mỗi khi có gì "
-"đó mới để đọc, không phụ thuộc cách bạn nhận được."
+"Thực đơn tin nhắn sẽ giúp bạn nhận ngay có tin nhắn mới từ tất cả các ứng "
+"dụng và mạng xã hội. Vì vậy bạn sẽ biết ngay lập tức mỗi khi có một tin gì "
+"cần đọc không phụ thuộc vào ứng dụng phát tán."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/social.html:12
@@ -293,23 +301,25 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
+"Bạn sẽ không cần phải tìm kiếm phần mềm mới trên web nữa. Nhờ Trung tâm Phần "
+"mềm Ubuntu, bạn sẽ dễ dàng tìm và cài đặt những phần mềm mới. Chỉ cần điền "
+"những gì mà bạn đang cần, hoặc tham khảo các mục phần mềm như Khoa học, Giáo "
+"dục và Chò trơi đã kèm các thông tin hữu ích của nhiều người dùng khác."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
 msgid "Welcome to Ubuntu 12.10"
-msgstr ""
+msgstr "Chúc mừng bạn đã đến với Ubuntu 12.10"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
-#, fuzzy
 msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
-"Ubuntu chạy nhanh và chứa nhiều chức năng để giúp máy tính thật dễ dùng. Với "
-"phiên bản mới nhất của giao diện Unity, việc dùng máy tính trở nên dễ dàng "
-"hơn nữa. Sau đây chúng tôi xin giới thiệu thêm một số điều mới và hay về "
-"Ubuntu."
+"Phiên bản mới nhất của Ubuntu, làm việc nhanh chóng và chứa đầy kỹ năng mới, "
+"sẽ giúp bạn dùng máy tính một cách dễ hơn bao giờ. Sau đây là một vài tiết "
+"mục mới và tuyệt vời cho bạn biết..."
 
 #~ msgid "Browse the web"
 #~ msgstr "Duyệt web"
@@ -324,6 +334,24 @@ msgstr ""
 #~ "an toàn. Mozilla Firefox dễ sử dụng và được tài trợ bởi một quỹ phi lợi "
 #~ "nhuận gắn bó với web. Nếu bạn không phải là một người hâm mộ Firefox thì "
 #~ "có rất nhiều phần mềm thay thế trong Trung tâm phần mềm Ubuntu"
+
+#~ msgid "Welcome to Ubuntu 12.04 LTS"
+#~ msgstr "Chào mừng đến Ubuntu 12.04 LTS"
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, you can get "
+#~ "commercial support and more at <a href=\"http://www.ubuntu.com/support"
+#~ "\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "Hãy xem <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, nơi tốt nhất để "
+#~ "tìm câu trả lời về Ubuntu. Đa số các câu hỏi đã được đáp lại rồi, và có "
+#~ "đến hằng ngàn người sẵn sàng giúp đỡ để bạn được giải thích mọi thắc mắc. "
+#~ "Và nếu bạn cần có câu trả lời theo thời hạn phù hợp với mình, bạn có thể "
+#~ "tìm sự hỗ trợ chuyên nghiệp và hơn thế nữa tại <a href=\"http://www."
+#~ "ubuntu.com/support\">ubuntu.com/support</a>."
 
 #~ msgid ""
 #~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
@@ -345,6 +373,15 @@ msgstr ""
 #~ "thiết bị di dộng để thưởng thức nhạc mỗi khi bạn đi đâu đó."
 
 #~ msgid ""
+#~ "The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+#~ "messages from all applications and social networks. See at a glance when "
+#~ "there’s something new to read, regardless how it arrived."
+#~ msgstr ""
+#~ "Trình Thông báo tin nhắn Ubuntu đem đến cho bạn cái nhìn tổng thể về các "
+#~ "tin nhắn đến từ các ứng dụng và mạng xã hội. Bạn sẽ nhìn thấy ngay mỗi "
+#~ "khi có gì đó mới để đọc, không phụ thuộc cách bạn nhận được."
+
+#~ msgid ""
 #~ "The Ubuntu Software Center has thousands of new applications ready for "
 #~ "your computer. Just type what you want or explore the categories like "
 #~ "games, science, and education. It is easy to download new stuff and write "
@@ -355,5 +392,12 @@ msgstr ""
 #~ "loại phần mềm như trò chơi, khoa học, và giáo dục. Việc tải phần mềm thật "
 #~ "dễ dàng và bạn có thể tham gia góp ý về những trải nghiệm của bạn."
 
-#~ msgid "Welcome to Ubuntu 12.04 LTS"
-#~ msgstr "Chào mừng đến Ubuntu 12.04 LTS"
+#~ msgid ""
+#~ "Fast and feature-packed, Ubuntu makes your PC a delight to use. And with "
+#~ "the latest version of the Unity interface, it's now easier than ever. "
+#~ "Here are a few more cool new things to look out for."
+#~ msgstr ""
+#~ "Ubuntu chạy nhanh và chứa nhiều chức năng để giúp máy tính thật dễ dùng. "
+#~ "Với phiên bản mới nhất của giao diện Unity, việc dùng máy tính trở nên dễ "
+#~ "dàng hơn nữa. Sau đây chúng tôi xin giới thiệu thêm một số điều mới và "
+#~ "hay về Ubuntu."

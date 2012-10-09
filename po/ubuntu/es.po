@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-01 12:11-0300\n"
-"PO-Revision-Date: 2012-10-01 10:39+0000\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2012-10-02 06:51+0000\n"
 "Last-Translator: Paco Molinero <paco@byasl.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2012-10-09 17:48+0000\n"
+"X-Generator: Launchpad (build 16112)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -59,7 +59,7 @@ msgstr "Soporte de idiomas"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Saque el máximo partido de la web"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
@@ -69,6 +69,10 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
+"Ubuntu incluye Firefox, el navegador web usado por millones de personas "
+"alrededor del mundo. Y las aplicaciones web que usa frecuentemente (como "
+"Facebook o Gmail, por ejemplo) pueden anclarse en su escritorio para un "
+"acceso rápido, al igual que las aplicaciones en su equipo."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -106,7 +110,6 @@ msgstr "¿Alguna pregunta?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
-#, fuzzy
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
 "all your Ubuntu questions. There’s a good chance your question will have "
@@ -114,11 +117,11 @@ msgid ""
 "to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
 "support\">ubuntu.com/support</a>."
 msgstr ""
-"Visite <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, el mejor lugar para "
-"obtener una respuesta sobre Ubuntu. Con la mayoría de preguntas ya "
-"respondidas y miles de personas listas para ayudar, será atendido de "
-"inmediato. Si es un usuario profesional, puede obtener soporte comercial y "
-"más en <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"Visite <a href=\"http://askubuntu.com/\">askubuntu.com</a> para obtener "
+"respuestas a sus preguntas sobre Ubuntu. Es muy probable que su pregunta ya "
+"haya sido respondida y, si no, encontrará miles de voluntarios ansiosos por "
+"ayudarle. Para obtener más opciones de asistencia, vaya a <a href=\"http://"
+"www.ubuntu.com/support\">ubuntu.com/support</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/gethelp.html:17
@@ -145,6 +148,12 @@ msgid ""
 "your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
 "Mac, Android, iOS and the web."
 msgstr ""
+"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> le da 5GB "
+"de almacenamiento en nube gratuito para acceder a sus archivos, compartir "
+"sus fotos y <a href=\"https://one.ubuntu.com/services/music/\">transmitir su "
+"música</a> a sus equipos, tabletas y smartphones. Cualquier foto que tome "
+"aparece en sus demás dispositivos al instante. Ubuntu One funciona en "
+"Ubuntu, Windows, Mac, Android, iOS y la web."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:1
@@ -250,16 +259,14 @@ msgstr "Manténgase conectado"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/social.html:8
-#, fuzzy
 msgid ""
 "The messaging menu gives you an eagle-eye view of incoming messages from all "
 "applications and social networks. So you can see straight away when there’s "
 "something new to read, regardless of how it arrived."
 msgstr ""
-"El indicador de mensajes de Ubuntu le permite ver de reojo mensajes "
-"entrantes de todas las aplicaciones y redes sociales. Compruebe con un "
-"vistazo cuando hay algo nuevo que leer, independientemente del lugar de "
-"donde provenga el mensaje."
+"El menú de mensajería le permite ver de reojo los mensajes entrantes de "
+"todas las aplicaciones y redes sociales. Así puede ver enseguida cuando hay "
+"algo nuevo que leer, sin importar su procedencia."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/social.html:12
@@ -294,6 +301,10 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
+"Dígale adiós a buscar software nuevo en la web. Con el Centro de software de "
+"Ubuntu, puede encontrar e instalar aplicaciones nuevas fácilmente. Solo "
+"escriba lo que está buscando, o explore categorías como Ciencia, Educación y "
+"Juegos, junto a reseñas útiles de otros usuarios."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -302,28 +313,15 @@ msgstr "Bienvenido/a a Ubuntu 12.10"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
-#, fuzzy
 msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
-"Rápido y con multitud de prestaciones, Ubuntu hace que disfrute usar su PC. "
-"Y con la última versión de la interfaz Unity, ahora es más fácil que nunca. "
-"Aquí tiene unas cuantas cosas interesantes a tener en cuenta."
+"Rápido y repleto de características nuevas, la versión más reciente de "
+"Ubuntu hace que la computación sea más fácil que nunca. Echemos un vistazo…"
 
 #~ msgid "Browse the web"
 #~ msgstr "Navegue por la web"
-
-#~ msgid ""
-#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
-#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
-#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
-#~ "Ubuntu Software Center."
-#~ msgstr ""
-#~ "Ubuntu incluye Mozilla Firefox para una navegación en la web rápida y "
-#~ "segura. Es sencillo de usar y está respaldado por una fundación sin ánimo "
-#~ "de lucro que ama la web. Si no es fan de Firefox, hay muchas alternativas "
-#~ "en el Centro de software de Ubuntu."
 
 #~ msgid ""
 #~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
@@ -343,6 +341,39 @@ msgstr ""
 #~ "\">streaming de música</a> para disfrutar sus canciones mientras viaja."
 
 #~ msgid ""
+#~ "The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+#~ "messages from all applications and social networks. See at a glance when "
+#~ "there’s something new to read, regardless how it arrived."
+#~ msgstr ""
+#~ "El indicador de mensajes de Ubuntu le permite ver de reojo mensajes "
+#~ "entrantes de todas las aplicaciones y redes sociales. Compruebe con un "
+#~ "vistazo cuando hay algo nuevo que leer, independientemente del lugar de "
+#~ "donde provenga el mensaje."
+
+#~ msgid "Welcome to Ubuntu 12.04 LTS"
+#~ msgstr "Bienvenido/a a Ubuntu 12.04 LTS"
+
+#~ msgid ""
+#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
+#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
+#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
+#~ "Ubuntu Software Center."
+#~ msgstr ""
+#~ "Ubuntu incluye Mozilla Firefox para una navegación en la web rápida y "
+#~ "segura. Es sencillo de usar y está respaldado por una fundación sin ánimo "
+#~ "de lucro que ama la web. Si no es fan de Firefox, hay muchas alternativas "
+#~ "en el Centro de software de Ubuntu."
+
+#~ msgid ""
+#~ "Fast and feature-packed, Ubuntu makes your PC a delight to use. And with "
+#~ "the latest version of the Unity interface, it's now easier than ever. "
+#~ "Here are a few more cool new things to look out for."
+#~ msgstr ""
+#~ "Rápido y con multitud de prestaciones, Ubuntu hace que disfrute usar su "
+#~ "PC. Y con la última versión de la interfaz Unity, ahora es más fácil que "
+#~ "nunca. Aquí tiene unas cuantas cosas interesantes a tener en cuenta."
+
+#~ msgid ""
 #~ "The Ubuntu Software Center has thousands of new applications ready for "
 #~ "your computer. Just type what you want or explore the categories like "
 #~ "games, science, and education. It is easy to download new stuff and write "
@@ -353,5 +384,16 @@ msgstr ""
 #~ "juegos, ciencia y educación. Es sencillo descargar nuevo material y "
 #~ "escribir reseñas para compartir sus experiencias."
 
-#~ msgid "Welcome to Ubuntu 12.04 LTS"
-#~ msgstr "Bienvenido/a a Ubuntu 12.04 LTS"
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, you can get "
+#~ "commercial support and more at <a href=\"http://www.ubuntu.com/support"
+#~ "\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "Visite <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, el mejor lugar "
+#~ "para obtener una respuesta sobre Ubuntu. Con la mayoría de preguntas ya "
+#~ "respondidas y miles de personas listas para ayudar, será atendido de "
+#~ "inmediato. Si es un usuario profesional, puede obtener soporte comercial "
+#~ "y más en <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."

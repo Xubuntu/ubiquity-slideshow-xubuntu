@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu-gnome\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-01 12:11-0300\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
 "PO-Revision-Date: 2011-10-29 10:40+0000\n"
 "Last-Translator: Manop Pornpeanvichanon(มานพ พรเพียรวิชานนท์) <Unknown>\n"
 "Language-Team: Thai <th@li.org>\n"
@@ -19,92 +19,19 @@ msgstr ""
 "X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "ปรับแต่ง Ubuntu"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/accessibility.html:8
-msgid ""
-"At the heart of Ubuntu’s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and options like your preferred "
-"color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
-"are, and wherever you are."
-msgstr ""
-"หัวใจของปรัชญา Ubuntu คือความเชื่อที่ว่าคอมพิวเตอร์เป็นของทุกคน "
-"ด้วยเครื่องมือที่ทันสมัยและการเข้าถึงตัวเลือกเช่นโทนสีที่คุณต้องการ ขนาดตัวอักษรและภาษา Ubuntu "
-"เป็นสำหรับทุก ๆ คน ไม่ว่าคุณจะเป็นใคร"
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/accessibility.html:12
-msgid "Customization options"
-msgstr "ตัวเลือกการปรับแต่ง"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:16
-msgid "Appearance"
-msgstr "รูปโฉม"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:20
-msgid "Assistive technologies"
-msgstr "เทคโนโลยีสิ่งอำนวยความสะดวก"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:24
-msgid "Language support"
-msgstr "สนับสนุนภาษา"
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/browse.html:1
-msgid "Make the most of the web"
+#: slideshows/ubuntu-gnome/slides/00_welcome.html:1
+#: slideshows/ubuntu-gnome/slides/01_overview.html:1
+#: slideshows/ubuntu-gnome/slides/02_everything.html:1
+#: slideshows/ubuntu-gnome/slides/03_beautiful.html:1
+#: slideshows/ubuntu-gnome/slides/04_web.html:1
+#: slideshows/ubuntu-gnome/slides/05_documents.html:1
+#: slideshows/ubuntu-gnome/slides/06_messaging.html:1
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
+msgid "Ubuntu GNOME 12.10"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/browse.html:8
-msgid ""
-"Ubuntu includes Firefox, the web browser used by millions of people around "
-"the world. And web applications you use frequently (like Facebook or Gmail, "
-"for example) can be pinned to your desktop for faster access, just like apps "
-"on your computer."
-msgstr ""
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:12
-#: slideshows/ubuntu/slides/music.html:12
-#: slideshows/ubuntu/slides/office.html:12
-#: slideshows/ubuntu/slides/photos.html:12
-msgid "Included software"
-msgstr "ซอฟต์แวร์ที่มาในชุด"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:16
-msgid "Firefox web browser"
-msgstr "โปรแกรมท่องดูเว็บ Firefox"
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:19
-#: slideshows/ubuntu/slides/photos.html:19
-msgid "Supported software"
-msgstr "ซอฟต์แวร์ที่รองรับ"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:23
-msgid "Flash"
-msgstr "Flash"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:27
-msgid "Chromium"
-msgstr "Chromium"
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "มีคำถามอื่นเพิ่มเติมหรือ?"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:8
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
 "all your Ubuntu questions. There’s a good chance your question will have "
@@ -113,183 +40,124 @@ msgid ""
 "support\">ubuntu.com/support</a>."
 msgstr ""
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr ""
+#~ msgid "Customize Ubuntu"
+#~ msgstr "ปรับแต่ง Ubuntu"
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr ""
+#~ msgid ""
+#~ "At the heart of Ubuntu’s philosophy is a belief that computing is for "
+#~ "everyone. With advanced accessibility tools and options like your "
+#~ "preferred color scheme, text size, and language, Ubuntu is for anyone. "
+#~ "Whoever you are, and wherever you are."
+#~ msgstr ""
+#~ "หัวใจของปรัชญา Ubuntu คือความเชื่อที่ว่าคอมพิวเตอร์เป็นของทุกคน "
+#~ "ด้วยเครื่องมือที่ทันสมัยและการเข้าถึงตัวเลือกเช่นโทนสีที่คุณต้องการ ขนาดตัวอักษรและภาษา "
+#~ "Ubuntu เป็นสำหรับทุก ๆ คน ไม่ว่าคุณจะเป็นใคร"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/mobilise.html:1
-msgid "Your own personal cloud"
-msgstr "คลาวด์ส่วนตัวของคุณ"
+#~ msgid "Customization options"
+#~ msgstr "ตัวเลือกการปรับแต่ง"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/mobilise.html:8
-msgid ""
-"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> gives you "
-"5GB of free cloud storage to access your files, share your photos and <a "
-"href=\"https://one.ubuntu.com/services/music/\">stream your music</a> to "
-"your computers, tablets and smartphones. Any photo you take appears on all "
-"your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
-"Mac, Android, iOS and the web."
-msgstr ""
+#~ msgid "Appearance"
+#~ msgstr "รูปโฉม"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/music.html:1
-msgid "Take your music with you"
-msgstr "นำเพลงติดไปกับคุณ"
+#~ msgid "Assistive technologies"
+#~ msgstr "เทคโนโลยีสิ่งอำนวยความสะดวก"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/music.html:8
-msgid ""
-"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options and the Ubuntu One music store built in, it’s simple to queue up the "
-"perfect songs. And it works great with CDs and portable music players, so "
-"you can enjoy all your music wherever you go."
-msgstr ""
+#~ msgid "Language support"
+#~ msgstr "สนับสนุนภาษา"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:16
-msgid "Rhythmbox Music Player"
-msgstr "โปรแกรมเล่นเพลง Rhythmbox"
+#~ msgid "Included software"
+#~ msgstr "ซอฟต์แวร์ที่มาในชุด"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:20
-msgid "Ubuntu One Music Store"
-msgstr "ร้านขายเพลง Ubuntu One"
+#~ msgid "Firefox web browser"
+#~ msgstr "โปรแกรมท่องดูเว็บ Firefox"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/office.html:1
-msgid "Write and present for free"
-msgstr "เขียนเอกสารและงานนำเสนอได้อย่างเลรี"
+#~ msgid "Supported software"
+#~ msgstr "ซอฟต์แวร์ที่รองรับ"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/office.html:8
-msgid ""
-"LibreOffice is a free office suite packed with everything you’ll need to "
-"create impressive documents, spreadsheets, and presentations. LibreOffice "
-"tries its best to work with other office software, and it uses the "
-"OpenDocument standards for far-reaching compatibility."
-msgstr ""
-"LibreOffice เป็นโปรแกรมสำนักงาน ที่มีพร้อมสำหรับทุกสิ่งที่คุณต้องการในการสร้างเอกสาร "
-"ตารางคำนวน และงานนำเสนอ LibreOffice "
-"พยายามอย่างดีที่สุดที่จะทำงานร่วมกับโปรแกรมสำนักงานตัวอื่น และมันยังใช้มาตรฐาน OpenDocument "
-"เพื่อความเข้ากันได้อย่างทั่วถึง"
+#~ msgid "Flash"
+#~ msgstr "Flash"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:16
-msgid "LibreOffice Writer"
-msgstr ""
+#~ msgid "Chromium"
+#~ msgstr "Chromium"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:20
-msgid "LibreOffice Calc"
-msgstr ""
+#~ msgid "Any questions?"
+#~ msgstr "มีคำถามอื่นเพิ่มเติมหรือ?"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:24
-msgid "LibreOffice Impress"
-msgstr ""
+#~ msgid "Your own personal cloud"
+#~ msgstr "คลาวด์ส่วนตัวของคุณ"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/photos.html:1
-msgid "Have fun with your photos"
-msgstr "สนุกไปกับภาพถ่ายของคุณ"
+#~ msgid "Take your music with you"
+#~ msgstr "นำเพลงติดไปกับคุณ"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/photos.html:8
-msgid ""
-"Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
-msgstr ""
-"Shotwell เป็นโปรแกรมจัดการภาพถ่ายที่พร้อมทำงานสำหรับอุปกรณ์ของคุณ "
-"เพียงเชื่อมต่อกล้องหรือโทรศัพท์เพื่อโอนถ่ายภาพถ่าย มันง่ายมากที่จะแบ่งปันหรือจัดเก็บไว้อย่างปลอดภัย "
-"ถ้าคุณรู้สึกที่จะอยากสร้างสรรค์ คุณสามารถลองโปรแกรมภาพถ่ายที่มีอยู่มากมายในโปรแกรมศูนย์ซอฟต์แวร์ "
-"Ubuntu ได้"
+#~ msgid "Rhythmbox Music Player"
+#~ msgstr "โปรแกรมเล่นเพลง Rhythmbox"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:16
-msgid "Shotwell Photo Manager"
-msgstr "โปรแกรมจัดการภาพถ่าย Shotwell"
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "ร้านขายเพลง Ubuntu One"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:23
-msgid "GIMP Image Editor"
-msgstr "โปรแกรมตกแต่งภาพ GIMP"
+#~ msgid "Write and present for free"
+#~ msgstr "เขียนเอกสารและงานนำเสนอได้อย่างเลรี"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "โปรแกรมตัดต่อวิดีโอ Pitivi"
+#~ msgid ""
+#~ "LibreOffice is a free office suite packed with everything you’ll need to "
+#~ "create impressive documents, spreadsheets, and presentations. LibreOffice "
+#~ "tries its best to work with other office software, and it uses the "
+#~ "OpenDocument standards for far-reaching compatibility."
+#~ msgstr ""
+#~ "LibreOffice เป็นโปรแกรมสำนักงาน ที่มีพร้อมสำหรับทุกสิ่งที่คุณต้องการในการสร้างเอกสาร "
+#~ "ตารางคำนวน และงานนำเสนอ LibreOffice "
+#~ "พยายามอย่างดีที่สุดที่จะทำงานร่วมกับโปรแกรมสำนักงานตัวอื่น และมันยังใช้มาตรฐาน "
+#~ "OpenDocument เพื่อความเข้ากันได้อย่างทั่วถึง"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/social.html:1
-msgid "Stay connected"
-msgstr "ไม่พลาดการติดต่อ"
+#~ msgid "Have fun with your photos"
+#~ msgstr "สนุกไปกับภาพถ่ายของคุณ"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/social.html:8
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
+#~ "a camera or a phone to transfer your photos, then it’s easy to share them "
+#~ "and keep them safe. If you’re feeling creative, you can try lots of photo "
+#~ "apps from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "Shotwell เป็นโปรแกรมจัดการภาพถ่ายที่พร้อมทำงานสำหรับอุปกรณ์ของคุณ "
+#~ "เพียงเชื่อมต่อกล้องหรือโทรศัพท์เพื่อโอนถ่ายภาพถ่าย "
+#~ "มันง่ายมากที่จะแบ่งปันหรือจัดเก็บไว้อย่างปลอดภัย ถ้าคุณรู้สึกที่จะอยากสร้างสรรค์ "
+#~ "คุณสามารถลองโปรแกรมภาพถ่ายที่มีอยู่มากมายในโปรแกรมศูนย์ซอฟต์แวร์ Ubuntu ได้"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "โปรแกรมจัดการภาพถ่าย Shotwell"
+
+#~ msgid "GIMP Image Editor"
+#~ msgstr "โปรแกรมตกแต่งภาพ GIMP"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "โปรแกรมตัดต่อวิดีโอ Pitivi"
+
+#~ msgid "Stay connected"
+#~ msgstr "ไม่พลาดการติดต่อ"
+
 #, fuzzy
-msgid ""
-"The messaging menu gives you an eagle-eye view of incoming messages from all "
-"applications and social networks. So you can see straight away when there’s "
-"something new to read, regardless of how it arrived."
-msgstr ""
-"เมนูข้อความ Ubuntu จะให้คุณรู้ถึงความเคลื่อนไหวของข้อความที่เข้ามาจากทุกโปรแกรม "
-"และเครือข่ายสังคมได้เพียงชำเลืองมอง คุณก็จะรู้ว่ามีอะไรใหม่เกิดขึ้นบ้าง"
+#~ msgid ""
+#~ "The messaging menu gives you an eagle-eye view of incoming messages from "
+#~ "all applications and social networks. So you can see straight away when "
+#~ "there’s something new to read, regardless of how it arrived."
+#~ msgstr ""
+#~ "เมนูข้อความ Ubuntu จะให้คุณรู้ถึงความเคลื่อนไหวของข้อความที่เข้ามาจากทุกโปรแกรม "
+#~ "และเครือข่ายสังคมได้เพียงชำเลืองมอง คุณก็จะรู้ว่ามีอะไรใหม่เกิดขึ้นบ้าง"
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/social.html:12
-msgid "Supported services"
-msgstr "บริการที่รองรับ"
+#~ msgid "Supported services"
+#~ msgstr "บริการที่รองรับ"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:16
-msgid "Twitter"
-msgstr "Twitter"
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:20
-msgid "Facebook"
-msgstr "Facebook"
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:24
-msgid "Identi.ca"
-msgstr "Identi.ca"
+#~ msgid "Identi.ca"
+#~ msgstr "Identi.ca"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/usc.html:1
-msgid "Find even more software"
-msgstr "หาซอฟต์แวร์เพิ่มเติม"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/usc.html:8
-msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 12.10"
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/welcome.html:8
-msgid ""
-"Fast and full of new features, the latest version of Ubuntu makes computing "
-"easier than ever. Here are just a few cool new things to look out for…"
-msgstr ""
+#~ msgid "Find even more software"
+#~ msgstr "หาซอฟต์แวร์เพิ่มเติม"
 
 #~ msgid "Browse the web"
 #~ msgstr "ท่องดูเว็บ"

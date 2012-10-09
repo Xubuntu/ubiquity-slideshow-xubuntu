@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-01 12:12-0300\n"
-"PO-Revision-Date: 2012-09-26 19:14+0000\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2012-10-08 07:32+0000\n"
 "Last-Translator: Yaron <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2012-10-09 17:48+0000\n"
+"X-Generator: Launchpad (build 16112)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -58,7 +58,7 @@ msgstr "תמיכה בשפות"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "להפיק את המיטב מהאינטרנט"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
@@ -68,6 +68,10 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
+"לאובונטו מצורף הדפדפן פיירפוקס, דפדפן האינטרנט המשמש מיליונים של אנשים ברחבי "
+"העולם. ויישומי דפדפן בהם לרוב נעשה שימוש תדיר (פייסבוק או ג׳ימייל לדוגמה) "
+"ניתנים להצמדה לשולחן העבודה שלך לצורך גישה מהירה יותר, בדיוק כמו יישומים "
+"במחשב שלך."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
@@ -105,7 +109,6 @@ msgstr "יש שאלות?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
-#, fuzzy
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
 "all your Ubuntu questions. There’s a good chance your question will have "
@@ -113,11 +116,10 @@ msgid ""
 "to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
 "support\">ubuntu.com/support</a>."
 msgstr ""
-"כדאי לבקר ב־<a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, המקום הטוב "
-"ביותר לקבל תשובות בנוגע לאובונטו. כיוון שרבות מן השאלות כבר נענו בעבר וישנם "
-"אלפי אנשים המוכנים לסייע, הבעיה שלך תיפתר במהירות הבזק. אם התשובה נחוצה לך "
-"באופן מיידי ניתן לקבל תמיכה מסחרית ועוד בכתובת <a href=\"http://www.ubuntu."
-"com/support\">ubuntu.com/support</a>."
+"כדאי לבקר ב־<a href=\"http://askubuntu.com/\">askubuntu.com</a> לקבלת מענה "
+"לכל שאלותיך בנוגע לאובונטו. יש סיכוי טוב שהשאלה שלך כבר נענתה בעבר ואם לא, "
+"ישנה קהילה של אלפי מתנדבים שישמחו מאוד לעזור. לאפשרויות תמיכה נוספות, ניתן "
+"לגשת לכתובת <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:17
@@ -144,6 +146,12 @@ msgid ""
 "your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
 "Mac, Android, iOS and the web."
 msgstr ""
+"השירות <a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> "
+"מעניק לך 5 ג״ב של אחסון בענן בחינם כדי לגשת לקבצים שלך, לשתף את התמונות שלך "
+"ו<a href=\"https://one.ubuntu.com/services/music/\">להזרים את המוזיקה שלך</"
+"a> למחשבים, לסמארטפונים ולטאבלטים שלך. כל תמונה שתצולם על ידיך תופיע "
+"אוטומטית בכל המכשירים שלך, מיד ברגע הצילום. Ubuntu One פועל על אובונטו, "
+"Windows,‏ Mac אנדרויד ובאמצעות הדפדפן."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:1
@@ -246,15 +254,14 @@ msgstr "הישארו מחוברים"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:8
-#, fuzzy
 msgid ""
 "The messaging menu gives you an eagle-eye view of incoming messages from all "
 "applications and social networks. So you can see straight away when there’s "
 "something new to read, regardless of how it arrived."
 msgstr ""
-"מחוון ההודעות של אובונטו מעניק לך מבט כולל על הודעות נכנסות ממגוון של "
-"יישומים ורשתות חברתיות. מבט חטוף אחד יספיק כדי להבחין אם יש משהו חדש לקרוא, "
-"ללא תלות בדרך הגעתו."
+"תפריט ההודעות מעניק לך סקירה מגבוה על הודעות נכנסות מכל היישומים והרשתות "
+"החברתיות. כדי שניתן יהיה לראות על המקום כאשר יש משהו חדש לקרוא, ללא תלות "
+"באופן הגעתו."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -289,6 +296,9 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
+"אפשר כבר לומר שלום לחיפוש תכניות חדשות באינטרנט. עם מרכז התכנה של אובונטו "
+"ניתן לחפש ולהתקין ישומים חדשה בקלי קלות. עליך פשוט להקליד את מבוקשך או לסייר "
+"בין הקטגוריות הכוללות מדע, חינוך ומשחקים לצד סקירות מועילות ממשתמשים אחרים."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -310,14 +320,24 @@ msgstr ""
 #~ msgstr "גלישה באינטרנט"
 
 #~ msgid ""
-#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
-#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
-#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
-#~ "Ubuntu Software Center."
+#~ "The Ubuntu Message Indicator gives you an eagle-eye view of incoming "
+#~ "messages from all applications and social networks. See at a glance when "
+#~ "there’s something new to read, regardless how it arrived."
 #~ msgstr ""
-#~ "באובונטו יש את Mozilla Firefox לגלישה מהירה ובטוחה. השימוש בדפדפן הוא נוח "
-#~ "והוא נתמך על ידי עמותה ללא מטרות רווח שאוהבת את רשת האינטרנט. אם הדפדפן "
-#~ "הזה פחות מועדף עליך, יש לא מעט חלופות במרכז התכנה של אובונטו."
+#~ "מחוון ההודעות של אובונטו מעניק לך מבט כולל על הודעות נכנסות ממגוון של "
+#~ "יישומים ורשתות חברתיות. מבט חטוף אחד יספיק כדי להבחין אם יש משהו חדש "
+#~ "לקרוא, ללא תלות בדרך הגעתו."
+
+#~ msgid ""
+#~ "The Ubuntu Software Center has thousands of new applications ready for "
+#~ "your computer. Just type what you want or explore the categories like "
+#~ "games, science, and education. It is easy to download new stuff and write "
+#~ "reviews to share your experiences."
+#~ msgstr ""
+#~ "מרכז התכנה של אובונטו מציע אלפי יישומים חדשים המוכנים לשימוש במחשבך. כל "
+#~ "שעליך לעשות הוא להקליד או לעיין בין הקטגוריות השונות כגון: משחקים, מדע "
+#~ "וחינוך. קל ופשוט להוריד דברים חדשים ולכתוב חוות דעת כדי לשתף בחוויה "
+#~ "האישית שלך."
 
 #~ msgid ""
 #~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
@@ -337,15 +357,28 @@ msgstr ""
 #~ "שלך בדרכים."
 
 #~ msgid ""
-#~ "The Ubuntu Software Center has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is easy to download new stuff and write "
-#~ "reviews to share your experiences."
+#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
+#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
+#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
+#~ "Ubuntu Software Center."
 #~ msgstr ""
-#~ "מרכז התכנה של אובונטו מציע אלפי יישומים חדשים המוכנים לשימוש במחשבך. כל "
-#~ "שעליך לעשות הוא להקליד או לעיין בין הקטגוריות השונות כגון: משחקים, מדע "
-#~ "וחינוך. קל ופשוט להוריד דברים חדשים ולכתוב חוות דעת כדי לשתף בחוויה "
-#~ "האישית שלך."
+#~ "באובונטו יש את Mozilla Firefox לגלישה מהירה ובטוחה. השימוש בדפדפן הוא נוח "
+#~ "והוא נתמך על ידי עמותה ללא מטרות רווח שאוהבת את רשת האינטרנט. אם הדפדפן "
+#~ "הזה פחות מועדף עליך, יש לא מעט חלופות במרכז התכנה של אובונטו."
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, the best "
+#~ "place to get an answer about Ubuntu. With most questions already "
+#~ "answered, and thousands of people ready to help, you’ll be sorted in no "
+#~ "time at all. And if you need an answer on a deadline, you can get "
+#~ "commercial support and more at <a href=\"http://www.ubuntu.com/support"
+#~ "\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "כדאי לבקר ב־<a href=\"http://askubuntu.com/\">Ask Ubuntu</a>, המקום הטוב "
+#~ "ביותר לקבל תשובות בנוגע לאובונטו. כיוון שרבות מן השאלות כבר נענו בעבר "
+#~ "וישנם אלפי אנשים המוכנים לסייע, הבעיה שלך תיפתר במהירות הבזק. אם התשובה "
+#~ "נחוצה לך באופן מיידי ניתן לקבל תמיכה מסחרית ועוד בכתובת <a href=\"http://"
+#~ "www.ubuntu.com/support\">ubuntu.com/support</a>."
 
 #~ msgid ""
 #~ "Thank you for choosing Ubuntu 12.04 LTS. This version brings some "

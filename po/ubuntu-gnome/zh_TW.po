@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu-gnome\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-01 12:11-0300\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
 "PO-Revision-Date: 2012-09-27 13:08+0000\n"
 "Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
@@ -19,92 +19,19 @@ msgstr ""
 "X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "自訂 Ubuntu"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/accessibility.html:8
-msgid ""
-"At the heart of Ubuntu’s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and options like your preferred "
-"color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
-"are, and wherever you are."
-msgstr ""
-"Ubuntu 的中心思想是相信每個人都能使用電腦。有了進階的無障礙輔助工具和選項，像"
-"是偏好的色彩方案、文字大小、語言等，Ubuntu 讓每個人都能使用。不管您的身分，或"
-"是您的所在地區為何都一樣。"
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/accessibility.html:12
-msgid "Customization options"
-msgstr "自訂選項"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:16
-msgid "Appearance"
-msgstr "外觀"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:20
-msgid "Assistive technologies"
-msgstr "無障礙輔助科技"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/accessibility.html:24
-msgid "Language support"
-msgstr "語言支援"
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/browse.html:1
-msgid "Make the most of the web"
+#: slideshows/ubuntu-gnome/slides/00_welcome.html:1
+#: slideshows/ubuntu-gnome/slides/01_overview.html:1
+#: slideshows/ubuntu-gnome/slides/02_everything.html:1
+#: slideshows/ubuntu-gnome/slides/03_beautiful.html:1
+#: slideshows/ubuntu-gnome/slides/04_web.html:1
+#: slideshows/ubuntu-gnome/slides/05_documents.html:1
+#: slideshows/ubuntu-gnome/slides/06_messaging.html:1
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
+msgid "Ubuntu GNOME 12.10"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/browse.html:8
-msgid ""
-"Ubuntu includes Firefox, the web browser used by millions of people around "
-"the world. And web applications you use frequently (like Facebook or Gmail, "
-"for example) can be pinned to your desktop for faster access, just like apps "
-"on your computer."
-msgstr ""
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:12
-#: slideshows/ubuntu/slides/music.html:12
-#: slideshows/ubuntu/slides/office.html:12
-#: slideshows/ubuntu/slides/photos.html:12
-msgid "Included software"
-msgstr "附帶軟體"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:16
-msgid "Firefox web browser"
-msgstr "Firefox 網路瀏覽器"
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:19
-#: slideshows/ubuntu/slides/photos.html:19
-msgid "Supported software"
-msgstr "支援軟體"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:23
-msgid "Flash"
-msgstr "Flash"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:27
-msgid "Chromium"
-msgstr "Chromium"
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "有疑難嗎？"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:8
+#: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
 #, fuzzy
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
@@ -119,187 +46,161 @@ msgstr ""
 "<a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> 取得商業支援"
 "與其他服務。"
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "讓我們來談談 Ubuntu"
+#~ msgid "Customize Ubuntu"
+#~ msgstr "自訂 Ubuntu"
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "我正在安裝 ＃Ubuntu！"
+#~ msgid ""
+#~ "At the heart of Ubuntu’s philosophy is a belief that computing is for "
+#~ "everyone. With advanced accessibility tools and options like your "
+#~ "preferred color scheme, text size, and language, Ubuntu is for anyone. "
+#~ "Whoever you are, and wherever you are."
+#~ msgstr ""
+#~ "Ubuntu 的中心思想是相信每個人都能使用電腦。有了進階的無障礙輔助工具和選"
+#~ "項，像是偏好的色彩方案、文字大小、語言等，Ubuntu 讓每個人都能使用。不管您"
+#~ "的身分，或是您的所在地區為何都一樣。"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/mobilise.html:1
-msgid "Your own personal cloud"
-msgstr "您專屬的雲端空間"
+#~ msgid "Customization options"
+#~ msgstr "自訂選項"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/mobilise.html:8
-msgid ""
-"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> gives you "
-"5GB of free cloud storage to access your files, share your photos and <a "
-"href=\"https://one.ubuntu.com/services/music/\">stream your music</a> to "
-"your computers, tablets and smartphones. Any photo you take appears on all "
-"your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
-"Mac, Android, iOS and the web."
-msgstr ""
+#~ msgid "Appearance"
+#~ msgstr "外觀"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/music.html:1
-msgid "Take your music with you"
-msgstr "讓音樂陪著您上山下海"
+#~ msgid "Assistive technologies"
+#~ msgstr "無障礙輔助科技"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/music.html:8
-msgid ""
-"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options and the Ubuntu One music store built in, it’s simple to queue up the "
-"perfect songs. And it works great with CDs and portable music players, so "
-"you can enjoy all your music wherever you go."
-msgstr ""
-"Ubuntu 預裝令人驚嘆的 Rhythmbox 音樂播放器。有了進階播放控制選項，以及內建的 "
-"Ubuntu One 音樂商店，要排出完美音樂清單變得簡單不已。此外，Rhythmbox 對於 CD "
-"或者是隨身音樂播放器都能支援良好，因此您可以隨時隨地欣賞您所有的音樂。"
+#~ msgid "Language support"
+#~ msgstr "語言支援"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:16
-msgid "Rhythmbox Music Player"
-msgstr "Rhythmbox 音樂播放程式"
+#~ msgid "Included software"
+#~ msgstr "附帶軟體"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:20
-msgid "Ubuntu One Music Store"
-msgstr "Ubuntu One 音樂商店"
+#~ msgid "Firefox web browser"
+#~ msgstr "Firefox 網路瀏覽器"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/office.html:1
-msgid "Write and present for free"
-msgstr "自由創作並展現"
+#~ msgid "Supported software"
+#~ msgstr "支援軟體"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/office.html:8
-msgid ""
-"LibreOffice is a free office suite packed with everything you’ll need to "
-"create impressive documents, spreadsheets, and presentations. LibreOffice "
-"tries its best to work with other office software, and it uses the "
-"OpenDocument standards for far-reaching compatibility."
-msgstr ""
-"LibreOffice 是一套自由的辦公套裝軟體，包含所有您建立令人印象深刻的文件、試算"
-"表、簡報時所需要的一切。LibreOffice 努力與其他辦公軟體之間能互通，並且採用 "
-"OpenDocument 標準來達到高超的相容性。"
+#~ msgid "Flash"
+#~ msgstr "Flash"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:16
-msgid "LibreOffice Writer"
-msgstr "LibreOffice Writer"
+#~ msgid "Chromium"
+#~ msgstr "Chromium"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:20
-msgid "LibreOffice Calc"
-msgstr "LibreOffice Calc"
+#~ msgid "Any questions?"
+#~ msgstr "有疑難嗎？"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/office.html:24
-msgid "LibreOffice Impress"
-msgstr "LibreOffice Impress"
+#~ msgid "Let’s talk Ubuntu"
+#~ msgstr "讓我們來談談 Ubuntu"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/photos.html:1
-msgid "Have fun with your photos"
-msgstr "管理相片變得趣味十足"
+#~ msgid "I'm installing #Ubuntu!"
+#~ msgstr "我正在安裝 ＃Ubuntu！"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/photos.html:8
-msgid ""
-"Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
-msgstr ""
-"Shotwell 是個好用的相片管理程式，已經預備用於您的裝置上。只要將相機或手機連接"
-"到電腦，就能傳輸您的相片，接著您還可以輕鬆分享，而這些相片也會安全地保存起"
-"來。若您覺得有靈感湧上心頭，您還可以嘗試 Ubuntu 軟體中心提供的多種相片程式。"
+#~ msgid "Your own personal cloud"
+#~ msgstr "您專屬的雲端空間"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:16
-msgid "Shotwell Photo Manager"
-msgstr "Shotwell 相片管理程式"
+#~ msgid "Take your music with you"
+#~ msgstr "讓音樂陪著您上山下海"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:23
-msgid "GIMP Image Editor"
-msgstr "GIMP 影像編輯器"
+#~ msgid ""
+#~ "Ubuntu comes with the amazing Rhythmbox music player. With advanced "
+#~ "playback options and the Ubuntu One music store built in, it’s simple to "
+#~ "queue up the perfect songs. And it works great with CDs and portable "
+#~ "music players, so you can enjoy all your music wherever you go."
+#~ msgstr ""
+#~ "Ubuntu 預裝令人驚嘆的 Rhythmbox 音樂播放器。有了進階播放控制選項，以及內建"
+#~ "的 Ubuntu One 音樂商店，要排出完美音樂清單變得簡單不已。此外，Rhythmbox 對"
+#~ "於 CD 或者是隨身音樂播放器都能支援良好，因此您可以隨時隨地欣賞您所有的音"
+#~ "樂。"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "Pitivi 影片編輯器"
+#~ msgid "Rhythmbox Music Player"
+#~ msgstr "Rhythmbox 音樂播放程式"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/social.html:1
-msgid "Stay connected"
-msgstr "保持連繫"
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Ubuntu One 音樂商店"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/social.html:8
+#~ msgid "Write and present for free"
+#~ msgstr "自由創作並展現"
+
+#~ msgid ""
+#~ "LibreOffice is a free office suite packed with everything you’ll need to "
+#~ "create impressive documents, spreadsheets, and presentations. LibreOffice "
+#~ "tries its best to work with other office software, and it uses the "
+#~ "OpenDocument standards for far-reaching compatibility."
+#~ msgstr ""
+#~ "LibreOffice 是一套自由的辦公套裝軟體，包含所有您建立令人印象深刻的文件、試"
+#~ "算表、簡報時所需要的一切。LibreOffice 努力與其他辦公軟體之間能互通，並且採"
+#~ "用 OpenDocument 標準來達到高超的相容性。"
+
+#~ msgid "LibreOffice Writer"
+#~ msgstr "LibreOffice Writer"
+
+#~ msgid "LibreOffice Calc"
+#~ msgstr "LibreOffice Calc"
+
+#~ msgid "LibreOffice Impress"
+#~ msgstr "LibreOffice Impress"
+
+#~ msgid "Have fun with your photos"
+#~ msgstr "管理相片變得趣味十足"
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
+#~ "a camera or a phone to transfer your photos, then it’s easy to share them "
+#~ "and keep them safe. If you’re feeling creative, you can try lots of photo "
+#~ "apps from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "Shotwell 是個好用的相片管理程式，已經預備用於您的裝置上。只要將相機或手機"
+#~ "連接到電腦，就能傳輸您的相片，接著您還可以輕鬆分享，而這些相片也會安全地保"
+#~ "存起來。若您覺得有靈感湧上心頭，您還可以嘗試 Ubuntu 軟體中心提供的多種相片"
+#~ "程式。"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "Shotwell 相片管理程式"
+
+#~ msgid "GIMP Image Editor"
+#~ msgstr "GIMP 影像編輯器"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Pitivi 影片編輯器"
+
+#~ msgid "Stay connected"
+#~ msgstr "保持連繫"
+
 #, fuzzy
-msgid ""
-"The messaging menu gives you an eagle-eye view of incoming messages from all "
-"applications and social networks. So you can see straight away when there’s "
-"something new to read, regardless of how it arrived."
-msgstr ""
-"Ubuntu 訊息指示器讓您擁有鷹般的眼睛可以俯視所有應用程式與社交網路所傳來的訊"
-"息。您可以輕輕一瞥是否有新訊息可以讀取，而不用管它們是如何送達的。"
+#~ msgid ""
+#~ "The messaging menu gives you an eagle-eye view of incoming messages from "
+#~ "all applications and social networks. So you can see straight away when "
+#~ "there’s something new to read, regardless of how it arrived."
+#~ msgstr ""
+#~ "Ubuntu 訊息指示器讓您擁有鷹般的眼睛可以俯視所有應用程式與社交網路所傳來的"
+#~ "訊息。您可以輕輕一瞥是否有新訊息可以讀取，而不用管它們是如何送達的。"
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/social.html:12
-msgid "Supported services"
-msgstr "支援服務"
+#~ msgid "Supported services"
+#~ msgstr "支援服務"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:16
-msgid "Twitter"
-msgstr "Twitter"
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:20
-msgid "Facebook"
-msgstr "Facebook"
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:24
-msgid "Identi.ca"
-msgstr "Identi.ca"
+#~ msgid "Identi.ca"
+#~ msgstr "Identi.ca"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/usc.html:1
-msgid "Find even more software"
-msgstr "發掘更多好用的軟體"
+#~ msgid "Find even more software"
+#~ msgstr "發掘更多好用的軟體"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/usc.html:8
-msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
-msgstr ""
+#~ msgid "Welcome to Ubuntu 12.10"
+#~ msgstr "歡迎使用 Ubuntu 12.10"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 12.10"
-msgstr "歡迎使用 Ubuntu 12.10"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/welcome.html:8
 #, fuzzy
-msgid ""
-"Fast and full of new features, the latest version of Ubuntu makes computing "
-"easier than ever. Here are just a few cool new things to look out for…"
-msgstr ""
-"快速且富有特色，Ubuntu 讓您的電腦使用起來更愉悅。有了最新版本的 Unity 介面，"
-"事情變得前所未有地簡單。這裡有一些值得您留意的超酷新玩意兒。"
+#~ msgid ""
+#~ "Fast and full of new features, the latest version of Ubuntu makes "
+#~ "computing easier than ever. Here are just a few cool new things to look "
+#~ "out for…"
+#~ msgstr ""
+#~ "快速且富有特色，Ubuntu 讓您的電腦使用起來更愉悅。有了最新版本的 Unity 介"
+#~ "面，事情變得前所未有地簡單。這裡有一些值得您留意的超酷新玩意兒。"
 
 #~ msgid "Browse the web"
 #~ msgstr "瀏覽網頁"

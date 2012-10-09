@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-01 12:11-0300\n"
-"PO-Revision-Date: 2011-10-06 10:10+0000\n"
-"Last-Translator: Shushi Kurose <md81bird@hitaki.net>\n"
+"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"PO-Revision-Date: 2012-10-02 17:29+0000\n"
+"Last-Translator: Seiji Matsushita <darknight@abox3.so-net.ne.jp>\n"
 "Language-Team: Japanese <ja@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2012-10-09 17:48+0000\n"
+"X-Generator: Launchpad (build 16112)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
 msgid "Accessibility in Edubuntu"
-msgstr ""
+msgstr "Edubuntuのアクセシビリティ"
 
 #.  "your" refers to a large group that includes the reader. 
 #. type: Content of: <div><div><ul><li>
@@ -31,6 +31,9 @@ msgid ""
 "circumstances. So, we provide tools that make Edubuntu one of the most "
 "accessible operating systems around."
 msgstr ""
+"私たちは、各人のおかれた身体的状況にかかわらず、誰でもコンピュータを使えるよ"
+"うにしたいと考えています。そこで、私たちはEdubuntuがもっともアクセシビリティ"
+"の高いオペレーティングシステムとなるよう、さまざまなツールを提供しています。"
 
 #.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
 #.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
@@ -56,13 +59,15 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/arkose.html:1
 msgid "Arkose application sandboxing"
-msgstr ""
+msgstr "Arkoseによるサンドボックス環境でのアプリケーション実行"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:6
 msgid ""
 "<em>Arkose</em> allows you to run an application in a contained environment."
 msgstr ""
+"<em>Arkose</em>を使うと、隔離された環境でアプリケーションを実行することができ"
+"ます。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:7
@@ -70,6 +75,8 @@ msgid ""
 "You can now test downloaded software in a protected environment easily "
 "before deploying."
 msgstr ""
+"ダウンロードしたソフトウェアをデプロイする前に、保護された環境で容易にテスト"
+"することができます。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:8
@@ -81,7 +88,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
 msgid "Gnome Calculator"
-msgstr ""
+msgstr "Gnome Calculator"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
@@ -89,11 +96,12 @@ msgid ""
 "Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
 "em>."
 msgstr ""
+"Edubuntuは、最新版のパワフルな<em>Gnome Calculator</em>を含んでいます。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:7
 msgid "It supports financial operations and up-to-date currency conversions."
-msgstr ""
+msgstr "金融取引と、最新の為替換算をサポートしています。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:8
@@ -105,13 +113,14 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calibre.html:1
 msgid "Calibre e-book manager"
-msgstr ""
+msgstr "Calibre e-bookマネージャー"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:6
 msgid ""
 "<em>Calibre</em> is an e-library solution for cataloging electronic books."
 msgstr ""
+"<em>Calibre</em>は、電子書籍のカタログを作成するe-libraryソリューションです。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:7
@@ -119,6 +128,8 @@ msgid ""
 "It supports many formats, including MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, "
 "RTF, PDF and more."
 msgstr ""
+"MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, RTF, PDFやその他を含む、多くのフォー"
+"マットをサポートしています。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:8
@@ -126,6 +137,8 @@ msgid ""
 "Supports for many different hardware platforms, including the most popular "
 "commercial e-book platforms available."
 msgstr ""
+"もっとも人気のある商用e-bookプラットフォームをはじめ、様々なハードウェアプ"
+"ラットフォームをサポートしています。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:9
@@ -135,14 +148,14 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/desktop-software.html:1
 msgid "Great desktop software"
-msgstr ""
+msgstr "すばらしいデスクトップソフトウェア"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:6
 msgid ""
 "<em>LibreOffice</em> is a powerful office software suite that is easy to "
 "understand."
-msgstr ""
+msgstr "<em>LibreOffice</em>は、学習が容易でパワフルなオフィススイートです。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:7
@@ -150,6 +163,8 @@ msgid ""
 "<em>Firefox</em> provides a safe and easy web browsing experience with many "
 "useful add-ons available."
 msgstr ""
+"<em>Firefox</em>は、無数の便利なアドオンを利用することで、簡単で安全なブラウ"
+"ジング経験を提供します。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:8
@@ -157,11 +172,15 @@ msgid ""
 "<em>Inkscape</em> is a vector drawing program capable of exporting to many "
 "popular formats."
 msgstr ""
+"<em>Inkscape</em>はベクトル描画ソフトで、たくさんの人気のあるフォーマットによ"
+"る出力が可能です。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:9
 msgid "<em>Gimp</em> is a powerful and scriptable image and photo editor."
 msgstr ""
+"<em>Gimp</em>はパワフルな画像と写真のエディターで、スクリプト環境も備えていま"
+"す。"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/documentation.html:1
@@ -215,6 +234,8 @@ msgstr ""
 #: slideshows/edubuntu/slides/documentation.html:11
 msgid "The installation will finish soon. We hope you enjoy Edubuntu."
 msgstr ""
+"インストールはまもなく完了します。Edubuntuを楽しんでいただけることを願ってい"
+"ます。"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
@@ -267,12 +288,14 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/epoptes.html:1
 msgid "Epoptes classroom control"
-msgstr ""
+msgstr "Epoptes classroom control"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
 msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
 msgstr ""
+"<em>Epoptes</em>は、講師に生徒のデスクトップをコントロールする手段を提供しま"
+"す。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:7
@@ -297,23 +320,25 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:6
 msgid "<em>FreeMind</em> is a powerful mindmapping tool."
-msgstr ""
+msgstr "<em>FreeMind</em>は、パワフルなマインドマップツールです。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:7
 msgid "Summarize huge amounts of data efficiently."
-msgstr ""
+msgstr "莫大な情報を効率よく要約することができます。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:8
 msgid "Make subsections stand out with cloud bubbles and custom colours."
-msgstr ""
+msgstr "雲の形をしたバブルを枝分かれさせて、好きな色をつけてゆきます。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:9
 msgid ""
 "Organize your goals, future plans, events and more with this great tool!"
 msgstr ""
+"この素晴らしいツールを使って、あなたの目標や将来の計画、イベントやその他さま"
+"ざまのものをまとめてみましょう！"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/gbrainy.html:1
@@ -384,6 +409,8 @@ msgid ""
 "Need more software? Try the <em>Ubuntu Software Center</em> to choose from "
 "thousands of extras you can download for free."
 msgstr ""
+"もっとソフトウェアが必要ですか？ <em>Ubuntuソフトウェアセンター</em>を開い"
+"て、無料でダウンロードできる無数の追加ソフトウェアからお選びください。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:7
@@ -411,17 +438,22 @@ msgid ""
 "<em>The KDE Education suite</em> includes edutainment software for kids aged "
 "3 to 18."
 msgstr ""
+"<em>The KDE Educationスイート</em>は、3歳から18歳までの子供向けの、エデュテイ"
+"ンメントソフトウェアを含んでいます。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:7
 msgid "Improve language skills with letters, anagram and hangman games."
 msgstr ""
+"ハングマンや、文字やアナグラムを扱うゲームを通じて、言語スキルを伸ばしましょ"
+"う。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:8
 msgid ""
 "Improve mathematical skills with fraction, geometry and algebra software."
 msgstr ""
+"分数や幾何学、算数を扱うソフトウェアを通じて、数学的スキルを伸ばしましょう。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:9
@@ -429,6 +461,8 @@ msgid ""
 "Also included are geography games, turtle programming, a typing tutor, "
 "memory exercises and more!"
 msgstr ""
+"地理ゲームやタートルプログラミング、タイピング練習ソフト、記憶力の体操や、ほ"
+"かにもいろいろなものがあります！"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/librecad.html:1
