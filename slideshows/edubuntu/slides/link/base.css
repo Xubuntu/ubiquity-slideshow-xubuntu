@@ -107,7 +107,19 @@ a {
 	margin:0px;
 }
 .title:first-line {
-	font-size:28px;
+	font-size:38px;
+}
+
+.welcometitle {
+        width: 100%;
+        text-align: center;
+        top: 25px;
+        position: absolute;
+	letter-spacing:-2px;
+}
+
+.welcometitle:first-line {
+	font-size:60px;
 }
 
 /*
@@ -141,7 +153,7 @@ appear, spaced appropriately from .title.
 .main {
 	position:absolute;
 	
-	top:180px;
+	top:140px;
 	left:0px;
 	
 	width:100%;
@@ -267,6 +279,6 @@ img {
 	padding-right:0px;
 	padding-left:60px;
 }
-.rtl .content .footer {
+/*.rtl .content .footer {
     text-align:left;
-}
+} */
