@@ -131,8 +131,13 @@ function slideshowReady() {
 	if ( 'slideNumber' in INSTANCE_OPTIONS )
 		slideshow_options.startingSlide = INSTANCE_OPTIONS['slideNumber'];
 	
-	slideshow.cycle(slideshow_options);
-	Signals.fire('slideshow-started');
+	if (slideshow.children().length > 1) {
+		slideshow.cycle(slideshow_options)
+		Signals.fire('slideshow-started');
+	} else {
+		$('#prev-slide').addClass('disabled').hide();
+		$('#next-slide').addClass('disabled').hide();
+	}
 };
 
 function getTranslatedFile(locale, file_name, file_category) {
