@@ -1,12 +1,3 @@
-ubiquity-slideshow-ubuntu (69) UNRELEASED; urgency=low
-
-  [ Pasi Lallinaho ]
-  * Xubuntu slideshow
-    - Fixed text to match the state in 13.04 (LP: #1153858)
-    - Uploaded new image for the web slide (LP: #1153891)
-
- -- Pasi Lallinaho <pasi@shimmerproject.org>  Thu, 14 Mar 2013 13:20:33 +0200
-
 ubiquity-slideshow-ubuntu (68) UNRELEASED; urgency=low
 
   [ Len Ovens ]
@@ -16,7 +7,16 @@ ubiquity-slideshow-ubuntu (68) UNRELEASED; urgency=low
       (LP: #1153032)
   * UbuuntuStudio Slideshow changed slide 1 png
 
- -- Len Ovens <len@ovenwerks.net>  Sat, 09 Mar 2013 23:45:05 -0800
+  [ Pasi Lallinaho ]
+  * Xubuntu slideshow
+    - Fixed text to match the state in 13.04 (LP: #1153858)
+    - Uploaded new image for the web slide (LP: #1153891)
+
+  [ Dylan McCall ]
+  * Ubuntu slideshow
+    - New copy for Customization, Music and Office slides.
+
+ -- Dylan McCall <dylanmccall@ubuntu.com>  Thu, 14 Mar 2013 12:44:19 -0700
 
 ubiquity-slideshow-ubuntu (67) raring; urgency=low
 
