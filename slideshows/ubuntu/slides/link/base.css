@@ -56,6 +56,10 @@ a {
 	text-decoration:underline;
 }
 
+strong {
+	font-weight: bolder;
+}
+
 #wrapper {
 	position:absolute;
 	
@@ -130,8 +134,8 @@ a {
 	color:#DED9CB;
 }
 .slidetitle:first-line {
-	font-size:36px; /* TODO: 24px? */
-	line-height:32px;
+	font-size:24px; /* TODO: 24px? */
+	line-height:22px;
 }
 
 .main {
