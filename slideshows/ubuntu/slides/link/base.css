@@ -124,18 +124,16 @@ strong {
 
 .header > .slidetitle {
 	display:table-cell;
-	/*margin:10px 25px 10px 25px;*/
 	padding:0px 25px;
 	vertical-align:middle;
 	
-	font-size:20px; /* applies to all lines except first */
-	line-height:1em;
+	font-size:24px;
+	line-height:30px;
 	font-weight:normal;
 	color:#DED9CB;
 }
-.slidetitle:first-line {
-	font-size:24px; /* TODO: 24px? */
-	line-height:22px;
+.header > .slidetitle img {
+	display: block;
 }
 
 .main {
