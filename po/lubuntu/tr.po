@@ -7,21 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
-"PO-Revision-Date: 2012-03-15 19:35+0000\n"
-"Last-Translator: kulkke <Unknown>\n"
+"POT-Creation-Date: 2013-03-20 17:52-0300\n"
+"PO-Revision-Date: 2013-03-08 20:03+0000\n"
+"Last-Translator: Volkan Gezer <Unknown>\n"
 "Language-Team: Turkish <tr@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:52+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:56+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
-msgid "Welcome to Lubuntu 12.10"
-msgstr ""
+#, fuzzy
+msgid "Welcome to Lubuntu 13.04"
+msgstr "Lubuntu 12.10'a Hoş Geldiniz"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/00_welcome.html:8
@@ -29,11 +30,12 @@ msgid ""
 "Lubuntu is designed to be lightweight, easy and fast. Let's have a closer "
 "look!"
 msgstr ""
+"Lubuntu hafif, kolay ve hızlı olması için tasarlandı. Hadi yakından bakalım!"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/01_lxde.html:1
 msgid "Built on a solid foundation"
-msgstr ""
+msgstr "Sağlam bir temel üzerine inşa edildi"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/01_lxde.html:8
@@ -42,11 +44,14 @@ msgid ""
 "energy-saving desktop environment. LXDE has been proven to work well with "
 "both old and new computers, ensuring you a smooth desktop experience."
 msgstr ""
+"Lubuntu <em>LXDE Masaüstü Ortamı</em> tabanlıdır. LXDE, hızlı ve güç "
+"tasarruflu masaüstü ortamıdır. LXDE, eski ve yeni bilgisayarlarda da "
+"kanıtlanarak sorunsuz ve yumuşak masaüstü deneyimi yaşamanızı emin kılar."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/02_browser.html:1
 msgid "Browse the web"
-msgstr ""
+msgstr "Web'de gezin"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/02_browser.html:8
@@ -55,14 +60,21 @@ msgid ""
 "web browser developed by Google. It's safe, stable, fast and even supports "
 "your favorite addons/extensions."
 msgstr ""
+"<em>Chromium</em>, Google tarafından geliştirilen Chrome web tarayıcısının "
+"açık kaynaklı sürümü ile internet'te gezinin. Güvenlik, kararlı, hızlı ve "
+"hatta en beğendiğiniz eklenti/uzantıları destekler."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/02_browser.html:12
+#, fuzzy
 msgid ""
-"Did you know that Lubuntu has it's own Chrome extension available for free? "
+"Did you know that Lubuntu has its own Chrome extension available for free? "
 "Visit the <a href=\"https://chrome.google.com/webstore/detail/"
 "hemkkjpjknkkndhconammdhlhdkjclim\">Chrome Web Store</a> for more information."
 msgstr ""
+"Lubuntu'nun kendi Chrome uzantısının ücretsiz olduğunu biliyor muydunuz? "
+"Daha fazla bilgi için <a href=\"https://chrome.google.com/webstore/detail/"
+"hemkkjpjknkkndhconammdhlhdkjclim\">Chrome Web Mağazası</a>'nı ziyaret edin."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/02_browser.html:16
@@ -75,7 +87,7 @@ msgstr "Dahili yazılım"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:20
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/02_browser.html:23
@@ -88,17 +100,17 @@ msgstr "Desteklenen yazılım"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:27
 msgid "Flash"
-msgstr ""
+msgstr "Flash"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:32
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/03_office.html:1
 msgid "Create and edit documents"
-msgstr ""
+msgstr "Belge oluştur ve düzenle"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/03_office.html:8
@@ -108,6 +120,10 @@ msgid ""
 "support for industry standard document types and will allow you to "
 "collaborate on documents written by colleagues, friends or family."
 msgstr ""
+"Belge ve elektronik tablo oluşturmak için LibreOffice alternatifi olan hafif "
+"<em>Abiword</em> ve <em>Gnumeric</em> kullanın. İki uygulama da endüstri "
+"standardı belge türlerini destekler ve çalışma arkadaşlarınız, "
+"arkadaşlarınız veya aileniz ile iş birliği yapmanıza izin verir."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/03_office.html:16
@@ -127,7 +143,7 @@ msgstr "LibreOffice"
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/04_media.html:1
 msgid "Enjoy your music and videos"
-msgstr ""
+msgstr "Müzik ve videolarınızdan zevk alın"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:10
@@ -136,6 +152,10 @@ msgid ""
 "audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
 "video player powered by mplayer with support for many formats."
 msgstr ""
+"Beğendiğiniz müzikleri basit fakat güçlü ses oynatıcısı olan <em>Audacious</"
+"em> ile dinleyin. Videolarınızı izlerken çoğu biçimi destekleyen mplayer "
+"tabanlı bir hızlı video oynatıcısı olan <em>Gnome-Mplayer</em> kullanarak "
+"eğlenin."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:14
@@ -143,39 +163,45 @@ msgid ""
 "You can also obtain additional codec support by installing the <em>lubuntu-"
 "restricted-extras</em> package."
 msgstr ""
+"Ayrıca <em>lubuntu-restricted-extras</em> paketini yükleyerek ek kod çözücü "
+"desteğini de elde edebilirsiniz."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:23
 msgid "Audacious"
-msgstr ""
+msgstr "Audacious"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:28
 msgid "Gnome-Mplayer"
-msgstr ""
+msgstr "Gnome-Mplayer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:36
 msgid "Exaile"
-msgstr ""
+msgstr "Exaile"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:41
 msgid "VLC media player"
-msgstr ""
+msgstr "VLC ortam oynatıcı"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/05_social.html:1
 msgid "Chat with your friends"
-msgstr ""
+msgstr "Arkadaşlarınızla sohbet edin"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/05_social.html:8
+#, fuzzy
 msgid ""
 "With <em>Pidgin</em>, you will be able to keep in touch with all your "
-"friends. It supports a wide range of chat services, such as Windows Live, "
-"Google Talk and Facebook."
+"friends. It supports a wide range of chat services, such as AIM, Google Talk "
+"and Facebook."
 msgstr ""
+"<em>Pidgin</em> ile tüm arkadaşlarınızla iletişimde kalabileceksiniz. "
+"Windows Live, Google Talk ve Facebook gibi geniş çerçevede sohbet "
+"hizmetlerini desteklemektedir."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/05_social.html:16
@@ -190,12 +216,12 @@ msgstr "Skype"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/05_social.html:28
 msgid "Empathy"
-msgstr ""
+msgstr "Empathy"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/06_lsc.html:1
 msgid "Download software with ease"
-msgstr ""
+msgstr "Yazılımları kolaylıkla indirin"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/06_lsc.html:8
@@ -206,11 +232,16 @@ msgid ""
 "and explore categories such as games, science and education, or search for "
 "your favorite software."
 msgstr ""
+"Lubuntu ile, tüm yazılımların dahil edildiği Ubuntu deposuna "
+"erişebilirsiniz. Bu demektir ki, ücretsiz binlerce yeni yazılım "
+"bilgisayarınıza kurulmak için hazır. <em>Lubuntu Yazılım Merkezi</em>'ni "
+"kullanarak oyunlar, bilim ve eğitim gibi kategorileri keşfedin veya "
+"beğendiğiniz yazılımları arayın."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/07_help.html:1
 msgid "Need help?"
-msgstr ""
+msgstr "Yardıma ihtiyacınız mı var?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/07_help.html:8
@@ -221,11 +252,16 @@ msgid ""
 "visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
 "the information you need."
 msgstr ""
+"Lubuntu'nın en büyük avantajlarından biri, birlikte gelen harika "
+"topluluktır. Eğer problemle karşılaşırsanız diğer kullanıcılar memnuniyetle "
+"size yardım edecektir. Yardım almak için çok farklı yollar bulunuyor. En "
+"kolayı ise <a href=\"http://lubuntu.net/\">web sitemizi</a> ziyaret "
+"etmenizdir. Çünkü size gereken tüm bilgileri topladık."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/08_thanks.html:1
 msgid "Thank you for choosing Lubuntu"
-msgstr ""
+msgstr "Lubuntu seçtiğiniz için teşekkür ederiz"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/08_thanks.html:8
@@ -235,3 +271,7 @@ msgid ""
 "either by giving us feedback or by getting involved in the project, please "
 "visit our <a href=\"http://lubuntu.net/\">website</a>."
 msgstr ""
+"Kurulum birazdan bitecek. Umarız Lubuntu ve birlikte getirdiği tüm "
+"özgürlükten zevk alırsınız. Eğer geri bildirim yaparak veya projeye dahil "
+"olarak Lubuntu'yu geliştirmemiz için yardım etmek isterseniz, lütfen <a href="
+"\"http://lubuntu.net/\">web sitemizi</a> ziyaret edin."

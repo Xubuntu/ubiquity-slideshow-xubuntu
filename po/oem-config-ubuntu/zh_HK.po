@@ -7,29 +7,30 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
-"PO-Revision-Date: 2012-10-09 03:14+0000\n"
+"POT-Creation-Date: 2013-03-20 17:52-0300\n"
+"PO-Revision-Date: 2012-12-29 13:21+0000\n"
 "Last-Translator: Roy Chan <roy.chan@linux.org.hk>\n"
 "Language-Team: Chinese (Hong Kong) <zh_HK@li.org>\n"
 "Language: zh_HK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:52+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "自訂 Ubuntu"
+msgid "Access for everyone"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
+#, fuzzy
 msgid ""
-"At the heart of Ubuntu’s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and options like your preferred "
-"color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
-"are, and wherever you are."
+"At the heart of the Ubuntu philosophy is the belief that computing is for "
+"everyone. With advanced accessibility tools and options to change language, "
+"colour scheme and text size, Ubuntu makes computing easy – whoever and "
+"wherever you are."
 msgstr ""
 "Ubuntu 的中心思想是相信每個人都能使用電腦。有了進階的無障礙輔助工具和選項，像"
 "是偏好的色彩方案、文字大小、語言等，Ubuntu 讓每個人都能使用。不管您的身分，或"
@@ -74,7 +75,7 @@ msgstr ""
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
-#: slideshows/oem-config-ubuntu/slides/music.html:12
+#: slideshows/oem-config-ubuntu/slides/music.html:11
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
 msgid "Included software"
@@ -152,44 +153,40 @@ msgstr ""
 "Ubuntu、Windows、Mac、Android、iOS、網頁等平臺上執行。"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu/slides/music.html:1
+#: slideshows/oem-config-ubuntu/slides/music.html:2
 msgid "Take your music with you"
 msgstr "讓音樂陪著您上山下海"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:8
+#: slideshows/oem-config-ubuntu/slides/music.html:7
+#, fuzzy
 msgid ""
 "Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options and the Ubuntu One music store built in, it’s simple to queue up the "
-"perfect songs. And it works great with CDs and portable music players, so "
-"you can enjoy all your music wherever you go."
+"options, it's simple to queue up the perfect songs. And it works great with "
+"CDs and portable music players, so you can enjoy all your music wherever you "
+"go."
 msgstr ""
 "Ubuntu 預裝令人驚嘆的 Rhythmbox 音樂播放器。有了進階播放控制選項，以及內建的 "
 "Ubuntu One 音樂商店，要排出完美音樂清單變得簡單不已。此外，Rhythmbox 對於 CD "
 "或者是隨身音樂播放器都能支援良好，因此您可以隨時隨地欣賞您所有的音樂。"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:16
+#: slideshows/oem-config-ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Rhythmbox 音樂播放器"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:20
-msgid "Ubuntu One Music Store"
-msgstr "Ubuntu One 音樂商店"
-
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
-msgid "Write and present for free"
-msgstr "自由書寫與展現"
+msgid "Everything you need for the office"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
+#, fuzzy
 msgid ""
-"LibreOffice is a free office suite packed with everything you’ll need to "
-"create impressive documents, spreadsheets, and presentations. LibreOffice "
-"tries its best to work with other office software, and it uses the "
-"OpenDocument standards for far-reaching compatibility."
+"LibreOffice is a free office suite packed with everything you need to create "
+"documents, spreadsheets and presentations. Compatible with Microsoft Office "
+"file formats, it gives you all the features you need, without the price tag."
 msgstr ""
 "LibreOffice 是一套自由的辦公套裝軟件，包含所有您建立令人印象深刻的文件、試算"
 "表、簡報時所需要的一切。LibreOffice 努力與其他辦公軟件之間能互通，並且採用 "
@@ -254,6 +251,8 @@ msgid ""
 "applications and social networks. So you can see straight away when there’s "
 "something new to read, regardless of how it arrived."
 msgstr ""
+"訊息選單讓您可如鷹眼般俯視所有應用程式與社交網絡的傳入訊息；如此一來，您無須"
+"特地處理該如何取得訊息，只要有東西可讀您就能馬上點閱。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -276,6 +275,36 @@ msgid "Identi.ca"
 msgstr "Identi.ca"
 
 #. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:2
+msgid "One account to log in to everything on Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:8
+msgid "<strong>Make the most of Ubuntu with Ubuntu One.</strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:10
+msgid "Ubuntu One is the single account to log in to everything on Ubuntu."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:17
+msgid "Get <strong>new apps</strong> from the Software Center"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:21
+msgid "Listen to <strong>your music collection</strong> and buy tracks"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:25
+msgid "Access <strong>files and photos</strong> from all your devices"
+msgstr ""
+
+#. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1
 msgid "Find even more software"
 msgstr "發掘更多好用的軟件"
@@ -288,6 +317,9 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
+"還在網絡上到處搜尋新軟件嗎？對過去說再見吧！有了 Ubuntu 軟件中心，尋找新程式"
+"易如反掌。只要輸入您想搜尋的，或是直接探索分類好的項目，像是科學、教育、遊戲"
+"等；此外軟體中心還附上其他使用者撰寫的有用評論。"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -296,10 +328,20 @@ msgstr "歡迎"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"Thank you for choosing Ubuntu 12.10. This version brings some exciting "
+"Thank you for choosing Ubuntu 13.04. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
 "感謝您選擇 Ubuntu 12.10。這個版本帶來許多令人驚喜的改變，其中也包括重新設計的"
 "桌面介面 - Unity。當 Ubuntu 還在設定之時，本投影片帶領您四處巡禮。"
+
+#~ msgid "Customize Ubuntu"
+#~ msgstr "自訂 Ubuntu"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Ubuntu One 音樂商店"
+
+#~ msgid "Write and present for free"
+#~ msgstr "自由書寫與展現"

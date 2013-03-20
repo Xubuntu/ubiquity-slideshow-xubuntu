@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"POT-Creation-Date: 2013-03-20 17:52-0300\n"
 "PO-Revision-Date: 2010-10-03 17:48+0000\n"
 "Last-Translator: Pi Squared <Unknown>\n"
 "Language-Team: Bulgarian <bg@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:53+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,7 +25,7 @@ msgstr "Поздравления!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 12.10."
+msgid "You have chosen to install the latest version of Xubuntu, 13.04."
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -37,10 +37,11 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
+#, fuzzy
 msgid ""
-"Since you are installing this software using the Xubuntu Desktop CD, feel "
-"free to examine things as it installs. After the installation, the desktop "
-"will look much the same as it does now."
+"Since you are installing this software using the Xubuntu live installation, "
+"feel free to examine things as it installs. After the installation, the "
+"desktop will look much the same as it does now."
 msgstr ""
 "Тъй като Вие инсталирате софтуера, като използвате компакт диска на Ксубунту "
 "за настолна употреба, свободно разгледайте средата, докато тече "
@@ -70,7 +71,7 @@ msgstr ""
 #: slideshows/xubuntu/slides/01_web.html:10
 #: slideshows/xubuntu/slides/02_messaging.html:10
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:10
-#: slideshows/xubuntu/slides/04_office.html:11
+#: slideshows/xubuntu/slides/04_office.html:10
 #: slideshows/xubuntu/slides/06_explore.html:11
 msgid "Where?"
 msgstr ""
@@ -80,6 +81,7 @@ msgstr ""
 #: slideshows/xubuntu/slides/01_web.html:12
 #: slideshows/xubuntu/slides/02_messaging.html:11
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
+#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 #: slideshows/xubuntu/slides/06_explore.html:12
 #: slideshows/xubuntu/slides/06_explore.html:13
@@ -165,31 +167,31 @@ msgstr ""
 #: slideshows/xubuntu/slides/04_office.html:7
 msgid ""
 "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
-"word processor, which can read almost all known document formats."
+"word processor, which can read almost all known document formats and "
+"<em>Gnumeric</em>, a spreadsheet program with an emphasis on accuracy."
 msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
-msgid ""
-"If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
-"repositories."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:9
 msgid ""
 "LibreOffice is also available in the repositories, if you're more "
 "comfortable with it or need a full office suite."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Office <span>»</span>"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_office.html:12
+#: slideshows/xubuntu/slides/04_office.html:11
 msgid "Abiword"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/04_office.html:12
+msgid "Gnumeric"
 msgstr ""
 
 #. type: Content of: <div><h1>

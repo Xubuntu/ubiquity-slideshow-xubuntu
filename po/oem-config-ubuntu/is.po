@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"POT-Creation-Date: 2013-03-20 17:52-0300\n"
 "PO-Revision-Date: 2012-09-22 08:56+0000\n"
 "Last-Translator: Sveinn í Felli <sveinki@nett.is>\n"
 "Language-Team: Icelandic <is@li.org>\n"
@@ -15,21 +15,22 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:52+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "Persónugera Ubuntu"
+msgid "Access for everyone"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
+#, fuzzy
 msgid ""
-"At the heart of Ubuntu’s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and options like your preferred "
-"color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
-"are, and wherever you are."
+"At the heart of the Ubuntu philosophy is the belief that computing is for "
+"everyone. With advanced accessibility tools and options to change language, "
+"colour scheme and text size, Ubuntu makes computing easy – whoever and "
+"wherever you are."
 msgstr ""
 "Við hjarta heimspeki Ubuntu er trú um það að tölvur eru fyrir alla. Með "
 "framsæknum aðgengistólum og möguleikum eins og þitt uppáhalds litaskema, "
@@ -59,7 +60,7 @@ msgstr "Tungumálastuðningur"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Fáðu sem mest út úr vefnum"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
@@ -69,10 +70,14 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
+"Ubuntu inniheldur Firefox, vafran sem er notaður að milljónum manns um allan "
+"heim. Síður sem þú notar reglulega (svo sem Facebook eða Gmail, sem dæmi) er "
+"hægt að pinna á skjáborðið svo þú sért fljótari að nota það, alveg eins og "
+"önnur forrit á tölvunni þinni."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
-#: slideshows/oem-config-ubuntu/slides/music.html:12
+#: slideshows/oem-config-ubuntu/slides/music.html:11
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
 msgid "Included software"
@@ -113,6 +118,11 @@ msgid ""
 "to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
 "support\">ubuntu.com/support</a>."
 msgstr ""
+"Skoðaðu <a href=\"http://askubuntu.com/\">askubuntu.com</a>til að fá svör "
+"við öllum Ubuntu spurningunum þínum. Það eru góðar líkur á að spurningunni "
+"þinni hafi þegar verið svarað og, ef ekki, þá munt þú finna þig meðal fjölda "
+"sjálfboðaliða sem eru æstir til að hjálpa. Fyrir fleyri valkosti, farðu á <a "
+"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:17
@@ -139,19 +149,26 @@ msgid ""
 "your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
 "Mac, Android, iOS and the web."
 msgstr ""
+"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> gefur þér "
+"5GB af frírri skýjahyrslu til að geima og nalgast gögnin þín, deila myndunum "
+"þínum og <a href=\"https://one.ubuntu.com/services/music/\">streima "
+"tónlistina þína</a> í tölvuna, spjaldtölvuna eða snjallsímann. Myndir "
+"byrtast samstundir á tækjum, um leið og þú tekur þær. Ubuntu One keyrir á "
+"Ubuntu, Windows, Mac, Android, iOS og á vefnum."
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu/slides/music.html:1
+#: slideshows/oem-config-ubuntu/slides/music.html:2
 msgid "Take your music with you"
 msgstr "Taktu tónlistarsafnið þitt með þér"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:8
+#: slideshows/oem-config-ubuntu/slides/music.html:7
+#, fuzzy
 msgid ""
 "Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options and the Ubuntu One music store built in, it’s simple to queue up the "
-"perfect songs. And it works great with CDs and portable music players, so "
-"you can enjoy all your music wherever you go."
+"options, it's simple to queue up the perfect songs. And it works great with "
+"CDs and portable music players, so you can enjoy all your music wherever you "
+"go."
 msgstr ""
 "Ubuntu kemur með hinu ótrúlega Rythmbox tónlistarspilara. Með hátækni "
 "afspilunarmöguleikum og Ubuntu One tónlistarbúðinni innbyggðri þá er það "
@@ -160,27 +177,22 @@ msgstr ""
 "ert."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:16
+#: slideshows/oem-config-ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Rhythmbox tónlistarspilari"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:20
-msgid "Ubuntu One Music Store"
-msgstr "Ubuntu One tónlistarverslunin"
-
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
-msgid "Write and present for free"
-msgstr "Skrifaðu og sýndu frítt"
+msgid "Everything you need for the office"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
+#, fuzzy
 msgid ""
-"LibreOffice is a free office suite packed with everything you’ll need to "
-"create impressive documents, spreadsheets, and presentations. LibreOffice "
-"tries its best to work with other office software, and it uses the "
-"OpenDocument standards for far-reaching compatibility."
+"LibreOffice is a free office suite packed with everything you need to create "
+"documents, spreadsheets and presentations. Compatible with Microsoft Office "
+"file formats, it gives you all the features you need, without the price tag."
 msgstr ""
 "LibreOffice er frjáls skrifstofuhugbúnaður, fullur af öllu sem þú þarft til "
 "að búa til flott skjöl, töflur og glærur. LibreOffice reynir sitt besta til "
@@ -238,7 +250,7 @@ msgstr "Pitivi vídeóklippiforrit"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/social.html:1
 msgid "Stay connected"
-msgstr "Vera í sambandi"
+msgstr "Vertu í sambandi"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/social.html:8
@@ -247,6 +259,9 @@ msgid ""
 "applications and social networks. So you can see straight away when there’s "
 "something new to read, regardless of how it arrived."
 msgstr ""
+"Skilaboða valmyndin gefur þér arnarsjón yfir innkomandi skilaboð frá öllum "
+"forritum og félagsnetum. Svo þú getur séð samstundis ef það er eitthvað nýtt "
+"að lesa, sama hvaðan það kom."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -269,6 +284,36 @@ msgid "Identi.ca"
 msgstr "Identi.ca"
 
 #. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:2
+msgid "One account to log in to everything on Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:8
+msgid "<strong>Make the most of Ubuntu with Ubuntu One.</strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:10
+msgid "Ubuntu One is the single account to log in to everything on Ubuntu."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:17
+msgid "Get <strong>new apps</strong> from the Software Center"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:21
+msgid "Listen to <strong>your music collection</strong> and buy tracks"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:25
+msgid "Access <strong>files and photos</strong> from all your devices"
+msgstr ""
+
+#. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1
 msgid "Find even more software"
 msgstr "Finndu enn meiri hugbúnað"
@@ -281,6 +326,10 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
+"Kveddu þá hugsun að leita á netinu eftir hugbúnaði. Með Ubuntu Software "
+"Center, getur þú fundið og sett upp ný forrit auðveldlega. Skrifaðu bara það "
+"sem þú leitar að, eða kannaðu flokka svo sem Vísindi, Kennsla og Leikir, "
+"ásamt hjálplegur ummælum frá öðrum notendum."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -289,8 +338,22 @@ msgstr "Velkomin(n)"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"Thank you for choosing Ubuntu 12.10. This version brings some exciting "
+"Thank you for choosing Ubuntu 13.04. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
+"Þakka þér fyrir að velja Ubuntu 12.10. Þessi útgáfa færir þér nokkar "
+"nýstálegar breytingar þarmeðtalið algjör endurhönnun á skjáborðs umhverfinu, "
+"Unity. Á meðan það er verið að stilla Ubuntu þá sýnir þessi glærusýning þér "
+"um kerfið."
+
+#~ msgid "Customize Ubuntu"
+#~ msgstr "Persónugera Ubuntu"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Ubuntu One tónlistarverslunin"
+
+#~ msgid "Write and present for free"
+#~ msgstr "Skrifaðu og sýndu frítt"

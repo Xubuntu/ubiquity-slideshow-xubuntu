@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"POT-Creation-Date: 2013-03-20 17:52-0300\n"
 "PO-Revision-Date: 2012-09-29 07:44+0000\n"
 "Last-Translator: Samir Ribić <Unknown>\n"
 "Language-Team: Bosnian <bs@li.org>\n"
@@ -15,13 +15,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:52+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:56+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
-msgid "Accessibility in Edubuntu"
-msgstr "Pristupačnost u Edubuntu"
+msgid "Activate Accessibility"
+msgstr ""
 
 #.  "your" refers to a large group that includes the reader. 
 #. type: Content of: <div><div><ul><li>
@@ -64,8 +64,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/arkose.html:1
-msgid "Arkose application sandboxing"
-msgstr "Arkose smiještanje u kutiju"
+msgid "Safely Run Software"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:6
@@ -93,8 +93,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
-msgid "Gnome Calculator"
-msgstr "Gnome kalkulator"
+msgid "Calculate Everything"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
@@ -106,7 +106,10 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:7
-msgid "It supports financial operations and up-to-date currency conversions."
+#, fuzzy
+msgid ""
+"It supports financial operations and up-to-date currency and unit "
+"conversions."
 msgstr ""
 "Ona podržava finansijske operacije i blagovremene pretvorbe među valutama."
 
@@ -121,8 +124,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calibre.html:1
-msgid "Calibre e-book manager"
-msgstr "Calibre za upravljanje elektronskim knjigama"
+msgid "Manage your e-Book Library"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:6
@@ -194,8 +197,8 @@ msgstr "<em>Gimp</em> je snažan i programabilan uređivač slika i fotografija.
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/documentation.html:1
-msgid "Getting Help with Edubuntu"
-msgstr "Dobivanje pomoći s Edubuntu"
+msgid "Get Involved"
+msgstr ""
 
 #.  The string "Help and Support" should be exactly as it appears in the System menu. 
 #. type: Content of: <div><div><ul><li>
@@ -258,8 +261,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
-msgid "Edubuntu menu editor"
-msgstr "Urednik menija Edubuntuja"
+msgid "Menu Administration"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:6
@@ -284,14 +287,16 @@ msgstr "Podešavanja se mogu primeniti na korisnike ili grupe širom sistema."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/empathy.html:1
-msgid "Social from the start"
-msgstr "Društvenost od početka"
+msgid "Connect to your World"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:6
+#, fuzzy
 msgid ""
-"From the start, Edubuntu connects to online chat and broadcast services "
-"including Facebook, Twitter, Windows Live and Google Talk."
+"With <em>Empathy</em>, Edubuntu makes connecting to online chat and "
+"broadcast services including Facebook, Twitter, Windows Live and Google Talk "
+"easier than ever."
 msgstr ""
 "Od samog početka, Edubuntu se povezuje na usluge emitovanja i razgovora, "
 "uključujući Facebook, Twitter, Windows Live i Google Talk."
@@ -316,8 +321,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/epoptes.html:1
-msgid "Epoptes classroom control"
-msgstr "Epoptes kontrola razreda"
+msgid "Control your Classroom"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
@@ -343,6 +348,32 @@ msgid "Epoptes dynamically detects clients and integrates well with LTSP."
 msgstr "Epoptes dinamički prepoznaje klijente i integriše ih s LTSP."
 
 #. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/fonts.html:1
+msgid "Fonts Galore"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/fonts.html:6
+msgid ""
+"Edubuntu ships with many of the fonts that are available in the Ubuntu "
+"repositories."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/fonts.html:7
+msgid ""
+"Choose from a variety of fonts to get you kickstarted with desktop "
+"publishing tasks."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/fonts.html:8
+msgid ""
+"The Andika font family is specifically designed for beginner-level readers "
+"and literacy purposes."
+msgstr ""
+
+#. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
 msgid "FreeMind mindmapping"
 msgstr "FreeMind mapa misli"
@@ -359,6 +390,7 @@ msgstr "Sumira veliku količinu podataka efikasno."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:8
+#: slideshows/edubuntu/slides/vym.html:8
 msgid "Make subsections stand out with cloud bubbles and custom colours."
 msgstr ""
 "Napravite iydvojene podsekcije pomoću mjehurića oblaka i proizvoljnih boja."
@@ -373,7 +405,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/gbrainy.html:1
-msgid "Exercise your gray matter"
+#, fuzzy
+msgid "Exercise Your Mind"
 msgstr "Vježbajte sivu masu"
 
 #. type: Content of: <div><div><ul><li>
@@ -387,59 +420,33 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:7
+#, fuzzy
 msgid ""
-"Logic Puzzles: games designed to challenge your reasoning and thinking "
-"skills."
+"Logic Puzzles: designed to challenge your reasoning and thinking skills."
 msgstr ""
 "Logičke zagonetke: igre dizajnirane da Izazovete svoje vještine rasuđivanja "
 "i razmišljanja."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:8
+#, fuzzy
 msgid ""
-"Mental Calculation: games based on arithmetical operations designed to prove "
-"your mental calculation skills."
+"Mental Calculation: based on arithmetical operations designed to prove your "
+"mental calculation skills."
 msgstr ""
 "Mentalni ačun: igre zasnovane na aritmetičkim operacijama dizajnirane da "
 "dokažete svoje mentalne sposobnosti proračuna."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:9
-msgid "Memory Trainers: games designed to challenge your short term memory."
+#, fuzzy
+msgid "Memory Trainers: designed to challenge your short term memory."
 msgstr "Vježba memorije: igre dizajnirane za vježbu vaše kratkoročne memorije."
 
 #. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/geogebra.html:1
-msgid "Geogebra dynamic mathematics"
-msgstr "Geogebra dynamička matematika"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/geogebra.html:6
-msgid "<em>Geogebra</em> is a dynamic geometry system."
-msgstr "<em>Geogebra</em> je dinamički geometrijski sistem"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/geogebra.html:7
-msgid "Do constructions with points, vectors, segments, lines and more."
-msgstr "Crtajte figure pomoću tačaka, vektora, segmenata, linija i drugo."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/geogebra.html:8
-msgid "Modify functions dynamically and edit equations directly."
-msgstr "Mijenjajte funkcije dinamički i uređujte jednačine direktno."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/geogebra.html:9
-msgid ""
-"Supports many elementary calculus-based tools such as derivatives, "
-"osculating circle and more."
-msgstr ""
-"Podržava mnoge osnovne alate matematičke analize kao što su izvodi, "
-"osukulatorne kružnice i drugo."
-
-#. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/installing-software.html:1
-msgid "Getting more software"
+#, fuzzy
+msgid "Get More Software"
 msgstr "Dobaviti još softvera"
 
 #. type: Content of: <div><div><ul><li>
@@ -474,7 +481,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
-msgid "Play and learn"
+#, fuzzy
+msgid "Play and Learn"
 msgstr "Igrajte se i učite"
 
 #. type: Content of: <div><div><ul><li>
@@ -508,7 +516,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/librecad.html:1
-msgid "LibreCAD computer aided drawing"
+#, fuzzy
+msgid "Computer Aided Drawing"
 msgstr "LibreCAD kompjuterski pomognuto crtanje"
 
 #. type: Content of: <div><div><ul><li>
@@ -535,8 +544,8 @@ msgstr "Crtajte šeme i dijagrame"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/ltsp.html:1
-msgid "Easy terminal server setup"
-msgstr "Jednostavno podešavanje terminalskog servera"
+msgid "Easy Diskless Setup"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:6
@@ -554,44 +563,13 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:8
-msgid ""
-"Extend to large-scale deployments with LTSP-Cluster, a high availability "
-"clustering suite available for Edubuntu."
+msgid "Rapidly deploy many diskless machines with low maintenance."
 msgstr ""
-"Proširljivo do velikih distribucija sa LTSP-klasterom, paketom za pravljenje "
-"klastera visoke dostupnosti koji je dostupan za Edubuntu."
-
-#. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/nanny.html:1
-msgid "Gnome Nanny"
-msgstr "Gnome dadilja"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/nanny.html:6
-msgid "<em>Gnome Nanny</em> provides parental control in Edubuntu."
-msgstr "<em>Gnome Nanny</em> omogućava roiditeljsku pažnju u Edubuntu."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/nanny.html:7
-msgid ""
-"Limit the amount of time kids spend on the computer in any period using the "
-"graphical schedule editor."
-msgstr ""
-"Ograničite vrijeme koje djeca provode na računaru u bilo kom periodu "
-"koristeći grafički uređivač rasporeda."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/nanny.html:8
-msgid ""
-"Restrict access to undesirable web sites and download pre-defined access "
-"rules."
-msgstr ""
-"Ograničite pristup nepoželjnim Web sajtovima i preuzmite unaprijed "
-"definisana pravila pristupa."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/pencil.html:1
-msgid "Drawing with Pencil"
+#, fuzzy
+msgid "Draw with Pencil"
 msgstr "Crtanje programom Pencil"
 
 #. type: Content of: <div><div><ul><li>
@@ -616,63 +594,9 @@ msgid "Start a comic-strip or draw a self-portrait!"
 msgstr "Započnite strip ili nacrtajte autoprotret!"
 
 #. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/pessulus.html:1
-msgid "Pessulus Lockdown Editor"
-msgstr "Pessulus alat za zaključavanje"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/pessulus.html:6
-msgid ""
-"The <em>Pessulus Lockdown Editor</em> allows administrators to restrict "
-"users from making certain changes to their profile."
-msgstr ""
-"<em>Pessulus alat za zaključavanje</em> omogućava administratorima da "
-"ograniče korisnicima da unose određene promjene na svom profilu."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/pessulus.html:7
-msgid "Lock down panels and user settings easily on public machines."
-msgstr ""
-"Zaključavanje panela i korisničkih podešavanja jednostavno na javnim mašine."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/pessulus.html:8
-msgid "Launch browsers in fullscreen mode in kiosk environments."
-msgstr "Pokrenite pretraživače u režimu punog ekrana u kiosk okruženjima."
-
-#. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/sabayon.html:1
-msgid "Sabayon user profile editor"
-msgstr "Sabayon urednik korisničkih profila"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/sabayon.html:6
-msgid ""
-"The <em>Sabayon User Profile Editor</em> allows administrators to set up "
-"highly customized desktops for users."
-msgstr ""
-"<em>Sabayon uređivač korisničkih profila</em>omogućava administratorima da "
-"podese visoko prilagođene radne površine korisnicima."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/sabayon.html:7
-msgid ""
-"Launch the Sabayon Profile Editor from the Administration menu, and you'll "
-"be able to set up a desktop just the way you want it."
-msgstr ""
-"Pokrenite Sabayon uređivač korisničkih profila iz menija administracije i "
-"moći ćete da podesite radnu površinu po želji."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/sabayon.html:8
-msgid "Easily apply custom desktops that have been created to users or groups."
-msgstr ""
-"Lako primijenite vlastite radne površine koje su kreirane za korisnike ili "
-"grupe."
-
-#. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/testdrive.html:1
-msgid "Testdrive in Software Center"
+#, fuzzy
+msgid "Testdrive Software"
 msgstr "Testiranje u softverskom centru"
 
 #. type: Content of: <div><div><ul><li>
@@ -709,68 +633,58 @@ msgid ""
 msgstr "Nađi u softverskom centru koji se moža naći u aplikacijskom meniju"
 
 #. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/testing.html:1
-msgid "Welcome and thank you"
-msgstr "Dobrodošli i hvala vam"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 12.10."
-msgstr "Hvala vam što testirate ono što će postati Edubuntu 12.10."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/testing.html:7
-msgid ""
-"If this is an alpha/beta candidate, please log this installation on <a href="
-"\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+#: slideshows/edubuntu/slides/tomboy.html:1
+msgid "Take Notes"
 msgstr ""
-"Ako je ovo alfa/beta kandidat, molim zabilježite tu instalaciju na: <a href="
-"\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/testing.html:8
+#: slideshows/edubuntu/slides/tomboy.html:6
+#, fuzzy
 msgid ""
-"File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
-"net</a>."
+"Edubuntu ships with <em>Tomboy</em>, a desktop wiki and note taking "
+"application."
 msgstr ""
-"Prijavite greške na: <a href=\"http://bugs.launchpad.net\">http://bugs."
-"launchpad.net</a>."
+"Edubuntu se isporučuje sa <em>Pencil</em>, višenamenskim alatom za crtanje."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/testing.html:9
-msgid "Talk to us on irc.freenode.net, channel #edubuntu"
-msgstr "Razgovarajte s nama na „irc.freenode.net-u“, kanal „#edubuntu“."
+#: slideshows/edubuntu/slides/tomboy.html:7
+msgid "Take notes during lectures and meetings."
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/testing.html:10
-msgid ""
-"Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu.org</"
-"a>"
+#: slideshows/edubuntu/slides/tomboy.html:8
+msgid "Create links between notes."
 msgstr ""
-"Najsvježije vijesti na: <a href=\"http://edubuntu.org\">http://edubuntu.org</"
-"a>."
 
-#. type: Content of: <div><div><p>
-#: slideshows/edubuntu/slides/testing.html:12
-msgid "This slide will be removed after the beta release."
-msgstr "Ovaj slajd će biti uklonjen nakon beta izdanja."
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/tomboy.html:9
+msgid "Create notebooks for easy access to specific notes."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/tux4kids.html:1
-msgid "Learning is fun with Tux4kids"
-msgstr "Učenje je zabavno s Tux4kids"
+msgid "Basic Skills Development"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:6
+#, fuzzy
+msgid "Edubuntu ships with the popular <em>Tux4kids suite</em>."
+msgstr ""
+"Edubuntu dolazi s najnovijom verzijom moćnog <em>Gnome kalkulatora</em>."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/tux4kids.html:7
+#, fuzzy
 msgid ""
 "Defend your cities in <em>Tux of Math Command</em>, an arcade game that "
-"improves arithmetic skills ."
+"improves arithmetic skills."
 msgstr ""
 "Branite gradove u <em>Tux matematičke komande</em>, akcionoj igri koja "
 "poboljšava aritmetiku."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/tux4kids.html:7
+#: slideshows/edubuntu/slides/tux4kids.html:8
 msgid ""
 "Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
 "em>."
@@ -779,7 +693,7 @@ msgstr ""
 "<em>TuxPaint</em>."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/tux4kids.html:8
+#: slideshows/edubuntu/slides/tux4kids.html:9
 msgid ""
 "Learn where all the buttons on your keyboard are using <em>TuxType</em>."
 msgstr "Saznajte gde su svi tasteri na tastaturi pomoću <em>TuxType</em>."
@@ -842,51 +756,243 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 3.5 boosts performance and hardware support."
+#, fuzzy
+msgid "Linux 3.8 provides great hardware support and performance."
 msgstr "Linux 3.5 pojačava mogućnosti i hardversku podršku."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid "Xorg 1.13, Mesa and Compiz delivers excellent graphics support."
-msgstr "Xorg 1.13, Mesa i Compiz pružaju odličnu grafičku podršku."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/underthehood.html:9
-msgid ""
-"Python 2.7 and Python 3.2 provides increased performance and functionality."
-msgstr "Python 2.7 i Python 3.2 poboljšavaju performanse i funkcionalnost."
+msgid "Python 3.3 provides a powerful scripting and programming language."
+msgstr ""
 
 #. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/vym.html:1
+msgid "Organise Your Thoughs"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/vym.html:6
+#, fuzzy
+msgid ""
+"<em>Vym</em> is a powerful mindmapping tool that is included in Edubuntu."
+msgstr "<em>FreeMind</em> je moćan alat za mapiranje misli"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/vym.html:7
+msgid "Summarize and organise plenty of information."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/vym.html:9
+#, fuzzy
+msgid "Organize your goals, future plans, events and more."
+msgstr ""
+"Organizujte vaše ciljeve, buduće planove, događaje i mnogo toga ovim sjajnim "
+"alatom!"
+
+#. type: Content of: <h1>
 #: slideshows/edubuntu/slides/welcome.html:1
 msgid "Welcome"
 msgstr "Dobro došli"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 12.10."
-msgstr "Hvala što ste odabrali Edubuntu 12.10."
-
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:7
 msgid ""
-"This release brings updates, bug fixes and new software. Please refer to the "
-"release notes on our website for the most up to date information."
+"Thank you for installing Edubuntu 13.04.  The Edubuntu project is a "
+"community project that aims to provide a whole-school technological platform "
+"suitable for delivering education. We are coders, educators, parents and "
+"technologists who aim to make technology easier for all."
 msgstr ""
-"Ovo izdanje donosi ispravke, ispravke grešaka i novi softver. Molimo Vas da "
-"pogledate bilješke o izdanju na našem sajtu za najviše do datuma informacije."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/welcome.html:8
-msgid ""
-"Whether you're new to Edubuntu or a long-time user, we're sure there is "
-"something you will enjoy. While Edubuntu is installed, this slideshow will "
-"show you around."
-msgstr ""
-"Bilo da ste novi ili  dugogodišnji korisnik distribucije Edubuntu, sigurni "
-"smo da postoji nešto ćete uživati. Dok se Edubuntu instalira, ova "
-"prezentacija će se prikazivati."
-
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:10
-msgid "Edubuntu is designed to be easy. Feel free to explore!"
-msgstr "Edubuntu je dizajniran da bude jednostavan. Slobodno ga istražite!"
+msgid ""
+"While the installer is copying some files to disk, we'll show you some "
+"slides to introduce you to the Edubuntu Desktop system."
+msgstr ""
+
+#. type: Content of: <div><div><ul><p>
+#: slideshows/edubuntu/slides/welcome.html:15
+msgid "<b>Enjoy using Edubuntu and welcome to the Edubuntu family!</b>"
+msgstr ""
+
+#~ msgid "Accessibility in Edubuntu"
+#~ msgstr "Pristupačnost u Edubuntu"
+
+#~ msgid "Arkose application sandboxing"
+#~ msgstr "Arkose smiještanje u kutiju"
+
+#~ msgid "Gnome Calculator"
+#~ msgstr "Gnome kalkulator"
+
+#~ msgid "Calibre e-book manager"
+#~ msgstr "Calibre za upravljanje elektronskim knjigama"
+
+#~ msgid "Getting Help with Edubuntu"
+#~ msgstr "Dobivanje pomoći s Edubuntu"
+
+#~ msgid "Edubuntu menu editor"
+#~ msgstr "Urednik menija Edubuntuja"
+
+#~ msgid "Social from the start"
+#~ msgstr "Društvenost od početka"
+
+#~ msgid "Epoptes classroom control"
+#~ msgstr "Epoptes kontrola razreda"
+
+#~ msgid "Geogebra dynamic mathematics"
+#~ msgstr "Geogebra dynamička matematika"
+
+#~ msgid "<em>Geogebra</em> is a dynamic geometry system."
+#~ msgstr "<em>Geogebra</em> je dinamički geometrijski sistem"
+
+#~ msgid "Do constructions with points, vectors, segments, lines and more."
+#~ msgstr "Crtajte figure pomoću tačaka, vektora, segmenata, linija i drugo."
+
+#~ msgid "Modify functions dynamically and edit equations directly."
+#~ msgstr "Mijenjajte funkcije dinamički i uređujte jednačine direktno."
+
+#~ msgid ""
+#~ "Supports many elementary calculus-based tools such as derivatives, "
+#~ "osculating circle and more."
+#~ msgstr ""
+#~ "Podržava mnoge osnovne alate matematičke analize kao što su izvodi, "
+#~ "osukulatorne kružnice i drugo."
+
+#~ msgid "Easy terminal server setup"
+#~ msgstr "Jednostavno podešavanje terminalskog servera"
+
+#~ msgid ""
+#~ "Extend to large-scale deployments with LTSP-Cluster, a high availability "
+#~ "clustering suite available for Edubuntu."
+#~ msgstr ""
+#~ "Proširljivo do velikih distribucija sa LTSP-klasterom, paketom za "
+#~ "pravljenje klastera visoke dostupnosti koji je dostupan za Edubuntu."
+
+#~ msgid "Gnome Nanny"
+#~ msgstr "Gnome dadilja"
+
+#~ msgid "<em>Gnome Nanny</em> provides parental control in Edubuntu."
+#~ msgstr "<em>Gnome Nanny</em> omogućava roiditeljsku pažnju u Edubuntu."
+
+#~ msgid ""
+#~ "Limit the amount of time kids spend on the computer in any period using "
+#~ "the graphical schedule editor."
+#~ msgstr ""
+#~ "Ograničite vrijeme koje djeca provode na računaru u bilo kom periodu "
+#~ "koristeći grafički uređivač rasporeda."
+
+#~ msgid ""
+#~ "Restrict access to undesirable web sites and download pre-defined access "
+#~ "rules."
+#~ msgstr ""
+#~ "Ograničite pristup nepoželjnim Web sajtovima i preuzmite unaprijed "
+#~ "definisana pravila pristupa."
+
+#~ msgid "Pessulus Lockdown Editor"
+#~ msgstr "Pessulus alat za zaključavanje"
+
+#~ msgid ""
+#~ "The <em>Pessulus Lockdown Editor</em> allows administrators to restrict "
+#~ "users from making certain changes to their profile."
+#~ msgstr ""
+#~ "<em>Pessulus alat za zaključavanje</em> omogućava administratorima da "
+#~ "ograniče korisnicima da unose određene promjene na svom profilu."
+
+#~ msgid "Lock down panels and user settings easily on public machines."
+#~ msgstr ""
+#~ "Zaključavanje panela i korisničkih podešavanja jednostavno na javnim "
+#~ "mašine."
+
+#~ msgid "Launch browsers in fullscreen mode in kiosk environments."
+#~ msgstr "Pokrenite pretraživače u režimu punog ekrana u kiosk okruženjima."
+
+#~ msgid "Sabayon user profile editor"
+#~ msgstr "Sabayon urednik korisničkih profila"
+
+#~ msgid ""
+#~ "The <em>Sabayon User Profile Editor</em> allows administrators to set up "
+#~ "highly customized desktops for users."
+#~ msgstr ""
+#~ "<em>Sabayon uređivač korisničkih profila</em>omogućava administratorima "
+#~ "da podese visoko prilagođene radne površine korisnicima."
+
+#~ msgid ""
+#~ "Launch the Sabayon Profile Editor from the Administration menu, and "
+#~ "you'll be able to set up a desktop just the way you want it."
+#~ msgstr ""
+#~ "Pokrenite Sabayon uređivač korisničkih profila iz menija administracije i "
+#~ "moći ćete da podesite radnu površinu po želji."
+
+#~ msgid ""
+#~ "Easily apply custom desktops that have been created to users or groups."
+#~ msgstr ""
+#~ "Lako primijenite vlastite radne površine koje su kreirane za korisnike "
+#~ "ili grupe."
+
+#~ msgid "Welcome and thank you"
+#~ msgstr "Dobrodošli i hvala vam"
+
+#~ msgid "Thank you for testing what will become Edubuntu 12.10."
+#~ msgstr "Hvala vam što testirate ono što će postati Edubuntu 12.10."
+
+#~ msgid ""
+#~ "If this is an alpha/beta candidate, please log this installation on <a "
+#~ "href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+#~ msgstr ""
+#~ "Ako je ovo alfa/beta kandidat, molim zabilježite tu instalaciju na: <a "
+#~ "href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+
+#~ msgid ""
+#~ "File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
+#~ "net</a>."
+#~ msgstr ""
+#~ "Prijavite greške na: <a href=\"http://bugs.launchpad.net\">http://bugs."
+#~ "launchpad.net</a>."
+
+#~ msgid "Talk to us on irc.freenode.net, channel #edubuntu"
+#~ msgstr "Razgovarajte s nama na „irc.freenode.net-u“, kanal „#edubuntu“."
+
+#~ msgid ""
+#~ "Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu."
+#~ "org</a>"
+#~ msgstr ""
+#~ "Najsvježije vijesti na: <a href=\"http://edubuntu.org\">http://edubuntu."
+#~ "org</a>."
+
+#~ msgid "This slide will be removed after the beta release."
+#~ msgstr "Ovaj slajd će biti uklonjen nakon beta izdanja."
+
+#~ msgid "Learning is fun with Tux4kids"
+#~ msgstr "Učenje je zabavno s Tux4kids"
+
+#~ msgid "Xorg 1.13, Mesa and Compiz delivers excellent graphics support."
+#~ msgstr "Xorg 1.13, Mesa i Compiz pružaju odličnu grafičku podršku."
+
+#~ msgid ""
+#~ "Python 2.7 and Python 3.2 provides increased performance and "
+#~ "functionality."
+#~ msgstr "Python 2.7 i Python 3.2 poboljšavaju performanse i funkcionalnost."
+
+#~ msgid "Thank you for choosing Edubuntu 12.10."
+#~ msgstr "Hvala što ste odabrali Edubuntu 12.10."
+
+#~ msgid ""
+#~ "This release brings updates, bug fixes and new software. Please refer to "
+#~ "the release notes on our website for the most up to date information."
+#~ msgstr ""
+#~ "Ovo izdanje donosi ispravke, ispravke grešaka i novi softver. Molimo Vas "
+#~ "da pogledate bilješke o izdanju na našem sajtu za najviše do datuma "
+#~ "informacije."
+
+#~ msgid ""
+#~ "Whether you're new to Edubuntu or a long-time user, we're sure there is "
+#~ "something you will enjoy. While Edubuntu is installed, this slideshow "
+#~ "will show you around."
+#~ msgstr ""
+#~ "Bilo da ste novi ili  dugogodišnji korisnik distribucije Edubuntu, "
+#~ "sigurni smo da postoji nešto ćete uživati. Dok se Edubuntu instalira, ova "
+#~ "prezentacija će se prikazivati."
+
+#~ msgid "Edubuntu is designed to be easy. Feel free to explore!"
+#~ msgstr "Edubuntu je dizajniran da bude jednostavan. Slobodno ga istražite!"

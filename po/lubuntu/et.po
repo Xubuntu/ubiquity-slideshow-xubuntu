@@ -7,21 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
-"PO-Revision-Date: 2011-04-10 20:53+0000\n"
-"Last-Translator: mahfiaz <mahfiaz@gmail.com>\n"
+"POT-Creation-Date: 2013-03-20 17:52-0300\n"
+"PO-Revision-Date: 2013-02-16 23:36+0000\n"
+"Last-Translator: Kristjan Vool <Unknown>\n"
 "Language-Team: Estonian <et@li.org>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:52+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:56+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
-msgid "Welcome to Lubuntu 12.10"
-msgstr ""
+#, fuzzy
+msgid "Welcome to Lubuntu 13.04"
+msgstr "Lubuntu 12.10"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/00_welcome.html:8
@@ -29,11 +30,13 @@ msgid ""
 "Lubuntu is designed to be lightweight, easy and fast. Let's have a closer "
 "look!"
 msgstr ""
+"Lubuntu on disainitud kiireks ning lihtsasti kasutatavaks. Vaatame lähemalt, "
+"mis teeb Lubuntu omapäraseks."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/01_lxde.html:1
 msgid "Built on a solid foundation"
-msgstr ""
+msgstr "Programmeeritud kindlale alusele"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/01_lxde.html:8
@@ -42,11 +45,13 @@ msgid ""
 "energy-saving desktop environment. LXDE has been proven to work well with "
 "both old and new computers, ensuring you a smooth desktop experience."
 msgstr ""
+"Lubuntu kasutab kiiret ning energiasäästlikut <em>LXDE töölaua keskkonda</"
+"em>. LXDE sobib nii vanematele kui ka uutele arvutitele."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/02_browser.html:1
 msgid "Browse the web"
-msgstr ""
+msgstr "Veebi lehitsemine"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/02_browser.html:8
@@ -55,14 +60,21 @@ msgid ""
 "web browser developed by Google. It's safe, stable, fast and even supports "
 "your favorite addons/extensions."
 msgstr ""
+"Veebi lehitsemiseks on paigaldatud kiire ning turvaline Google poolt "
+"arendatud veebibrauser <em>Chromium</em>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/02_browser.html:12
+#, fuzzy
 msgid ""
-"Did you know that Lubuntu has it's own Chrome extension available for free? "
+"Did you know that Lubuntu has its own Chrome extension available for free? "
 "Visit the <a href=\"https://chrome.google.com/webstore/detail/"
 "hemkkjpjknkkndhconammdhlhdkjclim\">Chrome Web Store</a> for more information."
 msgstr ""
+"Kas teadsid, et Lubuntul on enda arendatud Chrome'i laiend? Külasta "
+"lehekülge <a href=\"https://chrome.google.com/webstore/detail/"
+"hemkkjpjknkkndhconammdhlhdkjclim\">Chrome'i veebipood</a> rohkema "
+"informatsiooni jaoks."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/02_browser.html:16
@@ -70,12 +82,12 @@ msgstr ""
 #: slideshows/lubuntu/slides/04_media.html:18
 #: slideshows/lubuntu/slides/05_social.html:12
 msgid "Included software"
-msgstr "Kaasa pandud tarkvara"
+msgstr "Paigaldatud tarkvara:"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:20
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/02_browser.html:23
@@ -83,22 +95,22 @@ msgstr ""
 #: slideshows/lubuntu/slides/04_media.html:32
 #: slideshows/lubuntu/slides/05_social.html:19
 msgid "Supported software"
-msgstr "Toetatud tarkvara"
+msgstr "Toetatud tarkvara:"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:27
 msgid "Flash"
-msgstr ""
+msgstr "Flash"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:32
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/03_office.html:1
 msgid "Create and edit documents"
-msgstr ""
+msgstr "Dokumentide haldamine"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/03_office.html:8
@@ -108,6 +120,9 @@ msgid ""
 "support for industry standard document types and will allow you to "
 "collaborate on documents written by colleagues, friends or family."
 msgstr ""
+"Dokumendite ja arvutustabelite haldamiseks kasuta rakendusi <em>Abiword</em> "
+"ja <em>Gnumeric</em>, sest mõlemad rakendused toetavad standardvorme, et "
+"tagada töö kiirus ja efektiivsus."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/03_office.html:16
@@ -127,7 +142,7 @@ msgstr "LibreOffice"
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/04_media.html:1
 msgid "Enjoy your music and videos"
-msgstr ""
+msgstr "Multimeedia nautimine"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:10
@@ -136,6 +151,9 @@ msgid ""
 "audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
 "video player powered by mplayer with support for many formats."
 msgstr ""
+"Muusikat on võimalik kuulata võimsa rakendusega <em>Audacious</em> ning "
+"videode vaatamiseks kasuta lihtsasti kasutatavat rakendust <em>Gnome-"
+"Mplayer</em>, mis toetab palju erinevaid failiformaate."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:14
@@ -143,39 +161,46 @@ msgid ""
 "You can also obtain additional codec support by installing the <em>lubuntu-"
 "restricted-extras</em> package."
 msgstr ""
+"Sul on võimalik ka paigalda täiendav koodeksite pakett, mis tagab toe "
+"peaaegu kõikidele failiformaatidele.  Selleks paigalda pakett  <em>lubuntu-"
+"restricted-extras</em> ehk  <em>Lubuntu piiratud lisad</em>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:23
 msgid "Audacious"
-msgstr ""
+msgstr "Audacious"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:28
 msgid "Gnome-Mplayer"
-msgstr ""
+msgstr "Gnome-Mplayer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:36
 msgid "Exaile"
-msgstr ""
+msgstr "Exaile"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:41
 msgid "VLC media player"
-msgstr ""
+msgstr "VLC meediaesitaja"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/05_social.html:1
 msgid "Chat with your friends"
-msgstr ""
+msgstr "Suhtlemine lähedastega"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/05_social.html:8
+#, fuzzy
 msgid ""
 "With <em>Pidgin</em>, you will be able to keep in touch with all your "
-"friends. It supports a wide range of chat services, such as Windows Live, "
-"Google Talk and Facebook."
+"friends. It supports a wide range of chat services, such as AIM, Google Talk "
+"and Facebook."
 msgstr ""
+"Sõnumivahetuse rakendus <em>Pidgin</em> on parim suhtlemaks sõpradega ning "
+"lähedastega, kes kasutavad vestlusteenuseid nagu Windows Live, Google Talk, "
+"Facebook ning teised."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/05_social.html:16
@@ -190,12 +215,12 @@ msgstr "Skype"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/05_social.html:28
 msgid "Empathy"
-msgstr ""
+msgstr "Empathy"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/06_lsc.html:1
 msgid "Download software with ease"
-msgstr ""
+msgstr "Tarkvara paigaldamine"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/06_lsc.html:8
@@ -206,11 +231,15 @@ msgid ""
 "and explore categories such as games, science and education, or search for "
 "your favorite software."
 msgstr ""
+"Lubuntuga on sul ligapääs tervele Ubuntu tarkvarale, mis tähendab, et sul on "
+"valida oma lemmikud tuhandete rakenduste seast. Selleks kasuta <em>Lubuntu "
+"tarkvarakeskust</em> ning lehitse kategooriaid nagu näiteks mängud, teadus, "
+"haridus või kasuta otsingu funktsiooni kindla rakenduse leidmiseks."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/07_help.html:1
 msgid "Need help?"
-msgstr ""
+msgstr "Abi leidmine"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/07_help.html:8
@@ -221,11 +250,15 @@ msgid ""
 "visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
 "the information you need."
 msgstr ""
+"Üks suurimaid eeliseid Lubuntu kasutamisel on suurepärane kogukond. Teised "
+"Lubuntu kasutajad aitavad sind alati. Abi saamiseks on mitmeid võimalusi, "
+"kuid kõige parem on külasta Lubuntu <a href=\"http://lubuntu.net/"
+"\">veebilehte</a>, kuhu on kogutud kõik vajalik informatsioon abi leidmiseks."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/08_thanks.html:1
 msgid "Thank you for choosing Lubuntu"
-msgstr ""
+msgstr "Tänan, et valisid Lubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/08_thanks.html:8
@@ -235,3 +268,7 @@ msgid ""
 "either by giving us feedback or by getting involved in the project, please "
 "visit our <a href=\"http://lubuntu.net/\">website</a>."
 msgstr ""
+"Paigaldus lõpeb peagi. Loodame, et sa naudid Lubuntut ning vabadust, mis "
+"sellega kaasneb. Kui sa soovid aidata Lubuntut, siis palun  saada meile "
+"tagasisidet või liitu meie projektiga. Täpsema informatsiooni jaoks külasta "
+"Lubuntu <a href=\"http://lubuntu.net/\">veebilehte</a>."

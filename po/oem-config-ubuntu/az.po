@@ -7,29 +7,30 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
-"PO-Revision-Date: 2012-04-18 13:49+0000\n"
-"Last-Translator: Arzu Huseynov <arzu.huseyn@gmail.com>\n"
+"POT-Creation-Date: 2013-03-20 17:52-0300\n"
+"PO-Revision-Date: 2013-02-24 14:07+0000\n"
+"Last-Translator: Jahangir Shabiyev <c.shabiev@gmail.com>\n"
 "Language-Team: Azerbaijani <az@li.org>\n"
 "Language: az\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:52+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "Ubuntunun Köklənməsi"
+msgid "Access for everyone"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
+#, fuzzy
 msgid ""
-"At the heart of Ubuntu’s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and options like your preferred "
-"color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
-"are, and wherever you are."
+"At the heart of the Ubuntu philosophy is the belief that computing is for "
+"everyone. With advanced accessibility tools and options to change language, "
+"colour scheme and text size, Ubuntu makes computing easy – whoever and "
+"wherever you are."
 msgstr ""
 "Ubuntu fəlsəfəsinin əsasında kompyuterin hami üçün olması inamı yer alır. "
 "Rəng nizamı, mətn ölçüsü və dil seçimi kimi nizamlar və inkişaf etmiş "
@@ -59,7 +60,7 @@ msgstr "Dil dəstəyi"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "İnternet üçün hər şey"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
@@ -69,10 +70,14 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
+"Ubuntu Firefox ilə gəlir, dünyada milyonlarca istifadəçisi olan web tarayıcı "
+"ilə. Tez-Tez işlətdiyiniz web-tətbiqetmələri ( məsələn, Facebook və ya Gmail "
+"kimi) öz kompüterinizə bağlayın və onları sanki kompüter tətbiqi imiş kimi "
+"istifadə edin."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
-#: slideshows/oem-config-ubuntu/slides/music.html:12
+#: slideshows/oem-config-ubuntu/slides/music.html:11
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
 msgid "Included software"
@@ -81,7 +86,7 @@ msgstr "Daxildə olan proqramlar"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:16
 msgid "Firefox web browser"
-msgstr "Firefox veb gəzici"
+msgstr "Firefox veb brauzer"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:19
@@ -113,6 +118,13 @@ msgid ""
 "to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
 "support\">ubuntu.com/support</a>."
 msgstr ""
+"Ubuntu ilə bağlı bütün cavablarınız üçün <a href=\"http://askubuntu.com/"
+"\">askubuntu.com</a> -u yoxlayın. Böyük ehtimalla sualınızın cavabı vardır, "
+"əgər yoxdursa o zaman minlərlə könüllü insan sualınızı cavablandırmağa "
+"çalışar. Daha çox texniki dəstək üçün <a href=\"http://www.ubuntu.com/support"
+"\">ubuntu.com/support</a> adresini ziyarət edin. Əgər Azərbaycan dilində "
+"cavab axtarsaz <a href=\"http://loco.ubuntu.com\">loco.ubuntu.com</a> "
+"adresindən yerli qrupu tapın."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:17
@@ -139,19 +151,26 @@ msgid ""
 "your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
 "Mac, Android, iOS and the web."
 msgstr ""
+"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> sizə "
+"fayllarınıza çıxış əldə etmək, şəkillərinizi paylaşmaq, kompyuterlərinizə, "
+"tabletlərinizə və smartfonlarınıza <a href=\"https://one.ubuntu.com/services/"
+"music/\">musiqi yayımlamaq</a> üçün 5GB boş bulud sahəsi verir . Çəkdiyiniz "
+"hər şəkil bütün cihazlarınızda peyda olur, çəkdiyinizdən dərhal sonra. "
+"Ubuntu One,  Ubuntu, Windows, Mac, Android, iOS və vebdə işləyir."
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu/slides/music.html:1
+#: slideshows/oem-config-ubuntu/slides/music.html:2
 msgid "Take your music with you"
 msgstr "Musiqinizi yanınızda aparın"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:8
+#: slideshows/oem-config-ubuntu/slides/music.html:7
+#, fuzzy
 msgid ""
 "Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options and the Ubuntu One music store built in, it’s simple to queue up the "
-"perfect songs. And it works great with CDs and portable music players, so "
-"you can enjoy all your music wherever you go."
+"options, it's simple to queue up the perfect songs. And it works great with "
+"CDs and portable music players, so you can enjoy all your music wherever you "
+"go."
 msgstr ""
 "Ubuntu inanılmaz dərəcə də gözəl Rhythmbox Musiqi Oxuducusu ilə birlikdə "
 "xidmətinizə gəlir. Möhtəşəm funksiyaları və həmçinin Ubuntu One Musiqi "
@@ -160,45 +179,42 @@ msgstr ""
 "dinləmək sizlər üçün rahat olacaq ."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:16
+#: slideshows/oem-config-ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Rhythmbox Musiqi Oxuducusu"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:20
-msgid "Ubuntu One Music Store"
-msgstr "Ubuntu One Musiqi Mağazası"
-
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
-msgid "Write and present for free"
-msgstr "Rahatlıqla yazın və təqdim edin"
+msgid "Everything you need for the office"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
+#, fuzzy
 msgid ""
-"LibreOffice is a free office suite packed with everything you’ll need to "
-"create impressive documents, spreadsheets, and presentations. LibreOffice "
-"tries its best to work with other office software, and it uses the "
-"OpenDocument standards for far-reaching compatibility."
+"LibreOffice is a free office suite packed with everything you need to create "
+"documents, spreadsheets and presentations. Compatible with Microsoft Office "
+"file formats, it gives you all the features you need, without the price tag."
 msgstr ""
-"LibreOffice pulsuz ofis proqramıdır, bununla siz sənədlər, numayisler ve s. "
-"hazırlaya bilərsiz."
+"LibreOffice görkəmli sənədlər, cədvəllər və təqdimatlar hazırlamaq üçün "
+"ehtiyacınız olan hər şeylə pulsuz ofis proqramları paketidir. LibreOffice "
+"digər ofis proqramları ilə işləmək üçün bütün gücü ilə cəhd edir və geniş "
+"miqyaslı uyğunluq üçün OpenDocument standartlarından istifadə edir."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
 msgid "LibreOffice Writer"
-msgstr "LibreOffice Yazıcı"
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:20
 msgid "LibreOffice Calc"
-msgstr "LibreOffice Hesablayıcı"
+msgstr "LibreOffice Calc"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:24
 msgid "LibreOffice Impress"
-msgstr "LibreOffice İmpress"
+msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/photos.html:1
@@ -246,6 +262,9 @@ msgid ""
 "applications and social networks. So you can see straight away when there’s "
 "something new to read, regardless of how it arrived."
 msgstr ""
+"Mesaj menyusu sizə proqramlardan və sosial şəbəkələrdən gələn mesajları "
+"görmək üçün iti baxış verir. Beləliklə siz oxunası hər hansı yeni mesajı "
+"necə gəlməsinə baxmayaraq dərhal görə bilərsiniz."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -268,9 +287,39 @@ msgid "Identi.ca"
 msgstr "Identi.ca"
 
 #. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:2
+msgid "One account to log in to everything on Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:8
+msgid "<strong>Make the most of Ubuntu with Ubuntu One.</strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:10
+msgid "Ubuntu One is the single account to log in to everything on Ubuntu."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:17
+msgid "Get <strong>new apps</strong> from the Software Center"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:21
+msgid "Listen to <strong>your music collection</strong> and buy tracks"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:25
+msgid "Access <strong>files and photos</strong> from all your devices"
+msgstr ""
+
+#. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1
 msgid "Find even more software"
-msgstr "Daha çox proqram endirin"
+msgstr "Daha çox proqram tapın"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
@@ -280,6 +329,10 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
+"Vebdə yeni proqram axtarışına əlvida deyin. Ubuntu Software Center ilə siz "
+"asanlıqla yeni proqramları tapıb quraşdıra bilərsiziniz. Sadəcə nə "
+"axtardığınızı yazın və ya digər istifadəçilərin yararlı fikirləri ilə yanaşı "
+"Elm, Təhsil və Oyunlar kimi kateqoriyaları araşdırın."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -288,8 +341,21 @@ msgstr "Xoş Gəlmisiniz"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"Thank you for choosing Ubuntu 12.10. This version brings some exciting "
+"Thank you for choosing Ubuntu 13.04. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
+"Ubuntu 12.10 seçdiyniz üçün təşəkkürlər. Bu versiya sizi tam dəyişmiş iş "
+"masası interfeysi,Unity ilə sizi çox təəccübləndirəcək. Ubuntu hazırlandığı "
+"zamanda bu təqdimat sizə bəzi imkanları nümayiş edəcək."
+
+#~ msgid "Customize Ubuntu"
+#~ msgstr "Ubuntunun Köklənməsi"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Ubuntu One Musiqi Mağazası"
+
+#~ msgid "Write and present for free"
+#~ msgstr "Pulsuz yazın və təqdim edin"

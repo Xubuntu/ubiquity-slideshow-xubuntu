@@ -7,29 +7,30 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
-"PO-Revision-Date: 2012-04-15 17:18+0000\n"
-"Last-Translator: Roman Yepishev <Unknown>\n"
+"POT-Creation-Date: 2013-03-20 17:47-0300\n"
+"PO-Revision-Date: 2013-01-04 21:51+0000\n"
+"Last-Translator: Wanderlust <wanderlust@ukr.net>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:52+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "Налаштуйте Ubuntu"
+msgid "Access for everyone"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/accessibility.html:8
+#, fuzzy
 msgid ""
-"At the heart of Ubuntu’s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and options like your preferred "
-"color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
-"are, and wherever you are."
+"At the heart of the Ubuntu philosophy is the belief that computing is for "
+"everyone. With advanced accessibility tools and options to change language, "
+"colour scheme and text size, Ubuntu makes computing easy – whoever and "
+"wherever you are."
 msgstr ""
 "В основі філософії Ubuntu є віра в те, що комп’ютер — це інструмент для "
 "кожного. Завдяки вдосконаленим спеціальним можливостям, таким, як схема "
@@ -72,7 +73,7 @@ msgstr ""
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
-#: slideshows/ubuntu/slides/music.html:12
+#: slideshows/ubuntu/slides/music.html:11
 #: slideshows/ubuntu/slides/office.html:12
 #: slideshows/ubuntu/slides/photos.html:12
 msgid "Included software"
@@ -113,6 +114,12 @@ msgid ""
 "to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
 "support\">ubuntu.com/support</a>."
 msgstr ""
+"Перегляньте <a href=\"http://askubuntu.com/\">askubuntu.com</a>, щоб "
+"отримати відповіді на усі ваші питання щодо Ubuntu. Є велика вірогідність "
+"того, що на ваше питання вже мається готова відповідь, інакше знайдуться "
+"тисячі добровольців, прагнучих вам допомогти. Задля більших можливостей "
+"підтримки, перейдіть до <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/gethelp.html:17
@@ -141,17 +148,18 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/music.html:1
+#: slideshows/ubuntu/slides/music.html:2
 msgid "Take your music with you"
 msgstr "Візьміть вашу музику з собою"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/music.html:8
+#: slideshows/ubuntu/slides/music.html:7
+#, fuzzy
 msgid ""
 "Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options and the Ubuntu One music store built in, it’s simple to queue up the "
-"perfect songs. And it works great with CDs and portable music players, so "
-"you can enjoy all your music wherever you go."
+"options, it's simple to queue up the perfect songs. And it works great with "
+"CDs and portable music players, so you can enjoy all your music wherever you "
+"go."
 msgstr ""
 "Ubuntu поставляється з неперевершеним музичним програвачем Rhythmbox. З "
 "розширеними можливостями відтворення і вбудовною крамницею Ubuntu One Music "
@@ -160,27 +168,22 @@ msgstr ""
 "насолоджуватись вашою музикою, де б ви не знаходились."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:16
+#: slideshows/ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Музичний програвач Rhythmbox"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:20
-msgid "Ubuntu One Music Store"
-msgstr "Музична крамниця Ubuntu One"
-
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
-msgid "Write and present for free"
-msgstr "Пишіть та презентуйте безкоштовно"
+msgid "Everything you need for the office"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/office.html:8
+#, fuzzy
 msgid ""
-"LibreOffice is a free office suite packed with everything you’ll need to "
-"create impressive documents, spreadsheets, and presentations. LibreOffice "
-"tries its best to work with other office software, and it uses the "
-"OpenDocument standards for far-reaching compatibility."
+"LibreOffice is a free office suite packed with everything you need to create "
+"documents, spreadsheets and presentations. Compatible with Microsoft Office "
+"file formats, it gives you all the features you need, without the price tag."
 msgstr ""
 "LibreOffice — це безкоштовний офісний пакет з усім тим, що Ви потребуєте для "
 "створення вражаючих документів, таблиць та презентацій. LibreOffice "
@@ -190,17 +193,17 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
 msgid "LibreOffice Writer"
-msgstr "LibreOffice Writer"
+msgstr "LibreOffice Документи"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:20
 msgid "LibreOffice Calc"
-msgstr "LibreOffice Calc"
+msgstr "LibreOffice Таблиці"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:24
 msgid "LibreOffice Impress"
-msgstr "LibreOffice Impress"
+msgstr "LibreOffice Презентації"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
@@ -215,10 +218,10 @@ msgid ""
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
 "from the Ubuntu Software Center."
 msgstr ""
-"Shotwell — це зручний фото-менеджер, що готовий для вашого обладнання. "
-"Підключіть камеру чи телефон щоб перемістити Ваші фото, а потім легко "
-"ділитися та зберігати їх. Якщо ви творчий, Ви можете спробувати велику "
-"кількість фото-менеджерів з Центру програмного забезпечення Ubuntu."
+"Shotwell — це зручний менеджер фотографій, що готовий для впізнати Ваше "
+"обладнання. Підключіть камеру чи телефон щоб перемістити Ваші фото, а потім "
+"легко ділитися та зберігати їх. Якщо ви творча людина, Ви можете спробувати "
+"інші фото-менеджери з Центру програмного забезпечення Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -247,11 +250,13 @@ msgid ""
 "applications and social networks. So you can see straight away when there’s "
 "something new to read, regardless of how it arrived."
 msgstr ""
+"Меню повідомлень дозволяє Вам не вагатися на те, яким чином прибуло "
+"повідомлення та переглядати їх усі незалежно від джерела надходження."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/social.html:12
 msgid "Supported services"
-msgstr "Підтримка соціальних мереж"
+msgstr "Сервіси, що підтримуються"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/social.html:16
@@ -269,6 +274,36 @@ msgid "Identi.ca"
 msgstr "Identi.ca"
 
 #. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/ubuntuone.html:2
+msgid "One account to log in to everything on Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/ubuntuone.html:8
+msgid "<strong>Make the most of Ubuntu with Ubuntu One.</strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/ubuntuone.html:10
+msgid "Ubuntu One is the single account to log in to everything on Ubuntu."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/ubuntuone.html:17
+msgid "Get <strong>new apps</strong> from the Software Center"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/ubuntuone.html:21
+msgid "Listen to <strong>your music collection</strong> and buy tracks"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/ubuntuone.html:25
+msgid "Access <strong>files and photos</strong> from all your devices"
+msgstr ""
+
+#. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
 msgid "Find even more software"
 msgstr "Знаходьте більше програм"
@@ -281,11 +316,16 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
+"Скажіть \"до побачення\" будь яким пошукам нових програм у мережі. З Ubuntu "
+"Software Center ви можете з легкістю знайти та встановити нові програми. "
+"Просто вкажіть, що ви шукаєте, або передивляйтесь програми по категоріях "
+"Наука, Навчання, Ігри та інше, переглядаючи відгуки інших користувачів."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 12.10"
-msgstr ""
+#, fuzzy
+msgid "Welcome to Ubuntu 13.04"
+msgstr "Вітаємо в Ubuntu 13.04"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
@@ -293,3 +333,15 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
+"Швидка і повна нових можливостей, найостанніша версія Ubuntu робить "
+"користування комп’ютером легше, ніж будь-коли. Тут є декілька нових речей, "
+"на які слід подивитися..."
+
+#~ msgid "Customize Ubuntu"
+#~ msgstr "Налаштувати Ubuntu"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Музична крамниця Ubuntu One"
+
+#~ msgid "Write and present for free"
+#~ msgstr "Записуйте та розповсюджуйте вільно"

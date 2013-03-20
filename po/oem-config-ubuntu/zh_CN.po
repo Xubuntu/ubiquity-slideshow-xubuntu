@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"POT-Creation-Date: 2013-03-20 17:52-0300\n"
 "PO-Revision-Date: 2012-10-08 01:26+0000\n"
 "Last-Translator: 朱涛 <bill_zt@sina.com>\n"
 "Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
@@ -15,23 +15,24 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:52+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 "X-Poedit-Language: zh_CN\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "随心定制 各取所需"
+msgid "Access for everyone"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
+#, fuzzy
 msgid ""
-"At the heart of Ubuntu’s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and options like your preferred "
-"color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
-"are, and wherever you are."
+"At the heart of the Ubuntu philosophy is the belief that computing is for "
+"everyone. With advanced accessibility tools and options to change language, "
+"colour scheme and text size, Ubuntu makes computing easy – whoever and "
+"wherever you are."
 msgstr ""
 "Ubuntu 哲学的核心是相信每个人都可以自由使用计算机。它拥有完善的无障碍访问工"
 "具，您也可以自定义配色方式、字体大小和语言等多种设置。无论您是谁，无论您身在"
@@ -76,7 +77,7 @@ msgstr ""
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
-#: slideshows/oem-config-ubuntu/slides/music.html:12
+#: slideshows/oem-config-ubuntu/slides/music.html:11
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
 msgid "Included software"
@@ -156,17 +157,18 @@ msgstr ""
 "版等多种平台上。"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu/slides/music.html:1
+#: slideshows/oem-config-ubuntu/slides/music.html:2
 msgid "Take your music with you"
 msgstr "至美音乐 随时相伴"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:8
+#: slideshows/oem-config-ubuntu/slides/music.html:7
+#, fuzzy
 msgid ""
 "Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options and the Ubuntu One music store built in, it’s simple to queue up the "
-"perfect songs. And it works great with CDs and portable music players, so "
-"you can enjoy all your music wherever you go."
+"options, it's simple to queue up the perfect songs. And it works great with "
+"CDs and portable music players, so you can enjoy all your music wherever you "
+"go."
 msgstr ""
 "Ubuntu 中自带了功能强大的 Rhythmbox 音乐播放器。它包含丰富的播放选项，并内置"
 "了 Ubuntu One 音乐商店，让您可以轻易地将喜欢的音乐排列得井井有条。同时，"
@@ -174,27 +176,22 @@ msgstr ""
 "乐。"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:16
+#: slideshows/oem-config-ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Rhythmbox 音乐播放器"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:20
-msgid "Ubuntu One Music Store"
-msgstr "Ubuntu One 音乐商店"
-
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
-msgid "Write and present for free"
-msgstr "自由书写 尽情展现"
+msgid "Everything you need for the office"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
+#, fuzzy
 msgid ""
-"LibreOffice is a free office suite packed with everything you’ll need to "
-"create impressive documents, spreadsheets, and presentations. LibreOffice "
-"tries its best to work with other office software, and it uses the "
-"OpenDocument standards for far-reaching compatibility."
+"LibreOffice is a free office suite packed with everything you need to create "
+"documents, spreadsheets and presentations. Compatible with Microsoft Office "
+"file formats, it gives you all the features you need, without the price tag."
 msgstr ""
 "LibreOffice 是一个自由的办公套件，您可以用它来创建精美的文档、电子表格和演示"
 "文稿。LibreOffice 与其它办公软件有着良好的兼容性，并采用开放文档标准以广泛支"
@@ -283,6 +280,36 @@ msgid "Identi.ca"
 msgstr "Identi.ca"
 
 #. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:2
+msgid "One account to log in to everything on Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:8
+msgid "<strong>Make the most of Ubuntu with Ubuntu One.</strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:10
+msgid "Ubuntu One is the single account to log in to everything on Ubuntu."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:17
+msgid "Get <strong>new apps</strong> from the Software Center"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:21
+msgid "Listen to <strong>your music collection</strong> and buy tracks"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:25
+msgid "Access <strong>files and photos</strong> from all your devices"
+msgstr ""
+
+#. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1
 msgid "Find even more software"
 msgstr "海量软件 轻松获取"
@@ -306,10 +333,20 @@ msgstr "欢迎使用"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"Thank you for choosing Ubuntu 12.10. This version brings some exciting "
+"Thank you for choosing Ubuntu 13.04. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
 "感谢您使用 Ubuntu 12.10。该版本带来了诸多令人兴奋的变化，如彻底重新设计的桌面"
 "环境 - Unity。配置 Ubuntu 时，将为您展示该幻灯片。"
+
+#~ msgid "Customize Ubuntu"
+#~ msgstr "随心定制 各取所需"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Ubuntu One 音乐商店"
+
+#~ msgid "Write and present for free"
+#~ msgstr "自由书写 尽情展现"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"POT-Creation-Date: 2013-03-20 17:52-0300\n"
 "PO-Revision-Date: 2012-09-26 15:58+0000\n"
 "Last-Translator: Hendrik Knackstedt <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
@@ -15,13 +15,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:52+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:56+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
-msgid "Accessibility in Edubuntu"
-msgstr "Barrierefreiheit in Edubuntu"
+msgid "Activate Accessibility"
+msgstr ""
 
 #.  "your" refers to a large group that includes the reader. 
 #. type: Content of: <div><div><ul><li>
@@ -65,8 +65,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/arkose.html:1
-msgid "Arkose application sandboxing"
-msgstr "Arkose-Anwendungssandbox"
+msgid "Safely Run Software"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:6
@@ -96,8 +96,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
-msgid "Gnome Calculator"
-msgstr "Gnome-Taschenrechner"
+msgid "Calculate Everything"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
@@ -110,7 +110,10 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:7
-msgid "It supports financial operations and up-to-date currency conversions."
+#, fuzzy
+msgid ""
+"It supports financial operations and up-to-date currency and unit "
+"conversions."
 msgstr ""
 "Er unterstützt finanzmathematische Operationen und aktuelle "
 "Währungsumrechnungen."
@@ -126,8 +129,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calibre.html:1
-msgid "Calibre e-book manager"
-msgstr "Calibre-E-Book-Verwaltung"
+msgid "Manage your e-Book Library"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:6
@@ -203,8 +206,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/documentation.html:1
-msgid "Getting Help with Edubuntu"
-msgstr "Hilfe zu Edubuntu erhalten"
+msgid "Get Involved"
+msgstr ""
 
 #.  The string "Help and Support" should be exactly as it appears in the System menu. 
 #. type: Content of: <div><div><ul><li>
@@ -271,8 +274,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
-msgid "Edubuntu menu editor"
-msgstr "Edubuntu Menü-Editor"
+msgid "Menu Administration"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:6
@@ -299,14 +302,16 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/empathy.html:1
-msgid "Social from the start"
-msgstr "Von Anfang an sozial vernetzt"
+msgid "Connect to your World"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:6
+#, fuzzy
 msgid ""
-"From the start, Edubuntu connects to online chat and broadcast services "
-"including Facebook, Twitter, Windows Live and Google Talk."
+"With <em>Empathy</em>, Edubuntu makes connecting to online chat and "
+"broadcast services including Facebook, Twitter, Windows Live and Google Talk "
+"easier than ever."
 msgstr ""
 "Edubuntu verbindet Sie von Anfang an mit Online-Chat und Nachrichtendiensten "
 "wie Facebook, Twitter, Windows Live oder Google Talk."
@@ -332,8 +337,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/epoptes.html:1
-msgid "Epoptes classroom control"
-msgstr "Epoptes – Klassenzimmersteuerung"
+msgid "Control your Classroom"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
@@ -361,6 +366,32 @@ msgid "Epoptes dynamically detects clients and integrates well with LTSP."
 msgstr "Epoptes erkennt Clienten dynamisch und integriert sich gut in LTSP."
 
 #. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/fonts.html:1
+msgid "Fonts Galore"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/fonts.html:6
+msgid ""
+"Edubuntu ships with many of the fonts that are available in the Ubuntu "
+"repositories."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/fonts.html:7
+msgid ""
+"Choose from a variety of fonts to get you kickstarted with desktop "
+"publishing tasks."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/fonts.html:8
+msgid ""
+"The Andika font family is specifically designed for beginner-level readers "
+"and literacy purposes."
+msgstr ""
+
+#. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
 msgid "FreeMind mindmapping"
 msgstr "FreeMind-Mindmapping"
@@ -379,6 +410,7 @@ msgstr "Fassen Sie viele Informationen effizient zusammen."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:8
+#: slideshows/edubuntu/slides/vym.html:8
 msgid "Make subsections stand out with cloud bubbles and custom colours."
 msgstr ""
 "Gliedern Sie untergeordnete Abschnitte mit Wolkenblasen und individuellen "
@@ -394,7 +426,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/gbrainy.html:1
-msgid "Exercise your gray matter"
+#, fuzzy
+msgid "Exercise Your Mind"
 msgstr "Trainieren Sie Ihre grauen Zellen"
 
 #. type: Content of: <div><div><ul><li>
@@ -408,60 +441,33 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:7
+#, fuzzy
 msgid ""
-"Logic Puzzles: games designed to challenge your reasoning and thinking "
-"skills."
+"Logic Puzzles: designed to challenge your reasoning and thinking skills."
 msgstr ""
 "Logische Rätsel: Spiele, die Ihre Kombinations- und Denkfähigkeiten "
 "herausfordern."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:8
+#, fuzzy
 msgid ""
-"Mental Calculation: games based on arithmetical operations designed to prove "
-"your mental calculation skills."
+"Mental Calculation: based on arithmetical operations designed to prove your "
+"mental calculation skills."
 msgstr ""
 "Kopfrechnen: Spiele, die mit mathematischen Kalkualtionen Ihre "
 "Kopfrechenfähigkeiten verbessern."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:9
-msgid "Memory Trainers: games designed to challenge your short term memory."
+#, fuzzy
+msgid "Memory Trainers: designed to challenge your short term memory."
 msgstr "Gedächtnistrainer: Spiele, die Ihr Kurzzeitgedächtnis fordern."
 
 #. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/geogebra.html:1
-msgid "Geogebra dynamic mathematics"
-msgstr "Dynamische Mathematik mit Geogebra"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/geogebra.html:6
-msgid "<em>Geogebra</em> is a dynamic geometry system."
-msgstr "<em>Geogebra</em> ist ein System für dynamische Geometrie"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/geogebra.html:7
-msgid "Do constructions with points, vectors, segments, lines and more."
-msgstr "Konstruieren Sie mit Punkten, Vektoren, Segmenten, Linien und anderem."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/geogebra.html:8
-msgid "Modify functions dynamically and edit equations directly."
-msgstr ""
-"Verändern Sie Funktionen dynamisch und bearbeiten Sie Gleichungen direkt."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/geogebra.html:9
-msgid ""
-"Supports many elementary calculus-based tools such as derivatives, "
-"osculating circle and more."
-msgstr ""
-"Unterstützt viele elementare analysisbasierte Werkzeuge, wie Ableitungen, "
-"Krümmungskreise und mehr."
-
-#. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/installing-software.html:1
-msgid "Getting more software"
+#, fuzzy
+msgid "Get More Software"
 msgstr "Weitere Anwendungen erhalten"
 
 #. type: Content of: <div><div><ul><li>
@@ -496,7 +502,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
-msgid "Play and learn"
+#, fuzzy
+msgid "Play and Learn"
 msgstr "Spielend lernen"
 
 #. type: Content of: <div><div><ul><li>
@@ -534,7 +541,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/librecad.html:1
-msgid "LibreCAD computer aided drawing"
+#, fuzzy
+msgid "Computer Aided Drawing"
 msgstr "Rechnergestütztes Zeichnen mit LibreCAD"
 
 #. type: Content of: <div><div><ul><li>
@@ -559,8 +567,8 @@ msgstr "Fertigen Sie Schemata und Diagramme an."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/ltsp.html:1
-msgid "Easy terminal server setup"
-msgstr "Einfache Terminal-Server-Einrichtung"
+msgid "Easy Diskless Setup"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:6
@@ -580,45 +588,13 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:8
-msgid ""
-"Extend to large-scale deployments with LTSP-Cluster, a high availability "
-"clustering suite available for Edubuntu."
+msgid "Rapidly deploy many diskless machines with low maintenance."
 msgstr ""
-"Erweitern Sie auf großangelegte Netzwerke mit LTSP-Cluster, einem auf hohe "
-"Last ausgelegten Clustering-Programmpaket, das für Edubuntu erhältlich ist."
-
-#. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/nanny.html:1
-msgid "Gnome Nanny"
-msgstr "Gnome-Kindermädchen"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/nanny.html:6
-msgid "<em>Gnome Nanny</em> provides parental control in Edubuntu."
-msgstr ""
-"<em>Gnome Nanny</em> stellt in Edubuntu eine Kindersicherung zur Verfügung."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/nanny.html:7
-msgid ""
-"Limit the amount of time kids spend on the computer in any period using the "
-"graphical schedule editor."
-msgstr ""
-"Begrenzen Sie mit dem grafischen Zeitplan die Zeit, die Ihre Kinder am "
-"Rechner verbringen."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/nanny.html:8
-msgid ""
-"Restrict access to undesirable web sites and download pre-defined access "
-"rules."
-msgstr ""
-"Beschränken Sie den Zugang zu unerwünschten Webseiten und laden Sie "
-"vordefinierte Zugangsregeln herunter."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/pencil.html:1
-msgid "Drawing with Pencil"
+#, fuzzy
+msgid "Draw with Pencil"
 msgstr "Mit einem Stift zeichnen"
 
 #. type: Content of: <div><div><ul><li>
@@ -642,66 +618,9 @@ msgid "Start a comic-strip or draw a self-portrait!"
 msgstr "Beginnen Sie einen Comic-Streifen oder ein Selbstportrait!"
 
 #. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/pessulus.html:1
-msgid "Pessulus Lockdown Editor"
-msgstr "Pessullus-Lockdown-Bearbeitungsprogramm"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/pessulus.html:6
-msgid ""
-"The <em>Pessulus Lockdown Editor</em> allows administrators to restrict "
-"users from making certain changes to their profile."
-msgstr ""
-"Mit dem Pessullus-Lockdown-Bearbeitungsprogramm können Systemverwalter "
-"Benutzer davon abhalten, bestimmte Änderungen an ihrem Profil vorzunehmen."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/pessulus.html:7
-msgid "Lock down panels and user settings easily on public machines."
-msgstr ""
-"So können Sie einfach  Bedienungsleisten und Benutzereinstellungen auf "
-"öffentlich zugänglichen Computern sperren."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/pessulus.html:8
-msgid "Launch browsers in fullscreen mode in kiosk environments."
-msgstr "Öffnen Sie Browser an Verkaufsstellen im Vollbildmodus."
-
-#. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/sabayon.html:1
-msgid "Sabayon user profile editor"
-msgstr "Sabayon-Benutzerprofil-Editor"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/sabayon.html:6
-msgid ""
-"The <em>Sabayon User Profile Editor</em> allows administrators to set up "
-"highly customized desktops for users."
-msgstr ""
-"Das <em>Sabayon-Benutzerprofil-Bearbeitungsprogramm</em> ermöglicht "
-"Systemverwaltern, stark angepasste Arbeitsoberflächen für Benutzer "
-"anzubieten."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/sabayon.html:7
-msgid ""
-"Launch the Sabayon Profile Editor from the Administration menu, and you'll "
-"be able to set up a desktop just the way you want it."
-msgstr ""
-"Starten Sie das Sabayon-Benutzerprofil-Bearbeitungsprogramm im "
-"Systemverwaltungsmenü und Sie werden die Arbeitsoberfläche so einrichten "
-"können, wie Sie es wollen."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/sabayon.html:8
-msgid "Easily apply custom desktops that have been created to users or groups."
-msgstr ""
-"Übertragen Sie maßgeschneiderte Arbeitsumgebungen einfach an Benutzer und "
-"Gruppen."
-
-#. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/testdrive.html:1
-msgid "Testdrive in Software Center"
+#, fuzzy
+msgid "Testdrive Software"
 msgstr "Testdrive im Ubuntu Software-Center"
 
 #. type: Content of: <div><div><ul><li>
@@ -739,69 +658,58 @@ msgstr ""
 "Zu finden im Software-Center, das über das Anwendungen-Menü aufgerufen wird."
 
 #. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/testing.html:1
-msgid "Welcome and thank you"
-msgstr "Willkommen und danke schön"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/testing.html:6
-msgid "Thank you for testing what will become Edubuntu 12.10."
-msgstr "Danke für das Testen des zukünftigen Edubuntu 12.10."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/testing.html:7
-msgid ""
-"If this is an alpha/beta candidate, please log this installation on <a href="
-"\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+#: slideshows/edubuntu/slides/tomboy.html:1
+msgid "Take Notes"
 msgstr ""
-"Wenn dies eine Alpha- oder Betaversion ist, tragen Sie Ihre Installation "
-"bitte unter <a href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</"
-"a> ein."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/testing.html:8
+#: slideshows/edubuntu/slides/tomboy.html:6
+#, fuzzy
 msgid ""
-"File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
-"net</a>."
-msgstr ""
-"Erstellen Sie Fehlerberichte unter<a href=\"http://bugs.launchpad.net"
-"\">http://bugs.launchpad.net</a>."
+"Edubuntu ships with <em>Tomboy</em>, a desktop wiki and note taking "
+"application."
+msgstr "Edubuntu enthält Pencil, ein vielseitiges Zeichenwerkzeug."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/testing.html:9
-msgid "Talk to us on irc.freenode.net, channel #edubuntu"
-msgstr "Kontaktieren Sie uns auf  irc.freenode.net, Kanal #edubuntu"
+#: slideshows/edubuntu/slides/tomboy.html:7
+msgid "Take notes during lectures and meetings."
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/testing.html:10
-msgid ""
-"Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu.org</"
-"a>"
+#: slideshows/edubuntu/slides/tomboy.html:8
+msgid "Create links between notes."
 msgstr ""
-"Aktuelle Nachrichten gibt es unter <a href=\"http://edubuntu.org\">http://"
-"edubuntu.org</a>."
 
-#. type: Content of: <div><div><p>
-#: slideshows/edubuntu/slides/testing.html:12
-msgid "This slide will be removed after the beta release."
-msgstr "Diese Präsentation wird nach der Beta-Veröffentlichung entfernt."
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/tomboy.html:9
+msgid "Create notebooks for easy access to specific notes."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/tux4kids.html:1
-msgid "Learning is fun with Tux4kids"
-msgstr "Lernen macht Spaß - mit Tux4kids"
+msgid "Basic Skills Development"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:6
+#, fuzzy
+msgid "Edubuntu ships with the popular <em>Tux4kids suite</em>."
+msgstr ""
+"Edubuntu wird mit der neuesten Version des leistungsfähigen <em>Gnome-"
+"Taschenrechners</em> ausgeliefert."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/tux4kids.html:7
+#, fuzzy
 msgid ""
 "Defend your cities in <em>Tux of Math Command</em>, an arcade game that "
-"improves arithmetic skills ."
+"improves arithmetic skills."
 msgstr ""
 "Verteidigen Sie Ihre Städte in <em>Tux of Math Command</em>, einem Arkade-"
 "Spiel, das Ihre arithmetischen Fertigkeiten schult."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/tux4kids.html:7
+#: slideshows/edubuntu/slides/tux4kids.html:8
 msgid ""
 "Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
 "em>."
@@ -810,7 +718,7 @@ msgstr ""
 "Kreativität mit <em>TuxPaint</em>."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/tux4kids.html:8
+#: slideshows/edubuntu/slides/tux4kids.html:9
 msgid ""
 "Learn where all the buttons on your keyboard are using <em>TuxType</em>."
 msgstr ""
@@ -874,53 +782,255 @@ msgstr "Edubuntu baut auf der neuesten und besten freien Software auf."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
-msgid "Linux 3.5 boosts performance and hardware support."
+#, fuzzy
+msgid "Linux 3.8 provides great hardware support and performance."
 msgstr "Linux 3.5 steigert die Geschwindigkeit und die Hardware-Unterstützung."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
-msgid "Xorg 1.13, Mesa and Compiz delivers excellent graphics support."
-msgstr "Xort 1.13, Mesa und Compiz liefern exzellente grafische Unterstützung."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/underthehood.html:9
-msgid ""
-"Python 2.7 and Python 3.2 provides increased performance and functionality."
+msgid "Python 3.3 provides a powerful scripting and programming language."
 msgstr ""
-"Python 2.7 und Python 3.2 bieten gesteigerte Leistung und Funktionalität."
 
 #. type: Content of: <div><h1>
+#: slideshows/edubuntu/slides/vym.html:1
+msgid "Organise Your Thoughs"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/vym.html:6
+#, fuzzy
+msgid ""
+"<em>Vym</em> is a powerful mindmapping tool that is included in Edubuntu."
+msgstr ""
+"<em>FreeMind</em> ist eine großartige Anwendung zum Erstellen und Betrachten "
+"von Mindmaps."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/vym.html:7
+msgid "Summarize and organise plenty of information."
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/edubuntu/slides/vym.html:9
+#, fuzzy
+msgid "Organize your goals, future plans, events and more."
+msgstr ""
+"Organisieren Sie mit mit diesem großartigen Werkzeug Ihre Ziele, Planungen, "
+"Ereignisse und anderes."
+
+#. type: Content of: <h1>
 #: slideshows/edubuntu/slides/welcome.html:1
 msgid "Welcome"
 msgstr "Willkommen"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Edubuntu 12.10."
-msgstr "Danke, dass Sie sich für Edubuntu 12.10 entschieden haben."
-
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:7
 msgid ""
-"This release brings updates, bug fixes and new software. Please refer to the "
-"release notes on our website for the most up to date information."
+"Thank you for installing Edubuntu 13.04.  The Edubuntu project is a "
+"community project that aims to provide a whole-school technological platform "
+"suitable for delivering education. We are coders, educators, parents and "
+"technologists who aim to make technology easier for all."
 msgstr ""
-"Diese Veröffentlichung bringt Aktualisierungen, Fehlerbehebungen und neue "
-"Anwendungen. Bitte schauen Sie sich für die neuesten Informatione die "
-"Veröffentlichungshinweise auf unserer Webseite an."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/welcome.html:8
-msgid ""
-"Whether you're new to Edubuntu or a long-time user, we're sure there is "
-"something you will enjoy. While Edubuntu is installed, this slideshow will "
-"show you around."
-msgstr ""
-"Wir sind sicher, dass es etwas gibt, über das Sie sich freuen können, egal, "
-"ob Sie neu bei Edubuntu oder ein treuer Benutzer sind. Während Edubuntu "
-"installiert wird, wird Sie diese Präsentation herumführen."
-
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:10
-msgid "Edubuntu is designed to be easy. Feel free to explore!"
-msgstr "Edubuntu wurde gestaltet, um einfach zu sein. Sehen Sie sich um!"
+msgid ""
+"While the installer is copying some files to disk, we'll show you some "
+"slides to introduce you to the Edubuntu Desktop system."
+msgstr ""
+
+#. type: Content of: <div><div><ul><p>
+#: slideshows/edubuntu/slides/welcome.html:15
+msgid "<b>Enjoy using Edubuntu and welcome to the Edubuntu family!</b>"
+msgstr ""
+
+#~ msgid "Accessibility in Edubuntu"
+#~ msgstr "Barrierefreiheit in Edubuntu"
+
+#~ msgid "Arkose application sandboxing"
+#~ msgstr "Arkose-Anwendungssandbox"
+
+#~ msgid "Gnome Calculator"
+#~ msgstr "Gnome-Taschenrechner"
+
+#~ msgid "Calibre e-book manager"
+#~ msgstr "Calibre-E-Book-Verwaltung"
+
+#~ msgid "Getting Help with Edubuntu"
+#~ msgstr "Hilfe zu Edubuntu erhalten"
+
+#~ msgid "Edubuntu menu editor"
+#~ msgstr "Edubuntu Menü-Editor"
+
+#~ msgid "Social from the start"
+#~ msgstr "Von Anfang an sozial vernetzt"
+
+#~ msgid "Epoptes classroom control"
+#~ msgstr "Epoptes – Klassenzimmersteuerung"
+
+#~ msgid "Geogebra dynamic mathematics"
+#~ msgstr "Dynamische Mathematik mit Geogebra"
+
+#~ msgid "<em>Geogebra</em> is a dynamic geometry system."
+#~ msgstr "<em>Geogebra</em> ist ein System für dynamische Geometrie"
+
+#~ msgid "Do constructions with points, vectors, segments, lines and more."
+#~ msgstr ""
+#~ "Konstruieren Sie mit Punkten, Vektoren, Segmenten, Linien und anderem."
+
+#~ msgid "Modify functions dynamically and edit equations directly."
+#~ msgstr ""
+#~ "Verändern Sie Funktionen dynamisch und bearbeiten Sie Gleichungen direkt."
+
+#~ msgid ""
+#~ "Supports many elementary calculus-based tools such as derivatives, "
+#~ "osculating circle and more."
+#~ msgstr ""
+#~ "Unterstützt viele elementare analysisbasierte Werkzeuge, wie Ableitungen, "
+#~ "Krümmungskreise und mehr."
+
+#~ msgid "Easy terminal server setup"
+#~ msgstr "Einfache Terminal-Server-Einrichtung"
+
+#~ msgid ""
+#~ "Extend to large-scale deployments with LTSP-Cluster, a high availability "
+#~ "clustering suite available for Edubuntu."
+#~ msgstr ""
+#~ "Erweitern Sie auf großangelegte Netzwerke mit LTSP-Cluster, einem auf "
+#~ "hohe Last ausgelegten Clustering-Programmpaket, das für Edubuntu "
+#~ "erhältlich ist."
+
+#~ msgid "Gnome Nanny"
+#~ msgstr "Gnome-Kindermädchen"
+
+#~ msgid "<em>Gnome Nanny</em> provides parental control in Edubuntu."
+#~ msgstr ""
+#~ "<em>Gnome Nanny</em> stellt in Edubuntu eine Kindersicherung zur "
+#~ "Verfügung."
+
+#~ msgid ""
+#~ "Limit the amount of time kids spend on the computer in any period using "
+#~ "the graphical schedule editor."
+#~ msgstr ""
+#~ "Begrenzen Sie mit dem grafischen Zeitplan die Zeit, die Ihre Kinder am "
+#~ "Rechner verbringen."
+
+#~ msgid ""
+#~ "Restrict access to undesirable web sites and download pre-defined access "
+#~ "rules."
+#~ msgstr ""
+#~ "Beschränken Sie den Zugang zu unerwünschten Webseiten und laden Sie "
+#~ "vordefinierte Zugangsregeln herunter."
+
+#~ msgid "Pessulus Lockdown Editor"
+#~ msgstr "Pessullus-Lockdown-Bearbeitungsprogramm"
+
+#~ msgid ""
+#~ "The <em>Pessulus Lockdown Editor</em> allows administrators to restrict "
+#~ "users from making certain changes to their profile."
+#~ msgstr ""
+#~ "Mit dem Pessullus-Lockdown-Bearbeitungsprogramm können Systemverwalter "
+#~ "Benutzer davon abhalten, bestimmte Änderungen an ihrem Profil vorzunehmen."
+
+#~ msgid "Lock down panels and user settings easily on public machines."
+#~ msgstr ""
+#~ "So können Sie einfach  Bedienungsleisten und Benutzereinstellungen auf "
+#~ "öffentlich zugänglichen Computern sperren."
+
+#~ msgid "Launch browsers in fullscreen mode in kiosk environments."
+#~ msgstr "Öffnen Sie Browser an Verkaufsstellen im Vollbildmodus."
+
+#~ msgid "Sabayon user profile editor"
+#~ msgstr "Sabayon-Benutzerprofil-Editor"
+
+#~ msgid ""
+#~ "The <em>Sabayon User Profile Editor</em> allows administrators to set up "
+#~ "highly customized desktops for users."
+#~ msgstr ""
+#~ "Das <em>Sabayon-Benutzerprofil-Bearbeitungsprogramm</em> ermöglicht "
+#~ "Systemverwaltern, stark angepasste Arbeitsoberflächen für Benutzer "
+#~ "anzubieten."
+
+#~ msgid ""
+#~ "Launch the Sabayon Profile Editor from the Administration menu, and "
+#~ "you'll be able to set up a desktop just the way you want it."
+#~ msgstr ""
+#~ "Starten Sie das Sabayon-Benutzerprofil-Bearbeitungsprogramm im "
+#~ "Systemverwaltungsmenü und Sie werden die Arbeitsoberfläche so einrichten "
+#~ "können, wie Sie es wollen."
+
+#~ msgid ""
+#~ "Easily apply custom desktops that have been created to users or groups."
+#~ msgstr ""
+#~ "Übertragen Sie maßgeschneiderte Arbeitsumgebungen einfach an Benutzer und "
+#~ "Gruppen."
+
+#~ msgid "Welcome and thank you"
+#~ msgstr "Willkommen und danke schön"
+
+#~ msgid "Thank you for testing what will become Edubuntu 12.10."
+#~ msgstr "Danke für das Testen des zukünftigen Edubuntu 12.10."
+
+#~ msgid ""
+#~ "If this is an alpha/beta candidate, please log this installation on <a "
+#~ "href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
+#~ msgstr ""
+#~ "Wenn dies eine Alpha- oder Betaversion ist, tragen Sie Ihre Installation "
+#~ "bitte unter <a href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu."
+#~ "com</a> ein."
+
+#~ msgid ""
+#~ "File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
+#~ "net</a>."
+#~ msgstr ""
+#~ "Erstellen Sie Fehlerberichte unter<a href=\"http://bugs.launchpad.net"
+#~ "\">http://bugs.launchpad.net</a>."
+
+#~ msgid "Talk to us on irc.freenode.net, channel #edubuntu"
+#~ msgstr "Kontaktieren Sie uns auf  irc.freenode.net, Kanal #edubuntu"
+
+#~ msgid ""
+#~ "Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu."
+#~ "org</a>"
+#~ msgstr ""
+#~ "Aktuelle Nachrichten gibt es unter <a href=\"http://edubuntu.org\">http://"
+#~ "edubuntu.org</a>."
+
+#~ msgid "This slide will be removed after the beta release."
+#~ msgstr "Diese Präsentation wird nach der Beta-Veröffentlichung entfernt."
+
+#~ msgid "Learning is fun with Tux4kids"
+#~ msgstr "Lernen macht Spaß - mit Tux4kids"
+
+#~ msgid "Xorg 1.13, Mesa and Compiz delivers excellent graphics support."
+#~ msgstr ""
+#~ "Xort 1.13, Mesa und Compiz liefern exzellente grafische Unterstützung."
+
+#~ msgid ""
+#~ "Python 2.7 and Python 3.2 provides increased performance and "
+#~ "functionality."
+#~ msgstr ""
+#~ "Python 2.7 und Python 3.2 bieten gesteigerte Leistung und Funktionalität."
+
+#~ msgid "Thank you for choosing Edubuntu 12.10."
+#~ msgstr "Danke, dass Sie sich für Edubuntu 12.10 entschieden haben."
+
+#~ msgid ""
+#~ "This release brings updates, bug fixes and new software. Please refer to "
+#~ "the release notes on our website for the most up to date information."
+#~ msgstr ""
+#~ "Diese Veröffentlichung bringt Aktualisierungen, Fehlerbehebungen und neue "
+#~ "Anwendungen. Bitte schauen Sie sich für die neuesten Informatione die "
+#~ "Veröffentlichungshinweise auf unserer Webseite an."
+
+#~ msgid ""
+#~ "Whether you're new to Edubuntu or a long-time user, we're sure there is "
+#~ "something you will enjoy. While Edubuntu is installed, this slideshow "
+#~ "will show you around."
+#~ msgstr ""
+#~ "Wir sind sicher, dass es etwas gibt, über das Sie sich freuen können, "
+#~ "egal, ob Sie neu bei Edubuntu oder ein treuer Benutzer sind. Während "
+#~ "Edubuntu installiert wird, wird Sie diese Präsentation herumführen."
+
+#~ msgid "Edubuntu is designed to be easy. Feel free to explore!"
+#~ msgstr "Edubuntu wurde gestaltet, um einfach zu sein. Sehen Sie sich um!"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"POT-Creation-Date: 2013-03-20 17:52-0300\n"
 "PO-Revision-Date: 2012-03-16 19:37+0000\n"
 "Last-Translator: Marian Vasile <marianvasile@upcmail.ro>\n"
 "Language-Team: Romanian Gnome Team <gnomero-list@lists.sourceforge.net>\n"
@@ -15,21 +15,22 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:52+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "Personalizați Ubuntu"
+msgid "Access for everyone"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
+#, fuzzy
 msgid ""
-"At the heart of Ubuntu’s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and options like your preferred "
-"color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
-"are, and wherever you are."
+"At the heart of the Ubuntu philosophy is the belief that computing is for "
+"everyone. With advanced accessibility tools and options to change language, "
+"colour scheme and text size, Ubuntu makes computing easy – whoever and "
+"wherever you are."
 msgstr ""
 "În centrul filosofiei Ubuntu stă credința că accesul la sistemele "
 "informatice trebuie să fie permis oricui. Integrând unelte avansate pentru "
@@ -59,7 +60,7 @@ msgstr "Suport pentru limbă"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Profitați din plin de Web"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
@@ -69,10 +70,14 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
+"Ubuntu include Firefox, browser-ul web folosit de milioane de oameni din "
+"întreaga lume. Și aplicații web pe care le utilizați frecvent (cum ar fi "
+"Facebook sau Gmail, de exemplu) pot fi fixate pe desktop pentru acces mai "
+"rapid, la fel ca și aplicațiile de pe calculatorul dumneavoastră."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
-#: slideshows/oem-config-ubuntu/slides/music.html:12
+#: slideshows/oem-config-ubuntu/slides/music.html:11
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
 msgid "Included software"
@@ -113,6 +118,11 @@ msgid ""
 "to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
 "support\">ubuntu.com/support</a>."
 msgstr ""
+"Accesați <a href=\"http://askubuntu.com/\">askubuntu.com</a> pentru "
+"răspunsuri la întrebările dumneavoastră despre Ubuntu. Foarte probabil ca "
+"întrebarea dvs. să fi primit un răspuns deja și, dacă nu, veți găsi mii de "
+"voluntari dornici să ajute. Pentru mai multe opțiuni de asistență: <a href="
+"\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:17
@@ -141,17 +151,18 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu/slides/music.html:1
+#: slideshows/oem-config-ubuntu/slides/music.html:2
 msgid "Take your music with you"
 msgstr "Luați muzica cu dumneavoastră"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:8
+#: slideshows/oem-config-ubuntu/slides/music.html:7
+#, fuzzy
 msgid ""
 "Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options and the Ubuntu One music store built in, it’s simple to queue up the "
-"perfect songs. And it works great with CDs and portable music players, so "
-"you can enjoy all your music wherever you go."
+"options, it's simple to queue up the perfect songs. And it works great with "
+"CDs and portable music players, so you can enjoy all your music wherever you "
+"go."
 msgstr ""
 "Ubuntu conține extraordinarul player muzical Rhythmbox. Cu ajutorul "
 "opțiunilor avansate pentru redarea pieselor muzicale și cu magazinul de "
@@ -160,27 +171,22 @@ msgstr ""
 "portabile, așa că puteți să vă bucurați de muzică oriunde mergeți."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:16
+#: slideshows/oem-config-ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Playerul muzical Rhythmbox"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:20
-msgid "Ubuntu One Music Store"
-msgstr "Magazinul de muzică Ubuntu One"
-
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
-msgid "Write and present for free"
-msgstr "Scrieți și faceți prezentări gratuit"
+msgid "Everything you need for the office"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
+#, fuzzy
 msgid ""
-"LibreOffice is a free office suite packed with everything you’ll need to "
-"create impressive documents, spreadsheets, and presentations. LibreOffice "
-"tries its best to work with other office software, and it uses the "
-"OpenDocument standards for far-reaching compatibility."
+"LibreOffice is a free office suite packed with everything you need to create "
+"documents, spreadsheets and presentations. Compatible with Microsoft Office "
+"file formats, it gives you all the features you need, without the price tag."
 msgstr ""
 "LibreOffice este o suită pentru birou care conține tot ce vă trebuie pentru "
 "a crea documente, foi de calcul și prezentări impresionante. LibreOffice "
@@ -270,6 +276,36 @@ msgid "Identi.ca"
 msgstr "Identi.ca"
 
 #. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:2
+msgid "One account to log in to everything on Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:8
+msgid "<strong>Make the most of Ubuntu with Ubuntu One.</strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:10
+msgid "Ubuntu One is the single account to log in to everything on Ubuntu."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:17
+msgid "Get <strong>new apps</strong> from the Software Center"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:21
+msgid "Listen to <strong>your music collection</strong> and buy tracks"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:25
+msgid "Access <strong>files and photos</strong> from all your devices"
+msgstr ""
+
+#. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1
 msgid "Find even more software"
 msgstr "Găsiți și mai multe programe"
@@ -291,7 +327,16 @@ msgstr "Bun venit"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
 msgid ""
-"Thank you for choosing Ubuntu 12.10. This version brings some exciting "
+"Thank you for choosing Ubuntu 13.04. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
+
+#~ msgid "Customize Ubuntu"
+#~ msgstr "Personalizați Ubuntu"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Magazinul de muzică Ubuntu One"
+
+#~ msgid "Write and present for free"
+#~ msgstr "Scrieți și faceți prezentări gratuit"

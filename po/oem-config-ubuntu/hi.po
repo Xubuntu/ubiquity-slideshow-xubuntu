@@ -7,29 +7,30 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
-"PO-Revision-Date: 2012-04-17 09:49+0000\n"
-"Last-Translator: Ravi Kumar <Unknown>\n"
+"POT-Creation-Date: 2013-03-20 17:52-0300\n"
+"PO-Revision-Date: 2013-03-03 09:54+0000\n"
+"Last-Translator: PRAKASH KUMAR <Unknown>\n"
 "Language-Team: Hindi <hi@li.org>\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:52+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "उबुन्टू को अनुकूलित बनाएं"
+msgid "Access for everyone"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
+#, fuzzy
 msgid ""
-"At the heart of Ubuntu’s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and options like your preferred "
-"color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
-"are, and wherever you are."
+"At the heart of the Ubuntu philosophy is the belief that computing is for "
+"everyone. With advanced accessibility tools and options to change language, "
+"colour scheme and text size, Ubuntu makes computing easy – whoever and "
+"wherever you are."
 msgstr ""
 "उबुन्टू संगणक प्रचालन तंत्र के दर्शन के मूल मे यह धारणा है कि संगणन सर्वजन के लिए है | आधुनिक "
 "सहायक उपकरणों तथा आपके मनोवांछित विकल्पों जैसे कि वर्ण व्यवस्था , लेख आकार व भाषा से युक्त "
@@ -58,7 +59,7 @@ msgstr "भाषा समर्थन"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "वैब से अधिक से अधिक प्राप्त करें ।"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:8
@@ -68,10 +69,14 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
+"उबुनटु में फयरफोक्स, एक ऐसा वैब ब्राउसर है जो कि दुनिया में लाखों लोगों द्वारा प्रयोग किया "
+"जाता है, तथा आप जो वेब अनुप्रयोग बहुदा उयोग करते हैं (जैसे कि फेसबुक या जीमेल )उन्हें आप "
+"डेस्कटोप पर किसी भी अन्य एपलिकेसन की तरह  लगा सकते हें ताकि आप उन्हें शिघ्रता से प्रयोग "
+"कर सकें ।,"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
-#: slideshows/oem-config-ubuntu/slides/music.html:12
+#: slideshows/oem-config-ubuntu/slides/music.html:11
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
 msgid "Included software"
@@ -112,11 +117,16 @@ msgid ""
 "to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
 "support\">ubuntu.com/support</a>."
 msgstr ""
+"अपने किसी भी उबुन्टु से सम्बन्धित प्रश्न के लिए आप <a href=\"http://askubuntu.com/"
+"\">askubuntu.com</a> पर जा सकते हैं ।इसकी बहुत सम्भावना है कि आपके प्रश्नों के उत्तर पेहले "
+"से ही दिये जा चुके हों, अगर नहीं ,  तो आप हजारों स्वंयंसेवको को मदद करने के लिये उत्सुक  "
+"पायेंगे । मदद के अधिक विकल्पों के लियै इस वेब साइट पर जायें <a href=\"http://www.ubuntu."
+"com/support\">ubuntu.com/support</a>."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:17
 msgid "Let’s talk Ubuntu"
-msgstr "चलो उबुन्टू के बात करते हैं"
+msgstr "चलो उबुन्टू की बात करते हैं"
 
 #. type: Content of: <div><div><div><div>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:18
@@ -138,19 +148,26 @@ msgid ""
 "your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
 "Mac, Android, iOS and the web."
 msgstr ""
+"<a href=\"https://one.ubuntu.com/services/free/\">उबुन्टु ऐकल</a> आपको देता है  "
+"5GB का मुफ्त cloud संचयन ताकि आप अपनी फाईलों तक पहुंच सकें,  अपने छायाचित्रों कोे आपस में "
+"बांट सकें तथा <a href=\"https://one.ubuntu.com/services/music/\">संगीत को अपने "
+"किसी भी  कम्प्युटर, टेबलेट, स्मार्टफोन पर भेज सकें</a>. आप कोई भी फोटो लें वो आपके सभी "
+"उपकरणो पर उसी समय दिखाई देगी । उबुन्टु ऐकल (Ubuntu One) उबुन्टु, विन्डोस, मैक, "
+"एन्ड्रोइड, आईओएस तथा वेब के लिए उपलब्ध है ।"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu/slides/music.html:1
+#: slideshows/oem-config-ubuntu/slides/music.html:2
 msgid "Take your music with you"
 msgstr "अपना संगीत साथ लेकर चलें"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:8
+#: slideshows/oem-config-ubuntu/slides/music.html:7
+#, fuzzy
 msgid ""
 "Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options and the Ubuntu One music store built in, it’s simple to queue up the "
-"perfect songs. And it works great with CDs and portable music players, so "
-"you can enjoy all your music wherever you go."
+"options, it's simple to queue up the perfect songs. And it works great with "
+"CDs and portable music players, so you can enjoy all your music wherever you "
+"go."
 msgstr ""
 "उबुन्टू अद्भुत Rhythmbox संगीत प्लेयर के साथ आता है. उन्नत प्लेबैक विकल्प और साथ मॆ Ubuntu "
 "One संगीत स्टोर निर्मित, सही गाने को ऊपर कतार में लाना सरल है. और यह CD और पोर्टेबल "
@@ -158,27 +175,22 @@ msgstr ""
 "जाए."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:16
+#: slideshows/oem-config-ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Rhythmnbox संगीत प्लेयर"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/music.html:20
-msgid "Ubuntu One Music Store"
-msgstr "उबुन्टु वन का संगीत दुकान"
-
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
-msgid "Write and present for free"
-msgstr "मिखो और उपस्थित करो"
+msgid "Everything you need for the office"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
+#, fuzzy
 msgid ""
-"LibreOffice is a free office suite packed with everything you’ll need to "
-"create impressive documents, spreadsheets, and presentations. LibreOffice "
-"tries its best to work with other office software, and it uses the "
-"OpenDocument standards for far-reaching compatibility."
+"LibreOffice is a free office suite packed with everything you need to create "
+"documents, spreadsheets and presentations. Compatible with Microsoft Office "
+"file formats, it gives you all the features you need, without the price tag."
 msgstr ""
 "लिबरेऑफिस एक मुक्त कार्यालय सूट हो जो प्रभावशाली दस्तावेज़ों, स्प्रेडशीटों, और प्रस्तुतियों को "
 "बनाने की आवश्यकता होगी सब कुछ के साथ पैक है. लिबरेऑफिस अपनी पूरी कोशिश करता है अन्य "
@@ -245,6 +257,8 @@ msgid ""
 "applications and social networks. So you can see straight away when there’s "
 "something new to read, regardless of how it arrived."
 msgstr ""
+"संदेश सूची आपको सभी एपलीकेशनस् और सोशल नेटर्वकस् से आनेवाले संदेशो का वृहद परिप्रेक्ष देती है । "
+"इससे आप इन संदेशों को उसी समय देख सकते, चाहे वो किसी भी समय  आयें हों ।"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/social.html:12
@@ -267,6 +281,36 @@ msgid "Identi.ca"
 msgstr "आइडेंनटि.का"
 
 #. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:2
+msgid "One account to log in to everything on Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:8
+msgid "<strong>Make the most of Ubuntu with Ubuntu One.</strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:10
+msgid "Ubuntu One is the single account to log in to everything on Ubuntu."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:17
+msgid "Get <strong>new apps</strong> from the Software Center"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:21
+msgid "Listen to <strong>your music collection</strong> and buy tracks"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/ubuntuone.html:25
+msgid "Access <strong>files and photos</strong> from all your devices"
+msgstr ""
+
+#. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1
 msgid "Find even more software"
 msgstr "और भी अधिक सॉफ्टवेयर प्राप्त करें"
@@ -279,6 +323,10 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
+"नये सोफटवैर ढूंडने के लिय वेब को अलविदा कहें । उबुन्टु सौफ्टवेर केंद्र से आप आसानी से कोई भी "
+"एपलीकेशन ढूंड कर स्थपित कर सकते हें. अपनी इच्छित एप्लीकेशन को  केवल टंकण करें, अथवा विभिन्न "
+"विभागों, जैसे कि विज्ञान, शिक्षा और खेल,  में अन्य उपयोगर्कताओं की मददगार समीक्षाओं के साथ "
+"ढूंडें ।"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -287,8 +335,21 @@ msgstr "सुस्वागतम्"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"Thank you for choosing Ubuntu 12.10. This version brings some exciting "
+"Thank you for choosing Ubuntu 13.04. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
+"उबुन्टु 12.10 का चयन करने के लिये धन्यवाद । यह संस्करण कई रोमांचक बदलाव लाया है, जिसमें "
+"शामिल है, युनिटी (unity), जो एक पूरी तरह से नया डेस्कटोप अंतराफलक (interface) है। जब "
+"तक उबुन्टु की स्थपना चल रही है, यह स्लाईड शो आपको अन्य जानकारी देगा।"
+
+#~ msgid "Customize Ubuntu"
+#~ msgstr "उबुन्टू को अनुकूलित बनाएं"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "उबुन्टु वन का संगीत दुकान"
+
+#~ msgid "Write and present for free"
+#~ msgstr "मिखो और उपस्थित करो"

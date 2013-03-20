@@ -1,22 +1,22 @@
-# Finnish translation for ubiquity-slideshow-ubuntu-gnome
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu-gnome package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+# Finnish translation for ubiquity-slideshow-ubuntu
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu-gnome\n"
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
-"PO-Revision-Date: 2012-09-26 08:01+0000\n"
+"POT-Creation-Date: 2013-03-20 17:52-0300\n"
+"PO-Revision-Date: 2012-12-30 10:59+0000\n"
 "Last-Translator: Timo Jyrinki <timo.jyrinki@canonical.com>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/00_welcome.html:1
@@ -27,12 +27,12 @@ msgstr ""
 #: slideshows/ubuntu-gnome/slides/05_documents.html:1
 #: slideshows/ubuntu-gnome/slides/06_messaging.html:1
 #: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
-msgid "Ubuntu GNOME 12.10"
-msgstr ""
+#, fuzzy
+msgid "Ubuntu GNOME 13.04"
+msgstr "Ubuntu GNOME 12.10"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
-#, fuzzy
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
 "all your Ubuntu questions. There’s a good chance your question will have "
@@ -40,221 +40,8 @@ msgid ""
 "to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
 "support\">ubuntu.com/support</a>."
 msgstr ""
-"Tutustu myös englanninkieliseen <a href=\"http://askubuntu.com/\">Ask "
-"Ubuntu</a> -sivustoon, josta löytyy vastauksia kysymyksiin. Kysymykseesi "
-"saattaa olla jo vastaus, ja jos ei ole, paikalla on tuhansia ihmisiä "
-"valmiina vastaamaan parhaansa mukaan. Kaupallisista tukipalveluista löytyy "
-"lisätietoja osoitteista <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
-"support</a> ja <a href=\"http://wiki.ubuntu-fi.org/Tukipalvelut\">wiki."
-"ubuntu-fi.org/Tukipalvelut</a>"
-
-#~ msgid "Customize Ubuntu"
-#~ msgstr "Ubuntun mukauttaminen"
-
-#~ msgid ""
-#~ "At the heart of Ubuntu’s philosophy is a belief that computing is for "
-#~ "everyone. With advanced accessibility tools and options like your "
-#~ "preferred color scheme, text size, and language, Ubuntu is for anyone. "
-#~ "Whoever you are, and wherever you are."
-#~ msgstr ""
-#~ "Ubuntun filosofian ytimessä on usko siihen, että tietokoneiden käyttö "
-#~ "sopii kaikille. Tämän takia Ubuntu tarjoaa erilaisia "
-#~ "mukauttamismahdollisuuksia sopiakseen mahdollisimman monelle ihmiselle "
-#~ "kaikkialla maailmassa. Tarjolla ovat muun muassa edistyneet "
-#~ "esteettömyystoiminnot sekä lukuisat valinnaiset kirjasimet, väriteemat ja "
-#~ "kielet."
-
-#~ msgid "Customization options"
-#~ msgstr "Mukauttamisvalinnat"
-
-#~ msgid "Appearance"
-#~ msgstr "Ulkoasu"
-
-#~ msgid "Assistive technologies"
-#~ msgstr "Esteettömyystekniikat"
-
-#~ msgid "Language support"
-#~ msgstr "Kielituki"
-
-#~ msgid "Included software"
-#~ msgstr "Sisältyvät ohjelmistot"
-
-#~ msgid "Firefox web browser"
-#~ msgstr "Firefox-selain"
-
-#~ msgid "Supported software"
-#~ msgstr "Tuetut ohjelmistot"
-
-#~ msgid "Flash"
-#~ msgstr "Flash"
-
-#~ msgid "Chromium"
-#~ msgstr "Chromium"
-
-#~ msgid "Any questions?"
-#~ msgstr "Kysyttävää?"
-
-#~ msgid "Let’s talk Ubuntu"
-#~ msgstr "Puhutaanpa Ubuntusta"
-
-#~ msgid "I'm installing #Ubuntu!"
-#~ msgstr "#Ubuntu - asennan sitä nyt!"
-
-#~ msgid "Your own personal cloud"
-#~ msgstr "Henkilökohtainen pilvesi"
-
-#~ msgid "Take your music with you"
-#~ msgstr "Ota musiikki mukaasi"
-
-#~ msgid ""
-#~ "Ubuntu comes with the amazing Rhythmbox music player. With advanced "
-#~ "playback options and the Ubuntu One music store built in, it’s simple to "
-#~ "queue up the perfect songs. And it works great with CDs and portable "
-#~ "music players, so you can enjoy all your music wherever you go."
-#~ msgstr ""
-#~ "Ubuntussa on upea Rytmilaatikko-musiikkisoitin. Edistyksellisten "
-#~ "soittomahdollisuuksien ja Ubuntu One -musiikkikaupan ansiosta parhaiden "
-#~ "kappaleiden löytäminen on helppoa. Se toimii loistavasti myös CD-levyjen "
-#~ "ja kannettavien musiikkisoittimien kanssa. Musiikin kuunteleminen ei ole "
-#~ "koskaan ollut näin nautinnollista."
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Rytmilaatikko-musiikkisoitin"
-
-#~ msgid "Ubuntu One Music Store"
-#~ msgstr "Ubuntu One -musiikkikauppa"
-
-#~ msgid "Write and present for free"
-#~ msgstr "Kirjoita ja tee esityksiä helposti"
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you’ll need to "
-#~ "create impressive documents, spreadsheets, and presentations. LibreOffice "
-#~ "tries its best to work with other office software, and it uses the "
-#~ "OpenDocument standards for far-reaching compatibility."
-#~ msgstr ""
-#~ "LibreOffice on vapaa toimisto-ohjelmisto, joka sisältää kaiken "
-#~ "tarvittavan näyttävien asiakirjojen, taulukoiden ja esitysten luomiseen. "
-#~ "LibreOffice pyrkii parhaansa mukaan toimimaan yhteen muiden toimisto-"
-#~ "ohjelmistojen kanssa, ja käyttää OpenDocument-standardeja laajan "
-#~ "yhteensopivuuden saavuttamiseksi."
-
-#~ msgid "LibreOffice Writer"
-#~ msgstr "LibreOffice Writer"
-
-#~ msgid "LibreOffice Calc"
-#~ msgstr "LibreOffice Calc"
-
-#~ msgid "LibreOffice Impress"
-#~ msgstr "LibreOffice Impress"
-
-#~ msgid "Have fun with your photos"
-#~ msgstr "Leikittele valokuvillasi"
-
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it’s easy to share them "
-#~ "and keep them safe. If you’re feeling creative, you can try lots of photo "
-#~ "apps from the Ubuntu Software Center."
-#~ msgstr ""
-#~ "Shotwell on kätevä tapa hallita valokuvia sekä kuvalähteitä. Kuvien "
-#~ "siirtäminen, jakaminen ja varmuuskopioiminen on helppoa yhdistämällä "
-#~ "kamera tai puhelin tietokoneeseen. Ubuntun sovellusvalikoimasta löytyy "
-#~ "useita kuvanmuokkausohjelmistoja."
-
-#~ msgid "Shotwell Photo Manager"
-#~ msgstr "Shotwell - valokuvien hallinta"
-
-#~ msgid "GIMP Image Editor"
-#~ msgstr "GIMP-kuvankäsittely"
-
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "Pitivi-videomuokkain"
-
-#~ msgid "Stay connected"
-#~ msgstr "Pysy yhteyksissä"
-
-#, fuzzy
-#~ msgid ""
-#~ "The messaging menu gives you an eagle-eye view of incoming messages from "
-#~ "all applications and social networks. So you can see straight away when "
-#~ "there’s something new to read, regardless of how it arrived."
-#~ msgstr ""
-#~ "Ubuntun viestintävalikko näyttää yhdessä paikassa kaikki sovellusten ja "
-#~ "sosiaalisten verkostojen viestit. Näet yhdellä vilkaisulla uusimmat "
-#~ "aiheet, riippumatta siitä mistä palvelusta ne tulevat."
-
-#~ msgid "Supported services"
-#~ msgstr "Tuetut palvelut"
-
-#~ msgid "Twitter"
-#~ msgstr "Twitter"
-
-#~ msgid "Facebook"
-#~ msgstr "Facebook"
-
-#~ msgid "Identi.ca"
-#~ msgstr "Identi.ca"
-
-#~ msgid "Find even more software"
-#~ msgstr "Löydä upeita sovelluksia"
-
-#~ msgid "Welcome to Ubuntu 12.10"
-#~ msgstr "Tervetuloa, tämä on Ubuntu 12.10"
-
-#, fuzzy
-#~ msgid ""
-#~ "Fast and full of new features, the latest version of Ubuntu makes "
-#~ "computing easier than ever. Here are just a few cool new things to look "
-#~ "out for…"
-#~ msgstr ""
-#~ "Nopea ja monipuolinen Ubuntu tekee tietokoneen käytöstä sujuvaa. "
-#~ "Viimeisin Unity-käyttöliittymän versio on nyt helppokäyttöisempi kuin "
-#~ "koskaan ennen. Haluamme esitellä muutaman mielenkiintoisen asian "
-#~ "tulevasta käyttöjärjestelmästäsi."
-
-#~ msgid "Browse the web"
-#~ msgstr "Supersurffausta!"
-
-#~ msgid ""
-#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
-#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
-#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
-#~ "Ubuntu Software Center."
-#~ msgstr ""
-#~ "Ubuntun oletusselain on suunniteltu Mozilla Firefox -selaimen sujuvaan ja "
-#~ "nopeaan verkkoselaukseen. Firefox on helppokäyttöinen, ja sitä kehittää "
-#~ "verkkoa rakastava Mozilla-säätiö. Ubuntun sovellusvalikoimasta voi ladata "
-#~ "myös muita verkkoselaimia."
-
-#~ msgid ""
-#~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
-#~ "account gives you 5GB of cloud storage, so you can store and sync your "
-#~ "files and photos across devices and access them wherever you are in the "
-#~ "world. Easily share them with friends, family and colleagues. Take a "
-#~ "photo on your mobile phone and immediately see it on your desktop, or add "
-#~ "<a href=\"https://one.ubuntu.com/services/music/\">Music Streaming</a> "
-#~ "for mobile to enjoy your music on the move."
-#~ msgstr ""
-#~ "Ilmainessa <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</"
-#~ "a> -tilissä on 5 gigatavua ilmaista pilvitallennustilaa, joten "
-#~ "tiedostojen ja kuvien käyttäminen on helppoa mistä tahansa. Jaa "
-#~ "tiedostoja halutessasi helposti ystäviesi, perheesi ja työtovereidesi "
-#~ "kanssa. Puhelimella otettu valokuva voidaan lähettää välittömästi "
-#~ "kaikkiin muihin Ubuntu One -tiliin kytkettyihin laitteisiin. Kokeile myös "
-#~ "<a href=\"https://one.ubuntu.com/services/music/\">Music Streaming</a> -"
-#~ "sovellusta, jonka ansiosta musiikki on aina mukanasi."
-
-#~ msgid ""
-#~ "The Ubuntu Software Center has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is easy to download new stuff and write "
-#~ "reviews to share your experiences."
-#~ msgstr ""
-#~ "Ubuntun sovellusvalikoimasta löytyy tuhansia sovelluksia. Kirjoita vain "
-#~ "mitä etsit tai selaa sovellusryhmiä kuten pelit, tieteet ja "
-#~ "opetusohjelmat. Uusien sovellusten lataaminen ja arvostelujen "
-#~ "kirjoittaminen on vaivatonta."
-
-#~ msgid "Welcome to Ubuntu 12.04 LTS"
-#~ msgstr "Tervetuloa Ubuntu 12.04 LTS -käyttöjärjestelmään"
+"Tutustu englanninkieliseen <a href=\"http://askubuntu.com/\">askubuntu.com</"
+"a>-sivustoon, kun haluat vastauksia Ubuntu-aiheisiin kysymyksiisi. "
+"Kysymykseesi saattaa olla vastaus valmiina, ja jos ei ole, tuhannet ihmiset "
+"ovat valmiita auttamaan. Lisää tukimahdollisuuksia on mainittu sivulla <a "
+"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."

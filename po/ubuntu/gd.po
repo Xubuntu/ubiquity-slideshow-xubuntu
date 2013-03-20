@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-09 13:55-0300\n"
+"POT-Creation-Date: 2013-03-20 17:47-0300\n"
 "PO-Revision-Date: 2012-10-02 22:07+0000\n"
 "Last-Translator: alasdair caimbeul <Unknown>\n"
 "Language-Team: Gaelic; Scottish <gd@li.org>\n"
@@ -15,27 +15,27 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-03 15:52+0000\n"
-"X-Generator: Launchpad (build 16335)\n"
+"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
+"X-Generator: Launchpad (build 16532)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
-msgid "Customize Ubuntu"
-msgstr "Gnàth dheilbhte Ubuntu"
+msgid "Access for everyone"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/accessibility.html:8
+#, fuzzy
 msgid ""
-"At the heart of Ubuntu’s philosophy is a belief that computing is for "
-"everyone. With advanced accessibility tools and options like your preferred "
-"color scheme, text size, and language, Ubuntu is for anyone. Whoever you "
-"are, and wherever you are."
+"At the heart of the Ubuntu philosophy is the belief that computing is for "
+"everyone. With advanced accessibility tools and options to change language, "
+"colour scheme and text size, Ubuntu makes computing easy – whoever and "
+"wherever you are."
 msgstr ""
-"Aig cridhe feallsanachd Ubuntu tha a chreideas gu bheil coimpiutaireachd son "
-"a h-uile duine. Le innealan ruigsinneachd adhartach agus iomadach "
-"roghainnean leithid na sgeamaichean dathan a b'fheàrr leat,, cruthan-clò  "
-"agus cànanan. Tha Ubuntu son a h-uile duine. Às bi cò thu, agus às bith "
-"càite a bheil thu."
+"Aig cridhe feallsanachd Ubuntu tha creideas gu bheil coimpiutaireachd airson "
+"a h-uile duine. Le innealan is roghainnean so-ruigsinneachd adhartach mar "
+"sgeamannan dhathan, chruthan-clò agus chànan. Tha Ubuntu airson a h-uile "
+"duine. Às bith cò thu agus às bith càit a bheil thu."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
@@ -50,12 +50,12 @@ msgstr "Dreach"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:20
 msgid "Assistive technologies"
-msgstr "Teicneolas taiceil"
+msgstr "Teicneolas taice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:24
 msgid "Language support"
-msgstr "Taic cànan"
+msgstr "Taic chànan"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
@@ -78,22 +78,22 @@ msgstr ""
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
-#: slideshows/ubuntu/slides/music.html:12
+#: slideshows/ubuntu/slides/music.html:11
 #: slideshows/ubuntu/slides/office.html:12
 #: slideshows/ubuntu/slides/photos.html:12
 msgid "Included software"
-msgstr "Bathar-bòg a' gabhail a-steach"
+msgstr "Bathar-bog a tha 'na bhroinn"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:16
 msgid "Firefox web browser"
-msgstr "Brabhsair lìon Firefox"
+msgstr "Brabhsair-lìn Firefox"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:19
 #: slideshows/ubuntu/slides/photos.html:19
 msgid "Supported software"
-msgstr "Taiceadh bathar-bog"
+msgstr "Bathar-bog ris a bheil taic"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:23
@@ -108,7 +108,7 @@ msgstr "Chromium"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
 msgid "Any questions?"
-msgstr "Ceistean sam bith?"
+msgstr "Ceist sam bith?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
@@ -138,7 +138,7 @@ msgstr "Tha mi stàladh #Ubuntu!"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/mobilise.html:1
 msgid "Your own personal cloud"
-msgstr "Do sgòth pearsanta fhèin"
+msgstr "Neul pearsanta dhut fhèin"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/mobilise.html:8
@@ -159,17 +159,18 @@ msgstr ""
 "Ubuntu, Windows, Mac, Android, iOS agus an lìon."
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/music.html:1
+#: slideshows/ubuntu/slides/music.html:2
 msgid "Take your music with you"
-msgstr "Thoir do ceòl leat"
+msgstr "Thoir do cheòl leat"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/music.html:8
+#: slideshows/ubuntu/slides/music.html:7
+#, fuzzy
 msgid ""
 "Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
-"options and the Ubuntu One music store built in, it’s simple to queue up the "
-"perfect songs. And it works great with CDs and portable music players, so "
-"you can enjoy all your music wherever you go."
+"options, it's simple to queue up the perfect songs. And it works great with "
+"CDs and portable music players, so you can enjoy all your music wherever you "
+"go."
 msgstr ""
 "Tha Ubuntu a' tighinn le a' chluicheadair ceòl mìorbhaileach Rhythmbox. Le "
 "roghainnean cluich air ais adhartach agus leis a' bhùth ceòl Ubuntu One air "
@@ -178,33 +179,28 @@ msgstr ""
 "ghiùlainteachd, mar sin gheibh thu tlachd nad ceòl as bith càite an tèid thu."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:16
+#: slideshows/ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Rhythmbox Music Player"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/music.html:20
-msgid "Ubuntu One Music Store"
-msgstr "Ubuntu One Bùth Ceòl"
-
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
-msgid "Write and present for free"
-msgstr "Sgrìobh agus foillsich an asgaidh"
+msgid "Everything you need for the office"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/office.html:8
+#, fuzzy
 msgid ""
-"LibreOffice is a free office suite packed with everything you’ll need to "
-"create impressive documents, spreadsheets, and presentations. LibreOffice "
-"tries its best to work with other office software, and it uses the "
-"OpenDocument standards for far-reaching compatibility."
+"LibreOffice is a free office suite packed with everything you need to create "
+"documents, spreadsheets and presentations. Compatible with Microsoft Office "
+"file formats, it gives you all the features you need, without the price tag."
 msgstr ""
-"Seadh prògram oifis dàimheach saor an asgaidh th' ann LibreOffice làn gach "
-"ni dh'fheumas tu son cruthachadh sgrìobhainnean drùidhteach, duilleagan-"
-"cleithe, agus taisbeanaidhean. Tha  LibreOffice feuchainn ri obair cho math "
-"is a ghabhas ri bathar-bòg oifis eile, tha e a cleachdadh bun-tomhasach  "
-"OpenDocument le co-chòrdalachd farsaing."
+"Tha LibreOffice 'na shreath de phrògraman oifis a tha loma-làn de ghleusan "
+"leis an urrainn dhut sgrìobhainnean, cliath-dhuilleagan agus taisbeanaidhean "
+"drùidhteachd a chruthachadh. Nì sgioba LibreOffice a dhìcheall ach an "
+"obraich e còmhla ri bathar-bog oifis eile agus tha e a' cleachdadh "
+"stannardan OpenDocument airson co-chòrdalachd cho mòr 's a ghabhas."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
@@ -224,7 +220,7 @@ msgstr "LibreOffice Impress"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
 msgid "Have fun with your photos"
-msgstr "Faigh spòrs le do dealbhan"
+msgstr "Spòrs leis na dealbhan agad"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/photos.html:8
@@ -234,31 +230,31 @@ msgid ""
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
 "from the Ubuntu Software Center."
 msgstr ""
-"Seadh manaidsear dealbh  goireasach th'ann Shotwell deiseil  airson do "
-"uidheaman. Ceangal camara no fòn son tar-aiseag do dhealbhan, nuairsinn tha "
-"e furasta co-roinneadh agus iad a ghlèidheadh gu sàbhailte. Ma tha thu "
-"faireachdainn cruthachail faodaidh tu feuchainn mòran prògraman dealbh bhon "
-"Ionad Bathar-bòg Ubuntu."
+"Tha Shotwell 'na mhanaidsear goireasach airson dealbhan, ullamh ris na h-"
+"uidheaman agad. Ceangail camara no fòn ris gus na dealbhan agad a thar-chur "
+"is bidh e furasta an co-roinneadh agus an cumail sàbhailte. Ma thig "
+"faireachdainn chruthachail ort, tha an t-uamhas de dh-aplacaidean dhealbhan "
+"ri do làimh ann an ionad bathar-bog Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
 msgid "Shotwell Photo Manager"
-msgstr "Shotwell Photo Manager"
+msgstr "Manaidsear dhealbhan Shotwell"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:23
 msgid "GIMP Image Editor"
-msgstr "GIMP Image Editor"
+msgstr "Deasaiche dhealbhan GIMP"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
 msgid "Pitivi Video Editor"
-msgstr "Pitivi Video Editor"
+msgstr "Deasaiche video Pitivi"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/social.html:1
 msgid "Stay connected"
-msgstr "Mair ceangailte"
+msgstr "Cum ann an co-luadar"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/social.html:8
@@ -275,7 +271,7 @@ msgstr ""
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/social.html:12
 msgid "Supported services"
-msgstr "Taiceadh seirbheisean"
+msgstr "Seirbheisean ris a bheil taic"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/social.html:16
@@ -293,9 +289,39 @@ msgid "Identi.ca"
 msgstr "Identi.ca"
 
 #. type: Content of: <div><h1>
+#: slideshows/ubuntu/slides/ubuntuone.html:2
+msgid "One account to log in to everything on Ubuntu"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/ubuntuone.html:8
+msgid "<strong>Make the most of Ubuntu with Ubuntu One.</strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/ubuntuone.html:10
+msgid "Ubuntu One is the single account to log in to everything on Ubuntu."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/ubuntuone.html:17
+msgid "Get <strong>new apps</strong> from the Software Center"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/ubuntuone.html:21
+msgid "Listen to <strong>your music collection</strong> and buy tracks"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/ubuntuone.html:25
+msgid "Access <strong>files and photos</strong> from all your devices"
+msgstr ""
+
+#. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
 msgid "Find even more software"
-msgstr "Lorg fiù's a bharrachd bathar-bòg"
+msgstr "Lorg fiù barrachd phrògraman"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
@@ -311,7 +337,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
-msgid "Welcome to Ubuntu 12.10"
+#, fuzzy
+msgid "Welcome to Ubuntu 13.04"
 msgstr "Fàilte gu Ubuntu 12.10"
 
 #. type: Content of: <div><div><div><p>
@@ -323,3 +350,12 @@ msgstr ""
 "Luath agus làn feartan, tha an tionndaidh nas ùr de Ubuntu a' dèanamh "
 "coimpiutaireachd nas fhurasta na bha a-riamh. Seo dìreach cuid rudan "
 "sgoinneil ùra a shealltainn a-mach air-shon..."
+
+#~ msgid "Customize Ubuntu"
+#~ msgstr "Gnàth dheilbhte Ubuntu"
+
+#~ msgid "Ubuntu One Music Store"
+#~ msgstr "Bùth ciùil Ubuntu One"
+
+#~ msgid "Write and present for free"
+#~ msgstr "Sgrìobh agus dèan taisbeanadh an-asgaidh"
