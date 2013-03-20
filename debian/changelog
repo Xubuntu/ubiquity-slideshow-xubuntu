@@ -23,7 +23,15 @@ ubiquity-slideshow-ubuntu (68) UNRELEASED; urgency=low
     - Add updated music slide.
     - Add Raring Ringtail welcome graphic.
 
- -- Dylan McCall <dylanmccall@ubuntu.com>  Thu, 14 Mar 2013 12:44:19 -0700
+  [ Jonathan Carter ]
+  * Update the Edubuntu slideshow.
+
+  [ Stéphane Graber ]
+  * Fix various issues in the Edubuntu and Ubuntu slideshows (broken html)
+  * Re-generate the po templates.
+  * Update current translations from Launchpad.
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Wed, 20 Mar 2013 17:54:06 -0400
 
 ubiquity-slideshow-ubuntu (67) raring; urgency=low
 
