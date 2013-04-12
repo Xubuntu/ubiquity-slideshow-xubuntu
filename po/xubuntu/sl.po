@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-03-20 17:52-0300\n"
-"PO-Revision-Date: 2012-09-27 06:18+0000\n"
-"Last-Translator: Sasa Batistic <Unknown>\n"
+"PO-Revision-Date: 2013-04-06 18:26+0000\n"
+"Last-Translator: Damir Jerovšek <Unknown>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
-"X-Generator: Launchpad (build 16532)\n"
+"X-Launchpad-Export-Date: 2013-04-12 12:31+0000\n"
+"X-Generator: Launchpad (build 16564)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,9 +25,8 @@ msgstr "Čestitke!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-#, fuzzy
 msgid "You have chosen to install the latest version of Xubuntu, 13.04."
-msgstr "Izbrali ste namestitev zadnje različice Xubuntuja, 12.10."
+msgstr "Odločili ste se za namestitev najnovejše različice Xubuntu, 13.04."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -40,15 +39,14 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
-#, fuzzy
 msgid ""
 "Since you are installing this software using the Xubuntu live installation, "
 "feel free to examine things as it installs. After the installation, the "
 "desktop will look much the same as it does now."
 msgstr ""
-"Medtem, ko nameščate to programsko opremo z uporabo Xbuntu Desktop CD-ja, "
-"raziskujte naokoli. Po namestitvi bo vaše namizje izgledalo skoraj enako kot "
-"je videti sedaj."
+"Ker nameščate ta sistem z žive namestitvijo Xubuntu, lahko medtem "
+"namestitvijo preizkusite stvari. Po namestitvi bo namizje videti približno "
+"enako kot zdaj."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_web.html:2
@@ -104,7 +102,7 @@ msgstr "Internet <span>»</span>"
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/01_web.html:11
 msgid "Firefox Web Browser"
-msgstr "Firefox spletni brskalnik"
+msgstr "Spletni brskalnik Firefox"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/01_web.html:12
@@ -179,14 +177,15 @@ msgstr "V pisarni"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
-#, fuzzy
 msgid ""
 "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
 "word processor, which can read almost all known document formats and "
 "<em>Gnumeric</em>, a spreadsheet program with an emphasis on accuracy."
 msgstr ""
-"Za vaše pisarniške potrebe vsebuje Xubuntu <em>Abiword</em>, lahek besedilni "
-"urejevalnik, ki lahko bere skoraj vse poznane vrste dokumentov."
+"Za vaše pisarniške potrebe Xubuntu vsebuje program <em>Abiword</em>, "
+"enostaven urejevalnik besedil, ki lahko bere skoraj vse znane zapise "
+"dokumentov in <em>Gnumeric</em>, program za preglednice, s poudarkom na "
+"točnosti."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
@@ -211,7 +210,7 @@ msgstr "Abiword"
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Gnumeric"
-msgstr ""
+msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -337,8 +336,27 @@ msgstr ""
 "našem spletišču. Potrebujemo vašo pomoč!"
 
 #~ msgid ""
+#~ "Since you are installing this software using the Xubuntu Desktop CD, feel "
+#~ "free to examine things as it installs. After the installation, the "
+#~ "desktop will look much the same as it does now."
+#~ msgstr ""
+#~ "Medtem, ko nameščate to programsko opremo z uporabo Xbuntu Desktop CD-ja, "
+#~ "raziskujte naokoli. Po namestitvi bo vaše namizje izgledalo skoraj enako "
+#~ "kot je videti sedaj."
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 12.10."
+#~ msgstr "Izbrali ste namestitev zadnje različice Xubuntuja, 12.10."
+
+#~ msgid ""
 #~ "If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
 #~ "repositories."
 #~ msgstr ""
 #~ "Če potrebujete urejevalnik preglednic, iz skladišč namestite "
 #~ "<em>Gnumeric</em>."
+
+#~ msgid ""
+#~ "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+#~ "word processor, which can read almost all known document formats."
+#~ msgstr ""
+#~ "Za vaše pisarniške potrebe vsebuje Xubuntu <em>Abiword</em>, lahek "
+#~ "besedilni urejevalnik, ki lahko bere skoraj vse poznane vrste dokumentov."

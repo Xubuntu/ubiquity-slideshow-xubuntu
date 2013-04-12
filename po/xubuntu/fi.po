@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-03-20 17:52-0300\n"
-"PO-Revision-Date: 2013-01-16 13:08+0000\n"
+"PO-Revision-Date: 2013-04-10 16:21+0000\n"
 "Last-Translator: Jiri Grönroos <Unknown>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
-"X-Generator: Launchpad (build 16532)\n"
+"X-Launchpad-Export-Date: 2013-04-12 12:31+0000\n"
+"X-Generator: Launchpad (build 16564)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -26,7 +26,7 @@ msgstr "Onneksi olkoon!"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
 msgid "You have chosen to install the latest version of Xubuntu, 13.04."
-msgstr ""
+msgstr "Olet päättänyt asentaa Xubuntun uusimman version, 13.04:n."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -39,15 +39,14 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
-#, fuzzy
 msgid ""
 "Since you are installing this software using the Xubuntu live installation, "
 "feel free to examine things as it installs. After the installation, the "
 "desktop will look much the same as it does now."
 msgstr ""
-"Koska olet asentamassa tätä Xubuntun Desktop-CD:ltä, olet vapaa tutkimaan "
-"asioita asennuksen aikana. Asennuksen jälkeen työpöytä näyttää suurimmilta "
-"osin samalta kuin nyt."
+"Kun kerta asennat Xubuntua live-asennusmedialta, tutki käyttöliittymää "
+"vapaasti asennuksen aikana. Työpöytä näyttää paljolti samalta asennuksen "
+"jälkeen."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_web.html:2
@@ -182,6 +181,10 @@ msgid ""
 "word processor, which can read almost all known document formats and "
 "<em>Gnumeric</em>, a spreadsheet program with an emphasis on accuracy."
 msgstr ""
+"Toimistotyötarpeita varten Xubuntussa on <em>Abiword</em>, kevyt "
+"tekstinkäsittelysovellus, jonka avulla voi avata melkeinpä minkä tahansa "
+"asiakirjan. Lisäksi asennukseen sisältyy <em>Gnumeric</em>, tarkkuuteen "
+"keskittynyt taulukkolaskentasovellus."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
@@ -189,6 +192,8 @@ msgid ""
 "LibreOffice is also available in the repositories, if you're more "
 "comfortable with it or need a full office suite."
 msgstr ""
+"LibreOffice on saatavilla myös ohjelmistolähteistä, jos pidät siitä enemmän "
+"tai tarvitset täysiverisen toimisto-ohjelmiston."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:11
@@ -204,7 +209,7 @@ msgstr "Abiword"
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Gnumeric"
-msgstr ""
+msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -329,3 +334,12 @@ msgstr ""
 "Lopuksi, löydä erilaisia tapoja avustaa Xubuntun kehitystyössä <a href="
 "\"http://xubuntu.org/devel\">Get Involved -sivulla</a> verkkosivustollamme. "
 "Tarvitsemme apuasi!"
+
+#~ msgid ""
+#~ "Since you are installing this software using the Xubuntu Desktop CD, feel "
+#~ "free to examine things as it installs. After the installation, the "
+#~ "desktop will look much the same as it does now."
+#~ msgstr ""
+#~ "Koska olet asentamassa tätä Xubuntun Desktop-CD:ltä, olet vapaa tutkimaan "
+#~ "asioita asennuksen aikana. Asennuksen jälkeen työpöytä näyttää "
+#~ "suurimmilta osin samalta kuin nyt."

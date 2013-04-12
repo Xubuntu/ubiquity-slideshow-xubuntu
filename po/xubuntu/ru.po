@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-03-20 17:52-0300\n"
-"PO-Revision-Date: 2012-09-27 07:32+0000\n"
-"Last-Translator: Eugene Marshal <Unknown>\n"
+"PO-Revision-Date: 2013-04-01 09:25+0000\n"
+"Last-Translator: Aleksey Kabanov <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
-"X-Generator: Launchpad (build 16532)\n"
+"X-Launchpad-Export-Date: 2013-04-12 12:31+0000\n"
+"X-Generator: Launchpad (build 16564)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,9 +25,8 @@ msgstr "Поздравляем!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-#, fuzzy
 msgid "You have chosen to install the latest version of Xubuntu, 13.04."
-msgstr "Вы решили установить последнюю версию Xubuntu, 12.10."
+msgstr "Вы выбрали установку самой новой версии Xubuntu, 13.04."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -40,15 +39,15 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
-#, fuzzy
 msgid ""
 "Since you are installing this software using the Xubuntu live installation, "
 "feel free to examine things as it installs. After the installation, the "
 "desktop will look much the same as it does now."
 msgstr ""
-"Не стесняйтесь изучать рабочую среду Xubuntu во время её установки с компакт-"
-"диска на ваш компьютер. После установки ваш рабочий стол будет выглядеть "
-"точно так же."
+"Так как вы устанавливаете это программное обеспечение с интерактивного "
+"носителя Xubuntu, у вас есть возможность ознакомиться с ним, пока оно "
+"устанавливается. После установки рабочий стол будет выглядеть так, как если "
+"бы вы не выполняли никаких действий."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_web.html:2
@@ -178,15 +177,15 @@ msgstr "В офисе"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
-#, fuzzy
 msgid ""
 "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
 "word processor, which can read almost all known document formats and "
 "<em>Gnumeric</em>, a spreadsheet program with an emphasis on accuracy."
 msgstr ""
-"Для решения офисных задач, Xubuntu предоставляет <em>Abiword</em>, "
-"производительный текстовый редактор, который умеет открывать почти все "
-"известные форматы документов."
+"Для ваших офисных нужд в Xubuntu имеется <em>Abiword</em> — нетребовательный "
+"к ресурсам текстовый процессор, который умеет читать почти все известные "
+"форматы документов, а также <em>Gnumeric</em> — программа для работы с "
+"электронными таблицами, делающая акцент на точности вычислений."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
@@ -211,7 +210,7 @@ msgstr "Abiword"
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Gnumeric"
-msgstr ""
+msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -336,8 +335,28 @@ msgstr ""
 "разделе <a href=\"http://xubuntu.org/devel\">Get Involved</a> нашего сайта."
 
 #~ msgid ""
+#~ "Since you are installing this software using the Xubuntu Desktop CD, feel "
+#~ "free to examine things as it installs. After the installation, the "
+#~ "desktop will look much the same as it does now."
+#~ msgstr ""
+#~ "Не стесняйтесь изучать рабочую среду Xubuntu во время её установки с "
+#~ "компакт-диска на ваш компьютер. После установки ваш рабочий стол будет "
+#~ "выглядеть точно так же."
+
+#~ msgid ""
 #~ "If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
 #~ "repositories."
 #~ msgstr ""
 #~ "Если вам нужен табличный редактор, установите из репозиториев "
 #~ "<em>Gnumeric</em>."
+
+#~ msgid ""
+#~ "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+#~ "word processor, which can read almost all known document formats."
+#~ msgstr ""
+#~ "Для решения офисных задач, Xubuntu предоставляет <em>Abiword</em>, "
+#~ "производительный текстовый редактор, который умеет открывать почти все "
+#~ "известные форматы документов."
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 12.10."
+#~ msgstr "Вы решили установить последнюю версию Xubuntu, 12.10."

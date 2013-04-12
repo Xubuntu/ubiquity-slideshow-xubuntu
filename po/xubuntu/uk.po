@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-03-20 17:52-0300\n"
-"PO-Revision-Date: 2012-09-26 16:02+0000\n"
+"PO-Revision-Date: 2013-03-21 17:39+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
-"X-Generator: Launchpad (build 16532)\n"
+"X-Launchpad-Export-Date: 2013-04-12 12:31+0000\n"
+"X-Generator: Launchpad (build 16564)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -26,9 +26,8 @@ msgstr "Вітаємо!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-#, fuzzy
 msgid "You have chosen to install the latest version of Xubuntu, 13.04."
-msgstr "Ви встановлюєте найсвіжішу версію Xubuntu, 12.10."
+msgstr "Ви встановлюєте найсвіжішу версію Xubuntu, 13.04."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -41,15 +40,15 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
-#, fuzzy
 msgid ""
 "Since you are installing this software using the Xubuntu live installation, "
 "feel free to examine things as it installs. After the installation, the "
 "desktop will look much the same as it does now."
 msgstr ""
-"Під час встановлення операційної системи з інсталяційного диска CD Xubuntu "
-"Desktop, почувайте себе вільно вивчаючи її. Після встановлення, стільниця "
-"буде виглядати так само, як і зараз."
+"Оскільки ви встановлюєте це програмне забезпечення за допомогою портативної "
+"версії Xubuntu, ви можете одразу ознайомитися з програмами, які "
+"встановлюються. Після встановлення системи стільниця виглядатиме так само, "
+"як вона виглядає зараз."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_web.html:2
@@ -181,15 +180,15 @@ msgstr "Офісні програми"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
-#, fuzzy
 msgid ""
 "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
 "word processor, which can read almost all known document formats and "
 "<em>Gnumeric</em>, a spreadsheet program with an emphasis on accuracy."
 msgstr ""
-"Для забезпечення ваших потреб у виконанні офісних завдань до складу Xubuntu "
-"включено <em>Abiword</em>, невибагливу програму для роботи з текстами, "
-"здатну читати документи у майже всіх поширених форматах."
+"Для виконання офісних завдань у Xubuntu передбачено <em>Abiword</em>, "
+"невибагливий текстовий процесор, програму, яка здатна читати документи у "
+"всіх відомих форматах. Також буде встановлено <em>Gnumeric</em>, програму "
+"для роботи з електронними таблицями з акцентом та точність."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
@@ -214,7 +213,7 @@ msgstr "Abiword"
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Gnumeric"
-msgstr ""
+msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -341,8 +340,28 @@ msgstr ""
 "ваша допомога!"
 
 #~ msgid ""
+#~ "Since you are installing this software using the Xubuntu Desktop CD, feel "
+#~ "free to examine things as it installs. After the installation, the "
+#~ "desktop will look much the same as it does now."
+#~ msgstr ""
+#~ "Під час встановлення операційної системи з інсталяційного диска CD "
+#~ "Xubuntu Desktop, почувайте себе вільно вивчаючи її. Після встановлення, "
+#~ "стільниця буде виглядати так само, як і зараз."
+
+#~ msgid ""
+#~ "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+#~ "word processor, which can read almost all known document formats."
+#~ msgstr ""
+#~ "Для забезпечення ваших потреб у виконанні офісних завдань до складу "
+#~ "Xubuntu включено <em>Abiword</em>, невибагливу програму для роботи з "
+#~ "текстами, здатну читати документи у майже всіх поширених форматах."
+
+#~ msgid ""
 #~ "If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
 #~ "repositories."
 #~ msgstr ""
 #~ "Якщо вам потрібно буде попрацювати з електронними таблицями, встановіть "
 #~ "<em>Gnumeric</em> зі сховищ дистрибутива."
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 12.10."
+#~ msgstr "Ви встановлюєте найсвіжішу версію Xubuntu, 12.10."

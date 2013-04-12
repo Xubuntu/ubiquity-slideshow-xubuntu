@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-03-20 17:52-0300\n"
-"PO-Revision-Date: 2013-01-18 16:34+0000\n"
+"PO-Revision-Date: 2013-03-22 20:51+0000\n"
 "Last-Translator: Anthony Harrington <untaintableangel@ubuntu.com>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
-"X-Generator: Launchpad (build 16532)\n"
+"X-Launchpad-Export-Date: 2013-04-12 12:31+0000\n"
+"X-Generator: Launchpad (build 16564)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,7 +25,6 @@ msgstr "Congratulations!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-#, fuzzy
 msgid "You have chosen to install the latest version of Xubuntu, 13.04."
 msgstr "You have chosen to install the latest version of Xubuntu, 13.04."
 
@@ -40,15 +39,14 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
-#, fuzzy
 msgid ""
 "Since you are installing this software using the Xubuntu live installation, "
 "feel free to examine things as it installs. After the installation, the "
 "desktop will look much the same as it does now."
 msgstr ""
-"Since you are installing this software using the Xubuntu Desktop CD, feel "
-"free to examine things as it installs. After the installation, the desktop "
-"will look much the same as it does now."
+"Since you are installing this software using the Xubuntu live installation, "
+"feel free to examine things as it installs. After the installation, the "
+"desktop will look much the same as it does now."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_web.html:2
@@ -179,14 +177,14 @@ msgstr "In the office"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
-#, fuzzy
 msgid ""
 "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
 "word processor, which can read almost all known document formats and "
 "<em>Gnumeric</em>, a spreadsheet program with an emphasis on accuracy."
 msgstr ""
 "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
-"word processor, which can read almost all known document formats."
+"word processor, which can read almost all known document formats and "
+"<em>Gnumeric</em>, a spreadsheet program with an emphasis on accuracy."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
@@ -211,7 +209,7 @@ msgstr "Abiword"
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Gnumeric"
-msgstr ""
+msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -336,8 +334,27 @@ msgstr ""
 "need your help!"
 
 #~ msgid ""
+#~ "Since you are installing this software using the Xubuntu Desktop CD, feel "
+#~ "free to examine things as it installs. After the installation, the "
+#~ "desktop will look much the same as it does now."
+#~ msgstr ""
+#~ "Since you are installing this software using the Xubuntu Desktop CD, feel "
+#~ "free to examine things as it installs. After the installation, the "
+#~ "desktop will look much the same as it does now."
+
+#~ msgid ""
 #~ "If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
 #~ "repositories."
 #~ msgstr ""
 #~ "If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
 #~ "repositories."
+
+#~ msgid ""
+#~ "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+#~ "word processor, which can read almost all known document formats."
+#~ msgstr ""
+#~ "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+#~ "word processor, which can read almost all known document formats."
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 12.10."
+#~ msgstr "You have chosen to install the latest version of Xubuntu, 13.04."

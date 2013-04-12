@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-03-20 17:52-0300\n"
-"PO-Revision-Date: 2013-03-05 23:58+0000\n"
+"PO-Revision-Date: 2013-03-25 23:33+0000\n"
 "Last-Translator: Саша Петровић <salepetronije@gmail.com>\n"
 "Language-Team: Ubuntu Serbian Translators\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
-"X-Generator: Launchpad (build 16532)\n"
+"X-Launchpad-Export-Date: 2013-04-12 12:31+0000\n"
+"X-Generator: Launchpad (build 16564)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,9 +25,9 @@ msgstr "Честитамо!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-#, fuzzy
 msgid "You have chosen to install the latest version of Xubuntu, 13.04."
-msgstr "Изабрали сте да инсталирате најновије издање Ксубунта, 12.10."
+msgstr ""
+"Изабрали сте да инсталирате најновије издање Ксубунта 13.04 (енг: Xubuntu)."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -40,15 +40,15 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
-#, fuzzy
 msgid ""
 "Since you are installing this software using the Xubuntu live installation, "
 "feel free to examine things as it installs. After the installation, the "
 "desktop will look much the same as it does now."
 msgstr ""
-"Док инсталирате овај софтвер користећи Хубунту десктоп ЦД, будите слободни "
-"да испитате ствари за време док се инсталирају. Након инсталације, радна "
-"површина ће изгледати исто као и сада."
+"Будући да инсталирате овај софтвер користећи живи инсталер Ксубунта, "
+"слободно можете проучити ствари у вези са њим док се врши инсталирање. По "
+"завршетку инсталације, радни простор ће изгледати скоро исто као што изгледа "
+"сада."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_web.html:2
@@ -104,7 +104,7 @@ msgstr "Интернет <span>»</span>"
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/01_web.html:11
 msgid "Firefox Web Browser"
-msgstr "Фајерфокс — веб претраживач"
+msgstr "Фајерфокс — веб прегледник"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/01_web.html:12
@@ -121,7 +121,7 @@ msgstr "Тренутне поруке"
 msgid ""
 "Xubuntu is shipping <em>Pidgin</em> as the default instant messaging client."
 msgstr ""
-"Хубунту испоручује <em>Пиџин</em> као основни програм тренутних порука."
+"Ксубунту испоручује <em>Пиџин</em> као основни програм тренутних порука."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:8
@@ -151,7 +151,7 @@ msgid ""
 "default media player in Xubuntu, can handle it!"
 msgstr ""
 "Било да је ваша збирка мала или велика, <em>гномов претраживач музике</em>, "
-"основни мултимедијални програм у Хубунтуу, може да је обради!"
+"основни мултимедијални програм у Ксубунтуу, може да је обради!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:8
@@ -159,7 +159,7 @@ msgid ""
 "In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
 "Shimmer theme."
 msgstr ""
-"У Хубунтуу, гномов претраживач музике долази са лепом и једноставном за "
+"У Ксубунтуу, гномов претраживач музике долази са лепом и једноставном за "
 "употребу Светлуцавом темом."
 
 #. type: Content of: <div><div><div><p>
@@ -170,7 +170,7 @@ msgstr "Мултимедија <span>»</span>"
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
 msgid "gmusicbrowser"
-msgstr "гномов претраживач музике"
+msgstr "Гномов претраживач музике"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_office.html:2
@@ -179,14 +179,15 @@ msgstr "У уреду"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
-#, fuzzy
 msgid ""
 "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
 "word processor, which can read almost all known document formats and "
 "<em>Gnumeric</em>, a spreadsheet program with an emphasis on accuracy."
 msgstr ""
-"За потребе уреда, Ксубунту долази са <em>Абивордом</em>, лаким обрађивачем "
-"текста, који може да чита скоро све познате облике докумената."
+"За потребе уређивања и обликовања докумената, Ксубунту је опремљен "
+"<em>Абивордом</em> (Abiword), лаганим обликовачем текста, који може да чита "
+"скоро све познате облике докумената, и <em>Гнумериком</em> (Gnumeric), "
+"програмом за табеларне прорачуне, чија је врлина прецизност."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
@@ -211,12 +212,12 @@ msgstr "Абиворд"
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Gnumeric"
-msgstr ""
+msgstr "Гнумерик"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
 msgid "The Xubuntu desktop"
-msgstr "Хубунту радна површ"
+msgstr "Ксубунту радна површ"
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:8
@@ -227,7 +228,7 @@ msgstr "1"
 #: slideshows/xubuntu/slides/05_desktop.html:9
 msgid ""
 "The application-menu gives you complete access to all your applications."
-msgstr "Изборник програма вам омогућава потпун приступ свим вашим програмима."
+msgstr "Изборник програма вам омогућава потпун приступ свим Вашим програмима."
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:12
@@ -240,8 +241,9 @@ msgid ""
 "The launcher panel gives you <em>quick access</em> to your most important "
 "applications. It is set to autohide by default to preserve screen estate."
 msgstr ""
-"Панел покретача вам обезбеђује <em>брзи приступ</em> вашим најважнијим "
-"програмима. Постављен је на аутоматско скривање да би сачувао стање екране."
+"Полица покретача вам обезбеђује <em>брзи приступ</em> вашим најважнијим "
+"програмима. Постављена је на самостално скривање да би сачувала простор на "
+"екрану."
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:16
@@ -252,12 +254,12 @@ msgstr "3"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:17
 msgid "Running applications are shown in the top panel."
-msgstr "Покренути програми се приказују у горњем панелу."
+msgstr "Покренути програми се приказују у горњој полици."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/06_explore.html:2
 msgid "Know your desktop"
-msgstr "Упознајте вашу радну површ"
+msgstr "Упознајте вашу радни простор"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:7
@@ -310,9 +312,9 @@ msgid ""
 "mailman/listinfo/xubuntu-users\">Xubuntu-users mailing list</a>."
 msgstr ""
 "Хвала вам што сте одвојили време за нас. Желели бисмо да чујемо о вашим "
-"искуствима са Хубунтуом. Можете да их размените на <a href=\"https://lists."
+"искуствима са Ксубунтуом. Можете да их размените на <a href=\"https://lists."
 "ubuntu.com/mailman/listinfo/xubuntu-users\">дописној листи корисника "
-"Хубунтуа</a>."
+"Ксубунтуа</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/07_thanks.html:8
@@ -332,9 +334,25 @@ msgid ""
 "\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
 "need your help!"
 msgstr ""
-"На крају, пронађите различите начине да допринесете Хубунтуу на нашој веб "
+"На крају, пронађите различите начине да допринесете Ксубунтуу на нашој веб "
 "страници одељак — <a href=\"http://xubuntu.org/devel\">Прикључите се</a>. "
 "Потребна нам је ваша помоћ!"
+
+#~ msgid ""
+#~ "Since you are installing this software using the Xubuntu Desktop CD, feel "
+#~ "free to examine things as it installs. After the installation, the "
+#~ "desktop will look much the same as it does now."
+#~ msgstr ""
+#~ "Док инсталирате овај софтвер користећи Хубунту десктоп ЦД, будите "
+#~ "слободни да испитате ствари за време док се инсталирају. Након "
+#~ "инсталације, радна површина ће изгледати исто као и сада."
+
+#~ msgid ""
+#~ "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+#~ "word processor, which can read almost all known document formats."
+#~ msgstr ""
+#~ "За потребе уреда, Ксубунту долази са <em>Абивордом</em>, лаким "
+#~ "обрађивачем текста, који може да чита скоро све познате облике докумената."
 
 #~ msgid ""
 #~ "If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
@@ -342,3 +360,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Ако Вам је потребан уређивач табела, уградите <em>Gnumeric</em>  из "
 #~ "складишта програма."
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 12.10."
+#~ msgstr "Изабрали сте да инсталирате најновије издање Ксубунта, 12.10."

@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-03-20 17:52-0300\n"
-"PO-Revision-Date: 2012-10-07 16:19+0000\n"
-"Last-Translator: OKANO Takayoshi <Unknown>\n"
+"PO-Revision-Date: 2013-03-26 15:44+0000\n"
+"Last-Translator: Shushi Kurose <md81bird@hitaki.net>\n"
 "Language-Team: Japanese <ja@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-03-20 21:57+0000\n"
-"X-Generator: Launchpad (build 16532)\n"
+"X-Launchpad-Export-Date: 2013-04-12 12:31+0000\n"
+"X-Generator: Launchpad (build 16564)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,9 +25,8 @@ msgstr "おめでとうございます!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-#, fuzzy
 msgid "You have chosen to install the latest version of Xubuntu, 13.04."
-msgstr "最新バージョンのXubuntu 12.10のインストールが選択されました。"
+msgstr "最新バージョンのXubuntu 13.04のインストールを選択されました。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -40,15 +39,14 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
-#, fuzzy
 msgid ""
 "Since you are installing this software using the Xubuntu live installation, "
 "feel free to examine things as it installs. After the installation, the "
 "desktop will look much the same as it does now."
 msgstr ""
-"Xubuntu デスクトップ CD を利用してこのソフトウェアをインストールしているの"
-"で、インストールの際に気軽に試してみてください。インストール後も、デスクトッ"
-"プは今と似たような外観になります。"
+"Xubuntu liveインストールを利用してこのソフトウェアをインストールしているた"
+"め、インストールしながら気軽に試してみてください。インストール後には、デスク"
+"トップは現在の状態とまったく同じ感じの見た目になります。"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_web.html:2
@@ -179,14 +177,14 @@ msgstr "オフィスにて"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:7
-#, fuzzy
 msgid ""
 "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
 "word processor, which can read almost all known document formats and "
 "<em>Gnumeric</em>, a spreadsheet program with an emphasis on accuracy."
 msgstr ""
-"オフィスの需要を満たすものとして、Xubuntuには軽量なワープロであり、ほとんどす"
-"べての有名なドキュメントフォーマットを読み込める<em>Abiword</em>があります。"
+"オフィス用途には、軽快なワードプロセッサーである<em>Abiword</em>があり、ほと"
+"んどすべての既知のドキュメントフォーマットを読み込めます。また、正確さに重点"
+"をおいたスプレッドシートプログラムである<em>Gnumeric</em>もあります。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
@@ -211,7 +209,7 @@ msgstr "Abiword"
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:12
 msgid "Gnumeric"
-msgstr ""
+msgstr "Gnumeric"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
@@ -338,8 +336,28 @@ msgstr ""
 "るのです！"
 
 #~ msgid ""
+#~ "Since you are installing this software using the Xubuntu Desktop CD, feel "
+#~ "free to examine things as it installs. After the installation, the "
+#~ "desktop will look much the same as it does now."
+#~ msgstr ""
+#~ "Xubuntu デスクトップ CD を利用してこのソフトウェアをインストールしているの"
+#~ "で、インストールの際に気軽に試してみてください。インストール後も、デスク"
+#~ "トップは今と似たような外観になります。"
+
+#~ msgid ""
 #~ "If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
 #~ "repositories."
 #~ msgstr ""
 #~ "表計算エディターが必要な場合は、リポジトリから<em>Gnumeric</em>をインス"
 #~ "トールしてください。"
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 12.10."
+#~ msgstr "最新バージョンのXubuntu 12.10のインストールが選択されました。"
+
+#~ msgid ""
+#~ "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
+#~ "word processor, which can read almost all known document formats."
+#~ msgstr ""
+#~ "オフィスの需要を満たすものとして、Xubuntuには軽量なワープロであり、ほとん"
+#~ "どすべての有名なドキュメントフォーマットを読み込める<em>Abiword</em>があり"
+#~ "ます。"

@@ -1,23 +1,22 @@
-# Latvian translation for ubiquity-slideshow-ubuntu-gnome
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu-gnome package.
+# Latvian translation for ubiquity-slideshow-ubuntu
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
 #
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-# Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu-gnome\n"
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-03-20 17:52-0300\n"
-"PO-Revision-Date: 2012-10-01 14:58+0000\n"
-"Last-Translator: Rūdolfs Mazurs <Unknown>\n"
+"PO-Revision-Date: 2013-03-28 23:08+0000\n"
+"Last-Translator: Mārtiņš Bruņenieks <Unknown>\n"
 "Language-Team: Latvian <lv@li.org>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2013-04-12 12:31+0000\n"
+"X-Generator: Launchpad (build 16564)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/00_welcome.html:1
@@ -29,11 +28,10 @@ msgstr ""
 #: slideshows/ubuntu-gnome/slides/06_messaging.html:1
 #: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
 msgid "Ubuntu GNOME 13.04"
-msgstr ""
+msgstr "Ubuntu GNOME 13.04"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
-#, fuzzy
 msgid ""
 "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
 "all your Ubuntu questions. There’s a good chance your question will have "
@@ -41,217 +39,8 @@ msgid ""
 "to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
 "support\">ubuntu.com/support</a>."
 msgstr ""
-"Apskati <a href=\"http://askubuntu.com/\">Ask Ubuntu</a> (angliski) — labākā "
-"vieta, kur saņemt atbildes par Ubuntu. Tur vairums jautājumu jau ir "
-"atbildēti, un tūkstošiem cilvēku, kas ir gatavi palīdzēt. Tavu problēmu "
-"atrisinās vienā mirklī. Ja atbildi jāsaņem noteiktā laikā, varat izmantot "
-"komerciālu atbalstu no <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"Apmeklējiet <a href=\"http://askubuntu.com/\">askubuntu.com</a>, ja jums ir "
+"jautājumi par Ubuntu. Vairumam jautājumu jau ir atbildes, un, ja jūsējais "
+"vēl nav atbildēts, tūkstošiem brīvprātīgo ir gatavi palīdzēt. Citas atbalsta "
+"iespējas atrodamas <a href=\"http://www.udebuntu.com/support\">ubuntu.com/"
 "support</a>."
-
-#~ msgid "Customize Ubuntu"
-#~ msgstr "Pielāgo Ubuntu"
-
-#~ msgid ""
-#~ "At the heart of Ubuntu’s philosophy is a belief that computing is for "
-#~ "everyone. With advanced accessibility tools and options like your "
-#~ "preferred color scheme, text size, and language, Ubuntu is for anyone. "
-#~ "Whoever you are, and wherever you are."
-#~ msgstr ""
-#~ "Ubuntu filozofijas pamatā ir uzskats, ka ikviens var lietot datoru. Ar "
-#~ "paplašinātiem pieejamības rīkiem un opcijām, piemēram, vēlamā krāsu "
-#~ "shēma, teksta izmērs un valoda, Ubuntu ir piemērots ikvienam."
-
-#~ msgid "Customization options"
-#~ msgstr "Pielāgošanas opcijas"
-
-#~ msgid "Appearance"
-#~ msgstr "Izskats"
-
-#~ msgid "Assistive technologies"
-#~ msgstr "Asistējošās tehnoloģijas"
-
-#~ msgid "Language support"
-#~ msgstr "Valodu atbalsts"
-
-#~ msgid "Included software"
-#~ msgstr "Iekļautā programmatūra"
-
-#~ msgid "Firefox web browser"
-#~ msgstr "Firefox tīmekļa pārlūks"
-
-#~ msgid "Supported software"
-#~ msgstr "Atbalstītā programmatūra"
-
-#~ msgid "Flash"
-#~ msgstr "Flash"
-
-#~ msgid "Chromium"
-#~ msgstr "Chromium"
-
-#~ msgid "Any questions?"
-#~ msgstr "Kādi jautājumi?"
-
-#~ msgid "Let’s talk Ubuntu"
-#~ msgstr "Runāsim par Ubuntu"
-
-#~ msgid "I'm installing #Ubuntu!"
-#~ msgstr "Es instalēju #Ubuntu!"
-
-#~ msgid "Your own personal cloud"
-#~ msgstr "Jūsu personīgais mākonis"
-
-#~ msgid "Take your music with you"
-#~ msgstr "Ņemiet līdzi savu mūziku"
-
-#~ msgid ""
-#~ "Ubuntu comes with the amazing Rhythmbox music player. With advanced "
-#~ "playback options and the Ubuntu One music store built in, it’s simple to "
-#~ "queue up the perfect songs. And it works great with CDs and portable "
-#~ "music players, so you can enjoy all your music wherever you go."
-#~ msgstr ""
-#~ "Ubuntu nāk komplektā ar lielisko Rhythmbox mūzikas atskaņotāju. Ar "
-#~ "jaudīgajām atskaņošanas opcijām un iebūvēto Ubuntu One mūzikas veikalu, "
-#~ "var viegli sagatavot perfektu dziesmu repertuāru. Un tas lieliski strādā "
-#~ "ar CD un pārnēsājamiem mūzikas atskaņotājiem, lai varētu izbaudīt mūziku, "
-#~ "lai kurp jūs dotos."
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Rhythmbox mūzikas atskaņotājs"
-
-#~ msgid "Ubuntu One Music Store"
-#~ msgstr "Ubuntu One mūzikas veikals"
-
-#~ msgid "Write and present for free"
-#~ msgstr "Rakstiet un prezentējiet par brīvu"
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you’ll need to "
-#~ "create impressive documents, spreadsheets, and presentations. LibreOffice "
-#~ "tries its best to work with other office software, and it uses the "
-#~ "OpenDocument standards for far-reaching compatibility."
-#~ msgstr ""
-#~ "LibreOffice ir brīva biroja programmatūras svīta, kurā ir viss, kas ir "
-#~ "nepieciešams, lai izveidotu izteiksmīgus dokumentus, izklājlapas un "
-#~ "prezentācijas. LibreOffice tiecas pēc vislabākās savietojamības ar citu "
-#~ "biroja programmatūru, un izmanto OpenDocument standartu, lai sasniegtu "
-#~ "visplašāko savietojamību."
-
-#~ msgid "LibreOffice Writer"
-#~ msgstr "LibreOffice Writer"
-
-#~ msgid "LibreOffice Calc"
-#~ msgstr "LibreOffice Calc"
-
-#~ msgid "LibreOffice Impress"
-#~ msgstr "LibreOffice Impress"
-
-#~ msgid "Have fun with your photos"
-#~ msgstr "Fotopriekam"
-
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it’s easy to share them "
-#~ "and keep them safe. If you’re feeling creative, you can try lots of photo "
-#~ "apps from the Ubuntu Software Center."
-#~ msgstr ""
-#~ "Shotwell ir parocīgs fotogrāfiju pārvaldnieks, kas ir gatavs jūsu "
-#~ "ierīcēm. Pievienojiet kameru vai tālruni un pārsūtiet savas fotogrāfijas, "
-#~ "tad ar tām var viegli dalīties un paturēt drošībā. Ja jums ir radošs "
-#~ "noskaņojums, varat izmēģināt vairākas fotogrāfiju lietotnes no Ubuntu "
-#~ "programmatūras centra."
-
-#~ msgid "Shotwell Photo Manager"
-#~ msgstr "Shotwell fotogrāfiju pārvaldnieks"
-
-#~ msgid "GIMP Image Editor"
-#~ msgstr "GIMP attēlu redaktors"
-
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "Pitivi video redaktors"
-
-#~ msgid "Stay connected"
-#~ msgstr "Uzturiet sakarus"
-
-#, fuzzy
-#~ msgid ""
-#~ "The messaging menu gives you an eagle-eye view of incoming messages from "
-#~ "all applications and social networks. So you can see straight away when "
-#~ "there’s something new to read, regardless of how it arrived."
-#~ msgstr ""
-#~ "Ubuntu ziņojumu indikators dod pārskatu pār ienākošajiem ziņojumiem no "
-#~ "visām lietotnēm un sociālajiem tīkliem. Uzreiz redziet, kad ir pieejams "
-#~ "kaut kas lasāms, lai no kurienes tas būtu pienācis."
-
-#~ msgid "Supported services"
-#~ msgstr "Atbalstītie servisi"
-
-#~ msgid "Twitter"
-#~ msgstr "Twitter"
-
-#~ msgid "Facebook"
-#~ msgstr "Facebook"
-
-#~ msgid "Identi.ca"
-#~ msgstr "Identi.ca"
-
-#~ msgid "Find even more software"
-#~ msgstr "Atrodiet vēl vairāk programmatūras"
-
-#~ msgid "Welcome to Ubuntu 12.10"
-#~ msgstr "Laipni lūdzam Ubuntu 12.10"
-
-#, fuzzy
-#~ msgid ""
-#~ "Fast and full of new features, the latest version of Ubuntu makes "
-#~ "computing easier than ever. Here are just a few cool new things to look "
-#~ "out for…"
-#~ msgstr ""
-#~ "Ātrs un iespēju pilns, ar Ubuntu lietot datoru ir prieks. Un ar jaunāko "
-#~ "Unity saskarni, tas ir vienkāršāks kā jebkad agrāk. Šeit ir vēl dažas "
-#~ "jaunas foršas lietas, kuras ir vērts aplūkot."
-
-#~ msgid "Browse the web"
-#~ msgstr "Pārlūkojiet tīmekli"
-
-#~ msgid ""
-#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
-#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
-#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
-#~ "Ubuntu Software Center."
-#~ msgstr ""
-#~ "Ubuntu iekļauj Mozilla Firefox ātrai un vienkāršai tīmekļa pārlūkošanai. "
-#~ "To ir vienkārši lietot un to atbalsta bezpeļņas fonds, kas mīl tīmekli. "
-#~ "Ja neesi Firefox fans, ir pieejami daudzi citi pārlūki Ubuntu "
-#~ "programmatūras centrā."
-
-#~ msgid ""
-#~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
-#~ "account gives you 5GB of cloud storage, so you can store and sync your "
-#~ "files and photos across devices and access them wherever you are in the "
-#~ "world. Easily share them with friends, family and colleagues. Take a "
-#~ "photo on your mobile phone and immediately see it on your desktop, or add "
-#~ "<a href=\"https://one.ubuntu.com/services/music/\">Music Streaming</a> "
-#~ "for mobile to enjoy your music on the move."
-#~ msgstr ""
-#~ "<a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> konts "
-#~ "dod jums 5GB vietas mākoņa krātuvē, ar ko var uzglabāt un sinhronizēt "
-#~ "datnes un fotogrāfijas starp dažādām ierīcēm un piekļūt tiem tiem no "
-#~ "jebkuras vietas pasaulē. Viegli dalieties ar tiem starp draugiem, ģimeni "
-#~ "un kolēģiem. Uzņemiet fotogrāfijas ar mobilo tālruni un uzreiz redziet "
-#~ "tās uz sava datora, vai pievienojiet <a href=\"https://one.ubuntu.com/"
-#~ "services/music/\">Mūzikas straumēšanu</a> mobilajiem tālruņiem un "
-#~ "izbaudiet savu mūziku ceļā."
-
-#~ msgid ""
-#~ "The Ubuntu Software Center has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is easy to download new stuff and write "
-#~ "reviews to share your experiences."
-#~ msgstr ""
-#~ "Ubuntu programmatūras centrā ir tūkstošiem jaunu lietotņu, kuras var "
-#~ "uzlikt uz jūsu datora. Vienkārši ierakstiet, ko vēlaties, vai pārlūkojiet "
-#~ "kategorijas, piemēram, spēles, zinātne un izglītība. Jaunu lietu "
-#~ "lejupielāde un recenziju rakstīšana ir vienkārša."
-
-#~ msgid "Welcome to Ubuntu 12.04 LTS"
-#~ msgstr "Laipni lūdzam Ubuntu 12.04 LTS"
