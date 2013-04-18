@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-03-20 17:47-0300\n"
-"PO-Revision-Date: 2013-01-04 21:51+0000\n"
-"Last-Translator: Wanderlust <wanderlust@ukr.net>\n"
+"POT-Creation-Date: 2013-04-15 12:17-0600\n"
+"PO-Revision-Date: 2013-04-12 18:51+0000\n"
+"Last-Translator: Pasha Sydoryshyn <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-04-12 12:31+0000\n"
-"X-Generator: Launchpad (build 16564)\n"
+"X-Launchpad-Export-Date: 2013-04-18 07:33+0000\n"
+"X-Generator: Launchpad (build 16567)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
 msgid "Access for everyone"
-msgstr ""
+msgstr "Доступ для всіх"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/accessibility.html:8
@@ -31,6 +31,11 @@ msgid ""
 "colour scheme and text size, Ubuntu makes computing easy – whoever and "
 "wherever you are."
 msgstr ""
+"В основі філософії Ubuntu є переконання, що користування комп'ютером має "
+"бути доступним для всіх. Завдяки розвиненим технологіям універсального "
+"доступу і параметрам для зміни мови, колірної схеми та розміру тексту, "
+"Ubuntu робить використання комп'ютера легким - ким би Ви не були і де б не "
+"знаходилися."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
@@ -55,7 +60,7 @@ msgstr "Мовна підтримка"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Максимально скористайтеся перевагами Інтернету"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
@@ -65,6 +70,11 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
+"Ubuntu включає у себе Firefox - браузер, який використовують мільйони людей "
+"у всьому світі. Також мережеві програми, які часто використовуються (такі "
+"як, наприклад Facebook або Gmail), можуть бути розміщені просто на вашій "
+"робочій стільниці для швидкого доступу, у вигляді додатку на вашому "
+"компьютері."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -141,6 +151,12 @@ msgid ""
 "your devices, the instant you take it. Ubuntu One runs on Ubuntu, Windows, "
 "Mac, Android, iOS and the web."
 msgstr ""
+"<a href=\"https://one.ubuntu.com/services/free/\">Ubuntu One</a> дає вам 5 "
+"Гб вільного мережевого простору для доступу до ваших файлів, поширюйте фото "
+"і <a href=\"https://one.ubuntu.com/services/music/\">заливайте музику</a> до "
+"ваших комп’ютерів, планшетів та смартфонів. Будь-яка фотографія, яку ви "
+"виберете, з'явиться на всіх ваших пристроях в ту ж мить. Ubuntu One "
+"запускається на Ubuntu, Windows, Mac, Android, iOS та в мережі."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -155,6 +171,11 @@ msgid ""
 "CDs and portable music players, so you can enjoy all your music wherever you "
 "go."
 msgstr ""
+"Ubuntu поставляється з чудовим музичним програвачем Rhythmbox. З його "
+"розвиненими можливостями, дуже просто створювати списки відтворення з "
+"улюблених композицій. І він чудово працює з компакт-дисками і портативними "
+"музичними плеєрами, так що ви зможете насолоджуватися музикою, де б ви не "
+"знаходилися."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:15
@@ -164,7 +185,7 @@ msgstr "Музичний програвач Rhythmbox"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
 msgid "Everything you need for the office"
-msgstr ""
+msgstr "Все що необхідно для офісу"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/office.html:8
@@ -173,6 +194,9 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"LibreOffice - це вільний пакет офісних додатків, який має все для створення "
+"документів, електронних таблиць і презентацій. Сумісність з форматами файлів "
+"Microsoft Office надає вам безкоштовно всі необхідні функції."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
@@ -223,69 +247,39 @@ msgid "Pitivi Video Editor"
 msgstr "Відеоредактор Pitivi"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu/slides/social.html:1
-msgid "Stay connected"
-msgstr "Залишайтесь на зв’язку"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/social.html:8
-msgid ""
-"The messaging menu gives you an eagle-eye view of incoming messages from all "
-"applications and social networks. So you can see straight away when there’s "
-"something new to read, regardless of how it arrived."
-msgstr ""
-"Меню повідомлень дозволяє Вам не вагатися на те, яким чином прибуло "
-"повідомлення та переглядати їх усі незалежно від джерела надходження."
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/social.html:12
-msgid "Supported services"
-msgstr "Сервіси, що підтримуються"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:16
-msgid "Twitter"
-msgstr "Twitter"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:20
-msgid "Facebook"
-msgstr "Facebook"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/social.html:24
-msgid "Identi.ca"
-msgstr "Identi.ca"
-
-#. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/ubuntuone.html:2
 msgid "One account to log in to everything on Ubuntu"
-msgstr ""
+msgstr "Один обліковий запис для входу на всі сервіси Ubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/ubuntuone.html:8
 msgid "<strong>Make the most of Ubuntu with Ubuntu One.</strong>"
-msgstr ""
+msgstr "<strong>Отримайте більше можливостей з Ubuntu One.</strong>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/ubuntuone.html:10
 msgid "Ubuntu One is the single account to log in to everything on Ubuntu."
 msgstr ""
+"Ubuntu One є єдиним обліковим записом, що дає змогу користуватися усіма "
+"сервісами Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/ubuntuone.html:17
 msgid "Get <strong>new apps</strong> from the Software Center"
 msgstr ""
+"Отримуйте <strong>нові програми</strong> за допомогою Центру програмного "
+"забезпечення"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/ubuntuone.html:21
 msgid "Listen to <strong>your music collection</strong> and buy tracks"
-msgstr ""
+msgstr "Слухайте <strong>свої музичні колекції</strong> та купуйте пісні"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/ubuntuone.html:25
 msgid "Access <strong>files and photos</strong> from all your devices"
 msgstr ""
+"Доступ до <strong>файлів та фотографій</strong> з усіх Ваших проистроїв"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
@@ -308,7 +302,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
 msgid "Welcome to Ubuntu 13.04"
-msgstr ""
+msgstr "Ласкаво просимо до Ubuntu 13.04"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
@@ -319,6 +313,29 @@ msgstr ""
 "Швидка і повна нових можливостей, найостанніша версія Ubuntu робить "
 "користування комп’ютером легше, ніж будь-коли. Тут є декілька нових речей, "
 "на які слід подивитися..."
+
+#~ msgid "Stay connected"
+#~ msgstr "Залишайтесь на зв’язку"
+
+#~ msgid ""
+#~ "The messaging menu gives you an eagle-eye view of incoming messages from "
+#~ "all applications and social networks. So you can see straight away when "
+#~ "there’s something new to read, regardless of how it arrived."
+#~ msgstr ""
+#~ "Меню повідомлень дозволяє Вам не вагатися на те, яким чином прибуло "
+#~ "повідомлення та переглядати їх усі незалежно від джерела надходження."
+
+#~ msgid "Supported services"
+#~ msgstr "Сервіси, що підтримуються"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Identi.ca"
+#~ msgstr "Identi.ca"
 
 #~ msgid "Ubuntu One Music Store"
 #~ msgstr "Музична крамниця Ubuntu One"
