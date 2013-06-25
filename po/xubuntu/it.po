@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-04-12 14:49+0300\n"
-"PO-Revision-Date: 2013-04-15 13:00+0000\n"
+"POT-Creation-Date: 2013-06-25 08:51-0600\n"
+"PO-Revision-Date: 2013-04-18 14:47+0000\n"
 "Last-Translator: Sergio Zanchetta <primes2h@ubuntu.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-04-18 07:34+0000\n"
-"X-Generator: Launchpad (build 16567)\n"
+"X-Launchpad-Export-Date: 2013-06-25 15:57+0000\n"
+"X-Generator: Launchpad (build 16681)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,7 +25,8 @@ msgstr "Complimenti!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 13.04."
+#, fuzzy
+msgid "You have chosen to install the latest version of Xubuntu, 13.10."
 msgstr "Stai per installare l'ultima versione di Xubuntu, 13.04."
 
 #. type: Content of: <div><div><p>
@@ -128,9 +129,9 @@ msgid ""
 "(Google Talk, Facebook). You can also update your Twitter account via third-"
 "party plugin."
 msgstr ""
-"È possibile collegarsi a diversi protocolli come AIM, ICQ, IRC, MSN e XMPP "
-"(Google Talk, Facebook) ed è anche possibile aggiornare il proprio account "
-"Twitter attraverso dei plugin di terze parti."
+"Puoi collegarti a diversi protocolli come AIM, ICQ, IRC, MSN e XMPP (Google "
+"Talk, Facebook) e puoi anche aggiornare il tuo account Twitter attraverso "
+"dei plugin di terze parti."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:11
@@ -194,8 +195,8 @@ msgid ""
 "LibreOffice is also available in the repositories, if you're more "
 "comfortable with it or need a full office suite."
 msgstr ""
-"Se hai la necessità di avere una suite completa di strumenti per l'ufficio, "
-"nei repository è disponibile anche LibreOffice."
+"Se hai bisogno di una suite completa di strumenti per l'ufficio, nei "
+"repository è disponibile anche LibreOffice."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:11
@@ -240,9 +241,9 @@ msgid ""
 "The launcher panel gives you <em>quick access</em> to your most important "
 "applications. It is set to autohide by default to preserve screen estate."
 msgstr ""
-"Il pannello avviatori fornisce un <em>rapido accesso</em> alle tue "
+"Il pannello avviatori consente un <em>rapido accesso</em> alle tue "
 "applicazioni più importanti. È impostato per essere nascosto automaticamente "
-"per preservare lo spazio sullo schermo."
+"al fine di preservare lo spazio sullo schermo."
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:16
@@ -322,9 +323,9 @@ msgid ""
 "\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
 "&prompt=1\">clicking here</a>."
 msgstr ""
-"Entra nel nostro canale IRC <em>#xubuntu</em> per un supporto online facendo "
-"<a href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
-"&prompt=1\">clic qui</a>."
+"Per ottenere assistenza online, entra nel nostro canale IRC <em>#xubuntu</"
+"em> facendo <a href=\"http://webchat.freenode.net/?"
+"channels=xubuntu&nick=xubuntu...&prompt=1\">clic qui</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/07_thanks.html:9
@@ -336,31 +337,3 @@ msgstr ""
 "Infine, scopri in quali modi diversi puoi contribuire a Xubuntu nella "
 "sezione <a href=\"http://xubuntu.org/devel\">Get Involved</a> del nostro "
 "sito web. Abbiamo bisogno del tuo aiuto!"
-
-#~ msgid ""
-#~ "Since you are installing this software using the Xubuntu Desktop CD, feel "
-#~ "free to examine things as it installs. After the installation, the "
-#~ "desktop will look much the same as it does now."
-#~ msgstr ""
-#~ "Dal momento che l'installazione in corso viene effettuata usando il CD "
-#~ "Desktop di Xubuntu, nell'attesa esamina pure il sistema. Dopo "
-#~ "l'installazione l'aspetto del desktop sarà più o meno lo stesso di quello "
-#~ "attuale."
-
-#~ msgid ""
-#~ "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
-#~ "word processor, which can read almost all known document formats."
-#~ msgstr ""
-#~ "Per il lavoro d'ufficio, Xubuntu viene fornito con <em>Abiword</em>, un "
-#~ "elaboratore di testi leggero, che supporta quasi tutti i formati di "
-#~ "documenti conosciuti."
-
-#~ msgid "You have chosen to install the latest version of Xubuntu, 12.10."
-#~ msgstr "Hai scelto di installare l'ultima versione di Xubuntu, 12.10."
-
-#~ msgid ""
-#~ "If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
-#~ "repositories."
-#~ msgstr ""
-#~ "Per lavorare con i fogli elettronici, installa <em>Gnumeric</em> dai "
-#~ "repository."

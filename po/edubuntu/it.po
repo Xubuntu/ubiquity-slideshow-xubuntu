@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-04-12 14:49+0300\n"
-"PO-Revision-Date: 2013-04-17 15:08+0000\n"
+"POT-Creation-Date: 2013-06-25 08:51-0600\n"
+"PO-Revision-Date: 2013-04-19 11:52+0000\n"
 "Last-Translator: Claudio Arseni <claudio.arseni@gmail.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-04-18 07:32+0000\n"
-"X-Generator: Launchpad (build 16567)\n"
+"X-Launchpad-Export-Date: 2013-06-25 15:57+0000\n"
+"X-Generator: Launchpad (build 16681)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -92,7 +92,7 @@ msgid ""
 "Linux containers capabilities."
 msgstr ""
 "<em>Arkose</em> è basata sul popolare progetto LXC, che fa uso di "
-"funzionalità avanzate dei Linux container."
+"funzionalità avanzate dei Linux Container."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
@@ -106,7 +106,7 @@ msgid ""
 "em>."
 msgstr ""
 "Con Edubuntu è presente l'ultima versione della potente <em>Calcolatrice "
-"GNOME</em>"
+"GNOME</em>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:7
@@ -114,6 +114,8 @@ msgid ""
 "It supports financial operations and up-to-date currency and unit "
 "conversions."
 msgstr ""
+"Supporta le operazioni finanziarie con valute sempre aggiornate e le "
+"conversioni delle unità di misura."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:8
@@ -264,7 +266,7 @@ msgstr "L'installazione terminerà a breve. Divertiti con Edubuntu."
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
 msgid "Menu Administration"
-msgstr "Amministrazione menù"
+msgstr "Amministrazione dei menù"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:6
@@ -371,6 +373,8 @@ msgid ""
 "Choose from a variety of fonts to get you kickstarted with desktop "
 "publishing tasks."
 msgstr ""
+"Scegli tra una grande varietà di tipi di carattere e inizia subito a "
+"svolgere le tue attività di publishing editoriale."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/fonts.html:8
@@ -548,7 +552,7 @@ msgstr "Disegna schemi e diagrammi."
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/ltsp.html:1
 msgid "Easy Diskless Setup"
-msgstr "Installazione semplice senza disco"
+msgstr "Installazioni senza disco"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:6
@@ -769,7 +773,8 @@ msgstr "Python 3.3 fornisce un potente linguaggio di programmazione e script."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/vym.html:1
-msgid "Organise Your Thoughs"
+#, fuzzy
+msgid "Organise Your Thoughts"
 msgstr "Organizza i tuoi pensieri"
 
 #. type: Content of: <div><div><ul><li>
@@ -798,7 +803,7 @@ msgstr "Benvenuti"
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:7
 msgid ""
-"Thank you for installing Edubuntu 13.04.  The Edubuntu project is a "
+"Thank you for installing Edubuntu 13.10.  The Edubuntu project is a "
 "community project that aims to provide a whole-school technological platform "
 "suitable for delivering education. We are coders, educators, parents and "
 "technologists who aim to make technology easier for all."
@@ -818,254 +823,3 @@ msgstr ""
 msgid "<b>Enjoy using Edubuntu and welcome to the Edubuntu family!</b>"
 msgstr ""
 "<b>Divertiti usando Edubuntu e benvenuto nella famiglia di Edubuntu!</b>"
-
-#~ msgid ""
-#~ "Mental Calculation: games based on arithmetical operations designed to "
-#~ "prove your mental calculation skills."
-#~ msgstr ""
-#~ "Calcolo mentale: giochi basati sulle operazioni aritmetiche creati per "
-#~ "mettere alla prova le tue abilità di calcolo mentale."
-
-#~ msgid "Accessibility in Edubuntu"
-#~ msgstr "Accessibilità in Edubuntu"
-
-#~ msgid ""
-#~ "It supports financial operations and up-to-date currency conversions."
-#~ msgstr ""
-#~ "Supporta operazioni finanziarie e conversioni monetarie con tassi "
-#~ "aggiornati."
-
-#~ msgid "Gnome Calculator"
-#~ msgstr "Calcolatrice Gnome"
-
-#~ msgid "Social from the start"
-#~ msgstr "Social from the start"
-
-#~ msgid "Gnome Nanny"
-#~ msgstr "Gnome Nanny"
-
-#~ msgid "Learning is fun with Tux4kids"
-#~ msgstr "L'apprendimento è divertente con Tux4kids"
-
-#~ msgid ""
-#~ "This release brings updates, bug fixes and new software. Please refer to "
-#~ "the release notes on our website for the most up to date information."
-#~ msgstr ""
-#~ "Questa versione porta con sé molte straordinarie innovazioni. Per "
-#~ "maggiori informazioni, fai riferimento alle note di rilascio presenti nel "
-#~ "nostro sito."
-
-#~ msgid "Edubuntu is designed to be easy. Feel free to explore!"
-#~ msgstr ""
-#~ "Edubuntu è progettato per essere facile e sicuro: non esitare a esplorare "
-#~ "il sistema!"
-
-#~ msgid "Getting more software"
-#~ msgstr "Installa altro software"
-
-#~ msgid "Getting Help with Edubuntu"
-#~ msgstr "Ottieni aiuto su Edubuntu"
-
-#~ msgid "Exercise your gray matter"
-#~ msgstr "Allena il tuo cervello"
-
-#~ msgid "<em>Geogebra</em> is a dynamic geometry system."
-#~ msgstr "<em>Geogebra</em> è un sistema di geometria dinamica."
-
-#~ msgid "Do constructions with points, vectors, segments, lines and more."
-#~ msgstr "Costruisci con punti, vettori, segmenti, linee e altro."
-
-#~ msgid "Modify functions dynamically and edit equations directly."
-#~ msgstr ""
-#~ "Modifica le funzioni dinamicamente e modifica le equazioni direttamente."
-
-#~ msgid "Talk to us on irc.freenode.net, channel #edubuntu"
-#~ msgstr "Parla con noi su irc.freenode.net, canale #edubuntu"
-
-#~ msgid "Memory Trainers: games designed to challenge your short term memory."
-#~ msgstr ""
-#~ "Allenatori della memoria: giochi creati per sfidare la tua memoria a "
-#~ "breve termine."
-
-#~ msgid ""
-#~ "Logic Puzzles: games designed to challenge your reasoning and thinking "
-#~ "skills."
-#~ msgstr ""
-#~ "Puzzle logici: giochi creati per mettere alla prova le tue abilità di "
-#~ "ragionamento e di pensiero."
-
-#~ msgid ""
-#~ "Supports many elementary calculus-based tools such as derivatives, "
-#~ "osculating circle and more."
-#~ msgstr ""
-#~ "Supporta molti strumenti basati su calcoli elemtari come derivazioni, "
-#~ "cerchi osculati e altro."
-
-#~ msgid ""
-#~ "Defend your cities in <em>Tux of Math Command</em>, an arcade game that "
-#~ "improves arithmetic skills ."
-#~ msgstr ""
-#~ "Difendi le tue città <em>Tux of Math Command</em>, un gioco che migliora "
-#~ "le abilità aritmetiche."
-
-#~ msgid ""
-#~ "If this is an alpha/beta candidate, please log this installation on <a "
-#~ "href=\"http://iso.qa.ubuntu.com/\">http://iso.wa.ubuntu.com</a>."
-#~ msgstr ""
-#~ "Se questa è una versione alpha/beta, per favore registra questa "
-#~ "installazione su <a href=\"http://iso.qa.ubuntu.com/\">http://iso.wa."
-#~ "ubuntu.com</a>."
-
-#~ msgid "Calibre e-book manager"
-#~ msgstr "Gestore di libri Calibre"
-
-#~ msgid "Edubuntu menu editor"
-#~ msgstr "Editor di menù Edubuntu"
-
-#~ msgid ""
-#~ "From the start, Edubuntu connects to online chat and broadcast services "
-#~ "including Facebook, Twitter, Windows Live and Google Talk."
-#~ msgstr ""
-#~ "Fin dall'inizio, Edubuntu è in grado di connettersi a chat e servizi "
-#~ "Internet inclusi Facebook, Twitter, Windows Live e Google Talk."
-
-#~ msgid "Play and learn"
-#~ msgstr "Gioca e impare"
-
-#~ msgid ""
-#~ "Limit the amount of time kids spend on the computer in any period using "
-#~ "the graphical schedule editor."
-#~ msgstr ""
-#~ "Limita il tempo che i bambini trascorrono al computer in qualsiasi "
-#~ "periodo usando l'editor grafico di pianificazione."
-
-#~ msgid ""
-#~ "Restrict access to undesirable web sites and download pre-defined access "
-#~ "rules."
-#~ msgstr ""
-#~ "Restringi l'aggesso ai siti Internet indesiderati e scarica regole di "
-#~ "accesso predefinite."
-
-#~ msgid "Easy terminal server setup"
-#~ msgstr "Installazione facile di un terminal server."
-
-#~ msgid "Sabayon user profile editor"
-#~ msgstr "Editor di profili Sabayon"
-
-#~ msgid "Drawing with Pencil"
-#~ msgstr "Disegna con Pencil"
-
-#~ msgid "Welcome and thank you"
-#~ msgstr "Benvenuti e grazie"
-
-#~ msgid "Testdrive in Software Center"
-#~ msgstr "Testdrive in Software Center"
-
-#~ msgid ""
-#~ "File bugs at <a href=\"http://bugs.launchpad.net\">http://bugs.launchpad."
-#~ "net</a>."
-#~ msgstr ""
-#~ "Riporta i bug su <a href=\"http://bugs.launchpad.net\">http://bugs."
-#~ "launchpad.net</a>."
-
-#~ msgid "This slide will be removed after the beta release."
-#~ msgstr "Questa slide verrà rimossa dopo il rilascio della versione beta."
-
-#~ msgid ""
-#~ "Most up to date news at <a href=\"http://edubuntu.org\">http://edubuntu."
-#~ "org</a>"
-#~ msgstr ""
-#~ "Notizie più aggiornate su <a href=\"http://edubuntu.org\">http://edubuntu."
-#~ "org</a>"
-
-#~ msgid ""
-#~ "Whether you're new to Edubuntu or a long-time user, we're sure there is "
-#~ "something you will enjoy. While Edubuntu is installed, this slideshow "
-#~ "will show you around."
-#~ msgstr ""
-#~ "Che tu sia tu un nuovo utente di Edubuntu o che tu lo stia usando da "
-#~ "molto tempo, siamo sicuri che c'è qualcosa che gradirai. Durante "
-#~ "l'installazione di Edibuntu, questa presentazione ti farà scoprire le "
-#~ "nuove caratteristiche."
-
-#~ msgid "LibreCAD computer aided drawing"
-#~ msgstr "Disegno assistito dal computer LibreCAD"
-
-#~ msgid ""
-#~ "Launch the Sabayon Profile Editor from the Administration menu, and "
-#~ "you'll be able to set up a desktop just the way you want it."
-#~ msgstr ""
-#~ "Con l'editor di profili Sabayon, accessibile dal menù Amministrazione, "
-#~ "sarai in grado di configurare semplicemente un desktop come tu lo vuoi."
-
-#~ msgid ""
-#~ "Easily apply custom desktops that have been created to users or groups."
-#~ msgstr "Usa facilmente desktop personalizzati creati da utenti o gruppi."
-
-#~ msgid "Lock down panels and user settings easily on public machines."
-#~ msgstr ""
-#~ "Blocca con semplicità i pannelli e le impostazioni utente nelle macchine "
-#~ "pubbliche."
-
-#~ msgid "Arkose application sandboxing"
-#~ msgstr "Arkose. Applicazione per desktop virtuali."
-
-#~ msgid "Pessulus Lockdown Editor"
-#~ msgstr "Editor di lockdown Pessulus"
-
-#~ msgid ""
-#~ "The <em>Pessulus Lockdown Editor</em> allows administrators to restrict "
-#~ "users from making certain changes to their profile."
-#~ msgstr ""
-#~ "L'<em>Editor di lockdown Pessulus</em> consente agli amministratori di "
-#~ "limitare alcune modifiche che gli utenti possono applicare ai propri "
-#~ "profili."
-
-#~ msgid "Geogebra dynamic mathematics"
-#~ msgstr "Matematica dinamica Geogebra"
-
-#~ msgid "<em>Gnome Nanny</em> provides parental control in Edubuntu."
-#~ msgstr ""
-#~ "<em>Gnome Nanny</em> è un programma fornito con Edubuntu per il controllo "
-#~ "parentale."
-
-#~ msgid ""
-#~ "The <em>Sabayon User Profile Editor</em> allows administrators to set up "
-#~ "highly customized desktops for users."
-#~ msgstr ""
-#~ "L'<em>Editor dei profili utente Sabayon</em> consente agli amministratori "
-#~ "di configurare completamente i desktop per gli utenti."
-
-#~ msgid "Launch browsers in fullscreen mode in kiosk environments."
-#~ msgstr "Lancia i browser a tutto schermo negli ambienti chiosco."
-
-#~ msgid ""
-#~ "Extend to large-scale deployments with LTSP-Cluster, a high availability "
-#~ "clustering suite available for Edubuntu."
-#~ msgstr ""
-#~ "Espandi su larga scala con LTSP-Cluster, una suite di raggruppamento ad "
-#~ "alta disponibilità pronta per Edubuntu."
-
-#~ msgid "Epoptes classroom control"
-#~ msgstr "Controllo classe Epoptes"
-
-#~ msgid "Thank you for choosing Edubuntu 12.10."
-#~ msgstr "Grazie per aver scelto Edubuntu 12.10."
-
-#~ msgid ""
-#~ "Python 2.7 and Python 3.2 provides increased performance and "
-#~ "functionality."
-#~ msgstr ""
-#~ "Python 2.7 e Python 3.2 forniscono prestazioni e funzionalità migliorate."
-
-#~ msgid "Xorg 1.13, Mesa and Compiz delivers excellent graphics support."
-#~ msgstr "Xorg 1.13, Mesa e Compiz offrono un eccellente supporto grafico."
-
-#~ msgid "Thank you for testing what will become Edubuntu 12.10."
-#~ msgstr ""
-#~ "Grazie per provare quella che diventerà la versione 12.10 di Edubuntu."
-
-#~ msgid "Linux 3.5 boosts performance and hardware support."
-#~ msgstr ""
-#~ "La versione 3.5 di Linux aumenta le prestazioni e supporta maggiori "
-#~ "periferiche."

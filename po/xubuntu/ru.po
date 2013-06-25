@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-04-12 14:49+0300\n"
-"PO-Revision-Date: 2013-04-01 09:25+0000\n"
-"Last-Translator: Aleksey Kabanov <Unknown>\n"
+"POT-Creation-Date: 2013-06-25 08:51-0600\n"
+"PO-Revision-Date: 2013-04-24 18:53+0000\n"
+"Last-Translator: Artem Vorotnikov <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-04-18 07:34+0000\n"
-"X-Generator: Launchpad (build 16567)\n"
+"X-Launchpad-Export-Date: 2013-06-25 15:57+0000\n"
+"X-Generator: Launchpad (build 16681)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,7 +25,8 @@ msgstr "Поздравляем!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 13.04."
+#, fuzzy
+msgid "You have chosen to install the latest version of Xubuntu, 13.10."
 msgstr "Вы выбрали установку самой новой версии Xubuntu, 13.04."
 
 #. type: Content of: <div><div><p>
@@ -34,8 +35,8 @@ msgid ""
 "This exciting piece of software is brought to you free of any fees, for your "
 "use and any others you want to share it with."
 msgstr ""
-"Этот захватывающий мир программного обеспечения даётся вам без какой-либо "
-"платы, для вас и всех, с кем вы бы хотели поделиться им."
+"Эта захватывающая система даётся Вам без какой-либо платы, для вас и всех, с "
+"кем вы бы хотели поделиться ей."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
@@ -46,8 +47,8 @@ msgid ""
 msgstr ""
 "Так как вы устанавливаете это программное обеспечение с интерактивного "
 "носителя Xubuntu, у вас есть возможность ознакомиться с ним, пока оно "
-"устанавливается. После установки рабочий стол будет выглядеть так, как если "
-"бы вы не выполняли никаких действий."
+"устанавливается. После установки рабочий стол будет выглядеть как когда вы "
+"только загрузились с этого носителя."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_web.html:2
@@ -130,9 +131,9 @@ msgid ""
 "(Google Talk, Facebook). You can also update your Twitter account via third-"
 "party plugin."
 msgstr ""
-"Вы можете общаться по разным протоколам связи, таким, как AIM, ICQ, IRC, MSN "
-"и XMPP (который используется Google Talk и Facebook). Вы также можете "
-"отправлять сообщения в свою учётную запись Twitter через стороннюю программу."
+"Можно общаться со своими друзьями в AIM, ICQ, IRC, MSN, XMPP (который "
+"используется Google Talk и Facebook) и прочих сетях. Также можно отправлять "
+"сообщения в свою учётную запись Twitter с помощью стороннего дополнения."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:11
@@ -150,8 +151,8 @@ msgid ""
 "Whether your collection is small or large, <em>gmusicbrowser</em>, the "
 "default media player in Xubuntu, can handle it!"
 msgstr ""
-"Будь ваша колллекция скромной или огромной, <em>gmusicbrowser</em>, "
-"стандартный медиа-плеер в Xubuntu, отлично с ней управится!"
+"Огромна личная коллекция музыки или скромна - <em>gmusicbrowser</em>, "
+"стандартный проигрыватель Xubuntu, отлично с ней управится!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:8
@@ -182,10 +183,10 @@ msgid ""
 "word processor, which can read almost all known document formats and "
 "<em>Gnumeric</em>, a spreadsheet program with an emphasis on accuracy."
 msgstr ""
-"Для ваших офисных нужд в Xubuntu имеется <em>Abiword</em> — нетребовательный "
-"к ресурсам текстовый процессор, который умеет читать почти все известные "
-"форматы документов, а также <em>Gnumeric</em> — программа для работы с "
-"электронными таблицами, делающая акцент на точности вычислений."
+"Для ваших офисных нужд в Xubuntu имеется <em>Abiword</em> — лёгкий текстовый "
+"процессор, который открывает практически все известные форматы документов, а "
+"также <em>Gnumeric</em> — программа для работы с электронными таблицами, "
+"делающая акцент на точности вычислений."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
@@ -193,7 +194,7 @@ msgid ""
 "LibreOffice is also available in the repositories, if you're more "
 "comfortable with it or need a full office suite."
 msgstr ""
-"LibreOffice также доступен в репозиториях, в случае, если у вас есть опыт "
+"Также в хранилище доступен LibreOffice, в случае, если у вас есть опыт "
 "работы с ним или вам необходим полноценный офисный пакет."
 
 #. type: Content of: <div><div><div><p>
@@ -226,7 +227,8 @@ msgstr "1"
 #: slideshows/xubuntu/slides/05_desktop.html:9
 msgid ""
 "The application-menu gives you complete access to all your applications."
-msgstr "Меню приложений предоставляет доступ ко всем вашим приложениям."
+msgstr ""
+"Меню приложений предоставляет доступ ко всем установленным приложениям."
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:12
@@ -264,8 +266,8 @@ msgid ""
 "For easy installation of new software, use the <em>Ubuntu Software Center</"
 "em>."
 msgstr ""
-"Используйте <em>Центр приложений Ubuntu</em> для простой установки нового "
-"программного обеспечения."
+"Используйте <em>Центр приложений Ubuntu</em> для лёгкой установки новых "
+"программ."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:8
@@ -273,7 +275,7 @@ msgid ""
 "If you need help, go to <em>Help</em> in the Applications menu or see <a "
 "href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
 msgstr ""
-"Если вам нужна помощь, обратитесь к <em>Справке</em> в меню приложений или "
+"Если Вам нужна помощь, обратитесь к <em>Справке</em> в меню приложений или "
 "зайдите в раздел <a href=\"http://xubuntu.org/help\">Справка и поддержка</a> "
 "на нашем сайте."
 
@@ -283,7 +285,7 @@ msgid ""
 "<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce on "
 "the <a href=\"http://xfce.org/\">Xfce website</a>."
 msgstr ""
-"<em>Xfce</em> — это окружение рабочего стола Xubuntu. Узнайте больше о Xfce "
+"<em>Xfce</em> — это окружение рабочего стола Xubuntu. Узнайте больше об Xfce "
 "на <a href=\"http://xfce.org/\">сайте Xfce</a>."
 
 #. type: Content of: <div><div><div><p>
@@ -308,7 +310,7 @@ msgid ""
 "with Xubuntu. You can share them on the <a href=\"https://lists.ubuntu.com/"
 "mailman/listinfo/xubuntu-users\">Xubuntu-users mailing list</a>."
 msgstr ""
-"Спасибо за то, что уделили нам время. Нам было бы приятно услышать о ваших "
+"Спасибо что уделили нам время. Нам будет приятно услышать о Ваших "
 "впечатлениях при работе с Xubuntu. Вы можете поделиться ими в <a href="
 "\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users\">Списке рассылки "
 "пользователей Xubuntu</a>."
@@ -333,30 +335,3 @@ msgid ""
 msgstr ""
 "Вы можете ознакомиться со способами внести свой вклад в развитие Xubuntu в "
 "разделе <a href=\"http://xubuntu.org/devel\">Get Involved</a> нашего сайта."
-
-#~ msgid ""
-#~ "Since you are installing this software using the Xubuntu Desktop CD, feel "
-#~ "free to examine things as it installs. After the installation, the "
-#~ "desktop will look much the same as it does now."
-#~ msgstr ""
-#~ "Не стесняйтесь изучать рабочую среду Xubuntu во время её установки с "
-#~ "компакт-диска на ваш компьютер. После установки ваш рабочий стол будет "
-#~ "выглядеть точно так же."
-
-#~ msgid ""
-#~ "If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
-#~ "repositories."
-#~ msgstr ""
-#~ "Если вам нужен табличный редактор, установите из репозиториев "
-#~ "<em>Gnumeric</em>."
-
-#~ msgid ""
-#~ "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
-#~ "word processor, which can read almost all known document formats."
-#~ msgstr ""
-#~ "Для решения офисных задач, Xubuntu предоставляет <em>Abiword</em>, "
-#~ "производительный текстовый редактор, который умеет открывать почти все "
-#~ "известные форматы документов."
-
-#~ msgid "You have chosen to install the latest version of Xubuntu, 12.10."
-#~ msgstr "Вы решили установить последнюю версию Xubuntu, 12.10."

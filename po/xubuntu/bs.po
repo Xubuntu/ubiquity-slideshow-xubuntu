@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-04-12 14:49+0300\n"
-"PO-Revision-Date: 2013-04-11 08:18+0000\n"
-"Last-Translator: Stefan Ivanović <Unknown>\n"
+"POT-Creation-Date: 2013-06-25 08:51-0600\n"
+"PO-Revision-Date: 2013-04-22 10:38+0000\n"
+"Last-Translator: Samir Ribić <Unknown>\n"
 "Language-Team: Bosnian <bs@li.org>\n"
 "Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-04-18 07:34+0000\n"
-"X-Generator: Launchpad (build 16567)\n"
+"X-Launchpad-Export-Date: 2013-06-25 15:57+0000\n"
+"X-Generator: Launchpad (build 16681)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,7 +25,8 @@ msgstr "Čestitamo!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 13.04."
+#, fuzzy
+msgid "You have chosen to install the latest version of Xubuntu, 13.10."
 msgstr "Izabrali ste da instalirate najnoviju inačicu Xubuntu-a, 13.04."
 
 #. type: Content of: <div><div><p>
@@ -44,6 +45,9 @@ msgid ""
 "feel free to examine things as it installs. After the installation, the "
 "desktop will look much the same as it does now."
 msgstr ""
+"Pošto instalirate ovaj softver koristeći Xubuntu živu instalaciju, "
+"isprobajte stvari tokom instalacije. Nakon instalacije, radna površina će "
+"izgledati otprilike ovako.."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_web.html:2
@@ -179,6 +183,9 @@ msgid ""
 "word processor, which can read almost all known document formats and "
 "<em>Gnumeric</em>, a spreadsheet program with an emphasis on accuracy."
 msgstr ""
+"Za potrebe preduzeća, Xubuntu dolazi s <em>Abiword</em>, laganim programom "
+"za obradu riječi a koji čit gotovo sve poznate formate i  <em>Gnumeric</em>, "
+"unakrsnom tabelom s težištem na tačnosti."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
@@ -328,29 +335,3 @@ msgstr ""
 "Na kraju, pronađite različite načine da doprinesete Xubuntuu na našoj web "
 "stranici odeljak — <a href=\"http://xubuntu.org/devel\">Priključite se</a>. "
 "Potrebna nam je vaša pomoć!"
-
-#~ msgid ""
-#~ "Since you are installing this software using the Xubuntu Desktop CD, feel "
-#~ "free to examine things as it installs. After the installation, the "
-#~ "desktop will look much the same as it does now."
-#~ msgstr ""
-#~ "Dok instalirate ovaj softver koristeći Xubuntu Desktop CD, slobodno "
-#~ "ispitajte stvari za vrijeme dok se instaliraju. Nakon instalacije, radna "
-#~ "površina će izgledati isto kao i sada."
-
-#~ msgid ""
-#~ "If you need a spreadsheet editor, install <em>Gnumeric</em> from the "
-#~ "repositories."
-#~ msgstr ""
-#~ "Ako vam, trebaju unakrsne tabele, instalirajte <em>Gnumeric</em> iz "
-#~ "repozitorija."
-
-#~ msgid ""
-#~ "For your office needs, Xubuntu comes with <em>Abiword</em>, a lightweight "
-#~ "word processor, which can read almost all known document formats."
-#~ msgstr ""
-#~ "Za kancelarijske potrebe, Xubuntu dolazi s <em>Abiword</em>, laganim "
-#~ "tekst procesorom koji čita sve formate dokumenta."
-
-#~ msgid "You have chosen to install the latest version of Xubuntu, 12.10."
-#~ msgstr "Odabrali ste da instalirate najnoviju verziju Xubuntu, 12.10."
