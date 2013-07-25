@@ -7,6 +7,10 @@ ubiquity-slideshow-ubuntu (71) saucy; urgency=low
   * Changed version of Ubuntu in each slideshow to 13.10.
   * Updated translations.
 
+  [ Aurélien Gâteau ]
+  * Get rid of the fixed background color in Kubuntu slideshow so
+    that the background texture of the installer shows through.
+
  -- Dylan McCall <dylanmccall@ubuntu.com>  Tue, 25 Jun 2013 09:06:58 -0700
 
 ubiquity-slideshow-ubuntu (70) raring; urgency=low
