@@ -22,19 +22,17 @@ ol, ul {
 	list-style:none;
 }
 
-
-
 html, body {
 	margin:0;
 	padding:0;
 	
 	background-color:#F7F6F6;
 	
-	font-family:'Ubuntu', 'UbuntuBeta', sans-serif;
-	font-size:12px;
+	font-family: 'Cantarell','Ubuntu', 'UbuntuBeta', sans-serif;
+	font-size:13px;
 	line-height:1.4em;
 	
-	color:#333333;
+	color:#000000;
 	
 	/* no reason to expose this extra stuff to the user */
 	-webkit-user-select:none;
@@ -47,14 +45,17 @@ html, body {
 Hyperlink-style text
 */
 a {
-	color:#f39534;
-	text-shadow:1px 1px 2px #311e0b;
+	color:#0087ED;
 	text-decoration:none;
 	display:inline;
 }
 
 .text a:hover {
 	text-decoration:underline;
+}
+
+strong {
+	font-weight: bolder;
 }
 
 #wrapper {
@@ -115,36 +116,34 @@ a {
 	   which isn't working with display:table */
 	top:0px;
 	width:100%;
-	height:70px;
-	background-color:#000000;
+	height:68px;
+	background-color:#2D3335;
 }
 
 .header > .slidetitle {
 	display:table-cell;
-	/*margin:10px 25px 10px 25px;*/
 	padding:0px 25px;
 	vertical-align:middle;
 	
-	font-size:20px; /* applies to all lines except first */
-	line-height:1em;
+	font-size:24px;
+	line-height:50px;
 	font-weight:normal;
-	color:#DEDEDE;
+	color:#F7F6F6;
 }
-.slidetitle:first-line {
-	font-size:36px; /* TODO: 24px? */
-	line-height:32px;
+.header > .slidetitle img {
+	display: block;
 }
 
 .main {
 	position:absolute;
 	top:70px; /* 68px + 2px margin */
-	bottom:0;
-	left:0;
-	right:0;
+	bottom:2px;
+	left:2px;
+	right:2px;
 	min-height:370px; /* 442px (from #slideshow) - 70px - 2px */
 	
 	/* move this to #slideshow if we don't want the background image to move with slides */
-	background: white url('background.png') 0 0 repeat-x;
+	background-image:url('background.png');
 }
 
 .main.wide {
@@ -173,6 +172,7 @@ Inner space is 224px wide.
 .text > div {
 	margin-bottom:8px;
 	padding:6px 12px;
+	background-color:#FCFCFC;
 }
 .text > div:last-child {
 	margin-bottom:0px;
@@ -189,12 +189,12 @@ Inner space is 224px wide.
 
 .main.wide > .text {
 	top:25px;
-	width:350px;
+	width:450px;
 }
 
 .main.wide > .text > div {
 	background:none;
-	font-size:16px;
+	font-size:20px;
 	line-height:1.2em;
 	color:#F7F6F6;
 	text-shadow:1px 1px 2px #333333;
@@ -220,25 +220,18 @@ Inner space is 224px wide.
 	vertical-align:middle;
 }
 
-/* Expects icon to be 512x512 px */
-.main > .icon {
-	position:absolute;
-	top:50px;
-	right:50px;
-	
-	z-index:2;
-}
-
-/* Expects screenshot to be 448x304 px */
+/* Expects screenshot to be 448x347 px */
 .main > .screenshot {
 	position:absolute;
-	top:30px;
-	right:125px;
+	top:25px;
+	right:-2px; /* offsets 2px margin of .main */
 	
 	z-index:2;
-
-	-webkit-border-radius: 3px;
-	border-radius: 3px;
+	
+	/* Screenshot shadow, not in use but might be useful in future releases*/
+	/* -webkit-box-shadow:#999999 0px 0px 5px;
+	-moz-box-shadow:#999999 0px 0px 5px;
+	box-shadow:#999999 0px 0px 5px; */
 }
 
 /* Expects screenshot to be 748x370 px */
@@ -246,109 +239,12 @@ Inner space is 224px wide.
 	top:0px;
 	right:0px;
 	width:100%;
+	height:auto;
 	-webkit-box-shadow:none;
 	-moz-box-shadow:none;
 	box-shadow:none;
 	
 	z-index:0;
-}
-
-.main.wide > .twitter-stream {
-	display:none; /* always revealed by javascript */
-	
-	position:absolute;
-	width:334px;
-	height:304px; /* 304 - 22 (for .twitter-stream-input) */
-	top:25px;
-	right:16px;
-	z-index:2;
-	
-	padding:0 6px;
-	
-	color:#eee;
-}
-
-.twitter-stream .twitter-stream-header {
-	display:block;
-	padding:6px 2px 0px 2px;
-}
-.twitter-stream .twitter-stream-header h2 {
-	display:inline;
-	color:#fff;
-	
-	font-size:16px;
-}
-.twitter-stream .twitter-stream-header img {
-	opacity:0.6;
-	float:right;
-	
-	margin-left:22px;
-	
-	-webkit-transition:opacity 150ms linear;
-}
-.twitter-stream .twitter-stream-header:hover img {
-	opacity:0.8;
-}
-
-.twitter-stream .twitter-stream-tweets {
-	overflow:hidden;
-	
-	height:100%;
-	
-	/* Warning: this is non-standard, only works in Webkit, could break at any time */
-	-webkit-mask-image:-webkit-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,0) 100%);
-}
-
-.twitter-stream .tweet {
-	padding:6px 2px;
-	border-bottom:1px dotted rgba(255, 255, 255, 0.2);
-}
-.tweet .tweet-avatar {
-	display:table-cell;
-	vertical-align:top;
-	padding:0 6px;
-}
-
-.tweet .tweet-author-details {
-	display:inline-block;
-}
-
-.tweet .tweet-author-name {
-	color:#fff;
-	font-weight:bold;
-}
-.tweet .tweet-author-id {
-	color:#bbb;
-	font-weight:normal;
-	margin-left:1em;
-	font-size:0.9em;
-}
-
-.tweet .tweet-text {
-	display:block;
-}
-
-.tweet .tweet-text a {
-	color:#bbb;
-}
-
-.twitter-stream input.twitter-stream-input {
-	width:100%;
-	
-	-webkit-box-sizing:border-box;
-	padding:4px 2px 4px 22px;
-	
-	background-color:rgba(0, 0, 0, 0);
-	border:none;
-	outline:none;
-	color:#fff;
-	
-	background-image:url('twitter-bird-16.png');
-	background-position:left center;
-	background-repeat:no-repeat;
-}
-.twitter-stream input.twitter-stream-input:focus {
-	background-color:rgba(0, 0, 0, 0.1);
 }
 
 /*
@@ -389,23 +285,6 @@ img {
 	padding-left:12px;
 }
 
-.rtl .main.wide > .twitter-stream {
-	right:auto;
-	left:16px;
-}
-
-.rtl .twitter-stream .twitter-stream-header img {
-	float:left;
-	margin-left:0;
-	margin-right:22px;
-}
-
-.rtl .twitter-stream input.twitter-stream-input {
-	padding:4px 22px 4px 2px;
-	background-position:right center;
-}
-
 .l10n-string {
 	display:none;
 }
-
