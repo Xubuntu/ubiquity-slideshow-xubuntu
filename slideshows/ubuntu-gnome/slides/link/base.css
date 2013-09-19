@@ -146,12 +146,20 @@ strong {
 	background-image:url('background.png');
 }
 
-.main.wide {
+.main.big {
 	top:68px;
 	left:0px;
 	right:0px;
 	bottom:0px;
 	background-image:none;
+}
+
+.main.wide{
+	top:68px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-image:url('background.png');
 }
 
 /*
@@ -187,17 +195,35 @@ Inner space is 224px wide.
 	border-bottom:#333333 dotted 1px;
 }
 
-.main.wide > .text {
+.main.big > .text {
 	top:25px;
-	width:450px;
+	width:470px;
 }
 
-.main.wide > .text > div {
+.main.big > .text > div {
 	background:none;
 	font-size:20px;
 	line-height:1.2em;
 	color:#F7F6F6;
 	text-shadow:1px 1px 2px #333333;
+}
+
+.main.wide > .text {
+	position:absolute;
+	z-index:10;
+	top:235px;
+	left:36px;
+	width:680px;
+	overflow:auto;
+}
+
+.main.wide > .text > div {
+	background:none;
+	font-size:inherit;
+	line-height:1.2em;
+	margin-bottom:8px;
+	padding:6px 12px;
+	background-color:#FCFCFC;
 }
 
 .featured ul {
