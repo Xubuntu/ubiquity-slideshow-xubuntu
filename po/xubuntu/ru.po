@@ -7,27 +7,26 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-06-25 08:51-0600\n"
-"PO-Revision-Date: 2013-04-24 18:53+0000\n"
-"Last-Translator: Artem Vorotnikov <Unknown>\n"
+"POT-Creation-Date: 2013-09-19 11:56-0300\n"
+"PO-Revision-Date: 2013-10-08 19:38+0000\n"
+"Last-Translator: Aleksey Kabanov <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-06-25 15:57+0000\n"
-"X-Generator: Launchpad (build 16681)\n"
+"X-Launchpad-Export-Date: 2013-10-11 21:29+0000\n"
+"X-Generator: Launchpad (build 16799)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
-msgid "Congratulations!"
-msgstr "Поздравляем!"
+msgid "Welcome to Xubuntu"
+msgstr "Добро пожаловать в Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-#, fuzzy
-msgid "You have chosen to install the latest version of Xubuntu, 13.10."
-msgstr "Вы выбрали установку самой новой версии Xubuntu, 13.04."
+msgid "Congratulations! You have chosen to install Xubuntu 13.10."
+msgstr "Поздравляем! Вы выбрали установку Xubuntu 13.10."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -51,63 +50,56 @@ msgstr ""
 "только загрузились с этого носителя."
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/01_web.html:2
-msgid "Your web experience"
-msgstr "Работа в Интернете"
+#: slideshows/xubuntu/slides/01_internet.html:2
+msgid "Your internet experience"
+msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:7
+#: slideshows/xubuntu/slides/01_internet.html:7
 msgid ""
-"<em>Firefox</em> and <em>Thunderbird</em> are everything you need from web "
-"applications."
+"<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
+"internet applications: high performance, easy customization and advanced "
+"security."
 msgstr ""
-"<em>Firefox</em> и <em>Thunderbird</em> - это всё, что вам нужно от Интернет-"
-"приложений."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:8
-msgid ""
-"They offer you the web the way you like it: high performance, easy "
-"customization and advanced security."
-msgstr ""
-"С их помощью Интернет будет таким, каким он вам нравится — быстрым, легко "
-"настраиваемым и безопасным."
+"<em>Firefox</em> и <em>Thunderbird</em> удовлетворяют всем требованиям к "
+"приложениям для работы в Интернете: высокая производительность, простая "
+"настройка и усиленная безопасность."
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/01_web.html:10
+#: slideshows/xubuntu/slides/01_internet.html:9
 #: slideshows/xubuntu/slides/02_messaging.html:10
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:10
 #: slideshows/xubuntu/slides/04_office.html:10
-#: slideshows/xubuntu/slides/06_explore.html:11
+#: slideshows/xubuntu/slides/06_explore.html:10
 msgid "Where?"
 msgstr "Где?"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:11
-#: slideshows/xubuntu/slides/01_web.html:12
+#: slideshows/xubuntu/slides/01_internet.html:10
+#: slideshows/xubuntu/slides/01_internet.html:11
 #: slideshows/xubuntu/slides/02_messaging.html:11
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
 #: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
+#: slideshows/xubuntu/slides/06_explore.html:11
 #: slideshows/xubuntu/slides/06_explore.html:12
-#: slideshows/xubuntu/slides/06_explore.html:13
 msgid "<span>»</span>"
 msgstr "<span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:11
-#: slideshows/xubuntu/slides/01_web.html:12
+#: slideshows/xubuntu/slides/01_internet.html:10
+#: slideshows/xubuntu/slides/01_internet.html:11
 #: slideshows/xubuntu/slides/02_messaging.html:11
 msgid "Internet <span>»</span>"
 msgstr "Интернет <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:11
+#: slideshows/xubuntu/slides/01_internet.html:10
 msgid "Firefox Web Browser"
 msgstr "Веб-браузер Firefox"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:12
+#: slideshows/xubuntu/slides/01_internet.html:11
 msgid "Thunderbird Mail/News"
 msgstr "Почтовый клиент Thunderbird"
 
@@ -118,22 +110,19 @@ msgstr "Обмен мгновенными сообщениями"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:7
-msgid ""
-"Xubuntu is shipping <em>Pidgin</em> as the default instant messaging client."
+msgid "Xubuntu ships <em>Pidgin</em> as the default instant messaging client."
 msgstr ""
-"Xubuntu по умолчанию использует <em>Pidgin</em> в качестве приложения для "
-"обмена мгновенным сообщениями."
+"Xubuntu предлагает <em>Pidgin</em> в качестве стандартного клиента сетей "
+"мгновенных сообщений."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:8
 msgid ""
-"You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
-"(Google Talk, Facebook). You can also update your Twitter account via third-"
-"party plugin."
+"With Pidgin, you can connect to various protocols such as AIM, ICQ, IRC, MSN "
+"and XMPP (Google Talk, Facebook)."
 msgstr ""
-"Можно общаться со своими друзьями в AIM, ICQ, IRC, MSN, XMPP (который "
-"используется Google Talk и Facebook) и прочих сетях. Также можно отправлять "
-"сообщения в свою учётную запись Twitter с помощью стороннего дополнения."
+"С помощью Pidgin можно подключаться к различным протоколам, таким как AIM, "
+"ICQ, IRC, MSN и XMPP (Google Talk, Facebook)."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:11
@@ -157,9 +146,11 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:8
 msgid ""
-"In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
-"Shimmer theme."
-msgstr "Gmusicbrowser в Xubuntu использует удобную и приятную тему Shimmer."
+"In Xubuntu, <em>gmusicbrowser</em> comes with the good-looking and easy-to-"
+"use Shimmer theme."
+msgstr ""
+"В Xubuntu <em>gmusicbrowser</em> поставляется с красивой и простой в "
+"использовании темой Shimmer."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
@@ -191,11 +182,11 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
 msgid ""
-"LibreOffice is also available in the repositories, if you're more "
+"<em>LibreOffice</em> is also available for installation if you're more "
 "comfortable with it or need a full office suite."
 msgstr ""
-"Также в хранилище доступен LibreOffice, в случае, если у вас есть опыт "
-"работы с ним или вам необходим полноценный офисный пакет."
+"<em>LibreOffice</em> также доступен для установки, если вы предпочитаете "
+"полнофункциональный офисный пакет."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:11
@@ -226,9 +217,9 @@ msgstr "1"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:9
 msgid ""
-"The application-menu gives you complete access to all your applications."
+"The Applications menu gives you complete access to all your applications."
 msgstr ""
-"Меню приложений предоставляет доступ ко всем установленным приложениям."
+"Меню «Приложения» обеспечивает полный доступ ко всем вашим приложениям."
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:12
@@ -238,18 +229,18 @@ msgstr "2"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:13
 msgid ""
-"The launcher panel gives you <em>quick access</em> to your most important "
-"applications. It is set to autohide by default to preserve screen estate."
+"The launcher panel gives you quick access to your most important "
+"applications. It is set to autohide by default to preserve screen space."
 msgstr ""
-"Панель запуска обеспечивает <em>быстрый доступ</em> к самым важным "
-"приложениям. Она автоматически скрывается, чтобы не занимать места на экране."
+"Панель запуска предоставляет быстрый доступ к вашим самым важным "
+"приложениям. По умолчанию она автоматически скрывается, чтобы не занимать "
+"место на экране."
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:16
 msgid "3"
 msgstr "3"
 
-#. Open windows of r 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:17
 msgid "Running applications are shown in the top panel."
@@ -272,29 +263,21 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:8
 msgid ""
-"If you need help, go to <em>Help</em> in the Applications menu or see <a "
-"href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
+"To learn more about the Xubuntu desktop, including various help topics, "
+"navigate to <em>Help</em> in the Applications menu or see <a href=\"http://"
+"xubuntu.org/help\">Help & Support</a> on our website."
 msgstr ""
-"Если Вам нужна помощь, обратитесь к <em>Справке</em> в меню приложений или "
-"зайдите в раздел <a href=\"http://xubuntu.org/help\">Справка и поддержка</a> "
-"на нашем сайте."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_explore.html:9
-msgid ""
-"<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce on "
-"the <a href=\"http://xfce.org/\">Xfce website</a>."
-msgstr ""
-"<em>Xfce</em> — это окружение рабочего стола Xubuntu. Узнайте больше об Xfce "
-"на <a href=\"http://xfce.org/\">сайте Xfce</a>."
+"Дальнейшую информацию о Xubuntu вы можете найти в разделе <em>Справка</em> в "
+"меню Приложений или в разделе <a href=\"http://xubuntu.org/help\">Справка и "
+"Поддержка</a> нашего веб-сайта."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_explore.html:12
+#: slideshows/xubuntu/slides/06_explore.html:11
 msgid "Software Center"
 msgstr "Центр приложений"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_explore.html:13
+#: slideshows/xubuntu/slides/06_explore.html:12
 msgid "Help"
 msgstr "Справка"
 
@@ -330,8 +313,98 @@ msgstr ""
 #: slideshows/xubuntu/slides/07_thanks.html:9
 msgid ""
 "Finally, find different ways to contribute to Xubuntu on the <a href="
-"\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
+"\"http://xubuntu.org/devel\">Get Involved</a> section of our website. We "
 "need your help!"
 msgstr ""
-"Вы можете ознакомиться со способами внести свой вклад в развитие Xubuntu в "
-"разделе <a href=\"http://xubuntu.org/devel\">Get Involved</a> нашего сайта."
+"И, наконец, найдите различные способы внести свой вклад в Xubuntu в разделе "
+"<a href=\"http://xubuntu.org/devel\">Get Involved</a> нашего веб-сайта. Нам "
+"нужна ваша помощь!"
+
+#~ msgid "Congratulations!"
+#~ msgstr "Поздравляем!"
+
+#~ msgid ""
+#~ "Xubuntu is shipping <em>Pidgin</em> as the default instant messaging "
+#~ "client."
+#~ msgstr ""
+#~ "Xubuntu по умолчанию использует <em>Pidgin</em> в качестве приложения для "
+#~ "обмена мгновенным сообщениями."
+
+#~ msgid ""
+#~ "They offer you the web the way you like it: high performance, easy "
+#~ "customization and advanced security."
+#~ msgstr ""
+#~ "С их помощью Интернет будет таким, каким он вам нравится — быстрым, легко "
+#~ "настраиваемым и безопасным."
+
+#~ msgid ""
+#~ "The launcher panel gives you <em>quick access</em> to your most important "
+#~ "applications. It is set to autohide by default to preserve screen estate."
+#~ msgstr ""
+#~ "Панель запуска обеспечивает <em>быстрый доступ</em> к самым важным "
+#~ "приложениям. Она автоматически скрывается, чтобы не занимать места на "
+#~ "экране."
+
+#~ msgid ""
+#~ "Finally, find different ways to contribute to Xubuntu on the <a href="
+#~ "\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
+#~ "need your help!"
+#~ msgstr ""
+#~ "Вы можете ознакомиться со способами внести свой вклад в развитие Xubuntu "
+#~ "в разделе <a href=\"http://xubuntu.org/devel\">Get Involved</a> нашего "
+#~ "сайта."
+
+#~ msgid ""
+#~ "In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
+#~ "Shimmer theme."
+#~ msgstr "Gmusicbrowser в Xubuntu использует удобную и приятную тему Shimmer."
+
+#~ msgid "Your web experience"
+#~ msgstr "Работа в Интернете"
+
+#~ msgid ""
+#~ "<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
+#~ "web applications."
+#~ msgstr ""
+#~ "<em>Firefox</em> и <em>Thunderbird</em> - это всё, что вам нужно от "
+#~ "Интернет-приложений."
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 13.04."
+#~ msgstr "Вы выбрали установку самой новой версии Xubuntu, 13.04."
+
+#~ msgid ""
+#~ "You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
+#~ "(Google Talk, Facebook). You can also update your Twitter account via "
+#~ "third-party plugin."
+#~ msgstr ""
+#~ "Можно общаться со своими друзьями в AIM, ICQ, IRC, MSN, XMPP (который "
+#~ "используется Google Talk и Facebook) и прочих сетях. Также можно "
+#~ "отправлять сообщения в свою учётную запись Twitter с помощью стороннего "
+#~ "дополнения."
+
+#~ msgid ""
+#~ "LibreOffice is also available in the repositories, if you're more "
+#~ "comfortable with it or need a full office suite."
+#~ msgstr ""
+#~ "Также в хранилище доступен LibreOffice, в случае, если у вас есть опыт "
+#~ "работы с ним или вам необходим полноценный офисный пакет."
+
+#~ msgid ""
+#~ "The application-menu gives you complete access to all your applications."
+#~ msgstr ""
+#~ "Меню приложений предоставляет доступ ко всем установленным приложениям."
+
+#~ msgid ""
+#~ "<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce "
+#~ "on the <a href=\"http://xfce.org/\">Xfce website</a>."
+#~ msgstr ""
+#~ "<em>Xfce</em> — это окружение рабочего стола Xubuntu. Узнайте больше об "
+#~ "Xfce на <a href=\"http://xfce.org/\">сайте Xfce</a>."
+
+#~ msgid ""
+#~ "If you need help, go to <em>Help</em> in the Applications menu or see <a "
+#~ "href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
+#~ msgstr ""
+#~ "Если Вам нужна помощь, обратитесь к <em>Справке</em> в меню приложений "
+#~ "или зайдите в раздел <a href=\"http://xubuntu.org/help\">Справка и "
+#~ "поддержка</a> на нашем сайте."

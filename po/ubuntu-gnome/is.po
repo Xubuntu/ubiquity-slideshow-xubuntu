@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu-gnome\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-06-25 08:51-0600\n"
+"POT-Creation-Date: 2013-09-19 11:57-0300\n"
 "PO-Revision-Date: 2012-08-16 14:17+0000\n"
 "Last-Translator: Árni Gunnarsson <Unknown>\n"
 "Language-Team: Icelandic <is@li.org>\n"
@@ -19,73 +19,327 @@ msgstr ""
 "X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu-gnome/slides/00_welcome.html:1
-#: slideshows/ubuntu-gnome/slides/01_overview.html:1
-#: slideshows/ubuntu-gnome/slides/02_everything.html:1
-#: slideshows/ubuntu-gnome/slides/03_beautiful.html:1
-#: slideshows/ubuntu-gnome/slides/04_web.html:1
-#: slideshows/ubuntu-gnome/slides/05_documents.html:1
-#: slideshows/ubuntu-gnome/slides/06_messaging.html:1
-#: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
-msgid "Ubuntu GNOME 13.10"
+#: slideshows/ubuntu-gnome/slides/accessibility.html:2
+msgid "Access for everyone"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
+#: slideshows/ubuntu-gnome/slides/accessibility.html:10
 #, fuzzy
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"At the heart of the Ubuntu GNOME philosophy is the belief that computing is "
+"for everyone. With advanced accessibility tools and options to change "
+"language, color scheme and text size, Ubuntu GNOME makes computing easy – "
+"whoever and wherever you are."
 msgstr ""
-"Skoðið <a href=\"http://askubuntu.com/\">Spurðu Ubuntu</a>, besta staðinn "
-"til að fá svör um Ubuntu. Þar sem að flestum spurningum er nú þegar svarað "
-"og þúsundir manna tilbúnir til að hjálpa og þá munt þú fá hjálp á "
-"leifturhraða. Og ef þú þarft svar innan ákveðins tíma þá getur þú fengið "
-"ráðgjöf atvinnumanna og meira hjá <a href=\"http://www.ubuntu.com/support"
-"\">ubuntu.com/support</a>."
+"Kjarni heimspeki Ubuntu er sú trú að tölvunotkun sé fyrir alla. Með "
+"fullkomnum aðgengistólum og stillingum á litaþema, textastærð og tungumáli "
+"er Ubuntu fyrir alla. Hver sem þú ert og hvar sem þú ert."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu-gnome/slides/accessibility.html:14
+msgid "Customization options"
+msgstr "Sérsniðsmöguleikar"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/accessibility.html:18
+msgid "Assistive technologies"
+msgstr "Hjálpartækni"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/accessibility.html:22
+msgid "Language support"
+msgstr "Tungumála stuðningur"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/browse.html:2
+msgid "Make the most of the web"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/browse.html:10
+msgid ""
+"Ubuntu GNOME has everything you need to browse the web. Firefox offers "
+"powerful personalization, support for cutting-edge web standards, carefully "
+"optimized performance, and advanced security while still remaining easy to "
+"use."
+msgstr ""
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu-gnome/slides/browse.html:14
+#: slideshows/ubuntu-gnome/slides/media.html:15
+#: slideshows/ubuntu-gnome/slides/office.html:14
+#: slideshows/ubuntu-gnome/slides/photos.html:14
+msgid "Included software"
+msgstr "Innifalinn hugbúnaður"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/browse.html:18
+#, fuzzy
+msgid "Firefox Web Browser"
+msgstr "Firefox vafri"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu-gnome/slides/browse.html:21
+#: slideshows/ubuntu-gnome/slides/media.html:26
+#: slideshows/ubuntu-gnome/slides/photos.html:21
+msgid "Supported software"
+msgstr "Studdur hugbúnaður"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/browse.html:25
+msgid "Flash"
+msgstr "Flash"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/browse.html:29
+msgid "Chromium"
+msgstr "Chromium"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/desktop.html:2
+msgid "Simple and easy to use"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:10
+msgid ""
+"<strong>The Activities Overview is an easy way to access all your basic "
+"tasks. </strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:11
+msgid ""
+"Having everything in one place is convenient and means that you don't have "
+"to learn your way around a maze of different technologies."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:18
+msgid "Launch and manage <strong>your apps</strong> from the Dash"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:22
+msgid "Check <strong>your notifications</strong> easily"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:26
+msgid "Enhance your workflow with <strong>dynamic workspaces</strong>"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:2
+#, fuzzy
+msgid "Help and support"
+msgstr "Tungumála stuðningur"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:10
+msgid "Thank you for choosing and installing Ubuntu GNOME."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:11
+msgid ""
+"Learn more about Ubuntu GNOME from <a href=\"https://wiki.ubuntu.com/"
+"UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:12
+msgid ""
+"For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
+"ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:13
+msgid "Enjoy and have fun!"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/goa.html:2
+#, fuzzy
+msgid "Easily access your personal cloud"
+msgstr "Þitt eigið persónulega ský"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/goa.html:10
+msgid ""
+"Ubuntu GNOME will seamlessly integrate with your online accounts, so that "
+"all your data can be accessed from the same place. This takes the work out "
+"of using online accounts and makes it easy to find things when you need them."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/goa.html:17
+msgid "Access <strong>your online documents</strong> natively"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/goa.html:21
+msgid "Manage <strong>your address book</strong> easily"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/goa.html:25
+msgid "Chat with <strong>your friends</strong> from Facebook, Google, etc."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/media.html:2
+msgid "Enjoy your music and videos"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/media.html:10
+msgid ""
+"Rhythmbox lets you organize your music and listen to Internet radio, "
+"podcasts, and more."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/media.html:11
+msgid ""
+"GNOME Videos allows you to easily watch videos from your computer, DVD, or "
+"streamed over the Internet."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/media.html:19
+msgid "Rhythmbox Music Player"
+msgstr "Rhythmbox tónlistarspilari"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/media.html:23
+msgid "Videos"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/media.html:30
+msgid "Pitivi Video Editor"
+msgstr "Pitivi vídeóklippiforrit"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/office.html:2
+msgid "Everything you need for the office"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/office.html:10
+msgid ""
+"We understand how important your computer is for day-to-day tasks. Create "
+"professional documents, spreadsheets and presentations with LibreOffice and "
+"manage your local and online documents in a single place with GNOME "
+"Documents."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/office.html:18
+#, fuzzy
+msgid "LibreOffice Suite"
+msgstr "LibreOffice Writer"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/office.html:22
+msgid "Documents"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/office.html:26
+msgid "Evince Document Viewer"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/photos.html:2
+msgid "Have fun with your photos"
+msgstr "Gerðu myndvinnsluna skemmtilegri"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/photos.html:10
+msgid ""
+"With Shotwell, you can quickly and easily import, organize, edit and view "
+"your pictures. And you can share your favorite snaps on all popular photo "
+"sites and social networks."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/photos.html:18
+msgid "Shotwell Photo Manager"
+msgstr "Shotwell ljósmyndaumsýsla"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/photos.html:25
+msgid "GIMP Image Editor"
+msgstr "GIMP myndvinnsluforrit"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/photos.html:29
+msgid "Inkscape"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/usc.html:2
+msgid "Find even more software"
+msgstr "Finndu enn meiri hugbúnað"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/usc.html:10
+msgid "<strong>Say goodbye to searching the web for new software. </strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/usc.html:11
+msgid ""
+"Ubuntu Software Center gives you instant access to thousands of great games "
+"and applications — some free and some available commercially. If you see "
+"something you like, you can see more information and install it in just a "
+"few clicks."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/welcome.html:2
+#, fuzzy
+msgid "Welcome to Ubuntu GNOME 13.10"
+msgstr "Velkomin á Ubuntu 12.04 LTS"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/welcome.html:10
+msgid ""
+"Ubuntu GNOME features the GNOME desktop on top of the popular Ubuntu "
+"foundation."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/welcome.html:11
+msgid ""
+"We believe the combination of Ubuntu and GNOME is the best choice for those "
+"looking for a beautiful, simple, and usable operating system."
+msgstr ""
+
+#, fuzzy
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "Skoðið <a href=\"http://askubuntu.com/\">Spurðu Ubuntu</a>, besta staðinn "
+#~ "til að fá svör um Ubuntu. Þar sem að flestum spurningum er nú þegar "
+#~ "svarað og þúsundir manna tilbúnir til að hjálpa og þá munt þú fá hjálp á "
+#~ "leifturhraða. Og ef þú þarft svar innan ákveðins tíma þá getur þú fengið "
+#~ "ráðgjöf atvinnumanna og meira hjá <a href=\"http://www.ubuntu.com/support"
+#~ "\">ubuntu.com/support</a>."
 
 #~ msgid "Customize Ubuntu"
 #~ msgstr "Sérsníða Ubuntu"
 
-#~ msgid ""
-#~ "At the heart of Ubuntu’s philosophy is a belief that computing is for "
-#~ "everyone. With advanced accessibility tools and options like your "
-#~ "preferred color scheme, text size, and language, Ubuntu is for anyone. "
-#~ "Whoever you are, and wherever you are."
-#~ msgstr ""
-#~ "Kjarni heimspeki Ubuntu er sú trú að tölvunotkun sé fyrir alla. Með "
-#~ "fullkomnum aðgengistólum og stillingum á litaþema, textastærð og "
-#~ "tungumáli er Ubuntu fyrir alla. Hver sem þú ert og hvar sem þú ert."
-
-#~ msgid "Customization options"
-#~ msgstr "Sérsniðsmöguleikar"
-
 #~ msgid "Appearance"
 #~ msgstr "Útlit"
-
-#~ msgid "Assistive technologies"
-#~ msgstr "Hjálpartækni"
-
-#~ msgid "Language support"
-#~ msgstr "Tungumála stuðningur"
-
-#~ msgid "Included software"
-#~ msgstr "Innifalinn hugbúnaður"
-
-#~ msgid "Firefox web browser"
-#~ msgstr "Firefox vafri"
-
-#~ msgid "Supported software"
-#~ msgstr "Studdur hugbúnaður"
-
-#~ msgid "Flash"
-#~ msgstr "Flash"
-
-#~ msgid "Chromium"
-#~ msgstr "Chromium"
 
 #~ msgid "Any questions?"
 #~ msgstr "Einhverjar spurningar?"
@@ -95,9 +349,6 @@ msgstr ""
 
 #~ msgid "I'm installing #Ubuntu!"
 #~ msgstr "Ég er að setja upp #Ubuntu"
-
-#~ msgid "Your own personal cloud"
-#~ msgstr "Þitt eigið persónulega ský"
 
 #~ msgid "Take your music with you"
 #~ msgstr "Taktu tónlistina þína með þér"
@@ -113,9 +364,6 @@ msgstr ""
 #~ "einfalt að raða upp þínum uppáhalds lagalista. Hann virkar líka "
 #~ "frábærlega með CD og tónhlöðum svo þú getur haft gaman að tónlistinni "
 #~ "þinni hvar sem þú ert."
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Rhythmbox tónlistarspilari"
 
 #~ msgid "Ubuntu One Music Store"
 #~ msgstr "Ubuntu One tónlistarverslun"
@@ -134,26 +382,11 @@ msgstr ""
 #~ "besta til að vinna með öðrum skrifstofuhugbúnaði og notar OpenDocument "
 #~ "staðlana til að vera vel samhæft."
 
-#~ msgid "LibreOffice Writer"
-#~ msgstr "LibreOffice Writer"
-
 #~ msgid "LibreOffice Calc"
 #~ msgstr "LibreOffice Calc"
 
 #~ msgid "LibreOffice Impress"
 #~ msgstr "LibreOffice Impress"
-
-#~ msgid "Have fun with your photos"
-#~ msgstr "Gerðu myndvinnsluna skemmtilegri"
-
-#~ msgid "Shotwell Photo Manager"
-#~ msgstr "Shotwell ljósmyndaumsýsla"
-
-#~ msgid "GIMP Image Editor"
-#~ msgstr "GIMP myndvinnsluforrit"
-
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "Pitivi vídeóklippiforrit"
 
 #~ msgid "Stay connected"
 #~ msgstr "Vera í sambandi"
@@ -169,9 +402,6 @@ msgstr ""
 
 #~ msgid "Identi.ca"
 #~ msgstr "Identi.ca"
-
-#~ msgid "Find even more software"
-#~ msgstr "Finndu enn meiri hugbúnað"
 
 #~ msgid "Browse the web"
 #~ msgstr "Vafra um netið"
@@ -203,6 +433,3 @@ msgstr ""
 #~ "farsímann þinn og sjáðu hana samstundis á tölvuskjánum þínum eða bættu "
 #~ "við <a href=\"https://one.ubuntu.com/services/music/\">Tónlistarstreymi</"
 #~ "a> fyrir farsíma til að hlusta á tónlistina þína á ferðinni."
-
-#~ msgid "Welcome to Ubuntu 12.04 LTS"
-#~ msgstr "Velkomin á Ubuntu 12.04 LTS"

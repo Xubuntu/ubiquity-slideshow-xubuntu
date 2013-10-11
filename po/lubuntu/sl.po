@@ -7,22 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-06-25 08:51-0600\n"
-"PO-Revision-Date: 2013-03-24 15:15+0000\n"
-"Last-Translator: Andrej Znidarsic <andrej.znidarsic@gmail.com>\n"
+"POT-Creation-Date: 2013-09-19 11:57-0300\n"
+"PO-Revision-Date: 2013-09-20 19:37+0000\n"
+"Last-Translator: Sasa Batistic <Unknown>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-06-25 15:57+0000\n"
-"X-Generator: Launchpad (build 16681)\n"
+"X-Launchpad-Export-Date: 2013-10-11 21:28+0000\n"
+"X-Generator: Launchpad (build 16799)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
-#, fuzzy
 msgid "Welcome to Lubuntu 13.10"
-msgstr "Dobrodošli v Lubuntu 13.04"
+msgstr "Dobrodošli v Lubuntu 13.10"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/00_welcome.html:8
@@ -44,7 +43,7 @@ msgid ""
 "energy-saving desktop environment. LXDE has been proven to work well with "
 "both old and new computers, ensuring you a smooth desktop experience."
 msgstr ""
-"Lubuntu temelji na <em>namiznem okolju LXDE </em>, hitro delujočem in "
+"Lubuntu temelji na <em>namiznem okolju LXDE</em>, hitro delujočem in "
 "energetsko varčnem namiznem okolju. LXDE dokazano deluje dobro z novimi in "
 "starimi računalniki, kar vam zagotavlja gladko namizno izkušnjo."
 
@@ -56,28 +55,17 @@ msgstr "Brskajte po spletu"
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/02_browser.html:8
 msgid ""
-"Browse the web with <em>Chromium</em>, the open-source version of Chrome, a "
-"web browser developed by Google. It's safe, stable, fast and even supports "
-"your favorite addons/extensions."
+"Browse the web using <em>Firefox</em>, the open-source cross-platform web "
+"browser used by millions around the world. It's safe, stable, fast and "
+"supports customization through add-ons."
 msgstr ""
-"Brskajte po spletu s <em>Chromium</em>, odprtokodno različico Chromea, "
-"spletnim brskalnikom, ki ga je razvil Google. Je varen, stabilen, hiter in "
-"celo podpira vaše priljubljene dodatke/razširitve."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/02_browser.html:12
-msgid ""
-"Did you know that Lubuntu has its own Chrome extension available for free? "
-"Visit the <a href=\"https://chrome.google.com/webstore/detail/"
-"hemkkjpjknkkndhconammdhlhdkjclim\">Chrome Web Store</a> for more information."
-msgstr ""
-"Ali ste vedeli, da ima Lubuntu lastno razširitev Chrome, ki je na voljo "
-"brezplačno. Za več podrobnosti obiščite <a href=\"https://chrome.google.com/"
-"webstore/detail/hemkkjpjknkkndhconammdhlhdkjclim\">spletno trgovino Chrome</"
-"a>."
+"Brskajte po spletu s pomočjo <em>Firefoxa</em>, odprtokodnega spletnega "
+"brskalnika, delujočega v različnih sistemih, in ga uporablja na milijone "
+"ljudi po vsem svetu. Je varen, stabilen, hiter in podpira prilagajanje z "
+"razširitvami."
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/lubuntu/slides/02_browser.html:16
+#: slideshows/lubuntu/slides/02_browser.html:12
 #: slideshows/lubuntu/slides/03_office.html:12
 #: slideshows/lubuntu/slides/04_media.html:18
 #: slideshows/lubuntu/slides/05_social.html:12
@@ -85,12 +73,12 @@ msgid "Included software"
 msgstr "Vključeni programi"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/02_browser.html:20
-msgid "Chromium"
-msgstr "Chromium"
+#: slideshows/lubuntu/slides/02_browser.html:16
+msgid "Firefox"
+msgstr "Firefox"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/lubuntu/slides/02_browser.html:23
+#: slideshows/lubuntu/slides/02_browser.html:19
 #: slideshows/lubuntu/slides/03_office.html:23
 #: slideshows/lubuntu/slides/04_media.html:32
 #: slideshows/lubuntu/slides/05_social.html:19
@@ -98,14 +86,14 @@ msgid "Supported software"
 msgstr "Podprti programi"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/02_browser.html:27
+#: slideshows/lubuntu/slides/02_browser.html:23
 msgid "Flash"
 msgstr "Flash"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/lubuntu/slides/02_browser.html:32
-msgid "Firefox"
-msgstr "Firefox"
+#: slideshows/lubuntu/slides/02_browser.html:28
+msgid "Chromium"
+msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/03_office.html:1
@@ -123,7 +111,7 @@ msgstr ""
 "Za ustvarjanje dokumentov in preglednic uporabite <em>Abiword</em> in "
 "<em>Gnumeric</em>, lahki nadomestitvi za LibreOffice. Oba programa nudita "
 "podporo standardiziranim vrstam dokumentov  in vam omogočata, da sodelujete "
-"pri dokumentih, ki so jih spisali sodelavci, prijatelji ali družina."
+"pri ustvarjanju dokumentov skupaj s sodelavci, prijatelji ali družino."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/03_office.html:16
@@ -163,8 +151,8 @@ msgid ""
 "You can also obtain additional codec support by installing the <em>lubuntu-"
 "restricted-extras</em> package."
 msgstr ""
-"Prav tako lahko pridobite dodatno podporo za kodeke z namestitvijo paketa "
-"<em>lubuntu-restricted-extras</em>."
+"Dodatno podporo za kodeke lahko dobite z namestitvijo paketa <em>lubuntu-"
+"restricted-extras</em>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:23
@@ -199,7 +187,7 @@ msgid ""
 "and Facebook."
 msgstr ""
 "S <em>Pidgin</em> boste lahko ostali v stiku z vsemi svojimi prijatelji. "
-"Podpira številne storitve klepeta kot so AIM, Google Talk in Facebook."
+"Podpira številne storitve klepeta, kot so AIM, Google Talk in Facebook."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/05_social.html:16
@@ -268,3 +256,26 @@ msgstr ""
 "svobodi, ki jo prinaša. Če nam želite pomagati izboljšati Lubuntu, bodisi s "
 "povratnimi podatki bodisi z vključitvijo v projekt, obiščite naše <a href="
 "\"http://lubuntu.net/\">spletišče</a>."
+
+#~ msgid ""
+#~ "Browse the web with <em>Chromium</em>, the open-source version of Chrome, "
+#~ "a web browser developed by Google. It's safe, stable, fast and even "
+#~ "supports your favorite addons/extensions."
+#~ msgstr ""
+#~ "Brskajte po spletu s <em>Chromium</em>, odprtokodno različico Chromea, "
+#~ "spletnim brskalnikom, ki ga je razvil Google. Je varen, stabilen, hiter "
+#~ "in celo podpira vaše priljubljene dodatke/razširitve."
+
+#~ msgid "Welcome to Lubuntu 13.04"
+#~ msgstr "Dobrodošli v Lubuntu 13.04"
+
+#~ msgid ""
+#~ "Did you know that Lubuntu has its own Chrome extension available for "
+#~ "free? Visit the <a href=\"https://chrome.google.com/webstore/detail/"
+#~ "hemkkjpjknkkndhconammdhlhdkjclim\">Chrome Web Store</a> for more "
+#~ "information."
+#~ msgstr ""
+#~ "Ali ste vedeli, da ima Lubuntu lastno razširitev Chrome, ki je na voljo "
+#~ "brezplačno. Za več podrobnosti obiščite <a href=\"https://chrome.google."
+#~ "com/webstore/detail/hemkkjpjknkkndhconammdhlhdkjclim\">spletno trgovino "
+#~ "Chrome</a>."

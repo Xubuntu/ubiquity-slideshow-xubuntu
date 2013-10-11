@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-06-25 08:51-0600\n"
+"POT-Creation-Date: 2013-09-19 11:56-0300\n"
 "PO-Revision-Date: 2013-04-03 22:10+0000\n"
 "Last-Translator: Gabor Kelemen <kelemeng@gnome.hu>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
@@ -15,19 +15,18 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-06-25 15:57+0000\n"
-"X-Generator: Launchpad (build 16681)\n"
+"X-Launchpad-Export-Date: 2013-10-11 21:29+0000\n"
+"X-Generator: Launchpad (build 16799)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
-msgid "Congratulations!"
-msgstr "Gratulálunk!"
+msgid "Welcome to Xubuntu"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-#, fuzzy
-msgid "You have chosen to install the latest version of Xubuntu, 13.10."
-msgstr "Az Xubuntu legújabb, 13.04 kiadásának telepítését választotta."
+msgid "Congratulations! You have chosen to install Xubuntu 13.10."
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -50,63 +49,53 @@ msgstr ""
 "hasonlóan fog kinézni."
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/01_web.html:2
-msgid "Your web experience"
-msgstr "Élmény a  világhálón"
+#: slideshows/xubuntu/slides/01_internet.html:2
+msgid "Your internet experience"
+msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:7
+#: slideshows/xubuntu/slides/01_internet.html:7
 msgid ""
-"<em>Firefox</em> and <em>Thunderbird</em> are everything you need from web "
-"applications."
+"<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
+"internet applications: high performance, easy customization and advanced "
+"security."
 msgstr ""
-"A <em>Firefox</em> és a <em>Thunderbird</em> mindent biztosít, amire az "
-"interneten szüksége lehet."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:8
-msgid ""
-"They offer you the web the way you like it: high performance, easy "
-"customization and advanced security."
-msgstr ""
-"Az internet használatának gyors, testreszabható és biztonságos módját teszik "
-"lehetővé."
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/01_web.html:10
+#: slideshows/xubuntu/slides/01_internet.html:9
 #: slideshows/xubuntu/slides/02_messaging.html:10
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:10
 #: slideshows/xubuntu/slides/04_office.html:10
-#: slideshows/xubuntu/slides/06_explore.html:11
+#: slideshows/xubuntu/slides/06_explore.html:10
 msgid "Where?"
 msgstr "Hol?"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:11
-#: slideshows/xubuntu/slides/01_web.html:12
+#: slideshows/xubuntu/slides/01_internet.html:10
+#: slideshows/xubuntu/slides/01_internet.html:11
 #: slideshows/xubuntu/slides/02_messaging.html:11
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
 #: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
+#: slideshows/xubuntu/slides/06_explore.html:11
 #: slideshows/xubuntu/slides/06_explore.html:12
-#: slideshows/xubuntu/slides/06_explore.html:13
 msgid "<span>»</span>"
 msgstr "<span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:11
-#: slideshows/xubuntu/slides/01_web.html:12
+#: slideshows/xubuntu/slides/01_internet.html:10
+#: slideshows/xubuntu/slides/01_internet.html:11
 #: slideshows/xubuntu/slides/02_messaging.html:11
 msgid "Internet <span>»</span>"
 msgstr "Internet <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:11
+#: slideshows/xubuntu/slides/01_internet.html:10
 msgid "Firefox Web Browser"
 msgstr "Firefox webböngésző"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:12
+#: slideshows/xubuntu/slides/01_internet.html:11
 msgid "Thunderbird Mail/News"
 msgstr "Thunderbird levél- és hírolvasó"
 
@@ -117,22 +106,15 @@ msgstr "Azonnali üzenetküldés"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:7
-msgid ""
-"Xubuntu is shipping <em>Pidgin</em> as the default instant messaging client."
+msgid "Xubuntu ships <em>Pidgin</em> as the default instant messaging client."
 msgstr ""
-"A Xubuntu beépítve tartalmazza a <em>Pidgin</em> azonnali üzenetküldő "
-"klienst."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:8
 msgid ""
-"You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
-"(Google Talk, Facebook). You can also update your Twitter account via third-"
-"party plugin."
+"With Pidgin, you can connect to various protocols such as AIM, ICQ, IRC, MSN "
+"and XMPP (Google Talk, Facebook)."
 msgstr ""
-"Valamennyi népszerű üzenetküldő hálózat elérését biztosítja: AIM, ICQ, IRC, "
-"MSN and XMPP (Google Talk, Facebook). Továbbá használhatja a Twitter fiókját "
-"is egy harmadik féltől származó bővítmény segítségével."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:11
@@ -156,11 +138,9 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:8
 msgid ""
-"In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
-"Shimmer theme."
+"In Xubuntu, <em>gmusicbrowser</em> comes with the good-looking and easy-to-"
+"use Shimmer theme."
 msgstr ""
-"A Xubuntuban a gmusicbrowser-t megnyerő külsejű és könnyen használható "
-"Shimmer témával ruháztuk fel."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
@@ -192,11 +172,9 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
 msgid ""
-"LibreOffice is also available in the repositories, if you're more "
+"<em>LibreOffice</em> is also available for installation if you're more "
 "comfortable with it or need a full office suite."
 msgstr ""
-"A tárolókból a LibreOffice is elérhető, ha azt jobban kedveli vagy teljes "
-"irodai csomagra van szüksége."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:11
@@ -227,8 +205,8 @@ msgstr "1"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:9
 msgid ""
-"The application-menu gives you complete access to all your applications."
-msgstr "Az alkalmazásmenü teljes hozzáférést biztosít minden alkalmazásához."
+"The Applications menu gives you complete access to all your applications."
+msgstr ""
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:12
@@ -238,19 +216,15 @@ msgstr "2"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:13
 msgid ""
-"The launcher panel gives you <em>quick access</em> to your most important "
-"applications. It is set to autohide by default to preserve screen estate."
+"The launcher panel gives you quick access to your most important "
+"applications. It is set to autohide by default to preserve screen space."
 msgstr ""
-"Az indítópanel <em>gyors hozzáférést</em> biztosít a legfontosabb "
-"alkalmazásokhoz. A képernyő-területtel való spórolás érdekében "
-"alaphelyzetben automatikusan rejtésre kerül."
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:16
 msgid "3"
 msgstr "3"
 
-#. Open windows of r 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:17
 msgid "Running applications are shown in the top panel."
@@ -273,29 +247,18 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:8
 msgid ""
-"If you need help, go to <em>Help</em> in the Applications menu or see <a "
-"href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
+"To learn more about the Xubuntu desktop, including various help topics, "
+"navigate to <em>Help</em> in the Applications menu or see <a href=\"http://"
+"xubuntu.org/help\">Help & Support</a> on our website."
 msgstr ""
-"Ha segítségre van szüksége, akkor válassza az Alkalmazások menü <em>Súgó</"
-"em> pontját, vagy keresse fel weboldalunk <a href=\"http://xubuntu.org/help"
-"\">Help & Support</a> oldalát."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_explore.html:9
-msgid ""
-"<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce on "
-"the <a href=\"http://xfce.org/\">Xfce website</a>."
-msgstr ""
-"Az <em>Xfce</em> a Xubuntu asztali környezete. Az Xfce-ről az <a href="
-"\"http://xfce.org/\">Xfce weboldalán</a> tudhat meg többet."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_explore.html:12
+#: slideshows/xubuntu/slides/06_explore.html:11
 msgid "Software Center"
 msgstr "Szoftverközpont"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_explore.html:13
+#: slideshows/xubuntu/slides/06_explore.html:12
 msgid "Help"
 msgstr "Súgó"
 
@@ -330,9 +293,96 @@ msgstr ""
 #: slideshows/xubuntu/slides/07_thanks.html:9
 msgid ""
 "Finally, find different ways to contribute to Xubuntu on the <a href="
-"\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
+"\"http://xubuntu.org/devel\">Get Involved</a> section of our website. We "
 "need your help!"
 msgstr ""
-"A weboldalunk <a href=\"http://xubuntu.org/devel\">Get Involved</a> "
-"szakaszából megtudhatja, hogyan járulhat hozzá a Xubuntuhoz. Szükségünk van "
-"segítségére!"
+
+#~ msgid "Congratulations!"
+#~ msgstr "Gratulálunk!"
+
+#~ msgid ""
+#~ "They offer you the web the way you like it: high performance, easy "
+#~ "customization and advanced security."
+#~ msgstr ""
+#~ "Az internet használatának gyors, testreszabható és biztonságos módját "
+#~ "teszik lehetővé."
+
+#~ msgid "Your web experience"
+#~ msgstr "Élmény a  világhálón"
+
+#~ msgid ""
+#~ "In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
+#~ "Shimmer theme."
+#~ msgstr ""
+#~ "A Xubuntuban a gmusicbrowser-t megnyerő külsejű és könnyen használható "
+#~ "Shimmer témával ruháztuk fel."
+
+#~ msgid ""
+#~ "Xubuntu is shipping <em>Pidgin</em> as the default instant messaging "
+#~ "client."
+#~ msgstr ""
+#~ "A Xubuntu beépítve tartalmazza a <em>Pidgin</em> azonnali üzenetküldő "
+#~ "klienst."
+
+#~ msgid ""
+#~ "The launcher panel gives you <em>quick access</em> to your most important "
+#~ "applications. It is set to autohide by default to preserve screen estate."
+#~ msgstr ""
+#~ "Az indítópanel <em>gyors hozzáférést</em> biztosít a legfontosabb "
+#~ "alkalmazásokhoz. A képernyő-területtel való spórolás érdekében "
+#~ "alaphelyzetben automatikusan rejtésre kerül."
+
+#~ msgid ""
+#~ "The application-menu gives you complete access to all your applications."
+#~ msgstr ""
+#~ "Az alkalmazásmenü teljes hozzáférést biztosít minden alkalmazásához."
+
+#~ msgid ""
+#~ "If you need help, go to <em>Help</em> in the Applications menu or see <a "
+#~ "href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
+#~ msgstr ""
+#~ "Ha segítségre van szüksége, akkor válassza az Alkalmazások menü <em>Súgó</"
+#~ "em> pontját, vagy keresse fel weboldalunk <a href=\"http://xubuntu.org/"
+#~ "help\">Help & Support</a> oldalát."
+
+#~ msgid ""
+#~ "You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
+#~ "(Google Talk, Facebook). You can also update your Twitter account via "
+#~ "third-party plugin."
+#~ msgstr ""
+#~ "Valamennyi népszerű üzenetküldő hálózat elérését biztosítja: AIM, ICQ, "
+#~ "IRC, MSN and XMPP (Google Talk, Facebook). Továbbá használhatja a Twitter "
+#~ "fiókját is egy harmadik féltől származó bővítmény segítségével."
+
+#~ msgid ""
+#~ "LibreOffice is also available in the repositories, if you're more "
+#~ "comfortable with it or need a full office suite."
+#~ msgstr ""
+#~ "A tárolókból a LibreOffice is elérhető, ha azt jobban kedveli vagy teljes "
+#~ "irodai csomagra van szüksége."
+
+#~ msgid ""
+#~ "<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce "
+#~ "on the <a href=\"http://xfce.org/\">Xfce website</a>."
+#~ msgstr ""
+#~ "Az <em>Xfce</em> a Xubuntu asztali környezete. Az Xfce-ről az <a href="
+#~ "\"http://xfce.org/\">Xfce weboldalán</a> tudhat meg többet."
+
+#~ msgid ""
+#~ "Finally, find different ways to contribute to Xubuntu on the <a href="
+#~ "\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
+#~ "need your help!"
+#~ msgstr ""
+#~ "A weboldalunk <a href=\"http://xubuntu.org/devel\">Get Involved</a> "
+#~ "szakaszából megtudhatja, hogyan járulhat hozzá a Xubuntuhoz. Szükségünk "
+#~ "van segítségére!"
+
+#~ msgid ""
+#~ "<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
+#~ "web applications."
+#~ msgstr ""
+#~ "A <em>Firefox</em> és a <em>Thunderbird</em> mindent biztosít, amire az "
+#~ "interneten szüksége lehet."
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 13.04."
+#~ msgstr "Az Xubuntu legújabb, 13.04 kiadásának telepítését választotta."

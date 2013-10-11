@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: po_ubuntu_slideshow-ubuntu-km\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-06-25 08:51-0600\n"
+"POT-Creation-Date: 2013-09-19 11:57-0300\n"
 "PO-Revision-Date: 2012-03-19 06:46+0000\n"
 "Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
 "Language-Team: Khmer\n"
@@ -21,72 +21,326 @@ msgstr ""
 "X-Generator: Launchpad (build 16061)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu-gnome/slides/00_welcome.html:1
-#: slideshows/ubuntu-gnome/slides/01_overview.html:1
-#: slideshows/ubuntu-gnome/slides/02_everything.html:1
-#: slideshows/ubuntu-gnome/slides/03_beautiful.html:1
-#: slideshows/ubuntu-gnome/slides/04_web.html:1
-#: slideshows/ubuntu-gnome/slides/05_documents.html:1
-#: slideshows/ubuntu-gnome/slides/06_messaging.html:1
-#: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
-msgid "Ubuntu GNOME 13.10"
+#: slideshows/ubuntu-gnome/slides/accessibility.html:2
+msgid "Access for everyone"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
+#: slideshows/ubuntu-gnome/slides/accessibility.html:10
 #, fuzzy
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"At the heart of the Ubuntu GNOME philosophy is the belief that computing is "
+"for everyone. With advanced accessibility tools and options to change "
+"language, color scheme and text size, Ubuntu GNOME makes computing easy – "
+"whoever and wherever you are."
 msgstr ""
-"ពិនិត្យ​មើល <a href=\"http://askubuntu.com/\">សួរ​អ៊ូប៊ុនទូ</a> កន្លែង​ដែល​ល្អ​បំផុត​ ដើម្បី​ទទួល​បាន​"
-"ចម្លើយ​អំពី​អ៊ូប៊ុនទូ ។ ដោយ​មាន​ចម្លើយ​ជា​ច្រើន​បាន​ឆ្លើយ​រូច​ហើយ ហើយ​មាន​មនុស្ស​រាប់​ពាន់​នាក់ដើម្បី​ជួយ អ្នក​នឹង​មិន​"
-"ចាំ​បាច់​រង់ចាំ​ទៀត​ទេ ។ ហើយ​ប្រសិន​បើ​អ្នក​ត្រូវ​បាន​ចម្លើយ​តាម​ពេល​កំណត់ អ្នក​អាច​ទាក់ទង​ការ​គាំ​ទ្រ​ផ្នែក​"
-"ពាណិជ្ជកម្ម និង​ស្វែងយល់​បន្ថែម​នៅ <a href=\"http://www.ubuntu.com/support\">ubuntu."
-"com/support</a> ។"
+"ស្ថិត​ក្នុង​​ទស្សនៈ​របស់​អ៊ូប៊ុនទូ​គឺ​ជឿជាក់​ថា កុំព្យូទ័រ​សម្រាប់​អ្នក​រាល់​គ្នា ។ ជា​មួយ​នឹង​ឧបករណ៍​ចូល​ដំណើរការ​កម្រិត​ខ្ពស់ "
+"និង​ជម្រើស​ផ្សេងៗ​ដូច​ដែល​អ្នក​ពេញ​ចិត្តមាន គ្រោង​ពណ៌ ទំហំ​អត្ថបទ និង​ភាសា អ៊ូប៊ុនទូ​សម្រាប់​អ្នក​រាល់​គ្នា ។ ទោះ​បី​"
+"អ្នក​ជា​អ្នកណា​ក៏​ដោយ នៅ​ទី​ណា​ក៏​ដោយ ។"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu-gnome/slides/accessibility.html:14
+msgid "Customization options"
+msgstr "ការប្តូរជម្រើសតាមបំណង"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/accessibility.html:18
+msgid "Assistive technologies"
+msgstr "បច្ចេកវិទ្យាជំនួយ"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/accessibility.html:22
+msgid "Language support"
+msgstr "គំទ្រភាសារ"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/browse.html:2
+msgid "Make the most of the web"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/browse.html:10
+msgid ""
+"Ubuntu GNOME has everything you need to browse the web. Firefox offers "
+"powerful personalization, support for cutting-edge web standards, carefully "
+"optimized performance, and advanced security while still remaining easy to "
+"use."
+msgstr ""
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu-gnome/slides/browse.html:14
+#: slideshows/ubuntu-gnome/slides/media.html:15
+#: slideshows/ubuntu-gnome/slides/office.html:14
+#: slideshows/ubuntu-gnome/slides/photos.html:14
+msgid "Included software"
+msgstr "ផ្នែកទន់មនជាមួយ"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/browse.html:18
+#, fuzzy
+msgid "Firefox Web Browser"
+msgstr "កម្មវិធី​រុករក​បណ្ដាញ Firefox"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu-gnome/slides/browse.html:21
+#: slideshows/ubuntu-gnome/slides/media.html:26
+#: slideshows/ubuntu-gnome/slides/photos.html:21
+msgid "Supported software"
+msgstr "បានគាំទ្រផ្នែកទន់"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/browse.html:25
+msgid "Flash"
+msgstr "ជះពន្លឺ"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/browse.html:29
+msgid "Chromium"
+msgstr "ក្រូម"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/desktop.html:2
+msgid "Simple and easy to use"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:10
+msgid ""
+"<strong>The Activities Overview is an easy way to access all your basic "
+"tasks. </strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:11
+msgid ""
+"Having everything in one place is convenient and means that you don't have "
+"to learn your way around a maze of different technologies."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:18
+msgid "Launch and manage <strong>your apps</strong> from the Dash"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:22
+msgid "Check <strong>your notifications</strong> easily"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:26
+msgid "Enhance your workflow with <strong>dynamic workspaces</strong>"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:2
+#, fuzzy
+msgid "Help and support"
+msgstr "គំទ្រភាសារ"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:10
+msgid "Thank you for choosing and installing Ubuntu GNOME."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:11
+msgid ""
+"Learn more about Ubuntu GNOME from <a href=\"https://wiki.ubuntu.com/"
+"UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:12
+msgid ""
+"For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
+"ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:13
+msgid "Enjoy and have fun!"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/goa.html:2
+#, fuzzy
+msgid "Easily access your personal cloud"
+msgstr "cloud ផ្ទាល់​ខ្លួន​របស់​អ្នក"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/goa.html:10
+msgid ""
+"Ubuntu GNOME will seamlessly integrate with your online accounts, so that "
+"all your data can be accessed from the same place. This takes the work out "
+"of using online accounts and makes it easy to find things when you need them."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/goa.html:17
+msgid "Access <strong>your online documents</strong> natively"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/goa.html:21
+msgid "Manage <strong>your address book</strong> easily"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/goa.html:25
+msgid "Chat with <strong>your friends</strong> from Facebook, Google, etc."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/media.html:2
+msgid "Enjoy your music and videos"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/media.html:10
+msgid ""
+"Rhythmbox lets you organize your music and listen to Internet radio, "
+"podcasts, and more."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/media.html:11
+msgid ""
+"GNOME Videos allows you to easily watch videos from your computer, DVD, or "
+"streamed over the Internet."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/media.html:19
+msgid "Rhythmbox Music Player"
+msgstr "ឧបករណ៍ចាក់ចំរៀង Rhythmbox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/media.html:23
+msgid "Videos"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/media.html:30
+msgid "Pitivi Video Editor"
+msgstr "កម្មវិធីនិពន្ធវីឌីអូ Pitivi"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/office.html:2
+msgid "Everything you need for the office"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/office.html:10
+msgid ""
+"We understand how important your computer is for day-to-day tasks. Create "
+"professional documents, spreadsheets and presentations with LibreOffice and "
+"manage your local and online documents in a single place with GNOME "
+"Documents."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/office.html:18
+#, fuzzy
+msgid "LibreOffice Suite"
+msgstr "LibreOffice Writer"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/office.html:22
+msgid "Documents"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/office.html:26
+msgid "Evince Document Viewer"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/photos.html:2
+msgid "Have fun with your photos"
+msgstr "សូម​រីករាយ​ជា​មួយ​នឹង​រូបថត​របស់​អ្នក"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/photos.html:10
+msgid ""
+"With Shotwell, you can quickly and easily import, organize, edit and view "
+"your pictures. And you can share your favorite snaps on all popular photo "
+"sites and social networks."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/photos.html:18
+msgid "Shotwell Photo Manager"
+msgstr "កម្មវិធីរូបថត Shotwell"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/photos.html:25
+msgid "GIMP Image Editor"
+msgstr "កម្មវិធី​កែសម្រួល​រូបភាព GIMP"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/photos.html:29
+msgid "Inkscape"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/usc.html:2
+msgid "Find even more software"
+msgstr "រក​កម្មវិធី​បន្ថែម​ទៀត"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/usc.html:10
+msgid "<strong>Say goodbye to searching the web for new software. </strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/usc.html:11
+msgid ""
+"Ubuntu Software Center gives you instant access to thousands of great games "
+"and applications — some free and some available commercially. If you see "
+"something you like, you can see more information and install it in just a "
+"few clicks."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/welcome.html:2
+#, fuzzy
+msgid "Welcome to Ubuntu GNOME 13.10"
+msgstr "សូម​ស្វាគមន៍​មក​កាន់​អ៊ូប៊ុនទូ 12.04 LTS"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/welcome.html:10
+msgid ""
+"Ubuntu GNOME features the GNOME desktop on top of the popular Ubuntu "
+"foundation."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/welcome.html:11
+msgid ""
+"We believe the combination of Ubuntu and GNOME is the best choice for those "
+"looking for a beautiful, simple, and usable operating system."
+msgstr ""
+
+#, fuzzy
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "ពិនិត្យ​មើល <a href=\"http://askubuntu.com/\">សួរ​អ៊ូប៊ុនទូ</a> កន្លែង​ដែល​ល្អ​បំផុត​ ដើម្បី​ទទួល​"
+#~ "បាន​ចម្លើយ​អំពី​អ៊ូប៊ុនទូ ។ ដោយ​មាន​ចម្លើយ​ជា​ច្រើន​បាន​ឆ្លើយ​រូច​ហើយ ហើយ​មាន​មនុស្ស​រាប់​ពាន់​នាក់ដើម្បី​ជួយ "
+#~ "អ្នក​នឹង​មិន​ចាំ​បាច់​រង់ចាំ​ទៀត​ទេ ។ ហើយ​ប្រសិន​បើ​អ្នក​ត្រូវ​បាន​ចម្លើយ​តាម​ពេល​កំណត់ អ្នក​អាច​ទាក់ទង​ការ​គាំ​"
+#~ "ទ្រ​ផ្នែក​ពាណិជ្ជកម្ម និង​ស្វែងយល់​បន្ថែម​នៅ <a href=\"http://www.ubuntu.com/support"
+#~ "\">ubuntu.com/support</a> ។"
 
 #~ msgid "Customize Ubuntu"
 #~ msgstr "ប្តូរអ៊ូប៊ុនទូតាមបំណង"
 
-#~ msgid ""
-#~ "At the heart of Ubuntu’s philosophy is a belief that computing is for "
-#~ "everyone. With advanced accessibility tools and options like your "
-#~ "preferred color scheme, text size, and language, Ubuntu is for anyone. "
-#~ "Whoever you are, and wherever you are."
-#~ msgstr ""
-#~ "ស្ថិត​ក្នុង​​ទស្សនៈ​របស់​អ៊ូប៊ុនទូ​គឺ​ជឿជាក់​ថា កុំព្យូទ័រ​សម្រាប់​អ្នក​រាល់​គ្នា ។ ជា​មួយ​នឹង​ឧបករណ៍​ចូល​ដំណើរការ​កម្រិត​"
-#~ "ខ្ពស់ និង​ជម្រើស​ផ្សេងៗ​ដូច​ដែល​អ្នក​ពេញ​ចិត្តមាន គ្រោង​ពណ៌ ទំហំ​អត្ថបទ និង​ភាសា អ៊ូប៊ុនទូ​សម្រាប់​អ្នក​រាល់​"
-#~ "គ្នា ។ ទោះ​បី​អ្នក​ជា​អ្នកណា​ក៏​ដោយ នៅ​ទី​ណា​ក៏​ដោយ ។"
-
-#~ msgid "Customization options"
-#~ msgstr "ការប្តូរជម្រើសតាមបំណង"
-
 #~ msgid "Appearance"
 #~ msgstr "រូបរាង"
-
-#~ msgid "Assistive technologies"
-#~ msgstr "បច្ចេកវិទ្យាជំនួយ"
-
-#~ msgid "Language support"
-#~ msgstr "គំទ្រភាសារ"
-
-#~ msgid "Included software"
-#~ msgstr "ផ្នែកទន់មនជាមួយ"
-
-#~ msgid "Firefox web browser"
-#~ msgstr "កម្មវិធី​រុករក​បណ្ដាញ Firefox"
-
-#~ msgid "Supported software"
-#~ msgstr "បានគាំទ្រផ្នែកទន់"
-
-#~ msgid "Flash"
-#~ msgstr "ជះពន្លឺ"
-
-#~ msgid "Chromium"
-#~ msgstr "ក្រូម"
 
 #~ msgid "Any questions?"
 #~ msgstr "មាន​សំណួរ ?"
@@ -96,9 +350,6 @@ msgstr ""
 
 #~ msgid "I'm installing #Ubuntu!"
 #~ msgstr "ខ្ញុំ​កំពុង​ដំឡើង  #Ubuntu!"
-
-#~ msgid "Your own personal cloud"
-#~ msgstr "cloud ផ្ទាល់​ខ្លួន​របស់​អ្នក"
 
 #~ msgid "Take your music with you"
 #~ msgstr "យក​តន្ត្រី​របស់​អ្នក​តាម​ខ្លួន"
@@ -112,9 +363,6 @@ msgstr ""
 #~ "អ៊ូប៊ុន​ទូ​​មាន​កម្មវិធី​ចាក់​តន្ត្រី​ Rhythmbox ដ៏​អស្ចារ្យ ។ ជា​មួយ​នឹង​ជម្រើស​ចាក់​ឡើងវិញ​កម្រិត​ខ្ពស់ ហើយ​​ហាង​"
 #~ "តន្ត្រី​របស់ Ubuntu One ដែល​មាន​ស្រាប់ វា​ងាយសម្រួល​ដាក់​បទ​ចម្រៀង​ដែល​ពេញ​និយម ។ ហើយ​វា​ដំណើរការ​"
 #~ "ល្អ​បំផុត​ជា​មួយ​ស៊ីឌី និង​កម្មវិធី​ចាក់​តន្ត្រី​ចល័ត ដូច្នេះ​អ្នក​អាច​រីករាយ​ជា​មួយ​តន្ត្រី​របស់​អ្នក​គ្រប់​ទី​កន្លែង ។"
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "ឧបករណ៍ចាក់ចំរៀង Rhythmbox"
 
 #~ msgid "Ubuntu One Music Store"
 #~ msgstr "ហានលក់ដូរ Ubuntu One"
@@ -133,17 +381,11 @@ msgstr ""
 #~ "ដើម្បី​ធ្វើ​ការ​ជា​មួយ​នឹង​កម្មវិធី​ការិយាល័យ​ផ្សេងៗ​ទៀត ហើយ​វា​ប្រើ​ស្តង់ដារ OpenDocument សម្រាប់​ភាព​"
 #~ "ឆប​គ្នា ។"
 
-#~ msgid "LibreOffice Writer"
-#~ msgstr "LibreOffice Writer"
-
 #~ msgid "LibreOffice Calc"
 #~ msgstr "LibreOffice Calc"
 
 #~ msgid "LibreOffice Impress"
 #~ msgstr "LibreOffice Impress"
-
-#~ msgid "Have fun with your photos"
-#~ msgstr "សូម​រីករាយ​ជា​មួយ​នឹង​រូបថត​របស់​អ្នក"
 
 #~ msgid ""
 #~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
@@ -155,15 +397,6 @@ msgstr ""
 #~ "ម៉ាស៊ីន​ថត ឬ​ទូរស័ព្ទ ដើម្បី​ផ្ទេរ​រូបថត​របស់​អ្នក បន្ទាប់​មក​វា​ងាយស្រួល​ ដើម្បី​ចែករំលែក​ពួកវា និ​ង​រក្សាទុក​"
 #~ "វា​ដោយ​សុវត្ថិភាព ។ ប្រសិន​​បើ​មាន​អារម្មណ៍​ចង់​បង្កើត អ្នក​អាច​សាកល្បង​កម្មវិធី​​គ្រប់គ្រង​រូបថត​ជា​ច្រើន​ពី​"
 #~ "មជ្ឈមណ្ឌល​កម្មវិធី​អ៊ូប៊ុនទូ ។"
-
-#~ msgid "Shotwell Photo Manager"
-#~ msgstr "កម្មវិធីរូបថត Shotwell"
-
-#~ msgid "GIMP Image Editor"
-#~ msgstr "កម្មវិធី​កែសម្រួល​រូបភាព GIMP"
-
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "កម្មវិធីនិពន្ធវីឌីអូ Pitivi"
 
 #~ msgid "Stay connected"
 #~ msgstr "តភ្ជាប់​ជា​និច្ច"
@@ -188,9 +421,6 @@ msgstr ""
 
 #~ msgid "Identi.ca"
 #~ msgstr "Identi.ca"
-
-#~ msgid "Find even more software"
-#~ msgstr "រក​កម្មវិធី​បន្ថែម​ទៀត"
 
 #, fuzzy
 #~ msgid ""
@@ -240,6 +470,3 @@ msgstr ""
 #~ "មជ្ឈមណ្ឌល​កម្មវិធី​អ៊ូប៊ុនទូ​មាន​កម្មវិធី​ថ្មី​រាប់ពាល់​សម្រាប់​កុំព្យូទ័រ​របស់​អ្នក ។ គ្រាន់​តែ​វាយ​អ្វី​ដែល​អ្នក​​ចង់​បាន "
 #~ "ឬ​រក​មើល​តាម​ប្រភេទ​ ដូចជា ល្បែង វិទ្យាសាស្ត្រ និង​ការ​អប់រំ ។ វា​ងាយស្រួល​ទាញយក​កម្មវិធី​ថ្មីៗ និង​"
 #~ "សរសេរ​អំពី​ការ​រំលឹក​របស់​អ្នក ដើម្បី​ចែកចាយ​បទពិសោធន៍​របស់​អ្នក ។"
-
-#~ msgid "Welcome to Ubuntu 12.04 LTS"
-#~ msgstr "សូម​ស្វាគមន៍​មក​កាន់​អ៊ូប៊ុនទូ 12.04 LTS"

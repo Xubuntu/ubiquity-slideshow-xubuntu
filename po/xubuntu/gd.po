@@ -7,27 +7,26 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-06-25 08:51-0600\n"
-"PO-Revision-Date: 2013-04-08 18:27+0000\n"
-"Last-Translator: alasdair caimbeul <Unknown>\n"
+"POT-Creation-Date: 2013-09-19 11:56-0300\n"
+"PO-Revision-Date: 2013-09-22 18:45+0000\n"
+"Last-Translator: Akerbeltz <fios@akerbeltz.org>\n"
 "Language-Team: Gaelic; Scottish <gd@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-06-25 15:57+0000\n"
-"X-Generator: Launchpad (build 16681)\n"
+"X-Launchpad-Export-Date: 2013-10-11 21:29+0000\n"
+"X-Generator: Launchpad (build 16799)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
-msgid "Congratulations!"
-msgstr "Meal do naidheachd!"
+msgid "Welcome to Xubuntu"
+msgstr "Fàilte gu Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-#, fuzzy
-msgid "You have chosen to install the latest version of Xubuntu, 13.10."
-msgstr "Tha thu air taghadh a stàladh an tionndadh as ùr de Xubuntu, 13.04,"
+msgid "Congratulations! You have chosen to install Xubuntu 13.10."
+msgstr "Meal do naidheachd! Chuir thu romhad Xubuntu 13.10 a stàladh."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -35,9 +34,9 @@ msgid ""
 "This exciting piece of software is brought to you free of any fees, for your "
 "use and any others you want to share it with."
 msgstr ""
-"Tha am pìos bathar-bog spreòdach seo air a tharraing dhut saor an-asgaidh , "
-"air do shon-sa agus neach sam bith eile leis a tha thu ag iarraidh e a "
-"roinneadh."
+"Tha sinn a' solar gràinne-mullaich a' bhathair-bhog seo saor an-asgaidh "
+"airson 's gun urrainn dhut a chur gu feum agus do dhaoine sam bith eile a bu "
+"toigh leat a thoirt dha."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
@@ -46,105 +45,94 @@ msgid ""
 "feel free to examine things as it installs. After the installation, the "
 "desktop will look much the same as it does now."
 msgstr ""
-"O cheann 's gu bheil thu a' stàladh am bathar-bog seo a' cleachdadh an "
-"stàlachadh beò Xubuntu, Gabh saor cothrom a sgrùdadh nithean fad tha e a' "
-"stàladh. Às dèidh an stàlachadh, bithidh am bàrr-deasc dìreach coltach mar a "
-"tha an-dràsta."
+"Leis gu bheil thu a' stàladh a' bhathair-bhog seo le stàladh beò Xubuntu, 's "
+"urrainn dhut rùrachadh mun cuairt fhad 's a tha sinn 'ga stàladh dhut. Bidh "
+"cha mhòr an aon choltas air an deasg as dèidh dhan stàladh crìochnachadh."
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/01_web.html:2
-msgid "Your web experience"
-msgstr "D' eòlas air an lìn"
+#: slideshows/xubuntu/slides/01_internet.html:2
+msgid "Your internet experience"
+msgstr "A' falbh air an lìon"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:7
+#: slideshows/xubuntu/slides/01_internet.html:7
 msgid ""
-"<em>Firefox</em> and <em>Thunderbird</em> are everything you need from web "
-"applications."
+"<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
+"internet applications: high performance, easy customization and advanced "
+"security."
 msgstr ""
-"'S iad <em>Firefox</em> agus <em>Thunderbird</em> a h-uile rud a dh'fheumas "
-"tu bho aplacaidean lìn."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:8
-msgid ""
-"They offer you the web the way you like it: high performance, easy "
-"customization and advanced security."
-msgstr ""
-"Tha iad a thabhairt an lìon dhut anns an dhòigh 's fheàrr leat, gnàthachadh "
-"furasta agus tèarainteachd adhartach."
+"Bheir <em>Firefox</em> agus <em>Thunderbird</em> comas dhut an t-eadar-lìon "
+"a chur gu làn-fheum: dèanadas fìor-mhath, cothrom an gnàthachadh agus "
+"tèarainteachd adhartach."
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/01_web.html:10
+#: slideshows/xubuntu/slides/01_internet.html:9
 #: slideshows/xubuntu/slides/02_messaging.html:10
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:10
 #: slideshows/xubuntu/slides/04_office.html:10
-#: slideshows/xubuntu/slides/06_explore.html:11
+#: slideshows/xubuntu/slides/06_explore.html:10
 msgid "Where?"
 msgstr "Càite?"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:11
-#: slideshows/xubuntu/slides/01_web.html:12
+#: slideshows/xubuntu/slides/01_internet.html:10
+#: slideshows/xubuntu/slides/01_internet.html:11
 #: slideshows/xubuntu/slides/02_messaging.html:11
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
 #: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
+#: slideshows/xubuntu/slides/06_explore.html:11
 #: slideshows/xubuntu/slides/06_explore.html:12
-#: slideshows/xubuntu/slides/06_explore.html:13
 msgid "<span>»</span>"
 msgstr "<span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:11
-#: slideshows/xubuntu/slides/01_web.html:12
+#: slideshows/xubuntu/slides/01_internet.html:10
+#: slideshows/xubuntu/slides/01_internet.html:11
 #: slideshows/xubuntu/slides/02_messaging.html:11
 msgid "Internet <span>»</span>"
-msgstr "Eadar-lìon <span>»</span>"
+msgstr "An t-eadar-lìon <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:11
+#: slideshows/xubuntu/slides/01_internet.html:10
 msgid "Firefox Web Browser"
-msgstr "Brabhsair lìn Firefox"
+msgstr "Brabhsair-lìn Firefox"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:12
+#: slideshows/xubuntu/slides/01_internet.html:11
 msgid "Thunderbird Mail/News"
-msgstr "Post/Naidheachdan Thunderbird"
+msgstr "Naidheachdan/Post Thunderbird"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_messaging.html:2
 msgid "Instant messaging"
-msgstr "Grad-theachdaireachd"
+msgstr "Grad-theachdaireachdan"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:7
-msgid ""
-"Xubuntu is shipping <em>Pidgin</em> as the default instant messaging client."
+msgid "Xubuntu ships <em>Pidgin</em> as the default instant messaging client."
 msgstr ""
-"Tha Xubuntu a' postadh <em>Pidgin</em> mar an cliant grad-theachdaireachd "
-"bunaiteach."
+"Gheibhear <em>Pidgin</em> an lùib Xubuntu mar am prògram bunaiteach airson "
+"grad-theachdaireachdan."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:8
 msgid ""
-"You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
-"(Google Talk, Facebook). You can also update your Twitter account via third-"
-"party plugin."
+"With Pidgin, you can connect to various protocols such as AIM, ICQ, IRC, MSN "
+"and XMPP (Google Talk, Facebook)."
 msgstr ""
-"Faodaidh tu ceangal gu pròtacalan caochlaidh mar AIM, ICQ, IRC, MSN agus "
-"XMPP (Google Talk, Facebook). Faodaidh tu cuideachd ùrachadh do chunntas "
-"Twitter tro plugan an treas phàrtaidh."
+"Bheir Pidgin comas dhut ceangal ri diofar pròtacalan mar AIM, ICQ, IRC, MSN "
+"agus XMPP (Google Talk, Facebook)."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:11
 msgid "Pidgin Internet Messenger"
-msgstr "Teachdaire eadar-lìn Pidgin"
+msgstr "Teachdaire-lìn Pidgin"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:2
 msgid "Enjoy your media"
-msgstr "Gabh tlachd nad mheadhanan"
+msgstr "Gabh tlachd sna meadhanan agad"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:7
@@ -152,18 +140,16 @@ msgid ""
 "Whether your collection is small or large, <em>gmusicbrowser</em>, the "
 "default media player in Xubuntu, can handle it!"
 msgstr ""
-"As bi am bheil do chruinneachadh beag no mòr, làimhsichidh "
-"<em>gmusicbrowser</em> an cluicheadair mheadhanan bunaiteach ann an Xubuntu "
-"e!"
+"Ge be beag no mòr an cruinneachadh agad, nì <em>gmusicbrowser</em> a' chùis "
+"air, an cluicheadair mheadhanan bunaiteach aig Xubuntu!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:8
 msgid ""
-"In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
-"Shimmer theme."
+"In Xubuntu, <em>gmusicbrowser</em> comes with the good-looking and easy-to-"
+"use Shimmer theme."
 msgstr ""
-"Ann an Xubuntu, tha gmusicbrowser a' tighinn le Shimmer tèama brèagha agus "
-"furasta a chleachd."
+"Bidh an t-ùrlar snasail is furasta air <em>gmusicbrowser</em> ann an Xubuntu."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
@@ -187,18 +173,18 @@ msgid ""
 "word processor, which can read almost all known document formats and "
 "<em>Gnumeric</em>, a spreadsheet program with an emphasis on accuracy."
 msgstr ""
-"Airson do fheumalachdan oifis. Tha Xubuntu a' tighinn le <em>Abiword</em>, "
-"giullachair-teacsa aotrom, a leughas cha mhòr fòrmatan sam bith agus "
-"<em>Gnumeric</em>,  prògram duilleag-cleithe le cuideam air  pongalachd."
+"Gheibh thu <em>Abiword</em> an cois Xubuntu, giullaichear-teacsa tana airson "
+"d' oifis a leughas cha mhòr fòrmat sam bith agus <em>Gnumeric</em>, prògram "
+"airson cliath-dhuilleagan a tha air leth pongail."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
 msgid ""
-"LibreOffice is also available in the repositories, if you're more "
+"<em>LibreOffice</em> is also available for installation if you're more "
 "comfortable with it or need a full office suite."
 msgstr ""
-"Tha LibreOffice cuideachd ri faighinn sna ionadan-tasgaidh, ma tha thu nas "
-"cofhurtail leis no feumail air ionad oifis slàn."
+"'S urrainn dhut <em>LibreOffice</em> a stàladh cuideachd ma tha thu dèidheil "
+"air no ma tha sreath slàn de phrògraman oifis a dhìth ort."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:11
@@ -219,7 +205,7 @@ msgstr "Gnumeric"
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/05_desktop.html:2
 msgid "The Xubuntu desktop"
-msgstr "A' bhàrr-deasc Xubuntu"
+msgstr "Deasga Xubuntu"
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:8
@@ -229,10 +215,10 @@ msgstr "1"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:9
 msgid ""
-"The application-menu gives you complete access to all your applications."
+"The Applications menu gives you complete access to all your applications."
 msgstr ""
-"Tha clàr-iùil aplacaidean a' toirt dhut làn cothrom air dod aplacaidean gu "
-"lèir."
+"Bheir clàr-taice nan aplacaidean làn-chothrom dhut air gach aon dhe na h-"
+"aplacaidean agad."
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:12
@@ -242,28 +228,27 @@ msgstr "2"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:13
 msgid ""
-"The launcher panel gives you <em>quick access</em> to your most important "
-"applications. It is set to autohide by default to preserve screen estate."
+"The launcher panel gives you quick access to your most important "
+"applications. It is set to autohide by default to preserve screen space."
 msgstr ""
-"Tha am panail an lòinsear a thabhairt dhu t <em>grad-inntrigeadh</em> dod "
-"aplacaidean nas cudthromaich. Tha e stèidhichte mar bunaiteach ri falaich gu "
-"fèin-obrachail a ghlèidheil oighreachd na sgrìn."
+"Bheir panail an lòinseir grad-chothrom dhut air na h-aplacaidean as "
+"cudromaiche. Thèid a chur am falach gu fèin-obrachail air an deasg airson 's "
+"nach bi bùrach agad air an sgrìn."
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:16
 msgid "3"
 msgstr "3"
 
-#. Open windows of r 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:17
 msgid "Running applications are shown in the top panel."
-msgstr "Tha na aplacaidean a' ruith gan shealltainn sa phanail-bhàrr."
+msgstr "Chithear aplacaidean a tha a' ruith sa phanail aig a' bharr."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/06_explore.html:2
 msgid "Know your desktop"
-msgstr "Aithnich do bhàrr-deasc"
+msgstr "Faigh eòlas air an deasg agad"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:7
@@ -271,42 +256,35 @@ msgid ""
 "For easy installation of new software, use the <em>Ubuntu Software Center</"
 "em>."
 msgstr ""
-"Airson stàlachadh bathar-bog ùr gu furasta, cleachd an <em>Ionad bathar-bog "
+"Airson stàladh simplidh de bhathar-bog ùr, cleachd <em>aonad bathair-bhog "
 "Ubuntu</em>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:8
 msgid ""
-"If you need help, go to <em>Help</em> in the Applications menu or see <a "
-"href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
+"To learn more about the Xubuntu desktop, including various help topics, "
+"navigate to <em>Help</em> in the Applications menu or see <a href=\"http://"
+"xubuntu.org/help\">Help & Support</a> on our website."
 msgstr ""
-"Ma tha thu ag iarraidh cobhair, rach gu  <em>Cobhair</em> sa chlàr-iùil na "
-"aplacaidean no faic <a href=\"http://xubuntu.org/help\">Help & Support</a> "
-"air ar làrach-lìn."
+"Airson barrachd fiosrachaidh air deasg Xubuntu, a' gabhail a-steach "
+"cuspairean na cobharach, tadhail air <em>Cobhair</em> ann an clàr-taice nan "
+"aplacaidean no faic <a href=\"http://xubuntu.org/help\">Cobhair ⁊ taic</a> "
+"on our website."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_explore.html:9
-msgid ""
-"<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce on "
-"the <a href=\"http://xfce.org/\">Xfce website</a>."
-msgstr ""
-"'S e <em>Xfce</em> an àrainneachd a' bhàrr-deasc ann an Xubuntu. Leugh "
-"barrachd mu dheidhinn Xfce aig <a href=\"http://xfce.org/\">Làrach Xfce</a>."
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/06_explore.html:11
+msgid "Software Center"
+msgstr "Aonad a' bhathair-bhog"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:12
-msgid "Software Center"
-msgstr "Ionad a' bhathar-bhog"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_explore.html:13
 msgid "Help"
 msgstr "Cobhair"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/07_thanks.html:2
 msgid "Thank you!"
-msgstr "Tapadh leat!"
+msgstr "Gun robh math agad!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/07_thanks.html:7
@@ -315,10 +293,9 @@ msgid ""
 "with Xubuntu. You can share them on the <a href=\"https://lists.ubuntu.com/"
 "mailman/listinfo/xubuntu-users\">Xubuntu-users mailing list</a>."
 msgstr ""
-"Taing airson gabhail an ùine leinn, Bu chaomh leinn cluinntinn mu dheidhinn "
-"ur eòlas le Xubuntu. Faodaidh tu iad a' roinneadh aig <a href=\"https://"
-"lists.ubuntu.com/mailman/listinfo/xubuntu-users\">Liosta postadh "
-"cleachdaichean-Xubuntu</a>."
+"Mòran taing! B' fhìor-thoigh leinn do bheachdan air Xubuntu a chluinntinn. "
+"'S urrainn dhut innse dhuinn dè do bheachd air air <a href=\"https://lists."
+"ubuntu.com/mailman/listinfo/xubuntu-users\">liostaichean-puist Xubuntu</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/07_thanks.html:8
@@ -327,17 +304,109 @@ msgid ""
 "\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
 "&prompt=1\">clicking here</a>."
 msgstr ""
-"Aoin ris an t-seanail IRC<em>#xubuntu</em> againn airson taic air-loidhne "
-"aig <a href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
-"&prompt=1\">le briogadh an-seo</a>."
+"Tadhail air an t-seanail IRC <em>#xubuntu</em> againn airson taic air "
+"loidhne 's tu <a href=\"http://webchat.freenode.net/?"
+"channels=xubuntu&nick=xubuntu...&prompt=1\">a' briogadh an-seo</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/07_thanks.html:9
 msgid ""
 "Finally, find different ways to contribute to Xubuntu on the <a href="
-"\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
+"\"http://xubuntu.org/devel\">Get Involved</a> section of our website. We "
 "need your help!"
 msgstr ""
-"Mu dheireadh thall, lorg dòighean diofaraichte a chuir ri Xubuntu air -an t-"
-"earrainn làrach-lìn againn<a href=\"http://xubuntu.org/devel\">Gabh an sàs</"
-"a> tha sin feumail air do chobhair!"
+"Agus tha diofar dòighean ann air an urrainn dhut taic a chumail ri Xubuntu "
+"san earrann <a href=\"http://xubuntu.org/devel\">Gabh pàirt</a> air an "
+"làrach-lìn againn. B' fheairrde dhuinn do thaic-sa!"
+
+#~ msgid "Congratulations!"
+#~ msgstr "Meal do naidheachd!"
+
+#~ msgid "You have chosen to install the latest version of Xubuntu, 13.04."
+#~ msgstr "Tha thu air taghadh a stàladh an tionndadh as ùr de Xubuntu, 13.04,"
+
+#~ msgid ""
+#~ "<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
+#~ "web applications."
+#~ msgstr ""
+#~ "'S iad <em>Firefox</em> agus <em>Thunderbird</em> a h-uile rud a "
+#~ "dh'fheumas tu bho aplacaidean lìn."
+
+#~ msgid "Your web experience"
+#~ msgstr "D' eòlas air an lìn"
+
+#~ msgid ""
+#~ "They offer you the web the way you like it: high performance, easy "
+#~ "customization and advanced security."
+#~ msgstr ""
+#~ "Tha iad a thabhairt an lìon dhut anns an dhòigh 's fheàrr leat, "
+#~ "gnàthachadh furasta agus tèarainteachd adhartach."
+
+#~ msgid ""
+#~ "Xubuntu is shipping <em>Pidgin</em> as the default instant messaging "
+#~ "client."
+#~ msgstr ""
+#~ "Tha Xubuntu a' postadh <em>Pidgin</em> mar an cliant grad-theachdaireachd "
+#~ "bunaiteach."
+
+#~ msgid ""
+#~ "You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
+#~ "(Google Talk, Facebook). You can also update your Twitter account via "
+#~ "third-party plugin."
+#~ msgstr ""
+#~ "Faodaidh tu ceangal gu pròtacalan caochlaidh mar AIM, ICQ, IRC, MSN agus "
+#~ "XMPP (Google Talk, Facebook). Faodaidh tu cuideachd ùrachadh do chunntas "
+#~ "Twitter tro plugan an treas phàrtaidh."
+
+#~ msgid ""
+#~ "If you need help, go to <em>Help</em> in the Applications menu or see <a "
+#~ "href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
+#~ msgstr ""
+#~ "Ma tha thu ag iarraidh cobhair, rach gu  <em>Cobhair</em> sa chlàr-iùil "
+#~ "na aplacaidean no faic <a href=\"http://xubuntu.org/help\">Help & "
+#~ "Support</a> air ar làrach-lìn."
+
+#~ msgid ""
+#~ "In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
+#~ "Shimmer theme."
+#~ msgstr ""
+#~ "Ann an Xubuntu, tha gmusicbrowser a' tighinn le Shimmer tèama brèagha "
+#~ "agus furasta a chleachd."
+
+#~ msgid ""
+#~ "The application-menu gives you complete access to all your applications."
+#~ msgstr ""
+#~ "Tha clàr-iùil aplacaidean a' toirt dhut làn cothrom air dod aplacaidean "
+#~ "gu lèir."
+
+#~ msgid ""
+#~ "LibreOffice is also available in the repositories, if you're more "
+#~ "comfortable with it or need a full office suite."
+#~ msgstr ""
+#~ "Tha LibreOffice cuideachd ri faighinn sna ionadan-tasgaidh, ma tha thu "
+#~ "nas cofhurtail leis no feumail air ionad oifis slàn."
+
+#~ msgid ""
+#~ "The launcher panel gives you <em>quick access</em> to your most important "
+#~ "applications. It is set to autohide by default to preserve screen estate."
+#~ msgstr ""
+#~ "Tha am panail an lòinsear a thabhairt dhu t <em>grad-inntrigeadh</em> dod "
+#~ "aplacaidean nas cudthromaich. Tha e stèidhichte mar bunaiteach ri falaich "
+#~ "gu fèin-obrachail a ghlèidheil oighreachd na sgrìn."
+
+#~ msgid ""
+#~ "<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce "
+#~ "on the <a href=\"http://xfce.org/\">Xfce website</a>."
+#~ msgstr ""
+#~ "'S e <em>Xfce</em> an àrainneachd a' bhàrr-deasc ann an Xubuntu. Leugh "
+#~ "barrachd mu dheidhinn Xfce aig <a href=\"http://xfce.org/\">Làrach Xfce</"
+#~ "a>."
+
+#~ msgid ""
+#~ "Finally, find different ways to contribute to Xubuntu on the <a href="
+#~ "\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
+#~ "need your help!"
+#~ msgstr ""
+#~ "Mu dheireadh thall, lorg dòighean diofaraichte a chuir ri Xubuntu air -an "
+#~ "t-earrainn làrach-lìn againn<a href=\"http://xubuntu.org/devel\">Gabh an "
+#~ "sàs</a> tha sin feumail air do chobhair!"

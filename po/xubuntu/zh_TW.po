@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-06-25 08:51-0600\n"
+"POT-Creation-Date: 2013-09-19 11:56-0300\n"
 "PO-Revision-Date: 2012-03-18 10:18+0000\n"
 "Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
@@ -15,17 +15,17 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-06-25 15:57+0000\n"
-"X-Generator: Launchpad (build 16681)\n"
+"X-Launchpad-Export-Date: 2013-10-11 21:29+0000\n"
+"X-Generator: Launchpad (build 16799)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
-msgid "Congratulations!"
-msgstr "恭喜！"
+msgid "Welcome to Xubuntu"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "You have chosen to install the latest version of Xubuntu, 13.10."
+msgid "Congratulations! You have chosen to install Xubuntu 13.10."
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -46,61 +46,53 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/01_web.html:2
-msgid "Your web experience"
-msgstr "您的網路體驗"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:7
-msgid ""
-"<em>Firefox</em> and <em>Thunderbird</em> are everything you need from web "
-"applications."
+#: slideshows/xubuntu/slides/01_internet.html:2
+msgid "Your internet experience"
 msgstr ""
-"眾多網路應用程式，您只需要 <em>Firefox</em> 和 <em>Thunderbird</em> 就能包辦"
-"每件事。"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:8
+#: slideshows/xubuntu/slides/01_internet.html:7
 msgid ""
-"They offer you the web the way you like it: high performance, easy "
-"customization and advanced security."
-msgstr "它們提供您依照自己想要的方式探索網路：高效能、高可自訂性、高安全性。"
+"<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
+"internet applications: high performance, easy customization and advanced "
+"security."
+msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/01_web.html:10
+#: slideshows/xubuntu/slides/01_internet.html:9
 #: slideshows/xubuntu/slides/02_messaging.html:10
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:10
 #: slideshows/xubuntu/slides/04_office.html:10
-#: slideshows/xubuntu/slides/06_explore.html:11
+#: slideshows/xubuntu/slides/06_explore.html:10
 msgid "Where?"
 msgstr "在哪裡？"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:11
-#: slideshows/xubuntu/slides/01_web.html:12
+#: slideshows/xubuntu/slides/01_internet.html:10
+#: slideshows/xubuntu/slides/01_internet.html:11
 #: slideshows/xubuntu/slides/02_messaging.html:11
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
 #: slideshows/xubuntu/slides/04_office.html:11
 #: slideshows/xubuntu/slides/04_office.html:12
+#: slideshows/xubuntu/slides/06_explore.html:11
 #: slideshows/xubuntu/slides/06_explore.html:12
-#: slideshows/xubuntu/slides/06_explore.html:13
 msgid "<span>»</span>"
 msgstr "<span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:11
-#: slideshows/xubuntu/slides/01_web.html:12
+#: slideshows/xubuntu/slides/01_internet.html:10
+#: slideshows/xubuntu/slides/01_internet.html:11
 #: slideshows/xubuntu/slides/02_messaging.html:11
 msgid "Internet <span>»</span>"
 msgstr "網際網路 <span>»</span>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:11
+#: slideshows/xubuntu/slides/01_internet.html:10
 msgid "Firefox Web Browser"
 msgstr "Firefox 網頁瀏覽器"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/01_web.html:12
+#: slideshows/xubuntu/slides/01_internet.html:11
 msgid "Thunderbird Mail/News"
 msgstr "Thunderbird 郵件/新聞"
 
@@ -111,19 +103,15 @@ msgstr "即時通"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:7
-msgid ""
-"Xubuntu is shipping <em>Pidgin</em> as the default instant messaging client."
-msgstr "Xubuntu 收納 <em>Pidgin</em> 作為預設即時通訊客戶端。"
+msgid "Xubuntu ships <em>Pidgin</em> as the default instant messaging client."
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:8
 msgid ""
-"You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
-"(Google Talk, Facebook). You can also update your Twitter account via third-"
-"party plugin."
+"With Pidgin, you can connect to various protocols such as AIM, ICQ, IRC, MSN "
+"and XMPP (Google Talk, Facebook)."
 msgstr ""
-"可連接各種協定，如 AIM、ICQ、IRC、MSN 及 XMPP (Google Talk、Facebook)，也可以"
-"第三方外掛程式更新 Twitter 帳戶。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:11
@@ -147,9 +135,9 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:8
 msgid ""
-"In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
-"Shimmer theme."
-msgstr "在 Xubuntu 中，gmusicbrowser 隨附美觀且易用的 Shimmer 佈景主題。"
+"In Xubuntu, <em>gmusicbrowser</em> comes with the good-looking and easy-to-"
+"use Shimmer theme."
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_gmusicbrowser.html:11
@@ -177,7 +165,7 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_office.html:8
 msgid ""
-"LibreOffice is also available in the repositories, if you're more "
+"<em>LibreOffice</em> is also available for installation if you're more "
 "comfortable with it or need a full office suite."
 msgstr ""
 
@@ -210,8 +198,8 @@ msgstr "1"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:9
 msgid ""
-"The application-menu gives you complete access to all your applications."
-msgstr "應用程式選單可以讓您存取所有的應用程式。"
+"The Applications menu gives you complete access to all your applications."
+msgstr ""
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:12
@@ -221,18 +209,15 @@ msgstr "2"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:13
 msgid ""
-"The launcher panel gives you <em>quick access</em> to your most important "
-"applications. It is set to autohide by default to preserve screen estate."
+"The launcher panel gives you quick access to your most important "
+"applications. It is set to autohide by default to preserve screen space."
 msgstr ""
-"啟動器面板讓您可以 <em>快速存取</em> 您最常用的應用程式。為了節省螢幕空間，它"
-"預設自動隱藏。"
 
 #. type: Attribute 'alt' of: <div><div><p><img>
 #: slideshows/xubuntu/slides/05_desktop.html:16
 msgid "3"
 msgstr "3"
 
-#. Open windows of r 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_desktop.html:17
 msgid "Running applications are shown in the top panel."
@@ -253,28 +238,18 @@ msgstr "使用 <em>Ubuntu 軟體中心</em> 可以讓您方便且容易地安裝
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/06_explore.html:8
 msgid ""
-"If you need help, go to <em>Help</em> in the Applications menu or see <a "
-"href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
+"To learn more about the Xubuntu desktop, including various help topics, "
+"navigate to <em>Help</em> in the Applications menu or see <a href=\"http://"
+"xubuntu.org/help\">Help & Support</a> on our website."
 msgstr ""
-"如果您需要幫助，開啟應用程式選單中的 <em>求助</em> 或者參考我們網站上的<a "
-"href=\"http://xubuntu.org/help\">幫助與支援</a>。"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_explore.html:9
-msgid ""
-"<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce on "
-"the <a href=\"http://xfce.org/\">Xfce website</a>."
-msgstr ""
-"<em>Xfce</em> 是 Xubuntu 的預設桌面環境。您可以在<a href=\"http://xfce.org/"
-"\">Xfce 網站</a>上瞭解更多 Xfce 的細節。"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_explore.html:12
+#: slideshows/xubuntu/slides/06_explore.html:11
 msgid "Software Center"
 msgstr "軟體中心"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_explore.html:13
+#: slideshows/xubuntu/slides/06_explore.html:12
 msgid "Help"
 msgstr "求助"
 
@@ -309,8 +284,77 @@ msgstr ""
 #: slideshows/xubuntu/slides/07_thanks.html:9
 msgid ""
 "Finally, find different ways to contribute to Xubuntu on the <a href="
-"\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
+"\"http://xubuntu.org/devel\">Get Involved</a> section of our website. We "
 "need your help!"
 msgstr ""
-"最後，您可以在我們網站上的 <a href=\"http://xubuntu.org/devel\">Get "
-"Involved</a> 區塊中用不同的方法來貢獻 Xubuntu。Xubuntu 的未來需要您的協助！"
+
+#~ msgid "Congratulations!"
+#~ msgstr "恭喜！"
+
+#~ msgid ""
+#~ "Xubuntu is shipping <em>Pidgin</em> as the default instant messaging "
+#~ "client."
+#~ msgstr "Xubuntu 收納 <em>Pidgin</em> 作為預設即時通訊客戶端。"
+
+#~ msgid "Your web experience"
+#~ msgstr "您的網路體驗"
+
+#~ msgid ""
+#~ "In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
+#~ "Shimmer theme."
+#~ msgstr "在 Xubuntu 中，gmusicbrowser 隨附美觀且易用的 Shimmer 佈景主題。"
+
+#~ msgid ""
+#~ "<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
+#~ "web applications."
+#~ msgstr ""
+#~ "眾多網路應用程式，您只需要 <em>Firefox</em> 和 <em>Thunderbird</em> 就能包"
+#~ "辦每件事。"
+
+#~ msgid ""
+#~ "The launcher panel gives you <em>quick access</em> to your most important "
+#~ "applications. It is set to autohide by default to preserve screen estate."
+#~ msgstr ""
+#~ "啟動器面板讓您可以 <em>快速存取</em> 您最常用的應用程式。為了節省螢幕空"
+#~ "間，它預設自動隱藏。"
+
+#~ msgid ""
+#~ "They offer you the web the way you like it: high performance, easy "
+#~ "customization and advanced security."
+#~ msgstr ""
+#~ "它們提供您依照自己想要的方式探索網路：高效能、高可自訂性、高安全性。"
+
+#~ msgid ""
+#~ "<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce "
+#~ "on the <a href=\"http://xfce.org/\">Xfce website</a>."
+#~ msgstr ""
+#~ "<em>Xfce</em> 是 Xubuntu 的預設桌面環境。您可以在<a href=\"http://xfce."
+#~ "org/\">Xfce 網站</a>上瞭解更多 Xfce 的細節。"
+
+#~ msgid ""
+#~ "The application-menu gives you complete access to all your applications."
+#~ msgstr "應用程式選單可以讓您存取所有的應用程式。"
+
+#~ msgid ""
+#~ "If you need help, go to <em>Help</em> in the Applications menu or see <a "
+#~ "href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
+#~ msgstr ""
+#~ "如果您需要幫助，開啟應用程式選單中的 <em>求助</em> 或者參考我們網站上的<a "
+#~ "href=\"http://xubuntu.org/help\">幫助與支援</a>。"
+
+#~ msgid ""
+#~ "Finally, find different ways to contribute to Xubuntu on the <a href="
+#~ "\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
+#~ "need your help!"
+#~ msgstr ""
+#~ "最後，您可以在我們網站上的 <a href=\"http://xubuntu.org/devel\">Get "
+#~ "Involved</a> 區塊中用不同的方法來貢獻 Xubuntu。Xubuntu 的未來需要您的協"
+#~ "助！"
+
+#~ msgid ""
+#~ "You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
+#~ "(Google Talk, Facebook). You can also update your Twitter account via "
+#~ "third-party plugin."
+#~ msgstr ""
+#~ "可連接各種協定，如 AIM、ICQ、IRC、MSN 及 XMPP (Google Talk、Facebook)，也"
+#~ "可以第三方外掛程式更新 Twitter 帳戶。"

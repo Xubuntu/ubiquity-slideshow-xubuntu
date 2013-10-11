@@ -7,42 +7,369 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-06-25 08:51-0600\n"
-"PO-Revision-Date: 2013-03-22 11:14+0000\n"
-"Last-Translator: Aleksey Kabanov <Unknown>\n"
+"POT-Creation-Date: 2013-09-19 11:57-0300\n"
+"PO-Revision-Date: 2013-10-09 20:58+0000\n"
+"Last-Translator: Alexander Gorodetsky <alexander@gorodetsky.org>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-06-25 15:57+0000\n"
-"X-Generator: Launchpad (build 16681)\n"
+"X-Launchpad-Export-Date: 2013-10-11 21:29+0000\n"
+"X-Generator: Launchpad (build 16799)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu-gnome/slides/00_welcome.html:1
-#: slideshows/ubuntu-gnome/slides/01_overview.html:1
-#: slideshows/ubuntu-gnome/slides/02_everything.html:1
-#: slideshows/ubuntu-gnome/slides/03_beautiful.html:1
-#: slideshows/ubuntu-gnome/slides/04_web.html:1
-#: slideshows/ubuntu-gnome/slides/05_documents.html:1
-#: slideshows/ubuntu-gnome/slides/06_messaging.html:1
-#: slideshows/ubuntu-gnome/slides/07_gethelp.html:1
-#, fuzzy
-msgid "Ubuntu GNOME 13.10"
-msgstr "Ubuntu GNOME 13.04"
+#: slideshows/ubuntu-gnome/slides/accessibility.html:2
+msgid "Access for everyone"
+msgstr "Доступность для всех"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/07_gethelp.html:8
+#: slideshows/ubuntu-gnome/slides/accessibility.html:10
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"At the heart of the Ubuntu GNOME philosophy is the belief that computing is "
+"for everyone. With advanced accessibility tools and options to change "
+"language, color scheme and text size, Ubuntu GNOME makes computing easy – "
+"whoever and wherever you are."
 msgstr ""
-"Посетите <a href=\"http://askubuntu.com/\">askubuntu.com</a>, чтобы получить "
-"ответы на все вопросы, касающиеся Ubuntu. Есть вероятность, что ответ на ваш "
-"вопрос уже существует. Если это не так, вы сможете найти тысячи "
-"добровольцев, готовых вам помочь. Дополнительные варианты поддержки "
-"представлены на странице <a href=\"http://www.ubuntu.com/support\">ubuntu."
-"com/support</a>."
+"Сердцем философии Ubuntu GNOME является вера в то, что компьютеры "
+"предназначены для всех. С улучшенными инструментами вспомогательных "
+"технологий и возможностью смены языка, цветовой схемы и размера текста, "
+"Ubuntu GNOME делает работу на компьютере простой — кем бы вы ни были и где "
+"бы ни находились."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu-gnome/slides/accessibility.html:14
+msgid "Customization options"
+msgstr "Возможности настройки"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/accessibility.html:18
+msgid "Assistive technologies"
+msgstr "Вспомогательные технологии"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/accessibility.html:22
+msgid "Language support"
+msgstr "Поддерживаемые языки"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/browse.html:2
+msgid "Make the most of the web"
+msgstr "Получите максимум от работы в сети"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/browse.html:10
+msgid ""
+"Ubuntu GNOME has everything you need to browse the web. Firefox offers "
+"powerful personalization, support for cutting-edge web standards, carefully "
+"optimized performance, and advanced security while still remaining easy to "
+"use."
+msgstr ""
+"В Ubuntu GNOME есть всё, что нужно для просмотра веб-сайтов. Firefox "
+"предлагает широкие возможности персонализации, поддержку самых современных "
+"веб-стандартов, тщательную оптимизацию производительности и улучшенную "
+"защиту, в то же время оставаясь простым в использовании."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu-gnome/slides/browse.html:14
+#: slideshows/ubuntu-gnome/slides/media.html:15
+#: slideshows/ubuntu-gnome/slides/office.html:14
+#: slideshows/ubuntu-gnome/slides/photos.html:14
+msgid "Included software"
+msgstr "ПО в комплекте:"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/browse.html:18
+msgid "Firefox Web Browser"
+msgstr "Веб-браузер Firefox"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu-gnome/slides/browse.html:21
+#: slideshows/ubuntu-gnome/slides/media.html:26
+#: slideshows/ubuntu-gnome/slides/photos.html:21
+msgid "Supported software"
+msgstr "Поддерживаемое ПО"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/browse.html:25
+msgid "Flash"
+msgstr "Flash"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/browse.html:29
+msgid "Chromium"
+msgstr "Chromium"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/desktop.html:2
+msgid "Simple and easy to use"
+msgstr "Простота и удобство в работе"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:10
+msgid ""
+"<strong>The Activities Overview is an easy way to access all your basic "
+"tasks. </strong>"
+msgstr ""
+"<strong>Activities Overview - это удобный способ доступа для всех ваших "
+"основных задач. </strong>"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:11
+msgid ""
+"Having everything in one place is convenient and means that you don't have "
+"to learn your way around a maze of different technologies."
+msgstr ""
+"Иметь в одном месте всё что нужно — очень удобно и означает, что вам не "
+"придётся блуждать в лабиринте различных технологий."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:18
+msgid "Launch and manage <strong>your apps</strong> from the Dash"
+msgstr ""
+"Запускайте <strong>ваши приложения<strong> и управляйте ими с помощью Dash"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:22
+msgid "Check <strong>your notifications</strong> easily"
+msgstr "Легко проверяйте <strong>ваши уведомления</strong>"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/desktop.html:26
+msgid "Enhance your workflow with <strong>dynamic workspaces</strong>"
+msgstr ""
+"Улучшите свой рабочий процесс с помощью <strong>динамических рабочих мест</"
+"strong>"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:2
+msgid "Help and support"
+msgstr "Помощь и поддержка"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:10
+msgid "Thank you for choosing and installing Ubuntu GNOME."
+msgstr "Благодарим вас за выбор и установку Ubuntu GNOME."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:11
+msgid ""
+"Learn more about Ubuntu GNOME from <a href=\"https://wiki.ubuntu.com/"
+"UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
+msgstr ""
+"Узнайте больше об Ubuntu GNOME на <a href=\"https://wiki.ubuntu.com/"
+"UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:12
+msgid ""
+"For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
+"ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
+msgstr ""
+"За помощью и поддержкой зайдите на <a href=\"https://wiki.ubuntu.com/"
+"UbuntuGNOME/ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:13
+msgid "Enjoy and have fun!"
+msgstr "Наслаждайтесь и развлекайтесь!"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/goa.html:2
+msgid "Easily access your personal cloud"
+msgstr "Простой доступ к вашему персональному облаку"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/goa.html:10
+msgid ""
+"Ubuntu GNOME will seamlessly integrate with your online accounts, so that "
+"all your data can be accessed from the same place. This takes the work out "
+"of using online accounts and makes it easy to find things when you need them."
+msgstr ""
+"Ubuntu GNOME будет легко интегрироваться с вашими онлайн-аккаунтами, так что "
+"все ваши данные могут быть доступны в одном месте. Это позволяет быстрее "
+"получать доступ к вашим учетным записям и легко находить интересующие вас "
+"вещи."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/goa.html:17
+msgid "Access <strong>your online documents</strong> natively"
+msgstr ""
+"Работайте с <strong>вашими документами онлайн</strong> беспрепятственно"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/goa.html:21
+msgid "Manage <strong>your address book</strong> easily"
+msgstr "Легко управляйте <strong>вашей адресной книгой</strong>"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/goa.html:25
+msgid "Chat with <strong>your friends</strong> from Facebook, Google, etc."
+msgstr ""
+"Общайтесь со <strong>своими друзьями</strong> из Facebook, Google и др."
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/media.html:2
+msgid "Enjoy your music and videos"
+msgstr "Наслаждайтесь музыкой и видео"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/media.html:10
+msgid ""
+"Rhythmbox lets you organize your music and listen to Internet radio, "
+"podcasts, and more."
+msgstr ""
+"Rhythmbox позволит вам упорядочить свою музыкальную коллекцию и слушать "
+"интернет-радио, подкасты и многое другое."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/media.html:11
+msgid ""
+"GNOME Videos allows you to easily watch videos from your computer, DVD, or "
+"streamed over the Internet."
+msgstr ""
+"GNOME Videos позволяет легко смотреть видео на вашем компьютере, DVD, или в "
+"потоковом режиме через Интернет."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/media.html:19
+msgid "Rhythmbox Music Player"
+msgstr "Музыкальный проигрыватель Rhythmbox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/media.html:23
+msgid "Videos"
+msgstr "Видеозаписи"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/media.html:30
+msgid "Pitivi Video Editor"
+msgstr "Видеоредактор Pitivi"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/office.html:2
+msgid "Everything you need for the office"
+msgstr "Всё, что нужно для офиса"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/office.html:10
+msgid ""
+"We understand how important your computer is for day-to-day tasks. Create "
+"professional documents, spreadsheets and presentations with LibreOffice and "
+"manage your local and online documents in a single place with GNOME "
+"Documents."
+msgstr ""
+"Мы понимаем как важен ваш компьютер для повседневных задач. Создавайте "
+"профессиональные документы, таблицы и презентации с LibreOffice и управляйте "
+"вашими локальными и онлайн документами в одном месте с GNOME Documents."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/office.html:18
+msgid "LibreOffice Suite"
+msgstr "Пакет LibreOffice"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/office.html:22
+msgid "Documents"
+msgstr "Документы"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/office.html:26
+msgid "Evince Document Viewer"
+msgstr "Программа  просмотра документов Evince"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/photos.html:2
+msgid "Have fun with your photos"
+msgstr "Наслаждайтесь вашими фотографиями"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/photos.html:10
+msgid ""
+"With Shotwell, you can quickly and easily import, organize, edit and view "
+"your pictures. And you can share your favorite snaps on all popular photo "
+"sites and social networks."
+msgstr ""
+"С помощью Shotwell вы можете быстро и легко импортировать, упорядочивать, "
+"редактировать и просматривать свои фотографии. Можно также опубликовать "
+"лучшие снимки на популярных фотосайтах и в социальных сетях."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/photos.html:18
+msgid "Shotwell Photo Manager"
+msgstr "Менеджер фотографий Shotwell"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/photos.html:25
+msgid "GIMP Image Editor"
+msgstr "Графический редактор GIMP"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-gnome/slides/photos.html:29
+msgid "Inkscape"
+msgstr "Inkscape"
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/usc.html:2
+msgid "Find even more software"
+msgstr "Поиск дополнительных приложений"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/usc.html:10
+msgid "<strong>Say goodbye to searching the web for new software. </strong>"
+msgstr ""
+"<strong>Попрощайтесь с поиском новых приложений в Интернете вручную. </"
+"strong>"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/usc.html:11
+msgid ""
+"Ubuntu Software Center gives you instant access to thousands of great games "
+"and applications — some free and some available commercially. If you see "
+"something you like, you can see more information and install it in just a "
+"few clicks."
+msgstr ""
+"Центр приложений Ubuntu предоставляет вам постоянный доступ к тысячам "
+"отличных игр и приложений — как бесплатных, так и коммерческих. Если вы "
+"найдёте то, что вам понравится, можете просмотреть более подробную "
+"информацию и установить приложение всего несколькими щелчками мыши."
+
+#. type: Content of: <div><h1>
+#: slideshows/ubuntu-gnome/slides/welcome.html:2
+msgid "Welcome to Ubuntu GNOME 13.10"
+msgstr "Добро пожаловать в Ubuntu GNOME 13.10"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/welcome.html:10
+msgid ""
+"Ubuntu GNOME features the GNOME desktop on top of the popular Ubuntu "
+"foundation."
+msgstr ""
+"Ubuntu GNOME использует среду рабочего стола GNOME поверх популярной  "
+"операционной системы Ubuntu."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/welcome.html:11
+msgid ""
+"We believe the combination of Ubuntu and GNOME is the best choice for those "
+"looking for a beautiful, simple, and usable operating system."
+msgstr ""
+"Мы считаем, что комбинация Ubuntu и GNOME — наилучший выбор для тех, кому "
+"нужна красивая, простая и удобная операционная система."
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "Посетите <a href=\"http://askubuntu.com/\">askubuntu.com</a>, чтобы "
+#~ "получить ответы на все вопросы, касающиеся Ubuntu. Есть вероятность, что "
+#~ "ответ на ваш вопрос уже существует. Если это не так, вы сможете найти "
+#~ "тысячи добровольцев, готовых вам помочь. Дополнительные варианты "
+#~ "поддержки представлены на странице <a href=\"http://www.ubuntu.com/support"
+#~ "\">ubuntu.com/support</a>."
+
+#~ msgid "Ubuntu GNOME 13.04"
+#~ msgstr "Ubuntu GNOME 13.04"
