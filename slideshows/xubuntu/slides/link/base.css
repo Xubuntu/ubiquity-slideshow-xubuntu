@@ -66,12 +66,11 @@ table {
 
 html, body {
 	font-family: "Droid Sans", sans-serif;
-
-	color: #bbcdde;
 }
 
 #slideshow {
-	background-image: url(wall.png);
+	background: #0b3a6b url(wall.png) 50% -25px repeat;
+	color: rgba( 255, 255, 255, 0.8 );
 
 	width: 750px;
 	height: 420px;
@@ -119,7 +118,7 @@ html, body {
  */
 
 a {
-	color: #fff; /*#214478; */
+	color: #fff;
 	text-decoration: none;
 }
 
@@ -138,12 +137,10 @@ p, ul, ol {
 h2 {
 	width: 270px;
 
-/*	border-top: 1px solid rgba( 255, 255, 255, 0.3 ); */
 	padding-top: 5px;
 	margin-top: 2em;
 	margin-bottom: 0.5em;
 
-	font-family: "Droid Serif", serif;
 	font-size: 90%;
 	color: #fff;
 }
@@ -168,7 +165,6 @@ h2 {
 		color: #fff;
 
 		font-size: 180%;
-		font-family: "Droid Serif", serif;
 		font-weight: normal;
 	}
 
