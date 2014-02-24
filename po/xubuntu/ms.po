@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-09-19 11:56-0300\n"
+"POT-Creation-Date: 2014-02-21 12:07-0500\n"
 "PO-Revision-Date: 2013-09-20 02:05+0000\n"
 "Last-Translator: abuyop <Unknown>\n"
 "Language-Team: Malay <ms@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-11 21:29+0000\n"
-"X-Generator: Launchpad (build 16799)\n"
+"X-Launchpad-Export-Date: 2014-02-24 15:22+0000\n"
+"X-Generator: Launchpad (build 16926)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,8 +25,9 @@ msgstr "Selamat datang ke Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
+#, fuzzy
 msgid "Congratulations! You have chosen to install Xubuntu 14.04."
-msgstr "Tahniah! Anda telah pilih untuk memasang Xubuntu 14.04."
+msgstr "Tahniah! Anda telah pilih untuk memasang Xubuntu 13.10."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -39,10 +40,11 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
+#, fuzzy
 msgid ""
-"Since you are installing this software using the Xubuntu live installation, "
-"feel free to examine things as it installs. After the installation, the "
-"desktop will look much the same as it does now."
+"If you are running this installation via the 'Try Xubuntu' option, feel free "
+"to examine things as it installs. After the installation, the desktop will "
+"look much the same as it does now."
 msgstr ""
 "Oleh kerana anda memasang perisian ini menggunakan pemasangan langsung "
 "Xubuntu, lihatlah di dalamnya semasa ia membuat pemasangan. Selepas "
@@ -317,94 +319,17 @@ msgstr ""
 "Xubuntu di bahagian <a href=\"http://xubuntu.org/devel\">Get Involved</a> "
 "laman sesawang kami. Kami perlukan bantuan anda!"
 
-#~ msgid "Congratulations!"
-#~ msgstr "Tahniah!"
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:2
+msgid "New since 12.04"
+msgstr ""
 
-#~ msgid "Your web experience"
-#~ msgstr "Pengalaman sesawang anda"
+#. type: Content of: <div><div><ul><li>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:8
+msgid "Mugshot"
+msgstr ""
 
-#~ msgid ""
-#~ "<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
-#~ "web applications."
-#~ msgstr ""
-#~ "<em>Firefox</em> dan <em>Thunderbird</em> adalah segalanya yang anda "
-#~ "perlukan melalui aplikasi sesawang."
-
-#~ msgid ""
-#~ "They offer you the web the way you like it: high performance, easy "
-#~ "customization and advanced security."
-#~ msgstr ""
-#~ "Ia menyediakan penjelajahan sesawang mengikut kehendak anda: berprestasi "
-#~ "tinggi, mudah disuaikan dan keselamatan yang canggih."
-
-#~ msgid ""
-#~ "In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
-#~ "Shimmer theme."
-#~ msgstr ""
-#~ "Dalam Xubuntu, gmusicbrowser direka dengan tema Shimmer yang cantik dan "
-#~ "mudah digunakan."
-
-#~ msgid ""
-#~ "Xubuntu is shipping <em>Pidgin</em> as the default instant messaging "
-#~ "client."
-#~ msgstr ""
-#~ "Xubuntu disertakan dengan <em>Pidgin</em> sebagai klien pesanan segera "
-#~ "lalai."
-
-#~ msgid ""
-#~ "The launcher panel gives you <em>quick access</em> to your most important "
-#~ "applications. It is set to autohide by default to preserve screen estate."
-#~ msgstr ""
-#~ "Panel pelancar memberikan anda <em>capaian pantas</em> kepada kebanyakan "
-#~ "aplikasi utama. Ia ditetapkan kepada mod auto-sembunyi secara lalai untuk "
-#~ "mengekalkan keadaan skrin."
-
-#~ msgid ""
-#~ "The application-menu gives you complete access to all your applications."
-#~ msgstr ""
-#~ "Menu-aplikasi memberikan anda capaian yang lengkap kepada semua aplikasi "
-#~ "anda."
-
-#~ msgid ""
-#~ "<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce "
-#~ "on the <a href=\"http://xfce.org/\">Xfce website</a>."
-#~ msgstr ""
-#~ "<em>Xfce</em> ialah persekitaran desktop Xubuntu. Maklumat lanjut "
-#~ "mengenai Xfce boleh didapati di <a href=\"http://xfce.org/\">laman "
-#~ "sesawang Xfce</a>."
-
-#~ msgid ""
-#~ "If you need help, go to <em>Help</em> in the Applications menu or see <a "
-#~ "href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
-#~ msgstr ""
-#~ "Jika anda perlukan bantuan, pergi ke <em>Bantuan</em> didalam menu "
-#~ "aplikasi atau rujuk ke <a href=\"http://xubuntu.org/help\">Bantuan & "
-#~ "Sokongan</a> pada laman sesawang kami."
-
-#~ msgid ""
-#~ "Finally, find different ways to contribute to Xubuntu on the <a href="
-#~ "\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
-#~ "need your help!"
-#~ msgstr ""
-#~ "Akhir sekali, berikan pelbagai cara sumbangan ke Xubuntu dibahagian <a "
-#~ "href=\"http://xubuntu.org/devel\">Beri Sumbangan</a> pada laman sesawang "
-#~ "kami. Kami memerlukan bantuan anda!"
-
-#~ msgid ""
-#~ "You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
-#~ "(Google Talk, Facebook). You can also update your Twitter account via "
-#~ "third-party plugin."
-#~ msgstr ""
-#~ "Anda boleh sambung ke pelbagai protokol seperti AIM, ICQ, IRC, MSN dan "
-#~ "XMPP (Google Talk, Facebook). Anda juga boleh kemaskini akaun Twitter "
-#~ "anda melalui pemalam pihak-ketiga."
-
-#~ msgid ""
-#~ "LibreOffice is also available in the repositories, if you're more "
-#~ "comfortable with it or need a full office suite."
-#~ msgstr ""
-#~ "LibreOffice juga tersedia didalam repositori, jika anda lebih selesa "
-#~ "dengannya atau perlukan suit pejabat yang lengkap."
-
-#~ msgid "You have chosen to install the latest version of Xubuntu, 13.04."
-#~ msgstr "Anda telah memilih untuk pasang versi terkini Xubuntu, 13.04."
+#. type: Content of: <div><div><ul><li>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:9
+msgid "MenuLibre"
+msgstr ""

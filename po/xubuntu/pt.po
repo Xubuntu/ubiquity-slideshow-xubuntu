@@ -7,26 +7,27 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-09-19 11:56-0300\n"
-"PO-Revision-Date: 2013-04-09 22:54+0000\n"
-"Last-Translator: Ana Figueiras <phreakia@gmail.com>\n"
+"POT-Creation-Date: 2014-02-21 12:07-0500\n"
+"PO-Revision-Date: 2014-01-29 12:32+0000\n"
+"Last-Translator: Filipe André Pinho <Unknown>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-11 21:29+0000\n"
-"X-Generator: Launchpad (build 16799)\n"
+"X-Launchpad-Export-Date: 2014-02-24 15:22+0000\n"
+"X-Generator: Launchpad (build 16926)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
 msgid "Welcome to Xubuntu"
-msgstr ""
+msgstr "Bem-vindo ao Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
+#, fuzzy
 msgid "Congratulations! You have chosen to install Xubuntu 14.04."
-msgstr ""
+msgstr "Parabéns! Escolheu instalar o Xubuntu 13.10."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -39,10 +40,11 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
+#, fuzzy
 msgid ""
-"Since you are installing this software using the Xubuntu live installation, "
-"feel free to examine things as it installs. After the installation, the "
-"desktop will look much the same as it does now."
+"If you are running this installation via the 'Try Xubuntu' option, feel free "
+"to examine things as it installs. After the installation, the desktop will "
+"look much the same as it does now."
 msgstr ""
 "Uma vez que está a instalar o sistema através da instalação live do  "
 "Xubuntu, esteja à vontade para examinar as coisas enquanto instala. Assim "
@@ -52,7 +54,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_internet.html:2
 msgid "Your internet experience"
-msgstr ""
+msgstr "A sua experiência na internet"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_internet.html:7
@@ -61,6 +63,8 @@ msgid ""
 "internet applications: high performance, easy customization and advanced "
 "security."
 msgstr ""
+"<em>Firefox</em> e <em>Thunderbird</em> são tudo o que precisa de aplicações "
+"de internet: alta performance, fácil personalização e segurança avançada."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/xubuntu/slides/01_internet.html:9
@@ -109,6 +113,8 @@ msgstr "Mensagens instantâneas"
 #: slideshows/xubuntu/slides/02_messaging.html:7
 msgid "Xubuntu ships <em>Pidgin</em> as the default instant messaging client."
 msgstr ""
+"O Xubuntu vem com o <em>Pidgin</em> por defeito como cliente de mensagens "
+"instantâneas."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:8
@@ -116,6 +122,8 @@ msgid ""
 "With Pidgin, you can connect to various protocols such as AIM, ICQ, IRC, MSN "
 "and XMPP (Google Talk, Facebook)."
 msgstr ""
+"Com o Pidgin, poderá ligar-se a vários protocolos tais como AIM, ICQ, IRC, "
+"MSN e XMPP (Google Talk, Facebook)."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/02_messaging.html:11
@@ -299,90 +307,17 @@ msgid ""
 "need your help!"
 msgstr ""
 
-#~ msgid "Congratulations!"
-#~ msgstr "Parabéns!"
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:2
+msgid "New since 12.04"
+msgstr ""
 
-#~ msgid ""
-#~ "<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
-#~ "web applications."
-#~ msgstr ""
-#~ "<em>Firefox</em> e <em>Thunderbird</em> são as suas aplicações para a web."
+#. type: Content of: <div><div><ul><li>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:8
+msgid "Mugshot"
+msgstr ""
 
-#~ msgid ""
-#~ "They offer you the web the way you like it: high performance, easy "
-#~ "customization and advanced security."
-#~ msgstr ""
-#~ "Ambas disponibilizam a web como você gosta: alto desempenho, muita "
-#~ "personalização e segurança avançada."
-
-#~ msgid "Your web experience"
-#~ msgstr "A sua experiência web"
-
-#~ msgid ""
-#~ "In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
-#~ "Shimmer theme."
-#~ msgstr ""
-#~ "No Xubuntu, o gmusicbrowser vem configurado com o tema Shimmer e com uma "
-#~ "interface bonita."
-
-#~ msgid ""
-#~ "Xubuntu is shipping <em>Pidgin</em> as the default instant messaging "
-#~ "client."
-#~ msgstr ""
-#~ "O Xubuntu utiliza o <em>Pidgin</em> como aplicação de mensagens "
-#~ "instantâneas."
-
-#~ msgid ""
-#~ "The application-menu gives you complete access to all your applications."
-#~ msgstr "O menu dá-lhe acesso a todas as suas aplicações."
-
-#~ msgid ""
-#~ "<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce "
-#~ "on the <a href=\"http://xfce.org/\">Xfce website</a>."
-#~ msgstr ""
-#~ "O <em>Xfce</em> é o ambiente de trabalho do Xubuntu. Saiba mais sobre o "
-#~ "Xfce na <a href=\"http://xfce.org/\">página Xfce</a>."
-
-#~ msgid ""
-#~ "Finally, find different ways to contribute to Xubuntu on the <a href="
-#~ "\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
-#~ "need your help!"
-#~ msgstr ""
-#~ "E por fim, envolva-se no desenvolvimento do Xubuntu na secção <a href="
-#~ "\"http://xubuntu.org/devel\">Get Involved</a> na nossa página web. "
-#~ "Precisamos da sua ajuda!"
-
-#~ msgid "You have chosen to install the latest version of Xubuntu, 13.04."
-#~ msgstr "Escolheu instalar a última versão do Xubuntu, 13.04."
-
-#~ msgid ""
-#~ "You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
-#~ "(Google Talk, Facebook). You can also update your Twitter account via "
-#~ "third-party plugin."
-#~ msgstr ""
-#~ "Pode ligar-se a vários protocolos como AIM, ICQ, IRC, MSN e XMPP (Google "
-#~ "Talk, Facebook). Também pode actualizar a sua conta do Twitter através de "
-#~ "um plugin."
-
-#~ msgid ""
-#~ "LibreOffice is also available in the repositories, if you're more "
-#~ "comfortable with it or need a full office suite."
-#~ msgstr ""
-#~ "O LibreOffice também está disponível nos repositórios se estiver mais "
-#~ "familiarizado com este ou se necessita de uma suite completa de "
-#~ "produtividade."
-
-#~ msgid ""
-#~ "The launcher panel gives you <em>quick access</em> to your most important "
-#~ "applications. It is set to autohide by default to preserve screen estate."
-#~ msgstr ""
-#~ "O iniciador de aplicações dá-lhe <em> acesso rápido <em> às aplicações "
-#~ "mais importantes. Está definido para ser ocultado automaticamente."
-
-#~ msgid ""
-#~ "If you need help, go to <em>Help</em> in the Applications menu or see <a "
-#~ "href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
-#~ msgstr ""
-#~ "Se precisar de ajuda vá até ao ícone <em>Ajuda</em> no menu Aplicações ou "
-#~ "veja na nossa página web <a href=\"http://xubuntu.org/help\">Ajuda & "
-#~ "Suporte</a>."
+#. type: Content of: <div><div><ul><li>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:9
+msgid "MenuLibre"
+msgstr ""

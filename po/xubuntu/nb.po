@@ -7,26 +7,27 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-09-19 11:56-0300\n"
-"PO-Revision-Date: 2012-03-25 14:41+0000\n"
+"POT-Creation-Date: 2014-02-21 12:07-0500\n"
+"PO-Revision-Date: 2014-02-13 20:39+0000\n"
 "Last-Translator: Hans Joachim Desserud <Unknown>\n"
 "Language-Team: Norwegian Bokmal <nb@li.org>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-11 21:29+0000\n"
-"X-Generator: Launchpad (build 16799)\n"
+"X-Launchpad-Export-Date: 2014-02-24 15:22+0000\n"
+"X-Generator: Launchpad (build 16926)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
 msgid "Welcome to Xubuntu"
-msgstr ""
+msgstr "Velkommen til Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
+#, fuzzy
 msgid "Congratulations! You have chosen to install Xubuntu 14.04."
-msgstr ""
+msgstr "Gratulerer! Du har valgt å installere Xubuntu 13.10."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -39,10 +40,11 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
+#, fuzzy
 msgid ""
-"Since you are installing this software using the Xubuntu live installation, "
-"feel free to examine things as it installs. After the installation, the "
-"desktop will look much the same as it does now."
+"If you are running this installation via the 'Try Xubuntu' option, feel free "
+"to examine things as it installs. After the installation, the desktop will "
+"look much the same as it does now."
 msgstr ""
 "Ikke vær redd for å utforske systemet mens Xubuntus live-installasjon "
 "kjører. Skrivebordet vil stort sett se likt ut etter at installasjonen er "
@@ -295,88 +297,17 @@ msgid ""
 "need your help!"
 msgstr ""
 
-#~ msgid "Congratulations!"
-#~ msgstr "Gratulerer!"
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:2
+msgid "New since 12.04"
+msgstr ""
 
-#~ msgid ""
-#~ "Xubuntu is shipping <em>Pidgin</em> as the default instant messaging "
-#~ "client."
-#~ msgstr "Xubuntu blir levert med direktemeldingsprogrammet <em>Pidgin</em>."
+#. type: Content of: <div><div><ul><li>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:8
+msgid "Mugshot"
+msgstr ""
 
-#~ msgid ""
-#~ "<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
-#~ "web applications."
-#~ msgstr ""
-#~ "<em>Firefox</em> og <em>Thunderbird</em> har alt du trenger fra "
-#~ "nettprogrammer."
-
-#~ msgid ""
-#~ "They offer you the web the way you like it: high performance, easy "
-#~ "customization and advanced security."
-#~ msgstr ""
-#~ "De gir deg nettet slik du vil ha det; de er kraftige, lette å tilpasse og "
-#~ "tilbyr avansert sikkerhet."
-
-#~ msgid "Your web experience"
-#~ msgstr "Dine nettopplevelser"
-
-#~ msgid ""
-#~ "In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
-#~ "Shimmer theme."
-#~ msgstr ""
-#~ "I Xubuntu bruker gmusicbrowser den flotte og lettvinte Shimmer-drakten."
-
-#~ msgid ""
-#~ "The launcher panel gives you <em>quick access</em> to your most important "
-#~ "applications. It is set to autohide by default to preserve screen estate."
-#~ msgstr ""
-#~ "Oppstartpanelet gir <em>rask tilgang</em> til de viktigste programmene. "
-#~ "Det er stilt inn slik at det gjemmer seg, for ikke å bruke verdfull "
-#~ "skjermplass unødig."
-
-#~ msgid ""
-#~ "The application-menu gives you complete access to all your applications."
-#~ msgstr "Programmenyen gir deg full tilgang til alle programmene dine."
-
-#~ msgid ""
-#~ "<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce "
-#~ "on the <a href=\"http://xfce.org/\">Xfce website</a>."
-#~ msgstr ""
-#~ "<em>Xfce</em> er skrivebordsmiljøet i Xubuntu. Les mer om Xfce på <a href="
-#~ "\"http://xfce.org/\">Xfce-nettstaden</a>."
-
-#~ msgid ""
-#~ "Finally, find different ways to contribute to Xubuntu on the <a href="
-#~ "\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
-#~ "need your help!"
-#~ msgstr ""
-#~ "Til sist: Du kan finne måter å bidra til Xubuntu på under <a href="
-#~ "\"http://xubuntu.org/devel\">Bidra</a>-delen av nettidene våre. Vi "
-#~ "trenger din hjelp!"
-
-#~ msgid ""
-#~ "If you need help, go to <em>Help</em> in the Applications menu or see <a "
-#~ "href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
-#~ msgstr ""
-#~ "Hvis du skulle du trenge hjelp, kan du gå til <em>Hjelp</em> i Program-"
-#~ "menyen, eller se <a href=\"http://xubuntu.org/help\">Help & Support</a> "
-#~ "på nettsiden."
-
-#~ msgid ""
-#~ "LibreOffice is also available in the repositories, if you're more "
-#~ "comfortable with it or need a full office suite."
-#~ msgstr ""
-#~ "Du finner også LibreOffice i pakkebrønnen, i tilfelle du foretrekker det "
-#~ "eller har behov for en fullverdig kontorplattform."
-
-#~ msgid ""
-#~ "You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
-#~ "(Google Talk, Facebook). You can also update your Twitter account via "
-#~ "third-party plugin."
-#~ msgstr ""
-#~ "Du kan koble til diverse tjenester som for eksempel AIM, ICQ, IRC, MSN og "
-#~ "XMPP (Google nettprat, Facebook). Du kan også oppdatere Twitter-kontoen "
-#~ "din via et programtillegg fra en tredjepart."
-
-#~ msgid "You have chosen to install the latest version of Xubuntu, 13.04."
-#~ msgstr "Du har valgt å installere den nyeste versjonen av Xubuntu 13.04."
+#. type: Content of: <div><div><ul><li>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:9
+msgid "MenuLibre"
+msgstr ""

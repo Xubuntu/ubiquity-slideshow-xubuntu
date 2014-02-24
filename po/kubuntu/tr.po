@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-07-04 11:10+0530\n"
-"PO-Revision-Date: 2013-08-04 19:28+0000\n"
-"Last-Translator: İbrahim Çelik <ibrahimcelik89@gmail.com>\n"
+"POT-Creation-Date: 2014-02-21 12:07-0500\n"
+"PO-Revision-Date: 2013-10-23 21:21+0000\n"
+"Last-Translator: Volkan Gezer <Unknown>\n"
 "Language-Team: Turkish <tr@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-11 21:28+0000\n"
-"X-Generator: Launchpad (build 16799)\n"
+"X-Launchpad-Export-Date: 2014-02-24 15:21+0000\n"
+"X-Generator: Launchpad (build 16926)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -114,8 +114,8 @@ msgid ""
 msgstr ""
 "Yoğun yazılmış yardımımıza ek olarak, Ubuntu topluluğu ile iç içe olan "
 "Kubuntu topluluğu, kişiye ve Internet üzerinden ücretsiz teknik destek "
-"vermektedir. Daha fazlası için <a href=\"http://www.kubuntu.org/support"
-"\">kubuntu.org/support</a> adresine bakın."
+"vermektedir. Daha fazlası için <a href=\"http://tr.kubuntu.org/?q=destek"
+"\">tr.kubuntu.org/?q=destek</a> adresine bakın."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/get-help.html:12
@@ -123,8 +123,8 @@ msgid ""
 "Let us know about your Kubuntu experience at <a href=\"http://www.kubuntu."
 "org/community\">kubuntu.org/community</a>!"
 msgstr ""
-"<a href=\"http://www.kubuntu.org/community\">kubuntu.org/community</a> "
-"adresinden Kubuntu deneyiminizi paylaşın!"
+"<a href=\"http://tr.kubuntu.org/\">tr.kubuntu.org/</a> adresinden Kubuntu "
+"deneyiminizi paylaşın!"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/get-involved.html:1
@@ -246,20 +246,18 @@ msgstr ""
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/internet.html:1
-msgid "The Internet, your way"
-msgstr "İstediğiniz gibi bir İnternet"
+msgid "Make the most of the web"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:5
 msgid ""
-"Kubuntu ships software necessary to utilize the Internet for many different "
-"situations."
+"Kubuntu includes Mozilla Firefox, the web browser used by millions of people "
+"around the world."
 msgstr ""
-"Kubuntu, İnternet kullanımınız için gerekebilecek birçok farklı yazılım ile "
-"gelmektedir."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:7
+#: slideshows/kubuntu/slides/internet.html:6
 msgid ""
 "Browse the web, share your files, software, and multimedia, send and receive "
 "e-mail, and communicate with friends and family."
@@ -269,10 +267,11 @@ msgstr ""
 "kurun."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:10
+#: slideshows/kubuntu/slides/internet.html:9
+#, fuzzy
 msgid ""
-"Web browsers such as <em>Firefox</em> and Google's <em>Chromium</em> are "
-"easily installable."
+"Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
+"installable."
 msgstr ""
 "<em>Firefox</em> ve Google <em>Chromium</em> gibi web tarayıcıları "
 "kolaylıkla kurulabilmektedir."
@@ -297,7 +296,7 @@ msgid ""
 "Internet radio, podcasts, and more, as well as synchronizes your audio "
 "collection to a portable audio player."
 msgstr ""
-"<em>Amarok</em> müzik çalar, şarkılarınızı yönetmenizi ve İnternet radyoları "
+"<em>Amarok</em> müzikçalar, şarkılarınızı yönetmenizi ve İnternet radyoları "
 "ile ortam akışlarınızı dinlemenizi sağlamanın yanı sıra, müzik arşivinizi "
 "taşınabilir müzik oynatıcı cihazlarla eşitleyebilmenizi sağlar."
 
@@ -404,8 +403,9 @@ msgstr "Hoş Geldiniz"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:6
+#, fuzzy
 msgid "Thank you for choosing Kubuntu 14.04."
-msgstr "Kubuntu 14.04'u tercih ettiğiniz için teşekkür ederiz."
+msgstr "Kubuntu 13.10'u tercih ettiğiniz için teşekkür ederiz."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:7
@@ -433,21 +433,12 @@ msgstr ""
 msgid "Kubuntu is designed to be easy. Feel free to explore!"
 msgstr "Kubuntu, kolay olması için tasarlanmıştır. Keşfetmekten çekinmeyin!"
 
-#~ msgid ""
-#~ "First Person Shooters, Role Play Games, and more are also available in "
-#~ "the repositories."
-#~ msgstr ""
-#~ "Depolarda; Birinci Şahıs Nişancı (FPS), Rol Yapma (RPG) ve daha bir çok "
-#~ "türde oyun bulunmaktadır."
-
-#~ msgid "Thank you for choosing Kubuntu 13.04."
-#~ msgstr "Kubuntu 13.04'ü seçtiğiniz için teşekkür ederiz."
+#~ msgid "The Internet, your way"
+#~ msgstr "İstediğiniz gibi bir İnternet"
 
 #~ msgid ""
-#~ "<em>LibreOffice</em> works with documents from other popular office "
-#~ "applications include WordPerfect and Microsoft Office. It uses the "
-#~ "standard OpenDocument format."
+#~ "Kubuntu ships software necessary to utilize the Internet for many "
+#~ "different situations."
 #~ msgstr ""
-#~ "<em>LibreOffice</em>; WordPerfect ve Microsoft Office gibi diğer popüler "
-#~ "ofis uygulamalarının dosya biçimleri ile de çalışabilir. Öntanımlı olarak "
-#~ "standart OpenDocument biçimini kullanır."
+#~ "Kubuntu, İnternet kullanımınız için gerekebilecek birçok farklı yazılım "
+#~ "ile gelmektedir."

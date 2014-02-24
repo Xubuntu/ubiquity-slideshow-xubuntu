@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-09-19 11:56-0300\n"
-"PO-Revision-Date: 2013-10-08 19:38+0000\n"
-"Last-Translator: Aleksey Kabanov <Unknown>\n"
+"POT-Creation-Date: 2014-02-21 12:07-0500\n"
+"PO-Revision-Date: 2014-01-02 12:20+0000\n"
+"Last-Translator: Семёнов Юрий Сергеевич <cbne@yandex.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-11 21:29+0000\n"
-"X-Generator: Launchpad (build 16799)\n"
+"X-Launchpad-Export-Date: 2014-02-24 15:22+0000\n"
+"X-Generator: Launchpad (build 16926)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,8 +25,9 @@ msgstr "Добро пожаловать в Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
+#, fuzzy
 msgid "Congratulations! You have chosen to install Xubuntu 14.04."
-msgstr "Поздравляем! Вы выбрали установку Xubuntu 14.04."
+msgstr "Поздравляем! Вы выбрали установку Xubuntu 13.10."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -39,10 +40,11 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
+#, fuzzy
 msgid ""
-"Since you are installing this software using the Xubuntu live installation, "
-"feel free to examine things as it installs. After the installation, the "
-"desktop will look much the same as it does now."
+"If you are running this installation via the 'Try Xubuntu' option, feel free "
+"to examine things as it installs. After the installation, the desktop will "
+"look much the same as it does now."
 msgstr ""
 "Так как вы устанавливаете это программное обеспечение с интерактивного "
 "носителя Xubuntu, у вас есть возможность ознакомиться с ним, пока оно "
@@ -52,7 +54,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_internet.html:2
 msgid "Your internet experience"
-msgstr ""
+msgstr "Ваш интернет обозреватель"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_internet.html:7
@@ -320,91 +322,17 @@ msgstr ""
 "<a href=\"http://xubuntu.org/devel\">Get Involved</a> нашего веб-сайта. Нам "
 "нужна ваша помощь!"
 
-#~ msgid "Congratulations!"
-#~ msgstr "Поздравляем!"
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:2
+msgid "New since 12.04"
+msgstr ""
 
-#~ msgid ""
-#~ "Xubuntu is shipping <em>Pidgin</em> as the default instant messaging "
-#~ "client."
-#~ msgstr ""
-#~ "Xubuntu по умолчанию использует <em>Pidgin</em> в качестве приложения для "
-#~ "обмена мгновенным сообщениями."
+#. type: Content of: <div><div><ul><li>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:8
+msgid "Mugshot"
+msgstr ""
 
-#~ msgid ""
-#~ "They offer you the web the way you like it: high performance, easy "
-#~ "customization and advanced security."
-#~ msgstr ""
-#~ "С их помощью Интернет будет таким, каким он вам нравится — быстрым, легко "
-#~ "настраиваемым и безопасным."
-
-#~ msgid ""
-#~ "The launcher panel gives you <em>quick access</em> to your most important "
-#~ "applications. It is set to autohide by default to preserve screen estate."
-#~ msgstr ""
-#~ "Панель запуска обеспечивает <em>быстрый доступ</em> к самым важным "
-#~ "приложениям. Она автоматически скрывается, чтобы не занимать места на "
-#~ "экране."
-
-#~ msgid ""
-#~ "Finally, find different ways to contribute to Xubuntu on the <a href="
-#~ "\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
-#~ "need your help!"
-#~ msgstr ""
-#~ "Вы можете ознакомиться со способами внести свой вклад в развитие Xubuntu "
-#~ "в разделе <a href=\"http://xubuntu.org/devel\">Get Involved</a> нашего "
-#~ "сайта."
-
-#~ msgid ""
-#~ "In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
-#~ "Shimmer theme."
-#~ msgstr "Gmusicbrowser в Xubuntu использует удобную и приятную тему Shimmer."
-
-#~ msgid "Your web experience"
-#~ msgstr "Работа в Интернете"
-
-#~ msgid ""
-#~ "<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
-#~ "web applications."
-#~ msgstr ""
-#~ "<em>Firefox</em> и <em>Thunderbird</em> - это всё, что вам нужно от "
-#~ "Интернет-приложений."
-
-#~ msgid "You have chosen to install the latest version of Xubuntu, 13.04."
-#~ msgstr "Вы выбрали установку самой новой версии Xubuntu, 13.04."
-
-#~ msgid ""
-#~ "You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
-#~ "(Google Talk, Facebook). You can also update your Twitter account via "
-#~ "third-party plugin."
-#~ msgstr ""
-#~ "Можно общаться со своими друзьями в AIM, ICQ, IRC, MSN, XMPP (который "
-#~ "используется Google Talk и Facebook) и прочих сетях. Также можно "
-#~ "отправлять сообщения в свою учётную запись Twitter с помощью стороннего "
-#~ "дополнения."
-
-#~ msgid ""
-#~ "LibreOffice is also available in the repositories, if you're more "
-#~ "comfortable with it or need a full office suite."
-#~ msgstr ""
-#~ "Также в хранилище доступен LibreOffice, в случае, если у вас есть опыт "
-#~ "работы с ним или вам необходим полноценный офисный пакет."
-
-#~ msgid ""
-#~ "The application-menu gives you complete access to all your applications."
-#~ msgstr ""
-#~ "Меню приложений предоставляет доступ ко всем установленным приложениям."
-
-#~ msgid ""
-#~ "<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce "
-#~ "on the <a href=\"http://xfce.org/\">Xfce website</a>."
-#~ msgstr ""
-#~ "<em>Xfce</em> — это окружение рабочего стола Xubuntu. Узнайте больше об "
-#~ "Xfce на <a href=\"http://xfce.org/\">сайте Xfce</a>."
-
-#~ msgid ""
-#~ "If you need help, go to <em>Help</em> in the Applications menu or see <a "
-#~ "href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
-#~ msgstr ""
-#~ "Если Вам нужна помощь, обратитесь к <em>Справке</em> в меню приложений "
-#~ "или зайдите в раздел <a href=\"http://xubuntu.org/help\">Справка и "
-#~ "поддержка</a> на нашем сайте."
+#. type: Content of: <div><div><ul><li>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:9
+msgid "MenuLibre"
+msgstr ""

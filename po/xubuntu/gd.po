@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-09-19 11:56-0300\n"
+"POT-Creation-Date: 2014-02-21 12:07-0500\n"
 "PO-Revision-Date: 2013-09-22 18:45+0000\n"
 "Last-Translator: Akerbeltz <fios@akerbeltz.org>\n"
 "Language-Team: Gaelic; Scottish <gd@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-11 21:29+0000\n"
-"X-Generator: Launchpad (build 16799)\n"
+"X-Launchpad-Export-Date: 2014-02-24 15:22+0000\n"
+"X-Generator: Launchpad (build 16926)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,8 +25,9 @@ msgstr "Fàilte gu Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
+#, fuzzy
 msgid "Congratulations! You have chosen to install Xubuntu 14.04."
-msgstr "Meal do naidheachd! Chuir thu romhad Xubuntu 14.04 a stàladh."
+msgstr "Meal do naidheachd! Chuir thu romhad Xubuntu 13.10 a stàladh."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -40,10 +41,11 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:9
+#, fuzzy
 msgid ""
-"Since you are installing this software using the Xubuntu live installation, "
-"feel free to examine things as it installs. After the installation, the "
-"desktop will look much the same as it does now."
+"If you are running this installation via the 'Try Xubuntu' option, feel free "
+"to examine things as it installs. After the installation, the desktop will "
+"look much the same as it does now."
 msgstr ""
 "Leis gu bheil thu a' stàladh a' bhathair-bhog seo le stàladh beò Xubuntu, 's "
 "urrainn dhut rùrachadh mun cuairt fhad 's a tha sinn 'ga stàladh dhut. Bidh "
@@ -319,94 +321,17 @@ msgstr ""
 "san earrann <a href=\"http://xubuntu.org/devel\">Gabh pàirt</a> air an "
 "làrach-lìn againn. B' fheairrde dhuinn do thaic-sa!"
 
-#~ msgid "Congratulations!"
-#~ msgstr "Meal do naidheachd!"
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:2
+msgid "New since 12.04"
+msgstr ""
 
-#~ msgid "You have chosen to install the latest version of Xubuntu, 13.04."
-#~ msgstr "Tha thu air taghadh a stàladh an tionndadh as ùr de Xubuntu, 13.04,"
+#. type: Content of: <div><div><ul><li>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:8
+msgid "Mugshot"
+msgstr ""
 
-#~ msgid ""
-#~ "<em>Firefox</em> and <em>Thunderbird</em> are everything you need from "
-#~ "web applications."
-#~ msgstr ""
-#~ "'S iad <em>Firefox</em> agus <em>Thunderbird</em> a h-uile rud a "
-#~ "dh'fheumas tu bho aplacaidean lìn."
-
-#~ msgid "Your web experience"
-#~ msgstr "D' eòlas air an lìn"
-
-#~ msgid ""
-#~ "They offer you the web the way you like it: high performance, easy "
-#~ "customization and advanced security."
-#~ msgstr ""
-#~ "Tha iad a thabhairt an lìon dhut anns an dhòigh 's fheàrr leat, "
-#~ "gnàthachadh furasta agus tèarainteachd adhartach."
-
-#~ msgid ""
-#~ "Xubuntu is shipping <em>Pidgin</em> as the default instant messaging "
-#~ "client."
-#~ msgstr ""
-#~ "Tha Xubuntu a' postadh <em>Pidgin</em> mar an cliant grad-theachdaireachd "
-#~ "bunaiteach."
-
-#~ msgid ""
-#~ "You can connect to various protocols such as AIM, ICQ, IRC, MSN and XMPP "
-#~ "(Google Talk, Facebook). You can also update your Twitter account via "
-#~ "third-party plugin."
-#~ msgstr ""
-#~ "Faodaidh tu ceangal gu pròtacalan caochlaidh mar AIM, ICQ, IRC, MSN agus "
-#~ "XMPP (Google Talk, Facebook). Faodaidh tu cuideachd ùrachadh do chunntas "
-#~ "Twitter tro plugan an treas phàrtaidh."
-
-#~ msgid ""
-#~ "If you need help, go to <em>Help</em> in the Applications menu or see <a "
-#~ "href=\"http://xubuntu.org/help\">Help & Support</a> on our website."
-#~ msgstr ""
-#~ "Ma tha thu ag iarraidh cobhair, rach gu  <em>Cobhair</em> sa chlàr-iùil "
-#~ "na aplacaidean no faic <a href=\"http://xubuntu.org/help\">Help & "
-#~ "Support</a> air ar làrach-lìn."
-
-#~ msgid ""
-#~ "In Xubuntu, gmusicbrowser comes with the good-looking and easy-to-use "
-#~ "Shimmer theme."
-#~ msgstr ""
-#~ "Ann an Xubuntu, tha gmusicbrowser a' tighinn le Shimmer tèama brèagha "
-#~ "agus furasta a chleachd."
-
-#~ msgid ""
-#~ "The application-menu gives you complete access to all your applications."
-#~ msgstr ""
-#~ "Tha clàr-iùil aplacaidean a' toirt dhut làn cothrom air dod aplacaidean "
-#~ "gu lèir."
-
-#~ msgid ""
-#~ "LibreOffice is also available in the repositories, if you're more "
-#~ "comfortable with it or need a full office suite."
-#~ msgstr ""
-#~ "Tha LibreOffice cuideachd ri faighinn sna ionadan-tasgaidh, ma tha thu "
-#~ "nas cofhurtail leis no feumail air ionad oifis slàn."
-
-#~ msgid ""
-#~ "The launcher panel gives you <em>quick access</em> to your most important "
-#~ "applications. It is set to autohide by default to preserve screen estate."
-#~ msgstr ""
-#~ "Tha am panail an lòinsear a thabhairt dhu t <em>grad-inntrigeadh</em> dod "
-#~ "aplacaidean nas cudthromaich. Tha e stèidhichte mar bunaiteach ri falaich "
-#~ "gu fèin-obrachail a ghlèidheil oighreachd na sgrìn."
-
-#~ msgid ""
-#~ "<em>Xfce</em> is the desktop environment in Xubuntu. Read more about Xfce "
-#~ "on the <a href=\"http://xfce.org/\">Xfce website</a>."
-#~ msgstr ""
-#~ "'S e <em>Xfce</em> an àrainneachd a' bhàrr-deasc ann an Xubuntu. Leugh "
-#~ "barrachd mu dheidhinn Xfce aig <a href=\"http://xfce.org/\">Làrach Xfce</"
-#~ "a>."
-
-#~ msgid ""
-#~ "Finally, find different ways to contribute to Xubuntu on the <a href="
-#~ "\"http://xubuntu.org/devel\">Get Involved</a> -section of our website. We "
-#~ "need your help!"
-#~ msgstr ""
-#~ "Mu dheireadh thall, lorg dòighean diofaraichte a chuir ri Xubuntu air -an "
-#~ "t-earrainn làrach-lìn againn<a href=\"http://xubuntu.org/devel\">Gabh an "
-#~ "sàs</a> tha sin feumail air do chobhair!"
+#. type: Content of: <div><div><ul><li>
+#: slideshows/xubuntu/slides/xx_newfeatures.html:9
+msgid "MenuLibre"
+msgstr ""

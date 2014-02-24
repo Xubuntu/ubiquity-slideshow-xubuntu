@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-07-04 11:10+0530\n"
+"POT-Creation-Date: 2014-02-21 12:07-0500\n"
 "PO-Revision-Date: 2013-09-18 23:18+0000\n"
 "Last-Translator: Akerbeltz <fios@akerbeltz.org>\n"
 "Language-Team: Gaelic; Scottish <gd@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-11 21:28+0000\n"
-"X-Generator: Launchpad (build 16799)\n"
+"X-Launchpad-Export-Date: 2014-02-24 15:21+0000\n"
+"X-Generator: Launchpad (build 16926)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -252,20 +252,18 @@ msgstr ""
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/internet.html:1
-msgid "The Internet, your way"
-msgstr "An t-eadar-lìon, deas ri do làimh"
+msgid "Make the most of the web"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:5
 msgid ""
-"Kubuntu ships software necessary to utilize the Internet for many different "
-"situations."
+"Kubuntu includes Mozilla Firefox, the web browser used by millions of people "
+"around the world."
 msgstr ""
-"Gheibh thu bathar-bog an cois Kubuntu a bheir comas dhut an t-eadar-lìon a "
-"chur gu feum air iomadh dòigh."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:7
+#: slideshows/kubuntu/slides/internet.html:6
 msgid ""
 "Browse the web, share your files, software, and multimedia, send and receive "
 "e-mail, and communicate with friends and family."
@@ -275,10 +273,11 @@ msgstr ""
 "agus do theaghlach."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:10
+#: slideshows/kubuntu/slides/internet.html:9
+#, fuzzy
 msgid ""
-"Web browsers such as <em>Firefox</em> and Google's <em>Chromium</em> are "
-"easily installable."
+"Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
+"installable."
 msgstr ""
 "Tha e furasta brabhsairea-lìn mar <em>Firefox</em> agus <em>Chromium</em> le "
 "Google a stàladh."
@@ -414,8 +413,9 @@ msgstr "Fàilte"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:6
+#, fuzzy
 msgid "Thank you for choosing Kubuntu 14.04."
-msgstr "Mòran taing airson Kubuntu 14.04 a thaghadh."
+msgstr "Mòran taing airson Kubuntu 13.10 a thaghadh."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:7
@@ -446,21 +446,12 @@ msgstr ""
 "Chaidh Kubuntu a dhealbhadh airson 's gum bi e furasta ri chleachdadh. Tha "
 "fàilte mhòr agad a rùrachadh!"
 
-#~ msgid ""
-#~ "First Person Shooters, Role Play Games, and more are also available in "
-#~ "the repositories."
-#~ msgstr ""
-#~ "Loisgeadairean sa chiad pearsa, Geamannan cluich mas-fìor, agus a "
-#~ "bharrachd cuideachd ri fhaighinn san ionadan-tasgaidh."
-
-#~ msgid "Thank you for choosing Kubuntu 13.04."
-#~ msgstr "Tapadh leibh airson taghadh Kubuntu 13.04."
+#~ msgid "The Internet, your way"
+#~ msgstr "An t-eadar-lìon, deas ri do làimh"
 
 #~ msgid ""
-#~ "<em>LibreOffice</em> works with documents from other popular office "
-#~ "applications include WordPerfect and Microsoft Office. It uses the "
-#~ "standard OpenDocument format."
+#~ "Kubuntu ships software necessary to utilize the Internet for many "
+#~ "different situations."
 #~ msgstr ""
-#~ "Tha <em>LibreOffice</em> ag obair le sgrìobhainnean o aplacaidean oifis "
-#~ "fèillear eile gabhail a-staigh WordPerfect agus Microsoft Office. Tha e "
-#~ "a' cleachdadh am fòrmat bun-tomhais OpenDocument."
+#~ "Gheibh thu bathar-bog an cois Kubuntu a bheir comas dhut an t-eadar-lìon "
+#~ "a chur gu feum air iomadh dòigh."

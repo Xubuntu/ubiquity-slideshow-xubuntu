@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-07-04 11:10+0530\n"
-"PO-Revision-Date: 2013-04-03 19:24+0000\n"
-"Last-Translator: Szűcs Kornél Géza <sz.kornelgeza@gmail.com>\n"
+"POT-Creation-Date: 2014-02-21 12:07-0500\n"
+"PO-Revision-Date: 2014-01-11 22:20+0000\n"
+"Last-Translator: Úr Balázs <urbalazs@gmail.com>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-11 21:28+0000\n"
-"X-Generator: Launchpad (build 16799)\n"
+"X-Launchpad-Export-Date: 2014-02-24 15:21+0000\n"
+"X-Generator: Launchpad (build 16926)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -88,6 +88,8 @@ msgid ""
 "First Person Shooters, Role Playing Games, and more are also available in "
 "the repositories."
 msgstr ""
+"Belső nézetű lövöldözős játékok, szerepjátékok és továbbiak is elérhetők a "
+"tárolókban."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/get-help.html:1
@@ -244,20 +246,18 @@ msgstr ""
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/internet.html:1
-msgid "The Internet, your way"
-msgstr "Internet, ahogy Ön akarja"
+msgid "Make the most of the web"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:5
 msgid ""
-"Kubuntu ships software necessary to utilize the Internet for many different "
-"situations."
+"Kubuntu includes Mozilla Firefox, the web browser used by millions of people "
+"around the world."
 msgstr ""
-"A Kubuntu tartalmazza az internet lehetőségeinek kihasználásához szükséges "
-"szoftvereket."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:7
+#: slideshows/kubuntu/slides/internet.html:6
 msgid ""
 "Browse the web, share your files, software, and multimedia, send and receive "
 "e-mail, and communicate with friends and family."
@@ -266,10 +266,11 @@ msgstr ""
 "küldjön és fogadjon e-maileket, kommunikáljon a barátaival és családjával."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:10
+#: slideshows/kubuntu/slides/internet.html:9
+#, fuzzy
 msgid ""
-"Web browsers such as <em>Firefox</em> and Google's <em>Chromium</em> are "
-"easily installable."
+"Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
+"installable."
 msgstr ""
 "A <em>Firefox</em> és a Google <em>Chromium</em> webböngészők egyszerűen "
 "telepíthetők."
@@ -337,6 +338,9 @@ msgid ""
 "applications including WordPerfect and Microsoft Office. It uses the "
 "standard OpenDocument format."
 msgstr ""
+"A <em>LibreOffice</em> más népszerű irodai alkalmazásból származó "
+"dokumentumokkal is működik, beleértve a WordPerfect és a Microsoft Office "
+"programokat. A szabványos OpenDocument formátumot használja."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/pim.html:1
@@ -397,8 +401,9 @@ msgstr "Üdvözöljük"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:6
+#, fuzzy
 msgid "Thank you for choosing Kubuntu 14.04."
-msgstr ""
+msgstr "Köszönjük, hogy a Kubuntu 13.10-et választotta."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:7
@@ -427,21 +432,12 @@ msgid "Kubuntu is designed to be easy. Feel free to explore!"
 msgstr ""
 "A Kubuntut egyszerűen használhatónak terveztük. Fedezze fel a lehetőségeket!"
 
-#~ msgid ""
-#~ "First Person Shooters, Role Play Games, and more are also available in "
-#~ "the repositories."
-#~ msgstr ""
-#~ "Lövöldözős játékok, szerepjátékok, és még sok más is elérhető a "
-#~ "tárolókban."
+#~ msgid "The Internet, your way"
+#~ msgstr "Internet, ahogy Ön akarja"
 
 #~ msgid ""
-#~ "<em>LibreOffice</em> works with documents from other popular office "
-#~ "applications include WordPerfect and Microsoft Office. It uses the "
-#~ "standard OpenDocument format."
+#~ "Kubuntu ships software necessary to utilize the Internet for many "
+#~ "different situations."
 #~ msgstr ""
-#~ "A <em>LibreOffice</em> képes más népszerű irodai alkalmazások, beleértve "
-#~ "a WordPerfect és a Microsoft Office dokumentumaival is dolgozni. A "
-#~ "szabványos OpenDocument formátumot használja."
-
-#~ msgid "Thank you for choosing Kubuntu 13.04."
-#~ msgstr "Köszönjük, hogy a Kubuntu 13.04-et választotta."
+#~ "A Kubuntu tartalmazza az internet lehetőségeinek kihasználásához "
+#~ "szükséges szoftvereket."

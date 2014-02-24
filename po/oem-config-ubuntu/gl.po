@@ -1,22 +1,23 @@
 # Galician translation for ubiquity-slideshow-ubuntu
 # Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
 # This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
 #
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+# Xosé <xosecalvo@gmail.com>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-06-25 08:51-0600\n"
-"PO-Revision-Date: 2013-07-26 03:48+0000\n"
+"POT-Creation-Date: 2014-02-21 12:07-0500\n"
+"PO-Revision-Date: 2014-02-12 02:15+0000\n"
 "Last-Translator: Marcos Lans <Unknown>\n"
-"Language-Team: Galician <gl@li.org>\n"
+"Language-Team: Galician <kde-i18n-doc@kde.org>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-11 21:29+0000\n"
-"X-Generator: Launchpad (build 16799)\n"
+"X-Launchpad-Export-Date: 2014-02-24 15:21+0000\n"
+"X-Generator: Launchpad (build 16926)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -31,10 +32,10 @@ msgid ""
 "colour scheme and text size, Ubuntu makes computing easy – whoever and "
 "wherever you are."
 msgstr ""
-"No corazón da filosofía de Ubuntu está a crenza de que so computadores deben "
+"No corazón da filosofía de Ubuntu está a crenza de que os computadores deben "
 "ser para todos. Ubuntu conta con ferramentas de accesibilidade avanzadas e "
-"opcións para cambiar o idioma, esquema de cores e tamaño do texto, con isto "
-"Ubuntu fai todo máis doado - sen importar quen sexa e de onde sexa."
+"opcións para cambiar o idioma, o esquema de cores e o tamaño do texto, con "
+"isto Ubuntu fai todo máis doado, sen importar quen sexa e de onde sexa."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:12
@@ -69,8 +70,8 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
-"Ubuntu inclúe Firefox, o navegador web usado por millóns de persoas ao redor "
-"do mundo. E os aplicativos web que usa frecuentemente (p.e: Facebook ou "
+"Ubuntu inclúe Firefox, o navegador web usado por millóns de persoas arredor "
+"do mundo. E os aplicativos web que use con frecuencia  (p.e: Facebook ou "
 "Gmail) poden fixarse no seu escritorio para un acceso rápido,  igual que os "
 "aplicativos do seu computador."
 
@@ -118,8 +119,8 @@ msgid ""
 "support\">ubuntu.com/support</a>."
 msgstr ""
 "Visite <a href=\"http://askubuntu.com/\">askubuntu.com</a> para obter "
-"respostas ás súas preguntas sobre Ubuntu. É moi probábel que a súa pregunta "
-"xa fose respondida anteriormente e, se non, atopará milleiros de voluntarios "
+"respostas ás súas preguntas sobre Ubuntu. É moi probábel que a súa dúbida xa "
+"fose respondida anteriormente, senón atopará milleiros de voluntarios "
 "dispostos a axudar. Para obter máis opcións de asistencia, vaia a <a href="
 "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
@@ -152,7 +153,7 @@ msgstr ""
 "de almacenamento de balde na nube para acceder aos seus ficheiros, compartir "
 "as súas fotos e <a href=\"https://one.ubuntu.com/services/music/"
 "\">transmitir a súa música</a> aos seus computadores, tabletas e "
-"smartphones. Calquera foto que tome aparecerá nos demais dispositivos de "
+"smartphones. Calquera foto que tome aparecerá nos demais dispositivos, de "
 "vez. Ubuntu One funciona en Ubuntu, Windows, Mac, Android, iOS e na web."
 
 #. type: Content of: <div><h1>
@@ -190,25 +191,25 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
-"LibreOffice é un paquete ofimático libre con todo o que precisa para crear "
+"O LibreOffice é un paquete ofimático libre con todo o que precisa para crear "
 "documentos, follas de cálculo e presentacións. Compatíbel cos formatos de "
-"ficheiro de Microsoft Office, fornécelle todas as características que "
+"ficheiro do Office da Microsoft, fornécelle todas as características que "
 "precisa, de balde."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
 msgid "LibreOffice Writer"
-msgstr "LibreOffice Writer"
+msgstr "Writer do LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:20
 msgid "LibreOffice Calc"
-msgstr "LibreOffice Calc"
+msgstr "Calc do LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:24
 msgid "LibreOffice Impress"
-msgstr "LibreOffice Impress"
+msgstr "Impress do LibreOffice"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/photos.html:1
@@ -223,10 +224,11 @@ msgid ""
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
 "from the Ubuntu Software Center."
 msgstr ""
-"Shotwell é un práctico xestor de imaxes que está listo os seus trebellos. "
-"Conecte unha cámara ou un teléfono para transferir as súas fotos, é moi "
-"doado compartilas e mantelas seguras. Se se sente creativo, pode probar "
-"moitos aplicativos de retoque fotográfico no Centro de software de Ubuntu."
+"O Shotwell é un práctico xestor de imaxes que está listo para os seus "
+"trebellos. Conecte unha cámara ou un teléfono para transferir as súas fotos, "
+"é moi doado compartilas e mantelas seguras. Se se sente creativo, pode "
+"probar moitos aplicativos de retoque fotográfico no Centro de software de "
+"Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:16
@@ -251,7 +253,7 @@ msgstr "Unha única conta para acceder a todo Ubuntu"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/ubuntuone.html:8
 msgid "<strong>Make the most of Ubuntu with Ubuntu One.</strong>"
-msgstr "<strong>Tire o máximo de Ubuntu con Ubuntu One.</strong>"
+msgstr "<strong>Tire o máximo partido de Ubuntu con Ubuntu One.</strong>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/ubuntuone.html:10
@@ -272,7 +274,7 @@ msgstr "Escoite <strong>a súa colección de música</strong> e merque cancións
 #: slideshows/oem-config-ubuntu/slides/ubuntuone.html:25
 msgid "Access <strong>files and photos</strong> from all your devices"
 msgstr ""
-"Acceda a <strong>ficherios e fotos</strong> desde todos os seus dispositivos"
+"Acceda a <strong>ficheiros e fotos</strong> desde todos os seus dispositivos"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1
@@ -287,9 +289,9 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
-"Dígalle adeus a buscar software novo na web. Co Centro de software de "
-"Ubuntu, pode atopar e instalar aplicativos novos de forma doada. Só escriba "
-"o que está buscando, ou explore categorías como Ciencia, Educación e Xogos, "
+"Dígalle adeus a buscar software na web. Co Centro de software de Ubuntu, "
+"pode atopar e instalar aplicativos novos de forma doada. Só ten que escribir "
+"o que está buscando, ou explorar categorías como Ciencia, Educación e Xogos, "
 "ademais de contar con opinións útiles doutros usuarios."
 
 #. type: Content of: <div><h1>
@@ -299,21 +301,13 @@ msgstr "Benvido/a"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
 "Thank you for choosing Ubuntu 14.04. This version brings some exciting "
 "changes including a totally redesigned desktop interface, Unity. While "
 "Ubuntu is configured, this slideshow will show you around."
 msgstr ""
-"Grazas por escoller Ubuntu 14.04. Esta versión ofrece algúns cambios "
+"Grazas por escoller Ubuntu 13.10. Esta versión ofrece algúns cambios "
 "interesantes, incluída unha interface de escritorio totalmente redeseñada, "
-"Unity. Entrementres se configura Ubuntu, esta exposición mostrarallo."
-
-#~ msgid ""
-#~ "Thank you for choosing Ubuntu 13.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is configured, this slideshow will show you around."
-#~ msgstr ""
-#~ "Grazas por escoller Ubuntu 13.04. Esta versión conta con algúns cambios "
-#~ "incríbeis incluíndo unha interface de escritorio totalmente renovada, "
-#~ "Unity. Mentres Ubuntu se configura, esta presentación mostraralle algúns "
-#~ "dos cambios."
+"Unity. Entrementres se configura Ubuntu, esta exposición vaille mostrar o "
+"máis interesante."

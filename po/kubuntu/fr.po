@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-07-04 11:10+0530\n"
+"POT-Creation-Date: 2014-02-21 12:07-0500\n"
 "PO-Revision-Date: 2013-08-25 12:45+0000\n"
 "Last-Translator: Pierre Slamich <pierre.slamich@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-11 21:28+0000\n"
-"X-Generator: Launchpad (build 16799)\n"
+"X-Launchpad-Export-Date: 2014-02-24 15:21+0000\n"
+"X-Generator: Launchpad (build 16926)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -250,20 +250,18 @@ msgstr ""
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/internet.html:1
-msgid "The Internet, your way"
-msgstr "Internet, à votre façon"
+msgid "Make the most of the web"
+msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:5
 msgid ""
-"Kubuntu ships software necessary to utilize the Internet for many different "
-"situations."
+"Kubuntu includes Mozilla Firefox, the web browser used by millions of people "
+"around the world."
 msgstr ""
-"Kubuntu fournit tous les logiciels vous permettant d'utiliser les différents "
-"services de l'Internet."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:7
+#: slideshows/kubuntu/slides/internet.html:6
 msgid ""
 "Browse the web, share your files, software, and multimedia, send and receive "
 "e-mail, and communicate with friends and family."
@@ -272,10 +270,11 @@ msgstr ""
 "courriels et discuter avec vos amis et votre famille"
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:10
+#: slideshows/kubuntu/slides/internet.html:9
+#, fuzzy
 msgid ""
-"Web browsers such as <em>Firefox</em> and Google's <em>Chromium</em> are "
-"easily installable."
+"Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
+"installable."
 msgstr ""
 "Les navigateurs Web <em>Firefox</em> et <em>Chromium</em> (de Google) sont "
 "facilement installables."
@@ -409,8 +408,9 @@ msgstr "Bienvenue"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:6
+#, fuzzy
 msgid "Thank you for choosing Kubuntu 14.04."
-msgstr "Merci de choisir Kubuntu 14.04."
+msgstr "Merci de choisir Kubuntu 13.10."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:7
@@ -440,21 +440,12 @@ msgstr ""
 "Kubuntu est conçue pour être simple d'utilisation. N'hésitez pas à "
 "l'explorer !"
 
-#~ msgid ""
-#~ "First Person Shooters, Role Play Games, and more are also available in "
-#~ "the repositories."
-#~ msgstr ""
-#~ "Des jeux de rôles, des jeux de tir subjectifs, et bien plus encore sont "
-#~ "disponibles dans les dépôts."
+#~ msgid "The Internet, your way"
+#~ msgstr "Internet, à votre façon"
 
 #~ msgid ""
-#~ "<em>LibreOffice</em> works with documents from other popular office "
-#~ "applications include WordPerfect and Microsoft Office. It uses the "
-#~ "standard OpenDocument format."
+#~ "Kubuntu ships software necessary to utilize the Internet for many "
+#~ "different situations."
 #~ msgstr ""
-#~ "<em>LibreOffice</em> prend en charge les documents d'autres applications "
-#~ "bureautique célèbres comme WordPerfect ou Microsoft Office. Elle utilise "
-#~ "le format ouvert standard « OpenDocument »."
-
-#~ msgid "Thank you for choosing Kubuntu 13.04."
-#~ msgstr "Merci d'avoir choisi Kubuntu 13.04."
+#~ "Kubuntu fournit tous les logiciels vous permettant d'utiliser les "
+#~ "différents services de l'Internet."
