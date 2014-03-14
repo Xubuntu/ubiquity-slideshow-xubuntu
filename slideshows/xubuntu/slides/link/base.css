@@ -229,6 +229,7 @@ h2 {
 .main .content.wide { width: 375px; }
 .main .content.full { width: 710px; clear: both; }
 .main .content.half { width: 335px; }
+.main .content.third { width: 205px; }
 .main .content.narrow { width: 285px; }
 .main .shot.narrow { width: 325px; }
 .main .shot.open { margin-left: 30px; }
@@ -246,13 +247,14 @@ h2 {
 .main .note { font-size: 85%; line-height: 1.4em; }
 
 .main .panel {
-	margin-left: -20px;
+	clear: both;
+	padding: 1em 0 0 0;
 }
 
 .main .wall {
 	clear: both;
 
-	margin-bottom: 1em;
+	margin-bottom: 2em;
 	padding: 1em 0;
 	background-color: rgba( 18, 111, 146, 0.5 );
 }
