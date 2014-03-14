@@ -199,7 +199,7 @@ h2 {
 		float: left;
 	}
 	.main .content {	
-		width: 260px;
+		width: 270px;
 		padding: 0 20px;
 	}
 
@@ -225,7 +225,11 @@ h2 {
 }
 
 .app img {
-	margin: -4px 3px 0 0;
+	margin: -4px 3px 0 3px;
+}
+
+.app b {
+	color: #007fbe;
 }
 
 /* */
