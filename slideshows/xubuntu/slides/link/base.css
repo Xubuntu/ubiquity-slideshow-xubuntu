@@ -218,10 +218,14 @@ h2 {
 }
 
 .app {
-	font-size: 75%;
+	font-size: 80%;
 	width: 300px;
 
 	color: rgba( 255, 255, 255, 0.8 );
+}
+
+.app img {
+	margin: -1px 3px 0 0;
 }
 
 /* */
