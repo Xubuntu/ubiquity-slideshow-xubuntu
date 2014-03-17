@@ -297,3 +297,11 @@ h2 {
 #panelhighlight.visible {
 	border-bottom: 2px solid rgba( 255, 255, 255, 0.9 );
 }
+
+/* Thanks slide */
+
+.main .tahrbg {
+	height: 330px;
+	background: transparent url(../images/tahr.png) 100% 100%;
+	border-bottom: 1px solid red;
+}
