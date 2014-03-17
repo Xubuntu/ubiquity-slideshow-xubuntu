@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-02-21 12:07-0500\n"
-"PO-Revision-Date: 2013-07-16 15:29+0000\n"
-"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
+"POT-Creation-Date: 2014-03-17 13:10-0400\n"
+"PO-Revision-Date: 2014-03-05 02:38+0000\n"
+"Last-Translator: Po-Hsu Lin <po-hsu.lin@canonical.com>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-02-24 15:21+0000\n"
-"X-Generator: Launchpad (build 16926)\n"
+"X-Launchpad-Export-Date: 2014-03-17 17:12+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -83,7 +83,7 @@ msgstr ""
 msgid ""
 "First Person Shooters, Role Playing Games, and more are also available in "
 "the repositories."
-msgstr ""
+msgstr "第一人稱射擊遊戲、角色扮演遊戲以及其他更多都能在套件庫中找到。"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/get-help.html:1
@@ -228,7 +228,7 @@ msgstr ""
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/internet.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "把網路發揮得淋漓盡致"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:5
@@ -236,6 +236,8 @@ msgid ""
 "Kubuntu includes Mozilla Firefox, the web browser used by millions of people "
 "around the world."
 msgstr ""
+"Kubuntu 內含 Mozilla Firefox 瀏覽器，世界上有數以百萬的使用者都在使用這個瀏覽"
+"器。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:6
@@ -248,12 +250,10 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:9
-#, fuzzy
 msgid ""
 "Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
 "installable."
-msgstr ""
-"像是 <em>Firefox</em> 與 Google 的 <em>Chromium</em> 網路瀏覽器都能輕鬆安裝。"
+msgstr "像是 <em>Chromium</em> 與 <em>Rekonq</em> 網頁瀏覽器都能輕鬆安裝。"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/multimedia.html:1
@@ -310,6 +310,8 @@ msgid ""
 "applications including WordPerfect and Microsoft Office. It uses the "
 "standard OpenDocument format."
 msgstr ""
+"<em>LibreOffice</em> 採用標準 OpenDocument 格式，並與其他熱門的辦公室應用軟體"
+"如 WordPerfect、Microsoft Office的文件相容。"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/pim.html:1
@@ -366,37 +368,47 @@ msgstr "歡迎"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Kubuntu 14.04."
-msgstr ""
+#, fuzzy
+msgid "Thank you for choosing Kubuntu 14.04. We hope you enjoy the experience."
+msgstr "感謝您選擇 Kubuntu 14.04 。"
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/welcome.html:7
+#: slideshows/kubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"We believe every computer user should be free to work in the environment of "
-"their choice and to download, change, study and share their software for any "
-"purpose."
+"We believe every computer user should be free to work in the environment "
+"they choose, and be free to download, change, study and share their software "
+"with anyone, for any purpose."
 msgstr ""
 "我們相信每位電腦使用者都應該自由地在他們所選的環境內工作，並且不管任何用途都"
 "能下載、變更、學習並分享他們的軟體。"
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/welcome.html:10
+#: slideshows/kubuntu/slides/welcome.html:11
+#, fuzzy
 msgid ""
-"As part of our promise, we want Kubuntu to work as well for you as possible. "
-"So while it installs, this slideshow will provide a quick introduction."
+"We want Kubuntu to work for you. So while your software is installing, this "
+"slideshow will introduce you to Kubuntu 14.04."
 msgstr ""
 "作為我們承諾中的一部分，我們想要讓 Kubuntu 盡可能地符合您的需求。所以當它在安"
 "裝的這段期間內，本投影片將提供一系列的快速導覽。"
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/welcome.html:14
+#: slideshows/kubuntu/slides/welcome.html:15
 msgid "Kubuntu is designed to be easy. Feel free to explore!"
 msgstr "Kubuntu 以簡單好用為設計理念。請恣意地盡情探索吧！"
-
-#~ msgid "The Internet, your way"
-#~ msgstr "網際網路，您的康莊大道"
 
 #~ msgid ""
 #~ "Kubuntu ships software necessary to utilize the Internet for many "
 #~ "different situations."
 #~ msgstr "Kubuntu 提供給您所需的軟體，讓您依不同情況應用網際網路。"
+
+#~ msgid "The Internet, your way"
+#~ msgstr "網際網路，您的康莊大道"
+
+#~ msgid ""
+#~ "Web browsers such as <em>Firefox</em> and Google's <em>Chromium</em> are "
+#~ "easily installable."
+#~ msgstr ""
+#~ "像是 <em>Firefox</em> 與 Google 的 <em>Chromium</em> 網路瀏覽器都能輕鬆安"
+#~ "裝。"

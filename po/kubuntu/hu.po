@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-02-21 12:07-0500\n"
-"PO-Revision-Date: 2014-01-11 22:20+0000\n"
-"Last-Translator: Úr Balázs <urbalazs@gmail.com>\n"
+"POT-Creation-Date: 2014-03-17 13:10-0400\n"
+"PO-Revision-Date: 2014-03-06 20:24+0000\n"
+"Last-Translator: Gabor Kelemen <kelemeng@gnome.hu>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-02-24 15:21+0000\n"
-"X-Generator: Launchpad (build 16926)\n"
+"X-Launchpad-Export-Date: 2014-03-17 17:12+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -247,7 +247,7 @@ msgstr ""
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/internet.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Hozza ki a legtöbbet a webből"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:5
@@ -255,6 +255,8 @@ msgid ""
 "Kubuntu includes Mozilla Firefox, the web browser used by millions of people "
 "around the world."
 msgstr ""
+"A Kubuntu a Firefox webböngészőt szállítja, amelyet világszerte milliók "
+"használnak."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:6
@@ -267,13 +269,12 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:9
-#, fuzzy
 msgid ""
 "Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
 "installable."
 msgstr ""
-"A <em>Firefox</em> és a Google <em>Chromium</em> webböngészők egyszerűen "
-"telepíthetők."
+"Az olyan böngészők, mint a <em>Chromium</em> és a <em>Rekonq</em> is "
+"egyszerűen telepíthetők."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/multimedia.html:1
@@ -402,32 +403,34 @@ msgstr "Üdvözöljük"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:6
 #, fuzzy
-msgid "Thank you for choosing Kubuntu 14.04."
-msgstr "Köszönjük, hogy a Kubuntu 13.10-et választotta."
+msgid "Thank you for choosing Kubuntu 14.04. We hope you enjoy the experience."
+msgstr "Köszönjük, hogy a Kubuntu 14.04-et választotta."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/welcome.html:7
+#: slideshows/kubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"We believe every computer user should be free to work in the environment of "
-"their choice and to download, change, study and share their software for any "
-"purpose."
+"We believe every computer user should be free to work in the environment "
+"they choose, and be free to download, change, study and share their software "
+"with anyone, for any purpose."
 msgstr ""
 "Fontosnak tartjuk, hogy minden felhasználó szabadon választhassa meg "
 "munkakörnyezetét, illetve szoftvereit bármilyen célra letölthesse, "
 "módosíthassa, valamint megoszthassa."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/welcome.html:10
+#: slideshows/kubuntu/slides/welcome.html:11
+#, fuzzy
 msgid ""
-"As part of our promise, we want Kubuntu to work as well for you as possible. "
-"So while it installs, this slideshow will provide a quick introduction."
+"We want Kubuntu to work for you. So while your software is installing, this "
+"slideshow will introduce you to Kubuntu 14.04."
 msgstr ""
 "Ígéretünk részeként szeretnénk, ha a Kubuntu olyan jól működne Önnél, "
 "amennyire csak lehetséges.  Tekintse meg a telepítés közben megjelenő "
 "bemutatót."
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/welcome.html:14
+#: slideshows/kubuntu/slides/welcome.html:15
 msgid "Kubuntu is designed to be easy. Feel free to explore!"
 msgstr ""
 "A Kubuntut egyszerűen használhatónak terveztük. Fedezze fel a lehetőségeket!"
@@ -441,3 +444,13 @@ msgstr ""
 #~ msgstr ""
 #~ "A Kubuntu tartalmazza az internet lehetőségeinek kihasználásához "
 #~ "szükséges szoftvereket."
+
+#~ msgid ""
+#~ "Web browsers such as <em>Firefox</em> and Google's <em>Chromium</em> are "
+#~ "easily installable."
+#~ msgstr ""
+#~ "A <em>Firefox</em> és a Google <em>Chromium</em> webböngészők egyszerűen "
+#~ "telepíthetők."
+
+#~ msgid "Thank you for choosing Kubuntu 13.10."
+#~ msgstr "Köszönjük, hogy a Kubuntu 13.10-et választotta."

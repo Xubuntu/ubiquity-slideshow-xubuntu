@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-02-21 12:07-0500\n"
+"POT-Creation-Date: 2014-03-17 13:10-0400\n"
 "PO-Revision-Date: 2013-08-25 12:45+0000\n"
 "Last-Translator: Pierre Slamich <pierre.slamich@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-02-24 15:21+0000\n"
-"X-Generator: Launchpad (build 16926)\n"
+"X-Launchpad-Export-Date: 2014-03-17 17:12+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -271,13 +271,10 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:9
-#, fuzzy
 msgid ""
 "Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
 "installable."
 msgstr ""
-"Les navigateurs Web <em>Firefox</em> et <em>Chromium</em> (de Google) sont "
-"facilement installables."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/multimedia.html:1
@@ -409,39 +406,38 @@ msgstr "Bienvenue"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:6
 #, fuzzy
-msgid "Thank you for choosing Kubuntu 14.04."
+msgid "Thank you for choosing Kubuntu 14.04. We hope you enjoy the experience."
 msgstr "Merci de choisir Kubuntu 13.10."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/welcome.html:7
+#: slideshows/kubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"We believe every computer user should be free to work in the environment of "
-"their choice and to download, change, study and share their software for any "
-"purpose."
+"We believe every computer user should be free to work in the environment "
+"they choose, and be free to download, change, study and share their software "
+"with anyone, for any purpose."
 msgstr ""
 "Nous avons la conviction que les utilisateurs devraient être libres de "
 "choisir leur environnement de travail, de télécharger, de modifier, "
 "d'étudier et de partager leurs logiciels quel qu'en soit l'usage."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/welcome.html:10
+#: slideshows/kubuntu/slides/welcome.html:11
+#, fuzzy
 msgid ""
-"As part of our promise, we want Kubuntu to work as well for you as possible. "
-"So while it installs, this slideshow will provide a quick introduction."
+"We want Kubuntu to work for you. So while your software is installing, this "
+"slideshow will introduce you to Kubuntu 14.04."
 msgstr ""
 "Nous nous engageons à ce que Kubuntu fonctionne du mieux possible pour vous. "
 "Pendant son installation, ce diaporama vous en présentera quelques "
 "caractéristiques essentielles."
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/welcome.html:14
+#: slideshows/kubuntu/slides/welcome.html:15
 msgid "Kubuntu is designed to be easy. Feel free to explore!"
 msgstr ""
 "Kubuntu est conçue pour être simple d'utilisation. N'hésitez pas à "
 "l'explorer !"
-
-#~ msgid "The Internet, your way"
-#~ msgstr "Internet, à votre façon"
 
 #~ msgid ""
 #~ "Kubuntu ships software necessary to utilize the Internet for many "
@@ -449,3 +445,13 @@ msgstr ""
 #~ msgstr ""
 #~ "Kubuntu fournit tous les logiciels vous permettant d'utiliser les "
 #~ "différents services de l'Internet."
+
+#~ msgid ""
+#~ "Web browsers such as <em>Firefox</em> and Google's <em>Chromium</em> are "
+#~ "easily installable."
+#~ msgstr ""
+#~ "Les navigateurs Web <em>Firefox</em> et <em>Chromium</em> (de Google) "
+#~ "sont facilement installables."
+
+#~ msgid "The Internet, your way"
+#~ msgstr "Internet, à votre façon"
