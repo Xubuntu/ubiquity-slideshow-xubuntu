@@ -267,6 +267,14 @@ h2 {
 	height: 6em;
 	margin-right: 10px;
 	float: left;
+
+	-webkit-transition: all 0.5s;
+}
+
+.main .panelnotes p.box:hover,
+.main .panelnotes p.box:active,
+.main .panelnotes p.box:focus {
+	background-color: rgba( 0, 0, 0, 0.3 );
 }
 
 .main h2:first-child { margin-top: 0; }
@@ -277,8 +285,15 @@ h2 {
 	padding: 1em 0 0 0;
 }
 
-.main .box.bottom {
-	position: fixed;
-	width: 220px;
-	bottom: 30px;
+/* Panel slide */
+
+#panelhighlight {
+	margin-top: 2px;
+	border-bottom: 2px solid transparent;
+
+	-webkit-transition: all 0.5s;
+}
+
+#panelhighlight.visible {
+	border-bottom: 2px solid rgba( 255, 0, 0, 0.7 );
 }
