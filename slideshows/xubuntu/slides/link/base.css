@@ -240,9 +240,10 @@ h2 {
 .main .content.third { width: 205px; }
 .main .content.narrow { width: 285px; }
 
-.main .shot.open { margin-left: 30px; }
+.main .shot.leftpad { margin-left: 30px; }
 .main .shot.narrow { width: 325px; }
-.main .shot.narrow.open { width: 295px; }
+.main .shot.narrow.leftpad { width: 295px; }
+.main .shot.right { float: right; margin-right: 30px; }
 
 .main .box {
 	background-color: rgba( 0, 0, 0, 0.2 );
@@ -274,4 +275,10 @@ h2 {
 .main .panel {
 	clear: both;
 	padding: 1em 0 0 0;
+}
+
+.main .box.bottom {
+	position: fixed;
+	width: 220px;
+	bottom: 30px;
 }
