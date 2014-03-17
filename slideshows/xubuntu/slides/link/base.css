@@ -244,7 +244,7 @@ h2 {
 .main .shot.narrow { width: 325px; }
 .main .shot.narrow.open { width: 295px; }
 
-.main .content.box {
+.main .box {
 	background-color: rgba( 0, 0, 0, 0.2 );
 	border-radius: 10px;
 	padding: 10px 20px;
@@ -261,10 +261,11 @@ h2 {
 	margin: 1em 0 2em 0;
 }
 
-.main .content.box.third {
+.main .panelnotes p.box {
 	width: 190px;
 	height: 6em;
 	margin-right: 10px;
+	float: left;
 }
 
 .main h2:first-child { margin-top: 0; }
