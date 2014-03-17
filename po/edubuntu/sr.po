@@ -1,24 +1,22 @@
 # Serbian translation for ubiquity-slideshow-ubuntu
 # Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
 # This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
-# Мирослав Николић <miroslavnikolic@rocketmail.com>, 2011.
+# Мирослав Николић <miroslavnikolic@rocketmail.com>, 2011, 2014.
 # Саша Петровић <salepetronije@gmail.com>, 2013.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-02-21 12:07-0500\n"
-"PO-Revision-Date: 2013-03-31 20:39+0000\n"
-"Last-Translator: Саша Петровић <salepetronije@gmail.com>\n"
-"Language-Team: српски <српски <xfce-i18n@xfce.org>>\n"
+"POT-Creation-Date: 2014-03-17 13:10-0400\n"
+"PO-Revision-Date: 2014-03-01 03:09+0000\n"
+"Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
+"Language-Team: Serbian <gnom@prevod.org>\n"
 "Language: Serbian (sr)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-02-24 15:20+0000\n"
-"X-Generator: Launchpad (build 16926)\n"
+"X-Launchpad-Export-Date: 2014-03-17 17:12+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -47,10 +45,10 @@ msgid ""
 "helpful tools like <em>Orca</em>, to speak text on the screen, or dwell "
 "click to press mouse buttons automatically."
 msgstr ""
-"Можете добити ове алате на једном месту: <em>Асистивне технологије "
-"подешавања </em>, унутар Системског изборника. Одатле, можете да покренете "
-"користан алат као што је <em>Орка</em>, да говори текст са екрана, или "
-"подеси клик да аутоматски притисне тастер миша."
+"Можете добити ове алате на једном месту: <em>Поставке технологија испомоћи</"
+"em>, унутар Системског изборника. Одатле, можете да покренете користан алат "
+"као што је <em>Орка</em>, да говори текст са екрана, или подеси клик да "
+"аутоматски притисне тастер миша."
 
 #.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
 #.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
@@ -92,13 +90,13 @@ msgid ""
 "<em>Arkose</em> is based on the popular LXC project, making use of advanced "
 "Linux containers capabilities."
 msgstr ""
-"<em>Аркозе</em> је заснован на познатом ЛИксЦ пројекту, и омогућава употребу "
+"<em>Аркозе</em> је заснован на познатом пројекту ЛИксЦ, и омогућава употребу "
 "напредне способности изолације програма на Линуксу."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
 msgid "Calculate Everything"
-msgstr "Израчунајте био шта"
+msgstr "Израчунајте било шта"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
@@ -106,7 +104,7 @@ msgid ""
 "Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
 "em>."
 msgstr ""
-"Едубунту се испоручује са најновијом верзијом моћног <em>Гномовог "
+"Едубунту се испоручује са најновијим издањем моћног <em>Гномовог "
 "калкулатора</em>."
 
 #. type: Content of: <div><div><ul><li>
@@ -137,7 +135,7 @@ msgstr "Управљајте својом библиотеком електро�
 msgid ""
 "<em>Calibre</em> is an e-library solution for cataloging electronic books."
 msgstr ""
-"<em>Калибре</em> је е-библиотечко решење за смештање електронских књига."
+"<em>Калибре</em> је решење ел. библиотеке за смештање електронских књига."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:7
@@ -145,8 +143,8 @@ msgid ""
 "It supports many formats, including MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, "
 "RTF, PDF and more."
 msgstr ""
-"Подржава многе формате, укључујући МОБИ, ЛИТ, ПРЦ, ЕПУБ, ОДТ, ХТМЛ, ЦБР, "
-"РТФ, ПДФ и многе друге."
+"Подржава многе записе, укључујући МОБИ, ЛИТ, ПРЦ, ЕПУБ, ОДТ, ХТМЛ, ЦБР, РТФ, "
+"ПДФ и многе друге."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:8
@@ -182,7 +180,7 @@ msgid ""
 "<em>Firefox</em> provides a safe and easy web browsing experience with many "
 "useful add-ons available."
 msgstr ""
-"<em>Фајерфокс</em> пружа сигурно и једноставно претраживање веба са пуно "
+"<em>Фајерфокс</em> пружа сигурно и једноставно прегледање веба са пуно "
 "доступних корисних додатака."
 
 #. type: Content of: <div><div><ul><li>
@@ -254,8 +252,8 @@ msgid ""
 "Thanks for viewing our slideshow, if you selected additional options, then "
 "the installation process will take a bit longer to complete."
 msgstr ""
-"Хвала што гледате наш покретни приказ, ако сте изабрали додатне опције, онда "
-"ће процес инсталације трајати мало дуже."
+"Хвала вам што гледате наш покретни приказ, ако сте изабрали додатне опције, "
+"онда ће процес инсталације трајати мало дуже."
 
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/documentation.html:11
@@ -321,12 +319,12 @@ msgid ""
 "If you're busy, click your name at the top of the screen to change your "
 "status."
 msgstr ""
-"Ако сте заузети, кликните на ваше име на врху екрана да промените ваш статус."
+"Ако сте заузети, кликните на ваше име на врху екрана да промените ваше стање."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/epoptes.html:1
 msgid "Control your Classroom"
-msgstr "Управљајте Вашим разредом"
+msgstr "Управљајте вашим разредом"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
@@ -348,7 +346,7 @@ msgstr "Прати сесије корисника да би надгледао 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:9
 msgid "Epoptes dynamically detects clients and integrates well with LTSP."
-msgstr "Epoptes препознаје клијенте и лепо је усклађен са ЛТСП."
+msgstr "Епоптес препознаје клијенте и лепо је усклађен са ЛТСП."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/fonts.html:1
@@ -361,8 +359,8 @@ msgid ""
 "Edubuntu ships with many of the fonts that are available in the Ubuntu "
 "repositories."
 msgstr ""
-"Едубунту се испоручује са мноштвом словних ликова који су доступни у остави "
-"Убунта."
+"Едубунту се испоручује са мноштвом словних ликова који су доступни у "
+"Убунтуовим ризницама."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/fonts.html:7
@@ -409,13 +407,13 @@ msgstr ""
 msgid ""
 "Organize your goals, future plans, events and more with this great tool!"
 msgstr ""
-"Организујте ваше циљеве, будуће планове, догађаје и много тога овим сјајним "
+"Средите ваше циљеве, будуће планове, догађаје и много тога овим сјајним "
 "алатом!"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/gbrainy.html:1
 msgid "Exercise Your Mind"
-msgstr "Вежбајте свој ум."
+msgstr "Вежбајте свој ум"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:6
@@ -520,7 +518,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/librecad.html:1
 msgid "Computer Aided Drawing"
-msgstr "Цртање уз помоћ рачунара"
+msgstr "Цртање помоћу рачунара"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:6
@@ -534,8 +532,8 @@ msgid ""
 "Create technical drawings such as building plans, interiors or mechanical "
 "parts."
 msgstr ""
-"Направите техничке цртеже као што су планови стамбених објеката, ентеријера "
-"или механичких делова."
+"Направите техничке цртеже као што су планови стамбених објеката, "
+"унутрашњости или механичких делова."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:8
@@ -545,13 +543,13 @@ msgstr "Цртајте шеме и дијаграме."
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/ltsp.html:1
 msgid "Easy Diskless Setup"
-msgstr "Једноставне поставке рачунара без дискова"
+msgstr "Лако подешавање рачунара без дискова"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:6
 msgid "Edubuntu ships with <em>LTSP</em>, the Linux Terminal Server Project."
 msgstr ""
-"Едубунту се испоручује са <em>ЛТСП</em>, Пројекат Линуксовог терминалног "
+"Едубунту се испоручује са <em>ЛТСП</em>-ом, Пројекат Линуксовог терминалног "
 "сервера."
 
 #. type: Content of: <div><div><ul><li>
@@ -566,9 +564,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:8
 msgid "Rapidly deploy many diskless machines with low maintenance."
-msgstr ""
-"Брзо развијте систем са много рачунара без дискова са малим трудом око "
-"одржавања."
+msgstr "Брзо развијте систем са много рачунара без дискова са мало одржавања."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/pencil.html:1
@@ -625,8 +621,8 @@ msgid ""
 "Demo applications to users on their machines without making any permanent "
 "local changes."
 msgstr ""
-"Представљање програма корисницима на њиховим машинама без уношења никаквух "
-"сталних локалних измена."
+"Представљање програма корисницима на њиховим машинама без уношења никаквих "
+"сталних измена."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testdrive.html:9
@@ -680,7 +676,7 @@ msgid ""
 "Defend your cities in <em>Tux of Math Command</em>, an arcade game that "
 "improves arithmetic skills."
 msgstr ""
-"Браните своје градове у <em>Такс математичару</em>, игри која побољшава "
+"Браните своје градове у <em>Тукс математичару</em>, игри која побољшава "
 "вештину рачунања."
 
 #. type: Content of: <div><div><ul><li>
@@ -703,7 +699,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/ubuntuone.html:1
 msgid "Keep your digital life in sync"
-msgstr "Држите ваш дигитални живот у синхронизацији"
+msgstr "Одржавајте ваш дигитални живот усаглашеним"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ubuntuone.html:6
@@ -732,8 +728,8 @@ msgid ""
 "Share folders using your synchronized address book. Project collaboration "
 "has never been easier."
 msgstr ""
-"Размењујте фасцикле користећи ваш синхронизовани адресар. Сарадња на "
-"пројекту никада није била лакша."
+"Размењујте фасцикле користећи ваш усаглашени адресар. Сарадња на пројекту "
+"никада није била лакша."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ubuntuone.html:9
@@ -741,7 +737,7 @@ msgid ""
 "Sign-up by launching the <em>Ubuntu One Preferences</em> application or "
 "going to <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
 msgstr ""
-"Пријавите се покретањем програма <em>Убунту један подешавања</em> или идите "
+"Пријавите се покретањем програма <em>Поставке Убунтуа један</em> или идите "
 "на <a href=\"http://one.ubuntu.com/\">„http://one.ubuntu.com/“</a>."
 
 #. type: Content of: <div><h1>
@@ -763,12 +759,12 @@ msgstr "Линукс 3.8 обезбеђује одличан учинак и п�
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
 msgid "Python 3.3 provides a powerful scripting and programming language."
-msgstr "Питон 3.3 представља моћан  програмски језик и скриптовање."
+msgstr "Питон 3.3 представља моћан језик програмирања и скриптовања."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/vym.html:1
 msgid "Organise Your Thoughts"
-msgstr ""
+msgstr "Средите ваше мисли"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/vym.html:6
@@ -785,12 +781,12 @@ msgstr "Ускладите и направите сажетак од мношт�
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/vym.html:9
 msgid "Organize your goals, future plans, events and more."
-msgstr "Ускладите своје циљеве, будуће планове, догађаје, и више."
+msgstr "Ускладите циљеве, будуће планове, догађаје, и више."
 
 #. type: Content of: <h1>
 #: slideshows/edubuntu/slides/welcome.html:1
 msgid "Welcome"
-msgstr "Добродошли"
+msgstr "Добро дошли"
 
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:7
@@ -800,6 +796,10 @@ msgid ""
 "suitable for delivering education. We are coders, educators, parents and "
 "technologists who aim to make technology easier for all."
 msgstr ""
+"Хвала вам што инсталирате Едубунту 14.04.  Едубунтуов пројекат је пројекат "
+"заједнице који има за циљ да обезбеди потпуно школску технолошку платформу "
+"подесну за испоручивање образовања. Ми смо програмери, наставници, родитељи "
+"и техничари који желе технологију да олакшају свима."
 
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:10
@@ -807,11 +807,10 @@ msgid ""
 "While the installer is copying some files to disk, we'll show you some "
 "slides to introduce you to the Edubuntu Desktop system."
 msgstr ""
-"Док инсталер умножава неке датотеке на диск, приказаћемо Вам неке покретне "
+"Док инсталер умножава неке датотеке на диск, приказаћемо вам неке покретне "
 "слике којима ћемо претставити радно окружење Едубунта."
 
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:15
 msgid "<b>Enjoy using Edubuntu and welcome to the Edubuntu family!</b>"
-msgstr ""
-"<b>Уживајте у коришћењу Едубунта, и добродошли у Едубунту породицу!</b>"
+msgstr "<b>Уживајте користећи Едубунту, и добродошли у Едубунту породицу!</b>"

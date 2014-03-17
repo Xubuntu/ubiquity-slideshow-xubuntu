@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-02-21 12:07-0500\n"
+"POT-Creation-Date: 2014-03-17 13:10-0400\n"
 "PO-Revision-Date: 2012-02-26 14:27+0000\n"
 "Last-Translator: Saša Teković <Unknown>\n"
 "Language-Team: Croatian <hr@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-02-24 15:20+0000\n"
-"X-Generator: Launchpad (build 16926)\n"
+"X-Launchpad-Export-Date: 2014-03-17 17:12+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -255,13 +255,10 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:9
-#, fuzzy
 msgid ""
 "Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
 "installable."
 msgstr ""
-"Web preglednike poput <em>Firefoxa</em> i Googleovog <em>Chromiuma</em> je "
-"moguće lako instalirati."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/multimedia.html:1
@@ -386,37 +383,36 @@ msgstr "Dobrodošli"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Kubuntu 14.04."
+msgid "Thank you for choosing Kubuntu 14.04. We hope you enjoy the experience."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/welcome.html:7
+#: slideshows/kubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"We believe every computer user should be free to work in the environment of "
-"their choice and to download, change, study and share their software for any "
-"purpose."
+"We believe every computer user should be free to work in the environment "
+"they choose, and be free to download, change, study and share their software "
+"with anyone, for any purpose."
 msgstr ""
 "Mi vjerujemo da bi svaki korisnik računala trebao imati slobodu korištenja "
 "okružja prema svojem izboru i preuzimati, mijenjati, proučavati i dijeliti "
 "svoj softver za bilo koju namjenu."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/welcome.html:10
+#: slideshows/kubuntu/slides/welcome.html:11
+#, fuzzy
 msgid ""
-"As part of our promise, we want Kubuntu to work as well for you as possible. "
-"So while it installs, this slideshow will provide a quick introduction."
+"We want Kubuntu to work for you. So while your software is installing, this "
+"slideshow will introduce you to Kubuntu 14.04."
 msgstr ""
 "Kao dio našeg obećanja, želimo da vam Kubuntu funkcionira na najbolji mogući "
 "način. Stoga dok traje instalacija, ova će prezentacija poslužiti kao kratko "
 "predstavljanje."
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/welcome.html:14
+#: slideshows/kubuntu/slides/welcome.html:15
 msgid "Kubuntu is designed to be easy. Feel free to explore!"
 msgstr "Kubuntu je osmišljen da bude jednostavan. Slobodno istražite!"
-
-#~ msgid "The Internet, your way"
-#~ msgstr "Internet na vaš način"
 
 #~ msgid ""
 #~ "Kubuntu ships software necessary to utilize the Internet for many "
@@ -424,3 +420,13 @@ msgstr "Kubuntu je osmišljen da bude jednostavan. Slobodno istražite!"
 #~ msgstr ""
 #~ "Kubuntu dolazi s programima za iskorištavanje Interneta u raznim "
 #~ "situacijama."
+
+#~ msgid "The Internet, your way"
+#~ msgstr "Internet na vaš način"
+
+#~ msgid ""
+#~ "Web browsers such as <em>Firefox</em> and Google's <em>Chromium</em> are "
+#~ "easily installable."
+#~ msgstr ""
+#~ "Web preglednike poput <em>Firefoxa</em> i Googleovog <em>Chromiuma</em> "
+#~ "je moguće lako instalirati."

@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-02-21 12:07-0500\n"
-"PO-Revision-Date: 2013-07-28 16:32+0000\n"
+"POT-Creation-Date: 2014-03-17 13:10-0400\n"
+"PO-Revision-Date: 2014-02-25 18:29+0000\n"
 "Last-Translator: Stuartlittle1970@gmail.com <Stuartlittle1970@gmail.com>\n"
 "Language-Team: Ukrainian <translation@linux.org.ua>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-02-24 15:21+0000\n"
-"X-Generator: Launchpad (build 16926)\n"
+"X-Launchpad-Export-Date: 2014-03-17 17:12+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -250,7 +250,7 @@ msgstr ""
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/internet.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Максимально скористайтеся перевагами Інтернету"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:5
@@ -258,6 +258,8 @@ msgid ""
 "Kubuntu includes Mozilla Firefox, the web browser used by millions of people "
 "around the world."
 msgstr ""
+"Kubuntu включає Mozilla Firefox, переглядач тенет який використовують "
+"мільйони людей в усьому світі."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:6
@@ -271,13 +273,12 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:9
-#, fuzzy
 msgid ""
 "Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
 "installable."
 msgstr ""
-"Встановити інші переглядачі інтернету, зокрема <em>Firefox</em> або "
-"<em>Chromium</em> компанії Google, доволі просто."
+"Переглядачі тенет такі як <em>Chromium</em> та <em>Rekonq</em> легко "
+"встановити."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/multimedia.html:1
@@ -409,15 +410,16 @@ msgstr "Вітаємо!"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:6
 #, fuzzy
-msgid "Thank you for choosing Kubuntu 14.04."
-msgstr "Дякуємо вам за вибір Kubuntu 13.10."
+msgid "Thank you for choosing Kubuntu 14.04. We hope you enjoy the experience."
+msgstr "Дякуємо вам за вибір Kubuntu 14.04."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/welcome.html:7
+#: slideshows/kubuntu/slides/welcome.html:8
+#, fuzzy
 msgid ""
-"We believe every computer user should be free to work in the environment of "
-"their choice and to download, change, study and share their software for any "
-"purpose."
+"We believe every computer user should be free to work in the environment "
+"they choose, and be free to download, change, study and share their software "
+"with anyone, for any purpose."
 msgstr ""
 "Ми віримо у те, що кожен користувач комп’ютера повинен без примусу вибирати "
 "програмне середовище для роботи, звантажувати, змінювати, вивчати програмне "
@@ -425,17 +427,18 @@ msgstr ""
 "яких завдань."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/welcome.html:10
+#: slideshows/kubuntu/slides/welcome.html:11
+#, fuzzy
 msgid ""
-"As part of our promise, we want Kubuntu to work as well for you as possible. "
-"So while it installs, this slideshow will provide a quick introduction."
+"We want Kubuntu to work for you. So while your software is installing, this "
+"slideshow will introduce you to Kubuntu 14.04."
 msgstr ""
 "Саме тому ми хочемо, щоб Kubuntu якомога краще задовольняла ваші потреби у "
 "роботі та розвагах. Отже, доки система встановлюється на ваш комп’ютер, ви "
 "можете ознайомитися з коротеньким вступом до користування нею."
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/welcome.html:14
+#: slideshows/kubuntu/slides/welcome.html:15
 msgid "Kubuntu is designed to be easy. Feel free to explore!"
 msgstr "Kubuntu створено бути простою. Переконайтеся у цьому самі!"
 
@@ -448,3 +451,13 @@ msgstr "Kubuntu створено бути простою. Переконайте
 #~ msgstr ""
 #~ "У Kubuntu ви знайдете програми, які допоможуть вам скористатися усіма "
 #~ "різними можливостями інтернету."
+
+#~ msgid ""
+#~ "Web browsers such as <em>Firefox</em> and Google's <em>Chromium</em> are "
+#~ "easily installable."
+#~ msgstr ""
+#~ "Встановити інші переглядачі інтернету, зокрема <em>Firefox</em> або "
+#~ "<em>Chromium</em> компанії Google, доволі просто."
+
+#~ msgid "Thank you for choosing Kubuntu 13.10."
+#~ msgstr "Дякуємо вам за вибір Kubuntu 13.10."
