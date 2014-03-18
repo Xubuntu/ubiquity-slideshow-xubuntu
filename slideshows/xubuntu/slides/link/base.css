@@ -59,6 +59,7 @@ table {
 	border-spacing: 0;
 }
 
+
 /*
  *  Self-clearing floats
  *
@@ -72,8 +73,9 @@ table {
 	visibility: hidden;
 }
 
+
 /*
- *  Main layout
+ *  Layout
  *
  */
 
@@ -83,7 +85,6 @@ html, body {
 
 #slideshow {
 	background: #0b3a6b url(wall.png) 0 0 no-repeat;
-/*	background-image: none; */
 	color: #fff;
 
 	width: 750px;
@@ -91,6 +92,35 @@ html, body {
 
 	overflow: hidden;
 }
+
+.header {
+	display: table-cell;
+	width: 750px;
+
+	padding: 0 100px 0 20px;
+	height: 60px;
+
+	vertical-align: middle;
+
+	background-color: rgba( 0, 0, 0, 0.5 );
+}
+
+.main {
+	font-size: 90%;
+
+	background-image: url(shadow.png);
+	background-position: 0 0;
+	background-repeat: repeat-x;
+
+	padding: 30px 0 0 0;
+
+	height: 330px;
+}
+	.main .content,
+	.main .shot {
+		float: left;
+	}
+
 
 /*
  *  Controls
@@ -125,6 +155,7 @@ html, body {
 	left: 710px;
 	background-image: url(arrow-next.png);
 }
+
 
 /*
  *  Elements
@@ -167,49 +198,56 @@ h2 {
 	font-size: 90%;
 	color: #fff;
 }
+	.main h2:first-child {
+		margin-top: 0;
+	}
+
 
 /*
- *  More layout
+ *  Different content widths
+ *
+ */
+.main .content { padding: 0 20px; }
+.main .shot { margin-left: 10px;	}
+
+.content { width: 270px; }
+.content.full { width: 710px; clear: both; }
+.content.wide { width: 375px; }
+.content.half { width: 335px; }
+.content.narrow { width: 285px; }
+
+.shot.leftpad { margin-left: 30px; }
+.shot.narrow { width: 325px; }
+.shot.narrow.leftpad { width: 295px; }
+.shot.right { float: right; margin-right: 30px; }
+
+
+/*
+ *  Common styles
  *
  */
 
-.header {
-	display: table-cell;
-	width: 750px;
-
-	padding: 0 100px 0 20px;
-	height: 60px;
-
-	vertical-align: middle;
-
-	background-color: rgba( 0, 0, 0, 0.5 );
+/*  Rounded-corner box  */
+.box {
+	background-color: rgba( 0, 0, 0, 0.2 );
+	border-radius: 10px;
+	padding: 10px 20px;
 }
 
-.main {
-	font-size: 90%;
-
-	background-image: url(shadow.png);
-	background-position: 0 0;
-	background-repeat: repeat-x;
-
-	padding: 30px 0 0 0;
+.box.narrow {
+	width: 275px;
+	margin-bottom: 1em;
+	padding: 10px 20px;
 }
-	.main .content,
-	.main .shot {
-		float: left;
-	}
-	.main .content {	
-		width: 270px;
-		padding: 0 20px;
-	}
 
-	.main .shot {
-		margin-left: 10px;
-	}
-/*
- *  Application paths
- *
- */
+/*  Note (smaller text)  */
+
+.note {
+	font-size: 85%;
+	line-height: 1.4em;
+}
+
+/*  Application paths  */
 
 .paths {
 	width: 300px;
@@ -232,37 +270,25 @@ h2 {
 	color: #007fbe;
 }
 
-/* */
 
-.main .content.wide { width: 375px; }
-.main .content.full { width: 710px; clear: both; }
-.main .content.half { width: 335px; }
-.main .content.third { width: 205px; }
-.main .content.narrow { width: 285px; }
+/*
+ *  Slide-specific styles
+ *
+ */
 
-.main .shot.leftpad { margin-left: 30px; }
-.main .shot.narrow { width: 325px; }
-.main .shot.narrow.leftpad { width: 295px; }
-.main .shot.right { float: right; margin-right: 30px; }
+/*  Desktop  */
 
-.main .box {
-	background-color: rgba( 0, 0, 0, 0.2 );
-	border-radius: 10px;
-	padding: 10px 20px;
+.panel {
+	clear: both;
+	padding: 1em 0 0 0;
 }
 
-.main .content.box.narrow {
-	width: 275px;
-	margin-bottom: 1em;
-	padding: 10px 20px;
-}
-
-.main .panelnotes {
+.panelnotes {
 	padding: 0 0 0 20px;
 	margin: 1em 0 2em 0;
 }
 
-.main .panelnotes p.box {
+.panelnotes p.box {
 	width: 190px;
 	height: 6em;
 	margin-right: 10px;
@@ -271,21 +297,13 @@ h2 {
 	-webkit-transition: all 0.5s;
 }
 
-.main .panelnotes p.box:hover,
-.main .panelnotes p.box:active,
-.main .panelnotes p.box:focus {
+.panelnotes p.box:hover,
+.panelnotes p.box:active,
+.panelnotes p.box:focus {
 	background-color: rgba( 0, 0, 0, 0.3 );
 }
 
-.main h2:first-child { margin-top: 0; }
-.main .note { font-size: 85%; line-height: 1.4em; }
-
-.main .panel {
-	clear: both;
-	padding: 1em 0 0 0;
-}
-
-/* Panel slide */
+/*  Panel highlights, shown with JS  */
 
 #panelhighlight {
 	margin-top: 2px;
@@ -295,13 +313,29 @@ h2 {
 }
 
 #panelhighlight.visible {
-	border-bottom: 2px solid rgba( 255, 255, 255, 0.9 );
+	border-bottom: 2px solid #59a61b;
 }
 
-/* Thanks slide */
+/*  Help & Support  */
 
-.main .tahrbg {
+.chatbubble {
+	position: absolute;
+	bottom: 30px;
+	right: 20px;
+}
+
+.triangle {
+	float: right;
+	margin-right: 40px;
+	height: 40px;
+	width: 60px;
+	background: transparent url(triangledown.png) 100% 0 no-repeat;
+}
+
+/*  Thanks  */
+
+.tahr {
 	height: 330px;
-	background: transparent url(../images/tahr.png) 100% 100%;
+	background: transparent url(../images/art_tahr.png) 100% 100% no-repeat;
 	border-bottom: 1px solid red;
 }
