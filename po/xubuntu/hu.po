@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-03-17 13:10-0400\n"
+"POT-Creation-Date: 2014-03-19 14:05+0200\n"
 "PO-Revision-Date: 2014-03-06 23:05+0000\n"
-"Last-Translator: Gabor Kelemen <kelemeng@gnome.hu>\n"
+"Last-Translator: Gabor Kelemen <kelemeng@openscope.org>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-17 17:14+0000\n"
-"X-Generator: Launchpad (build 16963)\n"
+"X-Launchpad-Export-Date: 2014-03-24 14:34+0000\n"
+"X-Generator: Launchpad (build 16967)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -30,15 +30,11 @@ msgstr "Gratulálunk, hogy a Xubuntu 14.04-et választotta!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
-#, fuzzy
 msgid ""
 "If you are running this installation via the <em>Try Xubuntu</em> option, "
 "feel free to examine things as Xubuntu installs. After the installation, the "
 "desktop will look similar to how it does now."
 msgstr ""
-"Ha a telepítést <em>A Xubuntu kipróbálása</em> lehetőséggel futtatja, "
-"szabadon megvizsgálhat bármit, amíg a rendszer települ. A telepítés után az "
-"asztal nagyjából úgy fog kinézni, ahogy most."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_desktop.html:2
@@ -47,15 +43,11 @@ msgstr "A Xubuntu asztal"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_desktop.html:7
-#, fuzzy
 msgid ""
-"On the desktop, you will see icons that can be used to access some of the "
+"On the desktop you will see icons that can be used to access some of the "
 "most common places on your system. In addition, you will see a single, "
 "multipurpose, panel at the top of the screen."
 msgstr ""
-"Az asztalon néhány ikont fog látni, melyekkel rendszere leggyakrabban "
-"használt helyeit tudja elérni. Ezen kívül lát majd egy többcélú panelt a "
-"képernyő tetején, ugyanolyat mint ez:"
 
 #. type: Attribute 'alt' of: <div><div><img>
 #: slideshows/xubuntu/slides/01_desktop.html:11
@@ -63,17 +55,14 @@ msgid "Xubuntu default panel"
 msgstr "Xubuntu alapértelmezett panel"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:15
-#, fuzzy
+#: slideshows/xubuntu/slides/01_desktop.html:17
 msgid ""
 "On the left hand side, you will see a Xubuntu logo. Click it to open the "
 "main menu. We will tell you more about this menu in the next slide."
 msgstr ""
-"A bal oldalon egy Xubuntu logót lát majd. Ha rákattint, a főmenü nyílik meg. "
-"Erről a következő dián tudhat meg többet."
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:16
+#: slideshows/xubuntu/slides/01_desktop.html:18
 msgid ""
 "The middle part of the panel is dedicated to window buttons for open "
 "applications."
@@ -82,26 +71,19 @@ msgstr ""
 "fenntartva."
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:17
-#, fuzzy
+#: slideshows/xubuntu/slides/01_desktop.html:19
 msgid ""
 "On the far right, you will see indicators and a clock. Click the clock to "
 "see the monthly calendar."
 msgstr ""
-"Távolabb jobbra láthat majd egy órát és a dátumot. Kattintson utóbbin a havi "
-"naptár eléréséhez!"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:21
-#, fuzzy
+#: slideshows/xubuntu/slides/01_desktop.html:23
 msgid ""
 "You can customize the panel by right-clicking the panel and selecting "
-"<em>Panel » Panel Preferences</em>. You can also add and remove panels as "
-"you like from this dialog."
+"<em>Panel » Panel Preferences</em>. You can also add and remove panels using "
+"this dialog."
 msgstr ""
-"Végül testre szabhatja a panelt vagy további paneleket hozhat létre tetszése "
-"szerint jobb kattintással, a <em>Panel » Panel beállításai...</em> "
-"kiválasztásával."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_whiskermenu.html:2
@@ -110,25 +92,18 @@ msgstr "Kövesse nyomon alkalmazásait!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_whiskermenu.html:7
-#, fuzzy
 msgid ""
 "Search for your applications from within the menu and get them displayed as "
 "a favorites list. Reorder, remove, and add other entries just by right-"
 "clicking on an application result when browsing or searching."
 msgstr ""
-"Keresse meg alkalmazásait a menüben és jelenítse meg azokat Kedvencek "
-"listaként. Rendezzen át, távolítson el vagy adjon hozzá egyéb bejegyzéseket "
-"egy alkalmazáson való jobb kattintással böngészés vagy keresés közben."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_whiskermenu.html:8
-#, fuzzy
 msgid ""
 "If favorites just doesn't do it for you, switch to the <em>Recently Used</"
 "em> view and get a list of the 10 most recent applications you've opened."
 msgstr ""
-"Ha a Kedvencek nem az igazi az Ön számára, kattintson az <em>Előzményekre</"
-"em> a legutoljára használt 10 alkalmazás megtekintéséhez."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_personalize.html:2
@@ -161,6 +136,8 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_personalize.html:10
 #: slideshows/xubuntu/slides/03_personalize.html:11
+#: slideshows/xubuntu/slides/04_customize.html:10
+#: slideshows/xubuntu/slides/04_customize.html:11
 msgid "<b>»</b>"
 msgstr ""
 
@@ -181,7 +158,28 @@ msgstr "Hozza létre saját asztalát!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:7
-msgid "Stuff."
+msgid ""
+"Your desktop background is easy to customize and we're providing you with a "
+"selection of beautiful wallpapers. Choose one of the five winners of our "
+"community wallpaper contest – handpicked for you!"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:8
+msgid ""
+"Colorize according to your taste! With the newly created theme configuration "
+"tool you can easily fine-tune the looks of some core aspects of the desktop."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:10
+#, fuzzy
+msgid "Desktop Settings"
+msgstr "Rendszer és beállítások"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:11
+msgid "Theme Configuration"
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -191,15 +189,11 @@ msgstr "Kész!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:7
-#, fuzzy
 msgid ""
 "Here is a brief list of some applications that are preinstalled with Xubuntu "
 "for your convenience. Find them in the menu on the left top corner of your "
 "screen. You can install more through the <em>Ubuntu Software Center</em>."
 msgstr ""
-"Íme a Xubuntuban előre telepített alkalmazások rövid listája. A képernyő bal "
-"felső sarkában lévő menüben találhatja ezeket. Továbbiakat telepíthet az "
-"<em>Ubuntu Szoftverközpont</em> segítségével."
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/05_defaultapps.html:10
@@ -208,9 +202,8 @@ msgstr "Internet"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:11
-#, fuzzy
 msgid "<strong>Firefox</strong>, web browser"
-msgstr "Firefox webböngésző"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:12
@@ -219,9 +212,8 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:13
-#, fuzzy
 msgid "<strong>Pidgin</strong>, Internet messenger"
-msgstr "Pidgin üzenetküldő"
+msgstr ""
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/05_defaultapps.html:14
@@ -230,15 +222,13 @@ msgstr "Iroda"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:15
-#, fuzzy
 msgid "<strong>AbiWord</strong>, word processor"
-msgstr "<b>Abiword</b> szövegszerkesztő"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:16
-#, fuzzy
 msgid "<strong>Gnumeric</strong>, spreadsheet editor"
-msgstr "<b>Gnumeric</b> táblázatkezelő"
+msgstr ""
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/05_defaultapps.html:19
@@ -247,15 +237,13 @@ msgstr "Multimédia"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:20
-#, fuzzy
 msgid "<strong>gmusicbrowser</strong>, music collection software"
-msgstr "<b>gmusicbrowser</b> zenegyűjtemény-kezelő"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:21
-#, fuzzy
 msgid "<strong>Parole</strong>, media player"
-msgstr "Parole médialejátszó"
+msgstr ""
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/05_defaultapps.html:22
@@ -264,15 +252,13 @@ msgstr "Rendszer és beállítások"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:23
-#, fuzzy
 msgid "<strong>Ubuntu Software Center</strong>"
-msgstr "Ubuntu Szoftverközpont"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:24
-#, fuzzy
 msgid "<strong>Settings Manager</strong>"
-msgstr "Beállításkezelő"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/06_support.html:2
@@ -315,13 +301,14 @@ msgstr ""
 "Xubuntu weboldalán: <a href=\"http://xubuntu.org/help\">Help & Support "
 "szakasz</a>"
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/06_support.html:13
-msgid "Live support"
+#. type: Content of: <div><div><div><h2>
+#: slideshows/xubuntu/slides/06_support.html:14
+#, fuzzy
+msgid "Real-time support"
 msgstr "Élő támogatás"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:14
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/06_support.html:15
 msgid ""
 "For live, online support, join our IRC channel, <em>#xubuntu</em>, by <a "
 "href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
@@ -331,8 +318,8 @@ msgstr ""
 "csatornánkhoz, <a href=\"http://webchat.freenode.net/?"
 "channels=xubuntu&nick=xubuntu...&prompt=1\">ehhez kattintson ide</a>!"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:15
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/06_support.html:16
 msgid ""
 "The main support channel is English only. For support in other languages, "
 "view the full list of <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local"
@@ -347,64 +334,39 @@ msgstr ""
 msgid "Thank you!"
 msgstr "Köszönjük!"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:7
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/07_thanks.html:8
 #, fuzzy
 msgid ""
 "We'd love to hear about your experiences with Xubuntu. You can share them on "
 "the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
 "\">Xubuntu users mailing list</a>. In the meantime, thanks for taking the "
-"time to install Xubuntu with us"
+"time to install Xubuntu with us."
 msgstr ""
-"Köszönjük, hogy időt szánt ránk. Szívesen hallanánk a Xubuntuval kapcsolatos "
-"tapasztalatairól. Ezeket megoszthatja velünk a <a href=\"https://lists."
-"ubuntu.com/mailman/listinfo/xubuntu-users\">Xubuntu levelezőlistán</a>."
+"Köszönjük, hogy minket választott. Szívesen hallanánk a Xubuntuval "
+"kapcsolatos tapasztalatait. Ezeket a <a href=\"https://lists.ubuntu.com/"
+"mailman/listinfo/xubuntu-users\">Xubuntu-users levelezőlistán</a> oszthatja "
+"meg."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/07_thanks.html:10
 msgid ""
 "Xubuntu will always come without fees; feel free to pass on your "
 "installation media and let others try Xubuntu as well."
 msgstr ""
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/07_thanks.html:11
+#. type: Content of: <div><div><div><h2>
+#: slideshows/xubuntu/slides/07_thanks.html:12
 msgid "We need your help!"
 msgstr "Szükségünk van segítségére!"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:12
-#, fuzzy
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/07_thanks.html:13
 msgid ""
 "Want to give something back? The different ways to contribute to the Xubuntu "
 "community can all be found on the <a href=\"http://xubuntu.org/devel\">Get "
 "Involved</a> section of our website."
 msgstr ""
-"Szeretne másoknak segíteni? Keresse meg a Xubuntuval való együttműködés "
-"lehetőségeit weboldalunk <a href=\"http://xubuntu.org/devel\">Get Involved</"
-"a> szekciójában!"
-
-#~ msgid ""
-#~ "This exciting piece of software is brought to you free of any fees, for "
-#~ "your use and any others you want to share it with."
-#~ msgstr ""
-#~ "Ezt az izgalmas szoftvert ingyenesen használhatja, és mindenki más is, "
-#~ "akivel meg szeretné osztani."
-
-#~ msgid ""
-#~ "Left to the clock you will see the indicators, which give you information "
-#~ "on your system, including network connectivity, battery (when "
-#~ "appropriate), volume level, instant messages and more."
-#~ msgstr ""
-#~ "Az órától balra láthatja az indikátorokat, melyek információkat adnak "
-#~ "rendszeréről; beleértve a hálózati kapcsolatot, az akkumulátort (ha "
-#~ "szükséges), a hangerőt, azonnali üzeneteket és egyebeket."
-
-#~ msgid "Main Menu"
-#~ msgstr "Főmenü"
-
-#~ msgid "This space is intentionally left blank."
-#~ msgstr "Ez a hely üresen marad."
 
 #~ msgid "Thunderbird Mail/News"
 #~ msgstr "Thunderbird levél- és hírolvasó"
@@ -421,6 +383,9 @@ msgstr ""
 #~ msgid "Internet <span>»</span>"
 #~ msgstr "Internet <span>»</span>"
 
+#~ msgid "Firefox Web Browser"
+#~ msgstr "Firefox webböngésző"
+
 #~ msgid "gmusicbrowser"
 #~ msgstr "gmusicbrowser"
 
@@ -430,6 +395,9 @@ msgstr ""
 #~ msgstr ""
 #~ "Ha kicsi, ha nagy zenei gyűjteménye, a Xubuntu alapértelmezett "
 #~ "<em>gmusicbrowser</em> zenelejátszója tökéletesen kezeli majd."
+
+#~ msgid "Pidgin Internet Messenger"
+#~ msgstr "Pidgin üzenetküldő"
 
 #~ msgid "Enjoy your media"
 #~ msgstr "Élvezze a digitális világot"
@@ -454,6 +422,13 @@ msgstr ""
 
 #~ msgid "3"
 #~ msgstr "3"
+
+#~ msgid ""
+#~ "This exciting piece of software is brought to you free of any fees, for "
+#~ "your use and any others you want to share it with."
+#~ msgstr ""
+#~ "Ezt az izgalmas szoftvert ingyenesen használhatja, és mindenki más is, "
+#~ "akivel meg szeretné osztani."
 
 #~ msgid "1"
 #~ msgstr "1"
@@ -485,17 +460,6 @@ msgstr ""
 
 #~ msgid "In the office"
 #~ msgstr "Az irodában"
-
-#~ msgid ""
-#~ "Thanks for taking the time with us. We'd love to hear about your "
-#~ "experiences with Xubuntu. You can share them on the <a href=\"https://"
-#~ "lists.ubuntu.com/mailman/listinfo/xubuntu-users\">Xubuntu-users mailing "
-#~ "list</a>."
-#~ msgstr ""
-#~ "Köszönjük, hogy minket választott. Szívesen hallanánk a Xubuntuval "
-#~ "kapcsolatos tapasztalatait. Ezeket a <a href=\"https://lists.ubuntu.com/"
-#~ "mailman/listinfo/xubuntu-users\">Xubuntu-users levelezőlistán</a> "
-#~ "oszthatja meg."
 
 #~ msgid ""
 #~ "Since you are installing this software using the Xubuntu live "

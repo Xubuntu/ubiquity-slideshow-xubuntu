@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-03-17 13:10-0400\n"
+"POT-Creation-Date: 2014-03-19 14:05+0200\n"
 "PO-Revision-Date: 2010-06-25 22:28+0000\n"
 "Last-Translator: Colin Watson <cjwatson@canonical.com>\n"
 "Language-Team: Amharic <am@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-17 17:13+0000\n"
-"X-Generator: Launchpad (build 16963)\n"
+"X-Launchpad-Export-Date: 2014-03-24 14:34+0000\n"
+"X-Generator: Launchpad (build 16967)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -44,7 +44,7 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_desktop.html:7
 msgid ""
-"On the desktop, you will see icons that can be used to access some of the "
+"On the desktop you will see icons that can be used to access some of the "
 "most common places on your system. In addition, you will see a single, "
 "multipurpose, panel at the top of the screen."
 msgstr ""
@@ -55,32 +55,32 @@ msgid "Xubuntu default panel"
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:15
+#: slideshows/xubuntu/slides/01_desktop.html:17
 msgid ""
 "On the left hand side, you will see a Xubuntu logo. Click it to open the "
 "main menu. We will tell you more about this menu in the next slide."
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:16
+#: slideshows/xubuntu/slides/01_desktop.html:18
 msgid ""
 "The middle part of the panel is dedicated to window buttons for open "
 "applications."
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:17
+#: slideshows/xubuntu/slides/01_desktop.html:19
 msgid ""
 "On the far right, you will see indicators and a clock. Click the clock to "
 "see the monthly calendar."
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:21
+#: slideshows/xubuntu/slides/01_desktop.html:23
 msgid ""
 "You can customize the panel by right-clicking the panel and selecting "
-"<em>Panel » Panel Preferences</em>. You can also add and remove panels as "
-"you like from this dialog."
+"<em>Panel » Panel Preferences</em>. You can also add and remove panels using "
+"this dialog."
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -128,6 +128,8 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_personalize.html:10
 #: slideshows/xubuntu/slides/03_personalize.html:11
+#: slideshows/xubuntu/slides/04_customize.html:10
+#: slideshows/xubuntu/slides/04_customize.html:11
 msgid "<b>»</b>"
 msgstr ""
 
@@ -148,7 +150,27 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:7
-msgid "Stuff."
+msgid ""
+"Your desktop background is easy to customize and we're providing you with a "
+"selection of beautiful wallpapers. Choose one of the five winners of our "
+"community wallpaper contest – handpicked for you!"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:8
+msgid ""
+"Colorize according to your taste! With the newly created theme configuration "
+"tool you can easily fine-tune the looks of some core aspects of the desktop."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:10
+msgid "Desktop Settings"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:11
+msgid "Theme Configuration"
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -262,21 +284,21 @@ msgid ""
 "Xubuntu website."
 msgstr ""
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/06_support.html:13
-msgid "Live support"
+#. type: Content of: <div><div><div><h2>
+#: slideshows/xubuntu/slides/06_support.html:14
+msgid "Real-time support"
 msgstr ""
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:14
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/06_support.html:15
 msgid ""
 "For live, online support, join our IRC channel, <em>#xubuntu</em>, by <a "
 "href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
 "&prompt=1\">clicking here</a>."
 msgstr ""
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:15
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/06_support.html:16
 msgid ""
 "The main support channel is English only. For support in other languages, "
 "view the full list of <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local"
@@ -288,29 +310,29 @@ msgstr ""
 msgid "Thank you!"
 msgstr ""
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:7
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/07_thanks.html:8
 msgid ""
 "We'd love to hear about your experiences with Xubuntu. You can share them on "
 "the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
 "\">Xubuntu users mailing list</a>. In the meantime, thanks for taking the "
-"time to install Xubuntu with us"
+"time to install Xubuntu with us."
 msgstr ""
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/07_thanks.html:10
 msgid ""
 "Xubuntu will always come without fees; feel free to pass on your "
 "installation media and let others try Xubuntu as well."
 msgstr ""
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/07_thanks.html:11
+#. type: Content of: <div><div><div><h2>
+#: slideshows/xubuntu/slides/07_thanks.html:12
 msgid "We need your help!"
 msgstr ""
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:12
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/07_thanks.html:13
 msgid ""
 "Want to give something back? The different ways to contribute to the Xubuntu "
 "community can all be found on the <a href=\"http://xubuntu.org/devel\">Get "

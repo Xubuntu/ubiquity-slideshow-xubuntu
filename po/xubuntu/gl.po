@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-03-17 13:10-0400\n"
-"PO-Revision-Date: 2014-03-16 18:19+0000\n"
+"POT-Creation-Date: 2014-03-19 14:05+0200\n"
+"PO-Revision-Date: 2014-03-23 14:46+0000\n"
 "Last-Translator: Marcos Lans <Unknown>\n"
 "Language-Team: Galician <gl@li.org>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-17 17:14+0000\n"
-"X-Generator: Launchpad (build 16963)\n"
+"X-Launchpad-Export-Date: 2014-03-24 14:34+0000\n"
+"X-Generator: Launchpad (build 16967)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -30,15 +30,15 @@ msgstr "Parabéns, escolleu instalar Xubuntu 14.04."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
-#, fuzzy
 msgid ""
 "If you are running this installation via the <em>Try Xubuntu</em> option, "
 "feel free to examine things as Xubuntu installs. After the installation, the "
 "desktop will look similar to how it does now."
 msgstr ""
-"Se está executando esta instalación seguindo a opción <em>Probar Xubuntu</"
-"em>, pode explorar diversas características mentres se instala. Unha vez "
-"rematada a intalación, o escritorio mostrarase semellante ao que ve agora."
+"Se está executando esta instalación mediante a opción <em>Probar Xubuntu</"
+"em>, pode examinar diversas características mentres se instala Xubuntu. "
+"Despois da instalación, o escritorio terá unha aparencia semellante á que "
+"ten agora."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_desktop.html:2
@@ -49,13 +49,13 @@ msgstr "O escritorio de Xubuntu"
 #: slideshows/xubuntu/slides/01_desktop.html:7
 #, fuzzy
 msgid ""
-"On the desktop, you will see icons that can be used to access some of the "
+"On the desktop you will see icons that can be used to access some of the "
 "most common places on your system. In addition, you will see a single, "
 "multipurpose, panel at the top of the screen."
 msgstr ""
-"No escritorio verá algunhas iconas que se poden utilizar para acceder a "
-"varios lugares do sistema. Ademais, verá un panel simple e multifuncional na "
-"banda superior da pantalla, moi semellante a este:"
+"No escritorio, verá iconas que poden usarse para acceder a algúns dos "
+"lugares máis habituais do sistema. Ademais, verá un panel único e "
+"multifuncional na banda superior da pantalla."
 
 #. type: Attribute 'alt' of: <div><div><img>
 #: slideshows/xubuntu/slides/01_desktop.html:11
@@ -63,17 +63,16 @@ msgid "Xubuntu default panel"
 msgstr "Panel predeterminado de Xubuntu"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:15
-#, fuzzy
+#: slideshows/xubuntu/slides/01_desktop.html:17
 msgid ""
 "On the left hand side, you will see a Xubuntu logo. Click it to open the "
 "main menu. We will tell you more about this menu in the next slide."
 msgstr ""
-"Na banda esquerda, verá o logotipo de Xubuntu. Ao premer nel, ábrese o menú "
-"principal. Ampliaremos a información sobre este menú na diapositiva seguinte."
+"Na banda esquerda, verá o logotipo de Xubuntu. Prema nel para abrir o menú "
+"principal. Contarémoslle máis sobre este menú na seguinte diapositva."
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:16
+#: slideshows/xubuntu/slides/01_desktop.html:18
 msgid ""
 "The middle part of the panel is dedicated to window buttons for open "
 "applications."
@@ -82,26 +81,25 @@ msgstr ""
 "aplicativos."
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:17
-#, fuzzy
+#: slideshows/xubuntu/slides/01_desktop.html:19
 msgid ""
 "On the far right, you will see indicators and a clock. Click the clock to "
 "see the monthly calendar."
 msgstr ""
-"Máis á dereita, verá un reloxo coa data. Prema na data para acceder ao "
-"calendario do mes."
+"Na banda máis á dereita verá os indicadores e o reloxo. Prema no reloxo para "
+"ver o calendario mensual."
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:21
+#: slideshows/xubuntu/slides/01_desktop.html:23
 #, fuzzy
 msgid ""
 "You can customize the panel by right-clicking the panel and selecting "
-"<em>Panel » Panel Preferences</em>. You can also add and remove panels as "
-"you like from this dialog."
+"<em>Panel » Panel Preferences</em>. You can also add and remove panels using "
+"this dialog."
 msgstr ""
-"Finalmente, pode personalizar o panel ou engadir máis paneis á súa vontade "
-"facendo clic dereito no panel e seleccionando <em>Panel » Preferencias do "
-"panel</em>."
+"Pode personalizar o panel facendo clic-dereito nel e seleccionando <em>Panel "
+"» Preferencias do panel</em>.  Tamén pode engadir e retirar paneis ao seu "
+"gusto desde este diálogo."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_whiskermenu.html:2
@@ -110,31 +108,28 @@ msgstr "Faga un seguimento dos seus aplicativos."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_whiskermenu.html:7
-#, fuzzy
 msgid ""
 "Search for your applications from within the menu and get them displayed as "
 "a favorites list. Reorder, remove, and add other entries just by right-"
 "clicking on an application result when browsing or searching."
 msgstr ""
-"Busque os aplicativos no menú e móstreos como unha lista de favoritos. "
-"Ordene, retire e engada outras entradas premendo no botón dereito dentro dun "
-"resultado tras explorar ou buscar."
+"Buscar os aplicativos desde dentro do menú e mostralos como unha lista de "
+"favoritos. Reordenar, retirar e engadir outras entradas  facendo clic-"
+"dereito nun resultado da exploración ou procura."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_whiskermenu.html:8
-#, fuzzy
 msgid ""
 "If favorites just doesn't do it for you, switch to the <em>Recently Used</"
 "em> view and get a list of the 10 most recent applications you've opened."
 msgstr ""
-"Se os favoritos non son para vostede, cambie á vista <em>Usados "
-"recentemente</em> e obteña unha relación dos 10 programas abertos "
-"recentemente."
+"Se nos favoritos non atopa o que busca, vaia á vista <em>Usados "
+"recentemente</em> e verá os 10 aplicativos que abriu ultimamente."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_personalize.html:2
 msgid "Personalize your computer"
-msgstr ""
+msgstr "Personalizar o computador"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/03_personalize.html:7
@@ -163,8 +158,10 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_personalize.html:10
 #: slideshows/xubuntu/slides/03_personalize.html:11
+#: slideshows/xubuntu/slides/04_customize.html:10
+#: slideshows/xubuntu/slides/04_customize.html:11
 msgid "<b>»</b>"
-msgstr ""
+msgstr "<b>»</b>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_personalize.html:10
@@ -174,7 +171,7 @@ msgstr "Acerca de min"
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_personalize.html:11
 msgid "Menu Editor"
-msgstr ""
+msgstr "Editor do menú"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_customize.html:2
@@ -183,7 +180,28 @@ msgstr "Axeite o escritorio ao seu gusto"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:7
-msgid "Stuff."
+msgid ""
+"Your desktop background is easy to customize and we're providing you with a "
+"selection of beautiful wallpapers. Choose one of the five winners of our "
+"community wallpaper contest – handpicked for you!"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:8
+msgid ""
+"Colorize according to your taste! With the newly created theme configuration "
+"tool you can easily fine-tune the looks of some core aspects of the desktop."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:10
+#, fuzzy
+msgid "Desktop Settings"
+msgstr "Sistema e configuración"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:11
+msgid "Theme Configuration"
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -193,15 +211,15 @@ msgstr "Preparado!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:7
-#, fuzzy
 msgid ""
 "Here is a brief list of some applications that are preinstalled with Xubuntu "
 "for your convenience. Find them in the menu on the left top corner of your "
 "screen. You can install more through the <em>Ubuntu Software Center</em>."
 msgstr ""
-"Aquí ten unha pequena lista dos aplicativos preinstalados en Xubuntu para o "
-"seu servizo. Atópeos no menú do recanto superior esquerdo da pantalla. Pode "
-"instalar máis no <em>Centro de Software de Ubuntu</em>."
+"Aquí ten unha pequena lista dalgúns aplicativos que están preinstalados con "
+"Xubuntu para o seu servizo. Atópeos no recanto superior esquerdo da "
+"pantalla. Pode instalar máis por medio do <em>Centro de Software de Ubuntu</"
+"em>."
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/05_defaultapps.html:10
@@ -210,20 +228,18 @@ msgstr "Internet"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:11
-#, fuzzy
 msgid "<strong>Firefox</strong>, web browser"
-msgstr "Navegador web Firefox"
+msgstr "<strong>Firefox</strong>, navegador web"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:12
 msgid "<strong>Thunderbird</strong>, mail and news client"
-msgstr ""
+msgstr "<strong>Thunderbird</strong>, cliente de correo e novas"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:13
-#, fuzzy
 msgid "<strong>Pidgin</strong>, Internet messenger"
-msgstr "Mensaxería na Internet de Pidgin"
+msgstr "<strong>Pidgin</strong>, mensaxería de internet"
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/05_defaultapps.html:14
@@ -232,15 +248,13 @@ msgstr "Oficina"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:15
-#, fuzzy
 msgid "<strong>AbiWord</strong>, word processor"
-msgstr "<b>Abiword</b>, procesador de texto"
+msgstr "<strong>AbiWord</strong>, procesador de texto"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:16
-#, fuzzy
 msgid "<strong>Gnumeric</strong>, spreadsheet editor"
-msgstr "<b>Gnumeric</b>, editor de follas de cálculo"
+msgstr "<strong>Gnumeric</strong>, editor de follas de cálculo"
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/05_defaultapps.html:19
@@ -249,15 +263,13 @@ msgstr "Multimedia"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:20
-#, fuzzy
 msgid "<strong>gmusicbrowser</strong>, music collection software"
-msgstr "<b>gmusicbrowser</b>, software para coleccións de música"
+msgstr "<strong>gmusicbrowser</strong>, software para coleccións de música"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:21
-#, fuzzy
 msgid "<strong>Parole</strong>, media player"
-msgstr "Reproductor multimedia Prole"
+msgstr "<strong>Parole</strong>, reprodutor multimedia"
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/05_defaultapps.html:22
@@ -266,15 +278,13 @@ msgstr "Sistema e configuración"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:23
-#, fuzzy
 msgid "<strong>Ubuntu Software Center</strong>"
-msgstr "Centro de software de Ubuntu"
+msgstr "<strong>Ubuntu Software Center</strong>"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_defaultapps.html:24
-#, fuzzy
 msgid "<strong>Settings Manager</strong>"
-msgstr "Xestor de configuración"
+msgstr "<strong>Xestor de configuración</strong>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/06_support.html:2
@@ -317,13 +327,14 @@ msgstr ""
 "dispoñíbeis na <a href=\"http://xubuntu.org/help\">sección de axuda e "
 "asistencia</a> da web de Xubuntu."
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/06_support.html:13
-msgid "Live support"
+#. type: Content of: <div><div><div><h2>
+#: slideshows/xubuntu/slides/06_support.html:14
+#, fuzzy
+msgid "Real-time support"
 msgstr "Asistencia directa"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:14
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/06_support.html:15
 msgid ""
 "For live, online support, join our IRC channel, <em>#xubuntu</em>, by <a "
 "href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
@@ -333,8 +344,8 @@ msgstr ""
 "em>, en <a href=\"http://webchat.freenode.net/?"
 "channels=xubuntu&nick=xubuntu...&prompt=1\">premendo aquí</a>."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:15
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/06_support.html:16
 msgid ""
 "The main support channel is English only. For support in other languages, "
 "view the full list of <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local"
@@ -349,73 +360,62 @@ msgstr ""
 msgid "Thank you!"
 msgstr "Grazas!"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:7
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/07_thanks.html:8
 #, fuzzy
 msgid ""
 "We'd love to hear about your experiences with Xubuntu. You can share them on "
 "the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
 "\">Xubuntu users mailing list</a>. In the meantime, thanks for taking the "
-"time to install Xubuntu with us"
+"time to install Xubuntu with us."
 msgstr ""
-"Grazas por dedicarnos este tempo. Gustaríanos coñecer a súa experiencia con "
-"Xubuntu. Pode compartila na  <a href=\"https://lists.ubuntu.com/mailman/"
-"listinfo/xubuntu-users\">lista de correos de usuarios de Xubuntu</a>."
+"Encantaríanos escoitar a súa experiencia con Xubuntu. Pode compartila na  <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users\">lista de "
+"correo de usuarios de Xubuntu</a>. Entrementres, dámoslle as grazas por "
+"pasar este tempo connosco instalando Xubuntu."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/07_thanks.html:10
 msgid ""
 "Xubuntu will always come without fees; feel free to pass on your "
 "installation media and let others try Xubuntu as well."
 msgstr ""
+"Xubuntu sempre será de balde, pode prestar o seu medio de instalación para "
+"permitir que outros tamén coñezan Xubuntu."
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/07_thanks.html:11
+#. type: Content of: <div><div><div><h2>
+#: slideshows/xubuntu/slides/07_thanks.html:12
 msgid "We need your help!"
 msgstr "Precisamos da súa axuda!"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:12
-#, fuzzy
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/07_thanks.html:13
 msgid ""
 "Want to give something back? The different ways to contribute to the Xubuntu "
 "community can all be found on the <a href=\"http://xubuntu.org/devel\">Get "
 "Involved</a> section of our website."
 msgstr ""
-"Desexa dar algo a cambio? Atope as diferentes formas de contribuír con "
-"Xubuntu na sección href=\"http://xubuntu.org/devel\">Get Involved</a> da "
-"nosa web."
+"Quere dar algo a cambio? Os diferentes xeitos de contribuír á comunidade de "
+"Xubuntu poden atoparse na sección <a href=\"http://xubuntu.org/devel\">Get "
+"Involved</a> da nosa web."
 
-#~ msgid ""
-#~ "This exciting piece of software is brought to you free of any fees, for "
-#~ "your use and any others you want to share it with."
-#~ msgstr ""
-#~ "Esta interesante peza de software presentase libre de calquera cargo, "
-#~ "para o seu uso e o de outras persoas con quen desexe compartir."
-
-#~ msgid ""
-#~ "Left to the clock you will see the indicators, which give you information "
-#~ "on your system, including network connectivity, battery (when "
-#~ "appropriate), volume level, instant messages and more."
-#~ msgstr ""
-#~ "Á esquerda do reloxo verá os indicadores que proporcionan información do "
-#~ "sistema como a conexión de rede, batería (cando precisa), nivel do "
-#~ "volume, mensaxería instantánea e máis."
-
-#~ msgid "Main Menu"
-#~ msgstr "Menú principal"
-
-#~ msgid "This space is intentionally left blank."
-#~ msgstr "Este espazo está baleiro intencionadamente."
-
-#~ msgid "Thunderbird Mail/News"
-#~ msgstr "Correo e noticias Thunderbird"
+#~ msgid "Stuff."
+#~ msgstr "Cousas."
 
 #~ msgid "Instant messaging"
 #~ msgstr "Mensaxaría instantánea"
 
+#~ msgid "Thunderbird Mail/News"
+#~ msgstr "Correo e noticias Thunderbird"
+
+#~ msgid "Firefox Web Browser"
+#~ msgstr "Navegador web Firefox"
+
 #~ msgid "gmusicbrowser"
 #~ msgstr "gmusicbrowser"
+
+#~ msgid "Pidgin Internet Messenger"
+#~ msgstr "Mensaxería na Internet de Pidgin"
 
 #~ msgid "Gnumeric"
 #~ msgstr "Gnumeric"
@@ -449,6 +449,13 @@ msgstr ""
 
 #~ msgid "Internet <span>»</span>"
 #~ msgstr "Internet <span>»</span>"
+
+#~ msgid ""
+#~ "This exciting piece of software is brought to you free of any fees, for "
+#~ "your use and any others you want to share it with."
+#~ msgstr ""
+#~ "Esta interesante peza de software presentase libre de calquera cargo, "
+#~ "para o seu uso e o de outras persoas con quen desexe compartir."
 
 #~ msgid "Office <span>»</span>"
 #~ msgstr "Oficina <span>»</span>"
