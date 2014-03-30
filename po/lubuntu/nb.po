@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-03-19 14:05+0200\n"
-"PO-Revision-Date: 2013-01-29 19:37+0000\n"
-"Last-Translator: Hans Joachim Desserud <Unknown>\n"
+"POT-Creation-Date: 2014-03-30 16:47-0400\n"
+"PO-Revision-Date: 2014-03-27 07:09+0000\n"
+"Last-Translator: Åka Sikrom <Unknown>\n"
 "Language-Team: Norwegian Bokmal <nb@li.org>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-24 14:33+0000\n"
+"X-Launchpad-Export-Date: 2014-03-30 20:48+0000\n"
 "X-Generator: Launchpad (build 16967)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
 msgid "Welcome to Lubuntu 14.04"
-msgstr ""
+msgstr "Velkommen til Lubuntu 14.04"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/00_welcome.html:8
@@ -29,13 +29,13 @@ msgid ""
 "Lubuntu is designed to be lightweight, easy and fast. Let's have a closer "
 "look!"
 msgstr ""
-"Lubuntu er laget for å være en lettvekter, enkel og rask. La oss ta en "
+"Lubuntu er laget for å være lettdrevent, enkelt og raskt. La oss ta en "
 "nærmere titt!"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/01_lxde.html:1
 msgid "Built on a solid foundation"
-msgstr ""
+msgstr "Bygget på solid grunn"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/01_lxde.html:8
@@ -44,11 +44,14 @@ msgid ""
 "energy-saving desktop environment. LXDE has been proven to work well with "
 "both old and new computers, ensuring you a smooth desktop experience."
 msgstr ""
+"Lubuntu er basert på <em>LXDE</em>, som er et raskt og energisparende "
+"skrivebordsmiljø. LXDE kjører godt på både ny og eldre maskinvare, og gir en "
+"behagelig skrivebordsopplevelse."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/02_browser.html:1
 msgid "Browse the web"
-msgstr "Besøk nettsider"
+msgstr "Surf på nettet"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/02_browser.html:8
@@ -57,6 +60,9 @@ msgid ""
 "browser used by millions around the world. It's safe, stable, fast and "
 "supports customization through add-ons."
 msgstr ""
+"Surf på nettet med den åpne og plattformuavhengige nettleseren <em>Firefox</"
+"em>, som brukes av millionvis av brukere rundt i verden. Den er sikker, "
+"stabil og rask. Du kan tilpasse Firefox ved å legge til utvidelser."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/02_browser.html:12
@@ -64,7 +70,7 @@ msgstr ""
 #: slideshows/lubuntu/slides/04_media.html:18
 #: slideshows/lubuntu/slides/05_social.html:12
 msgid "Included software"
-msgstr "Medfølgende programvare"
+msgstr "Inkludert programvare"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:16
@@ -102,6 +108,10 @@ msgid ""
 "support for industry standard document types and will allow you to "
 "collaborate on documents written by colleagues, friends or family."
 msgstr ""
+"<em>Abiword</em> og <em>Gnumeric</em> er lettdrevne alternativer til "
+"LibreOffice som lar deg lage dokumenter og regneark. Begge støtter vanlige "
+"dokumentformater, og lar deg lese og redigere dokumenter enten de er laget "
+"av kolleger, venner eller familien."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/03_office.html:16
@@ -130,6 +140,9 @@ msgid ""
 "audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
 "video player powered by mplayer with support for many formats."
 msgstr ""
+"Lytt til favorittmusikken din med den enkle men kraftige lydspilleren "
+"<em>Audacious</em>. Videoene dine kan du nyte med <em>Gnome-Mplayer</em>, "
+"som er en rask videospiller med støtte for mange formater."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:14
@@ -137,6 +150,8 @@ msgid ""
 "You can also obtain additional codec support by installing the <em>lubuntu-"
 "restricted-extras</em> package."
 msgstr ""
+"Du kan legge til støtte for enda flere formater ved å installere pakka "
+"<em>lubuntu-restricted-extras</em>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:23
@@ -146,7 +161,7 @@ msgstr "Audacious"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:28
 msgid "Gnome-Mplayer"
-msgstr ""
+msgstr "Gnome-Mplayer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:36
@@ -170,6 +185,8 @@ msgid ""
 "friends. It supports a wide range of chat services, such as AIM, Google Talk "
 "and Facebook."
 msgstr ""
+"Du kan holde kontakt med vennene dine via <em>Pidgin</em>, som støtter "
+"nettprat-tjenester fra AIM, Google Talk, Facebook og flere."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/05_social.html:16
@@ -184,7 +201,7 @@ msgstr "Empathy"
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/06_lsc.html:1
 msgid "Download software with ease"
-msgstr ""
+msgstr "Enkel nedlasting av programvare"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/06_lsc.html:8
@@ -195,6 +212,11 @@ msgid ""
 "and explore categories such as games, science and education, or search for "
 "your favorite software."
 msgstr ""
+"Lubuntu gir deg tilgang til hele Ubuntu-pakkelageret. Tusenvis av programmer "
+"ligger altså gratis tilgjengelig for installasjon på datamaskinen din. Bruk "
+"<em>Lubuntu programvaresenter</em> og utforsk kategorier som spill, "
+"vitenskap og utdanning. Du kan også søke etter favorittprogrammet ditt med "
+"fritekst."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/07_help.html:1
@@ -210,6 +232,11 @@ msgid ""
 "visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
 "the information you need."
 msgstr ""
+"En av Lubuntus største fordeler er det fantastiske nettsamfunnet som "
+"omfavner systemet. Får du problemer, er det en haug av brukere som gjerne "
+"vil hjelpe deg. Det finnes mange måter å be om hjelp på. Den enkleste er å "
+"besøke <a href=\"http://lubuntu.net/\">nettsiden vår</a>, hvor du finner all "
+"nødvendig informasjon."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/08_thanks.html:1
@@ -224,3 +251,8 @@ msgid ""
 "either by giving us feedback or by getting involved in the project, please "
 "visit our <a href=\"http://lubuntu.net/\">website</a>."
 msgstr ""
+"Installasjonen er straks ferdig. Vi håper at du får glede av Lubuntu og "
+"friheten det bringer med seg. Hvis du vil hjelpe til med å gjøre Lubuntu "
+"bedre, enten det er i form av å gi oss tilbakemelding eller å bidra til "
+"prosjektet, bør du besøke <a href=\"http://lubuntu.net/\">nettsiden vår</a> "
+"og finne ut mer."

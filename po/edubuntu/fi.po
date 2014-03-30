@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-03-19 14:05+0200\n"
-"PO-Revision-Date: 2013-03-26 06:49+0000\n"
-"Last-Translator: Timo Jyrinki <timo.jyrinki@canonical.com>\n"
+"POT-Creation-Date: 2014-03-30 16:47-0400\n"
+"PO-Revision-Date: 2014-03-28 16:23+0000\n"
+"Last-Translator: Tino Kraft <tino.kraft@gmail.com>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-24 14:32+0000\n"
+"X-Launchpad-Export-Date: 2014-03-30 20:48+0000\n"
 "X-Generator: Launchpad (build 16967)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
 msgid "Activate Accessibility"
-msgstr ""
+msgstr "Aktivoi esteettömyys"
 
 #.  "your" refers to a large group that includes the reader. 
 #. type: Content of: <div><div><ul><li>
@@ -31,6 +31,9 @@ msgid ""
 "circumstances. So, we provide tools that make Edubuntu one of the most "
 "accessible operating systems around."
 msgstr ""
+"Haluamme tuoda tietokoneet kaikkien saataville huolimatta käyttäjien "
+"fyysisistä olosuhteista. Siksi tuotammekin työkaluja, jotka tekevät Edubuntu-"
+"järjestelmän esteettömyydestä huippuluokkaa."
 
 #.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
 #.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
@@ -63,13 +66,14 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/arkose.html:1
 msgid "Safely Run Software"
-msgstr ""
+msgstr "Suorita ohjelmia turvallisesti"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:6
 msgid ""
 "<em>Arkose</em> allows you to run an application in a contained environment."
 msgstr ""
+"<em>Arkosen</em> avulla voit suorittaa sovelluksen eristettyssä ympäristössä"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:7
@@ -77,6 +81,8 @@ msgid ""
 "You can now test downloaded software in a protected environment easily "
 "before deploying."
 msgstr ""
+"Voit helposti testata lataamiasi ohjelmia suojatussa ympäristössä ennen "
+"niiden käyttöönottoa."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:8
@@ -84,11 +90,13 @@ msgid ""
 "<em>Arkose</em> is based on the popular LXC project, making use of advanced "
 "Linux containers capabilities."
 msgstr ""
+"<em>Arkose</em> pohjautuu suosittuun LXC-projektiin, ja hyödyntää "
+"edistynyttä Linux Containers -teknologiaa."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
 msgid "Calculate Everything"
-msgstr ""
+msgstr "Laske mitä tahansa"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
@@ -104,6 +112,8 @@ msgid ""
 "It supports financial operations and up-to-date currency and unit "
 "conversions."
 msgstr ""
+"Se tukee taloudellisia laskelmia sekä ajantasaisia valuutta- ja "
+"valuuttayksikkömuunnoksia."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:8
@@ -111,17 +121,20 @@ msgid ""
 "Use the programming function for logical computations and advanced mode for "
 "scientific computations."
 msgstr ""
+"Suorita loogisia laskelmia ohjelmointifunktiolla, ja tieteellisiä laskelmia "
+"edistyneellä käyttömuodolla."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calibre.html:1
 msgid "Manage your e-Book Library"
-msgstr ""
+msgstr "Halinnoi e-kirjojen kokoelmaasi"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:6
 msgid ""
 "<em>Calibre</em> is an e-library solution for cataloging electronic books."
 msgstr ""
+"<em>Calibre</em> on e-kirjastoratkaisu sähköisten kirjojen luokittelua varten"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:7
@@ -138,11 +151,13 @@ msgid ""
 "Supports for many different hardware platforms, including the most popular "
 "commercial e-book platforms available."
 msgstr ""
+"Tukee monia erilaisia laitteistoalustoja, jopa suosituimpia kaupallisia e-"
+"kirja-alustoja."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:9
 msgid "Automatically sync feeds and news to your favorite device."
-msgstr ""
+msgstr "Synkronisoi tilaamasi feedit ja uutiset kaikkiin laitteisiisi"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/desktop-software.html:1
@@ -163,6 +178,8 @@ msgid ""
 "<em>Firefox</em> provides a safe and easy web browsing experience with many "
 "useful add-ons available."
 msgstr ""
+"<em>Firefoxin</em> avulla selaat verkkoa turvallisesti ja vaivattomasti. "
+"Selaimelle on myös saatavilla monia hyödyllisiä lisäosia."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:8
@@ -170,18 +187,18 @@ msgid ""
 "<em>Inkscape</em> is a vector drawing program capable of exporting to many "
 "popular formats."
 msgstr ""
+"<em>Inscape</em> on vektorigrafiikkaohjelma, josta voit tallentaa monia "
+"suosittuja tiedostomuotoja."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:9
 msgid "<em>Gimp</em> is a powerful and scriptable image and photo editor."
-msgstr ""
-"<em>Gimp</em> on tehokas ja ohjelmoitava sovellus kuvien ja valokuvien "
-"käsittelemiseen."
+msgstr "<em>Gimp</em> on tehokas ja ohjelmoitava kuva- ja valokuvaeditori."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/documentation.html:1
 msgid "Get Involved"
-msgstr "Tule mukaan"
+msgstr "Osallistu"
 
 #.  The string "Help and Support" should be exactly as it appears in the System menu. 
 #. type: Content of: <div><div><ul><li>
@@ -202,6 +219,10 @@ msgid ""
 "available through Canonical, its partners and approved companies. Learn more "
 "at <a href=\"http://www.edubuntu.org/documentation\">"
 msgstr ""
+"Laajan kirjallisen opaamme lisäksi Edubuntu-yhteisöltä saa ilmaista teknistä "
+"tukea internetin välityksellä. Tämän lisäksi maksullista tukea tarjoavat "
+"Canonical ja sen kumppanit sekä Canonicalin hyväksymät yritykset. Lisää "
+"tietoa löydät osoitteesta <a href=\"http://www.edubuntu.org/documentation\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:7
@@ -215,7 +236,7 @@ msgid ""
 "Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
 "community\">"
 msgstr ""
-"Kerro meille kokemuksesi Edubuntusta osoitteessa <a href=\"http://edubuntu."
+"Kerro meille omat Edubuntu-kokemuksesi osoitteessa <a href=\"http://edubuntu."
 "com/community\">"
 
 #. type: Content of: <div><div><ul><li>
@@ -229,6 +250,8 @@ msgid ""
 "Thanks for viewing our slideshow, if you selected additional options, then "
 "the installation process will take a bit longer to complete."
 msgstr ""
+"Kiitos että katsoit läpi esityksemme. Jos valitsit ylimääräisiä toimintoja, "
+"asennus kestää hieman tavallista pidempään."
 
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/documentation.html:11
@@ -238,7 +261,7 @@ msgstr "Asennus valmistuu pian. Toivomme, että nautit Edubuntun käyttämisest�
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
 msgid "Menu Administration"
-msgstr ""
+msgstr "Valikkojen hallinta"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:6
@@ -246,21 +269,26 @@ msgid ""
 "The <em>Edubuntu Menu Editor</em> allows administrators to create and apply "
 "custom menus."
 msgstr ""
+"<em>Edubuntun valikkoeditorin</em> avulla järjestelmänvalvojat voivat luoda "
+"ja ottaa käyttöön räätälöityjä valikkoja"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:7
 msgid "Menus are created and applied using an easy to use menu editor."
 msgstr ""
+"Valikot luodaan ja otetaan käyttöön helppokäyttöisen valikkoeditorin avulla."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:8
 msgid "Settings can be applied to users or groups system-wide."
 msgstr ""
+"Asetukset voidaan kohdistaa järjestelmänlaajuisesti yksittäisiin käyttäjiin "
+"tai ryhmiin."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/empathy.html:1
 msgid "Connect to your World"
-msgstr ""
+msgstr "Avaa yhteyksiä maailmaan"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:6
@@ -269,6 +297,9 @@ msgid ""
 "broadcast services including Facebook, Twitter, Windows Live and Google Talk "
 "easier than ever."
 msgstr ""
+"<em>Empathyn</em> avulla luot historiallisen helposti yhteyden online-"
+"keskustelu- ja julkaisupalveluihin, kuten Facebook, Twitter, Windows Live ja "
+"Google Talk."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:7
@@ -276,6 +307,9 @@ msgid ""
 "Click the envelope near the clock to log in to your accounts. New messages "
 "appear there too, so you can see what's happening at a glance."
 msgstr ""
+"Kirjaudu sisään tileihisi napsauttamalla kirjekuorikuvaketta kellon lähellä. "
+"Samassa paikassa näet uudet viestit, jotta pysyt yhdellä vilkaisulla ajan "
+"tasalla."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:8
@@ -294,6 +328,8 @@ msgstr ""
 #: slideshows/edubuntu/slides/epoptes.html:6
 msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
 msgstr ""
+"<em>Epotes</em>-ohjelman avulla opettaja voi ottaa hallintaan oppilaidensa "
+"työpöydät."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:7
@@ -304,6 +340,7 @@ msgstr ""
 #: slideshows/edubuntu/slides/epoptes.html:8
 msgid "Monitor user sessions to keep tabs on mischievous users."
 msgstr ""
+"Pidä kirjaa pahantahtoisista käyttäjistä hallinnoimalla käyttäjien istuntoja."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:9
@@ -313,7 +350,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/fonts.html:1
 msgid "Fonts Galore"
-msgstr ""
+msgstr "Fonttien runsaudensarvi"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/fonts.html:6
@@ -321,6 +358,8 @@ msgid ""
 "Edubuntu ships with many of the fonts that are available in the Ubuntu "
 "repositories."
 msgstr ""
+"Edubuntu-asennukseen kuuluvat monet Ubuntun pakettivarastoista löytyvät "
+"fontit."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/fonts.html:7
@@ -328,6 +367,8 @@ msgid ""
 "Choose from a variety of fonts to get you kickstarted with desktop "
 "publishing tasks."
 msgstr ""
+"Valitse haluamasi fontti laajasta valikoimasta työpöytäjulkaisuprojektejasi "
+"varten."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/fonts.html:8
@@ -335,38 +376,42 @@ msgid ""
 "The Andika font family is specifically designed for beginner-level readers "
 "and literacy purposes."
 msgstr ""
+"Andika-fonttikokoelma on suunniteltu erityisesti vasta lukemista "
+"harjoitteleville ja kirjoitustaidon kehittämistä varten."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/freemind.html:1
 msgid "FreeMind mindmapping"
-msgstr ""
+msgstr "FreeMind mindmapit"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:6
 msgid "<em>FreeMind</em> is a powerful mindmapping tool."
-msgstr ""
+msgstr "<em>FreeMind</em> on tehokas mindmap-työkalu."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:7
 msgid "Summarize huge amounts of data efficiently."
-msgstr ""
+msgstr "Luo tehokkaasti tiiviitä esityksiä valtavistakin tietomääristä."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:8
 #: slideshows/edubuntu/slides/vym.html:8
 msgid "Make subsections stand out with cloud bubbles and custom colours."
-msgstr ""
+msgstr "Korosta alikohtia ajatuskuplilla ja itse valitsemillasi väreillä."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:9
 msgid ""
 "Organize your goals, future plans, events and more with this great tool!"
 msgstr ""
+"Järjestele tavoitteesi, suunnitelmasi, tulevat tapahtumasi ja paljon muuta "
+"tällä mahtavalla työkalulla!"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/gbrainy.html:1
 msgid "Exercise Your Mind"
-msgstr ""
+msgstr "Treeniä aivoillesi"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:6
@@ -374,12 +419,14 @@ msgid ""
 "Edubuntu ships with <em>gbrainy</em>, a platform to train memory, "
 "arithmetical and logical capabilities."
 msgstr ""
+"Edubuntu-asennukseen sisältyy myös <em>gbrainy</em> – sovellusalusta, jolla "
+"voit harjoittaa muistiasi sekä matemaattista ja loogista suoriutumiskykyäsi."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:7
 msgid ""
 "Logic Puzzles: designed to challenge your reasoning and thinking skills."
-msgstr ""
+msgstr "Logiikkapelejä, joilla voit haastaa päättely- ja ajattelukykysi."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:8
@@ -387,16 +434,18 @@ msgid ""
 "Mental Calculation: based on arithmetical operations designed to prove your "
 "mental calculation skills."
 msgstr ""
+"Päässälaskuja, joiden pohjalla vaikuttavat laskutaitojesi hiomiseen "
+"suunnitellut aritmeettiset operaatiot."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:9
 msgid "Memory Trainers: designed to challenge your short term memory."
-msgstr ""
+msgstr "Muistipelejä, jotka haastavat lyhytkestoinen muistisi."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/installing-software.html:1
 msgid "Get More Software"
-msgstr ""
+msgstr "Hanki lisää ohjelmia"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:6
@@ -404,6 +453,8 @@ msgid ""
 "Need more software? Try the <em>Ubuntu Software Center</em> to choose from "
 "thousands of extras you can download for free."
 msgstr ""
+"Tarvitsetko uusia ohjelmia? Etsi mieleisesi <em>Ubuntun sovellusvalikoiman</"
+"em> tuhansista ilmaiseksi ladattavista sovelluksista."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:7
@@ -456,13 +507,15 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/librecad.html:1
 msgid "Computer Aided Drawing"
-msgstr ""
+msgstr "Tietokoneavusteinen piirtäminen"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:6
 msgid ""
 "<em>LibreCAD</em> is a an application for 2D Computer Aided Design (CAD)."
 msgstr ""
+"<em>LibreCAD</em>-ohjelma on kehitetty tietokoneavusteista 2D-suunnittelua "
+"(CAD) varten."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:7
@@ -470,11 +523,13 @@ msgid ""
 "Create technical drawings such as building plans, interiors or mechanical "
 "parts."
 msgstr ""
+"Luo teknisiä piirroksia, kuten rakennusten pohjapiirroksia, "
+"sisustussuunnitelmia tai mekaanisia osia."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:8
 msgid "Draw up schemas and diagrams."
-msgstr ""
+msgstr "Laadi pohjapiirroksia ja kaavioita."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/ltsp.html:1
@@ -658,38 +713,40 @@ msgstr "Pinnan alla"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:6
 msgid "Edubuntu is built on the latest and greatest free software available."
-msgstr ""
+msgstr "Edubuntu on rakennettu uusimmista ja parhaista vapaista ohjelmista."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
 msgid "Linux 3.8 provides great hardware support and performance."
-msgstr ""
+msgstr "Linux 3.8 tarjoaa loistavan laitteistotuen ja suorituskyvyn."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
 msgid "Python 3.3 provides a powerful scripting and programming language."
-msgstr ""
+msgstr "Python 3.3: tehokas skripti- ja ohjelmointikieli."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/vym.html:1
 msgid "Organise Your Thoughts"
-msgstr ""
+msgstr "Järjestä ajatuksesi"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/vym.html:6
 msgid ""
 "<em>Vym</em> is a powerful mindmapping tool that is included in Edubuntu."
 msgstr ""
+"<em>Vym</em> on tehokas mindmap-työkalu, joka sisältyy Edubuntu-jakeluun."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/vym.html:7
 msgid "Summarize and organise plenty of information."
-msgstr ""
+msgstr "Järjestä ja esitä tiiviisti suuriakin tietomääriä."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/vym.html:9
 msgid "Organize your goals, future plans, events and more."
 msgstr ""
+"Järjestä tavoitteesi, suunnitelmasi, tulevat tapahtumasi ja paljon muuta."
 
 #. type: Content of: <h1>
 #: slideshows/edubuntu/slides/welcome.html:1
@@ -711,6 +768,8 @@ msgid ""
 "While the installer is copying some files to disk, we'll show you some "
 "slides to introduce you to the Edubuntu Desktop system."
 msgstr ""
+"Sillä aikaa kun asennusohjelma kopioi joitakin tiedostoja levylle, näytämme "
+"sinulle esityksen, joka perehdyttää sinut Edubuntu-työpöytäjärjestelmään."
 
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:15
