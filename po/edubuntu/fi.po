@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-03-30 16:47-0400\n"
-"PO-Revision-Date: 2014-03-28 16:23+0000\n"
-"Last-Translator: Tino Kraft <tino.kraft@gmail.com>\n"
+"POT-Creation-Date: 2014-04-02 11:07-0400\n"
+"PO-Revision-Date: 2014-04-03 06:48+0000\n"
+"Last-Translator: Timo Jyrinki <timo.jyrinki@canonical.com>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-30 20:48+0000\n"
-"X-Generator: Launchpad (build 16967)\n"
+"X-Launchpad-Export-Date: 2014-04-08 14:28+0000\n"
+"X-Generator: Launchpad (build 16976)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -322,7 +322,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/epoptes.html:1
 msgid "Control your Classroom"
-msgstr ""
+msgstr "Hallitse luokkahuonettasi"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
@@ -335,6 +335,7 @@ msgstr ""
 #: slideshows/edubuntu/slides/epoptes.html:7
 msgid "Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
+"Esittele uusia aihealueita lähettämällä työpöytäsessio kaikille käyttäjille."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:8
@@ -346,6 +347,8 @@ msgstr ""
 #: slideshows/edubuntu/slides/epoptes.html:9
 msgid "Epoptes dynamically detects clients and integrates well with LTSP."
 msgstr ""
+"Epoptes havaitsee asiakaskoneita dynaamisesti, ja integroituu sujuvasti LTSP:"
+"n kanssa."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/fonts.html:1
@@ -463,6 +466,9 @@ msgid ""
 "to creating music and exploring the universe. Take a look at the "
 "<em>Featured Applications</em> section for some of our favorites!"
 msgstr ""
+"Edubuntu-asennukseen sisältyy tehokkaita sovelluksia kaikkiin tarkoituksiin "
+"ohjelmoinnista musiikintuotantoon ja maailmankaikkeuden havainnointiin. "
+"<em>Tähtisovellukset</em>-osiosta löydät suosituimmat sovellukset."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:8
@@ -477,7 +483,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
 msgid "Play and Learn"
-msgstr ""
+msgstr "Opi leikkimällä"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:6
@@ -485,17 +491,21 @@ msgid ""
 "<em>The KDE Education suite</em> includes edutainment software for kids aged "
 "3 to 18."
 msgstr ""
+"<em>KDE Education Suite</em> sisältää edutainment-sovelluksia 3–18-"
+"vuotiaille lapsille."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:7
 msgid "Improve language skills with letters, anagram and hangman games."
-msgstr ""
+msgstr "Kehitä kielitaitoasi kirjainten, anagrammien ja ristipuupelien avulla."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:8
 msgid ""
 "Improve mathematical skills with fraction, geometry and algebra software."
 msgstr ""
+"Kehitä matemaattisia taitojasi murtoluku-, geometria- ja algebrasovellusten "
+"avulla."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:9
@@ -503,6 +513,8 @@ msgid ""
 "Also included are geography games, turtle programming, a typing tutor, "
 "memory exercises and more!"
 msgstr ""
+"Mukana on myös maantietopelejä, \"konnaohjelmoinnin\" mahdollisuus, "
+"muistiharjoitteita ja paljon muuta!"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/librecad.html:1
@@ -534,12 +546,13 @@ msgstr "Laadi pohjapiirroksia ja kaavioita."
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/ltsp.html:1
 msgid "Easy Diskless Setup"
-msgstr ""
+msgstr "Helppo asentaa ilman levykkeitä"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:6
 msgid "Edubuntu ships with <em>LTSP</em>, the Linux Terminal Server Project."
 msgstr ""
+"Edubuntun mukana toimitetaan <em>LTSP</em>, Linux Terminal Server Project"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:7
@@ -547,41 +560,44 @@ msgid ""
 "You can try out a demo from this live environment by clicking on the LTSP "
 "Live icon in the launcher."
 msgstr ""
+"Voit kokeilla projektin demoa tässä live-ympäristössä klikkaamalla LTSP Live "
+"-kuvaketta sovelluspalkissa."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:8
 msgid "Rapidly deploy many diskless machines with low maintenance."
-msgstr ""
+msgstr "Ota levyttömiä tietokoneita nopeasti käyttöön ilman suurta ylläpitoa."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/pencil.html:1
 msgid "Draw with Pencil"
-msgstr ""
+msgstr "Piirrä Pencilin avulla"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pencil.html:6
 msgid "Edubuntu ships with <em>Pencil</em>, a multi-purpose drawing tool."
 msgstr ""
+"Edubuntun mukana toimitetaan <em>Pencil</em>, monikäyttöinen piirto-ohjelma"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pencil.html:7
 msgid "Create traditional hand-drawn animations or cartoons."
-msgstr ""
+msgstr "Voit luoda käsinpiirrettyjä animaatioita tai sarjakuvia."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pencil.html:8
 msgid "Mix up bitmap and vector graphics."
-msgstr ""
+msgstr "Sekoita bittikarttoja sekä vektorigrafiikka"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pencil.html:9
 msgid "Start a comic-strip or draw a self-portrait!"
-msgstr ""
+msgstr "Aloita sarjakuvastrippi tai piirrä omakuva!"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/testdrive.html:1
 msgid "Testdrive Software"
-msgstr ""
+msgstr "Testaa ohjelmia"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testdrive.html:6
@@ -589,6 +605,8 @@ msgid ""
 "<em>Testdrive</em> allows you to try out software over the web before "
 "installation."
 msgstr ""
+"<em>Testdrive</em-palvelun avulla voit kokeilla sovelluksia verkon kautta "
+"ennen kuin asennat niitä koneellesi."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testdrive.html:7
@@ -596,6 +614,8 @@ msgid ""
 "Try an application out before deciding whether it's the right tool for the "
 "job."
 msgstr ""
+"Testaa sovellusta verkon välityksellä, ennen kuin päätät soveltuuko se "
+"haluamaasi tarkoitukseen."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testdrive.html:8
@@ -603,17 +623,21 @@ msgid ""
 "Demo applications to users on their machines without making any permanent "
 "local changes."
 msgstr ""
+"Voit esitellä sovelluksia käyttäjien koneilla tekemättä paikallisia "
+"muutoksia."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testdrive.html:9
 msgid ""
 "Find it in Software Center, which can be found under the Applications menu."
 msgstr ""
+"Löydät palvelun Sovellusvalikoimasta, joka puolestaan on listattu "
+"Sovellukset-valikossa."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/tomboy.html:1
 msgid "Take Notes"
-msgstr ""
+msgstr "Kirjoita muistiinpanoja"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tomboy.html:6
@@ -621,31 +645,35 @@ msgid ""
 "Edubuntu ships with <em>Tomboy</em>, a desktop wiki and note taking "
 "application."
 msgstr ""
+"Edubuntu-asennukseen kuuluu <em>Tomboy</em>, wiki-tyyppinen "
+"muistiinpanosovellus työpöytäympäristöön."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tomboy.html:7
 msgid "Take notes during lectures and meetings."
-msgstr ""
+msgstr "Kirjoita asioita muistiin luentojen ja tapaamisten aikana."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tomboy.html:8
 msgid "Create links between notes."
-msgstr ""
+msgstr "Luo linkkejä muistilappujen välille."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tomboy.html:9
 msgid "Create notebooks for easy access to specific notes."
 msgstr ""
+"Kokoa muistikirjoja, joiden avulla pääset helposti käsiksi yksittäisiin "
+"muistilappuihin."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/tux4kids.html:1
 msgid "Basic Skills Development"
-msgstr ""
+msgstr "Kehityksen perustaidot"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:6
 msgid "Edubuntu ships with the popular <em>Tux4kids suite</em>."
-msgstr ""
+msgstr "Edubuntun mukana tulee suosittu <em>Tux4kids-sovelluskokoelma</em>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:7
@@ -653,6 +681,8 @@ msgid ""
 "Defend your cities in <em>Tux of Math Command</em>, an arcade game that "
 "improves arithmetic skills."
 msgstr ""
+"Puolusta kaupunkeja <em>Tux of Math Command</em>-arcade-pelissä,  joka "
+"kehittää aritmeettisia taitoja."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:8
@@ -660,50 +690,15 @@ msgid ""
 "Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
 "em>."
 msgstr ""
+"Opettele tietokoneenkäytön perustaitoja ja anna luovuutesi lentää "
+"<em>TuxPaint</em>-sovelluksessa."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:9
 msgid ""
 "Learn where all the buttons on your keyboard are using <em>TuxType</em>."
 msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/edubuntu/slides/ubuntuone.html:1
-msgid "Keep your digital life in sync"
-msgstr "Pidä digitaalinen elämäsi synkronoituna"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/ubuntuone.html:6
-msgid ""
-"Shuffle between your laptop, netbook, and company desktop and find "
-"everything you need automatically synchronized. Your documents, music, "
-"bookmarks, address book, and notes – everything goes where you go with "
-"<em>Ubuntu One</em>."
-msgstr ""
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/ubuntuone.html:7
-msgid ""
-"Want a safe home for your important files? All Edubuntu users get 2 GB of "
-"personal cloud storage for free (and more if you need it)."
-msgstr ""
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/ubuntuone.html:8
-msgid ""
-"Share folders using your synchronized address book. Project collaboration "
-"has never been easier."
-msgstr ""
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/edubuntu/slides/ubuntuone.html:9
-msgid ""
-"Sign-up by launching the <em>Ubuntu One Preferences</em> application or "
-"going to <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
-msgstr ""
-"Ota käyttöösi käynnistämällä <em>Ubuntu Onen asetukset</em> -sovellus tai "
-"menemällä osoitteeseen <a href=\"http://one.ubuntu.com/\">http://one.ubuntu."
-"com/</a>."
+"<em>TuxType</em>-sovelluksen avulla opit näppäinten paikan näppäimistöllä."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/underthehood.html:1
@@ -761,6 +756,11 @@ msgid ""
 "suitable for delivering education. We are coders, educators, parents and "
 "technologists who aim to make technology easier for all."
 msgstr ""
+"Kiitos että asensit Edubuntu 14.04:n. Edubuntu on yhteisövetoinen projekti, "
+"jonka tarkoituksena on tuottaa koko opetusjärjestelmää palveleva "
+"teknologinen alusta opetusta varten. Edubuntun luojat ovat koodareita, "
+"vanhempia ja teknologiaosaajia, jotka haluavat tuoda teknologian lähemmäs "
+"kaikkia ihmisiä."
 
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:10
@@ -774,4 +774,42 @@ msgstr ""
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:15
 msgid "<b>Enjoy using Edubuntu and welcome to the Edubuntu family!</b>"
-msgstr ""
+msgstr "Nauti Edubuntun käytöstä, ja tervetuloa Edubuntu-perheeseen!"
+
+#~ msgid "Keep your digital life in sync"
+#~ msgstr "Pidä digitaalinen elämäsi synkronoituna"
+
+#~ msgid ""
+#~ "Shuffle between your laptop, netbook, and company desktop and find "
+#~ "everything you need automatically synchronized. Your documents, music, "
+#~ "bookmarks, address book, and notes – everything goes where you go with "
+#~ "<em>Ubuntu One</em>."
+#~ msgstr ""
+#~ "Voit vaihdella sujuvasti kannettavasi, minikannettavasti ja työpaikan "
+#~ "pöytäkoneesi välillä, ja pitää kaiken tarvittavan automattisesti "
+#~ "synkronoituna. Asiakirjat, musiikki, kirjanmerkit, osoitekirjat ja "
+#~ "muistiinpanot – kaikki kulkee mukanasi <em>Ubuntu One</em>-palvelun "
+#~ "välityksellä."
+
+#~ msgid ""
+#~ "Want a safe home for your important files? All Edubuntu users get 2 GB of "
+#~ "personal cloud storage for free (and more if you need it)."
+#~ msgstr ""
+#~ "Tarvitsetko turvallisen kodin tärkeille tiedostoillesi? Kaikki Edubuntun "
+#~ "käyttäjät saavat 2 GB omaa pilvipalvelintilaa ilmaiseksi (ja lisää on "
+#~ "saatavilla tarvittaessa)."
+
+#~ msgid ""
+#~ "Share folders using your synchronized address book. Project collaboration "
+#~ "has never been easier."
+#~ msgstr ""
+#~ "Jaa kansioita synkronoidun osoitekirjan avulla – projektiyhteistyö ei "
+#~ "voisi olla tämän helpompaa."
+
+#~ msgid ""
+#~ "Sign-up by launching the <em>Ubuntu One Preferences</em> application or "
+#~ "going to <a href=\"http://one.ubuntu.com/\">http://one.ubuntu.com/</a>."
+#~ msgstr ""
+#~ "Ota käyttöösi käynnistämällä <em>Ubuntu Onen asetukset</em> -sovellus tai "
+#~ "menemällä osoitteeseen <a href=\"http://one.ubuntu.com/\">http://one."
+#~ "ubuntu.com/</a>."
