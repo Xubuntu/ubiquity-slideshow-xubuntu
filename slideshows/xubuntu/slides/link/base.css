@@ -83,6 +83,10 @@ html, body {
 	font-family: "Droid Sans", sans-serif;
 }
 
+body {
+	background: #0b3a6b url(wall.png) 0 0 no-repeat;
+}
+
 #wrapper {
 	position: absolute;
 
@@ -91,7 +95,6 @@ html, body {
 }
 
 #slideshow {
-	background: #0b3a6b url(wall.png) 0 0 no-repeat;
 	color: #fff;
 
 	width: 750px;
@@ -347,10 +350,24 @@ h2 {
 	background: transparent url(triangledown.png) 100% 0 no-repeat;
 }
 
-/*  Thanks  */
+/* 14.10 */
 
-.tahr {
-	height: 330px;
-	background: transparent url(../images/art_tahr.png) 100% 100% no-repeat;
-	border-bottom: 1px solid red;
+#slideshow {
+	background-color: rgba( 255, 100, 255, 0.5 );
+}
+
+#slideshow div.unicorn {
+	background: transparent url(../images/art_unicorn.png) 100% 100% no-repeat;
+}
+
+.app b {
+	color: rgba( 255, 255, 255, 0.8 );
+}
+
+#panelhighlight.visible {
+	border-bottom: 2px solid rgba( 255, 255, 255, 0.9 );
+}
+
+::selection {
+	background-color: #efa7da;
 }
