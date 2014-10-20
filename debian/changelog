@@ -1,11 +1,11 @@
-ubiquity-slideshow-ubuntu (89) UNRELEASED; urgency=medium
+ubiquity-slideshow-ubuntu (89) utopic; urgency=medium
 
   * Revert string changes from Ubuntu GNOME updates in previous upload; the
     associated bug claims "translations are unaffected", and several of the
     changes contain textual errors and look as though they were committed
     accidentally.  The screenshot changes remain.
 
- -- Colin Watson <cjwatson@ubuntu.com>  Mon, 20 Oct 2014 14:25:20 -0400
+ -- Colin Watson <cjwatson@ubuntu.com>  Mon, 20 Oct 2014 14:27:55 -0400
 
 ubiquity-slideshow-ubuntu (88) utopic; urgency=medium
 
