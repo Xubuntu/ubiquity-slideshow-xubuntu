@@ -8,20 +8,20 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-04-02 11:07-0400\n"
-"PO-Revision-Date: 2014-02-28 20:26+0000\n"
-"Last-Translator: Jānis-Marks Gailis <jeanmarc.gailis@gmail.com>\n"
+"PO-Revision-Date: 2014-04-20 18:43+0000\n"
+"Last-Translator: Rūdolfs Mazurs <Unknown>\n"
 "Language-Team: Latvian <lv@li.org>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-04-08 14:28+0000\n"
-"X-Generator: Launchpad (build 16976)\n"
+"X-Launchpad-Export-Date: 2014-10-20 16:01+0000\n"
+"X-Generator: Launchpad (build 17196)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
 msgid "Welcome to Lubuntu 14.04"
-msgstr "Sveicināti iekš Lubuntu 14.04"
+msgstr "Laipni lūdzam Lubuntu 14.04"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/00_welcome.html:8
@@ -29,12 +29,12 @@ msgid ""
 "Lubuntu is designed to be lightweight, easy and fast. Let's have a closer "
 "look!"
 msgstr ""
-"Lubuntu ir domāts lai būt viegls, vienkāršs un ātrs. Paskatāmies tuvāk!"
+"Lubuntu ir veidots, lai būt viegls, vienkāršs un ātrs. Paskatāmies tuvāk!"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/01_lxde.html:1
 msgid "Built on a solid foundation"
-msgstr "Būvēts uz drošu pamatu"
+msgstr "Būvēts uz stabiliem pamatiem"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/01_lxde.html:8
@@ -43,6 +43,9 @@ msgid ""
 "energy-saving desktop environment. LXDE has been proven to work well with "
 "both old and new computers, ensuring you a smooth desktop experience."
 msgstr ""
+"Lubuntu ir balstīts uz <em>LXDE darbvirsmas vides</em>, kas ir ātras un "
+"enerģiju taupošas darbvirsmas vide. LXDE ir sevi pierādījis darbā gan ar "
+"veciem, gan jauniem datoriem un nodrošina ātru darbvirsmas pieredzi."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/02_browser.html:1
@@ -56,6 +59,9 @@ msgid ""
 "browser used by millions around the world. It's safe, stable, fast and "
 "supports customization through add-ons."
 msgstr ""
+"Pārlūkojiet tīmekli, izmantojot <em>Firefox</em> — atvērta pirmkoda "
+"starplatformu tīmekļa pārlūks, ko pasaulē izmanto miljoniem cilvēku. Tas ir "
+"drošs, stabils, ātrs un atbalsta pielāgošanu ar papildinājumu palīdzību."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/02_browser.html:12
@@ -101,6 +107,10 @@ msgid ""
 "support for industry standard document types and will allow you to "
 "collaborate on documents written by colleagues, friends or family."
 msgstr ""
+"Izmantojiet <em>Abiword</em> un <em>Gnumeric</em> — vieglas LibreOffice "
+"alternatīvas —, lai veidotu dokumentus un izklājlapas. Abas lietotnes sniedz "
+"atbalstu industrijas standarta dokumentu tipiem un ļauj jums sadarboties ar "
+"dokumentiem, ko ir rakstījuši kolēģi, draugi un ģimene."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/03_office.html:16
@@ -120,7 +130,7 @@ msgstr "LibreOffice"
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/04_media.html:1
 msgid "Enjoy your music and videos"
-msgstr "Izbaudiet savas mūzikas un video"
+msgstr "Izbaudiet savu mūziku un video"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:10
@@ -129,9 +139,10 @@ msgid ""
 "audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
 "video player powered by mplayer with support for many formats."
 msgstr ""
-"Klausieties savu iecienīto mūziku ar <em>Audacious</em>, vienkāršs bet "
-"spēcīgs audio lasītājs. Un izbaudiet visu savus video ar <em>Gnome-Mplayer</"
-"em>, ātrs video lasītājs kuru darbina mplayer ar plašu formātu atbalstu."
+"Klausieties savu iecienīto mūziku ar <em>Audacious</em>, vienkāršs, bet "
+"spēcīgs audio atskaņotājs. Un izbaudiet visus savus video ar <em>Gnome-"
+"Mplayer</em> — ātrs video atskaņotājs, kuru darbina mplayer ar plašu formātu "
+"atbalstu."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:14
@@ -139,6 +150,8 @@ msgid ""
 "You can also obtain additional codec support by installing the <em>lubuntu-"
 "restricted-extras</em> package."
 msgstr ""
+"Jūs varat arī iegūt papildu kodeku atbalstu, instalējot pakotni <em>lubuntu-"
+"restricted-extras</em>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:23
@@ -163,7 +176,7 @@ msgstr "VLC mediju lasītājs"
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/05_social.html:1
 msgid "Chat with your friends"
-msgstr ""
+msgstr "Tērzējiet ar saviem draugiem"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/05_social.html:8
@@ -172,6 +185,9 @@ msgid ""
 "friends. It supports a wide range of chat services, such as AIM, Google Talk "
 "and Facebook."
 msgstr ""
+"Ar <em>Pidgin</em> jūs varat sazināties ar visiem saviem draugiem. Tas "
+"atbalsta plašu tērzēšanas servisu klāstu, piemēram, AIM, Google Talk un "
+"Facebook."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/05_social.html:16
@@ -186,7 +202,7 @@ msgstr "Empathy"
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/06_lsc.html:1
 msgid "Download software with ease"
-msgstr ""
+msgstr "Viegli lejupielādējiet programmatūru"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/06_lsc.html:8
@@ -197,6 +213,11 @@ msgid ""
 "and explore categories such as games, science and education, or search for "
 "your favorite software."
 msgstr ""
+"Ar Lubuntu jūms ir pieeja visām Ubuntu krātuvēm un programmām, kas tajās "
+"atrodas. Tas nozīmē, ka jums ir pieeja tūkstošiem jaunu lietotņu, kas ir bez "
+"maksas. Izmantojiet <em>Lubuntu programmatūras centru</em> un izpētiet "
+"kategorijas, piemēram, spēles, zinātne un izglītība, vai arī meklējiet savu "
+"iecienīto programmatūru."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/07_help.html:1
@@ -212,11 +233,15 @@ msgid ""
 "visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
 "the information you need."
 msgstr ""
+"Vien no lielākajām Lubuntu priekšrocībām ir tā lieliskā kopiena. Citi "
+"lietotāji jums labprāt palīdzēs atrisināt problēmas. Ir vairāki veidi, kā "
+"saņemt palīdzību, vieglākais ir apmeklēt mūsu <a href=\"http://lubuntu.net/"
+"\">tīmekļa vietni</a>, kurā esam apkopojuši visu jums vajadzīgo informāciju."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/08_thanks.html:1
 msgid "Thank you for choosing Lubuntu"
-msgstr "Paldies ka izēvelējāties Lubuntu"
+msgstr "Paldies, ka izvēlējāties Lubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/08_thanks.html:8
@@ -226,3 +251,7 @@ msgid ""
 "either by giving us feedback or by getting involved in the project, please "
 "visit our <a href=\"http://lubuntu.net/\">website</a>."
 msgstr ""
+"Instalēšana drīz tiks pabeigta. Mēs ceram, ka jūs izbaudīsiet Lubuntu un "
+"visu brīvību, kas ar to nāk līdzi. Ja vēlaties palīdzēt mums uzlabot "
+"Lubuntu, vai nu sniedziet mums atsauksmes, vai arī iesaistieties projektā. "
+"Apmeklējiet mūsu <a href=\"http://lubuntu.net/\">tīmekļa vietni</a>."
