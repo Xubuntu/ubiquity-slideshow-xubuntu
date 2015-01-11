@@ -1,9 +1,10 @@
-ubiquity-slideshow-ubuntu (92) UNRELEASED; urgency=medium
+ubiquity-slideshow-ubuntu (92) vivid; urgency=medium
 
   * New (faster) build system for the slideshow.
-  * Update copy to say Ubuntu 15.04 where necessary.
+  * Update copy to say version 15.04 where necessary.
+  * Don't include version number in the Ubuntu slideshow flavour.
 
- -- Dylan McCall <dylanmccall@ubuntu.com>  Sun, 11 Jan 2015 14:40:26 -0800
+ -- Dylan McCall <dylanmccall@ubuntu.com>  Sun, 11 Jan 2015 14:59:56 -0800
 
 ubiquity-slideshow-ubuntu (91) utopic; urgency=medium
 
