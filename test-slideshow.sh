@@ -23,5 +23,5 @@ if [ -z "$slideshow" ]
 		[ "$slideshow" = "" ] | [ "$slideshow" = "(null)" ] && exit
 fi
 
-make build.test.$slideshow | tee | zenity --progress --pulsate --title="$TITLE" --text="Building temporary slideshow for testing.\n<i>(make build_$slideshow)</i>" --auto-close
+make build.base.$slideshow | tee | zenity --progress --pulsate --title="$TITLE" --text="Building temporary slideshow for testing.\n<i>(make build_$slideshow)</i>" --auto-close
 ./Slideshow.py --path="$BUILD/$slideshow" --controls
