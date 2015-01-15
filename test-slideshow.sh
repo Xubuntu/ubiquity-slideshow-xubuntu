@@ -29,7 +29,6 @@ if [ -n "$language" ]
 		make test.$slideshow.$language
 	else
 		make clean
-		make build.base.$slideshow | tee | zenity --progress --pulsate --title="$TITLE" --text="Building temporary slideshow for testing.\n<i>(make build_$slideshow)</i>" --auto-close
-		./Slideshow.py --path="$BUILD/$slideshow" --controls
+		make test.$slideshow
 fi
 
