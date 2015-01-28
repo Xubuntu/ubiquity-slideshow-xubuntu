@@ -119,16 +119,10 @@ body {
 	height: 60px;
 
 	vertical-align: middle;
-
-	background-color: rgba( 0, 0, 0, 0.5 );
 }
 
 .main {
 	font-size: 90%;
-
-	background-image: url(shadow.png);
-	background-position: 0 0;
-	background-repeat: repeat-x;
 
 	padding: 30px 0 0 0;
 
@@ -352,13 +346,6 @@ h2 {
 
 /* 14.10 */
 
-#slideshow {
-	background-color: rgba( 255, 100, 255, 0.5 );
-}
-
-#slideshow div.unicorn {
-	background: transparent url(../images/art_unicorn.png) 100% 100% no-repeat;
-}
 
 .app b {
 	color: rgba( 255, 255, 255, 0.8 );
@@ -368,6 +355,25 @@ h2 {
 	border-bottom: 2px solid rgba( 255, 255, 255, 0.9 );
 }
 
-::selection {
-	background-color: #efa7da;
+/* 15.04+ */
+
+span.expand {
+	border-bottom: 1px #fff dashed;
+}
+
+.permanent-marker {
+	font-family: "Permanenta Marker", "Droid Sans";
+}
+
+.paths {
+	position: fixed;
+	bottom: 0.5em;
+	left: 1em;
+}
+.paths p {
+	display: none;
+
+	position: absolute;
+	bottom: 0;
+	left: 0;
 }

@@ -14,6 +14,18 @@ Signals.watch('slideshow-loaded', function() {
 		function( ) { panelhighlight_hide( ); }
 	);
 
+	/* Show paths on hover */
+	$( 'span.expand' ).live( 'mouseover', function( e ) {
+		var path_id = '#path-' + $( this ).attr( 'id' );
+		$( path_id ).fadeIn( );
+	} );
+
+	$( 'span.expand' ).live( 'mouseleave', function( e ) {
+		var path_id = '#path-' + $( this ).attr( 'id' );
+		$( path_id ).fadeOut( );
+	} );
+
+
 } );
 
 function panelhighlight_show( left, width ) {
