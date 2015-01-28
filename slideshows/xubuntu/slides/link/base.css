@@ -362,7 +362,7 @@ span.expand {
 }
 
 .permanent-marker {
-	font-family: "Permanenta Marker", "Droid Sans";
+	font-family: "Permanent Marker", "Droid Sans";
 }
 
 .paths {
@@ -376,4 +376,14 @@ span.expand {
 	position: absolute;
 	bottom: 0;
 	left: 0;
+}
+
+
+#wallpapers {
+	background: transparent url(../images/wall1.jpg) 50% 50% no-repeat;
+	transition: all 2000ms;
+}
+
+#wallpapers.wall-1 {
+	background: transparent url(../images/wall2.jpg) 50% 50% no-repeat;
 }

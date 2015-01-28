@@ -25,8 +25,30 @@ Signals.watch('slideshow-loaded', function() {
 		$( path_id ).fadeOut( );
 	} );
 
-
 } );
+
+
+Signals.watch('slide-opened', function( current ) {
+	if( $( current ).attr( 'id' ) == 'wp' ) {
+		setInterval( function( ) { changeWall( ); }, 5000 );
+	}
+} );
+
+var wall_i = 0;
+
+function changeWall( ) {
+	var walls = [ '../images/wall1.jpg', '../images/wall2.jpg' ];
+	wall_i = wall_i + 1;
+
+	if( wall_i > walls.length ) {
+		wall_i = 0;
+	}
+
+	var wall_class = 'wall-' + wall_i;
+
+	$( '#wallpapers' ).removeClass(  );
+	$( '#wallpapers' ).addClass( wall_class );
+}
 
 function panelhighlight_show( left, width ) {
 	$( '#panelhighlight' ).css( 'margin-left', left + 'px' );
