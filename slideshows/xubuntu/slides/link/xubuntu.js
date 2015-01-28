@@ -25,9 +25,33 @@ Signals.watch('slideshow-loaded', function() {
 		$( path_id ).fadeOut( );
 	} );
 
+	/* App search */
+	$( 'input#search' ).keyup( function( e ) {
+		var search_term = $( 'input#search' ).val( );
+
+		$( '#results li' ).each( function( e ) {
+			var item = $( this ).text( );
+			if( item.indexOf( search_term ) > -1 ) {
+				$( this ).show( );
+			} else {
+				$( this ).hide( );
+			}
+		} );
+	} );
+
 } );
 
+function panelhighlight_show( left, width ) {
+	$( '#panelhighlight' ).css( 'margin-left', left + 'px' );
+	$( '#panelhighlight' ).width( width + 'px' );
+	$( '#panelhighlight' ).addClass( 'visible' );
+}
 
+function panelhighlight_hide( ) {
+	$( '#panelhighlight' ).removeClass( 'visible' );
+}
+
+/* Wallpaper changing slide... */
 Signals.watch('slide-opened', function( current ) {
 	if( $( current ).attr( 'id' ) == 'wp' ) {
 		setInterval( function( ) { changeWall( ); }, 5000 );
@@ -50,12 +74,3 @@ function changeWall( ) {
 	$( '#wallpapers' ).addClass( wall_class );
 }
 
-function panelhighlight_show( left, width ) {
-	$( '#panelhighlight' ).css( 'margin-left', left + 'px' );
-	$( '#panelhighlight' ).width( width + 'px' );
-	$( '#panelhighlight' ).addClass( 'visible' );
-}
-
-function panelhighlight_hide( ) {
-	$( '#panelhighlight' ).removeClass( 'visible' );
-}
