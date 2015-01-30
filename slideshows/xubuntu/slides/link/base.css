@@ -388,6 +388,57 @@ span.expand {
 	background: transparent url(../images/wall2.jpg) 50% 50% no-repeat;
 }
 
+/* PoC: Searchable menu */
+
+#whiskermenu {
+	position: relative;
+
+	float: right;
+	width: 400px;
+	height: 291px;
+
+	background: transparent url(../images/shot_whiskermenu.png) 0 0 no-repeat;
+}
+
+#search {
+	position: absolute;
+	top: 7px;
+	left: 7px;
+
+	width: 384px;
+	height: 17px;
+
+	border: none;
+	background-color: transparent;
+}
+
+#results {
+	position: absolute;
+	top: 36px;
+	left: 5px;
+
+	background-color: #fff;
+	height: 210px;
+	width: 265px;
+}
+
 #results li {
 	display: none;
+	color: #000;
+
+	height: 18px;
+	padding: 4px 3px 4px 29px;
+
+	font-size: 90%;
+
+	background: transparent url(../images/icons24/xubuntu.png) 2px 2px no-repeat;
 }
+	#results li a {
+		color: #000;
+	}
+
+	#results li.abiword { background-image: url(../images/icons24/abiword.png); }
+	#results li.firefox { background-image: url(../images/icons24/firefox.png); }
+	#results li.gnumeric { background-image: url(../images/icons24/gnumeric.png); }
+	#results li.pidgin { background-image: url(../images/icons24/pidgin.png); }
+	#results li.thunderbird { background-image: url(../images/icons24/thunderbird.png); }

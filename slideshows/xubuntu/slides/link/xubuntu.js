@@ -30,7 +30,7 @@ Signals.watch('slideshow-loaded', function() {
 		var search_term = $( 'input#search' ).val( );
 
 		$( '#results li' ).each( function( e ) {
-			var item = $( this ).text( );
+			var item = $( this ).text( ).toLowerCase( );
 			if( item.indexOf( search_term ) > -1 ) {
 				$( this ).show( );
 			} else {
