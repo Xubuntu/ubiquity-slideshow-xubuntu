@@ -119,10 +119,16 @@ body {
 	height: 60px;
 
 	vertical-align: middle;
+
+	background-color: rgba( 0, 0, 0, 0.5 );
 }
 
 .main {
 	font-size: 90%;
+
+	background-image: url(shadow.png);
+	background-position: 0 0;
+	background-repeat: repeat-x;
 
 	padding: 30px 0 0 0;
 
@@ -346,6 +352,13 @@ h2 {
 
 /* 14.10 */
 
+#slideshow {
+	background-color: rgba( 255, 100, 255, 0.5 );
+}
+
+#slideshow div.unicorn {
+	background: transparent url(../images/art_unicorn.png) 100% 100% no-repeat;
+}
 
 .app b {
 	color: rgba( 255, 255, 255, 0.8 );
@@ -355,90 +368,6 @@ h2 {
 	border-bottom: 2px solid rgba( 255, 255, 255, 0.9 );
 }
 
-/* 15.04+ */
-
-span.expand {
-	border-bottom: 1px #fff dashed;
+::selection {
+	background-color: #efa7da;
 }
-
-.permanent-marker {
-	font-family: "Permanent Marker", "Droid Sans";
-}
-
-.paths {
-	position: fixed;
-	bottom: 0.5em;
-	left: 1em;
-}
-.paths p {
-	display: none;
-
-	position: absolute;
-	bottom: 0;
-	left: 0;
-}
-
-
-#wallpapers {
-	background: transparent url(../images/wall1.jpg) 50% 50% no-repeat;
-	transition: all 2000ms;
-}
-
-#wallpapers.wall-1 {
-	background: transparent url(../images/wall2.jpg) 50% 50% no-repeat;
-}
-
-/* PoC: Searchable menu */
-
-#whiskermenu {
-	position: relative;
-
-	float: right;
-	width: 400px;
-	height: 291px;
-
-	background: transparent url(../images/shot_whiskermenu.png) 0 0 no-repeat;
-}
-
-#search {
-	position: absolute;
-	top: 7px;
-	left: 7px;
-
-	width: 384px;
-	height: 17px;
-
-	border: none;
-	background-color: transparent;
-}
-
-#results {
-	position: absolute;
-	top: 36px;
-	left: 5px;
-
-	background-color: #fff;
-	height: 210px;
-	width: 265px;
-}
-
-#results li {
-	display: none;
-	color: #000;
-
-	height: 18px;
-	padding: 4px 3px 4px 29px;
-
-	font-size: 90%;
-
-	background: transparent url(../images/icons24/xubuntu.png) 2px 2px no-repeat;
-}
-	#results li a {
-		color: #000;
-	}
-
-	#results li.abiword { background-image: url(../images/icons24/abiword.png); }
-	#results li.firefox { background-image: url(../images/icons24/firefox.png); }
-	#results li.gnumeric { background-image: url(../images/icons24/gnumeric.png); }
-	#results li.pidgin { background-image: url(../images/icons24/pidgin.png); }
-	#results li.thunderbird { background-image: url(../images/icons24/thunderbird.png); }
