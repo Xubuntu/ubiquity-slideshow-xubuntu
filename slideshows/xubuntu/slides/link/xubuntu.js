@@ -6,11 +6,11 @@ Signals.watch('slideshow-loaded', function() {
 		function( ) { panelhighlight_hide( ); }
 	);
 	$( '#panel_windowbuttons' ).hover(
-		function( ) { panelhighlight_show( 32, 576 ); },
+		function( ) { panelhighlight_show( 32, 550 ); },
 		function( ) { panelhighlight_hide( ); }
 	);
 	$( '#panel_indicatorsclock' ).hover(
-		function( ) { panelhighlight_show( 608, 142 ); },
+		function( ) { panelhighlight_show( 582, 168 ); },
 		function( ) { panelhighlight_hide( ); }
 	);
 
