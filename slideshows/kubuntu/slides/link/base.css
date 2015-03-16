@@ -4,6 +4,7 @@ html, body
 	padding:0;
 	font-family: ubuntu;
 	color:#000000;
+  background-image: url("background.png");
 }
 
 /*
@@ -70,7 +71,7 @@ right of a slide and is given a size of 64x64 pixels.
 	width:auto;
 	height:auto;
 	
-	bottom:0px;
+	bottom:10px;
 	right:10px;
 	
 	z-index:11;
