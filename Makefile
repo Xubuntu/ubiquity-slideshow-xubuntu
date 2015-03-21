@@ -47,6 +47,9 @@ define MAKE-SLIDESHOW
 
 # Per-slideshow build
 
+_SOURCE_FILES_$(1) := $$(shell find -L $(SOURCESLIDES)/$(1) -type f)
+_BUILD_FILES_$(1) := $$(patsubst $(SOURCESLIDES)/%,$(BUILD)/%,$$(_SOURCE_FILES_$(1)))
+
 _ALL_TMP_DIRS += $(BUILD)/$1
 build.slideshows: build.$1
 
@@ -54,8 +57,7 @@ build.slideshows: build.$1
 build.$1: build.base.$1 build.l10n.$1
 
 .PHONY: build.base.$1
-build.base.$1: $(SOURCESLIDES)/$1 | $(BUILD)
-	cp -rL $$^ $(BUILD)
+build.base.$1: $$(_BUILD_FILES_$(1))
 
 .PHONY: build.l10n.$1
 build.l10n.$1: build.base.$1
@@ -121,3 +123,12 @@ endef
 
 
 $(foreach s,$(SLIDESHOWS),$(eval $(call MAKE-SLIDESHOW,$s)))
+
+
+$(BUILD)/%: $(SOURCESLIDES)/% | $(BUILD)
+	mkdir -p $(@D)
+	cp $^ $@
+
+$(BUILD)/%.js: $(SOURCESLIDES)/%.js | $(BUILD)
+	mkdir -p $(@D)
+	uglifyjs $^ -o $@

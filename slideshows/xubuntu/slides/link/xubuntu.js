@@ -15,12 +15,12 @@ Signals.watch('slideshow-loaded', function() {
 	);
 
 	/* Show paths on hover */
-	$( '.app' ).live( 'mouseover', function( e ) {
+	$( document ).on( 'mouseover', '.app', function( e ) {
 		var path = '[data-path="' + $( this ).attr( 'data-app' ) + '"]';
 		$( path ).fadeIn( );
 	} );
 
-	$( '.app' ).live( 'mouseleave', function( e ) {
+	$( document ).on( 'mouseleave', '.app', function( e ) {
 		var path = '[data-path="' + $( this ).attr( 'data-app' ) + '"]';
 		$( path ).fadeOut( );
 	} );
