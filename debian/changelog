@@ -12,6 +12,9 @@ ubiquity-slideshow-ubuntu (94) UNRELEASED; urgency=medium
   * Added oem slideshow for Ubuntu MATE. Updated wording and links in
     some slides.
 
+  [ Mathieu Trudel-Lapierre ]
+  * Drop the need for node-uglify, which isn't in main yet.
+
  -- Mathieu Trudel-Lapierre <mathieu-tl@ubuntu.com>  Mon, 23 Mar 2015 10:14:42 -0400
 
 ubiquity-slideshow-ubuntu (93) vivid; urgency=medium

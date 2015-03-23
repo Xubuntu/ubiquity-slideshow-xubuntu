@@ -132,4 +132,4 @@ $(BUILD)/%: $(SOURCESLIDES)/% | $(BUILD)
 
 $(BUILD)/%.js: $(SOURCESLIDES)/%.js | $(BUILD)
 	mkdir -p $(@D)
-	uglifyjs $^ -o $@
+	cp $^ $@
