@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-04-02 11:07-0400\n"
+"POT-Creation-Date: 2015-03-12 03:54+0200\n"
 "PO-Revision-Date: 2014-03-30 22:10+0000\n"
 "Last-Translator: Ibai Oihanguren Sala <Unknown>\n"
 "Language-Team: Basque <eu@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-20 16:02+0000\n"
-"X-Generator: Launchpad (build 17196)\n"
+"X-Launchpad-Export-Date: 2015-04-05 17:29+0000\n"
+"X-Generator: Launchpad (build 17413)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -26,7 +26,7 @@ msgstr "Ongi etorri Xubuntura"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
 msgid "Congratulations, you have chosen to install Xubuntu 15.04!"
-msgstr "Bejondeizula, Xubuntu 15.04 instalatzea erabaki duzu!"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -40,12 +40,129 @@ msgstr ""
 "Instalazioaren ondoren, mahaigainak orain duen itxura antzekoa izango du."
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/01_desktop.html:2
+#: slideshows/xubuntu/slides/01_defaultapps.html:2
+msgid "Ready to go!"
+msgstr "Abiatzeko prest!"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:7
+msgid ""
+"Here is a brief list of some applications that are preinstalled with Xubuntu "
+"for your convenience. Find them in the menu on the left top corner of your "
+"screen. You can install more through the <span class=\"app\" data-app=\"usc"
+"\">Ubuntu Software Center</span>."
+msgstr ""
+
+#. type: Content of: <div><div><h2>
+#: slideshows/xubuntu/slides/01_defaultapps.html:10
+msgid "Internet"
+msgstr "Internet"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:11
+msgid "<strong>Firefox</strong>, web browser"
+msgstr "<strong>Firefox</strong>, web-nabigatzailea"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:12
+msgid "<strong>Thunderbird</strong>, mail and news client"
+msgstr "<strong>Thunderbird</strong>, posta eta berrien bezeroa"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:13
+msgid "<strong>Pidgin</strong>, Internet messenger"
+msgstr "<strong>Pidgin</strong>, Interneteko mezularitza"
+
+#. type: Content of: <div><div><h2>
+#: slideshows/xubuntu/slides/01_defaultapps.html:14
+msgid "Office"
+msgstr "Bulegotika"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:15
+msgid "<strong>AbiWord</strong>, word processor"
+msgstr "<strong>AbiWord</strong>, testu-prozesatzailea"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:16
+msgid "<strong>Gnumeric</strong>, spreadsheet editor"
+msgstr "<strong>Gnumeric</strong>, kalkulu-orrien editorea"
+
+#. type: Content of: <div><div><h2>
+#: slideshows/xubuntu/slides/01_defaultapps.html:19
+msgid "Media"
+msgstr "Multimedia"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:20
+msgid "<strong>gmusicbrowser</strong>, music collection software"
+msgstr "<strong>gmusicbrowser</strong>, musika kudeatzeko softwarea"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:21
+msgid "<strong>Parole</strong>, media player"
+msgstr "<strong>Parole</strong>, multimedia-erreproduzitzailea"
+
+#. type: Content of: <div><div><h2>
+#: slideshows/xubuntu/slides/01_defaultapps.html:22
+msgid "System & Settings"
+msgstr "Sistema eta ezarpenak"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:23
+msgid "<strong>Ubuntu Software Center</strong>"
+msgstr "<strong>Ubunturen software-zentroa</strong>"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:24
+msgid "<strong>Settings Manager</strong>"
+msgstr "<strong>Ezarpen-kudeatzailea</strong>"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:28
+#: slideshows/xubuntu/slides/02_personalize.html:13
+#: slideshows/xubuntu/slides/04_customize.html:13
+#: slideshows/xubuntu/slides/04_customize.html:14
+#: slideshows/xubuntu/slides/05_support.html:20
+msgid "<b>»</b>"
+msgstr "<b>»</b>"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:28
+msgid "Ubuntu Software Center"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/02_personalize.html:2
+msgid "Personalize your computer"
+msgstr "Pertsonalizatu ordenagailua"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/02_personalize.html:7
+msgid ""
+"Easily set your profile image and user details for your user with <span "
+"class=\"app\" data-app=\"mugshot\">Mugshot</span>."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/02_personalize.html:8
+msgid ""
+"Your profile information will automatically be picked up by supported "
+"applications like Pidgin, Abiword, Gnumeric and LibreOffice."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/02_personalize.html:13
+msgid "About Me"
+msgstr "Niri buruz"
+
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/03_desktop.html:2
 msgid "The Xubuntu desktop"
 msgstr "Xubuntu mahaigaina"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:7
+#: slideshows/xubuntu/slides/03_desktop.html:7
 msgid ""
 "On the desktop you will see icons that can be used to access some of the "
 "most common places on your system. In addition, you will see a single, "
@@ -56,12 +173,12 @@ msgstr ""
 "panel bat ikusiko duzu."
 
 #. type: Attribute 'alt' of: <div><div><img>
-#: slideshows/xubuntu/slides/01_desktop.html:11
+#: slideshows/xubuntu/slides/03_desktop.html:11
 msgid "Xubuntu default panel"
 msgstr "Xubunturen panel lehenetsia"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:17
+#: slideshows/xubuntu/slides/03_desktop.html:17
 msgid ""
 "On the left hand side, you will see a Xubuntu logo. Click it to open the "
 "main menu. We will tell you more about this menu in the next slide."
@@ -71,14 +188,14 @@ msgstr ""
 "dizugu."
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:18
+#: slideshows/xubuntu/slides/03_desktop.html:18
 msgid ""
 "The middle part of the panel is dedicated to window buttons for open "
 "applications."
 msgstr "Panelaren erdialdea irekitako aplikazioen leihoen botoientzako da."
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:19
+#: slideshows/xubuntu/slides/03_desktop.html:19
 msgid ""
 "On the far right, you will see indicators and a clock. Click the clock to "
 "see the monthly calendar."
@@ -87,87 +204,11 @@ msgstr ""
 "hileko egutegia ikusteko."
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:23
+#: slideshows/xubuntu/slides/03_desktop.html:23
 msgid ""
-"You can customize the panel by right-clicking the panel and selecting "
-"<em>Panel » Panel Preferences</em>. You can also add and remove panels using "
-"this dialog."
+"Customize your panel by right-clicking it and selecting <em>Panel » Panel "
+"Preferences</em>. You can also add and remove panels using this dialog."
 msgstr ""
-"Panela pertsonalizatzeko egin klik eskuineko botoiarekin panelean eta "
-"hautatu <em>Panela » Panelaren hobespenak</em>. Pantaila hau erabiliz "
-"panelak gehitu eta kendu ere egin ditzakezu."
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/02_whiskermenu.html:2
-msgid "Keep track of your applications"
-msgstr "Kudeatu aplikazioak"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_whiskermenu.html:7
-msgid ""
-"Search for your applications from within the menu and get them displayed as "
-"a favorites list. Reorder, remove, and add other entries just by right-"
-"clicking on an application result when browsing or searching."
-msgstr ""
-"Bilatu menuko aplikazioak eta gehitu gogokoen zerrendara. Berrordenatu, "
-"kendu, eta gehitu elementu berriak arakatu edo bilatzerakoan aplikazio baten "
-"gainean eskuineko botoiarekin klik eginez."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_whiskermenu.html:8
-msgid ""
-"If favorites just doesn't do it for you, switch to the <em>Recently Used</"
-"em> view and get a list of the 10 most recent applications you've opened."
-msgstr ""
-"Gogokoen zerrendarik nahi ez baduzu, aldatu <em>Azkena erabiliak</em> "
-"ikuspegira eta azkenekoz irekitako aplikazioetako 10en zerrenda ikusiko duzu."
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/03_personalize.html:2
-msgid "Personalize your computer"
-msgstr "Pertsonalizatu ordenagailua"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_personalize.html:7
-msgid ""
-"Personalize the login greeter with an image of your choosing and add user "
-"details to your profile with Mugshot. Your profile information will "
-"automatically be picked up by supported applications like Pidgin and "
-"LibreOffice."
-msgstr ""
-"Pertsonalizatu saioa hasteko pantaila zure aukerako irudi batekin, eta "
-"gehitu zure erabiltzaile-profilari xehetasunak Mugshot erabiliz. Profileko "
-"informazioa automatikoki hartuko dute Pidgin eta LibreOffice bezalako "
-"aplikazioek."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_personalize.html:8
-msgid ""
-"Configure the menu just the way you want it with the MenuLibre menu editor. "
-"Add, remove or reorder menu items. Customize launcher behavior with advanced "
-"settings."
-msgstr ""
-"Konfiguratu menua nahierara MenuLibre menu-editorearekin. Gehitu, kendu edo "
-"berrantolatu menu-elementuak. Pertsonalizatu abiarazlearen portaera ezarpen "
-"aurreratuak erabiliz."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/03_personalize.html:10
-#: slideshows/xubuntu/slides/03_personalize.html:11
-#: slideshows/xubuntu/slides/04_customize.html:10
-#: slideshows/xubuntu/slides/04_customize.html:11
-msgid "<b>»</b>"
-msgstr "<b>»</b>"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/03_personalize.html:10
-msgid "About Me"
-msgstr "Niri buruz"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/03_personalize.html:11
-msgid "Menu Editor"
-msgstr "Menu-editorea"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_customize.html:2
@@ -177,144 +218,51 @@ msgstr "Zureganatu mahaigaina"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:7
 msgid ""
-"Your desktop background is easy to customize and we're providing you with a "
-"selection of beautiful wallpapers. Choose one of the five winners of our "
-"community wallpaper contest – handpicked for you!"
+"Edit your user menus, whether adding applications, directories, separators "
+"to the menu layout or reordering menu items. Create new launchers and modify "
+"existing ones with <span class=\"app\" data-app=\"menulibre\">MenuLibre</"
+"span>."
 msgstr ""
-"Mahaigaineko atzeko planoa erraz pertsonaliza dezakezu, eta horma-paper "
-"ederrez osatutako sorta bat eskaintzen dizugu hasieratik. Aukeratu "
-"komunitatearen horma-paper leihaketako bost irabazleetako bat - zuretzat "
-"bereziki hautatu ditugu!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:8
 msgid ""
-"Colorize according to your taste! With the newly created theme configuration "
-"tool you can easily fine-tune the looks of some core aspects of the desktop."
+"Control the look of your window borders, how the windows itself looks and "
+"the looks of your icons with the <span class=\"app\" data-app=\"theme-config"
+"\">Theme Configuration</span> utility."
 msgstr ""
-"Koloreztatu zure gustuen arabera! Gaia konfiguratzeko sortutako tresna "
-"berriari esker, mahaigaineko esparru garrantzitsuenen itxura erraz doitu "
-"dezakezu."
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:10
-msgid "Desktop Settings"
-msgstr "Mahaigainaren ezarpenak"
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:13
+msgid "Menu Editor"
+msgstr "Menu-editorea"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:11
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:14
 msgid "Theme Configuration"
 msgstr "Gaiaren konfigurazioa"
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/05_defaultapps.html:2
-msgid "Ready to go!"
-msgstr "Abiatzeko prest!"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:7
-msgid ""
-"Here is a brief list of some applications that are preinstalled with Xubuntu "
-"for your convenience. Find them in the menu on the left top corner of your "
-"screen. You can install more through the <em>Ubuntu Software Center</em>."
-msgstr ""
-"Hona hemen Xubuntun hasieratik instalaturik datozen aplikazio batzuen "
-"zerrenda laburra. Pantailaren goian ezkerrean dagoen menuan aurkituko "
-"dituzu. Gehiago instala ditzakezu <em>Ubunturen software-zentroa</em> "
-"erabiliz."
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/05_defaultapps.html:10
-msgid "Internet"
-msgstr "Internet"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:11
-msgid "<strong>Firefox</strong>, web browser"
-msgstr "<strong>Firefox</strong>, web-nabigatzailea"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:12
-msgid "<strong>Thunderbird</strong>, mail and news client"
-msgstr "<strong>Thunderbird</strong>, posta eta berrien bezeroa"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:13
-msgid "<strong>Pidgin</strong>, Internet messenger"
-msgstr "<strong>Pidgin</strong>, Interneteko mezularitza"
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/05_defaultapps.html:14
-msgid "Office"
-msgstr "Bulegotika"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:15
-msgid "<strong>AbiWord</strong>, word processor"
-msgstr "<strong>AbiWord</strong>, testu-prozesatzailea"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:16
-msgid "<strong>Gnumeric</strong>, spreadsheet editor"
-msgstr "<strong>Gnumeric</strong>, kalkulu-orrien editorea"
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/05_defaultapps.html:19
-msgid "Media"
-msgstr "Multimedia"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:20
-msgid "<strong>gmusicbrowser</strong>, music collection software"
-msgstr "<strong>gmusicbrowser</strong>, musika kudeatzeko softwarea"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:21
-msgid "<strong>Parole</strong>, media player"
-msgstr "<strong>Parole</strong>, multimedia-erreproduzitzailea"
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/05_defaultapps.html:22
-msgid "System & Settings"
-msgstr "Sistema eta ezarpenak"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:23
-msgid "<strong>Ubuntu Software Center</strong>"
-msgstr "<strong>Ubunturen software-zentroa</strong>"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:24
-msgid "<strong>Settings Manager</strong>"
-msgstr "<strong>Ezarpen-kudeatzailea</strong>"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/06_support.html:2
+#: slideshows/xubuntu/slides/05_support.html:2
 msgid "Help & Support"
 msgstr "Laguntza eta sostengua"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:7
+#: slideshows/xubuntu/slides/05_support.html:7
 msgid ""
-"The Official Documentation that covers many of the most common areas and "
-"questions about Xubuntu is shipped with every Xubuntu release. Find it by "
-"clicking on Help on the main menu."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:8
-msgid ""
-"The documentation is also available online at <a href=\"http://docs.xubuntu."
-"org/\">docs.xubuntu.org</a>."
+"The <span class=\"app\" data-app=\"docs\">Official Documentation</span> that "
+"covers many of the most common areas and questions about Xubuntu is shipped "
+"with every Xubuntu release. The documentation is also available <a href="
+"\"http://docs.xubuntu.org/\">online</a>."
 msgstr ""
 
 #. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/06_support.html:9
+#: slideshows/xubuntu/slides/05_support.html:8
 msgid "Other resources"
 msgstr "Bestelako baliabideak"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:10
+#: slideshows/xubuntu/slides/05_support.html:9
 msgid ""
 "Still have questions? The full list of support methods is available at the "
 "<a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
@@ -325,60 +273,59 @@ msgstr ""
 "sostengua atalean</a>."
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/06_support.html:14
+#: slideshows/xubuntu/slides/05_support.html:13
 msgid "Real-time support"
 msgstr "Denbora errealeko sostengua"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:15
+#: slideshows/xubuntu/slides/05_support.html:14
 msgid ""
-"For live, online support, join our IRC channel, <em>#xubuntu</em>, by <a "
-"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
-"&prompt=1\">clicking here</a>."
+"For live, online support <strong>in English</strong>, join our IRC channel, "
+"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
+"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
 msgstr ""
-"Laguntza zuzenean eta online jasotzeko, batu gure <em>#xubuntu</em> IRC "
-"kanalera, <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu...&prompt=1\">hemen klik eginez</a>."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:16
+#: slideshows/xubuntu/slides/05_support.html:15
 msgid ""
-"The main support channel is English only. For support in other languages, "
-"view the full list of <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local"
-"\">local support channels</a>."
+"For support in <strong>other languages</strong>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
-"Sostengurako kanal nagusia ingelesez soilik da. Beste hizkuntzetan laguntza "
-"jasotzeko, ikusi <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local"
-"\">tokiko sostegun-kanalen zerrenda</a> osoa."
 
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/07_thanks.html:2
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/05_support.html:20
+msgid "Help"
+msgstr "Laguntza"
+
+#. type: Content of: <div><div><h1>
+#: slideshows/xubuntu/slides/06_thanks.html:4
 msgid "Thank you!"
 msgstr "Eskerrik asko!"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:8
+#: slideshows/xubuntu/slides/06_thanks.html:9
 msgid ""
-"We'd love to hear about your experiences with Xubuntu. You can share them on "
-"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-"\">Xubuntu users mailing list</a>. In the meantime, thanks for taking the "
-"time to install Xubuntu with us."
+"Thanks for taking the time to install Xubuntu with us. Feel free to pass on "
+"your installation media and let others try Xubuntu as well!"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:10
+#: slideshows/xubuntu/slides/06_thanks.html:11
 msgid ""
-"Xubuntu will always come without fees; feel free to pass on your "
-"installation media and let others try Xubuntu as well."
+"We'd love to hear about your experiences with Xubuntu. You can share them on "
+"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+"\">Xubuntu users mailing list</a> or on the <em>#xubuntu-offtopic</em> IRC "
+"channel."
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/07_thanks.html:12
+#: slideshows/xubuntu/slides/06_thanks.html:13
 msgid "We need your help!"
 msgstr "Zure laguntza behar dugu!"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:13
+#: slideshows/xubuntu/slides/06_thanks.html:14
 msgid ""
 "Want to give something back? The different ways to contribute to the Xubuntu "
 "community can all be found on the <a href=\"http://xubuntu.org/devel\">Get "
@@ -387,3 +334,140 @@ msgstr ""
 "Bueltan zerbait emateko prest? Xubuntu komunitateari laguntzeko era "
 "desberdinak daude, ezagutu itzazu gure webguneko <a href=\"http://xubuntu."
 "org/devel\">Hartu parte</a> atalean."
+
+#~ msgid "Congratulations, you have chosen to install Xubuntu 14.04!"
+#~ msgstr "Bejondeizula, Xubuntu 14.04 instalatzea erabaki duzu!"
+
+#~ msgid ""
+#~ "The main support channel is English only. For support in other languages, "
+#~ "view the full list of <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/"
+#~ "Local\">local support channels</a>."
+#~ msgstr ""
+#~ "Sostengurako kanal nagusia ingelesez soilik da. Beste hizkuntzetan "
+#~ "laguntza jasotzeko, ikusi <a href=\"https://wiki.ubuntu.com/IRC/"
+#~ "ChannelList/Local\">tokiko sostegun-kanalen zerrenda</a> osoa."
+
+#~ msgid ""
+#~ "For live, online support, join our IRC channel, <em>#xubuntu</em>, by <a "
+#~ "href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
+#~ "&prompt=1\">clicking here</a>."
+#~ msgstr ""
+#~ "Laguntza zuzenean eta online jasotzeko, batu gure <em>#xubuntu</em> IRC "
+#~ "kanalera, <a href=\"http://webchat.freenode.net/?"
+#~ "channels=xubuntu&nick=xubuntu...&prompt=1\">hemen klik eginez</a>."
+
+#~ msgid "Desktop Settings"
+#~ msgstr "Mahaigainaren ezarpenak"
+
+#~ msgid ""
+#~ "Your desktop background is easy to customize and we're providing you with "
+#~ "a selection of beautiful wallpapers. Choose one of the five winners of "
+#~ "our community wallpaper contest – handpicked for you!"
+#~ msgstr ""
+#~ "Mahaigaineko atzeko planoa erraz pertsonaliza dezakezu, eta horma-paper "
+#~ "ederrez osatutako sorta bat eskaintzen dizugu hasieratik. Aukeratu "
+#~ "komunitatearen horma-paper leihaketako bost irabazleetako bat - zuretzat "
+#~ "bereziki hautatu ditugu!"
+
+#~ msgid ""
+#~ "Configure the menu just the way you want it with the MenuLibre menu "
+#~ "editor. Add, remove or reorder menu items. Customize launcher behavior "
+#~ "with advanced settings."
+#~ msgstr ""
+#~ "Konfiguratu menua nahierara MenuLibre menu-editorearekin. Gehitu, kendu "
+#~ "edo berrantolatu menu-elementuak. Pertsonalizatu abiarazlearen portaera "
+#~ "ezarpen aurreratuak erabiliz."
+
+#~ msgid ""
+#~ "Personalize the login greeter with an image of your choosing and add user "
+#~ "details to your profile with Mugshot. Your profile information will "
+#~ "automatically be picked up by supported applications like Pidgin and "
+#~ "LibreOffice."
+#~ msgstr ""
+#~ "Pertsonalizatu saioa hasteko pantaila zure aukerako irudi batekin, eta "
+#~ "gehitu zure erabiltzaile-profilari xehetasunak Mugshot erabiliz. "
+#~ "Profileko informazioa automatikoki hartuko dute Pidgin eta LibreOffice "
+#~ "bezalako aplikazioek."
+
+#~ msgid ""
+#~ "You can customize the panel by right-clicking the panel and selecting "
+#~ "<em>Panel » Panel Preferences</em>. You can also add and remove panels "
+#~ "using this dialog."
+#~ msgstr ""
+#~ "Panela pertsonalizatzeko egin klik eskuineko botoiarekin panelean eta "
+#~ "hautatu <em>Panela » Panelaren hobespenak</em>. Pantaila hau erabiliz "
+#~ "panelak gehitu eta kendu ere egin ditzakezu."
+
+#~ msgid ""
+#~ "Search for your applications from within the menu and get them displayed "
+#~ "as a favorites list. Reorder, remove, and add other entries just by right-"
+#~ "clicking on an application result when browsing or searching."
+#~ msgstr ""
+#~ "Bilatu menuko aplikazioak eta gehitu gogokoen zerrendara. Berrordenatu, "
+#~ "kendu, eta gehitu elementu berriak arakatu edo bilatzerakoan aplikazio "
+#~ "baten gainean eskuineko botoiarekin klik eginez."
+
+#~ msgid ""
+#~ "If favorites just doesn't do it for you, switch to the <em>Recently Used</"
+#~ "em> view and get a list of the 10 most recent applications you've opened."
+#~ msgstr ""
+#~ "Gogokoen zerrendarik nahi ez baduzu, aldatu <em>Azkena erabiliak</em> "
+#~ "ikuspegira eta azkenekoz irekitako aplikazioetako 10en zerrenda ikusiko "
+#~ "duzu."
+
+#~ msgid ""
+#~ "Colorize according to your taste! With the newly created theme "
+#~ "configuration tool you can easily fine-tune the looks of some core "
+#~ "aspects of the desktop."
+#~ msgstr ""
+#~ "Koloreztatu zure gustuen arabera! Gaia konfiguratzeko sortutako tresna "
+#~ "berriari esker, mahaigaineko esparru garrantzitsuenen itxura erraz doitu "
+#~ "dezakezu."
+
+#~ msgid "Keep track of your applications"
+#~ msgstr "Kudeatu aplikazioak"
+
+#~ msgid ""
+#~ "Here is a brief list of some applications that are preinstalled with "
+#~ "Xubuntu for your convenience. Find them in the menu on the left top "
+#~ "corner of your screen. You can install more through the <em>Ubuntu "
+#~ "Software Center</em>."
+#~ msgstr ""
+#~ "Hona hemen Xubuntun hasieratik instalaturik datozen aplikazio batzuen "
+#~ "zerrenda laburra. Pantailaren goian ezkerrean dagoen menuan aurkituko "
+#~ "dituzu. Gehiago instala ditzakezu <em>Ubunturen software-zentroa</em> "
+#~ "erabiliz."
+
+#~ msgid ""
+#~ "The documentation is also available online at <a href=\"http://docs."
+#~ "xubuntu.org/\">docs.xubuntu.org</a>."
+#~ msgstr ""
+#~ "Dokumentazioa linean ere eskuragarri dago <a href=\"http://docs.xubuntu."
+#~ "org/\">docs.xubuntu.org</a>-en."
+
+#~ msgid ""
+#~ "The Official Documentation that covers many of the most common areas and "
+#~ "questions about Xubuntu is shipped with every Xubuntu release. Find it by "
+#~ "clicking on Help on the main menu."
+#~ msgstr ""
+#~ "Galderak eta gai ohikoenak barne dituen dokumentazio ofiziala Xubunturen "
+#~ "argitalpen guztiekin banatzen da. Menu nagusiko Laguntza aukeran klikatuz "
+#~ "aurkituko duzu."
+
+#~ msgid ""
+#~ "Xubuntu will always come without fees; feel free to pass on your "
+#~ "installation media and let others try Xubuntu as well."
+#~ msgstr ""
+#~ "Xubuntu beti izango da doakoa. Konpartitu instalazioko euskarria eta "
+#~ "emaiezu besteei Xubuntu probatzeko aukera."
+
+#~ msgid ""
+#~ "We'd love to hear about your experiences with Xubuntu. You can share them "
+#~ "on the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+#~ "\">Xubuntu users mailing list</a>. In the meantime, thanks for taking the "
+#~ "time to install Xubuntu with us."
+#~ msgstr ""
+#~ "Xubunturekin dituzun esperientzien berri izatea gustatuko litzaiguke. <a "
+#~ "href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+#~ "\">Xubunturen erabiltzaileen posta-zerrendan</a> parteka ditzakezu zure "
+#~ "iritziak. Mila esker Xubuntu instalatzeagatik."

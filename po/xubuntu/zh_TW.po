@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2014-04-02 11:07-0400\n"
+"POT-Creation-Date: 2015-03-12 03:54+0200\n"
 "PO-Revision-Date: 2014-08-15 02:46+0000\n"
 "Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-20 16:02+0000\n"
-"X-Generator: Launchpad (build 17196)\n"
+"X-Launchpad-Export-Date: 2015-04-05 17:29+0000\n"
+"X-Generator: Launchpad (build 17413)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -26,7 +26,7 @@ msgstr "歡迎使用 Xubuntu"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
 msgid "Congratulations, you have chosen to install Xubuntu 15.04!"
-msgstr "恭喜，您選擇了安裝 Xubuntu 15.04！"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -37,12 +37,129 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/01_desktop.html:2
+#: slideshows/xubuntu/slides/01_defaultapps.html:2
+msgid "Ready to go!"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:7
+msgid ""
+"Here is a brief list of some applications that are preinstalled with Xubuntu "
+"for your convenience. Find them in the menu on the left top corner of your "
+"screen. You can install more through the <span class=\"app\" data-app=\"usc"
+"\">Ubuntu Software Center</span>."
+msgstr ""
+
+#. type: Content of: <div><div><h2>
+#: slideshows/xubuntu/slides/01_defaultapps.html:10
+msgid "Internet"
+msgstr "網際網路"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:11
+msgid "<strong>Firefox</strong>, web browser"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:12
+msgid "<strong>Thunderbird</strong>, mail and news client"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:13
+msgid "<strong>Pidgin</strong>, Internet messenger"
+msgstr ""
+
+#. type: Content of: <div><div><h2>
+#: slideshows/xubuntu/slides/01_defaultapps.html:14
+msgid "Office"
+msgstr "辦公軟體"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:15
+msgid "<strong>AbiWord</strong>, word processor"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:16
+msgid "<strong>Gnumeric</strong>, spreadsheet editor"
+msgstr ""
+
+#. type: Content of: <div><div><h2>
+#: slideshows/xubuntu/slides/01_defaultapps.html:19
+msgid "Media"
+msgstr "媒體"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:20
+msgid "<strong>gmusicbrowser</strong>, music collection software"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:21
+msgid "<strong>Parole</strong>, media player"
+msgstr ""
+
+#. type: Content of: <div><div><h2>
+#: slideshows/xubuntu/slides/01_defaultapps.html:22
+msgid "System & Settings"
+msgstr "系統設定"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:23
+msgid "<strong>Ubuntu Software Center</strong>"
+msgstr "<strong>Ubuntu 軟體中心</strong>"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:24
+msgid "<strong>Settings Manager</strong>"
+msgstr "<strong>設定管理員</strong>"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:28
+#: slideshows/xubuntu/slides/02_personalize.html:13
+#: slideshows/xubuntu/slides/04_customize.html:13
+#: slideshows/xubuntu/slides/04_customize.html:14
+#: slideshows/xubuntu/slides/05_support.html:20
+msgid "<b>»</b>"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_defaultapps.html:28
+msgid "Ubuntu Software Center"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/02_personalize.html:2
+msgid "Personalize your computer"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/02_personalize.html:7
+msgid ""
+"Easily set your profile image and user details for your user with <span "
+"class=\"app\" data-app=\"mugshot\">Mugshot</span>."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/02_personalize.html:8
+msgid ""
+"Your profile information will automatically be picked up by supported "
+"applications like Pidgin, Abiword, Gnumeric and LibreOffice."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/02_personalize.html:13
+msgid "About Me"
+msgstr "關於我"
+
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/03_desktop.html:2
 msgid "The Xubuntu desktop"
 msgstr "Xubuntu 桌面"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:7
+#: slideshows/xubuntu/slides/03_desktop.html:7
 msgid ""
 "On the desktop you will see icons that can be used to access some of the "
 "most common places on your system. In addition, you will see a single, "
@@ -50,98 +167,37 @@ msgid ""
 msgstr ""
 
 #. type: Attribute 'alt' of: <div><div><img>
-#: slideshows/xubuntu/slides/01_desktop.html:11
+#: slideshows/xubuntu/slides/03_desktop.html:11
 msgid "Xubuntu default panel"
 msgstr "Xubuntu 預設面板"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:17
+#: slideshows/xubuntu/slides/03_desktop.html:17
 msgid ""
 "On the left hand side, you will see a Xubuntu logo. Click it to open the "
 "main menu. We will tell you more about this menu in the next slide."
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:18
+#: slideshows/xubuntu/slides/03_desktop.html:18
 msgid ""
 "The middle part of the panel is dedicated to window buttons for open "
 "applications."
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:19
+#: slideshows/xubuntu/slides/03_desktop.html:19
 msgid ""
 "On the far right, you will see indicators and a clock. Click the clock to "
 "see the monthly calendar."
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_desktop.html:23
+#: slideshows/xubuntu/slides/03_desktop.html:23
 msgid ""
-"You can customize the panel by right-clicking the panel and selecting "
-"<em>Panel » Panel Preferences</em>. You can also add and remove panels using "
-"this dialog."
+"Customize your panel by right-clicking it and selecting <em>Panel » Panel "
+"Preferences</em>. You can also add and remove panels using this dialog."
 msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/02_whiskermenu.html:2
-msgid "Keep track of your applications"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_whiskermenu.html:7
-msgid ""
-"Search for your applications from within the menu and get them displayed as "
-"a favorites list. Reorder, remove, and add other entries just by right-"
-"clicking on an application result when browsing or searching."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_whiskermenu.html:8
-msgid ""
-"If favorites just doesn't do it for you, switch to the <em>Recently Used</"
-"em> view and get a list of the 10 most recent applications you've opened."
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/03_personalize.html:2
-msgid "Personalize your computer"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_personalize.html:7
-msgid ""
-"Personalize the login greeter with an image of your choosing and add user "
-"details to your profile with Mugshot. Your profile information will "
-"automatically be picked up by supported applications like Pidgin and "
-"LibreOffice."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_personalize.html:8
-msgid ""
-"Configure the menu just the way you want it with the MenuLibre menu editor. "
-"Add, remove or reorder menu items. Customize launcher behavior with advanced "
-"settings."
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/03_personalize.html:10
-#: slideshows/xubuntu/slides/03_personalize.html:11
-#: slideshows/xubuntu/slides/04_customize.html:10
-#: slideshows/xubuntu/slides/04_customize.html:11
-msgid "<b>»</b>"
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/03_personalize.html:10
-msgid "About Me"
-msgstr "關於我"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/03_personalize.html:11
-msgid "Menu Editor"
-msgstr "選單編輯器"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_customize.html:2
@@ -151,133 +207,51 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:7
 msgid ""
-"Your desktop background is easy to customize and we're providing you with a "
-"selection of beautiful wallpapers. Choose one of the five winners of our "
-"community wallpaper contest – handpicked for you!"
+"Edit your user menus, whether adding applications, directories, separators "
+"to the menu layout or reordering menu items. Create new launchers and modify "
+"existing ones with <span class=\"app\" data-app=\"menulibre\">MenuLibre</"
+"span>."
 msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:8
 msgid ""
-"Colorize according to your taste! With the newly created theme configuration "
-"tool you can easily fine-tune the looks of some core aspects of the desktop."
+"Control the look of your window borders, how the windows itself looks and "
+"the looks of your icons with the <span class=\"app\" data-app=\"theme-config"
+"\">Theme Configuration</span> utility."
 msgstr ""
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:10
-msgid "Desktop Settings"
-msgstr "桌面設定"
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:13
+msgid "Menu Editor"
+msgstr "選單編輯器"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:11
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/04_customize.html:14
 msgid "Theme Configuration"
 msgstr "配置佈景主題"
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/05_defaultapps.html:2
-msgid "Ready to go!"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:7
-msgid ""
-"Here is a brief list of some applications that are preinstalled with Xubuntu "
-"for your convenience. Find them in the menu on the left top corner of your "
-"screen. You can install more through the <em>Ubuntu Software Center</em>."
-msgstr ""
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/05_defaultapps.html:10
-msgid "Internet"
-msgstr "網際網路"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:11
-msgid "<strong>Firefox</strong>, web browser"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:12
-msgid "<strong>Thunderbird</strong>, mail and news client"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:13
-msgid "<strong>Pidgin</strong>, Internet messenger"
-msgstr ""
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/05_defaultapps.html:14
-msgid "Office"
-msgstr "辦公軟體"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:15
-msgid "<strong>AbiWord</strong>, word processor"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:16
-msgid "<strong>Gnumeric</strong>, spreadsheet editor"
-msgstr ""
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/05_defaultapps.html:19
-msgid "Media"
-msgstr "媒體"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:20
-msgid "<strong>gmusicbrowser</strong>, music collection software"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:21
-msgid "<strong>Parole</strong>, media player"
-msgstr ""
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/05_defaultapps.html:22
-msgid "System & Settings"
-msgstr "系統設定"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:23
-msgid "<strong>Ubuntu Software Center</strong>"
-msgstr "<strong>Ubuntu 軟體中心</strong>"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_defaultapps.html:24
-msgid "<strong>Settings Manager</strong>"
-msgstr "<strong>設定管理員</strong>"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/06_support.html:2
+#: slideshows/xubuntu/slides/05_support.html:2
 msgid "Help & Support"
 msgstr "求助及支援"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:7
+#: slideshows/xubuntu/slides/05_support.html:7
 msgid ""
-"The Official Documentation that covers many of the most common areas and "
-"questions about Xubuntu is shipped with every Xubuntu release. Find it by "
-"clicking on Help on the main menu."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:8
-msgid ""
-"The documentation is also available online at <a href=\"http://docs.xubuntu."
-"org/\">docs.xubuntu.org</a>."
+"The <span class=\"app\" data-app=\"docs\">Official Documentation</span> that "
+"covers many of the most common areas and questions about Xubuntu is shipped "
+"with every Xubuntu release. The documentation is also available <a href="
+"\"http://docs.xubuntu.org/\">online</a>."
 msgstr ""
 
 #. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/06_support.html:9
+#: slideshows/xubuntu/slides/05_support.html:8
 msgid "Other resources"
 msgstr "其他資源"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:10
+#: slideshows/xubuntu/slides/05_support.html:9
 msgid ""
 "Still have questions? The full list of support methods is available at the "
 "<a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
@@ -285,56 +259,67 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/06_support.html:14
+#: slideshows/xubuntu/slides/05_support.html:13
 msgid "Real-time support"
 msgstr "實時支援"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:15
+#: slideshows/xubuntu/slides/05_support.html:14
 msgid ""
-"For live, online support, join our IRC channel, <em>#xubuntu</em>, by <a "
-"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
-"&prompt=1\">clicking here</a>."
+"For live, online support <strong>in English</strong>, join our IRC channel, "
+"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
+"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_support.html:16
+#: slideshows/xubuntu/slides/05_support.html:15
 msgid ""
-"The main support channel is English only. For support in other languages, "
-"view the full list of <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local"
-"\">local support channels</a>."
+"For support in <strong>other languages</strong>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
 
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/07_thanks.html:2
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/05_support.html:20
+msgid "Help"
+msgstr "求助"
+
+#. type: Content of: <div><div><h1>
+#: slideshows/xubuntu/slides/06_thanks.html:4
 msgid "Thank you!"
 msgstr "謝謝！"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:8
+#: slideshows/xubuntu/slides/06_thanks.html:9
 msgid ""
-"We'd love to hear about your experiences with Xubuntu. You can share them on "
-"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-"\">Xubuntu users mailing list</a>. In the meantime, thanks for taking the "
-"time to install Xubuntu with us."
+"Thanks for taking the time to install Xubuntu with us. Feel free to pass on "
+"your installation media and let others try Xubuntu as well!"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:10
+#: slideshows/xubuntu/slides/06_thanks.html:11
 msgid ""
-"Xubuntu will always come without fees; feel free to pass on your "
-"installation media and let others try Xubuntu as well."
+"We'd love to hear about your experiences with Xubuntu. You can share them on "
+"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+"\">Xubuntu users mailing list</a> or on the <em>#xubuntu-offtopic</em> IRC "
+"channel."
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/07_thanks.html:12
+#: slideshows/xubuntu/slides/06_thanks.html:13
 msgid "We need your help!"
 msgstr "我們需要您的幫忙！"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/07_thanks.html:13
+#: slideshows/xubuntu/slides/06_thanks.html:14
 msgid ""
 "Want to give something back? The different ways to contribute to the Xubuntu "
 "community can all be found on the <a href=\"http://xubuntu.org/devel\">Get "
 "Involved</a> section of our website."
 msgstr ""
+
+#~ msgid "Congratulations, you have chosen to install Xubuntu 14.04!"
+#~ msgstr "恭喜，您選擇了安裝 Xubuntu 14.04！"
+
+#~ msgid "Desktop Settings"
+#~ msgstr "桌面設定"
