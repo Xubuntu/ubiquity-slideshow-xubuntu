@@ -25,15 +25,15 @@ ol, ul {
 html, body {
 	margin:0;
 	padding:0;
-	
+
 	background-color:#F7F6F6;
-	
-	font-family: 'Cantarell','Ubuntu', 'UbuntuBeta', sans-serif;
+
+	font-family: 'Droid Sans', 'Cantarell', 'Ubuntu', 'UbuntuBeta', sans-serif;
 	font-size:13px;
 	line-height:1.4em;
-	
-	color:#000000;
-	
+
+	color:#FFFFFF;
+
 	/* no reason to expose this extra stuff to the user */
 	-webkit-user-select:none;
 	-moz-user-select:none;
@@ -45,8 +45,9 @@ html, body {
 Hyperlink-style text
 */
 a {
-	color:#0087ED;
-	text-decoration:none;
+	/*color:#0087ED;*/
+	color:#eee;
+	text-decoration:underline;
 	display:inline;
 }
 
@@ -60,7 +61,7 @@ strong {
 
 #wrapper {
 	position:absolute;
-	
+
 	width:752px;
 	height:100%;
 }
@@ -70,6 +71,9 @@ strong {
 	min-height:442px;
 	height:100%;
 	overflow:hidden;
+	/* move this to #main if we want the background image to move with slides */
+	background-image:url('background.jpg');
+	background-position: bottom;
 }
 #slideshow > div {
 	position:absolute;
@@ -80,12 +84,12 @@ strong {
 .control-arrow {
 	display:block;
 	position:absolute;
-	
+
 	z-index:100;
-	top:218px;
+	top:378px;
 	height:64px;
 	width:33px;
-	
+
 	background-repeat:no-repeat;
 	cursor:pointer;
 }
@@ -100,7 +104,7 @@ strong {
 }
 .control-arrow#prev-slide {
 	background-image:url('arrow-back.png');
-	left:0px;
+	left:686px;
 }
 .control-arrow#next-slide {
 	background-image:url('arrow-next.png');
@@ -117,17 +121,19 @@ strong {
 	top:0px;
 	width:100%;
 	height:68px;
-	background-color:#2D3335;
+	z-index: 2;
+	background-color:#191919;
+	box-shadow: 0px 2px 8px 5px #191919;
 }
 
 .header > .slidetitle {
 	display:table-cell;
 	padding:0px 25px;
 	vertical-align:middle;
-	
-	font-size:24px;
+
+	font-size:15px;
 	line-height:50px;
-	font-weight:normal;
+	font-weight:bold;
 	color:#F7F6F6;
 }
 .header > .slidetitle img {
@@ -137,13 +143,10 @@ strong {
 .main {
 	position:absolute;
 	top:70px; /* 68px + 2px margin */
-	bottom:2px;
-	left:2px;
-	right:2px;
+	bottom:0px;
+	left:0px;
+	right:0px;
 	min-height:370px; /* 442px (from #slideshow) - 70px - 2px */
-	
-	/* move this to #slideshow if we don't want the background image to move with slides */
-	background-image:url('background.png');
 }
 
 .main.big {
@@ -151,7 +154,6 @@ strong {
 	left:0px;
 	right:0px;
 	bottom:0px;
-	background-image:none;
 }
 
 .main.wide{
@@ -159,7 +161,7 @@ strong {
 	left:0px;
 	right:0px;
 	bottom:0px;
-	background-image:url('background.png');
+	/*background-image:url('background.jpg');*/
 }
 
 /*
@@ -169,18 +171,17 @@ Inner space is 224px wide.
 .main > .text {
 	position:absolute;
 	z-index:10;
-	top:25px;
-	left:36px;
+	top:55px;
+	left:30px;
 	width:248px;
-	bottom:35px;
-	min-height:329px; /* 369 - 25 - 15 (for bottom) */
+	bottom:0px;
+	min-height:314px; /* 369 - 25 - 15 (for bottom) */
 	overflow:auto;
 }
 
 .text > div {
 	margin-bottom:8px;
 	padding:6px 12px;
-	background-color:#FCFCFC;
 }
 .text > div:last-child {
 	margin-bottom:0px;
@@ -192,20 +193,20 @@ Inner space is 224px wide.
 	font-size:inherit;
 	font-weight:normal;
 	text-decoration:none;
-	border-bottom:#333333 dotted 1px;
+	border-bottom:#F7F6F6 dotted 1px;
 }
 
 .main.big > .text {
-	top:25px;
-	width:470px;
+	top:55px;
+	width:320px;
 }
 
 .main.big > .text > div {
 	background:none;
-	font-size:20px;
+	font-size:13px;
 	line-height:1.2em;
 	color:#F7F6F6;
-	text-shadow:1px 1px 2px #333333;
+	/*text-shadow:1px 1px 1px #333333;*/
 }
 
 .main.wide > .text {
@@ -246,14 +247,27 @@ Inner space is 224px wide.
 	vertical-align:middle;
 }
 
+.bigicon{
+	position: absolute;
+	bottom:0px;
+}
+
+.bigicon ul{
+	width:100%;
+}
+.bigicon li{
+	margin-right:20px;
+	float:left;
+}
+
 /* Expects screenshot to be 448x347 px */
 .main > .screenshot {
 	position:absolute;
 	top:25px;
 	right:-2px; /* offsets 2px margin of .main */
-	
+
 	z-index:2;
-	
+
 	/* Screenshot shadow, not in use but might be useful in future releases*/
 	/* -webkit-box-shadow:#999999 0px 0px 5px;
 	-moz-box-shadow:#999999 0px 0px 5px;
@@ -269,7 +283,7 @@ Inner space is 224px wide.
 	-webkit-box-shadow:none;
 	-moz-box-shadow:none;
 	box-shadow:none;
-	
+
 	z-index:0;
 }
 
@@ -293,7 +307,7 @@ img {
 }
 .rtl .control-arrow#next-slide {
 	background-image:url('arrow-back.png');
-	left:0px; /* 752px - 33px */
+	left:686px; /* 752px - 33px */
 }
 
 .rtl .main > .text {
