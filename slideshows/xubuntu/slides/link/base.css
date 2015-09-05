@@ -88,8 +88,20 @@ html, body {
 }
 
 body {
-	background: #0b3a6b url(wall.png) 0 0 no-repeat;
+	background: #0e6c7b radial-gradient( circle farthest-corner at -20% 120%, #08b7c1 0%, #0e6c7b 90% );
 }
+	body:after {
+		content: "";
+		display: block;
+		position: fixed;
+		top: 0;
+		left: 0;
+
+		width: 750px;
+		height: 60px;
+
+		background: transparent linear-gradient( to top right, rgba( 255, 255, 255, 0.25 ) -50%, rgba( 255, 255, 255, 0 ) 80% );
+	}
 
 #wrapper {
 	position: absolute;
@@ -116,12 +128,8 @@ body {
 }
 
 .header {
-	display: table-cell;
-
-	padding: 0 100px 0 20px;
-	height: 60px;
-
-	vertical-align: middle;
+	padding: 20px 100px 0 20px;
+	height: 40px;
 }
 
 .main {
@@ -375,3 +383,8 @@ h2 {
 
 		background: transparent url(triangledown.png) 100% 0 no-repeat;
 	}
+
+/*  15.10  */
+#werewolf {
+	background: transparent url(../images/art_1510.png) 100% 100% no-repeat;
+}
