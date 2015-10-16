@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
 "PO-Revision-Date: 2014-03-05 02:38+0000\n"
 "Last-Translator: Po-Hsu Lin <po-hsu.lin@canonical.com>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:20+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -37,23 +37,16 @@ msgstr ""
 #: slideshows/kubuntu/slides/accessibility.html:9
 msgid ""
 "You can get at these tools in one place: the <em>Accessibility</em> "
-"preferences, inside the System Settings application from the menu. From "
-"there, you can turn on helpful tools like <em>Modifier Keys</em>, "
-"<em>Keyboard Filters</em>, and <em>Activation Gestures</em>."
+"preferences, inside the Desktop Behavior from the System Settings "
+"application from the menu. From there, you can turn on helpful tools like "
+"<em>Modifier Keys</em>, <em>Keyboard Filters</em>, and <em>Activation "
+"Gestures</em>."
 msgstr ""
-"您可以在同一個地方取得這些工具：從選單找到「系統設定」應用程式，其中的 <em>無"
-"障礙輔助</em> 偏好設定。在那裡，您可以啟用像是<em>輔助鍵</em>、<em>鍵盤過濾器"
-"</em>，以及 <em>作用手勢</em> 等有用的工具。"
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/accessibility.html:14
-msgid ""
-"Remember to also look over the <em>Appearance Preferences</em>, too. You can "
-"choose between different visual styles and even change the fonts that are "
-"used by applications."
+#: slideshows/kubuntu/slides/accessibility.html:13
+msgid "Remember to also look over the <em>Application Style</em>."
 msgstr ""
-"也請記得查看 <em>外觀偏好設定</em>。您可以在不同的視覺樣式之間做選擇，甚至變"
-"更應用程式所使用的字型。"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/games.html:1
@@ -71,6 +64,11 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/games.html:9
+msgid "You can easily install Steam"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/games.html:10
 msgid ""
 "The <em>KDE Software Compilation</em> has quite a few games ranging from "
 "card games to logic games and board games."
@@ -79,7 +77,7 @@ msgstr ""
 "有。"
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:11
+#: slideshows/kubuntu/slides/games.html:12
 msgid ""
 "First Person Shooters, Role Playing Games, and more are also available in "
 "the repositories."
@@ -149,14 +147,11 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/get-involved.html:14
 msgid ""
-"Look over <a href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki."
-"kubuntu.org/Kubuntu/GettingInvolved</a> and see where you might be able to "
-"help out. Remember, it is easy to get involved and the work you do will be "
-"seen by millions of people around the world."
+"Look over <a href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase."
+"kde.org/Kubuntu/Contribute</a> and see where you might be able to help out. "
+"Remember, it is easy to get involved and the work you do will be seen by "
+"millions of people around the world."
 msgstr ""
-"請仔細閱讀 <a href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki."
-"kubuntu.org/Kubuntu/GettingInvolved (英文)</a>，並看看有什麼地方是您可以提供"
-"協助的。請您記住，參與我們相當容易，而您的貢獻將會被全世界上百萬人所共賭。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/get-involved.html:20
@@ -199,14 +194,10 @@ msgstr "安裝額外的軟體"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:6
 msgid ""
-"Take a look at <em>Software Management</em> application in the menu under "
-"the System tab. Software Management will allow you to install (and remove) "
-"software from our online repositories, which we carefully organize to be "
-"safe and up to date."
+"Take a look at the <em>Muon Discover</em> application in the menu. Muon "
+"Discover will allow you to install (and remove) software from our online "
+"repositories, which we carefully organize to be safe and up to date."
 msgstr ""
-"看一下「系統」分頁選單內的 <em>軟體管理</em> 應用程式。「軟體管理」讓您從我們"
-"的線上套件庫安裝（與移除）軟體；這些線上套件庫都是我們精心整理的；除了安全之"
-"外，軟體更是最新版本。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:10
@@ -354,13 +345,6 @@ msgstr ""
 "利用 <em>KAddressBook</em> 來收藏您的聯絡人，還能以幾乎每種通訊錄標準格式匯入"
 "或匯出聯絡人，甚至能與各種群組軟體服務進行同步處理。"
 
-#. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/pim.html:17
-msgid ""
-"<em>Kontact</em> is the perfect personal information management integration "
-"for you!"
-msgstr "<em>Kontact</em> 是為您打造的完美個人資訊管理整合！"
-
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/welcome.html:1
 msgid "Welcome"
@@ -378,6 +362,8 @@ msgid ""
 "they choose, and be free to download, change, study and share their software "
 "with anyone, for any purpose."
 msgstr ""
+"我們相信每位電腦使用者都能毫無拘束地使用所選擇的環境，並且可以不限用途的免費"
+"下載、變更、研究並與別人分享其軟體。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:11

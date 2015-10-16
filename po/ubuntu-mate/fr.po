@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
+"POT-Creation-Date: 2015-09-07 10:52+0300\n"
 "PO-Revision-Date: 2014-08-27 19:14+0000\n"
 "Last-Translator: Mohegan <jack@mohegan.ws>\n"
 "Language-Team: French <fr@li.org>\n"
@@ -26,11 +26,9 @@ msgstr "Bienvenue dans Ubuntu MATE"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/01_welcome.html:8
 msgid ""
-"Ubuntu MATE is a Linux operating system based on Ubuntu and the MATE Desktop "
-"environment."
+"A community developed Ubuntu based operating system that beautifully "
+"integrates the MATE desktop."
 msgstr ""
-"Ubuntu MATE est un système d'exploitation Linux basé sur Ubuntu et "
-"l'environnement de bureau MATE."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/02_about.html:1
@@ -39,12 +37,13 @@ msgstr "À propos"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/02_about.html:8
+#, fuzzy
 msgid ""
 "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
 "desktop environment. Ideal for those who want the most out of their "
-"desktops, laptops and netbooks and prefer a traditional desktop metaphor. "
-"With modest hardware requirements it is suitable for modern workstations and "
-"older hardware alike."
+"computers and prefer a traditional desktop metaphor. With modest hardware "
+"requirements it is suitable for modern desktops and laptops, micro computers "
+"and older hardware alike."
 msgstr ""
 "Ubuntu MATE est un système d'exploitation stable et simple d'utilisation "
 "avec un environnement de bureau personnalisable. Idéal pour ceux qui "
@@ -60,11 +59,13 @@ msgstr "Obtenez encore plus de logiciels"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/03_usc.html:7
+#, fuzzy
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you're looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With Ubuntu MATE Welcome, "
+"you can find and install new apps with ease. If you want to discover more "
+"applications then use one of the supported software centres to search for "
+"what you're looking for, or explore categories such as Science, Education "
+"and Games, alongside helpful reviews from other users."
 msgstr ""
 "Dites adieu à la recherche de nouveaux logiciels sur le Web. Avec la "
 "logithèque Ubuntu, vous pouvez trouver et installer facilement de nouvelles "
@@ -83,8 +84,8 @@ msgstr "Logiciels inclus"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/03_usc.html:15
-msgid "Ubuntu Software Center"
-msgstr "Logithèque Ubuntu"
+msgid "GDebi Package Installer"
+msgstr "Installateur de paquets GDebi"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/03_usc.html:18
@@ -95,13 +96,13 @@ msgstr "Logiciels pris en charge"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/03_usc.html:22
-msgid "Synaptic Package Manager"
-msgstr "Gestionnaire de paquets Synaptic"
+msgid "Ubuntu Software Center"
+msgstr "Logithèque Ubuntu"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/03_usc.html:26
-msgid "GDebi Package Installer"
-msgstr "Installateur de paquets GDebi"
+msgid "Synaptic Package Manager"
+msgstr "Gestionnaire de paquets Synaptic"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/04_music.html:2
@@ -286,47 +287,62 @@ msgstr "Discussion"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:16
+#, fuzzy
 msgid ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+ Community</a>"
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
+"Forum</a>"
 msgstr ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Communauté Google+</a>"
+"<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Projet "
+"Ubuntu MATE</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:20
+#, fuzzy
 msgid ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC channel</a>"
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Ubuntu MATE IRC "
+"channel</a>"
 msgstr ""
 "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Canal IRC</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/09_community.html:23
-msgid "Announcements"
-msgstr "Annonces"
+msgid "Social Networks"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:27
+#, fuzzy
 msgid ""
-"<a href=\"http://ubuntu-mate.net/rss.xml\" class=\"caption\">RSS Feed</a>"
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
+"\"caption\">Google+</a>"
 msgstr ""
-"<a href=\"http://ubuntu-mate.net/rss.xml\" class=\"caption\">Fil RSS</a>"
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
+"\"caption\">Communauté Google+</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:31
+#, fuzzy
 msgid ""
-"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter Feed</"
-"a>"
+"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
+msgstr ""
+"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Fil Twitter</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntu-mate/slides/09_community.html:35
+#, fuzzy
+msgid ""
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
+"\">Facebook</a>"
 msgstr ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Fil Twitter</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/09_community.html:34
+#: slideshows/ubuntu-mate/slides/09_community.html:38
 msgid "Development"
 msgstr "Développement"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/09_community.html:38
+#: slideshows/ubuntu-mate/slides/09_community.html:42
 msgid ""
 "<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
 "Project</a>"
@@ -334,11 +350,24 @@ msgstr ""
 "<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Projet "
 "Ubuntu MATE</a>"
 
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/09_community.html:42
-msgid ""
-"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
-"Tracker</a>"
-msgstr ""
-"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
-"Tracker</a>"
+#~ msgid ""
+#~ "Ubuntu MATE is a Linux operating system based on Ubuntu and the MATE "
+#~ "Desktop environment."
+#~ msgstr ""
+#~ "Ubuntu MATE est un système d'exploitation Linux basé sur Ubuntu et "
+#~ "l'environnement de bureau MATE."
+
+#~ msgid "Announcements"
+#~ msgstr "Annonces"
+
+#~ msgid ""
+#~ "<a href=\"http://ubuntu-mate.net/rss.xml\" class=\"caption\">RSS Feed</a>"
+#~ msgstr ""
+#~ "<a href=\"http://ubuntu-mate.net/rss.xml\" class=\"caption\">Fil RSS</a>"
+
+#~ msgid ""
+#~ "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
+#~ "Tracker</a>"
+#~ msgstr ""
+#~ "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
+#~ "Tracker</a>"

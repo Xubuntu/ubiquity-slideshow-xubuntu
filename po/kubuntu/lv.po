@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
 "PO-Revision-Date: 2014-04-09 09:11+0000\n"
 "Last-Translator: Rūdolfs Mazurs <Unknown>\n"
 "Language-Team: Latvian <lv@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:20+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -38,25 +38,16 @@ msgstr ""
 #: slideshows/kubuntu/slides/accessibility.html:9
 msgid ""
 "You can get at these tools in one place: the <em>Accessibility</em> "
-"preferences, inside the System Settings application from the menu. From "
-"there, you can turn on helpful tools like <em>Modifier Keys</em>, "
-"<em>Keyboard Filters</em>, and <em>Activation Gestures</em>."
+"preferences, inside the Desktop Behavior from the System Settings "
+"application from the menu. From there, you can turn on helpful tools like "
+"<em>Modifier Keys</em>, <em>Keyboard Filters</em>, and <em>Activation "
+"Gestures</em>."
 msgstr ""
-"Jūs varat atrast šīs palīgprogramas vienā vietā: <em> Asistejošās "
-"Tehnoloģijas </ em> iestatījumos, sistēmas iestatījumu sadaļā. No turienes, "
-"varat ieslēgt noderīgus rīkus, piemēram <em>Modifier Keys</em>, <em>Keyboard "
-"Filters</em> un <em>Activation Gestures</em>."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/accessibility.html:14
-msgid ""
-"Remember to also look over the <em>Appearance Preferences</em>, too. You can "
-"choose between different visual styles and even change the fonts that are "
-"used by applications."
+#: slideshows/kubuntu/slides/accessibility.html:13
+msgid "Remember to also look over the <em>Application Style</em>."
 msgstr ""
-"Neaizmirstiet apskatīt arī <em>Izskata iestatījumus</em>. Jūs varat "
-"izvēlēties star dažādiem vizuālajiem stiliem un pat mainīt fontus, kurus "
-"izmanto lietotnes."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/games.html:1
@@ -74,6 +65,11 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/games.html:9
+msgid "You can easily install Steam"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/games.html:10
 msgid ""
 "The <em>KDE Software Compilation</em> has quite a few games ranging from "
 "card games to logic games and board games."
@@ -82,7 +78,7 @@ msgstr ""
 "kāršu spēlēm līdz loģikas spēlēm un galda spēlēm."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:11
+#: slideshows/kubuntu/slides/games.html:12
 msgid ""
 "First Person Shooters, Role Playing Games, and more are also available in "
 "the repositories."
@@ -154,15 +150,11 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/get-involved.html:14
 msgid ""
-"Look over <a href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki."
-"kubuntu.org/Kubuntu/GettingInvolved</a> and see where you might be able to "
-"help out. Remember, it is easy to get involved and the work you do will be "
-"seen by millions of people around the world."
+"Look over <a href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase."
+"kde.org/Kubuntu/Contribute</a> and see where you might be able to help out. "
+"Remember, it is easy to get involved and the work you do will be seen by "
+"millions of people around the world."
 msgstr ""
-"Ielūkojies <a href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki."
-"kubuntu.org/Kubuntu/GettingInvolved</a> un skaties, kā tu varētu palīdzēt. "
-"Atceries, ka iesaistīties ir viegli un tavs ieguldītais darbs būs redzams "
-"miljoniem cilvēku visā pasaulē."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/get-involved.html:20
@@ -210,14 +202,10 @@ msgstr "Papildu programmatūras instalēšana"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:6
 msgid ""
-"Take a look at <em>Software Management</em> application in the menu under "
-"the System tab. Software Management will allow you to install (and remove) "
-"software from our online repositories, which we carefully organize to be "
-"safe and up to date."
+"Take a look at the <em>Muon Discover</em> application in the menu. Muon "
+"Discover will allow you to install (and remove) software from our online "
+"repositories, which we carefully organize to be safe and up to date."
 msgstr ""
-"Izmēģini <em>Programmatūras vadības</em> lietotni izvēlnes Sistēmas cilnē. "
-"Programmatūras vadība ļauj instalēt (un noņemt) programmatūru no mūsu "
-"tiešsaistes krātuvēm, kas ir rūpīgi sakārtota, lai būtu droša un aktuāla."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:10
@@ -382,15 +370,6 @@ msgstr ""
 "eksportējiet kontaktus ar gandrīz jebkuru adrešu grāmatu standartu, kā arī "
 "sinhronizējiet ar dažādiem sadarbības pakalpojumuiem."
 
-#. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/pim.html:17
-msgid ""
-"<em>Kontact</em> is the perfect personal information management integration "
-"for you!"
-msgstr ""
-"<em>Kontact</ em> piedāvā ideālu personiskās informācijas pārvaldības "
-"integrāciju!"
-
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/welcome.html:1
 msgid "Welcome"
@@ -423,15 +402,3 @@ msgstr ""
 #: slideshows/kubuntu/slides/welcome.html:15
 msgid "Kubuntu is designed to be easy. Feel free to explore!"
 msgstr "Kubuntu ir veidots, lai būtu viegls. Droši izpēti!"
-
-#~ msgid ""
-#~ "Thank you for choosing Kubuntu 14.04. We hope you enjoy the experience."
-#~ msgstr ""
-#~ "Paldies, ka izvēlējāties Kubuntu 14.04. Mēs ceram, ka jums tas patiks."
-
-#~ msgid ""
-#~ "We want Kubuntu to work for you. So while your software is installing, "
-#~ "this slideshow will introduce you to Kubuntu 14.04."
-#~ msgstr ""
-#~ "Mēs veidojam Kubuntu noderīgu jums. Tāpēc programmatūras instalēšanas "
-#~ "laikā šī slīdrāde iepazīstinās jūs ar Kubuntu 14.04."

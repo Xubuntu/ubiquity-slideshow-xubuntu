@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
 "PO-Revision-Date: 2014-03-31 08:18+0000\n"
 "Last-Translator: Tadeáš Pařík <tadeas.parik@gmail.com>\n"
 "Language-Team: Czech <cs@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:29+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,7 +25,7 @@ msgstr "Vítejte v Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "Congratulations, you have chosen to install Xubuntu 15.04!"
+msgid "Congratulations, you have chosen to install Xubuntu 15.10!"
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -80,13 +80,13 @@ msgstr "Kancelář"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:15
-msgid "<strong>AbiWord</strong>, word processor"
-msgstr "<strong>AbiWord</strong>, textový procesor"
+msgid "<strong>LibreOffice Writer</strong>, word processor"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:16
-msgid "<strong>Gnumeric</strong>, spreadsheet editor"
-msgstr "<strong>Gnumeric</strong>, tabulkový editor"
+msgid "<strong>LibreOffice Calc</strong>, spreadsheet editor"
+msgstr ""
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/01_defaultapps.html:19
@@ -148,7 +148,7 @@ msgstr ""
 #: slideshows/xubuntu/slides/02_personalize.html:8
 msgid ""
 "Your profile information will automatically be picked up by supported "
-"applications like Pidgin, Abiword, Gnumeric and LibreOffice."
+"applications like Pidgin, LibreOffice Writer and Calc."
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -223,9 +223,9 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:8
 msgid ""
-"Control the look of your window borders, how the windows itself looks and "
-"the looks of your icons with the <span class=\"app\" data-app=\"theme-config"
-"\">Theme Configuration</span> utility."
+"Control the look of your window borders, how the windows themselves look and "
+"the appearance of your icons with the <span class=\"app\" data-app=\"theme-"
+"config\">Theme Configuration</span> utility."
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -330,108 +330,8 @@ msgstr ""
 "do komunity Xubuntu naleznete na našich stránkách v sekci <a href=\"http://"
 "xubuntu.org/devel\">Zapojte se</a>."
 
-#~ msgid "Congratulations, you have chosen to install Xubuntu 14.04!"
-#~ msgstr "Gratuluje, že jste si pro instalaci vybrali Xubuntu 14.04!"
+#~ msgid "<strong>AbiWord</strong>, word processor"
+#~ msgstr "<strong>AbiWord</strong>, textový procesor"
 
-#~ msgid ""
-#~ "The documentation is also available online at <a href=\"http://docs."
-#~ "xubuntu.org/\">docs.xubuntu.org</a>."
-#~ msgstr ""
-#~ "Dokumentace je také dostupná online na adrese <a href=\"http://docs."
-#~ "xubuntu.org/\">docs.xubuntu.org</a>."
-
-#~ msgid "Keep track of your applications"
-#~ msgstr "Mějte přehled o svých aplikacích"
-
-#~ msgid ""
-#~ "The main support channel is English only. For support in other languages, "
-#~ "view the full list of <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/"
-#~ "Local\">local support channels</a>."
-#~ msgstr ""
-#~ "Hlavní kanál pro podporu je pouze v angličtině. Pro podporu v jiných "
-#~ "jazycích se podívejte na seznam <a href=\"https://wiki.ubuntu.com/IRC/"
-#~ "ChannelList/Local\">místních kanálů podpory</a>."
-
-#~ msgid ""
-#~ "For live, online support, join our IRC channel, <em>#xubuntu</em>, by <a "
-#~ "href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
-#~ "&prompt=1\">clicking here</a>."
-#~ msgstr ""
-#~ "Pro živou, online podporu, se můžete připojit na náš IRC kanál  "
-#~ "<em>#xubuntu</em> <a href=\"http://webchat.freenode.net/?"
-#~ "channels=xubuntu&nick=xubuntu...&prompt=1\">kliknutím zde</a>."
-
-#~ msgid ""
-#~ "The Official Documentation that covers many of the most common areas and "
-#~ "questions about Xubuntu is shipped with every Xubuntu release. Find it by "
-#~ "clicking on Help on the main menu."
-#~ msgstr ""
-#~ "Oficiální dokumentace, která zahrnuje většinu podstatných oblastí a "
-#~ "častých otázek o Xubuntu, je dodávána spolu s každým vydáním Xubuntu. "
-#~ "Najdete ji v sekci nápověda v hlavní nabídce."
-
-#~ msgid ""
-#~ "Configure the menu just the way you want it with the MenuLibre menu "
-#~ "editor. Add, remove or reorder menu items. Customize launcher behavior "
-#~ "with advanced settings."
-#~ msgstr ""
-#~ "Upravte si nabídku podle svých potřeb pomocí editačního nástroje nabídku "
-#~ "MenuLibre. Přidávejte, odstraňujte nebo měňte pořadí položek nabídky. "
-#~ "Upravte si chování spouštěče pomocí pokročilého nastavení."
-
-#~ msgid ""
-#~ "Personalize the login greeter with an image of your choosing and add user "
-#~ "details to your profile with Mugshot. Your profile information will "
-#~ "automatically be picked up by supported applications like Pidgin and "
-#~ "LibreOffice."
-#~ msgstr ""
-#~ "Upravte si přihlašovací obrazovku přidáním obrázku a uživatelských "
-#~ "informací pomocí aplikace Mugshot. Osobní informace budou automaticky "
-#~ "použity aplikacemi jako Pidgin nebo LibreOffice."
-
-#~ msgid ""
-#~ "Here is a brief list of some applications that are preinstalled with "
-#~ "Xubuntu for your convenience. Find them in the menu on the left top "
-#~ "corner of your screen. You can install more through the <em>Ubuntu "
-#~ "Software Center</em>."
-#~ msgstr ""
-#~ "Zde je krátký seznam aplikací, které jsou již v systému Xubuntu obsaženy. "
-#~ "Naleznete je v levém horním rohu obrazovky. Více aplikací můžete "
-#~ "nainstalovat pomocí <em>Centra Softwaru Ubuntu</em>."
-
-#~ msgid ""
-#~ "Xubuntu will always come without fees; feel free to pass on your "
-#~ "installation media and let others try Xubuntu as well."
-#~ msgstr ""
-#~ "Xubuntu bude vždy zdarma; instalační médium můžete sdílet s ostatními, "
-#~ "aby i oni měli možnost Xubuntu vyzkoušet."
-
-#~ msgid ""
-#~ "If favorites just doesn't do it for you, switch to the <em>Recently Used</"
-#~ "em> view and get a list of the 10 most recent applications you've opened."
-#~ msgstr ""
-#~ "Jestliže vám seznam oblíbených aplikací nevyhovuje, přepněte zobrazení na "
-#~ "<em>Nedávno použité</em> a nechte si zobrazit posledních 10 aplikací, "
-#~ "které byly otevřeny."
-
-#~ msgid ""
-#~ "Search for your applications from within the menu and get them displayed "
-#~ "as a favorites list. Reorder, remove, and add other entries just by right-"
-#~ "clicking on an application result when browsing or searching."
-#~ msgstr ""
-#~ "Vyhledávejte aplikace pomocí nabídky a nechte si je zobrazit v seznamu "
-#~ "oblíbených aplikací. Měňte, odstraňujte či přidávejte jednotlivé položky "
-#~ "pomocí pravého kliknutí na aplikaci při procházení jednotlivých výsledků "
-#~ "vyhledávání."
-
-#~ msgid "Desktop Settings"
-#~ msgstr "Nastavení pracovního prostředí"
-
-#~ msgid ""
-#~ "Your desktop background is easy to customize and we're providing you with "
-#~ "a selection of beautiful wallpapers. Choose one of the five winners of "
-#~ "our community wallpaper contest – handpicked for you!"
-#~ msgstr ""
-#~ "Pozadí pracovní plochy se dá velmi lehce upravit a přicházíme s velkým "
-#~ "výběrem obrázků pro pozadí pracovní plochy. Vyberte si jeden obrázek z "
-#~ "pěti vítězných v naší komunitní soutěži - vybráno přímo pro vás!"
+#~ msgid "<strong>Gnumeric</strong>, spreadsheet editor"
+#~ msgstr "<strong>Gnumeric</strong>, tabulkový editor"

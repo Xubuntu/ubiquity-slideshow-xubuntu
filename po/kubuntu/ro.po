@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
 "PO-Revision-Date: 2014-04-19 06:29+0000\n"
 "Last-Translator: Marian Vasile <marianvasile1972@gmail.com>\n"
 "Language-Team: Romanian Gnome Team <gnomero-list@lists.sourceforge.net>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:20+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -38,26 +38,20 @@ msgstr ""
 #: slideshows/kubuntu/slides/accessibility.html:9
 msgid ""
 "You can get at these tools in one place: the <em>Accessibility</em> "
-"preferences, inside the System Settings application from the menu. From "
-"there, you can turn on helpful tools like <em>Modifier Keys</em>, "
-"<em>Keyboard Filters</em>, and <em>Activation Gestures</em>."
+"preferences, inside the Desktop Behavior from the System Settings "
+"application from the menu. From there, you can turn on helpful tools like "
+"<em>Modifier Keys</em>, <em>Keyboard Filters</em>, and <em>Activation "
+"Gestures</em>."
 msgstr ""
-"Puteți găsi toate aceste instrumente în același loc: la rubrica preferințe "
-"de <em>Accesibilitate</em>, în cadrul aplicației de configurare din meniul "
-"Sistem. De acolo puteți activa instrumente utile precum <em>Taste "
-"modificatoare</em>, <em>Filtre tastatură</em> sau <em>Gesturi de activare</"
-"em>."
+"Puteți găsi aceste unelte în un singur loc: meniul de preferințe de "
+"<em>Accesibilitate</em>, în  Comportament birou din Configurări de sistem. "
+"De acolo, puteți porni unelte utile cu ar fii <em>Taste Modificatoare</em>, "
+"<em>Filtre de tastatură</em> și <em>Gesturi de activare</em>."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/accessibility.html:14
-msgid ""
-"Remember to also look over the <em>Appearance Preferences</em>, too. You can "
-"choose between different visual styles and even change the fonts that are "
-"used by applications."
-msgstr ""
-"Nu uitați să aruncați o privire și la <em>Preferințe afișare</em>. Puteți să "
-"alegeți dintre diferite stiluri vizuale și chiar să schimbați fonturile care "
-"sunt folosite de aplicații."
+#: slideshows/kubuntu/slides/accessibility.html:13
+msgid "Remember to also look over the <em>Application Style</em>."
+msgstr "Rețineți să vă uitați și peste <em>Stilul Aplicațiilor</em>."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/games.html:1
@@ -75,6 +69,11 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/games.html:9
+msgid "You can easily install Steam"
+msgstr "Poţi instala uşor Steam"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/games.html:10
 msgid ""
 "The <em>KDE Software Compilation</em> has quite a few games ranging from "
 "card games to logic games and board games."
@@ -83,7 +82,7 @@ msgstr ""
 "la cele logice sau jocuri pe tablă."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:11
+#: slideshows/kubuntu/slides/games.html:12
 msgid ""
 "First Person Shooters, Role Playing Games, and more are also available in "
 "the repositories."
@@ -158,15 +157,15 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/get-involved.html:14
 msgid ""
-"Look over <a href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki."
-"kubuntu.org/Kubuntu/GettingInvolved</a> and see where you might be able to "
-"help out. Remember, it is easy to get involved and the work you do will be "
-"seen by millions of people around the world."
+"Look over <a href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase."
+"kde.org/Kubuntu/Contribute</a> and see where you might be able to help out. "
+"Remember, it is easy to get involved and the work you do will be seen by "
+"millions of people around the world."
 msgstr ""
-"Consultați <a href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki."
-"kubuntu.org/Kubuntu/GettingInvolved</a> și vedeți cum ați putea ajuta. "
-"Rețineți că este ușor să vă implicați, iar munca dumneavoastră va fi văzută "
-"de milioane de oameni din întreaga lume."
+"Uitați-vă peste pagina <a href=\"https://userbase.kde.org/Kubuntu/Contribute"
+"\">userbase.kde.org/Kubuntu/Contribute</a> pentru a vedea cum ați putea să "
+"dați o mână de ajutor. Țineți minte, este foarte ușor să vă implicați, iar "
+"munca dumneavoastră va fi văzută de milioane de oameni din jurul lumii."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/get-involved.html:20
@@ -214,14 +213,14 @@ msgstr "Instalarea programelor suplimentare"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:6
 msgid ""
-"Take a look at <em>Software Management</em> application in the menu under "
-"the System tab. Software Management will allow you to install (and remove) "
-"software from our online repositories, which we carefully organize to be "
-"safe and up to date."
+"Take a look at the <em>Muon Discover</em> application in the menu. Muon "
+"Discover will allow you to install (and remove) software from our online "
+"repositories, which we carefully organize to be safe and up to date."
 msgstr ""
-"Aplicația <em>Gestionare software</em> din meniul Sistem vă permite să "
-"instalați (și să eliminați) software din depozitele noastre online, pe care "
-"le organizăm cu atenție pentru a fi sigure și actuale."
+"Trageți o privire la aplicația <em>Descoperire Muon</em>. Descoperire Muon "
+"vă permite să instalați (și să dezinstalați) software din depozitele noastre "
+"online, pe care le organizăm cu mare grijă pentru a fii sigure și "
+"actualizate."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:10
@@ -389,15 +388,6 @@ msgstr ""
 "formatele standard de agendă sau să le sincronizați cu diverse servicii de "
 "comunicare în grup."
 
-#. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/pim.html:17
-msgid ""
-"<em>Kontact</em> is the perfect personal information management integration "
-"for you!"
-msgstr ""
-"<em>Kontact</em> vă asigură o integrare perfectă a tuturor aplicațiilor de "
-"gestionare a informațiilor personale."
-
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/welcome.html:1
 msgid "Welcome"
@@ -407,6 +397,8 @@ msgstr "Bun venit"
 #: slideshows/kubuntu/slides/welcome.html:6
 msgid "Thank you for choosing Kubuntu 15.04. We hope you enjoy the experience."
 msgstr ""
+"Vă mulţumim că aţi ales Kubuntu 15.04. Sperăm că vă  veţi bucura de această "
+"experienţă."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:8
@@ -425,22 +417,11 @@ msgid ""
 "We want Kubuntu to work for you. So while your software is installing, this "
 "slideshow will introduce you to Kubuntu 15.04."
 msgstr ""
+"Noi dorim ca sistemul de operare Kubuntu să  lucreze pentru dumneavoastră. "
+"Aşadar, în timp ce programul se instalează, această prezentare vă va "
+"introduce  în Kubuntu 15.04."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/welcome.html:15
 msgid "Kubuntu is designed to be easy. Feel free to explore!"
 msgstr "Kubuntu este proiectat să fie facil. Nu ezitați să explorați!"
-
-#~ msgid ""
-#~ "Thank you for choosing Kubuntu 14.04. We hope you enjoy the experience."
-#~ msgstr ""
-#~ "Mulțumim pentru că ați ales Kubuntu 14.04. Sperăm să vă bucurați de "
-#~ "experiență."
-
-#~ msgid ""
-#~ "We want Kubuntu to work for you. So while your software is installing, "
-#~ "this slideshow will introduce you to Kubuntu 14.04."
-#~ msgstr ""
-#~ "Ne dorim ca sistemul de operare Kubuntu fie o alegere potrivită pentru "
-#~ "dumneavoastră. Așadar, în timp ce sunt instalate programele conținute, "
-#~ "această prezentare vă va introduce în Kubuntu 14.04."

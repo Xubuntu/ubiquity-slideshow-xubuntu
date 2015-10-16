@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
 "PO-Revision-Date: 2013-04-08 10:29+0000\n"
 "Last-Translator: Chetan Khona <chetan@sumconcepts.com>\n"
 "Language-Team: Marathi <mr@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:20+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -38,23 +38,16 @@ msgstr ""
 #: slideshows/kubuntu/slides/accessibility.html:9
 msgid ""
 "You can get at these tools in one place: the <em>Accessibility</em> "
-"preferences, inside the System Settings application from the menu. From "
-"there, you can turn on helpful tools like <em>Modifier Keys</em>, "
-"<em>Keyboard Filters</em>, and <em>Activation Gestures</em>."
+"preferences, inside the Desktop Behavior from the System Settings "
+"application from the menu. From there, you can turn on helpful tools like "
+"<em>Modifier Keys</em>, <em>Keyboard Filters</em>, and <em>Activation "
+"Gestures</em>."
 msgstr ""
-"तुम्हाला ही सर्व साधने एकाच ठिकाणी सापडतील: <‌em>सुलभता</em> प्राधान्ये, मेनू मधून "
-"सिस्टीम सेटिंग्स मधे. तेथून तुम्ही <em>बदलाव बटणे</em>, <em>कळफलक गाळणी</em> आणि "
-"<em>कार्यन्विकरण हावभाव</em> सारखी उपयुक्त साधने सुरु करू शकता."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/accessibility.html:14
-msgid ""
-"Remember to also look over the <em>Appearance Preferences</em>, too. You can "
-"choose between different visual styles and even change the fonts that are "
-"used by applications."
+#: slideshows/kubuntu/slides/accessibility.html:13
+msgid "Remember to also look over the <em>Application Style</em>."
 msgstr ""
-"<em>ऍपिअरन्स प्राधान्ये<em> पाहण्यास विसरू नका. तुम्ही विविध दृश्य प्रकारांची निवड करू "
-"शकता आणि ऍप्लिकेशन द्वारे वापरले जाणारे फॉण्ट सुद्दा बदलू शकता."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/games.html:1
@@ -72,6 +65,11 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/games.html:9
+msgid "You can easily install Steam"
+msgstr ""
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/games.html:10
 msgid ""
 "The <em>KDE Software Compilation</em> has quite a few games ranging from "
 "card games to logic games and board games."
@@ -80,7 +78,7 @@ msgstr ""
 "प्रकारांचे खेळ उपलब्ध आहेत."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:11
+#: slideshows/kubuntu/slides/games.html:12
 msgid ""
 "First Person Shooters, Role Playing Games, and more are also available in "
 "the repositories."
@@ -151,15 +149,11 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/get-involved.html:14
 msgid ""
-"Look over <a href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki."
-"kubuntu.org/Kubuntu/GettingInvolved</a> and see where you might be able to "
-"help out. Remember, it is easy to get involved and the work you do will be "
-"seen by millions of people around the world."
+"Look over <a href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase."
+"kde.org/Kubuntu/Contribute</a> and see where you might be able to help out. "
+"Remember, it is easy to get involved and the work you do will be seen by "
+"millions of people around the world."
 msgstr ""
-"<a href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">या दुव्यावर</a> "
-"दिलेली माहिती वाचा आणि बघा तुम्ही कोठे आणि कशा प्रकारची मदत करू शकता! लक्षात ठेवा, "
-"येथे सहभागी होणे अतिशय सुलभ आहे आणि तुम्ही पार पाडलेली कामे जगभरातील लक्षावधी लोक पाहू "
-"शकतात!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/get-involved.html:20
@@ -211,15 +205,10 @@ msgstr "अतिरिक्त साँफ्टवेअर  प्रति
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:6
 msgid ""
-"Take a look at <em>Software Management</em> application in the menu under "
-"the System tab. Software Management will allow you to install (and remove) "
-"software from our online repositories, which we carefully organize to be "
-"safe and up to date."
+"Take a look at the <em>Muon Discover</em> application in the menu. Muon "
+"Discover will allow you to install (and remove) software from our online "
+"repositories, which we carefully organize to be safe and up to date."
 msgstr ""
-"\"प्रणाली\" यादीमध्ये असलेल्या <em>अनुप्रणाली व्यवस्थापन (Software Management)</em> "
-"या साधनाचा वापर करून तुम्ही सुलभतेने आमच्या ऑनलाईन रिपॉजिटरीमध्ये उपलब्ध असलेल्या "
-"अनुप्रणालींची स्थापना करू शकता (किंवा स्थापित केलेल्या प्रणाल्या काढून टाकू शकता), या "
-"अनुप्रनाल्या आम्ही सुरक्षित आणि अद्ययावत राहण्यासाठी व्यवस्थित नियोजीत करून ठेवत असतो."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:10
@@ -372,15 +361,6 @@ msgid ""
 msgstr ""
 "तुमचे संपर्क <em>KAddressBook</em> वापरून संयोजित करा. आता तुम्ही तुमचे संपर्क कोणत्याही "
 "प्रचलित ऍडेस बुक शी आयात निर्यात करु शकता तसेच कोणत्याही ग्रुपवेअर सेवेशी जुळवून घेउ शकता."
-
-#. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/pim.html:17
-msgid ""
-"<em>Kontact</em> is the perfect personal information management integration "
-"for you!"
-msgstr ""
-"<em>Kontact</em> हे तुमच्यासाठी अतिशय सुयोग्य असे वैयक्तिक माहिती व्यवस्थापन एकीकरण "
-"आहे !!"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/welcome.html:1

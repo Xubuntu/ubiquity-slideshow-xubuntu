@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
-"PO-Revision-Date: 2015-03-18 17:55+0000\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
+"PO-Revision-Date: 2015-05-02 07:26+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@gmail.com>\n"
 "Language-Team: Ukrainian <translation@linux.org.ua>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:20+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -38,25 +38,20 @@ msgstr ""
 #: slideshows/kubuntu/slides/accessibility.html:9
 msgid ""
 "You can get at these tools in one place: the <em>Accessibility</em> "
-"preferences, inside the System Settings application from the menu. From "
-"there, you can turn on helpful tools like <em>Modifier Keys</em>, "
-"<em>Keyboard Filters</em>, and <em>Activation Gestures</em>."
+"preferences, inside the Desktop Behavior from the System Settings "
+"application from the menu. From there, you can turn on helpful tools like "
+"<em>Modifier Keys</em>, <em>Keyboard Filters</em>, and <em>Activation "
+"Gestures</em>."
 msgstr ""
-"Керувати інструментами доступності можна за допомогою одного вікна — "
-"сторінки <em>Доступність</em> програми «Системні параметри» у меню. На цій "
-"сторінці ви зможете увімкнути всі допоміжні інструменти, зокрема <em>Клавіші-"
+"Усі ці інструменти зібрано на одній сторінці, <em>Доступність</em>, модуля "
+"«Поведінка стільниці» програми «Системні параметри» у меню. За допомогою "
+"цієї сторінки ви зможете увімкнути корисні можливості, зокрема <em>Клавіші-"
 "модифікатори</em>, <em>Фільтри клавіатури</em> та <em>Жести активації</em>."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/accessibility.html:14
-msgid ""
-"Remember to also look over the <em>Appearance Preferences</em>, too. You can "
-"choose between different visual styles and even change the fonts that are "
-"used by applications."
-msgstr ""
-"Ви також можете скористатися модулем <em>Вигляд і поведінка</em>. За його "
-"допомогою ви зможете змінити вигляд елементів графічного інтерфейсу системи "
-"або шрифти, які буде використано для показу текстових даних у програмах."
+#: slideshows/kubuntu/slides/accessibility.html:13
+msgid "Remember to also look over the <em>Application Style</em>."
+msgstr "Не забудьте також зазирнути на сторінку <em>Стиль програм</em>."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/games.html:1
@@ -74,6 +69,11 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/games.html:9
+msgid "You can easily install Steam"
+msgstr "Ви можете без проблем встановити Steam"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/games.html:10
 msgid ""
 "The <em>KDE Software Compilation</em> has quite a few games ranging from "
 "card games to logic games and board games."
@@ -82,7 +82,7 @@ msgstr ""
 "ігор, зокрема карткових, логічних та ігор на дошці."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:11
+#: slideshows/kubuntu/slides/games.html:12
 msgid ""
 "First Person Shooters, Role Playing Games, and more are also available in "
 "the repositories."
@@ -155,16 +155,15 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/get-involved.html:14
 msgid ""
-"Look over <a href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki."
-"kubuntu.org/Kubuntu/GettingInvolved</a> and see where you might be able to "
-"help out. Remember, it is easy to get involved and the work you do will be "
-"seen by millions of people around the world."
+"Look over <a href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase."
+"kde.org/Kubuntu/Contribute</a> and see where you might be able to help out. "
+"Remember, it is easy to get involved and the work you do will be seen by "
+"millions of people around the world."
 msgstr ""
-"Зверніться до сторінки <a href=\"https://wiki.kubuntu.org/Kubuntu/"
-"GettingInvolved\">wiki.kubuntu.org/Kubuntu/GettingInvolved</a>, щоб "
-"дізнатися більше про можливості щодо підтримки дистрибутива. Пам’ятайте, "
-"долучитися дуже просто. За вашою роботою згодом зможуть спостерігати "
-"мільйони людей у всьому світі."
+"Ознайомтеся із вмістом сторінки <a href=\"https://userbase.kde.org/Kubuntu/"
+"Contribute\">userbase.kde.org/Kubuntu/Contribute</a>, щоб дізнатися більше "
+"про те, як ви можете допомогти. Пам’ятайте, що долучитися дуже просто, а "
+"результатами вашої роботи зможуть скористатися мільйони людей з усього світу."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/get-involved.html:20
@@ -215,15 +214,14 @@ msgstr "Встановлення додаткового програмного �
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:6
 msgid ""
-"Take a look at <em>Software Management</em> application in the menu under "
-"the System tab. Software Management will allow you to install (and remove) "
-"software from our online repositories, which we carefully organize to be "
-"safe and up to date."
+"Take a look at the <em>Muon Discover</em> application in the menu. Muon "
+"Discover will allow you to install (and remove) software from our online "
+"repositories, which we carefully organize to be safe and up to date."
 msgstr ""
-"Зверніть увагу на програму <em>Керування програмами</em> у меню на вкладці "
-"«Система». За допомогою «Керування програмами» ви зможете встановити (або "
-"вилучити) програмне забезпечення з наших сховищ у інтернеті. Ми підтримуємо "
-"сховища дистрибутива у безпечному і актуальному стані."
+"Познайомтеся з програмою <em>Muon Discover</em> з меню. За допомогою Muon "
+"Discover ви можете встановити (або вилучити) програми з наших сховищ "
+"пакунків. Програми ретельно впорядковано з метою підтримання безпеки та "
+"актуальності версій."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:10
@@ -394,14 +392,6 @@ msgstr ""
 "Програма здатна імпортувати та експортувати ці записи майже у будь-якому "
 "форматі адресної книги та синхронізувати їх з службами групової роботи."
 
-#. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/pim.html:17
-msgid ""
-"<em>Kontact</em> is the perfect personal information management integration "
-"for you!"
-msgstr ""
-"<em>Kontact</em> є чудовою програмою загального керування особистими даними!"
-
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/welcome.html:1
 msgid "Welcome"
@@ -439,16 +429,3 @@ msgstr ""
 #: slideshows/kubuntu/slides/welcome.html:15
 msgid "Kubuntu is designed to be easy. Feel free to explore!"
 msgstr "Kubuntu створено бути простою. Переконайтеся у цьому самі!"
-
-#~ msgid ""
-#~ "Thank you for choosing Kubuntu 14.04. We hope you enjoy the experience."
-#~ msgstr ""
-#~ "Дякуємо Вам за вибір Kubuntu 14.04. Сподіваємося, вам сподобається досвід."
-
-#~ msgid ""
-#~ "We want Kubuntu to work for you. So while your software is installing, "
-#~ "this slideshow will introduce you to Kubuntu 14.04."
-#~ msgstr ""
-#~ "Ми хочемо, щоб ви змогли одразу перейти до роботи у Kubuntu. Отже, доки "
-#~ "встановлюватиметься програмне забезпечення, ми спробуємо познайомити вас "
-#~ "із Kubuntu 14.04."

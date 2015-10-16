@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
-"PO-Revision-Date: 2015-03-21 10:02+0000\n"
-"Last-Translator: Yongmin Hong <revi@fastlizard4.org>\n"
+"POT-Creation-Date: 2015-09-07 10:52+0300\n"
+"PO-Revision-Date: 2015-09-26 12:35+0000\n"
+"Last-Translator: LinDol <lindolsang@gmail.com>\n"
 "Language-Team: Korean <ko@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:29+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/accessibility.html:2
@@ -24,7 +24,7 @@ msgid "Access for everyone"
 msgstr "누구나 사용할 수 있습니다."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/accessibility.html:10
+#: slideshows/ubuntu-gnome/slides/accessibility.html:8
 msgid ""
 "At the heart of the Ubuntu GNOME philosophy is the belief that computing is "
 "for everyone. With advanced accessibility tools and options to change "
@@ -35,67 +35,21 @@ msgstr ""
 "입니다. 진보된 접근성 도구와  언어, 컬러 스키마, 텍스트 크기 변경 옵션들과 함"
 "께, Ubuntu GNOME는 컴퓨터 사용을 쉽게 만듭니다 – 당신이 누구든지 어디서나."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-gnome/slides/accessibility.html:14
-msgid "Customization options"
-msgstr "사용자 설정 옵션"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/accessibility.html:18
-msgid "Assistive technologies"
-msgstr "보조 기술"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/accessibility.html:22
-msgid "Language support"
-msgstr "언어 지원"
-
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/browse.html:2
 msgid "Make the most of the web"
 msgstr "웹을 최대한 활용하십시오"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/browse.html:10
+#: slideshows/ubuntu-gnome/slides/browse.html:8
 msgid ""
-"Ubuntu GNOME has everything you need to browse the web. Firefox offers "
-"powerful personalization, support for cutting-edge web standards, carefully "
-"optimized performance, and advanced security while still remaining easy to "
-"use."
+"With Firefox already installed, Ubuntu GNOME has everything you need to "
+"browse the web. Easy browsing, high performance, advanced security, powerful "
+"personalization and the cutting edge, all that is between your hands."
 msgstr ""
-"Ubuntu GNOME는 웹 검색에 필요한 모든 것을 가지고 있습니다. Firefox는 여전히 "
-"사용하기 쉽고 강력한 개인화, 완전한 웹 표준 지원,  최적화된 성능,  진보된 보"
-"안을 제공합니다."
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-gnome/slides/browse.html:14
-#: slideshows/ubuntu-gnome/slides/media.html:16
-#: slideshows/ubuntu-gnome/slides/office.html:14
-#: slideshows/ubuntu-gnome/slides/photos.html:14
-msgid "Included software"
-msgstr "기본으로 포함된 소프트웨어"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/browse.html:18
-msgid "Firefox Web Browser"
-msgstr "파이어폭스 웹 브라우저"
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-gnome/slides/browse.html:21
-#: slideshows/ubuntu-gnome/slides/media.html:27
-#: slideshows/ubuntu-gnome/slides/photos.html:21
-msgid "Supported software"
-msgstr "지원되는 소프트웨어"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/browse.html:25
-msgid "Flash"
-msgstr "플래시"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/browse.html:29
-msgid "Chromium"
-msgstr "Chromium"
+"이미 설치된 Firefox와 함께, Ubuntu GNOME는 당신이 웹 검색에 필요로 하는 모든 "
+"것을 가지고 있습니다. 쉬운 검색, 고성능, 고급 보안, 강력한 개인화, 최첨단, "
+"이 모든 것이 당신의 손 안에 있습니다."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/desktop.html:2
@@ -103,38 +57,37 @@ msgid "Simple and easy to use"
 msgstr "간단하고 쉬운 사용"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/desktop.html:10
+#: slideshows/ubuntu-gnome/slides/desktop.html:8
 msgid ""
 "<strong>The Activities Overview is an easy way to access all your basic "
 "tasks. </strong>"
 msgstr ""
-"<strong>현재 활동은 모든 기본 테스크들을 접근하기 위한 가장 쉬운 방법입니다."
+"<strong>현재 활동은 당신의 모든 기본 태스크에 접근하기 위한 쉬운 방법입니다. "
 "</strong>"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/desktop.html:11
+#: slideshows/ubuntu-gnome/slides/desktop.html:9
 msgid ""
 "Having everything in one place is convenient and means that you don't have "
 "to learn your way around a maze of different technologies."
 msgstr ""
-"한 곳에 모든 것을 갖는 것은 편리하고 다른 기술들의 미로 가까이에서 당신의 길"
-"을 배워나갈 필요가 없다는 것을 의미합니다."
+"한 장소에 모든 것을 갖는다는 것은 편리하고 서로 다른 기술들의 미로에서 새로"
+"운 길을 배워나갈 필요가 없다는 것을 의미합니다."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/desktop.html:18
+#: slideshows/ubuntu-gnome/slides/desktop.html:16
 msgid "Launch and manage <strong>your apps</strong> from the Dash"
 msgstr "대시 로부터 <strong>당신의 앱들을</strong> 실행하고 관리합니다."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/desktop.html:22
+#: slideshows/ubuntu-gnome/slides/desktop.html:20
 msgid "Check <strong>your notifications</strong> easily"
 msgstr "<strong>당신의 알림들을</strong> 쉽게 확인할 수 있습니다."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/desktop.html:26
-msgid "Enhance your workflow with <strong>dynamic workspaces</strong>"
-msgstr ""
-"<strong>동적 워크스페이스들</strong>과 함께 당신의 워크플로우를 향상시킵니다."
+#: slideshows/ubuntu-gnome/slides/desktop.html:24
+msgid "Enhance your work flow with <strong>dynamic workspaces</strong>"
+msgstr "<strong>동적 작업 공간으로</strong> 작업 흐름을 강화합니다"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:2
@@ -142,30 +95,30 @@ msgid "Help and support"
 msgstr "도움말과 지원"
 
 #. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:8
+msgid "Thanks for choosing and installing Ubuntu GNOME"
+msgstr "Ubuntu GNOME을 선택하고 설치해 주셔서 감사합니다"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/gethelp.html:9
+msgid ""
+"Learn more about Ubuntu GNOME in our Wiki Area <a href=\"https://wiki.ubuntu."
+"com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
+msgstr ""
+"위키에서 <a href=\"https://wiki.ubuntu.com/UbuntuGNOME\">tiny.cc/uGWiki</"
+"a>Ubuntu GNOME에 대해 더 많은 것을 배워보세요."
+
+#. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:10
-msgid "Thank you for choosing and installing Ubuntu GNOME."
-msgstr "Ubuntu GNOME을 선택하고 설치해주셔서 감사합니다."
+msgid ""
+"For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
+"ContactUs\">tiny.cc/uGContactUs</a>."
+msgstr ""
+"도움과 지원을 위해서, <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/ContactUs"
+"\">tiny.cc/uGContactUs</a>를 방문해 주세요."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:11
-msgid ""
-"Learn more about Ubuntu GNOME from <a href=\"https://wiki.ubuntu.com/"
-"UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
-msgstr ""
-"Ubuntu GNOME에 대해 더 많이 배울 수 있습니다 <a href=\"https://wiki.ubuntu."
-"com/UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/gethelp.html:12
-msgid ""
-"For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
-"ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
-msgstr ""
-"도움과 지원을 위해, <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/ContactUs"
-"\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>를 방문해 주세요."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/gethelp.html:13
 msgid "Enjoy and have fun!"
 msgstr "즐겁고 재미있는 시간 되세요!"
 
@@ -175,7 +128,7 @@ msgid "Easily access your personal cloud"
 msgstr "쉬운 개인 클라우드 접근"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/goa.html:10
+#: slideshows/ubuntu-gnome/slides/goa.html:8
 msgid ""
 "Ubuntu GNOME will seamlessly integrate with your online accounts, so that "
 "all your data can be accessed from the same place. This takes the work out "
@@ -185,30 +138,13 @@ msgstr ""
 "같은 장소에서 당신의 모든 데이터가 액세스될 수 있습니다.  이것은 온라인 계정"
 "을 사용하여 밖에서 작업하고 당신이 그것들을 원할 때 쉽게 찾을 수 있게 합니다."
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/goa.html:17
-msgid "Access <strong>your online documents</strong> natively"
-msgstr "기본적으로 <strong>당신의 온라인 문서들</strong>에 접근합니다."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/goa.html:21
-msgid "Manage <strong>your address book</strong> easily"
-msgstr "쉽게 <strong>당신의 주소록을</strong> 관리합니다."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/goa.html:25
-msgid "Chat with <strong>your friends</strong> from Facebook, Google, etc."
-msgstr ""
-"Facebook, Google 등으로 부터 <strong>당신의 친구들</strong>과 함께 이야기할 "
-"수 있습니다."
-
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/media.html:2
 msgid "Enjoy your music and videos"
 msgstr "음악과 비디오를 감상"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/media.html:10
+#: slideshows/ubuntu-gnome/slides/media.html:8
 msgid ""
 "Rhythmbox lets you organize your music and listen to Internet radio, "
 "podcasts, and more."
@@ -217,7 +153,7 @@ msgstr ""
 "을 할 수 있습니다."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/media.html:12
+#: slideshows/ubuntu-gnome/slides/media.html:10
 msgid ""
 "GNOME Videos allows you to easily watch videos from your computer, DVD, or "
 "streamed over the Internet."
@@ -225,52 +161,21 @@ msgstr ""
 "GNOME 비디오는 당신이 쉽게 컴퓨터에서 DVD, 또는 인터넷 스트리밍 비디오들을 "
 "볼 수 있게 합니다."
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/media.html:20
-msgid "Rhythmbox Music Player"
-msgstr "리듬박스 음악 플레이어"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/media.html:24
-msgid "Videos"
-msgstr "비디오"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/media.html:31
-msgid "Pitivi Video Editor"
-msgstr "피티비 동영상 편집기"
-
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/office.html:2
-msgid "Everything you need for the office"
-msgstr "사무에 필요한 모든 것을 제공합니다."
+msgid "Your office on your machine"
+msgstr "당신의 컴퓨터 안 사무실"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/office.html:10
+#: slideshows/ubuntu-gnome/slides/office.html:8
 msgid ""
-"We understand how important your computer is for day-to-day tasks. Create "
-"professional documents, spreadsheets and presentations with LibreOffice and "
-"manage your local and online documents in a single place with GNOME "
-"Documents."
+"Create professional documents, spreadsheets, presentations, drawings and "
+"more. LibreOffice is a comprehensive, professional-quality productivity "
+"suite shipped by default. Make your day-to-day tasks more easy and fun."
 msgstr ""
-"우리는 당신의 컴퓨터가 하루 하루의 업무를 위해 얼마나 중요한지 알고 있습니"
-"다. 전문적인 문서와 스프레드시트, 프리젠테이션들을 LibreOffice와 함께 만들고 "
-"당신의 로컬, 온라인 문서들을 GNOME 문서와 함께 한 곳에서 관리합니다."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/office.html:18
-msgid "LibreOffice Suite"
-msgstr "리브레 오피스 슈트"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/office.html:22
-msgid "Documents"
-msgstr "문서"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/office.html:26
-msgid "Evince Document Viewer"
-msgstr "Evince 문서 보기"
+"전문적인 문서, 스프레드시트, 프레젠테이션, 드로잉 그리고 더 많은 것을 만듭니"
+"다. LibreOffice는 광범위하고, 전문가 수준의 생산성을 지닌 슈트가 기본으로 탑"
+"재되어져 있습니다. 당신의 매일 업무를 더 쉽고 재미있게 만듭니다."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/photos.html:2
@@ -278,30 +183,17 @@ msgid "Have fun with your photos"
 msgstr "사진과 함께하는 즐거운 시간"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/photos.html:10
+#: slideshows/ubuntu-gnome/slides/photos.html:8
 msgid ""
-"With Shotwell, you can quickly and easily import, organize, edit and view "
-"your pictures. And you can share your favorite snaps on all popular photo "
-"sites and social networks."
+"Tired of finding the right application to organize your photos? With GNOME "
+"Photos, you can quickly and easily import, organize, edit and view your "
+"pictures. And you can share your favorite snaps on all popular photo sites "
+"and social networks."
 msgstr ""
-"샷웰과 함께, 당신은 당신의 사진을 쉽게 불러오고, 정리하고, 편집하고, 볼 수 있"
-"습니다. 그리고 당신은 당신이 좋아하는 사진을 모든 유명한 사진 사이트와 소셜 "
-"네트워크에 공유할 수 있습니다."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/photos.html:18
-msgid "Shotwell Photo Manager"
-msgstr "샷웰 사진 관리자"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/photos.html:25
-msgid "GIMP Image Editor"
-msgstr "김프 이미지 편집기"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-gnome/slides/photos.html:29
-msgid "Inkscape"
-msgstr "잉크스케이프"
+"당신의 사진들을 정리하기 위한 올바른 애플리케이션을 찾으려고 하셨나요? GNOME "
+"Photos로 당신은 빠르고 쉽게 사진을 가져오고, 정리하고, 편집하고, 볼 수 있습니"
+"다. 그리고 인기있는 사진 사이트들과 소셜 네트워크에 당신이 좋아하는 사진을 공"
+"유할 수 있습니다."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/usc.html:2
@@ -309,45 +201,193 @@ msgid "Find even more software"
 msgstr "더욱 많은 소프트웨어를 찾아보세요"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/usc.html:10
-msgid "<strong>Say goodbye to searching the web for new software. </strong>"
+#: slideshows/ubuntu-gnome/slides/usc.html:8
+msgid "<strong>Say Goodbye to searching the web for a software.</strong>"
 msgstr ""
-"<strong>새로운 소프트웨어 찾아 웹을 검색하는 것은 이제 안녕입니다.</strong>"
+"<strong>하나의 소프트웨어를 위해 웹을 검색하는 일은 이제 안녕입니다.</strong>"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/usc.html:11
+#. type: Content of: <div><div><div>
+#: slideshows/ubuntu-gnome/slides/usc.html:9
 msgid ""
-"Ubuntu Software Center gives you instant access to thousands of great games "
-"and applications — some free and some available commercially. If you see "
-"something you like, you can see more information and install it in just a "
-"few clicks."
+"With Ubuntu Software Center you can easily find and install software. Your "
+"ratings and reviews are used to rank software by popularity. You have access "
+"to thousands of free and commercial applications. Installing anything is "
+"just a couple of clicks away from you."
 msgstr ""
-"Ubuntu Software Center는 당신이 멋진 게임과 애플리케이션들 수천 개에 즉시 접"
-"근하게 해줍니다 — 일부는 자유롭고 일부는 상업적으로 존재합니다. 만약 관심 가"
-"는 것을 본다면 더 많은 정보를 보고 몇 번의 클릭 만으로 설치할 수 있습니다."
+"우분투 소프트웨어 센터로 당신은 소프트웨어를 쉽게 찾고 설치할 수 있습니다. 당"
+"신의 평점과 리뷰는 인기도에 의한 소프트웨어 순위에 사용됩니다. 당신은 수천개"
+"의 무료와 유료 애플리케이션들에 접근할 수 있습니다. 무엇이든 설치하는 과정은 "
+"단 두 번의 클릭으로 완료됩니다."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/welcome.html:2
-msgid "Welcome to Ubuntu GNOME 15.04"
-msgstr "우분투 GNOME 15.04에 오신 것을 환영합니다"
+msgid "Welcome to Ubuntu GNOME 15.10"
+msgstr "Ubuntu GNOME 15.10에 오신걸 환영합니다"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/welcome.html:10
+#: slideshows/ubuntu-gnome/slides/welcome.html:8
 msgid ""
-"Ubuntu GNOME features the GNOME desktop on top of the popular Ubuntu "
-"foundation."
+"The official Ubuntu flavor featuring the GNOME Desktop Environment, aiming "
+"to provide a pure GNOME desktop experience built on top of Ubuntu."
 msgstr ""
-"Ubuntu GNOME는 유명한 Ubuntu 재단의 상위에 있는 GNOME 데스크탑을 갖추고 있습"
-"니다."
+"우분투 위에 순수한 GNOME 데스크탑 경험을 만들어 제공하기 위한 목적으로, "
+"GNOME 데스크탑 환경을 갖추고 있는 공식 우분투 flavor 입니다."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/welcome.html:11
+#: slideshows/ubuntu-gnome/slides/welcome.html:9
 msgid ""
-"We believe the combination of Ubuntu and GNOME is the best choice for those "
-"looking for a beautiful, simple, and usable operating system."
+"The latest version of Ubuntu GNOME is the best choice for those looking for "
+"a fast, beautiful, simple, usable and stable Operating System."
 msgstr ""
-"우리는 Ubuntu와 GNOME의 조합이 아름답게 보이고, 단순하며, 운영체제 사용성을 "
-"위한 최고의 선택이라고 믿습니다."
+"Ubuntu GNOME의 최신 버전은 빠르고, 아름답고, 단순하고, 사용하기 좋고, 안정적"
+"인 운영체제를 찾는 사람들을 위한 최고의 선택입니다."
 
-#~ msgid "Welcome to Ubuntu GNOME 14.04"
-#~ msgstr "Ubuntu GNOME 14.04에 오신걸 환영합니다"
+#~ msgid "Included software"
+#~ msgstr "기본으로 포함된 소프트웨어"
+
+#~ msgid "Firefox Web Browser"
+#~ msgstr "파이어폭스 웹 브라우저"
+
+#~ msgid "Supported software"
+#~ msgstr "지원되는 소프트웨어"
+
+#~ msgid "Customization options"
+#~ msgstr "사용자 설정 옵션"
+
+#~ msgid "Language support"
+#~ msgstr "언어 지원"
+
+#~ msgid "Assistive technologies"
+#~ msgstr "보조 기술"
+
+#~ msgid "Flash"
+#~ msgstr "플래시"
+
+#~ msgid "Chromium"
+#~ msgstr "Chromium"
+
+#~ msgid ""
+#~ "Ubuntu GNOME has everything you need to browse the web. Firefox offers "
+#~ "powerful personalization, support for cutting-edge web standards, "
+#~ "carefully optimized performance, and advanced security while still "
+#~ "remaining easy to use."
+#~ msgstr ""
+#~ "Ubuntu GNOME는 웹 검색에 필요한 모든 것을 가지고 있습니다. Firefox는 여전"
+#~ "히 사용하기 쉽고 강력한 개인화, 완전한 웹 표준 지원,  최적화된 성능,  진보"
+#~ "된 보안을 제공합니다."
+
+#~ msgid ""
+#~ "Learn more about Ubuntu GNOME from <a href=\"https://wiki.ubuntu.com/"
+#~ "UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
+#~ msgstr ""
+#~ "Ubuntu GNOME에 대해 더 많이 배울 수 있습니다 <a href=\"https://wiki."
+#~ "ubuntu.com/UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/"
+#~ "OneStopPage</a>."
+
+#~ msgid "Thank you for choosing and installing Ubuntu GNOME."
+#~ msgstr "Ubuntu GNOME을 선택하고 설치해주셔서 감사합니다."
+
+#~ msgid "Enhance your workflow with <strong>dynamic workspaces</strong>"
+#~ msgstr ""
+#~ "<strong>동적 워크스페이스들</strong>과 함께 당신의 워크플로우를 향상시킵니"
+#~ "다."
+
+#~ msgid "Access <strong>your online documents</strong> natively"
+#~ msgstr "기본적으로 <strong>당신의 온라인 문서들</strong>에 접근합니다."
+
+#~ msgid "Manage <strong>your address book</strong> easily"
+#~ msgstr "쉽게 <strong>당신의 주소록을</strong> 관리합니다."
+
+#~ msgid "Videos"
+#~ msgstr "비디오"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "피티비 동영상 편집기"
+
+#~ msgid "Documents"
+#~ msgstr "문서"
+
+#~ msgid "LibreOffice Suite"
+#~ msgstr "리브레 오피스 슈트"
+
+#~ msgid ""
+#~ "We understand how important your computer is for day-to-day tasks. Create "
+#~ "professional documents, spreadsheets and presentations with LibreOffice "
+#~ "and manage your local and online documents in a single place with GNOME "
+#~ "Documents."
+#~ msgstr ""
+#~ "우리는 당신의 컴퓨터가 하루 하루의 업무를 위해 얼마나 중요한지 알고 있습니"
+#~ "다. 전문적인 문서와 스프레드시트, 프리젠테이션들을 LibreOffice와 함께 만들"
+#~ "고 당신의 로컬, 온라인 문서들을 GNOME 문서와 함께 한 곳에서 관리합니다."
+
+#~ msgid ""
+#~ "With Shotwell, you can quickly and easily import, organize, edit and view "
+#~ "your pictures. And you can share your favorite snaps on all popular photo "
+#~ "sites and social networks."
+#~ msgstr ""
+#~ "샷웰과 함께, 당신은 당신의 사진을 쉽게 불러오고, 정리하고, 편집하고, 볼 "
+#~ "수 있습니다. 그리고 당신은 당신이 좋아하는 사진을 모든 유명한 사진 사이트"
+#~ "와 소셜 네트워크에 공유할 수 있습니다."
+
+#~ msgid "Chat with <strong>your friends</strong> from Facebook, Google, etc."
+#~ msgstr ""
+#~ "Facebook, Google 등으로 부터 <strong>당신의 친구들</strong>과 함께 이야기"
+#~ "할 수 있습니다."
+
+#~ msgid ""
+#~ "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
+#~ "ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
+#~ msgstr ""
+#~ "도움과 지원을 위해, <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
+#~ "ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>를 방문해 주세요."
+
+#~ msgid "<strong>Say goodbye to searching the web for new software. </strong>"
+#~ msgstr ""
+#~ "<strong>새로운 소프트웨어 찾아 웹을 검색하는 것은 이제 안녕입니다.</"
+#~ "strong>"
+
+#~ msgid ""
+#~ "Ubuntu Software Center gives you instant access to thousands of great "
+#~ "games and applications — some free and some available commercially. If "
+#~ "you see something you like, you can see more information and install it "
+#~ "in just a few clicks."
+#~ msgstr ""
+#~ "Ubuntu Software Center는 당신이 멋진 게임과 애플리케이션들 수천 개에 즉시 "
+#~ "접근하게 해줍니다 — 일부는 자유롭고 일부는 상업적으로 존재합니다. 만약 관"
+#~ "심 가는 것을 본다면 더 많은 정보를 보고 몇 번의 클릭 만으로 설치할 수 있습"
+#~ "니다."
+
+#~ msgid "Inkscape"
+#~ msgstr "잉크스케이프"
+
+#~ msgid "GIMP Image Editor"
+#~ msgstr "김프 이미지 편집기"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "샷웰 사진 관리자"
+
+#~ msgid "Rhythmbox Music Player"
+#~ msgstr "리듬박스 음악 플레이어"
+
+#~ msgid "Everything you need for the office"
+#~ msgstr "사무에 필요한 모든 것을 제공합니다."
+
+#~ msgid "Evince Document Viewer"
+#~ msgstr "Evince 문서 보기"
+
+#~ msgid ""
+#~ "We believe the combination of Ubuntu and GNOME is the best choice for "
+#~ "those looking for a beautiful, simple, and usable operating system."
+#~ msgstr ""
+#~ "우리는 Ubuntu와 GNOME의 조합이 아름답게 보이고, 단순하며, 운영체제 사용성"
+#~ "을 위한 최고의 선택이라고 믿습니다."
+
+#~ msgid "Welcome to Ubuntu GNOME 15.04"
+#~ msgstr "우분투 GNOME 15.04에 오신 것을 환영합니다"
+
+#~ msgid ""
+#~ "Ubuntu GNOME features the GNOME desktop on top of the popular Ubuntu "
+#~ "foundation."
+#~ msgstr ""
+#~ "Ubuntu GNOME는 유명한 Ubuntu 재단의 상위에 있는 GNOME 데스크탑을 갖추고 있"
+#~ "습니다."

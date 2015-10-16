@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
-"PO-Revision-Date: 2014-08-13 13:28+0000\n"
-"Last-Translator: chitko <Unknown>\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
+"PO-Revision-Date: 2015-06-07 08:51+0000\n"
+"Last-Translator: Rockworld <sumoisrock@gmail.com>\n"
 "Language-Team: Burmese <my@li.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
 msgid "Access for everyone"
-msgstr ""
+msgstr "လူတိုင်းအတွက် access"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/accessibility.html:8
@@ -31,6 +31,9 @@ msgid ""
 "colour scheme and text size, Ubuntu makes computing easy – whoever and "
 "wherever you are."
 msgstr ""
+"Ubuntu ရဲ့ဒဿန၏စိတ်နှလုံးမှာကွန်ပျူတာလူတိုင်းအတွက်သောယုံကြည်ချက်ဖြစ်ပါတယ်။ ဘာသာစကား, "
+"အရောင်အစီအစဉ်နှင့်စာသားအရွယ်အစားကိုပြောင်းလဲခေတ်မီအသုံးပြုနိုင်သောကိရိယာများနဲ့ options နှင့်အတူ, Ubuntu "
+"ကိုကွန်ပျူတာလွယ်ကူစေသည် - အကြင်သူသည်နှင့်သင်သွားလေရာရာ၌။"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
@@ -55,7 +58,7 @@ msgstr "ဘာသာစကား အကူအညီ"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "ဝက်ဘ်၏အများဆုံးလုပ်ပါ"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
@@ -101,32 +104,35 @@ msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "မေးခွန်းမေးရန် ရှိပါသလား"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:8
-msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+msgid "Help and support"
 msgstr ""
-"သင်သိလိုသော Ubuntu မေးခွန်းများ အတွက်ဒီမှာကြည့်ပါ <a href=\"http://askubuntu.com/"
-"\">askubuntu.com</a>။သင်မေးခွန်းများကို ဖြေပြီး / မပြီး ကြည့်၍ မဖြေရသေးပါက သင် ကို "
-"ထောင်ပေါင်းများစွာသော ကူညီပေးလိုသော လူများမှ အကူအညီကိုရယူပါ။ ဒီထက်ပိုမိုသောအထောက်အပံ့များကိုရယူလိုပါက  "
-"<a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "ကဲ Ubuntu အကြောင်းပြောရအောင်!"
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:7
+msgid ""
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System meny."
+msgstr ""
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "ကျနော် #Ubuntu သွင်းနေပြီလေ!"
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:9
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:11
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -141,6 +147,10 @@ msgid ""
 "CDs and portable music players, so you can enjoy all your music wherever you "
 "go."
 msgstr ""
+"Ubuntu မှာအံ့သြစရာကောင်းတဲ့ Rhythmbox တေးဂီတနှင့်အတူကြွလာ။ အဆင့်မြင့်ပြန်ဖွင့် options "
+"များနှင့်အတူကပြီးပြည့်စုံသောသီချင်းများကိုတန်းစီဖို့လွယ်ကူပါတယ်။ "
+"သင်သွားလေရာရာ၌သင်တို့ရှိသမျှကိုသင်၏ဂီတကိုခံစားနိုင်အောင်ပြုလုပ်, CD "
+"နှင့်အိတ်ဆောင်သီချင်းဖွင်ကစားသမားနှင့်အတူကြီးစွာအလုပ်လုပ်ပါတယ်။"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:15
@@ -159,6 +169,10 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"LibreOffice သင်စာရွက်စာတမ်းများ, spreadsheet "
+"နှင့်တင်ပြချက်များကိုဖန်တီးရန်လိုအပ်ပါတယ်အရာအားလုံးနှင့်အတူသိပ်သည်းတဲ့အခမဲ့ Office suite တစ်ခုဖြစ်ပါတယ်။ "
+"Microsoft Office ဖိုင် Format နှင့်အတူလိုက်ဖက်တဲ့ကြောင့်စျေးနှုန်း tag "
+"ကိုမပါဘဲသင်လိုအပ်သမျှအင်္ဂါရပ်များကိုပေးသည်။"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
@@ -222,11 +236,16 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
+"ဆော့ဖ်ဝဲအသစ်တွေသည်ဝက်ဘ်ရှာဖွေခြင်းမှနှုတ်ဆက်ပြောပါတယ်။ Ubuntu Software Center "
+"ကဖြင့်သင်သည်ငြိမ်ဝပ်နှင့်အတူအသစ် apps တွေရှာပြီး install လုပ်နိုင်ပါတယ်။ "
+"ရုံသင်တို့အဘို့အစောင့်ကြည့်နေတာဘာကိုရိုက်ထည့်ပါ, "
+"သို့မဟုတ်အခြားအသုံးပြုသူများထံမှအထောက်အကူပြန်လည်သုံးသပ်ခြင်းနှင့်အတူထိုကဲ့သို့သောသိပ္ပံ, "
+"ပညာရေးနှင့်အားကစားပြိုင်ပွဲအဖြစ်အမျိုးအစားများကိုလေ့လာစူးစမ်း။"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "Ubuntu ကိုမှလှိုက်လှဲစွာကြိုဆိုပါသည်"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
@@ -234,3 +253,21 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
+"Fast and features အသစ်အပြည့်အဝ, Ubuntu ကိုရဲ့နောက်ဆုံးထွက်ဗားရှင်းကိုယခင်ကထက်ပိုမိုလွယ်ကူကွန်ပျူတာစေသည်။ "
+"ဒီနေရာတွင်ထွက်သည်ကိုကြည့်ဖို့ပဲအနည်းငယ်အေးမြအသစ်သောအရာများမှာ ..."
+
+#~ msgid "Any questions?"
+#~ msgstr "မေးခွန်းမေးရန် ရှိပါသလား"
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "သင်သိလိုသော Ubuntu မေးခွန်းများ အတွက်ဒီမှာကြည့်ပါ <a href=\"http://askubuntu.com/"
+#~ "\">askubuntu.com</a>။သင်မေးခွန်းများကို ဖြေပြီး / မပြီး ကြည့်၍ မဖြေရသေးပါက သင် ကို "
+#~ "ထောင်ပေါင်းများစွာသော ကူညီပေးလိုသော လူများမှ အကူအညီကိုရယူပါ။ "
+#~ "ဒီထက်ပိုမိုသောအထောက်အပံ့များကိုရယူလိုပါက  <a href=\"http://www.ubuntu.com/support"
+#~ "\">ubuntu.com/support</a>."

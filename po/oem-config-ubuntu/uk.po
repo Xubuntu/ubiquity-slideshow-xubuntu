@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
-"PO-Revision-Date: 2015-02-17 05:58+0000\n"
+"POT-Creation-Date: 2015-09-07 10:52+0300\n"
+"PO-Revision-Date: 2015-09-12 09:44+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -107,34 +107,47 @@ msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Є питання?"
+msgid "Help and support"
+msgstr "Довідка і підтримка"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:8
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:7
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System meny."
 msgstr ""
-"Перегляньте <a href=\"http://askubuntu.com/\">askubuntu.com</a>, щоб "
-"отримати відповіді на усі ваші питання щодо Ubuntu. Існує велика ймовірність "
-"того, що на ваше питання вже є готова відповідь. У іншому випадку знайдуться "
-"тисячі добровольців, які прагнуть вам допомогти. Для більших можливостей "
-"підтримки, перейдіть до <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"У <span class=\"app\" data-app=\"docs\">офіційній документації</span> "
+"описано більшість основних моментів щодо користування Ubuntu. Для перегляду "
+"документації ви можете скористатися <a href=\"https://help.ubuntu.com"
+"\">інтернетом</a> або пунктом «Довідка з Ubuntu» у меню «Система»."
+
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:9
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+"На сайті <a href=\"http://askubuntu.com\">Ask Ubuntu</a> ви можете задати "
+"питання або ознайомитися із широкою збіркою питань, на які вже дано "
+"відповіді. Підтримка вашою рідною мовою може надаватися відповідною <a href="
+"\"http://loco.ubuntu.com/teams/\">Командою місцевої спільноти</a>."
+
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:11
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
 "support</a>."
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Давайте обговоримо Ubuntu"
-
-#. type: Content of: <div><div><div><div>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Я встановлюю #Ubuntu!"
+msgstr ""
+"Посилання на інші корисні ресурси можна знайти на сторінках <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> і <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:2
@@ -259,14 +272,19 @@ msgstr ""
 "користування комп’ютером легше, ніж будь-коли. Тут є декілька нових речей, "
 "на які слід подивитися..."
 
-#~ msgid "Welcome"
-#~ msgstr "Ласкаво просимо!"
+#~ msgid "Any questions?"
+#~ msgstr "Є питання?"
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 14.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is configured, this slideshow will show you around."
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 #~ msgstr ""
-#~ "Дякуємо вам за вибір Ubuntu 14.04. У цій версії є деякі цікаві зміни, у "
-#~ "тому числі повністю перероблений інтерфейс стільниці Unity. У той час як "
-#~ "Ubuntu  налаштовується, це слайд-шоу покаже вам це."
+#~ "Перегляньте <a href=\"http://askubuntu.com/\">askubuntu.com</a>, щоб "
+#~ "отримати відповіді на усі ваші питання щодо Ubuntu. Існує велика "
+#~ "ймовірність того, що на ваше питання вже є готова відповідь. У іншому "
+#~ "випадку знайдуться тисячі добровольців, які прагнуть вам допомогти. Для "
+#~ "більших можливостей підтримки, перейдіть до <a href=\"http://www.ubuntu."
+#~ "com/support\">ubuntu.com/support</a>."

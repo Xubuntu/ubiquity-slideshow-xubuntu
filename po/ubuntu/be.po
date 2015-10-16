@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
-"PO-Revision-Date: 2014-03-18 21:59+0000\n"
-"Last-Translator: Mikhail_SaTuRn <mikhail_saturn@tut.by>\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
+"PO-Revision-Date: 2015-10-13 15:00+0000\n"
+"Last-Translator: Siamion Šachalevič <semen.shah@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -31,21 +31,21 @@ msgid ""
 "colour scheme and text size, Ubuntu makes computing easy – whoever and "
 "wherever you are."
 msgstr ""
-"Ідэяй філасофіі Ubuntu з'яўляецца вера ў тое, што кампутары павінны быць "
-"даступны для ўсіх. З палепшанымі спецыяльнымі магчымасцямі і параметрамі для "
-"замены мовы, каляровай схемы і памеру тэксту, Ubuntu робіць працу на "
-"кампутары простай для кожнага - кім бы вы ні былі, і дзе б вы ні "
+"Ідэяй філасофіі Ubuntu з'яўляецца вера ў тое, што камп'ютары павінны быць "
+"даступны для ўсіх. З палепшанымі тэхналогіямі даступнасці і параметрамі для "
+"змены мовы, каляровай схемы і памеру тэксту, Ubuntu робіць працу на "
+"камп'ютары простай для кожнага - кім бы вы ні былі і дзе б вы ні "
 "знаходзіліся."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
 msgid "Customization options"
-msgstr "Наладкі параметраў"
+msgstr "Настáўленне параметраў"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:16
 msgid "Appearance"
-msgstr "Знешні выгляд"
+msgstr "Вонкавы выгляд"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:20
@@ -70,10 +70,10 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
-"Ubuntu пастаўляецца з Firefox, браўзэрам, што выкарыстоўваюцца мільёнамі "
-"людзей па ўсім свеце. Вэб-прыкладанні, якімі Вы часта карыстаецеся "
-"(напрыклад Facebook альбо Gmail), могуць быць размешчаны на рабочым стале. "
-"Атрымайце да іх доступ, як да звычайных праграм."
+"Ubuntu пастаўляецца з Firefox, браўзэрам, якім карыстаюцца мільёны людзей па "
+"ўсім свеце. Вэб-праграмы, якімі вы часта карыстаецеся (напрыклад Facebook ці "
+"Gmail), можна размясціць на стале. Атрымлівайце да іх доступ, як да "
+"звычайных праграм."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -92,12 +92,12 @@ msgstr "Вэб-браўзэр Firefox"
 #: slideshows/ubuntu/slides/browse.html:19
 #: slideshows/ubuntu/slides/photos.html:19
 msgid "Supported software"
-msgstr "Падтрымліваемыя праграмы"
+msgstr "Можна ўсталяваць"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:23
 msgid "Flash"
-msgstr "Флэш"
+msgstr "Flash"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:27
@@ -106,39 +106,52 @@ msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Паўсталі пытанні?"
+msgid "Help and support"
+msgstr "Дапамога і падтрымка"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:8
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:7
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System meny."
 msgstr ""
-"Наведайце <a href=\"http://askubuntu.com/\">askubuntu.com</a>, каб атрымаць "
-"адказы на ўсе пытанні, якія тычацца Ubuntu. Ёсць верагоднасць, што адказ на "
-"Вашае пытанне ўжо існуе, калі гэта не так, вы зможаце знайсці тысячы "
-"добраахвотнікаў, гатовых дапамагчы Вам. Дадатковыя варыянты падтрымкі "
-"прадстаўлены па адрасе <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"<span class=\"app\" data-app=\"docs\">афіцыйнай дакументацыі</span>апісаная "
+"большасць грунтоўных момантаў па выкарыстанні Ubuntu. Для прагляду "
+"дакументацыі можна скарыстацца <a href=\"https://help.ubuntu.com"
+"\">інтэрнэтам</a> або пунктам «Даведка з Ubuntu» ў меню «Сістэма»."
+
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:9
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+"На сайце <a href=\"http://askubuntu.com\">Ask Ubuntu</a>вы можаце задаць "
+"пытанне або азнаёміцца з шырокім зборнікам пытанняў, на якія ўжо дадзеныя "
+"адказы. Падтрымка на вашай роднай мове можа прадастаўляцца адпаведнай <a "
+"href=\"http://loco.ubuntu.com/teams/\">Камандай мясцовай супольнасці</a>."
+
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:11
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
 "support</a>."
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Давайце пагутарым аб Ubuntu"
-
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Я ўсталёўваю #Ubuntu!"
+msgstr ""
+"Спасылкі на іншыя карысныя рэсурсы можна знайсці на старонках <a href="
+"\"http://community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> ці <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
 msgid "Take your music with you"
-msgstr "Музыка цяпер заўжды побач"
+msgstr "Бярыце музыку з сабой"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/music.html:7
@@ -148,11 +161,10 @@ msgid ""
 "CDs and portable music players, so you can enjoy all your music wherever you "
 "go."
 msgstr ""
-"У склад Ubuntu ўваходзіць выдатны музычны прайгравальнік Rhythmbox. З яго "
-"пашыранымі опцыямі прайгравання вельмі проста стварыць спіс прайгравання з "
-"упадабаных музычных кампазіцый. Ён выдатна працуе з кампакт-дыскамі і "
-"партатыўнымі аўдыяплэерамі, так што цяпер Вы зможаце атрымліваць асалоду ад "
-"музыкай, куды б вы ні пайшлі."
+"У склад Ubuntu ўваходзіць цудоўна музычны плэер Rhythmbox. З яго пашыранымі "
+"опцыямі прайгравання вельмі проста стварыць плэйліст з упадабаных музычных "
+"кампазіцый. Ён выдатна працуе з кампакт-дыскамі і партатыўнымі аўдыяплэерамі "
+"- вы зможаце атрымліваць асалоду ад музыкі, куды б вы ні пайшлі."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:15
@@ -171,10 +183,10 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
-"LibreOffice - свабодны камплект офісных прыкладанняў, у склад якога "
-"ўваходзіць усё неабходнае для стварэння дакументаў, электронных табліц і "
-"прэзентацый. Сумяшчальны з фарматамі Microsoft Office, ён дае Вам усе "
-"неабходныя магчымасці, і ў той жа час абсалютна бясплатны."
+"LibreOffice - свабодны камплект офісных праграм, у склад якога ўваходзіць "
+"усё неабходнае для стварэння дакументаў, электронных табліц і прэзентацый. "
+"Сумяшчальны з фарматамі Microsoft Office, ён дае вам усе неабходныя "
+"магчымасці бясплатна."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
@@ -194,7 +206,7 @@ msgstr "LibreOffice Impress"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
 msgid "Have fun with your photos"
-msgstr "Атрымлівайце асалоду ад Вашых фотаздымкаў"
+msgstr "Цешцеся фотаздымкамі"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/photos.html:8
@@ -204,15 +216,15 @@ msgid ""
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
 "from the Ubuntu Software Center."
 msgstr ""
-"Shotwell - гэта зручны мэнэджар фотаздымкаў. Падлучыце фотаапарат альбо "
-"тэлефон, скапіруйце фатаграфіі ў бібліятэку для бяспечнага захоўвання і "
-"хуткага доступу. Паспрабуйце таксама мноства прыкладанняў для рэдагавання "
-"здымкаў у Праграмным цэнтры Ubuntu, калі Вы лічыце сябе творчай асобай ;)"
+"Shotwell - гэта зручны кіраўнік фотаздымкаў. Падлучыце фотаапарат альбо "
+"тэлефон, скапіюйце здымкі ў бібліятэку для бяспечнага захоўвання і хуткага "
+"доступу. Таксама можаце паспрабаваць мноства праграм для рэдагавання здымкаў "
+"у Праграмным цэнтры Ubuntu, калі пачуваеце сябе творчай асобай."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
 msgid "Shotwell Photo Manager"
-msgstr "Мэнэджар здымкаў Shotwell"
+msgstr "Кіраўнік фотаздымкаў Shotwell"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:23
@@ -222,7 +234,7 @@ msgstr "Рэдактар графікі GIMP"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
 msgid "Pitivi Video Editor"
-msgstr "Відэа рэдактар Pitivi"
+msgstr "Відэарэдактар Pitivi"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
@@ -238,15 +250,14 @@ msgid ""
 "Games, alongside helpful reviews from other users."
 msgstr ""
 "Развітайцеся з пошукам новых праграм у інтэрнэце. Праграмны цэнтр Ubuntu "
-"прапануе Вам пошук і простую ўсталёўку праграм. Калі ласка, увядзіце "
-"пошукавы запыт альбо азнаёмцеся з разнастайнымі катэгорыямі прыкладанняў, "
-"такімі як навука, адукацыя, гульні...  Чытайце водгукі карыстальнікаў на "
-"праграмы."
+"прапануе пошук і ўсталяванне праграм у адным месцы. Проста набярыце ў полі "
+"ўводу тое, што вам трэба, або паглядзіце ў катэгорыях, такіх як навука, "
+"адукацыя, гульні. Чытайце водгукі карыстальнікаў на праграмы."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "Вітаем у Ubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
@@ -254,8 +265,23 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
-"Хуткая і сучасная, апошняя версія Ubuntu спрашчае працу за кампутарам. Тут "
-"пералічаны некаторыя новыя магчымасці ..."
+"Хуткая і поўная новых магчымасцяў, найноўшая версія Ubuntu робіць карыстанне "
+"камп'ютарам лягчэйшым, чым калі-небудзь. Тут ёсць некалькі новых рэчаў, якія "
+"варта паглядзець..."
 
-#~ msgid "Welcome to Ubuntu 14.04"
-#~ msgstr "Сардэчна запрашаем у Ubuntu 14.04"
+#~ msgid "Any questions?"
+#~ msgstr "Паўсталі пытанні?"
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "Наведайце <a href=\"http://askubuntu.com/\">askubuntu.com</a>, каб "
+#~ "атрымаць адказы на ўсе пытанні наконт Ubuntu. Ёсць імавернасць, што адказ "
+#~ "на вашае пытанне ўжо існуе. Калі гэта не так, вы знойдзеце тысячы "
+#~ "добраахвотнікаў, гатовых дапамагчы вам. Дадатковыя варыянты падтрымкі "
+#~ "ёсць па адрасе <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a>."

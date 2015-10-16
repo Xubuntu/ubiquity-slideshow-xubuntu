@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
-"PO-Revision-Date: 2015-04-01 18:14+0000\n"
-"Last-Translator: 박정규(Jung-Kyu Park) <bagjunggyu@gmail.com>\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
+"PO-Revision-Date: 2015-09-25 01:00+0000\n"
+"Last-Translator: Jung-Kyu Park <bagjunggyu@gmail.com>\n"
 "Language-Team: Korean <ko@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:29+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,8 +25,8 @@ msgstr "주분투에 오신 걸 환영합니다"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "Congratulations, you have chosen to install Xubuntu 15.04!"
-msgstr "축하합니다, 주분투 15.04를 설치하시기로 선택하셨군요!"
+msgid "Congratulations, you have chosen to install Xubuntu 15.10!"
+msgstr "축하합니다, 주분투 15.10을 설치하기로 결정하셨군요!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:8
@@ -37,7 +37,7 @@ msgid ""
 msgstr ""
 "지금  <em>주분투 맛보기(Try Xubuntu)</em> 를 통해서. 설치하고 계시면, 주분투"
 "를 설치하시는 동안 마음껏 여러 가지를 살펴보세요. 설치를 마친 후에도, 지금 살"
-"펴보시는 데스크톱과 크게 다르지 않습니다."
+"펴보시는 데스크탑과 크게 다르지 않습니다."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_defaultapps.html:2
@@ -52,9 +52,9 @@ msgid ""
 "screen. You can install more through the <span class=\"app\" data-app=\"usc"
 "\">Ubuntu Software Center</span>."
 msgstr ""
-"여러분의 편의를 위해서 미리 설치된 주분투 프로그램들의 간단 목록입니다. 화면 "
-"왼쪽 상단의 메뉴에서 찾아보세요. 더 많은 프로그램은 <span class=\"app\" data-"
-"app=\"usc\">우분투 소프트웨어 센터</span>에서 설치하실 수 있습니다."
+"여러분의 편의를 위해서 미리 설치된 주분투 프로그램들의 간단한 목록입니다. 화"
+"면 왼쪽 상단의 메뉴에서 찾아보세요. 더 많은 프로그램은 <span class=\"app\" "
+"data-app=\"usc\">우분투 소프트웨어 센터</span>에서 설치하실 수 있습니다."
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/01_defaultapps.html:10
@@ -84,13 +84,13 @@ msgstr "오피스"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:15
-msgid "<strong>AbiWord</strong>, word processor"
-msgstr "<strong>아비워드(Abiword)</strong>, 워드 프로세서"
+msgid "<strong>LibreOffice Writer</strong>, word processor"
+msgstr "<strong>LibreOffice Writer</strong>, 워드프로세서"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:16
-msgid "<strong>Gnumeric</strong>, spreadsheet editor"
-msgstr "<strong>그누메릭(Gnumeric)</strong>, 스프레드시트 편집기"
+msgid "<strong>LibreOffice Calc</strong>, spreadsheet editor"
+msgstr "<strong>LibreOffice Calc</strong>, 스프레드시트 편집기"
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/01_defaultapps.html:19
@@ -154,12 +154,10 @@ msgstr ""
 #: slideshows/xubuntu/slides/02_personalize.html:8
 msgid ""
 "Your profile information will automatically be picked up by supported "
-"applications like Pidgin, Abiword, Gnumeric and LibreOffice."
+"applications like Pidgin, LibreOffice Writer and Calc."
 msgstr ""
-"프로필 이미지와 세부 정보를 <span class=\"app\" data-app=\"mugshot\">머그샷</"
-"span>으로 쉽게 설정하실 수 있습니다. 여러분의 프로필 정보는 피진(Pidgin), 아"
-"비워드(Abiword), 그누메릭(Gnumeric) 와 리브레오피스(LibreOffice) 같은 지원 프"
-"로그램에서 자동으로 사용하게 됩니다."
+"여러분의 프로필 정보는 자동으로 수집되어 피진, 리브레오피스 라이터 및 엑셀에 "
+"사용됩니다."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_personalize.html:13
@@ -178,7 +176,7 @@ msgid ""
 "most common places on your system. In addition, you will see a single, "
 "multipurpose, panel at the top of the screen."
 msgstr ""
-"바탕화면에 보시면 시스템의 가장 일반적의 위치에 접근 가능한 아이콘들을 보실 "
+"바탕화면에 보시면 시스템의 가장 일반적인 위치에 접근 가능한 아이콘들을 보실 "
 "수 있습니다, 화면 상단에는 하나 또는, 다중 목적의, 패널을 보실 수 있습니다."
 
 #. type: Attribute 'alt' of: <div><div><img>
@@ -192,8 +190,8 @@ msgid ""
 "On the left hand side, you will see a Xubuntu logo. Click it to open the "
 "main menu. We will tell you more about this menu in the next slide."
 msgstr ""
-"외편에는, 주분투 로고가 있습니다. 클릭하시면 주메뉴를 엽니다. 다음 슬라이드에"
-"서 이 메뉴에 관해서 좀 더 설명해 드리겠습니다."
+"왼편에는, 주분투 로고가 있습니다. 클릭하시면 주메뉴를 엽니다. 다음 슬라이드에"
+"서 이 메뉴에 관해 좀 더 설명해 드리겠습니다."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/03_desktop.html:18
@@ -241,12 +239,12 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:8
 msgid ""
-"Control the look of your window borders, how the windows itself looks and "
-"the looks of your icons with the <span class=\"app\" data-app=\"theme-config"
-"\">Theme Configuration</span> utility."
+"Control the look of your window borders, how the windows themselves look and "
+"the appearance of your icons with the <span class=\"app\" data-app=\"theme-"
+"config\">Theme Configuration</span> utility."
 msgstr ""
-"창 가장자리 생김을 조절해보세요, 창과 아이콘이 어떻게 보이나 <span class="
-"\"app\" data-app=\"theme-config\">테마 설정</span> 도구로 조절해 보세요."
+"<span class=\"app\" data-app=\"theme-config\">Theme Configuration</span>를 이"
+"용해서 창 테두리, 창 자체의 생김과 아이콘 모양을 조절합니다."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:13
@@ -272,8 +270,8 @@ msgid ""
 "\"http://docs.xubuntu.org/\">online</a>."
 msgstr ""
 "가장 일반적인 영역과 주분투에 대한 질문을 많이 다루는 <span class=\"app\" "
-"data-app=\"docs\">공식 문서</span>는 모든 주분투 배포와 함께 제공됩니다. 문서"
-"는 <a href=\"http://docs.xubuntu.org/\">온라인</a> 으로도 제공됩니다."
+"data-app=\"docs\">공식 문서</span>는 주분투 출시 때 함께 제공됩니다. 문서는 "
+"<a href=\"http://docs.xubuntu.org/\">온라인</a> 으로도 제공됩니다."
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/05_support.html:8
@@ -364,133 +362,28 @@ msgstr ""
 "웹사이트의 <a href=\"http://xubuntu.org/devel\">Get Involved</a> 섹션에서 찾"
 "으실 수 있습니다."
 
-#~ msgid ""
-#~ "You can customize the panel by right-clicking the panel and selecting "
-#~ "<em>Panel » Panel Preferences</em>. You can also add and remove panels "
-#~ "using this dialog."
-#~ msgstr ""
-#~ "패널을 취향에 맞게 바꾸시려면 패널을 오른쪽 클릭하셔서 <em>패널 » 패널 환"
-#~ "경 설정</em>에 가세요. 이 설정을 이용해서 패널을 추가 및 제거하실 수 있습"
-#~ "니다."
+#~ msgid "<strong>AbiWord</strong>, word processor"
+#~ msgstr "<strong>아비워드(Abiword)</strong>, 워드 프로세서"
 
-#~ msgid "Congratulations, you have chosen to install Xubuntu 14.04!"
-#~ msgstr "축하합니다, 주분투 14.04를 선택하셨습니다!"
+#~ msgid "<strong>Gnumeric</strong>, spreadsheet editor"
+#~ msgstr "<strong>그누메릭(Gnumeric)</strong>, 스프레드시트 편집기"
+
+#~ msgid "Congratulations, you have chosen to install Xubuntu 15.04!"
+#~ msgstr "축하합니다, 주분투 15.04를 설치하시기로 선택하셨군요!"
 
 #~ msgid ""
-#~ "If favorites just doesn't do it for you, switch to the <em>Recently Used</"
-#~ "em> view and get a list of the 10 most recent applications you've opened."
+#~ "Your profile information will automatically be picked up by supported "
+#~ "applications like Pidgin, Abiword, Gnumeric and LibreOffice."
 #~ msgstr ""
-#~ "찾는 프로그램이  즐겨찾기에 없다면,  <em>최근 사용 기록</em> 보기로 바꾸셔"
-#~ "서 10개의 최근 실행 목록을 살펴보세요."
+#~ "프로필 이미지와 세부 정보를 <span class=\"app\" data-app=\"mugshot\">머그"
+#~ "샷</span>으로 쉽게 설정하실 수 있습니다. 여러분의 프로필 정보는 피진"
+#~ "(Pidgin), 아비워드(Abiword), 그누메릭(Gnumeric) 와 리브레오피스"
+#~ "(LibreOffice) 같은 지원 프로그램에서 자동으로 사용하게 됩니다."
 
 #~ msgid ""
-#~ "Search for your applications from within the menu and get them displayed "
-#~ "as a favorites list. Reorder, remove, and add other entries just by right-"
-#~ "clicking on an application result when browsing or searching."
+#~ "Control the look of your window borders, how the windows itself looks and "
+#~ "the looks of your icons with the <span class=\"app\" data-app=\"theme-"
+#~ "config\">Theme Configuration</span> utility."
 #~ msgstr ""
-#~ "메뉴에서 프로그램을 찾으셔서 즐겨찾기에 보내세요. 재설정, 제거, 추가와 다"
-#~ "른 목록에 추가는 브라우징 또는 검색 결과물의 오른쪽 클릭으로 하실 수 있습"
-#~ "니다."
-
-#~ msgid ""
-#~ "Configure the menu just the way you want it with the MenuLibre menu "
-#~ "editor. Add, remove or reorder menu items. Customize launcher behavior "
-#~ "with advanced settings."
-#~ msgstr ""
-#~ "메뉴리브레(MenuLibre)로 원하시는 대로 메뉴를 바꿔보세요. 메뉴 항목을 더하"
-#~ "거나, 빼거나 재정렬 하실 수 있습니다. 고급 설정으로 런처의 동작을 바꾸실 "
-#~ "수 있습니다."
-
-#~ msgid ""
-#~ "Personalize the login greeter with an image of your choosing and add user "
-#~ "details to your profile with Mugshot. Your profile information will "
-#~ "automatically be picked up by supported applications like Pidgin and "
-#~ "LibreOffice."
-#~ msgstr ""
-#~ "선택하신 이미지로 로그인 화면을 바꾸시고 머그샷을 이용해서 사용자 정보에 "
-#~ "더하세요. 여러분의 사용자 정보는 피진이나 리브레오피스 등의 프로그램에서 "
-#~ "자동으로 이용하게 됩니다."
-
-#~ msgid "Keep track of your applications"
-#~ msgstr "프로그램을 찾아보세요"
-
-#~ msgid "Desktop Settings"
-#~ msgstr "데스크톱 설정"
-
-#~ msgid ""
-#~ "Colorize according to your taste! With the newly created theme "
-#~ "configuration tool you can easily fine-tune the looks of some core "
-#~ "aspects of the desktop."
-#~ msgstr ""
-#~ "여러분의 취향에 맞게 색상을 바꿔보세요! 새로 만든 테마 설정 도구를 통해서 "
-#~ "데스크톱 공통 항목을 쉽게 멋지게 바꾸실 수 있습니다."
-
-#~ msgid ""
-#~ "Your desktop background is easy to customize and we're providing you with "
-#~ "a selection of beautiful wallpapers. Choose one of the five winners of "
-#~ "our community wallpaper contest – handpicked for you!"
-#~ msgstr ""
-#~ "컴퓨터 배경화면은 쉽게 설정하실 수 있으며 우리는 여러분에게 아름다운 배경"
-#~ "화면 모음을 제공해 드리고 있습니다. 커뮤니티 월페이퍼 콘테스트에서 입상한 "
-#~ "5개의 배경 화면중에서 하나 선택해보세요 - 여러분을 위해 고른 것입니다!"
-
-#~ msgid ""
-#~ "Here is a brief list of some applications that are preinstalled with "
-#~ "Xubuntu for your convenience. Find them in the menu on the left top "
-#~ "corner of your screen. You can install more through the <em>Ubuntu "
-#~ "Software Center</em>."
-#~ msgstr ""
-#~ "여기 여러분의 편의를 위해서 주분투에 미리 설치된 프로그램들 간단 목록이 있"
-#~ "습니다. 화면의 왼쪽 위에 있는 메뉴에서 찾아보세요. 더 많은 프로그램은 <em>"
-#~ "우분투 소프트웨어 센터</em>를 통해서 설치하실 수 있습니다."
-
-#~ msgid ""
-#~ "Xubuntu will always come without fees; feel free to pass on your "
-#~ "installation media and let others try Xubuntu as well."
-#~ msgstr ""
-#~ "주분투는 언제나 무료로 여러분들과 만날 겁니다; 마음껏 여러분의 설치 장치"
-#~ "에 담아서 다른 분들도 함께 주분투를 시도해 보게 하세요."
-
-#~ msgid ""
-#~ "The main support channel is English only. For support in other languages, "
-#~ "view the full list of <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/"
-#~ "Local\">local support channels</a>."
-#~ msgstr ""
-#~ "메인 지원 채널은 영어만 가능합니다. 다른 언어로의 지원은, 전체 목록은 살펴"
-#~ "보세요 <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local "
-#~ "support channels</a>."
-
-#~ msgid ""
-#~ "For live, online support, join our IRC channel, <em>#xubuntu</em>, by <a "
-#~ "href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
-#~ "&prompt=1\">clicking here</a>."
-#~ msgstr ""
-#~ "실시간, 온라인 지원은, 우리 IRC 채널에 접속하세요, <em>#xubuntu</em>, by "
-#~ "<a href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
-#~ "&prompt=1\">clicking here</a>."
-
-#~ msgid ""
-#~ "The documentation is also available online at <a href=\"http://docs."
-#~ "xubuntu.org/\">docs.xubuntu.org</a>."
-#~ msgstr ""
-#~ "문서는 다음 온라인상에서도 찾아보실 수 있습니다 <a href=\"http://docs."
-#~ "xubuntu.org/\">docs.xubuntu.org</a>."
-
-#~ msgid ""
-#~ "We'd love to hear about your experiences with Xubuntu. You can share them "
-#~ "on the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-#~ "\">Xubuntu users mailing list</a>. In the meantime, thanks for taking the "
-#~ "time to install Xubuntu with us."
-#~ msgstr ""
-#~ "우리는 여러분의 주분투 경험담을 듣는것을 좋아합니다. 경험담을 이곳에서 함"
-#~ "께 나눠 보세요 <a href=\"https://lists.ubuntu.com/mailman/listinfo/"
-#~ "xubuntu-users\">Xubuntu users mailing list</a>. 그리고 한편, 우리와 함께 "
-#~ "주분투 설치에 시간을 내어 주셔서 감사합니다."
-
-#~ msgid ""
-#~ "The Official Documentation that covers many of the most common areas and "
-#~ "questions about Xubuntu is shipped with every Xubuntu release. Find it by "
-#~ "clicking on Help on the main menu."
-#~ msgstr ""
-#~ "가장 일반적인 영역과 주분투에 대한 질문을 많이 다루는 공식 문서는 모든 주"
-#~ "분투 배포와 함께 제공됩니다. 주메뉴에서 도움말을 클릭하여 찾아주세요."
+#~ "창 가장자리 생김을 조절해보세요, 창과 아이콘이 어떻게 보이나 <span class="
+#~ "\"app\" data-app=\"theme-config\">테마 설정</span> 도구로 조절해 보세요."

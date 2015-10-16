@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
-"PO-Revision-Date: 2014-08-15 02:46+0000\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
+"PO-Revision-Date: 2015-04-30 06:30+0000\n"
 "Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:29+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,7 +25,7 @@ msgstr "歡迎使用 Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "Congratulations, you have chosen to install Xubuntu 15.04!"
+msgid "Congratulations, you have chosen to install Xubuntu 15.10!"
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -35,11 +35,13 @@ msgid ""
 "feel free to examine things as Xubuntu installs. After the installation, the "
 "desktop will look similar to how it does now."
 msgstr ""
+"如以<em>試用 Xubuntu</em> 選項執行安裝，當 Xubuntu 安裝時請盡情把玩。安裝完成"
+"後，桌面會和現在看到的差不多。"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_defaultapps.html:2
 msgid "Ready to go!"
-msgstr ""
+msgstr "出發！"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:7
@@ -58,7 +60,7 @@ msgstr "網際網路"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:11
 msgid "<strong>Firefox</strong>, web browser"
-msgstr ""
+msgstr "<strong>Firefox</strong>，網路瀏覽器"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:12
@@ -77,12 +79,12 @@ msgstr "辦公軟體"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:15
-msgid "<strong>AbiWord</strong>, word processor"
+msgid "<strong>LibreOffice Writer</strong>, word processor"
 msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:16
-msgid "<strong>Gnumeric</strong>, spreadsheet editor"
+msgid "<strong>LibreOffice Calc</strong>, spreadsheet editor"
 msgstr ""
 
 #. type: Content of: <div><div><h2>
@@ -127,7 +129,7 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:28
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "Ubuntu 軟體中心"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_personalize.html:2
@@ -145,7 +147,7 @@ msgstr ""
 #: slideshows/xubuntu/slides/02_personalize.html:8
 msgid ""
 "Your profile information will automatically be picked up by supported "
-"applications like Pidgin, Abiword, Gnumeric and LibreOffice."
+"applications like Pidgin, LibreOffice Writer and Calc."
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -216,9 +218,9 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:8
 msgid ""
-"Control the look of your window borders, how the windows itself looks and "
-"the looks of your icons with the <span class=\"app\" data-app=\"theme-config"
-"\">Theme Configuration</span> utility."
+"Control the look of your window borders, how the windows themselves look and "
+"the appearance of your icons with the <span class=\"app\" data-app=\"theme-"
+"config\">Theme Configuration</span> utility."
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -318,8 +320,11 @@ msgid ""
 "Involved</a> section of our website."
 msgstr ""
 
-#~ msgid "Congratulations, you have chosen to install Xubuntu 14.04!"
-#~ msgstr "恭喜，您選擇了安裝 Xubuntu 14.04！"
+#~ msgid "<strong>Gnumeric</strong>, spreadsheet editor"
+#~ msgstr "<strong>Gnumeric</strong>，試算表"
 
-#~ msgid "Desktop Settings"
-#~ msgstr "桌面設定"
+#~ msgid "Congratulations, you have chosen to install Xubuntu 15.04!"
+#~ msgstr "感謝選用 Xubuntu 15.04！"
+
+#~ msgid "<strong>AbiWord</strong>, word processor"
+#~ msgstr "<strong>AbiWord</strong>，文書處理"

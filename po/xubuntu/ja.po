@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
 "PO-Revision-Date: 2014-04-01 13:33+0000\n"
 "Last-Translator: Kiyotaka Nemoto <Unknown>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,7 +25,7 @@ msgstr "Xubuntuにようこそ"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "Congratulations, you have chosen to install Xubuntu 15.04!"
+msgid "Congratulations, you have chosen to install Xubuntu 15.10!"
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -80,13 +80,13 @@ msgstr "オフィス"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:15
-msgid "<strong>AbiWord</strong>, word processor"
-msgstr "<strong>AbiWord</strong> ワードプロセッサー"
+msgid "<strong>LibreOffice Writer</strong>, word processor"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:16
-msgid "<strong>Gnumeric</strong>, spreadsheet editor"
-msgstr "<strong>Gnumeric</strong> 表計算エディター"
+msgid "<strong>LibreOffice Calc</strong>, spreadsheet editor"
+msgstr ""
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/01_defaultapps.html:19
@@ -130,7 +130,7 @@ msgstr "<b>»</b>"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:28
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "Ubuntuソフトウェアセンター"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_personalize.html:2
@@ -148,7 +148,7 @@ msgstr ""
 #: slideshows/xubuntu/slides/02_personalize.html:8
 msgid ""
 "Your profile information will automatically be picked up by supported "
-"applications like Pidgin, Abiword, Gnumeric and LibreOffice."
+"applications like Pidgin, LibreOffice Writer and Calc."
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -227,9 +227,9 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:8
 msgid ""
-"Control the look of your window borders, how the windows itself looks and "
-"the looks of your icons with the <span class=\"app\" data-app=\"theme-config"
-"\">Theme Configuration</span> utility."
+"Control the look of your window borders, how the windows themselves look and "
+"the appearance of your icons with the <span class=\"app\" data-app=\"theme-"
+"config\">Theme Configuration</span> utility."
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -334,134 +334,8 @@ msgstr ""
 "複数あります。私たちのウェブサイトの <a href=\"http://xubuntu.org/devel"
 "\">Get Involved</a>セクションをご覧ください。"
 
-#~ msgid "Congratulations, you have chosen to install Xubuntu 14.04!"
-#~ msgstr "おめでとうございます、Xubuntu 14.04のインストールを選択しました!"
+#~ msgid "<strong>Gnumeric</strong>, spreadsheet editor"
+#~ msgstr "<strong>Gnumeric</strong> 表計算エディター"
 
-#~ msgid ""
-#~ "The documentation is also available online at <a href=\"http://docs."
-#~ "xubuntu.org/\">docs.xubuntu.org</a>."
-#~ msgstr ""
-#~ "また、ドキュメントは<a href=\"http://docs.xubuntu.org/\">docs.xubuntu."
-#~ "org</a>でオンライン上でも利用可能です。"
-
-#~ msgid ""
-#~ "Search for your applications from within the menu and get them displayed "
-#~ "as a favorites list. Reorder, remove, and add other entries just by right-"
-#~ "clicking on an application result when browsing or searching."
-#~ msgstr ""
-#~ "メニューからアプリケーションを探し出し、お気に入りリストに表示させましょ"
-#~ "う。順番の入れ替え、削除とほかのエントリーの追加は表示か検索中にアプリケー"
-#~ "ションを右クリックするだけです。"
-
-#~ msgid "Keep track of your applications"
-#~ msgstr "アプリケーションを把握"
-
-#~ msgid ""
-#~ "If favorites just doesn't do it for you, switch to the <em>Recently Used</"
-#~ "em> view and get a list of the 10 most recent applications you've opened."
-#~ msgstr ""
-#~ "お気に入りを使用しない場合は、<em>最近使ったもの</em>表示に切り替え、最近"
-#~ "最もよく開いた10のアプリケーションのリストが表示されます。"
-
-#~ msgid ""
-#~ "Configure the menu just the way you want it with the MenuLibre menu "
-#~ "editor. Add, remove or reorder menu items. Customize launcher behavior "
-#~ "with advanced settings."
-#~ msgstr ""
-#~ "MenuLibreメニューエディターでメニューの項目を変更しましょう。メニュー項目"
-#~ "の追加、削除や順序変更ができます。拡張設定でラウンチャーの挙動のカスタマイ"
-#~ "ズもできます。"
-
-#~ msgid ""
-#~ "Personalize the login greeter with an image of your choosing and add user "
-#~ "details to your profile with Mugshot. Your profile information will "
-#~ "automatically be picked up by supported applications like Pidgin and "
-#~ "LibreOffice."
-#~ msgstr ""
-#~ "Mugshotでログイングリーターの画像とユーザーに関する詳細情報をカスタマイズ"
-#~ "しましょう。プロファイル情報はPidginやLibreOfficeといったサポートしている"
-#~ "アプリケーションに自動的に適用されます。"
-
-#~ msgid ""
-#~ "Here is a brief list of some applications that are preinstalled with "
-#~ "Xubuntu for your convenience. Find them in the menu on the left top "
-#~ "corner of your screen. You can install more through the <em>Ubuntu "
-#~ "Software Center</em>."
-#~ msgstr ""
-#~ "これがXubuntuにプレインストールされているアプリケーションの要約です。スク"
-#~ "リーンの左上にあるメニューから見つけることができます。<em>Ubuntuソフトウェ"
-#~ "アセンター</em>からもっとたくさんインストールもできます。"
-
-#~ msgid ""
-#~ "The main support channel is English only. For support in other languages, "
-#~ "view the full list of <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/"
-#~ "Local\">local support channels</a>."
-#~ msgstr ""
-#~ "主なサポートチャンネルは英語のみです。ほかの言語でのサポートが必要なら、 "
-#~ "<a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">各言語のサポート"
-#~ "チャンネル</a> にすべてのリストがあります。"
-
-#~ msgid ""
-#~ "For live, online support, join our IRC channel, <em>#xubuntu</em>, by <a "
-#~ "href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
-#~ "&prompt=1\">clicking here</a>."
-#~ msgstr ""
-#~ "リアルタイムでオンラインサポートが必要であれば、IRCチャンネルにログインし"
-#~ "てください。 <a href=\"http://webchat.freenode.net/?"
-#~ "channels=xubuntu&nick=xubuntu...&prompt=1\">ここをクリックして</a> "
-#~ "<em>#xubuntu</em> です。"
-
-#~ msgid ""
-#~ "The Official Documentation that covers many of the most common areas and "
-#~ "questions about Xubuntu is shipped with every Xubuntu release. Find it by "
-#~ "clicking on Help on the main menu."
-#~ msgstr ""
-#~ "共通の領域をカバーする、Xubuntuに関する疑問はXubuntuリリースごとに公式のド"
-#~ "キュメントとして提供されています。メインメニューのヘルプをクリックしてくだ"
-#~ "さい。"
-
-#~ msgid ""
-#~ "You can customize the panel by right-clicking the panel and selecting "
-#~ "<em>Panel » Panel Preferences</em>. You can also add and remove panels "
-#~ "using this dialog."
-#~ msgstr ""
-#~ "パネルをカスタマイズするにはパネル上で右クリックし、 <em>パネル » パネルの"
-#~ "設定</em>を選んでください。ここでパネルの追加や削除もできます。"
-
-#~ msgid ""
-#~ "Colorize according to your taste! With the newly created theme "
-#~ "configuration tool you can easily fine-tune the looks of some core "
-#~ "aspects of the desktop."
-#~ msgstr ""
-#~ "あなたの好みに応じて色合いを変えてみましょう！新しいテーマ設定ツールを使え"
-#~ "ば、デスクトップの中核を担う外観を細かく設定することができます。"
-
-#~ msgid ""
-#~ "Your desktop background is easy to customize and we're providing you with "
-#~ "a selection of beautiful wallpapers. Choose one of the five winners of "
-#~ "our community wallpaper contest – handpicked for you!"
-#~ msgstr ""
-#~ "デスクトップの背景は簡単にカスタマイズすることができ、美しい壁紙も用意され"
-#~ "ています。私たちのコミュニティによる壁紙コンテストで上位5人に選ばれた方々"
-#~ "の壁紙を選んでください。選りすぐりです！"
-
-#~ msgid ""
-#~ "Xubuntu will always come without fees; feel free to pass on your "
-#~ "installation media and let others try Xubuntu as well."
-#~ msgstr ""
-#~ "Xubuntuはずっと無料のままです。ご自由にインストールに使ったメディアを他の"
-#~ "方にお渡しいただき、Xubuntuを試してもらってください。"
-
-#~ msgid ""
-#~ "We'd love to hear about your experiences with Xubuntu. You can share them "
-#~ "on the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-#~ "\">Xubuntu users mailing list</a>. In the meantime, thanks for taking the "
-#~ "time to install Xubuntu with us."
-#~ msgstr ""
-#~ "Xubuntuを使ってみた感想をぜひ教えてください。<a href=\"https://lists."
-#~ "ubuntu.com/mailman/listinfo/xubuntu-users\">Xubuntuユーザーメーリングリス"
-#~ "ト</a>で共有できます。Xubuntuをインストールする時間をとっていただきありが"
-#~ "とうございました。"
-
-#~ msgid "Desktop Settings"
-#~ msgstr "デスクトップの設定"
+#~ msgid "<strong>AbiWord</strong>, word processor"
+#~ msgstr "<strong>AbiWord</strong> ワードプロセッサー"

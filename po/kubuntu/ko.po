@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
 "PO-Revision-Date: 2012-04-04 07:31+0000\n"
-"Last-Translator: Park Shinjo <Unknown>\n"
+"Last-Translator: Shinjo Park <Unknown>\n"
 "Language-Team: Korean <ko@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:20+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -37,23 +37,19 @@ msgstr ""
 #: slideshows/kubuntu/slides/accessibility.html:9
 msgid ""
 "You can get at these tools in one place: the <em>Accessibility</em> "
-"preferences, inside the System Settings application from the menu. From "
-"there, you can turn on helpful tools like <em>Modifier Keys</em>, "
-"<em>Keyboard Filters</em>, and <em>Activation Gestures</em>."
+"preferences, inside the Desktop Behavior from the System Settings "
+"application from the menu. From there, you can turn on helpful tools like "
+"<em>Modifier Keys</em>, <em>Keyboard Filters</em>, and <em>Activation "
+"Gestures</em>."
 msgstr ""
-"K 메뉴의 시스템 설정 프로그램에서, <em>내게 필요한 설정</em> 항목으로 들어가"
-"면 여러 접근성 도구를 사용할 수 있습니다.  <em>수정자 키</em>, <em>키보드 필"
-"터</em>, <em>활성화 제스처</em> 등의 도구를 제공합니다."
+"이런 도구들을 한 곳에서 이용하실 수 있습니다: 데스크톱 동작 안의 메뉴의 시스"
+"템 설정 어플, <em><접근성></em>. 그곳에서, <em>키 조합</em>, <em>키보드 필터"
+"</em>,<em>제스쳐 동작</em>등의 유용한 도구들을 실행시킬 수 있습니다."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/accessibility.html:14
-msgid ""
-"Remember to also look over the <em>Appearance Preferences</em>, too. You can "
-"choose between different visual styles and even change the fonts that are "
-"used by applications."
-msgstr ""
-"<em>작업 공간 모양</em> 및 <em>프로그램 모양</em> 설정에서는  시각 스타일, 프"
-"로그램의 글꼴을 변경할 수 있습니다."
+#: slideshows/kubuntu/slides/accessibility.html:13
+msgid "Remember to also look over the <em>Application Style</em>."
+msgstr "<em>어플리케이션 스타일</em>도 잊지 말고 둘러보세요."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/games.html:1
@@ -71,6 +67,11 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/games.html:9
+msgid "You can easily install Steam"
+msgstr "Steam도 쉽게 설치하실 수 있습니다"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/games.html:10
 msgid ""
 "The <em>KDE Software Compilation</em> has quite a few games ranging from "
 "card games to logic games and board games."
@@ -79,11 +80,11 @@ msgstr ""
 "임을 제공합니다."
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:11
+#: slideshows/kubuntu/slides/games.html:12
 msgid ""
 "First Person Shooters, Role Playing Games, and more are also available in "
 "the repositories."
-msgstr ""
+msgstr "슈팅 게임, 롤 플레잉 게임, 과 더 많은 게임들도 저장소에 있습니다."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/get-help.html:1
@@ -107,6 +108,10 @@ msgid ""
 "person and over the Internet. Learn more at <a href=\"http://www.kubuntu.org/"
 "support\">kubuntu.org/support</a>."
 msgstr ""
+"쿠분투에서 제공하는 광범위한 도움말에 더해서, 우분투 커뮤니티와 함께, 쿠분투 "
+"커뮤니티는 인터넷을 통해서 사용자에게 무료 기술 지원을 제공합니다. 이곳에서 "
+"확인해보세요 <a href=\"http://www.kubuntu.org/support\">kubuntu.org/support</"
+"a>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/get-help.html:12
@@ -114,6 +119,8 @@ msgid ""
 "Let us know about your Kubuntu experience at <a href=\"http://www.kubuntu."
 "org/community\">kubuntu.org/community</a>!"
 msgstr ""
+"여러분의 쿠분투 사용경험을 이곳에서 함께 해주세요 <a href=\"http://www."
+"kubuntu.org/community\">kubuntu.org/community</a>!"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/get-involved.html:1
@@ -138,21 +145,21 @@ msgid ""
 "No matter your skill level, getting involved and helping to mold the future "
 "of Kubuntu is easy, and you are more than welcome to help out."
 msgstr ""
-"기술적 수준과는 상관 없이 쿠분투 커뮤니티에 참여하고 쿠분투를 가꾸어 나가는 "
-"것은 어렵지 않습니다."
+"여러분의 기술적 숙련도에 관계없이, 참여하셔서 함께  쿠분투의 미래를 이끌어 가"
+"는 일은 쉽습니다, 함께 하신다면 여러분의 도움은 환영 그 이상입니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/get-involved.html:14
 msgid ""
-"Look over <a href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki."
-"kubuntu.org/Kubuntu/GettingInvolved</a> and see where you might be able to "
-"help out. Remember, it is easy to get involved and the work you do will be "
-"seen by millions of people around the world."
+"Look over <a href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase."
+"kde.org/Kubuntu/Contribute</a> and see where you might be able to help out. "
+"Remember, it is easy to get involved and the work you do will be seen by "
+"millions of people around the world."
 msgstr ""
-"<a href=\"https://wiki.kubuntu.org/Kubuntu/GettingInvolved\">wiki.kubuntu."
-"org/Kubuntu/GettingInvolved</a> 페이지에는 할 수 있는 일이 정리되어 있습니"
-"다. 쿠분투에 참가하는 것을 도와 주고 성과를 공유할 여러 사람들이 전세계에 존"
-"재합니다."
+"아래 사이트를 둘러보시고 <a href=\"https://userbase.kde.org/Kubuntu/"
+"Contribute\">userbase.kde.org/Kubuntu/Contribute</a> 함께 참여하실 만 한 곳"
+"을 찾아보세요. 기억하세요, 참여하기는 쉬우며 여러분의 참여는 전 세계 수백만"
+"의 사용자들이 알아보게 됩니다."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/get-involved.html:20
@@ -197,14 +204,13 @@ msgstr "추가 소프트웨어 설치"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:6
 msgid ""
-"Take a look at <em>Software Management</em> application in the menu under "
-"the System tab. Software Management will allow you to install (and remove) "
-"software from our online repositories, which we carefully organize to be "
-"safe and up to date."
+"Take a look at the <em>Muon Discover</em> application in the menu. Muon "
+"Discover will allow you to install (and remove) software from our online "
+"repositories, which we carefully organize to be safe and up to date."
 msgstr ""
-"시스템 탭 아래 메뉴에 있는 <em>소프트웨어 관리</em>를 주목해 주십시오. 이 프"
-"로그램은 우리가 관리하는 안전하고 최신 소프트웨어를 포함하는 온라인 저장소에"
-"서 소프트웨어를 설치하거나 삭제할 수 있도록 해 줍니다."
+"메뉴의 어플리케이션에서 <em>Muon Discover</em>를 살펴보세요. Muon Discover는 "
+"안전하게 구성하고 업데이트하는, 온라인 저장소에서 소프트웨어를 설치(및 제거) "
+"하실 수 있도록 해줍니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:10
@@ -229,7 +235,7 @@ msgstr ""
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/internet.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "웹을 최대한 활용하십시오"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:5
@@ -237,6 +243,7 @@ msgid ""
 "Kubuntu includes Mozilla Firefox, the web browser used by millions of people "
 "around the world."
 msgstr ""
+"쿠분투는, 전 세계 수백만 명이 사용하는 모질라 파이어 폭스를 싣고 있습니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/internet.html:6
@@ -253,6 +260,8 @@ msgid ""
 "Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
 "installable."
 msgstr ""
+"<em>크로미움</em>이나 <em>리콩</em> 같은 웹브라우저를 쉽게 설치하실 수 있습니"
+"다."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/multimedia.html:1
@@ -314,6 +323,9 @@ msgid ""
 "applications including WordPerfect and Microsoft Office. It uses the "
 "standard OpenDocument format."
 msgstr ""
+"<em>리브레 오피스</em>는 WordPerfect나 Microsoft Office 와 같이 잘 알려진 다"
+"른 오피스 어플리케이션들과도 작업이 가능합니다. 리브레 오피스는 표준 공개 문"
+"서(OpenDocument) 형식을 따릅니다."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/pim.html:1
@@ -358,14 +370,6 @@ msgstr ""
 "<em>KAddressBook</em>을 사용하면 연락처를 정리할 수 있으며, 거의 모든 주소록 "
 "형식으로 연락처를 교환하거나 그룹웨어 서비스와 동기화할 수 있습니다."
 
-#. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/pim.html:17
-msgid ""
-"<em>Kontact</em> is the perfect personal information management integration "
-"for you!"
-msgstr ""
-"<em>Kontact</em>를 사용하여 여러분 주변의 정보를 한 자리에서 관리하십시오!"
-
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/welcome.html:1
 msgid "Welcome"
@@ -374,7 +378,7 @@ msgstr "환영합니다"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:6
 msgid "Thank you for choosing Kubuntu 15.04. We hope you enjoy the experience."
-msgstr ""
+msgstr "쿠분투 15.04를 선택해 주셔서 고맙습니다. 즐거운 경험 되시길 바랍니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:8
@@ -383,6 +387,9 @@ msgid ""
 "they choose, and be free to download, change, study and share their software "
 "with anyone, for any purpose."
 msgstr ""
+"우리는 모든 컴퓨터 사용자들이 그들이 선택한 사용자 환경에서 자유로워야 하며, "
+"다운로드, 교환, 공부하며 그들의 소프트웨어를 모두와, 모든 목적으로 자유로이 "
+"나눌 수 있어야 한다고 믿습니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:11
@@ -390,6 +397,8 @@ msgid ""
 "We want Kubuntu to work for you. So while your software is installing, this "
 "slideshow will introduce you to Kubuntu 15.04."
 msgstr ""
+"쿠분투가 여러분들에게 잘 맞기를 바랍니다. 여러분의 소프트웨어가 설치되는 동"
+"안, 이 슬라이드 쇼는 여러분에게 쿠분투 15.04를 소개해드릴 겁니다."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/welcome.html:15

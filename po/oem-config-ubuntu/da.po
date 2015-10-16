@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
-"PO-Revision-Date: 2015-04-02 01:14+0000\n"
-"Last-Translator: Aputsiaĸ Niels Janussen <aj@isit.gl>\n"
+"POT-Creation-Date: 2015-09-07 10:52+0300\n"
+"PO-Revision-Date: 2015-10-09 13:41+0000\n"
+"Last-Translator: Ask Hjorth Larsen <asklarsen@gmail.com>\n"
 "Language-Team: Danish <da@li.org>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 "X-Poedit-Language: Danish\n"
 
 #. type: Content of: <div><h1>
@@ -106,33 +106,47 @@ msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Nogle spørgsmål?"
+msgid "Help and support"
+msgstr "Hjælp og support"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:8
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:7
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System meny."
 msgstr ""
-"Se <a href=\"http://askubuntu.com/\">askubuntu.com</a> for få svar på alle "
-"dine Ubuntuspørgsmål. Sandsynligvis er dit spørgsmål allerede blevet "
-"besvaret. Hvis ikke, vil der være tusinder af frivillige som er klar til at "
-"hjælpe. Yderligere muligheder for at finde hjælp kan findes på <a href="
-"\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"Den <span class=\"app\" data-app=\"docs\">officielle dokumentation</span> "
+"dækker mange af de mest gængse områder om Ubuntu. Den er tilgængelig både <a "
+"href=\"https://help.ubuntu.com\">på nettet</a> og gennem elementet Ubuntu "
+"Hjælp i systemmenuen."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Lad os snakke Ubuntu"
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:9
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+"På <a href=\"http://askubuntu.com\">Ask Ubuntu</a> kan du stille spørgsmål "
+"og søge i en imponerende samling af spørgsmål som allerede er besvaret. "
+"Hjælp på dit eget sprog kan være tilgængelig gennem dit <a href=\"http://"
+"loco.ubuntu.com/teams/\">lokale fællesskab</a>."
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Jeg installerer #Ubuntu!"
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:11
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
+msgstr ""
+"For henvisninger til andre nyttige ressourcer, så besøg <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> eller <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:2
@@ -255,14 +269,18 @@ msgstr ""
 "nogensinde at bruge din computer. Her er et par fede nyheder at kigge "
 "nærmere på..."
 
-#~ msgid "Welcome"
-#~ msgstr "Velkommen"
+#~ msgid "Any questions?"
+#~ msgstr "Nogle spørgsmål?"
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 14.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is configured, this slideshow will show you around."
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 #~ msgstr ""
-#~ "Tak fordi du valgte Ubuntu 14.04. Denne version byder på spændende "
-#~ "ændringer, herunder en skrivebordsflade som er komplet nydesignet, Unity. "
-#~ "Imens Ubuntu konfigureres, viser dette diasshow dig rundt."
+#~ "Se <a href=\"http://askubuntu.com/\">askubuntu.com</a> for få svar på "
+#~ "alle dine Ubuntuspørgsmål. Sandsynligvis er dit spørgsmål allerede blevet "
+#~ "besvaret. Hvis ikke, vil der være tusinder af frivillige som er klar til "
+#~ "at hjælpe. Yderligere muligheder for at finde hjælp kan findes på <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."

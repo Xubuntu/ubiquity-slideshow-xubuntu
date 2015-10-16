@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
-"PO-Revision-Date: 2014-03-16 16:54+0000\n"
+"POT-Creation-Date: 2015-09-07 10:52+0300\n"
+"PO-Revision-Date: 2015-04-16 12:36+0000\n"
 "Last-Translator: Arun Kumar - அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: Tamil <ta@li.org>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -104,33 +104,35 @@ msgstr "குரோமியம்"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "ஏதேனும் கேள்விகள் உள்ளனவா?"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:8
-msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+msgid "Help and support"
 msgstr ""
-"நீங்க <a href=\"http://askubuntu.com/\">askubuntu.com</a> என்ற இணையப் பக்கத்தில் "
-"சொடுக்கி உங்களைடைய ஐயங்களை தீர்த்துக்கொள்ளலாம். உங்களுடைய கேள்விக்கு ஏற்கனவே பதில் "
-"அங்கிருக்கலாம் அல்லது பால்லாரயிரம் தன்னார்வாளர்கள் பதிலளிக்க்கூடும். மேலும் உதவிக்கு <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> என்ற தளத்தை "
-"அனுகவும்."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "உபுண்டுவைப் பற்றிப் பேசுவோம்"
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:7
+msgid ""
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System meny."
+msgstr ""
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "நான் #உபுண்டுவை நிறுவுகிறேன் !"
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:9
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:11
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:2
@@ -241,7 +243,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "உபுண்டுவிற்கு வரவேற்கிறோம்"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
@@ -249,15 +251,22 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
+"அதிவேகமும் முற்றிலும் பதிய வசதிகளுடனும் உபுண்டுவின் அண்மைய வெளியீடு மிகவும் எளிய "
+"நடையில் இதுவரை இல்லாதவாறு கணினியுகத்தை உருவாக்கிருக்கிறது. நீங்கள் இங்கே பார்ப்பது "
+"புதியவைகளில் சிலவற்றை மட்டுமே..."
 
-#~ msgid "Welcome"
-#~ msgstr "நல்வரவு"
+#~ msgid "Any questions?"
+#~ msgstr "ஏதேனும் கேள்விகள் உள்ளனவா?"
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 14.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is configured, this slideshow will show you around."
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 #~ msgstr ""
-#~ "உபுண்டு 14.04 ஐ தேர்வு செய்தமைக்கு மிக்க நன்றி. இந்த பதிப்பானது முற்றிலும் வேறுபட்ட "
-#~ "உற்ச்சாகமூட்டும் விதத்தில் மாற்றி வடிவமைக்கப்பட்ட யூனிடீ இடைமுகத்தை தரும். உபுண்டு "
-#~ "கணினியை கட்டமைக்கும்பொருட்டு இந்த காட்சியானது பல நுட்பங்களை சுற்றி காண்பிக்கும்."
+#~ "நீங்க <a href=\"http://askubuntu.com/\">askubuntu.com</a> என்ற இணையப் பக்கத்தில் "
+#~ "சொடுக்கி உங்களைடைய ஐயங்களை தீர்த்துக்கொள்ளலாம். உங்களுடைய கேள்விக்கு ஏற்கனவே பதில் "
+#~ "அங்கிருக்கலாம் அல்லது பால்லாரயிரம் தன்னார்வாளர்கள் பதிலளிக்க்கூடும். மேலும் உதவிக்கு <a "
+#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> என்ற தளத்தை "
+#~ "அனுகவும்."

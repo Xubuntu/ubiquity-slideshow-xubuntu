@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
-"PO-Revision-Date: 2014-04-04 15:40+0000\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
+"PO-Revision-Date: 2015-09-04 14:44+0000\n"
 "Last-Translator: Ibrahim Saed <ibraheem5000@gmail.com>\n"
 "Language-Team: Arabic <ar@li.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -104,34 +104,35 @@ msgstr "كروميوم"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "أي أسئلة؟"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:8
-msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+msgid "Help and support"
 msgstr ""
-"لديك أسئلة واستفسارات في أبونتو لا تجد لها جوابا؟ .. إذن زُر <a href=\"http://"
-"askubuntu.com/\">Ask Ubuntu</a> المكان الأفضل للحصول على أجوبة لأسئلتك "
-"واستفساراتك عن أبونتو. مع الكثير من الأسئلة المُجاب عنها سابقًا، وآلاف الأشخاص "
-"المُستعدين لتقديم المُساعدة، ستحصل على الجواب في أقرب وقت ممكن. لمزيد من "
-"خيارات الدعم، اذهب إلى <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:7
+msgid ""
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System meny."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:9
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:11
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
 "support</a>."
-
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "أبونتو .. دعنا نتحدث"
-
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "أنا أثبّت أبونتو!"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -242,7 +243,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "مرحبًا بك في أوبونتو"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
@@ -254,5 +255,19 @@ msgstr ""
 "الإصدارة الأخيرة من واجهة يونتي الجذابة ستجد الاستخدام أسهل من أي وقت مضى. "
 "يمكنك الاطلاع على بعض المميزات الرائعة والجديدة من خلال عرض الشرائح الحالي..."
 
-#~ msgid "Welcome to Ubuntu 14.04"
-#~ msgstr "مرحبًا بك في أوبونتو 14.04"
+#~ msgid "Any questions?"
+#~ msgstr "أي أسئلة؟"
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "لديك أسئلة واستفسارات في أبونتو لا تجد لها جوابا؟ .. إذن زُر <a href="
+#~ "\"http://askubuntu.com/\">Ask Ubuntu</a> المكان الأفضل للحصول على أجوبة "
+#~ "لأسئلتك واستفساراتك عن أبونتو. مع الكثير من الأسئلة المُجاب عنها سابقًا، "
+#~ "وآلاف الأشخاص المُستعدين لتقديم المُساعدة، ستحصل على الجواب في أقرب وقت "
+#~ "ممكن. لمزيد من خيارات الدعم، اذهب إلى <a href=\"http://www.ubuntu.com/"
+#~ "support\">ubuntu.com/support</a>."

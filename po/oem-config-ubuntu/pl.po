@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
+"POT-Creation-Date: 2015-09-07 10:52+0300\n"
 "PO-Revision-Date: 2015-03-12 21:43+0000\n"
 "Last-Translator: Seweryn Opyd <Unknown>\n"
 "Language-Team: Polish <dominikowski@gmail.com>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 "X-Poedit-Country: Poland\n"
 "X-Poedit-Language: Polish\n"
 
@@ -108,32 +108,35 @@ msgstr "Przeglądarka internetowa Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Potrzebna pomoc?"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:8
-msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+msgid "Help and support"
 msgstr ""
-"Wiele gotowych odpowiedzi oraz ludzi chętnych do pomocy, można odnaleźć na "
-"stronie <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>. Inne możliwości "
-"uzyskania pomocy przedstawiono pod adresem <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Porozmawiajmy o Ubuntu"
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:7
+msgid ""
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System meny."
+msgstr ""
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Instaluję #Ubuntu!"
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:9
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:11
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:2
@@ -258,14 +261,17 @@ msgstr ""
 "korzystanie z komputera bardziej niż kiedykolwiek. Oto kilka interesujących "
 "nowości…"
 
-#~ msgid "Welcome"
-#~ msgstr "Witamy"
+#~ msgid "Any questions?"
+#~ msgstr "Potrzebna pomoc?"
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 14.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is configured, this slideshow will show you around."
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 #~ msgstr ""
-#~ "Dziękujemy za wybranie Ubuntu 14.04 z kolejną wersją środowiska Unity. "
-#~ "Trwa konfiguracja systemu. Niniejsza prezentacja zapozna Cię w "
-#~ "międzyczasie z nowym systemem."
+#~ "Wiele gotowych odpowiedzi oraz ludzi chętnych do pomocy, można odnaleźć "
+#~ "na stronie <a href=\"http://askubuntu.com/\">Ask Ubuntu</a>. Inne "
+#~ "możliwości uzyskania pomocy przedstawiono pod adresem <a href=\"http://"
+#~ "www.ubuntu.com/support\">ubuntu.com/support</a>."

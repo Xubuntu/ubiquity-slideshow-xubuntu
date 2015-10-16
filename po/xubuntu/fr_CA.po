@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
-"PO-Revision-Date: 2014-08-05 17:40+0000\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
+"PO-Revision-Date: 2015-04-16 14:41+0000\n"
 "Last-Translator: Ubuntu-QC-1 <Unknown>\n"
 "Language-Team: French (Canada) <fr_CA@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:29+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -25,7 +25,7 @@ msgstr "Bienvenue dans Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "Congratulations, you have chosen to install Xubuntu 15.04!"
+msgid "Congratulations, you have chosen to install Xubuntu 15.10!"
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -52,6 +52,10 @@ msgid ""
 "screen. You can install more through the <span class=\"app\" data-app=\"usc"
 "\">Ubuntu Software Center</span>."
 msgstr ""
+"Voici une courte liste de quelques applications préinstallées avec Xubuntu "
+"par commodité. Vous pouvez les trouver dans le coin supérieur gauche de "
+"votre écran, dans le menu. La <span class=\"app\" data-app=\"usc"
+"\">logithèque Ubuntu</span> vous permet d'en installer davantage."
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/01_defaultapps.html:10
@@ -80,13 +84,13 @@ msgstr "Bureautique"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:15
-msgid "<strong>AbiWord</strong>, word processor"
-msgstr "<strong>AbiWord</strong>, traitement de texte"
+msgid "<strong>LibreOffice Writer</strong>, word processor"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:16
-msgid "<strong>Gnumeric</strong>, spreadsheet editor"
-msgstr "<strong>Gnumeric</strong>, tableur"
+msgid "<strong>LibreOffice Calc</strong>, spreadsheet editor"
+msgstr ""
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/01_defaultapps.html:19
@@ -130,7 +134,7 @@ msgstr "<b>»</b>"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_defaultapps.html:28
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "Logithèque Ubuntu"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_personalize.html:2
@@ -143,12 +147,14 @@ msgid ""
 "Easily set your profile image and user details for your user with <span "
 "class=\"app\" data-app=\"mugshot\">Mugshot</span>."
 msgstr ""
+"<span class=\"app\" data-app=\"mugshot\">Mugshot</span> vous permet de "
+"définir facilement votre image de profil et vos coordonnées d'utilisateur."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_personalize.html:8
 msgid ""
 "Your profile information will automatically be picked up by supported "
-"applications like Pidgin, Abiword, Gnumeric and LibreOffice."
+"applications like Pidgin, LibreOffice Writer and Calc."
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -210,6 +216,10 @@ msgid ""
 "Customize your panel by right-clicking it and selecting <em>Panel » Panel "
 "Preferences</em>. You can also add and remove panels using this dialog."
 msgstr ""
+"Personnalisez votre tableau de bord en le cliquant à droite et en "
+"choisissant <em>Tableau de bord => Préférences du tableau de bord</em>. Vous "
+"pouvez aussi ajouter et enlever des tableaux de bord en utilisant cette "
+"fenêtre de dialogue."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_customize.html:2
@@ -224,13 +234,17 @@ msgid ""
 "existing ones with <span class=\"app\" data-app=\"menulibre\">MenuLibre</"
 "span>."
 msgstr ""
+"Modifiez vos menus utilisateur soit en ajoutant des applications, des "
+"répertoires et des séparateurs à l'agencement du menu, soit en réorganisant "
+"les éléments du menu. Créez de nouveaux lanceurs et modifiez les existants "
+"avec <span class=\"app\" data-app=\"menulibre\">MenuLibre</span>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_customize.html:8
 msgid ""
-"Control the look of your window borders, how the windows itself looks and "
-"the looks of your icons with the <span class=\"app\" data-app=\"theme-config"
-"\">Theme Configuration</span> utility."
+"Control the look of your window borders, how the windows themselves look and "
+"the appearance of your icons with the <span class=\"app\" data-app=\"theme-"
+"config\">Theme Configuration</span> utility."
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -256,6 +270,10 @@ msgid ""
 "with every Xubuntu release. The documentation is also available <a href="
 "\"http://docs.xubuntu.org/\">online</a>."
 msgstr ""
+"<span class=\"app\" data-app=\"docs\">La documentation officielle</span> "
+"couvrant la plupart des thèmes et des questions habituels sur Xubuntu est "
+"fournie avec toutes les versions de Xubuntu. Cette documentation est "
+"également proposée ici :  <a href=\"http://docs.xubuntu.org/\">online</a>."
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/05_support.html:8
@@ -285,6 +303,9 @@ msgid ""
 "<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
 "channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
 msgstr ""
+"Pour un soutien en ligne et en direct, <strong>en anglais</strong>, "
+"rejoignez notre canal IRC, <em>#xubuntu</em>, en <a href=\"http://webchat."
+"freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">cliquant ici</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/05_support.html:15
@@ -293,11 +314,14 @@ msgid ""
 "href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
 "channels</a>."
 msgstr ""
+"Pour un soutien en <strong>d'autres langues</strong>, consultez la liste "
+"complète des <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local"
+"\">canaux locaux de soutien</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_support.html:20
 msgid "Help"
-msgstr ""
+msgstr "Aide"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/06_thanks.html:4
@@ -310,6 +334,9 @@ msgid ""
 "Thanks for taking the time to install Xubuntu with us. Feel free to pass on "
 "your installation media and let others try Xubuntu as well!"
 msgstr ""
+"Merci d'avoir pris le temps d'installer Xubuntu avec nous. N'hésitez pas à "
+"partager votre support d'installation afin de permettre à d'autres d'essayer "
+"Xubuntu!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/06_thanks.html:11
@@ -319,6 +346,10 @@ msgid ""
 "\">Xubuntu users mailing list</a> or on the <em>#xubuntu-offtopic</em> IRC "
 "channel."
 msgstr ""
+"Nous aimerions être informés de vos expériences avec Xubuntu. Vous pouvez "
+"les partager sur <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-"
+"users\">la liste de diffusion des utilisateurs de Xubuntu</a> ou sur "
+"<em>#xubuntu-offtopic</em> le canal IRC."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/xubuntu/slides/06_thanks.html:13
@@ -336,141 +367,28 @@ msgstr ""
 "communauté Xubuntu peuvent toutes être trouvées dans la section <a href="
 "\"http://xubuntu.org/devel\">Contribuer</a> de notre site Web."
 
+#~ msgid "<strong>AbiWord</strong>, word processor"
+#~ msgstr "<strong>AbiWord</strong>, traitement de texte"
+
+#~ msgid "<strong>Gnumeric</strong>, spreadsheet editor"
+#~ msgstr "<strong>Gnumeric</strong>, tableur"
+
+#~ msgid "Congratulations, you have chosen to install Xubuntu 15.04!"
+#~ msgstr "Félicitations, vous avez choisi d'installer Xubuntu 15.04!"
+
 #~ msgid ""
-#~ "You can customize the panel by right-clicking the panel and selecting "
-#~ "<em>Panel » Panel Preferences</em>. You can also add and remove panels "
-#~ "using this dialog."
+#~ "Control the look of your window borders, how the windows itself looks and "
+#~ "the looks of your icons with the <span class=\"app\" data-app=\"theme-"
+#~ "config\">Theme Configuration</span> utility."
 #~ msgstr ""
-#~ "Vous pouvez personnaliser le tableau de bord par un clic droite dessus et "
-#~ "en choisissant <em>Tableau de bord » Préférences du tableau de bord</em>. "
-#~ "Vous pouvez également ajouter et supprimer des tableaux de bord avec "
-#~ "cette même boîte de dialogue."
-
-#~ msgid "Congratulations, you have chosen to install Xubuntu 14.04!"
-#~ msgstr "Félicitations, vous avez choisi d’installer Xubuntu 14.04!"
+#~ "Contrôlez l'apparence des bordures de vos fenêtres, l'apparence même de "
+#~ "vos fenêtres et celle de vos icônes avec l'utilitaire <span class=\"app\" "
+#~ "data-app=\"theme-config\">Configuration du thème</span> ."
 
 #~ msgid ""
-#~ "If favorites just doesn't do it for you, switch to the <em>Recently Used</"
-#~ "em> view and get a list of the 10 most recent applications you've opened."
+#~ "Your profile information will automatically be picked up by supported "
+#~ "applications like Pidgin, Abiword, Gnumeric and LibreOffice."
 #~ msgstr ""
-#~ "Si les favoris ne vous conviennent pas, basculez vers la vue "
-#~ "<em>Récemment utilisées</em> et obtenez une liste des 10 applications "
-#~ "ouvertes le plus récemment."
-
-#~ msgid ""
-#~ "Search for your applications from within the menu and get them displayed "
-#~ "as a favorites list. Reorder, remove, and add other entries just by right-"
-#~ "clicking on an application result when browsing or searching."
-#~ msgstr ""
-#~ "Cherchez vos applications dans le menu et faites-les s'afficher en une "
-#~ "liste de favoris. Réorganisez, enlevez et ajouter d'autres entrées juste "
-#~ "en cliquant droite sur un résultat d'application lorsque vous naviguez ou "
-#~ "recherchez."
-
-#~ msgid ""
-#~ "Configure the menu just the way you want it with the MenuLibre menu "
-#~ "editor. Add, remove or reorder menu items. Customize launcher behavior "
-#~ "with advanced settings."
-#~ msgstr ""
-#~ "Configurez le menu exactement comme vous le voulez avec l'éditeur de menu "
-#~ "MenuLibre. Ajoutez, enlevez ou réorganiser les éléments du menu. "
-#~ "Personnalisez le comportement du lanceur grâce aux paramètres avancés."
-
-#~ msgid ""
-#~ "Personalize the login greeter with an image of your choosing and add user "
-#~ "details to your profile with Mugshot. Your profile information will "
-#~ "automatically be picked up by supported applications like Pidgin and "
+#~ "Vos informations de profil seront utilisées automatiquement par les "
+#~ "applications prises en charge telles que Pidgin, Abiword, Gnumeric et "
 #~ "LibreOffice."
-#~ msgstr ""
-#~ "Personnalisez l’accueil de connexion avec une image de votre choix et "
-#~ "ajoutez des infos personnelles à votre profil avec Mugshot. Vos infos de "
-#~ "profil seront automatiquement collectées par les applications prises en "
-#~ "charge comme Pidgin et LibreOffice."
-
-#~ msgid "Keep track of your applications"
-#~ msgstr "Suivez vos applications"
-
-#~ msgid "Desktop Settings"
-#~ msgstr "Paramètres du bureau"
-
-#~ msgid ""
-#~ "Your desktop background is easy to customize and we're providing you with "
-#~ "a selection of beautiful wallpapers. Choose one of the five winners of "
-#~ "our community wallpaper contest – handpicked for you!"
-#~ msgstr ""
-#~ "Votre arrière-plan de bureau est facile à personnaliser et nous vous "
-#~ "fournissons une sélection de superbes papiers peints. Choisissez l’un des "
-#~ "cinq gagnants de notre concours communautaire de papiers peints - triés "
-#~ "sur le volet pour vous!"
-
-#~ msgid ""
-#~ "Colorize according to your taste! With the newly created theme "
-#~ "configuration tool you can easily fine-tune the looks of some core "
-#~ "aspects of the desktop."
-#~ msgstr ""
-#~ "Coloriser selon vos goûts! Avec le nouvel outil de configuration des "
-#~ "thèmes, vous pouvez facilement peaufiner l’apparence de certains des "
-#~ "aspects principaux de votre bureau."
-
-#~ msgid ""
-#~ "Here is a brief list of some applications that are preinstalled with "
-#~ "Xubuntu for your convenience. Find them in the menu on the left top "
-#~ "corner of your screen. You can install more through the <em>Ubuntu "
-#~ "Software Center</em>."
-#~ msgstr ""
-#~ "Voici une courte liste de certaines applications pré-installées avec "
-#~ "Xubuntu par commodité. Trouvez-les dans le coin supérieur gauche de votre "
-#~ "écran. Vous pouvez en installer d'autres avec la <em>logithèque Ubuntu</"
-#~ "em>."
-
-#~ msgid ""
-#~ "The main support channel is English only. For support in other languages, "
-#~ "view the full list of <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/"
-#~ "Local\">local support channels</a>."
-#~ msgstr ""
-#~ "Le canal principal de soutien est seulement en anglais. Pour du soutien "
-#~ "en d’autres langues, consultez la liste complète des <a href=\"https://"
-#~ "wiki.ubuntu.com/IRC/ChannelList/Local\">canaux locaux de soutien</a>."
-
-#~ msgid ""
-#~ "For live, online support, join our IRC channel, <em>#xubuntu</em>, by <a "
-#~ "href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..."
-#~ "&prompt=1\">clicking here</a>."
-#~ msgstr ""
-#~ "Pour un soutien en direct et en ligne, rejoignez notre canal IRC, "
-#~ "<em>#xubuntu</em>, en <a href=\"http://webchat.freenode.net/?"
-#~ "channels=xubuntu&nick=xubuntu...&prompt=1\">cliquant ici</a>."
-
-#~ msgid ""
-#~ "Xubuntu will always come without fees; feel free to pass on your "
-#~ "installation media and let others try Xubuntu as well."
-#~ msgstr ""
-#~ "Xubuntu sera toujours sans frais; n’hésitez pas à passer votre support "
-#~ "d’installation et laissez d’autres essayer aussi Xubuntu."
-
-#~ msgid ""
-#~ "The documentation is also available online at <a href=\"http://docs."
-#~ "xubuntu.org/\">docs.xubuntu.org</a>."
-#~ msgstr ""
-#~ "La documentation est aussi disponible en ligne sur <a href=\"http://docs."
-#~ "xubuntu.org/\">docs.xubuntu.org</a>."
-
-#~ msgid ""
-#~ "We'd love to hear about your experiences with Xubuntu. You can share them "
-#~ "on the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-#~ "\">Xubuntu users mailing list</a>. In the meantime, thanks for taking the "
-#~ "time to install Xubuntu with us."
-#~ msgstr ""
-#~ "Nous aimerions connaître vos expériences avec Xubuntu. Vous pouvez les "
-#~ "partager sur la <a href=\"https://lists.ubuntu.com/mailman/listinfo/"
-#~ "xubuntu-users\">liste de diffusion des utilisateurs de Xubuntu</a>. En "
-#~ "attendant, merci de prendre le temps d’installer Xubuntu avec nous."
-
-#~ msgid ""
-#~ "The Official Documentation that covers many of the most common areas and "
-#~ "questions about Xubuntu is shipped with every Xubuntu release. Find it by "
-#~ "clicking on Help on the main menu."
-#~ msgstr ""
-#~ "La documentation officielle couvrant de nombreux sujets et les questions "
-#~ "les plus courants à propos de Xubuntu, est incluse avec chaque version de "
-#~ "Xubuntu. Trouvez-là en cliquant sur Aide dans le menu principal."

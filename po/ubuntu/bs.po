@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
-"PO-Revision-Date: 2015-03-21 08:26+0000\n"
-"Last-Translator: Samir Ribić <Unknown>\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
+"PO-Revision-Date: 2015-10-12 10:37+0000\n"
+"Last-Translator: Rockworld <sumoisrock@gmail.com>\n"
 "Language-Team: Bosnian <bs@li.org>\n"
 "Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -32,7 +32,7 @@ msgid ""
 "wherever you are."
 msgstr ""
 "U srcu Ubuntu filozofije je uvjerenje da je računarstvo za svakoga. Sa "
-"naprednim alatkama za pristupačnost  i mogućnostima promene jezika, šeme "
+"naprednim alatkama za pristupačnost  i mogućnostima promjene jezika, šeme "
 "boja i veličine teksta, Ubuntu olakšava upotrebu računara, bez obzira ko ste "
 "i gdje da ste."
 
@@ -71,8 +71,8 @@ msgid ""
 msgstr ""
 "Ubuntu sadrži Firefox, internet preglednik koji koriste milioni ljudi širom "
 "svijeta. Internet aplikacije koje često koristite (kao što su  npr. Facebook "
-"ili Gmail) se mogu postaviti na desktop radi bržeg pristupa, baš kao i druge "
-"aplikacije na računaru."
+"ili Gmail) se mogu postaviti na radnu površinu radi bržeg pristupa, baš kao "
+"i druge aplikacije na računaru."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -80,7 +80,7 @@ msgstr ""
 #: slideshows/ubuntu/slides/office.html:12
 #: slideshows/ubuntu/slides/photos.html:12
 msgid "Included software"
-msgstr "Uključeni softver"
+msgstr "Instalirani programi"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:16
@@ -105,38 +105,40 @@ msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Imate li kakvo pitanje?"
+msgid "Help and support"
+msgstr "Pomoć i podrška"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:8
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:7
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System meny."
 msgstr ""
-"Pogledajte <a href=\"http://askubuntu.com/\">askubuntu.com</a> kako biste "
-"potražili odgovore na sva pitanja vezana za Ubuntu. Postoji velika "
-"vjerovatnoća da već postoji odgovor na vaše pitanje, a ako nije pronaći ćete "
-"veliki broj onih koji su voljni da vam pomognu. Za bolju podršku, idite na "
-"<a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Da pričamo o Ubuntu"
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:9
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Instaliram #Ubuntu!"
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:11
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
 msgid "Take your music with you"
-msgstr "Nosite muziku sa sobom"
+msgstr "Nosite svoju muziku sa sobom"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/music.html:7
@@ -147,9 +149,9 @@ msgid ""
 "go."
 msgstr ""
 "Ubuntu dolazi sa odličnim Rhythmbox muzičkim programom. Sa njegovim "
-"naprednim mogućnostima, veoma je lako poređati spisak savršenih pjesama. I "
-"radi odlično sa CD-ovima i prenosivim uređajima za izvođenje muzike tako da "
-"možete uživati u vašoj muzici gdje god da ste."
+"naprednim mogućnostima, veoma je lako poredati spisak savršenih pjesama za "
+"izvođenje. On radi odlično sa CD-ovima i prenosivim uređajima za izvođenje "
+"muzike tako da možete uživati u vašoj muzici gdje god da ste."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:15
@@ -169,8 +171,8 @@ msgid ""
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
 "Libreoffice je besplatan kancelarijski paket koji sadrži sve što vam je "
-"potrebno za pravljenje dokumenata, tablica i prezentacija. Usaglašen je sa "
-"formatima Microsoft Office paketa, daje vam sve potrebne mogućnosti "
+"potrebno za pravljenje dokumenata, tablica i prezentacija. Usaglašen sa "
+"formatima Microsoft Office paketa daje vam sve potrebne mogućnosti, potpuno "
 "besplatno."
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -201,10 +203,10 @@ msgid ""
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
 "from the Ubuntu Software Center."
 msgstr ""
-"Shotwell je zgodan foto menadžer koji je spreman za opremu. Povežite "
-"fotoaparat ili telefona da prenese svoje fotografije, onda je lako da ih "
-"delite i čuvajte ih sigurnim. Ako se osjećate kreativnim, možete pokušati "
-"mnogo foto aplikacija iz Ubuntu softvera centra."
+"Shotwell je zgodan foto menadžer koji je spreman za vaše naprave. Povežite "
+"fotoaparat ili telefona kako biste prenijeli vaše fotografije, dijelili ih "
+"sa ostalima ili čuvali na sigurnom. Ako se osjećate kreativno, možete "
+"probati mnogo drugih foto aplikacija iz Ubuntu programskog centra."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -219,7 +221,7 @@ msgstr "GIMP uređivač slika"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
 msgid "Pitivi Video Editor"
-msgstr "Pitivi Video Editor"
+msgstr "Pitivi video uređivač"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
@@ -234,11 +236,11 @@ msgid ""
 "you’re looking for, or explore categories such as Science, Education and "
 "Games, alongside helpful reviews from other users."
 msgstr ""
-"Možete se pozdraviti sa pretragom interneta za novim softverom. Sa Ubuntu "
-"Software Centrom, možete pronaći i instalirati nove aplikacije sa lakoćom. "
-"Jednostavno utipkajte šta tražite, ili pretražite kategorije, kao što su "
-"Nauka, Edukacija ili Igre. Možda vam i recenzije drugih korisnika budu od "
-"koristi."
+"Možete se pozdraviti sa pretragom interneta za novim programima. Sa Ubuntu "
+"programskim centrom (Ubuntu Software Center), možete pronaći i instalirati "
+"nove aplikacije sa lakoćom. Jednostavno upišite šta tražite, ili pretražite "
+"u nekoj kategoriji, kao što su Nauka, Edukacija ili Igre, a od pomoći vam "
+"mogu biti i recenzije od drugih korisnika."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -252,8 +254,22 @@ msgid ""
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
 "Posljednja Ubuntu verzija, brza i puna noviteta, korištenje računara čini "
-"lakšim nego ikad prije. Evo nekoliko odličnih stvari na koje trebate "
+"lakšim nego ikada prije. Evo nekoliko odličnih stvari na koje trebate "
 "obratiti pažnju…"
 
-#~ msgid "Welcome to Ubuntu 14.04"
-#~ msgstr "Dobrodošli u Ubuntu 14.04"
+#~ msgid "Any questions?"
+#~ msgstr "Imate li nekih pitanja?"
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "Provjerite <a href=\"http://askubuntu.com/\">askubuntu.com</a> kako biste "
+#~ "potražili odgovore na sva vaša pitanja vezana za Ubuntu. Postoji velika "
+#~ "vjerovatnoća da već postoji odgovor na vaše pitanje, a ako ne, onda ćete "
+#~ "pronaći veliki broj volontera koji su voljni da vam pomognu. Za bolju "
+#~ "podršku, posjetite <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a>."

@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-12 03:54+0200\n"
-"PO-Revision-Date: 2014-04-18 16:34+0000\n"
-"Last-Translator: Ciarán <cia.spooner@gmail.com>\n"
+"POT-Creation-Date: 2015-09-07 10:52+0300\n"
+"PO-Revision-Date: 2015-10-12 15:58+0000\n"
+"Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: Welsh <cy@li.org>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -105,33 +105,46 @@ msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Unrhyw gwestiynau?"
+msgid "Help and support"
+msgstr "Cymorth a chefnogaeth"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:8
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:7
 msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System meny."
 msgstr ""
-"Cymerwch olwg ar <a href=\"http://askubuntu.com/\">askubuntu.com</a> ar "
-"gyfer atebion i'ch holl gwestiynau am Ubuntu. Mae'n bur debyg bydd eich "
-"cwestiwn eisoes wedi ei ateb ac, os na, gwenwch ddod o hyd i filoedd o "
-"wirfoddolwyr sy'n awchus i helpu. Am fwy o opsiynau cymorth, ewch i <a href="
-"\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"Mae'r <span class=\"app\" data-app=\"docs\">dogfennau Swyddogol</span> yn "
+"trin llawer o'r meysydd cyffredinol yn ymwneud ag Ubuntu. Mae ar gael yn <a "
+"href=\"https://help.ubuntu.com\">online</a> a drwy'r eitem Cymorth Ubuntu yn "
+"y ddewislen System."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Siaradwn am Ubuntu"
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:9
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+"Yn <a href=\"http://askubuntu.com\">Ask Ubuntu</a> gallwch ofyn cwestiynau a "
+"chwilio drwy gasgliad sylweddol o gwestiynau sydd wedi eu hateb eisoes. Bydd "
+"cefnogaeth yn eich iaith chi ar gael drwy eich <a href=\"http://loco.ubuntu."
+"com/teams/\">Tîm Cymunedol Lleol</a>."
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Rwy'n gosod #Ubuntu!"
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:11
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
+msgstr ""
+"Am awgryniadau ar gyfer adnoddau pellach, ewch i <a href=\"http://community."
+"ubuntu.com/help-information/\">community.ubuntu.com/help-information</a> neu "
+"<a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:2
@@ -242,7 +255,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "Croeso i Ubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:8
@@ -250,16 +263,22 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
+"Yn gyflym ac yn llawn dop o nodweddion newydd, mae fersiwn diweddaraf Ubuntu "
+"yn gwneud cyfrifiadura'n haws nag erioed. Dyma rai o'r pethau gwych a newydd "
+"sy'n eich disgwyl..."
 
-#~ msgid "Welcome"
-#~ msgstr "Croeso"
+#~ msgid "Any questions?"
+#~ msgstr "Unrhyw gwestiynau?"
 
 #~ msgid ""
-#~ "Thank you for choosing Ubuntu 14.04. This version brings some exciting "
-#~ "changes including a totally redesigned desktop interface, Unity. While "
-#~ "Ubuntu is configured, this slideshow will show you around."
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
 #~ msgstr ""
-#~ "Diolch am ddewis Ubuntu 14.04. Mae'r fersiwn hwn yn dod â newidiadau "
-#~ "cyffrous gan gynnwys rhyngwyneb wedi'i ailgynllunio'n gyfan gwbl, sef "
-#~ "Unity. Wrth i Ubuntu gael ei ffurfweddu, gwna'r cyflwyniad hwn eich "
-#~ "dangos o gwmpas."
+#~ "Cymerwch olwg ar <a href=\"http://askubuntu.com/\">askubuntu.com</a> ar "
+#~ "gyfer atebion i'ch holl gwestiynau am Ubuntu. Mae'n bur debyg bydd eich "
+#~ "cwestiwn eisoes wedi ei ateb ac, os na, gwenwch ddod o hyd i filoedd o "
+#~ "wirfoddolwyr sy'n awchus i helpu. Am fwy o opsiynau cymorth, ewch i <a "
+#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."

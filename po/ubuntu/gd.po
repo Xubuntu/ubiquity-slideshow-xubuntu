@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-03-12 03:53+0200\n"
+"POT-Creation-Date: 2015-09-07 10:51+0300\n"
 "PO-Revision-Date: 2014-03-13 21:56+0000\n"
 "Last-Translator: GunChleoc <Unknown>\n"
 "Language-Team: Gaelic; Scottish <gd@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-04-05 17:28+0000\n"
-"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
+"X-Generator: Launchpad (build 17812)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -107,34 +107,35 @@ msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
-msgid "Any questions?"
-msgstr "Ceist sam bith?"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:8
-msgid ""
-"Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers to "
-"all your Ubuntu questions. There’s a good chance your question will have "
-"been answered already and, if not, you’ll find thousands of volunteers eager "
-"to help. For more support options, go to <a href=\"http://www.ubuntu.com/"
-"support\">ubuntu.com/support</a>."
+msgid "Help and support"
 msgstr ""
-"Thoir sùil air <a href=\"http://askubuntu.com/\">askubuntu.com</a> airson "
-"freagairtean air do cheistean a thaobh Ubuntu. Tha deagh -theans gun robh an "
-"dearbh-cheist aig cuideigin eile mu thràth 's gun d'fhuair e freagairt. Agus "
-"mur an d'fhuair, gheibh thu na mìltean a dhaoine ann a tha deònach do "
-"chuideachadh. Airson barrachd roghainnean taice, feuch <a href=\"http://www."
-"ubuntu.com/support\">ubuntu.com/support</a>."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/gethelp.html:17
-msgid "Let’s talk Ubuntu"
-msgstr "Bruidhneamaid mu dhèidhinn Ubuntu"
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:7
+msgid ""
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System meny."
+msgstr ""
 
-#. type: Content of: <div><div><div><div>
-#: slideshows/ubuntu/slides/gethelp.html:18
-msgid "I'm installing #Ubuntu!"
-msgstr "Tha mi a' stàladh #Ubuntu!"
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:9
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:11
+msgid ""
+"For pointers to other useful resources, please visit <a href=\"http://"
+"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+"support</a>."
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -247,7 +248,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "Fàilte gu Ubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
@@ -259,5 +260,19 @@ msgstr ""
 "coimpiutaireachd nas fhasa na bha e a-riamh. Seo dìreach rud sgoinneil no "
 "dhà a gheibh thu ann..."
 
-#~ msgid "Welcome to Ubuntu 14.04"
-#~ msgstr "Fàilte gu Ubuntu 14.04"
+#~ msgid "Any questions?"
+#~ msgstr "Ceist sam bith?"
+
+#~ msgid ""
+#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
+#~ "to all your Ubuntu questions. There’s a good chance your question will "
+#~ "have been answered already and, if not, you’ll find thousands of "
+#~ "volunteers eager to help. For more support options, go to <a href="
+#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ msgstr ""
+#~ "Thoir sùil air <a href=\"http://askubuntu.com/\">askubuntu.com</a> airson "
+#~ "freagairtean air do cheistean a thaobh Ubuntu. Tha deagh -theans gun robh "
+#~ "an dearbh-cheist aig cuideigin eile mu thràth 's gun d'fhuair e "
+#~ "freagairt. Agus mur an d'fhuair, gheibh thu na mìltean a dhaoine ann a "
+#~ "tha deònach do chuideachadh. Airson barrachd roghainnean taice, feuch <a "
+#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
