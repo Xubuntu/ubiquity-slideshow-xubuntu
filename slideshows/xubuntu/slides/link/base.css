@@ -317,8 +317,8 @@ h2 {
 				.slide#welcome #logos div span.is:before { content: "="; }
 
 /*  Applications  */
-.slide#apps { }
-	.slide#apps .applist {
+.slide#applications { }
+	.slide#applications .applist {
 		clear: both;
 
 		display: -webkit-flex;
@@ -330,18 +330,18 @@ h2 {
 		font-size: 90%;
 		color: rgba( 255, 255, 255, 0.9 );
 	}
-		.slide#apps .applist div {
+		.slide#applications .applist div {
 			display: none;
 
 			flex-grow: 1;
 			width: 25%;
 			text-align: center;
 		}
-			.slide#apps .applist div > * {
+			.slide#applications .applist div > * {
 				display: block;
 				text-align: center;
 			}
-			.slide#apps .applist div img {
+			.slide#applications .applist div img {
 				height: 48px;
 				margin: 0 auto 0.5em auto;
 			}
