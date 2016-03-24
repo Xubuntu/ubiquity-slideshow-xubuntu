@@ -11,6 +11,11 @@ Signals.watch( 'slideshow-loaded', function( ) {
 		}
 	} );
 
+	/* Fill div's with data from inline attribute */
+	$( '#support-live .data-fill' ).each( function( e ) {
+		$( this ).html( $( this ).attr( 'data-content' ) );
+	} );
+
 	/* Watch opening, opened and closing slides for some effects */
 	Signals.watch( 'slide-opening', function( slide ) {
 		current = slide.find( '.slide' );
