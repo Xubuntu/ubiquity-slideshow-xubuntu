@@ -8,6 +8,12 @@ ubiquity-slideshow-ubuntu (110) UNRELEASED; urgency=medium
   * Ditched tiny.cc links on ubuntu-gnome gethelp slide; replaced with
     the real links.
 
+  [ Will Cooke ]
+  * Fixed OEM symlinks so the OEM configuration slideshow will display
+    properly.
+  * Updated Software screenshot to match the others.
+  * Updated usc.html to point to the new screenshot.
+
  -- Mathieu Trudel-Lapierre <mathieu-tl@ubuntu.com>  Thu, 24 Mar 2016 23:14:20 -0400
 
 ubiquity-slideshow-ubuntu (109) xenial; urgency=medium
