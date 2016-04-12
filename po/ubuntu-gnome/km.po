@@ -1,47 +1,41 @@
-# translation of po_ubuntu_slideshow-ubuntu-km.po to Khmer
-# Khmer translation for ubiquity-slideshow-ubuntu-gnome
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu-gnome package.
+# Khmer translation for ubiquity-slideshow-ubuntu
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
 #
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-# Khoem Sokhem <khoemsokhem@khmeros.info>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: po_ubuntu_slideshow-ubuntu-km\n"
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:52+0300\n"
-"PO-Revision-Date: 2012-03-19 06:46+0000\n"
-"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
-"Language-Team: Khmer\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2015-11-16 10:53+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Khmer <km@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-10-01 15:56+0000\n"
-"X-Generator: Launchpad (build 16061)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/accessibility.html:2
 msgid "Access for everyone"
-msgstr ""
+msgstr "ចូល​ដំណើរការ​សម្រាប់​អ្នក​រាល់គ្នា"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/accessibility.html:8
-#, fuzzy
 msgid ""
 "At the heart of the Ubuntu GNOME philosophy is the belief that computing is "
 "for everyone. With advanced accessibility tools and options to change "
 "language, color scheme and text size, Ubuntu GNOME makes computing easy – "
 "whoever and wherever you are."
 msgstr ""
-"ស្ថិត​ក្នុង​​ទស្សនៈ​របស់​អ៊ូប៊ុនទូ​គឺ​ជឿជាក់​ថា កុំព្យូទ័រ​សម្រាប់​អ្នក​រាល់​គ្នា ។ ជា​មួយ​នឹង​ឧបករណ៍​ចូល​ដំណើរការ​កម្រិត​ខ្ពស់ "
-"និង​ជម្រើស​ផ្សេងៗ​ដូច​ដែល​អ្នក​ពេញ​ចិត្តមាន គ្រោង​ពណ៌ ទំហំ​អត្ថបទ និង​ភាសា អ៊ូប៊ុនទូ​សម្រាប់​អ្នក​រាល់​គ្នា ។ ទោះ​បី​"
-"អ្នក​ជា​អ្នកណា​ក៏​ដោយ នៅ​ទី​ណា​ក៏​ដោយ ។"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/browse.html:2
 msgid "Make the most of the web"
-msgstr ""
+msgstr "បង្កើត​បណ្ដាញ​ជា​ច្រើន"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/browse.html:8
@@ -87,9 +81,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:2
-#, fuzzy
 msgid "Help and support"
-msgstr "គំទ្រភាសារ"
+msgstr "ជំនួយ និងការគាំទ្រ"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:8
@@ -117,9 +110,8 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/goa.html:2
-#, fuzzy
 msgid "Easily access your personal cloud"
-msgstr "cloud ផ្ទាល់​ខ្លួន​របស់​អ្នក"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/goa.html:8
@@ -176,29 +168,28 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu-gnome/slides/usc.html:2
+#: slideshows/ubuntu-gnome/slides/software.html:2
 msgid "Find even more software"
 msgstr "រក​កម្មវិធី​បន្ថែម​ទៀត"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/usc.html:8
+#: slideshows/ubuntu-gnome/slides/software.html:8
 msgid "<strong>Say Goodbye to searching the web for a software.</strong>"
 msgstr ""
 
-#. type: Content of: <div><div><div>
-#: slideshows/ubuntu-gnome/slides/usc.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/software.html:9
 msgid ""
-"With Ubuntu Software Center you can easily find and install software. Your "
-"ratings and reviews are used to rank software by popularity. You have access "
-"to thousands of free and commercial applications. Installing anything is "
-"just a couple of clicks away from you."
+"With GNOME Software you can easily find and install software. Your ratings "
+"and reviews are used to rank software by popularity. You have access to "
+"thousands of free and commercial applications. Installing anything is just a "
+"couple of clicks away from you."
 msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/welcome.html:2
-#, fuzzy
-msgid "Welcome to Ubuntu GNOME 15.10"
-msgstr "សូម​ស្វាគមន៍​មក​កាន់​អ៊ូប៊ុនទូ 12.04 LTS"
+msgid "Welcome to Ubuntu GNOME 16.04"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:8
@@ -213,193 +204,3 @@ msgid ""
 "The latest version of Ubuntu GNOME is the best choice for those looking for "
 "a fast, beautiful, simple, usable and stable Operating System."
 msgstr ""
-
-#~ msgid "Customization options"
-#~ msgstr "ការប្តូរជម្រើសតាមបំណង"
-
-#~ msgid "Assistive technologies"
-#~ msgstr "បច្ចេកវិទ្យាជំនួយ"
-
-#~ msgid "Language support"
-#~ msgstr "គំទ្រភាសារ"
-
-#~ msgid "Included software"
-#~ msgstr "ផ្នែកទន់មនជាមួយ"
-
-#, fuzzy
-#~ msgid "Firefox Web Browser"
-#~ msgstr "កម្មវិធី​រុករក​បណ្ដាញ Firefox"
-
-#~ msgid "Supported software"
-#~ msgstr "បានគាំទ្រផ្នែកទន់"
-
-#~ msgid "Flash"
-#~ msgstr "ជះពន្លឺ"
-
-#~ msgid "Chromium"
-#~ msgstr "ក្រូម"
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "ឧបករណ៍ចាក់ចំរៀង Rhythmbox"
-
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "កម្មវិធីនិពន្ធវីឌីអូ Pitivi"
-
-#, fuzzy
-#~ msgid "LibreOffice Suite"
-#~ msgstr "LibreOffice Writer"
-
-#~ msgid "Shotwell Photo Manager"
-#~ msgstr "កម្មវិធីរូបថត Shotwell"
-
-#~ msgid "GIMP Image Editor"
-#~ msgstr "កម្មវិធី​កែសម្រួល​រូបភាព GIMP"
-
-#, fuzzy
-#~ msgid ""
-#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
-#~ "to all your Ubuntu questions. There’s a good chance your question will "
-#~ "have been answered already and, if not, you’ll find thousands of "
-#~ "volunteers eager to help. For more support options, go to <a href="
-#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
-#~ msgstr ""
-#~ "ពិនិត្យ​មើល <a href=\"http://askubuntu.com/\">សួរ​អ៊ូប៊ុនទូ</a> កន្លែង​ដែល​ល្អ​បំផុត​ ដើម្បី​ទទួល​"
-#~ "បាន​ចម្លើយ​អំពី​អ៊ូប៊ុនទូ ។ ដោយ​មាន​ចម្លើយ​ជា​ច្រើន​បាន​ឆ្លើយ​រូច​ហើយ ហើយ​មាន​មនុស្ស​រាប់​ពាន់​នាក់ដើម្បី​ជួយ "
-#~ "អ្នក​នឹង​មិន​ចាំ​បាច់​រង់ចាំ​ទៀត​ទេ ។ ហើយ​ប្រសិន​បើ​អ្នក​ត្រូវ​បាន​ចម្លើយ​តាម​ពេល​កំណត់ អ្នក​អាច​ទាក់ទង​ការ​គាំ​"
-#~ "ទ្រ​ផ្នែក​ពាណិជ្ជកម្ម និង​ស្វែងយល់​បន្ថែម​នៅ <a href=\"http://www.ubuntu.com/support"
-#~ "\">ubuntu.com/support</a> ។"
-
-#~ msgid "Customize Ubuntu"
-#~ msgstr "ប្តូរអ៊ូប៊ុនទូតាមបំណង"
-
-#~ msgid "Appearance"
-#~ msgstr "រូបរាង"
-
-#~ msgid "Any questions?"
-#~ msgstr "មាន​សំណួរ ?"
-
-#~ msgid "Let’s talk Ubuntu"
-#~ msgstr "និយាយ​អំពី​អ៊ូប៊ុនទូ"
-
-#~ msgid "I'm installing #Ubuntu!"
-#~ msgstr "ខ្ញុំ​កំពុង​ដំឡើង  #Ubuntu!"
-
-#~ msgid "Take your music with you"
-#~ msgstr "យក​តន្ត្រី​របស់​អ្នក​តាម​ខ្លួន"
-
-#~ msgid ""
-#~ "Ubuntu comes with the amazing Rhythmbox music player. With advanced "
-#~ "playback options and the Ubuntu One music store built in, it’s simple to "
-#~ "queue up the perfect songs. And it works great with CDs and portable "
-#~ "music players, so you can enjoy all your music wherever you go."
-#~ msgstr ""
-#~ "អ៊ូប៊ុន​ទូ​​មាន​កម្មវិធី​ចាក់​តន្ត្រី​ Rhythmbox ដ៏​អស្ចារ្យ ។ ជា​មួយ​នឹង​ជម្រើស​ចាក់​ឡើងវិញ​កម្រិត​ខ្ពស់ ហើយ​​ហាង​"
-#~ "តន្ត្រី​របស់ Ubuntu One ដែល​មាន​ស្រាប់ វា​ងាយសម្រួល​ដាក់​បទ​ចម្រៀង​ដែល​ពេញ​និយម ។ ហើយ​វា​ដំណើរការ​"
-#~ "ល្អ​បំផុត​ជា​មួយ​ស៊ីឌី និង​កម្មវិធី​ចាក់​តន្ត្រី​ចល័ត ដូច្នេះ​អ្នក​អាច​រីករាយ​ជា​មួយ​តន្ត្រី​របស់​អ្នក​គ្រប់​ទី​កន្លែង ។"
-
-#~ msgid "Ubuntu One Music Store"
-#~ msgstr "ហានលក់ដូរ Ubuntu One"
-
-#~ msgid "Write and present for free"
-#~ msgstr "សរសេរ និង​បង្ហាញ​ដោយ​ឥត​គិត​ថ្លៃ"
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you’ll need to "
-#~ "create impressive documents, spreadsheets, and presentations. LibreOffice "
-#~ "tries its best to work with other office software, and it uses the "
-#~ "OpenDocument standards for far-reaching compatibility."
-#~ msgstr ""
-#~ "LibreOffice គឺ​ជា​ឈុត​កម្មវិធីការិយាល័យ​ឥត​គិត​ថ្លៃ​ដែល​មាន​អ្វី​គ្រប់យ៉ាង​​តាមដែល​អ្នក​ត្រូវ​ការ ដើម្បី​"
-#~ "បង្កើត​ឯកសារ សៀវភៅ​បញ្ជី ការ​បង្ហាញ​​ដែល​គួរ​ឲ្យ​ទាក់ទាញ ។ LibreOffice ព្យាយាម​អស់​ពី​សមត្ថភាព "
-#~ "ដើម្បី​ធ្វើ​ការ​ជា​មួយ​នឹង​កម្មវិធី​ការិយាល័យ​ផ្សេងៗ​ទៀត ហើយ​វា​ប្រើ​ស្តង់ដារ OpenDocument សម្រាប់​ភាព​"
-#~ "ឆប​គ្នា ។"
-
-#~ msgid "LibreOffice Calc"
-#~ msgstr "LibreOffice Calc"
-
-#~ msgid "LibreOffice Impress"
-#~ msgstr "LibreOffice Impress"
-
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it’s easy to share them "
-#~ "and keep them safe. If you’re feeling creative, you can try lots of photo "
-#~ "apps from the Ubuntu Software Center."
-#~ msgstr ""
-#~ "Shotwell គឺ​ជា​កម្មវិធី​គ្រប់គ្រង​រូបថត​ដោយ​ដៃ ដែល​ត្រៀម​រួច​រាល់​សម្រាប់​ធាតុក្រាហ្វិក​របស់​អ្នក​ ។ តភ្ជាប់​"
-#~ "ម៉ាស៊ីន​ថត ឬ​ទូរស័ព្ទ ដើម្បី​ផ្ទេរ​រូបថត​របស់​អ្នក បន្ទាប់​មក​វា​ងាយស្រួល​ ដើម្បី​ចែករំលែក​ពួកវា និ​ង​រក្សាទុក​"
-#~ "វា​ដោយ​សុវត្ថិភាព ។ ប្រសិន​​បើ​មាន​អារម្មណ៍​ចង់​បង្កើត អ្នក​អាច​សាកល្បង​កម្មវិធី​​គ្រប់គ្រង​រូបថត​ជា​ច្រើន​ពី​"
-#~ "មជ្ឈមណ្ឌល​កម្មវិធី​អ៊ូប៊ុនទូ ។"
-
-#~ msgid "Stay connected"
-#~ msgstr "តភ្ជាប់​ជា​និច្ច"
-
-#, fuzzy
-#~ msgid ""
-#~ "The messaging menu gives you an eagle-eye view of incoming messages from "
-#~ "all applications and social networks. So you can see straight away when "
-#~ "there’s something new to read, regardless of how it arrived."
-#~ msgstr ""
-#~ "កម្មវិធី​បង្ហាញ​សារ​អ៊ូប៊ុនទូ​ផ្ដល់​ឲ្យ​អ្នក​នូវ​ទិដ្ឋភាព​ភ្នែក​ឥទ្ទ្រី​ចំពោះ​សារ​ចូល​ពី​កម្មវិធី​ និង​បណ្ដាញ​សង្គម​"
-#~ "ទាំងអស់ ។ សូម​មើល​រូបរាង​ នៅ​ពេល​មាន​អ្វី​ថ្មី​ត្រូវ​អាន ។"
-
-#~ msgid "Supported services"
-#~ msgstr "គាំទ្រសេវ៉ា"
-
-#~ msgid "Twitter"
-#~ msgstr "Twitter"
-
-#~ msgid "Facebook"
-#~ msgstr "Facebook"
-
-#~ msgid "Identi.ca"
-#~ msgstr "Identi.ca"
-
-#, fuzzy
-#~ msgid ""
-#~ "Fast and full of new features, the latest version of Ubuntu makes "
-#~ "computing easier than ever. Here are just a few cool new things to look "
-#~ "out for…"
-#~ msgstr ""
-#~ "លឿន និង​មាន​លក្ខណៈ​ពិសេស​ដែល​បាន​ខ្ចប់​ អ៊ូប៊ុនទូ​ធ្វើ​ឲ្យ​កុំព្យូទ័រ​របស់​អ្នក​​កាន់​តែ​ងាយស្រួល​ប្រើ ។ ហើយ​ជា​មួយ​នឹង​"
-#~ "កំណែ​ចុងក្រោយ​បំផុត​របស់​ចំណុច​ប្រទាប់​សាមគ្គីភាព វា​ឥឡូវ​ងាយស្រួល​មែនទែ​ន ។ នៅ​ទីនេះ​មាន​​វត្ថុ​ថ្មី​ដែល​"
-#~ "អាស្ចារ្យ​ ត្រូវ​ស្វែងយល់​បន្ថែម ។"
-
-#~ msgid "Browse the web"
-#~ msgstr "រកមើលក្នុងបណ្តាញ"
-
-#~ msgid ""
-#~ "Ubuntu includes Mozilla Firefox for fast and safe web browsing. It’s easy "
-#~ "to use and it’s backed by a non-profit foundation that loves the web. If "
-#~ "you aren’t a Firefox fan, there are also lots of alternatives in the "
-#~ "Ubuntu Software Center."
-#~ msgstr ""
-#~ "អ៊ូប៊ុន​ទូ រួមមាន Mozilla Firefox សម្រាប់​ការ​រុករក​​បណ្ដាញ​ដែល​លឿន និងមាន​សុវត្ថិភាព ។ វាងាយស្រួល​"
-#~ "ប្រើ ហើយ​វា​គាំទ្រ​ដោយ​មូលនិធិ​មិន​រក​ប្រាក់​កម្រៃ ដេល​ស្រឡាញ់​បណ្ដាញ ។ ប្រសិន​បើ​អ្នក​មិនមែនជា​អ្នក​ចូល​ចិត្ត​ "
-#~ "Firefox ក៏​នៅ​មាន​កម្មវិធី​ជំនួស​ជា​ច្រើន​នៅ​ក្នុង​មជ្ឈមណ្ឌល​កម្មវិធី​របស់​អ៊ូប៊ុនទូ ។"
-
-#~ msgid ""
-#~ "An <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> "
-#~ "account gives you 5GB of cloud storage, so you can store and sync your "
-#~ "files and photos across devices and access them wherever you are in the "
-#~ "world. Easily share them with friends, family and colleagues. Take a "
-#~ "photo on your mobile phone and immediately see it on your desktop, or add "
-#~ "<a href=\"https://one.ubuntu.com/services/music/\">Music Streaming</a> "
-#~ "for mobile to enjoy your music on the move."
-#~ msgstr ""
-#~ "គណនី <a href=\"https://one.ubuntu.com/services/\">Ubuntu One Free</a> ផ្ដល់​ឲ្យ​"
-#~ "អ្នក​នូវ​ទំហំ​ផ្ទុក​តាមរយៈ Cloud ទំហំ ៥ ជីកាបៃ ដូច្នេះ​អ្នក​អាច​រក្សាទុក និង​ធ្វើ​សម​កាលកម្ម​ឯកសារ​ និង​"
-#~ "រូបថត​របស់​អ្នក​តាមរយៈ​ឧបករណ៍ និង​ចូល​មើល​ពួកវា​នៅ​កន្លែង​ណា​ក៏​បាន​ក្នុង​ពិភពលោក ។ ងាយស្រួល​ចែករំលែក​ជា​"
-#~ "មួយ​មិត្ត​ភក្ដិ ក្រុមគ្រួសារ និង​មិត្ត​រួមការ​ងារ ។ ថត​រូប​តាម​​ទូរស័ព្ទ ហើយ​អាច​មើល​ឃើញ​ភ្លាម​នៅ​លើ​ផ្ទៃតុ ឬ​"
-#~ "បន្ថែម <a href=\"https://one.ubuntu.com/services/music/\">ស្ទ្រីម​តន្ត្រី</a> "
-#~ "សម្រាប់​ទូរស័ព្ទ​ចល័ត​ ដើម្បី​រីករាយ​តន្ត្រី​របស់​អ្នក​​នៅ​ពេល​ធ្វើ​ដំណើរ ។"
-
-#~ msgid ""
-#~ "The Ubuntu Software Center has thousands of new applications ready for "
-#~ "your computer. Just type what you want or explore the categories like "
-#~ "games, science, and education. It is easy to download new stuff and write "
-#~ "reviews to share your experiences."
-#~ msgstr ""
-#~ "មជ្ឈមណ្ឌល​កម្មវិធី​អ៊ូប៊ុនទូ​មាន​កម្មវិធី​ថ្មី​រាប់ពាល់​សម្រាប់​កុំព្យូទ័រ​របស់​អ្នក ។ គ្រាន់​តែ​វាយ​អ្វី​ដែល​អ្នក​​ចង់​បាន "
-#~ "ឬ​រក​មើល​តាម​ប្រភេទ​ ដូចជា ល្បែង វិទ្យាសាស្ត្រ និង​ការ​អប់រំ ។ វា​ងាយស្រួល​ទាញយក​កម្មវិធី​ថ្មីៗ និង​"
-#~ "សរសេរ​អំពី​ការ​រំលឹក​របស់​អ្នក ដើម្បី​ចែកចាយ​បទពិសោធន៍​របស់​អ្នក ។"

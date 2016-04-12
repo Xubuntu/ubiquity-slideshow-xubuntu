@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:52+0300\n"
-"PO-Revision-Date: 2015-04-17 12:50+0000\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-04-07 19:22+0000\n"
 "Last-Translator: Aputsiaĸ Niels Janussen <aj@isit.gl>\n"
 "Language-Team: Danish <da@li.org>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/accessibility.html:2
@@ -48,6 +48,9 @@ msgid ""
 "browse the web. Easy browsing, high performance, advanced security, powerful "
 "personalization and the cutting edge, all that is between your hands."
 msgstr ""
+"Med Firefox installeret, så har Ubuntu GNOME alt dét som du behøver for at "
+"gå på nettet. Nem browsing, høj ydelse, avanceret sikkerhed, stærk "
+"personalisering og helt fremme i skoene - alt dette midt i dit favn."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/desktop.html:2
@@ -85,7 +88,7 @@ msgstr "Tjek <strong>dine påmindelser</strong> nemt"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-gnome/slides/desktop.html:24
 msgid "Enhance your work flow with <strong>dynamic workspaces</strong>"
-msgstr ""
+msgstr "Styrk dine arbejdsgange med <strong>dynamiske arbejdsområder</strong>"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:2
@@ -95,7 +98,7 @@ msgstr "Hjælp og support"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:8
 msgid "Thanks for choosing and installing Ubuntu GNOME"
-msgstr ""
+msgstr "Tak for valget og installationen af Ubuntu GNOME"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:9
@@ -103,6 +106,8 @@ msgid ""
 "Learn more about Ubuntu GNOME in our Wiki Area <a href=\"https://wiki.ubuntu."
 "com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
 msgstr ""
+"Lær mere om Ubuntu GNOME i vores wikiområde <a href=\"https://wiki.ubuntu."
+"com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:10
@@ -110,6 +115,8 @@ msgid ""
 "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
 "ContactUs\">tiny.cc/uGContactUs</a>."
 msgstr ""
+"For hjælp og support, så gå til <a href=\"https://wiki.ubuntu.com/UbuntuGNOME"
+"\">tiny.cc/uGWiki</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:11
@@ -158,7 +165,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/office.html:2
 msgid "Your office on your machine"
-msgstr ""
+msgstr "Dit kontor på din maskine"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/office.html:8
@@ -167,6 +174,9 @@ msgid ""
 "more. LibreOffice is a comprehensive, professional-quality productivity "
 "suite shipped by default. Make your day-to-day tasks more easy and fun."
 msgstr ""
+"Opret professionelle dokumenter, regneark, præsentationer, tegninger og "
+"mere. LibreOffice er et sammenhængende, professionelt kontorpakke som "
+"medfølger som standard. Gør dine dagligsopgaver nemmere og sjovere."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/photos.html:2
@@ -181,30 +191,38 @@ msgid ""
 "pictures. And you can share your favorite snaps on all popular photo sites "
 "and social networks."
 msgstr ""
+"Træt af at finde de rette programmer til at organisere dine billeder? Med "
+"GNOME Billeder kan du hurtigt og nemt importere, organisere, redigere og "
+"vise dine billeder. Du kan også dele dine bedste øjeblikke på alle populære "
+"billedsteder og sociale netværk."
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu-gnome/slides/usc.html:2
+#: slideshows/ubuntu-gnome/slides/software.html:2
 msgid "Find even more software"
 msgstr "Find endnu flere programmer"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/usc.html:8
+#: slideshows/ubuntu-gnome/slides/software.html:8
 msgid "<strong>Say Goodbye to searching the web for a software.</strong>"
-msgstr ""
+msgstr "<strong>Sig farvel til at søge på nettet efter software.</strong>"
 
-#. type: Content of: <div><div><div>
-#: slideshows/ubuntu-gnome/slides/usc.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/software.html:9
 msgid ""
-"With Ubuntu Software Center you can easily find and install software. Your "
-"ratings and reviews are used to rank software by popularity. You have access "
-"to thousands of free and commercial applications. Installing anything is "
-"just a couple of clicks away from you."
+"With GNOME Software you can easily find and install software. Your ratings "
+"and reviews are used to rank software by popularity. You have access to "
+"thousands of free and commercial applications. Installing anything is just a "
+"couple of clicks away from you."
 msgstr ""
+"Med GNOME Software kan du nemt finde og installere software. Dine "
+"bedømmelser og anmeldelser bruges til at rangere software efter popularitet. "
+"Du har adgang til tusinder af frie og kommercielle programmer. Du kan "
+"installere det hele med få klik."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/welcome.html:2
-msgid "Welcome to Ubuntu GNOME 15.10"
-msgstr ""
+msgid "Welcome to Ubuntu GNOME 16.04"
+msgstr "Velkomment til Ubuntu GNOME 16.04"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:8
@@ -212,6 +230,8 @@ msgid ""
 "The official Ubuntu flavor featuring the GNOME Desktop Environment, aiming "
 "to provide a pure GNOME desktop experience built on top of Ubuntu."
 msgstr ""
+"Den officielle variant af Ubuntu med skrivebordsmiljøet GNOME, der sigter "
+"mod at give en ren GNOME-skrivebordsoplevelse - bygget ovenpå Ubuntu."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:9
@@ -219,152 +239,5 @@ msgid ""
 "The latest version of Ubuntu GNOME is the best choice for those looking for "
 "a fast, beautiful, simple, usable and stable Operating System."
 msgstr ""
-
-#~ msgid ""
-#~ "Ubuntu GNOME has everything you need to browse the web. Firefox offers "
-#~ "powerful personalization, support for cutting-edge web standards, "
-#~ "carefully optimized performance, and advanced security while still "
-#~ "remaining easy to use."
-#~ msgstr ""
-#~ "Ubuntu GNOME har alt du behøver til at browse nettet. Firefox tilbyder "
-#~ "muligheder for stærk personalisering, understøtter de nyeste "
-#~ "webstandarder, nænsom optimering af ydelsen, samt avanceret sikkerhed, "
-#~ "mens den stadig er nem at anvende."
-
-#~ msgid "Included software"
-#~ msgstr "Medfølgende programmer"
-
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Internetbrowseren Firefox"
-
-#~ msgid "Supported software"
-#~ msgstr "Understøttede programmer"
-
-#~ msgid "Customization options"
-#~ msgstr "Tilpasningsmuligheder"
-
-#~ msgid "Language support"
-#~ msgstr "Sprogunderstøttelse"
-
-#~ msgid "Assistive technologies"
-#~ msgstr "Hjælpeteknologier"
-
-#~ msgid "Flash"
-#~ msgstr "Flash"
-
-#~ msgid "Chromium"
-#~ msgstr "Chromium"
-
-#~ msgid "Enhance your workflow with <strong>dynamic workspaces</strong>"
-#~ msgstr ""
-#~ "Styrk dine arbejdsgange med <strong>dynamiske arbejdsområder</strong>"
-
-#~ msgid "Manage <strong>your address book</strong> easily"
-#~ msgstr "Administrér <strong>din adressebog</strong> nemt og enkelt"
-
-#~ msgid "Access <strong>your online documents</strong> natively"
-#~ msgstr ""
-#~ "Få adgang til <strong>dine onlinedokumenter</strong> i deres oprindelige "
-#~ "format"
-
-#~ msgid ""
-#~ "Learn more about Ubuntu GNOME from <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
-#~ msgstr ""
-#~ "Få mere information om Ubuntu GNOME på <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
-
-#~ msgid ""
-#~ "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
-#~ "ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
-#~ msgstr ""
-#~ "For at få hjælp og support, så gå til <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
-
-#~ msgid "Chat with <strong>your friends</strong> from Facebook, Google, etc."
-#~ msgstr "Chat med <strong>dine venner</strong> fra Facebook, Google, etc."
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Rhythmbox-musikafspiller"
-
-#~ msgid "Videos"
-#~ msgstr "Videoer"
-
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "Pitivi - videoredigering"
-
-#~ msgid "Everything you need for the office"
-#~ msgstr "Alt du har brug for på kontoret"
-
-#~ msgid "Evince Document Viewer"
-#~ msgstr "Evince - dokumentfremviser"
-
-#~ msgid "Documents"
-#~ msgstr "Dokumenter"
-
-#~ msgid "LibreOffice Suite"
-#~ msgstr "LibreOffice-kontorpakken"
-
-#~ msgid "<strong>Say goodbye to searching the web for new software. </strong>"
-#~ msgstr ""
-#~ "<strong>Sig farvel til søgning på nettet efter ny software. </strong>"
-
-#~ msgid ""
-#~ "Ubuntu Software Center gives you instant access to thousands of great "
-#~ "games and applications — some free and some available commercially. If "
-#~ "you see something you like, you can see more information and install it "
-#~ "in just a few clicks."
-#~ msgstr ""
-#~ "Ubuntu Softwarecenter giver dig øjeblikkelig adgang til tusindvis af "
-#~ "fantastiske spil og programmer - nogle kvit og frit, andre på "
-#~ "kommercielle vilkår. Hvis du ser noget du kan lide, så kan du få mere "
-#~ "information og installere det med blot få klik."
-
-#~ msgid ""
-#~ "Ubuntu GNOME features the GNOME desktop on top of the popular Ubuntu "
-#~ "foundation."
-#~ msgstr ""
-#~ "Ubuntu GNOME bringer GNOME-skrivebordet på toppen af det populære "
-#~ "fundament Ubuntu."
-
-#~ msgid ""
-#~ "We believe the combination of Ubuntu and GNOME is the best choice for "
-#~ "those looking for a beautiful, simple, and usable operating system."
-#~ msgstr ""
-#~ "Vi mener at kombinationen af Ubuntu og GNOME er det bedste valg for dem, "
-#~ "der ønsker et smukt, enkelt og anvendeligt operativsystem."
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
-
-#~ msgid "GIMP Image Editor"
-#~ msgstr "GIMP - billedredigering"
-
-#~ msgid "Shotwell Photo Manager"
-#~ msgstr "Shotwell - billedhåndtering"
-
-#~ msgid ""
-#~ "With Shotwell, you can quickly and easily import, organize, edit and view "
-#~ "your pictures. And you can share your favorite snaps on all popular photo "
-#~ "sites and social networks."
-#~ msgstr ""
-#~ "Med Shotwell kan du hurtigt og nemt importere, organisere, redigere og "
-#~ "fremvise dine billeder. Du kan også dele dine bedste knips på alle de "
-#~ "populære foto-steder og sociale netværk."
-
-#~ msgid ""
-#~ "We understand how important your computer is for day-to-day tasks. Create "
-#~ "professional documents, spreadsheets and presentations with LibreOffice "
-#~ "and manage your local and online documents in a single place with GNOME "
-#~ "Documents."
-#~ msgstr ""
-#~ "Vi forstår hvor vigtigt din computer er for de daglige gøremål. Opret "
-#~ "professionelle dokumenter, regneark og præsentationer med LibreOffice, og "
-#~ "administrér dine lokale og online dokumenter fra ét enkelt sted med GNOME "
-#~ "Dokumenter."
-
-#~ msgid "Thank you for choosing and installing Ubuntu GNOME."
-#~ msgstr "Tak fordi du har valgt at installere Ubuntu GNOME."
-
-#~ msgid "Welcome to Ubuntu GNOME 15.04"
-#~ msgstr "Velkommen til Ubuntu GNOME 15.04"
+"Den seneste version af Ubuntu GNOME er det bedste valg for de, der leder "
+"efter et hurtigt, smukt, simpelt, anvendeligt og stabilt operativsystem."

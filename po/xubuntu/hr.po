@@ -7,313 +7,517 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:51+0300\n"
-"PO-Revision-Date: 2012-04-15 10:48+0000\n"
-"Last-Translator: Saša Teković <Unknown>\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-04-09 19:46+0000\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
 "Language-Team: Croatian <hr@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
 msgid "Welcome to Xubuntu"
-msgstr ""
+msgstr "Dobrodošli u Xubuntu"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "Congratulations, you have chosen to install Xubuntu 15.10!"
-msgstr ""
+#: slideshows/xubuntu/slides/00_welcome.html:5
+msgid "Congratulations for choosing to install"
+msgstr "Čestitamo vam što ste odabrali instalaciju"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:8
+#: slideshows/xubuntu/slides/00_welcome.html:5
+msgid "Xubuntu 16.04 LTS!"
+msgstr "Xubuntu 16.04 LTS!"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/00_welcome.html:6
 msgid ""
 "If you are running this installation via the <em>Try Xubuntu</em> option, "
 "feel free to examine things as Xubuntu installs. After the installation, the "
 "desktop will look similar to how it does now."
 msgstr ""
+"Ako ste pokrenuli ovu instalaciju puteme <em>Isprobaj Xubuntu</em> "
+"mogućnosti, slobodno isprobajte rad na Xubuntu tijekom instalacije. Nakon "
+"instalacije, radna površina će izgledati slično kao i sada."
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/00_welcome.html:10
+msgid "<span class=\"fo is\">Xubuntu</span>"
+msgstr "<span class=\"fo is\">Xubuntu</span>"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/00_welcome.html:11
+msgid "<span class=\"fo plus\">Xfce</span>"
+msgstr "<span class=\"fo plus\">Xfce</span>"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/00_welcome.html:12
+msgid "<span class=\"fo\">Ubuntu</span>"
+msgstr "<span class=\"fo\">Ubuntu</span>"
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/01_defaultapps.html:2
+#: slideshows/xubuntu/slides/01_applications.html:2
 msgid "Ready to go!"
-msgstr ""
+msgstr "Spremni za nastavak!"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:7
+#: slideshows/xubuntu/slides/01_applications.html:5
 msgid ""
-"Here is a brief list of some applications that are preinstalled with Xubuntu "
-"for your convenience. Find them in the menu on the left top corner of your "
-"screen. You can install more through the <span class=\"app\" data-app=\"usc"
-"\">Ubuntu Software Center</span>."
+"Here is a list of some applications that are preinstalled with Xubuntu for "
+"your convenience. Find them in the applications menu and install more with "
+"the package manager."
 msgstr ""
+"Ovdje je popis određenih aplikacija koje su predinstalirane na Xubuntu. "
+"Pronađite ih u izborniku aplikacija i instalirajte ih više pomoću "
+"upravitelja paketima."
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/01_defaultapps.html:10
-msgid "Internet"
-msgstr ""
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:8
+msgid "<strong>Firefox</strong> <span>Web browser</span>"
+msgstr "<strong>Firefox</strong> <span>Web preglednik</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:11
-msgid "<strong>Firefox</strong>, web browser"
-msgstr ""
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:9
+msgid "<strong>Thunderbird</strong> <span>Mail and news client</span>"
+msgstr "<strong>Thunderbird</strong> <span>Klijent pošte i novosti</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:12
-msgid "<strong>Thunderbird</strong>, mail and news client"
-msgstr ""
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:10
+msgid "<strong>Pidgin</strong> <span>Internet messenger</span>"
+msgstr "<strong>Pidgin</strong> <span>Internet dopisnik</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:13
-msgid "<strong>Pidgin</strong>, Internet messenger"
-msgstr ""
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:11
+msgid "<strong>Parole</strong> <span>Media player</span>"
+msgstr "<strong>Parole</strong> <span>Medijski reproduktor</span>"
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/01_defaultapps.html:14
-msgid "Office"
-msgstr ""
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:14
+msgid "<strong>LibreOffice Writer</strong> <span>Word processor</span>"
+msgstr "<strong>LibreOffice Writer</strong> <span>Obrada teksta</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:15
-msgid "<strong>LibreOffice Writer</strong>, word processor"
-msgstr ""
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:15
+msgid "<strong>LibreOffice Calc</strong> <span>Spreadsheet editor</span>"
+msgstr "<strong>LibreOffice Calc</strong> <span>Proračunske tablice</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:16
-msgid "<strong>LibreOffice Calc</strong>, spreadsheet editor"
-msgstr ""
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:16
+msgid "<strong>Gnome Software</strong> <span>Package manager</span>"
+msgstr "<strong>Gnome Softver</strong> <span>Upravitelj paketima</span>"
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/01_defaultapps.html:19
-msgid "Media"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:20
-msgid "<strong>gmusicbrowser</strong>, music collection software"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:21
-msgid "<strong>Parole</strong>, media player"
-msgstr ""
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/01_defaultapps.html:22
-msgid "System & Settings"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:23
-msgid "<strong>Ubuntu Software Center</strong>"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:24
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:17
 msgid "<strong>Settings Manager</strong>"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:28
-#: slideshows/xubuntu/slides/02_personalize.html:13
-#: slideshows/xubuntu/slides/04_customize.html:13
-#: slideshows/xubuntu/slides/04_customize.html:14
-#: slideshows/xubuntu/slides/05_support.html:20
-msgid "<b>»</b>"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:28
-msgid "Ubuntu Software Center"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/02_personalize.html:2
-msgid "Personalize your computer"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_personalize.html:7
-msgid ""
-"Easily set your profile image and user details for your user with <span "
-"class=\"app\" data-app=\"mugshot\">Mugshot</span>."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_personalize.html:8
-msgid ""
-"Your profile information will automatically be picked up by supported "
-"applications like Pidgin, LibreOffice Writer and Calc."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_personalize.html:13
-msgid "About Me"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/03_desktop.html:2
-msgid "The Xubuntu desktop"
-msgstr "Xubuntu radna površina"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:7
-msgid ""
-"On the desktop you will see icons that can be used to access some of the "
-"most common places on your system. In addition, you will see a single, "
-"multipurpose, panel at the top of the screen."
-msgstr ""
+msgstr "<strong>Upravitelj postavkama</strong>"
 
 #. type: Attribute 'alt' of: <div><div><img>
-#: slideshows/xubuntu/slides/03_desktop.html:11
+#: slideshows/xubuntu/slides/02_desktop.html:3
 msgid "Xubuntu default panel"
-msgstr ""
+msgstr "Xubuntu zadani panel"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:17
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/02_desktop.html:8
 msgid ""
-"On the left hand side, you will see a Xubuntu logo. Click it to open the "
-"main menu. We will tell you more about this menu in the next slide."
+"On the left hand side, you will see a Xubuntu logo. Clicking it opens the "
+"main menu."
 msgstr ""
+"Na lijevoj strani, vidjet ćete Xubuntu logotip. Klikom na njega otvara se "
+"glavni izbornik."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:18
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/02_desktop.html:9
 msgid ""
 "The middle part of the panel is dedicated to window buttons for open "
 "applications."
 msgstr ""
+"Središnji dio panela je određen tipkama prozora za otvaranje aplikacija."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:19
-msgid ""
-"On the far right, you will see indicators and a clock. Click the clock to "
-"see the monthly calendar."
-msgstr ""
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/02_desktop.html:10
+msgid "On the far right, you will see indicators and a clock."
+msgstr "Na desnoj strani, vidjet ćete indikatore i sat."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:23
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/02_desktop.html:15
 msgid ""
-"Customize your panel by right-clicking it and selecting <em>Panel » Panel "
-"Preferences</em>. You can also add and remove panels using this dialog."
+"On the desktop you will see icons that can be used to access some of the "
+"most common places on your system. In the Settings Manager you will find "
+"many tools to change this default desktop."
 msgstr ""
+"Na radnoj površini vidjet ćete ikone koje se mogu koristiti za pristup "
+"najčešće korištenim lokacijama na vašem sustavu. U upravitelju postavkama "
+"pronaći ćete mnogo alata za promjenu zadane radne površine."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/02_desktop.html:19
+msgid ""
+"Most of the tools to customise your desktop to your liking will be found at "
+"the top in the <strong>Personal</strong> section. For quick visible changes "
+"to your desktop, play with the Panel, Theme Configuration, Appearance and "
+"Window Manager tools."
+msgstr ""
+"Većina alata za prilagodbu vaše radne površine mogu se pronaći na vrhu u "
+"<strong>Osobno</strong> odjeljku. Za odmah vidljive promjene na vašoj radnoj "
+"površini upotrijebite Panel, Prilagodbe teme, Izgled i Alate upravitelja "
+"prozora."
+
+#. type: Content of: <div><div><h1>
+#: slideshows/xubuntu/slides/02_desktop.html:22
+msgid "The Xubuntu desktop"
+msgstr "Xubuntu radna površina"
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/04_customize.html:2
-msgid "Make the desktop your own"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:7
-msgid ""
-"Edit your user menus, whether adding applications, directories, separators "
-"to the menu layout or reordering menu items. Create new launchers and modify "
-"existing ones with <span class=\"app\" data-app=\"menulibre\">MenuLibre</"
-"span>."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:8
-msgid ""
-"Control the look of your window borders, how the windows themselves look and "
-"the appearance of your icons with the <span class=\"app\" data-app=\"theme-"
-"config\">Theme Configuration</span> utility."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:13
-msgid "Menu Editor"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:14
-msgid "Theme Configuration"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/05_support.html:2
+#: slideshows/xubuntu/slides/03_support.html:2
 msgid "Help & Support"
-msgstr ""
+msgstr "Pomoć i podrška"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:7
+#: slideshows/xubuntu/slides/03_support.html:5
 msgid ""
-"The <span class=\"app\" data-app=\"docs\">Official Documentation</span> that "
-"covers many of the most common areas and questions about Xubuntu is shipped "
-"with every Xubuntu release. The documentation is also available <a href="
-"\"http://docs.xubuntu.org/\">online</a>."
+"The <em>Official Documentation</em> that covers many of the most common "
+"areas and questions about Xubuntu is shipped with every Xubuntu release. You "
+"can find it under <strong>Menu &rsaquo; Help</strong>. The documentation is "
+"also available <a href=\"http://docs.xubuntu.org/\">online</a>."
 msgstr ""
+"<em>Službena dokumentacija</em> koja pokriva najčešća područja i pitanja o "
+"Xubuntu isporučena je sa svakim Xubuntu izdanjem. Možete ju pronaći u "
+"<strong>Izbornik; Pomoć</strong>. Dokumentacija je isto tako dostuona i na "
+"<a href=\"http://docs.xubuntu.org/\">internetu</a>."
 
 #. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/05_support.html:8
+#: slideshows/xubuntu/slides/03_support.html:6
 msgid "Other resources"
-msgstr ""
+msgstr "Ostali resursi"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:9
+#: slideshows/xubuntu/slides/03_support.html:7
 msgid ""
 "Still have questions? The full list of support methods is available at the "
 "<a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
 "Xubuntu website."
 msgstr ""
+"Još uvijek imate pitanja? Potpun popis podržanih načina je dostupan na <a "
+"href=\"http://xubuntu.org/help\">Odjeljak pomoći i podrške</a> na the "
+"Xubuntu internetskoj stranici."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/05_support.html:13
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/04_support-live.html:2
 msgid "Real-time support"
-msgstr ""
+msgstr "Trenutna podrška"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:14
+#: slideshows/xubuntu/slides/04_support-live.html:6
 msgid ""
-"For live, online support <strong>in English</strong>, join our IRC channel, "
+"For live, online support <em>in English</em>, join our IRC channel, "
 "<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
 "channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
 msgstr ""
+"Za trenutačnu pomoć na internetu, <em>na engleskom jeziku</em>, pridružite "
+"se našem IRC kanalu, <em>#xubuntu</em>, pomoću<a href=\"http://webchat."
+"freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">klika ovdje</a>."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:15
+#: slideshows/xubuntu/slides/04_support-live.html:7
 msgid ""
-"For support in <strong>other languages</strong>, view the full list of <a "
-"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
-"channels</a>."
+"For support in <em>other languages</em>, view the full list of <a href="
+"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+msgstr ""
+"Za podršku na <em>ostalim jezicima</em>, pogledajte potpun popis <a href="
+"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">loklanih podržanih kanala</"
+"a>."
+
+#. type: Content of: <div><div>
+#: slideshows/xubuntu/slides/04_support-live.html:16
+msgid "Meow"
 msgstr ""
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:20
-msgid "Help"
-msgstr "Pomoć"
-
 #. type: Content of: <div><div><h1>
-#: slideshows/xubuntu/slides/06_thanks.html:4
+#: slideshows/xubuntu/slides/05_contribute.html:3
+msgid "Want to contribute?"
+msgstr "Želite doprinijeti?"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/05_contribute.html:5
+msgid ""
+"Like what you see? Like what you use? Why not join in? You don't have to be "
+"able to code – there are many different parts we need help with."
+msgstr ""
+"Volite ono što vidite? Volite ono što koristite? Zašto se ne bi pridružili? "
+"Ne trebate biti programer – postoje mnogo drugih područja u kojima nam je "
+"potrebna pomoć."
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/05_contribute.html:6
+msgid ""
+"To read about all of the opportunities available to you, head to the <a href="
+"\"http://xubuntu.org/contribute/\">Get Involved</a> section of our website. "
+"This page has introductions to our various subteams as well as links to "
+"other important websites related to Xubuntu development."
+msgstr ""
+"Kako bi mogli čitati o svim dostupnim mogućnostima, posjetite <a href="
+"\"http://xubuntu.org/contribute/\">Uključite se</a> odjeljak na našoj web "
+"stranici. Ta stranica sadrži uvod u razne podsustave kako i poveznice na "
+"ostale bitne web stranice povezane s Xubuntu razvojem."
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:10
+msgid "testing"
+msgstr "testiranje"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:11
+msgid "social media"
+msgstr "društveni mediji"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:12
+msgid "documentation"
+msgstr "dokumentacija"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:13
+msgid "bug triage"
+msgstr "pratitelj grešaka"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:14
+msgid "artwork"
+msgstr "ilustracije"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:15
+msgid "development"
+msgstr "razvoj"
+
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/06_thanks.html:2
 msgid "Thank you!"
 msgstr "Hvala vam!"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:9
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/06_thanks.html:5
 msgid ""
-"Thanks for taking the time to install Xubuntu with us. Feel free to pass on "
-"your installation media and let others try Xubuntu as well!"
+"Thanks for taking the time to install Xubuntu. Feel free to pass on your "
+"installation media and let others try Xubuntu as well!"
 msgstr ""
+"Hvala vam što ste instalirali Xubuntu. Slobodno ga dodajte na vaš "
+"instalacijski medij i dajte drugim osoboma da isprobaju Xubuntu!"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:11
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/06_thanks.html:6
 msgid ""
 "We'd love to hear about your experiences with Xubuntu. You can share them on "
 "the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-"\">Xubuntu users mailing list</a> or on the <em>#xubuntu-offtopic</em> IRC "
-"channel."
+"\">Xubuntu users mailing list</a> or if you are still here, on <em>#xubuntu-"
+"offtopic</em> IRC channel where you might find people to talk with."
 msgstr ""
+"Željeli bismo čuti o vašem iskustvu s Xubuntuom. Možete ga podijeliti na <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users\">Xubuntu "
+"korisničkoj mailing listi</a> ili ako ste još ovdje, na <em>#xubuntu-"
+"offtopic</em> IRC kanalu gdje možete pronaći ljude koji će razgovarati s "
+"vama."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/06_thanks.html:13
-msgid "We need your help!"
-msgstr ""
+#~ msgid "Help"
+#~ msgstr "Pomoć"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:14
-msgid ""
-"Want to give something back? The different ways to contribute to the Xubuntu "
-"community can all be found on the <a href=\"http://xubuntu.org/devel\">Get "
-"Involved</a> section of our website."
-msgstr ""
+#~ msgid "<strong>Firefox</strong>, web browser"
+#~ msgstr "<strong>Firefox</strong>, web preglednik"
+
+#~ msgid "<strong>Thunderbird</strong>, mail and news client"
+#~ msgstr "<strong>Thunderbird</strong>, klijent pošte i novosti"
+
+#~ msgid "<b>»</b>"
+#~ msgstr "<b>»</b>"
+
+#~ msgid "<strong>Ubuntu Software Center</strong>"
+#~ msgstr "<strong>Ubuntu centar softvera</strong>"
+
+#~ msgid "We need your help!"
+#~ msgstr "Trebamo vašu pomoć!"
+
+#~ msgid "Office"
+#~ msgstr "Ured"
+
+#~ msgid "Internet"
+#~ msgstr "Internet"
+
+#~ msgid "Congratulations, you have chosen to install Xubuntu 15.10!"
+#~ msgstr "Čestitamo. odabrali ste instalaciju Xubuntua 15.10!"
+
+#~ msgid ""
+#~ "Here is a brief list of some applications that are preinstalled with "
+#~ "Xubuntu for your convenience. Find them in the menu on the left top "
+#~ "corner of your screen. You can install more through the <span class=\"app"
+#~ "\" data-app=\"usc\">Ubuntu Software Center</span>."
+#~ msgstr ""
+#~ "Ovdje j kratak popis nekih aplikacija koje su predinstalirane s Xubuntuom "
+#~ "zbog vaše pogodnosti. Nađite ih u izborniku u gornjem lijevom kutu vašega "
+#~ "zaslona. Možete ih instalirati još preko <span class=\"app\" data-app="
+#~ "\"usc\">Ubuntu centra softvera</span>."
+
+#~ msgid "<strong>LibreOffice Calc</strong>, spreadsheet editor"
+#~ msgstr "<strong>LibreOffice Calc</strong>, proračunske tablice"
+
+#~ msgid "<strong>LibreOffice Writer</strong>, word processor"
+#~ msgstr "<strong>LibreOffice Writer</strong>, obrada teksta"
+
+#~ msgid "Ubuntu Software Center"
+#~ msgstr "Ubuntu Centar softvera"
+
+#~ msgid "<strong>gmusicbrowser</strong>, music collection software"
+#~ msgstr "<strong>gmusicbrowser</strong>, softver glazbene kolekcije"
+
+#~ msgid "<strong>Parole</strong>, media player"
+#~ msgstr "<strong>Parole</strong>, medijski reproduktor"
+
+#~ msgid "Media"
+#~ msgstr "Medija"
+
+#~ msgid "System & Settings"
+#~ msgstr "Sustav i postavke"
+
+#~ msgid "Personalize your computer"
+#~ msgstr "Prilagodite svoje računalo"
+
+#~ msgid ""
+#~ "On the left hand side, you will see a Xubuntu logo. Click it to open the "
+#~ "main menu. We will tell you more about this menu in the next slide."
+#~ msgstr ""
+#~ "Na lijevoj strani, vidjet ćete Xubuntu logotip. Kliknite na njega za "
+#~ "otvaranje glavnog izbornika. Reći ćemo vam više o tom izborniku na "
+#~ "sljedećoj prezentaciji."
+
+#~ msgid ""
+#~ "On the desktop you will see icons that can be used to access some of the "
+#~ "most common places on your system. In addition, you will see a single, "
+#~ "multipurpose, panel at the top of the screen."
+#~ msgstr ""
+#~ "Na radnoj površini vidjeti  ćete ikone koje se mogu koristiti za pristup "
+#~ "najčešće korištenim mjestima na vašem sustavu. Dodatno, vidjeti ćete "
+#~ "jedan, višenamjenski, panel na vrhu zaslona."
+
+#~ msgid ""
+#~ "On the far right, you will see indicators and a clock. Click the clock to "
+#~ "see the monthly calendar."
+#~ msgstr ""
+#~ "Dalje desno, vidjet ćete indikatore i sat. Kliknite na sat kako bi "
+#~ "vidjeli kalendar."
+
+#~ msgid ""
+#~ "Your profile information will automatically be picked up by supported "
+#~ "applications like Pidgin, LibreOffice Writer and Calc."
+#~ msgstr ""
+#~ "Vaše informacije profila će biti automatski učitane od strane podržanih "
+#~ "aplikacija poput Pidgina, LibreOffice Writera i Calca."
+
+#~ msgid "About Me"
+#~ msgstr "O meni"
+
+#~ msgid ""
+#~ "Easily set your profile image and user details for your user with <span "
+#~ "class=\"app\" data-app=\"mugshot\">Mugshot</span>."
+#~ msgstr ""
+#~ "S lakoćom postavite sliku vašeg profila i korisničke pojedinosti s <span "
+#~ "class=\"app\" data-app=\"mugshot\">Mugshot</span>."
+
+#~ msgid "Theme Configuration"
+#~ msgstr "Podešavanje teme"
+
+#~ msgid "Make the desktop your own"
+#~ msgstr "Prilagodite radnu površinu svojim potrebama"
+
+#~ msgid ""
+#~ "Control the look of your window borders, how the windows themselves look "
+#~ "and the appearance of your icons with the <span class=\"app\" data-app="
+#~ "\"theme-config\">Theme Configuration</span> utility."
+#~ msgstr ""
+#~ "Upravljajte izgledom vaših rubova prozora, kako sami prozori izgledaju i "
+#~ "izgledom vaših ikona s <span class=\"app\" data-app=\"theme-config"
+#~ "\">Podešavanje tema</span> utility."
+
+#~ msgid ""
+#~ "The <span class=\"app\" data-app=\"docs\">Official Documentation</span> "
+#~ "that covers many of the most common areas and questions about Xubuntu is "
+#~ "shipped with every Xubuntu release. The documentation is also available "
+#~ "<a href=\"http://docs.xubuntu.org/\">online</a>."
+#~ msgstr ""
+#~ "<span class=\"app\" data-app=\"docs\">Službena dokumentacija</span> koja "
+#~ "uključuje većinu područja i pitanja o Xubuntu dolazi sa svakim izdanjem "
+#~ "Xubuntua. Ta dokumentacija je isto tako dostupna na <a href=\"http://docs."
+#~ "xubuntu.org/\">Internetu</a>."
+
+#~ msgid ""
+#~ "Customize your panel by right-clicking it and selecting <em>Panel » Panel "
+#~ "Preferences</em>. You can also add and remove panels using this dialog."
+#~ msgstr ""
+#~ "Prilagodite svoj panel desnim klikom na njega i odabirom<em>Panel » "
+#~ "Osobitosti panela</em>. Isto tako možete ukloniti ili dodati panel pomoću "
+#~ "ovog dijaloga."
+
+#~ msgid ""
+#~ "Edit your user menus, whether adding applications, directories, "
+#~ "separators to the menu layout or reordering menu items. Create new "
+#~ "launchers and modify existing ones with <span class=\"app\" data-app="
+#~ "\"menulibre\">MenuLibre</span>."
+#~ msgstr ""
+#~ "Uredite svoj korisnički izbornik, dodavanjem aplikacija, direktorija, "
+#~ "razdjelnika na izbornik ili preraspodjelom redoslijeda stavki izbornika. "
+#~ "Stvorite novi pokretač ili promijenite postojeći s <span class=\"app\" "
+#~ "data-app=\"menulibre\">MenuLibre</span>."
+
+#~ msgid "Menu Editor"
+#~ msgstr "Uređivač izbornika"
+
+#~ msgid ""
+#~ "Want to give something back? The different ways to contribute to the "
+#~ "Xubuntu community can all be found on the <a href=\"http://xubuntu.org/"
+#~ "devel\">Get Involved</a> section of our website."
+#~ msgstr ""
+#~ "Želite nam nešto vratiti natrag? Različiti načini na kojima možete "
+#~ "doprinijeti Xubuntu zajednici  mogu se pronaći na <a href=\"http://"
+#~ "xubuntu.org/devel\">Uključite se</a> odjeljku naše internetske stranice."
+
+#~ msgid ""
+#~ "We'd love to hear about your experiences with Xubuntu. You can share them "
+#~ "on the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+#~ "\">Xubuntu users mailing list</a> or on the <em>#xubuntu-offtopic</em> "
+#~ "IRC channel."
+#~ msgstr ""
+#~ "Rado bismo saznali o vašem iskustvu u korištenju Xubuntua. Možete ga "
+#~ "podijeliti na <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-"
+#~ "users\">Xubuntu korinička mailing lista</a> ili na <em>#xubuntu-offtopic</"
+#~ "em> IRC kanalu."
+
+#~ msgid ""
+#~ "Thanks for taking the time to install Xubuntu with us. Feel free to pass "
+#~ "on your installation media and let others try Xubuntu as well!"
+#~ msgstr ""
+#~ "Hvala vam što ste instalirali Xubuntu. Slobodno proslijedite vaš "
+#~ "instalacijski medij drugim osobama tako da i oni mogu isprobati Xubuntu!"
+
+#~ msgid ""
+#~ "For live, online support <strong>in English</strong>, join our IRC "
+#~ "channel, <em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
+#~ "channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+#~ msgstr ""
+#~ "Za trenutnu podršku, putem interneta <strong>na engleskom</strong>, "
+#~ "pridružite se našem IRC kanalu, <em>#xubuntu</em>, <a href=\"http://"
+#~ "webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">klikom "
+#~ "ovdje</a>."
+
+#~ msgid ""
+#~ "For support in <strong>other languages</strong>, view the full list of <a "
+#~ "href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+#~ "channels</a>."
+#~ msgstr ""
+#~ "Za podršku na <strong>drugim jezicima</strong>, pogledajte potpun popis "
+#~ "<a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">lokalnih kanala "
+#~ "podrške</a>."
+
+#~ msgid "<strong>Pidgin</strong>, Internet messenger"
+#~ msgstr "<strong>Pidgin</strong>, trenutno dopisivanje"

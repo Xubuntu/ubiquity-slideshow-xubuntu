@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:52+0300\n"
-"PO-Revision-Date: 2015-09-18 18:09+0000\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-04-10 19:23+0000\n"
 "Last-Translator: Josef Andersson <Unknown>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/accessibility.html:2
@@ -39,7 +39,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/browse.html:2
 msgid "Make the most of the web"
-msgstr "Gör det mesta av webben"
+msgstr "Få ut det mesta av webben"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/browse.html:8
@@ -197,32 +197,32 @@ msgstr ""
 "och sociala nätverk."
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu-gnome/slides/usc.html:2
+#: slideshows/ubuntu-gnome/slides/software.html:2
 msgid "Find even more software"
 msgstr "Hitta ännu fler program"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/usc.html:8
+#: slideshows/ubuntu-gnome/slides/software.html:8
 msgid "<strong>Say Goodbye to searching the web for a software.</strong>"
 msgstr "<strong>Säg adjö till att söka på nätet efter program.</strong>"
 
-#. type: Content of: <div><div><div>
-#: slideshows/ubuntu-gnome/slides/usc.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/software.html:9
 msgid ""
-"With Ubuntu Software Center you can easily find and install software. Your "
-"ratings and reviews are used to rank software by popularity. You have access "
-"to thousands of free and commercial applications. Installing anything is "
-"just a couple of clicks away from you."
+"With GNOME Software you can easily find and install software. Your ratings "
+"and reviews are used to rank software by popularity. You have access to "
+"thousands of free and commercial applications. Installing anything is just a "
+"couple of clicks away from you."
 msgstr ""
-"Med Ubuntus programcentral kan du enkelt finna och installera program. Dina "
-"betyg och recensioner används för att gradera program efter popularitet. Du "
-"har tillgång till tusentals fria samt kommersiella program. Att installera "
-"något är bara ett fåtal klick bort."
+"Med GNOME Programvara kan du enkelt hitta och installera program. Dina betyg "
+"och recensioner används för att rangordna program efter popularitet. Du kan "
+"komma åt tusentals fria och kommersiella program. Att installera kräver bara "
+"några enstaka musklick från din sida."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/welcome.html:2
-msgid "Welcome to Ubuntu GNOME 15.10"
-msgstr "Välkommen till Ubuntu GNOME 15.10"
+msgid "Welcome to Ubuntu GNOME 16.04"
+msgstr "Välkommen till Ubuntu GNOME 16.04"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:8
@@ -242,149 +242,16 @@ msgstr ""
 "Den senaste versionen av Ubuntu GNOME är det bästa valet för de som letar "
 "efter ett snabbt, vackert, enkelt och användbart operativsystem."
 
-#~ msgid "Customization options"
-#~ msgstr "Anpassningsalternativ"
-
-#~ msgid "Assistive technologies"
-#~ msgstr "Hjälpmedelsteknik"
-
-#~ msgid "Language support"
-#~ msgstr "Språkstöd"
+#~ msgid "Welcome to Ubuntu GNOME 15.10"
+#~ msgstr "Välkommen till Ubuntu GNOME 15.10"
 
 #~ msgid ""
-#~ "Ubuntu GNOME has everything you need to browse the web. Firefox offers "
-#~ "powerful personalization, support for cutting-edge web standards, "
-#~ "carefully optimized performance, and advanced security while still "
-#~ "remaining easy to use."
+#~ "With Ubuntu Software Center you can easily find and install software. "
+#~ "Your ratings and reviews are used to rank software by popularity. You "
+#~ "have access to thousands of free and commercial applications. Installing "
+#~ "anything is just a couple of clicks away from you."
 #~ msgstr ""
-#~ "Ubuntu GNOME har allt du behöver för att surfa på nätet. Firefox kan "
-#~ "erbjuda kraftfulla personanpassningar, stöd för de nyaste "
-#~ "webbstandarderna, noggrant optimerad prestanda och avancerad säkerhet, "
-#~ "men är fortfarande enkelt att använda."
-
-#~ msgid "Included software"
-#~ msgstr "Inkluderad programvara"
-
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Webläsaren Firefox"
-
-#~ msgid "Supported software"
-#~ msgstr "Programvara som stöds"
-
-#~ msgid "Flash"
-#~ msgstr "Flash"
-
-#~ msgid "Chromium"
-#~ msgstr "Chromium"
-
-#~ msgid "Enhance your workflow with <strong>dynamic workspaces</strong>"
-#~ msgstr ""
-#~ "Förbättra ditt arbetsflöde med <strong>dynamiska arbetsytor</strong>"
-
-#~ msgid "Thank you for choosing and installing Ubuntu GNOME."
-#~ msgstr "Tack för att du valt och installerat Ubuntu GNOME"
-
-#~ msgid ""
-#~ "Learn more about Ubuntu GNOME from <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
-#~ msgstr ""
-#~ "Ta reda på mer om Ubuntu GNOME på <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
-
-#~ msgid ""
-#~ "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
-#~ "ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
-#~ msgstr ""
-#~ "För hjälp och support, se <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
-#~ "ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
-
-#~ msgid "Access <strong>your online documents</strong> natively"
-#~ msgstr "Kom åt <strong>dina nätdokument</strong> lokalt"
-
-#~ msgid "Manage <strong>your address book</strong> easily"
-#~ msgstr "Hantera enkelt <strong>din adressbok</strong>"
-
-#~ msgid "Chat with <strong>your friends</strong> from Facebook, Google, etc."
-#~ msgstr "Chatta med <strong>dina vänner</strong> från Facebook, Google, etc."
-
-#~ msgid "Videos"
-#~ msgstr "Videor"
-
-#~ msgid "LibreOffice Suite"
-#~ msgstr "Sviten LibreOffice"
-
-#~ msgid "Documents"
-#~ msgstr "Dokument"
-
-#~ msgid "Evince Document Viewer"
-#~ msgstr "Dokumentvisaren Evince"
-
-#~ msgid ""
-#~ "With Shotwell, you can quickly and easily import, organize, edit and view "
-#~ "your pictures. And you can share your favorite snaps on all popular photo "
-#~ "sites and social networks."
-#~ msgstr ""
-#~ "Med Shotwell kan du snabbt och enkelt importera, organisera, redigera och "
-#~ "se dina bilder. Och, du kan dela dina favoritbilder på alla populära "
-#~ "fotowebbplatser och sociala nätverk."
-
-#~ msgid "Shotwell Photo Manager"
-#~ msgstr "Fotohanteraren Shotwell"
-
-#~ msgid "GIMP Image Editor"
-#~ msgstr "Bildredigeraren GIMP"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
-
-#~ msgid "<strong>Say goodbye to searching the web for new software. </strong>"
-#~ msgstr ""
-#~ "<strong>Säg adjö till att söka på webben efter ny programvara. </strong>"
-
-#~ msgid ""
-#~ "Ubuntu Software Center gives you instant access to thousands of great "
-#~ "games and applications — some free and some available commercially. If "
-#~ "you see something you like, you can see more information and install it "
-#~ "in just a few clicks."
-#~ msgstr ""
-#~ "Programcentralen för Ubuntu ger dig direkt åtkomst till tusentals "
-#~ "fantastiska spel och program - en del gratis och några tillgängligt "
-#~ "kommersiellt. Om du ser något du gillar kan du se mer information och "
-#~ "installera det med bara några klick."
-
-#~ msgid ""
-#~ "Ubuntu GNOME features the GNOME desktop on top of the popular Ubuntu "
-#~ "foundation."
-#~ msgstr ""
-#~ "Ubuntu GNOME innehåller GNOME-skrivbordet med det populära Ubuntu som "
-#~ "grund."
-
-#~ msgid ""
-#~ "We believe the combination of Ubuntu and GNOME is the best choice for "
-#~ "those looking for a beautiful, simple, and usable operating system."
-#~ msgstr ""
-#~ "Vi tror att kombinationen Ubuntu och GNOME är det bästa valet för de som "
-#~ "letar efter ett vackert, enkelt och användbart operativsystem."
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Musikspelaren Rhythmbox"
-
-#~ msgid ""
-#~ "We understand how important your computer is for day-to-day tasks. Create "
-#~ "professional documents, spreadsheets and presentations with LibreOffice "
-#~ "and manage your local and online documents in a single place with GNOME "
-#~ "Documents."
-#~ msgstr ""
-#~ "Vi förstår hur viktig din dator är för dagliga uppgifter. Skapa "
-#~ "professionella dokument, kalkylblad och presentationer med LibreOffice, "
-#~ "och hantera dina lokal- och nätdokument på ett enda ställe med GNOME "
-#~ "dokument."
-
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "Videoredigeraren Pitivi"
-
-#~ msgid "Everything you need for the office"
-#~ msgstr "Allt du behöver för kontoret"
-
-#~ msgid "Welcome to Ubuntu GNOME 15.04"
-#~ msgstr "Välkommen till Ubuntu GNOME 15.04"
+#~ "Med Ubuntus programcentral kan du enkelt finna och installera program. "
+#~ "Dina betyg och recensioner används för att gradera program efter "
+#~ "popularitet. Du har tillgång till tusentals fria samt kommersiella "
+#~ "program. Att installera något är bara ett fåtal klick bort."

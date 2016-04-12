@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:51+0300\n"
-"PO-Revision-Date: 2015-04-14 06:56+0000\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-04-12 16:15+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <ca@li.org>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -24,12 +24,17 @@ msgid "Welcome to Xubuntu"
 msgstr "Us donem la benvinguda al Xubuntu"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "Congratulations, you have chosen to install Xubuntu 15.10!"
-msgstr ""
+#: slideshows/xubuntu/slides/00_welcome.html:5
+msgid "Congratulations for choosing to install"
+msgstr "Enhorabona per escollir la instal·lació"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:8
+#: slideshows/xubuntu/slides/00_welcome.html:5
+msgid "Xubuntu 16.04 LTS!"
+msgstr "Xubuntu 16.04 LTS!"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/00_welcome.html:6
 msgid ""
 "If you are running this installation via the <em>Try Xubuntu</em> option, "
 "feel free to examine things as Xubuntu installs. After the installation, the "
@@ -39,162 +44,94 @@ msgstr ""
 "dubteu en examinar el que vulgueu mentre s'instal·la el Xubuntu. Després de "
 "la instal·lació, l'escriptori es veurà semblant al que es veu ara."
 
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/00_welcome.html:10
+msgid "<span class=\"fo is\">Xubuntu</span>"
+msgstr "<span class=\"fo is\">Xubuntu</span>"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/00_welcome.html:11
+msgid "<span class=\"fo plus\">Xfce</span>"
+msgstr "<span class=\"fo plus\">Xfce</span>"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/00_welcome.html:12
+msgid "<span class=\"fo\">Ubuntu</span>"
+msgstr "<span class=\"fo\">Ubuntu</span>"
+
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/01_defaultapps.html:2
+#: slideshows/xubuntu/slides/01_applications.html:2
 msgid "Ready to go!"
 msgstr "Llest per utilitzar"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:7
+#: slideshows/xubuntu/slides/01_applications.html:5
 msgid ""
-"Here is a brief list of some applications that are preinstalled with Xubuntu "
-"for your convenience. Find them in the menu on the left top corner of your "
-"screen. You can install more through the <span class=\"app\" data-app=\"usc"
-"\">Ubuntu Software Center</span>."
+"Here is a list of some applications that are preinstalled with Xubuntu for "
+"your convenience. Find them in the applications menu and install more with "
+"the package manager."
 msgstr ""
-"Heus ací una llista breu d'algunes aplicacions que estan preinstal·lades amb "
-"el Xubuntu per a la vostra conveniència. Trobeu-les al menú a la cantonada "
-"superior esquerra de la vostra pantalla. Podeu instal·lar més aplicacions "
-"mitjançant el <span class=\"app\" data-app=\"usc\">Centre de Programari de "
-"l' Ubuntu</span>."
+"Aquí teniu una llista d'algunes aplicacions que estan preinstal·lades amb "
+"l'Xubuntu per a la vostra conveniència. Trobeu-les al menú d'aplicacions i "
+"instal·leu més amb el gestor de paquets."
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/01_defaultapps.html:10
-msgid "Internet"
-msgstr "Internet"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:8
+msgid "<strong>Firefox</strong> <span>Web browser</span>"
+msgstr "<strong>Firefox</strong> <span>Navegador web</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:11
-msgid "<strong>Firefox</strong>, web browser"
-msgstr "<strong>Firefox</strong>, navegador web"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:9
+msgid "<strong>Thunderbird</strong> <span>Mail and news client</span>"
+msgstr "<strong>Thunderbird</strong> <span>Client de correu i notícies</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:12
-msgid "<strong>Thunderbird</strong>, mail and news client"
-msgstr "<strong>Thunderbird</strong>, client de correu i notícies"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:10
+msgid "<strong>Pidgin</strong> <span>Internet messenger</span>"
+msgstr "<strong>Pidgin</strong> <span>Missatger d'Internet</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:13
-msgid "<strong>Pidgin</strong>, Internet messenger"
-msgstr "<strong>Pidgin</strong>, missatgeria instantània per Internet"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:11
+msgid "<strong>Parole</strong> <span>Media player</span>"
+msgstr "<strong>Parole</strong> <span>Reproductor multimèdia</span>"
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/01_defaultapps.html:14
-msgid "Office"
-msgstr "Oficina"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:14
+msgid "<strong>LibreOffice Writer</strong> <span>Word processor</span>"
+msgstr "<strong>LibreOffice Writer</strong> <span>Processador de textos</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:15
-msgid "<strong>LibreOffice Writer</strong>, word processor"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:15
+msgid "<strong>LibreOffice Calc</strong> <span>Spreadsheet editor</span>"
 msgstr ""
+"<strong>LibreOffice Calc</strong> <span>Editor de fulls de càlcul</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:16
-msgid "<strong>LibreOffice Calc</strong>, spreadsheet editor"
-msgstr ""
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:16
+msgid "<strong>Gnome Software</strong> <span>Package manager</span>"
+msgstr "<strong>Gnome Software</strong> <span>Gestor de paquets</span>"
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/01_defaultapps.html:19
-msgid "Media"
-msgstr "Multimèdia"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:20
-msgid "<strong>gmusicbrowser</strong>, music collection software"
-msgstr "<strong>gmusicbrowser</strong>, programari de col·lecció de música"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:21
-msgid "<strong>Parole</strong>, media player"
-msgstr "<strong>Parole</strong>, reproductor multimèdia"
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/01_defaultapps.html:22
-msgid "System & Settings"
-msgstr "Sistema i configuració"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:23
-msgid "<strong>Ubuntu Software Center</strong>"
-msgstr "<strong>Centre de programari de l'Ubuntu </strong>"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:24
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:17
 msgid "<strong>Settings Manager</strong>"
 msgstr "<strong>Gestor de configuracions</strong>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:28
-#: slideshows/xubuntu/slides/02_personalize.html:13
-#: slideshows/xubuntu/slides/04_customize.html:13
-#: slideshows/xubuntu/slides/04_customize.html:14
-#: slideshows/xubuntu/slides/05_support.html:20
-msgid "<b>»</b>"
-msgstr "<b>»</b>"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:28
-msgid "Ubuntu Software Center"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/02_personalize.html:2
-msgid "Personalize your computer"
-msgstr "Personalitzeu el vostre ordinador"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_personalize.html:7
-msgid ""
-"Easily set your profile image and user details for your user with <span "
-"class=\"app\" data-app=\"mugshot\">Mugshot</span>."
-msgstr ""
-"Establiu fàcilment la imatge del vostre perfil  i els detalls personals per "
-"al vostre usuari amb <span class=\"app\" data-app=\"mugshot\">Mugshot</span>."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_personalize.html:8
-msgid ""
-"Your profile information will automatically be picked up by supported "
-"applications like Pidgin, LibreOffice Writer and Calc."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_personalize.html:13
-msgid "About Me"
-msgstr "Quant a mi"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/03_desktop.html:2
-msgid "The Xubuntu desktop"
-msgstr "L'escriptori Xubuntu"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:7
-msgid ""
-"On the desktop you will see icons that can be used to access some of the "
-"most common places on your system. In addition, you will see a single, "
-"multipurpose, panel at the top of the screen."
-msgstr ""
-"Podreu veure icones a l'escriptori que es poden usar per accedir alguns dels "
-"llocs més comuns del vostre sistema. Addicionalment, veureu un plafó únic, "
-"multifuncional, a la part superior de la pantalla."
-
 #. type: Attribute 'alt' of: <div><div><img>
-#: slideshows/xubuntu/slides/03_desktop.html:11
+#: slideshows/xubuntu/slides/02_desktop.html:3
 msgid "Xubuntu default panel"
 msgstr "Plafó predeterminat del Xubuntu"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:17
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/02_desktop.html:8
 msgid ""
-"On the left hand side, you will see a Xubuntu logo. Click it to open the "
-"main menu. We will tell you more about this menu in the next slide."
+"On the left hand side, you will see a Xubuntu logo. Clicking it opens the "
+"main menu."
 msgstr ""
-"A la part esquerra veureu el logo del Xubuntu. Cliqueu-lo per obrir el menú "
-"principal. Us explicarem més sobre aquest menú a la transparència següent."
+"A la part esquerra, veureu el logo del Xubuntu. Si el cliqueu, s'obrirà el "
+"menú principal."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:18
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/02_desktop.html:9
 msgid ""
 "The middle part of the panel is dedicated to window buttons for open "
 "applications."
@@ -202,85 +139,67 @@ msgstr ""
 "La part central del plafó es dedica a botons de finestres per a aplicacions "
 "obertes."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:19
-msgid ""
-"On the far right, you will see indicators and a clock. Click the clock to "
-"see the monthly calendar."
-msgstr ""
-"A l'extrem dret veureu indicadors i un rellotge. Cliqueu sobre el rellotge "
-"per veure el calendari mensual."
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/02_desktop.html:10
+msgid "On the far right, you will see indicators and a clock."
+msgstr "A l'extrem dret veureu indicadors i un rellotge."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:23
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/02_desktop.html:15
 msgid ""
-"Customize your panel by right-clicking it and selecting <em>Panel » Panel "
-"Preferences</em>. You can also add and remove panels using this dialog."
+"On the desktop you will see icons that can be used to access some of the "
+"most common places on your system. In the Settings Manager you will find "
+"many tools to change this default desktop."
 msgstr ""
-"Personalitzeu el vostre plafó fent un clic amb el botó dret del ratolí i "
-"seleccionant <em>Plafó » Preferències del plafó</em>."
+"A l'escriptori veureu icones que poden usar-se per accedir alguns dels llocs "
+"més comuns al vostre sistema. Al Gestor de configuracions trobareu moltes "
+"eines per canviar l'escriptori per defecte."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/02_desktop.html:19
+msgid ""
+"Most of the tools to customise your desktop to your liking will be found at "
+"the top in the <strong>Personal</strong> section. For quick visible changes "
+"to your desktop, play with the Panel, Theme Configuration, Appearance and "
+"Window Manager tools."
+msgstr ""
+"La major part de les eines per personalitzar el vostre escriptori d'acord "
+"amb el vostre gust les podeu trobar a la part superior de la secció "
+"<strong>Personal</section>. Per a canvis ràpids visibles al vostre "
+"escriptori, jugueu amb el Panell, la Configuració del tema, Aparença i Eines "
+"de gestió de finestres."
+
+#. type: Content of: <div><div><h1>
+#: slideshows/xubuntu/slides/02_desktop.html:22
+msgid "The Xubuntu desktop"
+msgstr "L'escriptori Xubuntu"
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/04_customize.html:2
-msgid "Make the desktop your own"
-msgstr "Feu el vostre l'escriptori"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:7
-msgid ""
-"Edit your user menus, whether adding applications, directories, separators "
-"to the menu layout or reordering menu items. Create new launchers and modify "
-"existing ones with <span class=\"app\" data-app=\"menulibre\">MenuLibre</"
-"span>."
-msgstr ""
-"Editeu els vostres menús, sigui afegint aplicacions, directoris o separadors "
-"a la disposició de menú, o reordenant els elements. Creeu nous llançadors i "
-"modifiqueu els existents amb <span class=\"app\" data-app=\"menulibre"
-"\">MenuLibre</span>."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:8
-msgid ""
-"Control the look of your window borders, how the windows themselves look and "
-"the appearance of your icons with the <span class=\"app\" data-app=\"theme-"
-"config\">Theme Configuration</span> utility."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:13
-msgid "Menu Editor"
-msgstr "Editor de menú"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:14
-msgid "Theme Configuration"
-msgstr "Configuració del tema"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/05_support.html:2
+#: slideshows/xubuntu/slides/03_support.html:2
 msgid "Help & Support"
 msgstr "Ajuda i assistència"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:7
+#: slideshows/xubuntu/slides/03_support.html:5
 msgid ""
-"The <span class=\"app\" data-app=\"docs\">Official Documentation</span> that "
-"covers many of the most common areas and questions about Xubuntu is shipped "
-"with every Xubuntu release. The documentation is also available <a href="
-"\"http://docs.xubuntu.org/\">online</a>."
+"The <em>Official Documentation</em> that covers many of the most common "
+"areas and questions about Xubuntu is shipped with every Xubuntu release. You "
+"can find it under <strong>Menu &rsaquo; Help</strong>. The documentation is "
+"also available <a href=\"http://docs.xubuntu.org/\">online</a>."
 msgstr ""
-"La <span class=\"app\" data-app=\"docs\">Documentació oficial</span> que "
-"cobreix moltes des les qüestions i àrees més comuns sobre el Xubuntu es "
-"distribueix amb cada llançament del Xubuntu. La documentació també està "
-"disponible a  <a href=\"http://docs.xubuntu.org/\">online</a>."
+"La <em>Documentació oficial</em> que cobreix moltes de les àrees i preguntes "
+"més comunes sobre el Xubuntu es distribueix amb cada llançament del Xubuntu. "
+"La podeu trobar sota el <strong>Menú &rsaquo; Ajuda</strong>. La "
+"documentació també està disponible  <a href=\"http://docs.xubuntu.org/\">en "
+"línia</a>."
 
 #. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/05_support.html:8
+#: slideshows/xubuntu/slides/03_support.html:6
 msgid "Other resources"
 msgstr "Altres recursos"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:9
+#: slideshows/xubuntu/slides/03_support.html:7
 msgid ""
 "Still have questions? The full list of support methods is available at the "
 "<a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
@@ -290,104 +209,289 @@ msgstr ""
 "disponible a la <a href=\"http://xubuntu.org/help\">Secció d'ajuda i suport</"
 "a> del lloc web del Xubuntu."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/05_support.html:13
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/04_support-live.html:2
 msgid "Real-time support"
 msgstr "Suport en temps real"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:14
+#: slideshows/xubuntu/slides/04_support-live.html:6
 msgid ""
-"For live, online support <strong>in English</strong>, join our IRC channel, "
+"For live, online support <em>in English</em>, join our IRC channel, "
 "<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
 "channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
 msgstr ""
-"Per a suport en viu i en línia <strong>en anglès</strong>, uniu-vos al canal "
-"d'IRC <em>#xubuntu</em>, <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicant aquí</a>."
+"Per a suport en viu, en línia i <em>en anglès</em>, uniu-vos al canal d'IRC, "
+"<em>#xubuntu</em>, tot <a href=\"http://webchat.freenode.net/?"
+"channels=xubuntu&nick=xubuntu..i&prompt=1\">cliicant aquí</a>."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:15
+#: slideshows/xubuntu/slides/04_support-live.html:7
 msgid ""
-"For support in <strong>other languages</strong>, view the full list of <a "
-"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
-"channels</a>."
+"For support in <em>other languages</em>, view the full list of <a href="
+"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
 msgstr ""
-"Per a suport en <strong>altres llengües</strong>, mireu la llista completa "
-"de <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">canals de "
-"suport local</a>."
+"Per a suport en <em>altres llengües</em>, mireu la llista completa de <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">canals de suport "
+"locals</a>."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:20
-msgid "Help"
-msgstr ""
+#. type: Content of: <div><div>
+#: slideshows/xubuntu/slides/04_support-live.html:16
+msgid "Meow"
+msgstr "Meow"
 
 #. type: Content of: <div><div><h1>
-#: slideshows/xubuntu/slides/06_thanks.html:4
+#: slideshows/xubuntu/slides/05_contribute.html:3
+msgid "Want to contribute?"
+msgstr "Voleu contribuir?"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/05_contribute.html:5
+msgid ""
+"Like what you see? Like what you use? Why not join in? You don't have to be "
+"able to code – there are many different parts we need help with."
+msgstr ""
+"Us agrada el que veieu? Us agrada el que useu? Perquè no unir-vos? No us cal "
+"saber programar – hi ha moltes parts en les quals necessitem ajuda."
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/05_contribute.html:6
+msgid ""
+"To read about all of the opportunities available to you, head to the <a href="
+"\"http://xubuntu.org/contribute/\">Get Involved</a> section of our website. "
+"This page has introductions to our various subteams as well as links to "
+"other important websites related to Xubuntu development."
+msgstr ""
+"Per llegir sobre totes les oportunitats que teniu disponibles, dirigiu-vos a "
+"la secció <a href=\"http://xubuntu.org/contribute/\">Involucreu-vos</a> de "
+"la nostra pàgina web. Aquesta pàgina conté introduccions als nostres "
+"diversos subequips, així com enllaços a altres pàgines web importants "
+"relacionades amb el desenvolupament del Xubuntu."
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:10
+msgid "testing"
+msgstr "proves"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:11
+msgid "social media"
+msgstr "recursos socials"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:12
+msgid "documentation"
+msgstr "documentació"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:13
+msgid "bug triage"
+msgstr "triatge d'errors"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:14
+msgid "artwork"
+msgstr "grafisme"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:15
+msgid "development"
+msgstr "desenvolupament"
+
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/06_thanks.html:2
 msgid "Thank you!"
 msgstr "Gràcies!"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:9
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/06_thanks.html:5
 msgid ""
-"Thanks for taking the time to install Xubuntu with us. Feel free to pass on "
-"your installation media and let others try Xubuntu as well!"
+"Thanks for taking the time to install Xubuntu. Feel free to pass on your "
+"installation media and let others try Xubuntu as well!"
 msgstr ""
-"Gràcies  per trobar el temps per instal·lar el Xubuntu amb nosaltres. No "
-"dubteu en passar el vostre medi d'instal·lació i deixar a altres provar "
-"també el Xubuntu!"
+"Gràcies per dedicar temps a instal·lar el Xubuntu. No us talleu de "
+"distribuir el vostre recurs d'instal·lació i deixar que altres també provin "
+"el Xubuntu!"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:11
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/06_thanks.html:6
 msgid ""
 "We'd love to hear about your experiences with Xubuntu. You can share them on "
 "the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-"\">Xubuntu users mailing list</a> or on the <em>#xubuntu-offtopic</em> IRC "
-"channel."
+"\">Xubuntu users mailing list</a> or if you are still here, on <em>#xubuntu-"
+"offtopic</em> IRC channel where you might find people to talk with."
 msgstr ""
-"Ens encantaria escoltar les vostres experiències amb el Xubuntu. Podeu "
-"compartir-les a la <a href=\"https://lists.ubuntu.com/mailman/listinfo/"
-"xubuntu-users\">llista de correu electrònic dels usuaris del Xubuntu</a> o "
-"al canal d'IRC <em>#xubuntu-offtopic</em>."
+"Ens encantaria sentir sobre les vostres experiències amb el Xubuntu. Les "
+"podeu compartir a la <a href=\"https://lists.ubuntu.com/mailman/listinfo/"
+"xubuntu-users\">llista d'usuaris del Xubuntu</a> o si encara esteu aquí, al "
+"canal d'IRC <em>#xubuntu-offtopic</em> on podeu trobar a gent per xerrar."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/06_thanks.html:13
-msgid "We need your help!"
-msgstr "Necessitem la vostra ajuda"
+#~ msgid "About Me"
+#~ msgstr "Quant a mi"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:14
-msgid ""
-"Want to give something back? The different ways to contribute to the Xubuntu "
-"community can all be found on the <a href=\"http://xubuntu.org/devel\">Get "
-"Involved</a> section of our website."
-msgstr ""
-"Voleu donar alguna cosa a canvi? Es poden trobar les diferents maners de "
-"contribuir a la comunitat del Xubuntu a la secció <a href=\"http://xubuntu."
-"org/devel\">Get Involved</a> de la nostra pàgina web."
+#~ msgid "Internet"
+#~ msgstr "Internet"
 
-#~ msgid "<strong>AbiWord</strong>, word processor"
-#~ msgstr "<strong>AbiWord</strong>, processador de textos"
+#~ msgid "We need your help!"
+#~ msgstr "Necessitem la vostra ajuda"
 
-#~ msgid "<strong>Gnumeric</strong>, spreadsheet editor"
-#~ msgstr "<strong>Gnumeric</strong>, editor de full de càlcul"
+#~ msgid "<b>»</b>"
+#~ msgstr "<b>»</b>"
 
-#~ msgid "Congratulations, you have chosen to install Xubuntu 15.04!"
-#~ msgstr "Enhorabona, heu escollit instal·lar el Xubuntu 15.04!"
+#~ msgid "Theme Configuration"
+#~ msgstr "Configuració del tema"
+
+#~ msgid "Office"
+#~ msgstr "Oficina"
+
+#~ msgid "<strong>Firefox</strong>, web browser"
+#~ msgstr "<strong>Firefox</strong>, navegador web"
+
+#~ msgid "<strong>Thunderbird</strong>, mail and news client"
+#~ msgstr "<strong>Thunderbird</strong>, client de correu i notícies"
+
+#~ msgid "<strong>Ubuntu Software Center</strong>"
+#~ msgstr "<strong>Centre de programari de l'Ubuntu </strong>"
+
+#~ msgid "Personalize your computer"
+#~ msgstr "Personalitzeu el vostre ordinador"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Editor de menú"
+
+#~ msgid "Media"
+#~ msgstr "Multimèdia"
+
+#~ msgid "System & Settings"
+#~ msgstr "Sistema i configuració"
 
 #~ msgid ""
-#~ "Control the look of your window borders, how the windows itself looks and "
-#~ "the looks of your icons with the <span class=\"app\" data-app=\"theme-"
-#~ "config\">Theme Configuration</span> utility."
+#~ "Easily set your profile image and user details for your user with <span "
+#~ "class=\"app\" data-app=\"mugshot\">Mugshot</span>."
 #~ msgstr ""
-#~ "Controleu l'aspecte de les vores de les vostres finestres, com es veu la "
-#~ "pròpia finestra i els aspectes de les vostres icones amb la utilitat de "
-#~ "<span class=\"app\" data-app=\"theme-config\">Configuració de temes</span>"
+#~ "Establiu fàcilment la imatge del vostre perfil  i els detalls personals "
+#~ "per al vostre usuari amb <span class=\"app\" data-app=\"mugshot"
+#~ "\">Mugshot</span>."
 
 #~ msgid ""
-#~ "Your profile information will automatically be picked up by supported "
-#~ "applications like Pidgin, Abiword, Gnumeric and LibreOffice."
+#~ "Here is a brief list of some applications that are preinstalled with "
+#~ "Xubuntu for your convenience. Find them in the menu on the left top "
+#~ "corner of your screen. You can install more through the <span class=\"app"
+#~ "\" data-app=\"usc\">Ubuntu Software Center</span>."
 #~ msgstr ""
-#~ "La vostra informació de perfil serà escollida automàticament per "
-#~ "aplicacions suportades com ara el Pidgin, l'Abiword, el Gnumeric i el "
-#~ "LibreOffice."
+#~ "Heus ací una llista breu d'algunes aplicacions que estan preinstal·lades "
+#~ "amb el Xubuntu per a la vostra conveniència. Trobeu-les al menú a la "
+#~ "cantonada superior esquerra de la vostra pantalla. Podeu instal·lar més "
+#~ "aplicacions mitjançant el <span class=\"app\" data-app=\"usc\">Centre de "
+#~ "Programari de l' Ubuntu</span>."
+
+#~ msgid "<strong>gmusicbrowser</strong>, music collection software"
+#~ msgstr "<strong>gmusicbrowser</strong>, programari de col·lecció de música"
+
+#~ msgid "<strong>Parole</strong>, media player"
+#~ msgstr "<strong>Parole</strong>, reproductor multimèdia"
+
+#~ msgid "<strong>Pidgin</strong>, Internet messenger"
+#~ msgstr "<strong>Pidgin</strong>, missatgeria instantània per Internet"
+
+#~ msgid ""
+#~ "For live, online support <strong>in English</strong>, join our IRC "
+#~ "channel, <em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
+#~ "channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+#~ msgstr ""
+#~ "Per a suport en viu i en línia <strong>en anglès</strong>, uniu-vos al "
+#~ "canal d'IRC <em>#xubuntu</em>, <a href=\"http://webchat.freenode.net/?"
+#~ "channels=xubuntu&nick=xubuntu..i&prompt=1\">clicant aquí</a>."
+
+#~ msgid ""
+#~ "The <span class=\"app\" data-app=\"docs\">Official Documentation</span> "
+#~ "that covers many of the most common areas and questions about Xubuntu is "
+#~ "shipped with every Xubuntu release. The documentation is also available "
+#~ "<a href=\"http://docs.xubuntu.org/\">online</a>."
+#~ msgstr ""
+#~ "La <span class=\"app\" data-app=\"docs\">Documentació oficial</span> que "
+#~ "cobreix moltes des les qüestions i àrees més comuns sobre el Xubuntu es "
+#~ "distribueix amb cada llançament del Xubuntu. La documentació també està "
+#~ "disponible a  <a href=\"http://docs.xubuntu.org/\">online</a>."
+
+#~ msgid ""
+#~ "For support in <strong>other languages</strong>, view the full list of <a "
+#~ "href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+#~ "channels</a>."
+#~ msgstr ""
+#~ "Per a suport en <strong>altres llengües</strong>, mireu la llista "
+#~ "completa de <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local"
+#~ "\">canals de suport local</a>."
+
+#~ msgid ""
+#~ "Customize your panel by right-clicking it and selecting <em>Panel » Panel "
+#~ "Preferences</em>. You can also add and remove panels using this dialog."
+#~ msgstr ""
+#~ "Personalitzeu el vostre plafó fent un clic amb el botó dret del ratolí i "
+#~ "seleccionant <em>Plafó » Preferències del plafó</em>."
+
+#~ msgid ""
+#~ "Edit your user menus, whether adding applications, directories, "
+#~ "separators to the menu layout or reordering menu items. Create new "
+#~ "launchers and modify existing ones with <span class=\"app\" data-app="
+#~ "\"menulibre\">MenuLibre</span>."
+#~ msgstr ""
+#~ "Editeu els vostres menús, sigui afegint aplicacions, directoris o "
+#~ "separadors a la disposició de menú, o reordenant els elements. Creeu nous "
+#~ "llançadors i modifiqueu els existents amb <span class=\"app\" data-app="
+#~ "\"menulibre\">MenuLibre</span>."
+
+#~ msgid ""
+#~ "Want to give something back? The different ways to contribute to the "
+#~ "Xubuntu community can all be found on the <a href=\"http://xubuntu.org/"
+#~ "devel\">Get Involved</a> section of our website."
+#~ msgstr ""
+#~ "Voleu donar alguna cosa a canvi? Es poden trobar les diferents maners de "
+#~ "contribuir a la comunitat del Xubuntu a la secció <a href=\"http://"
+#~ "xubuntu.org/devel\">Get Involved</a> de la nostra pàgina web."
+
+#~ msgid ""
+#~ "Thanks for taking the time to install Xubuntu with us. Feel free to pass "
+#~ "on your installation media and let others try Xubuntu as well!"
+#~ msgstr ""
+#~ "Gràcies  per trobar el temps per instal·lar el Xubuntu amb nosaltres. No "
+#~ "dubteu en passar el vostre medi d'instal·lació i deixar a altres provar "
+#~ "també el Xubuntu!"
+
+#~ msgid ""
+#~ "We'd love to hear about your experiences with Xubuntu. You can share them "
+#~ "on the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+#~ "\">Xubuntu users mailing list</a> or on the <em>#xubuntu-offtopic</em> "
+#~ "IRC channel."
+#~ msgstr ""
+#~ "Ens encantaria escoltar les vostres experiències amb el Xubuntu. Podeu "
+#~ "compartir-les a la <a href=\"https://lists.ubuntu.com/mailman/listinfo/"
+#~ "xubuntu-users\">llista de correu electrònic dels usuaris del Xubuntu</a> "
+#~ "o al canal d'IRC <em>#xubuntu-offtopic</em>."
+
+#~ msgid "Make the desktop your own"
+#~ msgstr "Feu el vostre l'escriptori"
+
+#~ msgid ""
+#~ "On the left hand side, you will see a Xubuntu logo. Click it to open the "
+#~ "main menu. We will tell you more about this menu in the next slide."
+#~ msgstr ""
+#~ "A la part esquerra veureu el logo del Xubuntu. Cliqueu-lo per obrir el "
+#~ "menú principal. Us explicarem més sobre aquest menú a la transparència "
+#~ "següent."
+
+#~ msgid ""
+#~ "On the desktop you will see icons that can be used to access some of the "
+#~ "most common places on your system. In addition, you will see a single, "
+#~ "multipurpose, panel at the top of the screen."
+#~ msgstr ""
+#~ "Podreu veure icones a l'escriptori que es poden usar per accedir alguns "
+#~ "dels llocs més comuns del vostre sistema. Addicionalment, veureu un plafó "
+#~ "únic, multifuncional, a la part superior de la pantalla."
+
+#~ msgid ""
+#~ "On the far right, you will see indicators and a clock. Click the clock to "
+#~ "see the monthly calendar."
+#~ msgstr ""
+#~ "A l'extrem dret veureu indicadors i un rellotge. Cliqueu sobre el "
+#~ "rellotge per veure el calendari mensual."

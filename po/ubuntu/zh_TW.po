@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:51+0300\n"
-"PO-Revision-Date: 2015-10-07 12:11+0000\n"
-"Last-Translator: Rockworld <sumoisrock@gmail.com>\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-03-26 07:40+0000\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -106,19 +106,20 @@ msgstr "Chromium Web瀏覽器"
 msgid "Help and support"
 msgstr "協助與支援"
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:7
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
 "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
 "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System meny."
+"the System menu."
 msgstr ""
-"正式檔涵蓋很多關於 Ubuntu 最常見的方面。它是可用的線上和通過系統功能表中的 "
-"Ubuntu 説明專案。"
+"<span class=\"app\" data-app=\"docs\">官方文件</span>涵蓋許多 Ubuntu 的應用層"
+"面。可以從 <a href=\"https://help.ubuntu.com\">線上</a> 取得，或是〈系統〉選"
+"單中的「Ubuntu 幫助」選項取得。"
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
@@ -128,8 +129,8 @@ msgstr ""
 "在問 Ubuntu 可以問問題和搜索的已回答的問題令人印象深刻的集合。可能由您當地的"
 "社區團隊提供您自己的語言的支援。"
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:11
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
 "For pointers to other useful resources, please visit <a href=\"http://"
 "community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
@@ -204,10 +205,10 @@ msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it’s easy to share them and "
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"from the GNOME Software Center."
 msgstr ""
 "Shotwell 是一個易用且支援您的裝置的相片管理程式。將您的相機或手機連接到電腦上"
-"就能輕易地分享並妥善保存您的相片。如果您深具創造力還可以試試 Ubuntu 軟體中心"
+"就能輕易地分享並妥善保存您的相片。如果您深具創造力還可以試試 GNOME 軟體中心"
 "中的許多相片應用軟體。"
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -233,14 +234,14 @@ msgstr "發掘更多好用的軟體"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the GNOME "
+"Software Store, you can find and install new apps with ease. Just type in "
+"what you’re looking for, or explore categories such as Science, Education "
+"and Games, alongside helpful reviews from other users."
 msgstr ""
-"向網路上四處尋找新軟體的日子說再見吧！透過 Ubuntu 軟體中心，您將可以輕鬆地搜"
-"尋並安裝新的應用軟體。直接輸入您想尋找的東西，或是逛逛科學、教育或遊戲之類的"
-"軟體分類，並參考其他使用者所發表的有用評論。"
+"還在茫茫網海中尋找新軟體嗎？有了 GNOME 軟體商店，您可以輕鬆尋找並安裝新程"
+"式。只要輸入想查找的東西，或是探索各分類，如科學、教育、遊戲等即可，同時還能"
+"看見其他使用者的中肯評論。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -256,17 +257,21 @@ msgstr ""
 "輕快且搭載了滿滿的新功能，Ubuntu 的最新版本讓電腦的使用變得前所未有的簡單。這"
 "裡有一些值得您一看的酷炫新玩意兒……"
 
-#~ msgid "Any questions?"
-#~ msgstr "有任何 Ubuntu 使用上的問題嗎？"
+#~ msgid ""
+#~ "Say goodbye to searching the web for new software. With Ubuntu Software "
+#~ "Center, you can find and install new apps with ease. Just type in what "
+#~ "you’re looking for, or explore categories such as Science, Education and "
+#~ "Games, alongside helpful reviews from other users."
+#~ msgstr ""
+#~ "向網路上四處尋找新軟體的日子說再見吧！透過 Ubuntu 軟體中心，您將可以輕鬆地"
+#~ "搜尋並安裝新的應用軟體。直接輸入您想尋找的東西，或是逛逛科學、教育或遊戲之"
+#~ "類的軟體分類，並參考其他使用者所發表的有用評論。"
 
 #~ msgid ""
-#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
-#~ "to all your Ubuntu questions. There’s a good chance your question will "
-#~ "have been answered already and, if not, you’ll find thousands of "
-#~ "volunteers eager to help. For more support options, go to <a href="
-#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+#~ "covers many of the most common areas about Ubuntu. It's available both <a "
+#~ "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item "
+#~ "in the System meny."
 #~ msgstr ""
-#~ "請上 <a href=\"http://askubuntu.com/\">askubuntu.com</a> 尋找您所有於 "
-#~ "Ubuntu 上的問題的解答。有很高的可能性您的問題早就已經有答案了；如果仍未找"
-#~ "到解答，您也會在這裡找到上千位樂意伸手幫忙的志願者。需要更多的支援方案，請"
-#~ "參閱 <a href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>。"
+#~ "正式檔涵蓋很多關於 Ubuntu 最常見的方面。它是可用的線上和通過系統功能表中"
+#~ "的 Ubuntu 説明專案。"

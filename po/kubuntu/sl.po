@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:51+0300\n"
-"PO-Revision-Date: 2014-03-18 14:10+0000\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-04-11 19:14+0000\n"
 "Last-Translator: Dražen Matešić <Unknown>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:20+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/accessibility.html:1
@@ -43,11 +43,15 @@ msgid ""
 "<em>Modifier Keys</em>, <em>Keyboard Filters</em>, and <em>Activation "
 "Gestures</em>."
 msgstr ""
+"Vsa ta orodja lahko dobite na enem mestu: iz programa Sistemske nastavitve "
+"znotraj menija, znotraj Obnašanje namizja so možnosti <em>Dostopnosti</em>. "
+"Od tam lahko vključite uporabna orodja kot s <em>Spreminjevalec tipk</em>, "
+"<em>Filtri tipkovnice</em> ter <em>Omogočanje potez</em>"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/accessibility.html:13
 msgid "Remember to also look over the <em>Application Style</em>."
-msgstr ""
+msgstr "Ne pozabite pogledati tudi v <em>Slog programov</em>."
 
 #. type: Content of: <h1>
 #: slideshows/kubuntu/slides/games.html:1
@@ -66,7 +70,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/games.html:9
 msgid "You can easily install Steam"
-msgstr ""
+msgstr "Enostavno lahko namestite Steam"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/games.html:10
@@ -156,6 +160,10 @@ msgid ""
 "Remember, it is easy to get involved and the work you do will be seen by "
 "millions of people around the world."
 msgstr ""
+"Preglejte <a href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase."
+"kde.org/Kubuntu/Contribute</a> in poglejte, kje lahko pomagate. Zapomnite "
+"si, da se je enostavno vključiti in da bodo vaše delo videli milijoni po "
+"svetu."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/get-involved.html:20
@@ -206,6 +214,9 @@ msgid ""
 "Discover will allow you to install (and remove) software from our online "
 "repositories, which we carefully organize to be safe and up to date."
 msgstr ""
+"V meniju si oglejte program <em>Muon Discover</em>. Muon Discover vam "
+"omogoča namestitev (in odstranitev) programske opreme z naših spletnih "
+"skladišč, ki jih skrbno organiziramo, da so varni in posodobljeni."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/installing-software.html:10
@@ -378,8 +389,9 @@ msgstr "Dobrodošli"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:6
-msgid "Thank you for choosing Kubuntu 15.04. We hope you enjoy the experience."
+msgid "Thank you for choosing Kubuntu 16.04. We hope you enjoy the experience."
 msgstr ""
+"Hvala, ker ste izbrali Kubuntu 16.04. Upamo, da boste uživali v izkušnji."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/welcome.html:8
@@ -396,10 +408,24 @@ msgstr ""
 #: slideshows/kubuntu/slides/welcome.html:11
 msgid ""
 "We want Kubuntu to work for you. So while your software is installing, this "
-"slideshow will introduce you to Kubuntu 15.04."
+"slideshow will introduce you to Kubuntu 16.04."
 msgstr ""
+"Hočemo, da Kubuntu dela za vas. Medtem ko se programska oprema namešča, vam "
+"bo ta predstavitev predstavila Kubuntu 16.04."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/welcome.html:15
 msgid "Kubuntu is designed to be easy. Feel free to explore!"
 msgstr "Kubuntu je zasnovan za preprosto uporabo. Ne bojte se raziskovati!"
+
+#~ msgid ""
+#~ "Thank you for choosing Kubuntu 15.04. We hope you enjoy the experience."
+#~ msgstr ""
+#~ "Hvala, ker ste zbrali Kubuntu 15.04. Upamo, da boste uživali v doživetju."
+
+#~ msgid ""
+#~ "We want Kubuntu to work for you. So while your software is installing, "
+#~ "this slideshow will introduce you to Kubuntu 15.04."
+#~ msgstr ""
+#~ "Hočemo, da Kubuntu dela za vas. Ko se programska oprema namešča, vam bo "
+#~ "ta predstavitev predstavila Kubuntu 16.04."

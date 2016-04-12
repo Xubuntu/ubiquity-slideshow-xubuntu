@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:52+0300\n"
-"PO-Revision-Date: 2012-02-26 14:33+0000\n"
-"Last-Translator: Saša Teković <Unknown>\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-04-09 19:05+0000\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
 "Language-Team: Croatian <hr@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
-msgid "Welcome to Lubuntu 15.04"
-msgstr ""
+msgid "Welcome to Lubuntu 16.04"
+msgstr "Dobrodošli u Lubuntu 16.04"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/00_welcome.html:8
@@ -29,11 +29,12 @@ msgid ""
 "Lubuntu is designed to be lightweight, easy and fast. Let's have a closer "
 "look!"
 msgstr ""
+"Lubuntu je izrađen da bude lagan, jednostavan i brz. Pogledajmo pobliže!"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/01_lxde.html:1
 msgid "Built on a solid foundation"
-msgstr ""
+msgstr "Čvrstog temelja"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/01_lxde.html:8
@@ -42,11 +43,14 @@ msgid ""
 "energy-saving desktop environment. LXDE has been proven to work well with "
 "both old and new computers, ensuring you a smooth desktop experience."
 msgstr ""
+"Lubuntu se temelji na <em>LXDE radnom okruženju</em>, brzih performansa i "
+"energetski učinkovito radno okruženje. LXDE provjereno radi na starim i "
+"novim računalima, pružajući ugodno iskustvo."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/02_browser.html:1
 msgid "Browse the web"
-msgstr ""
+msgstr "Pretražujte Internet"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/02_browser.html:8
@@ -55,6 +59,9 @@ msgid ""
 "browser used by millions around the world. It's safe, stable, fast and "
 "supports customization through add-ons."
 msgstr ""
+"Pregledavajte internet koristeći <em>Firefox</em>, višeplatformski web "
+"preglednik otvorenog kôda kojeg koriste milijuni ljudi diljem svijeta. "
+"Siguran je, stabilan, brz i podržava prilagodbu putem dodataka."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/02_browser.html:12
@@ -62,12 +69,12 @@ msgstr ""
 #: slideshows/lubuntu/slides/04_media.html:18
 #: slideshows/lubuntu/slides/05_social.html:12
 msgid "Included software"
-msgstr "Uključen softver"
+msgstr "Uključeni softver"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:16
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/02_browser.html:19
@@ -80,17 +87,17 @@ msgstr "Podržan softver"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:23
 msgid "Flash"
-msgstr ""
+msgstr "Flash"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:28
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/03_office.html:1
 msgid "Create and edit documents"
-msgstr ""
+msgstr "Stvorajte i uređujte dokumente"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/03_office.html:8
@@ -100,6 +107,10 @@ msgid ""
 "support for industry standard document types and will allow you to "
 "collaborate on documents written by colleagues, friends or family."
 msgstr ""
+"Koristite <em>Abiword</em> i <em>Gnumeric</em>, alternative LibreOfficu, za "
+"stvaranje dokumenata i proračunskih tablica. Sve aplikacije podržavaju "
+"podršku za sve standardne vrste dokumenata i omogućavaju suradnju između "
+"kolega, prijatelja i obitelji."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/03_office.html:16
@@ -119,7 +130,7 @@ msgstr "LibreOffice"
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/04_media.html:1
 msgid "Enjoy your music and videos"
-msgstr ""
+msgstr "Uživajte u glazbi i videu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:10
@@ -128,6 +139,9 @@ msgid ""
 "audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
 "video player powered by mplayer with support for many formats."
 msgstr ""
+"Slušajte omiljenu glazbu s <em>Audaciousom</em>, jednostavnim ali moćnim "
+"glazbenim sviračem. Uživajte u video snimkama s <em>Gnome-Mplayer</em> kojeg "
+"pokreće mplayer i podržava većinu formata."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:14
@@ -135,31 +149,33 @@ msgid ""
 "You can also obtain additional codec support by installing the <em>lubuntu-"
 "restricted-extras</em> package."
 msgstr ""
+"Podršku za dodatke kôdeke dobivate instalacijom <em>lubuntu-restricted-"
+"extras</em> paketom."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:23
 msgid "Audacious"
-msgstr ""
+msgstr "Audacious"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:28
 msgid "Gnome-Mplayer"
-msgstr ""
+msgstr "Gnome-Mplayer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:36
 msgid "Exaile"
-msgstr ""
+msgstr "Exaile"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:41
 msgid "VLC media player"
-msgstr ""
+msgstr "VLC medijski izvođač"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/05_social.html:1
 msgid "Chat with your friends"
-msgstr ""
+msgstr "Čavrljajte s prijateljima"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/05_social.html:8
@@ -168,6 +184,8 @@ msgid ""
 "friends. It supports a wide range of chat services, such as AIM, Google Talk "
 "and Facebook."
 msgstr ""
+"S <em>Pidginom</em>, možete ostati u kontaktu sa svim vašim prijateljima."
+"Podržava većinu usluga, poput AIM, Google Talka i Facebooka."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/05_social.html:16
@@ -177,12 +195,12 @@ msgstr "Pidgin"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/05_social.html:23
 msgid "Empathy"
-msgstr ""
+msgstr "Empathy"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/06_lsc.html:1
 msgid "Download software with ease"
-msgstr ""
+msgstr "S lakoćom preuzimajte softver"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/06_lsc.html:8
@@ -193,11 +211,16 @@ msgid ""
 "and explore categories such as games, science and education, or search for "
 "your favorite software."
 msgstr ""
+"S Lubuntuom, imate pristup cjelokupnom Ubuntu repozitoriju i svom softveru "
+"uključenom u njega. To znači da su na tisuće novih aplikacija spremne za "
+"korištenje na vašem računalu , besplatno. Koristite <em>Lubuntu centar "
+"softvera</em> i istražite kategorije poput igara, znanosti i obrazovanja, "
+"ili potražite svoj omiljeni softver."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/07_help.html:1
 msgid "Need help?"
-msgstr ""
+msgstr "Potrebna vam je pomoć?"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/07_help.html:8
@@ -208,11 +231,16 @@ msgid ""
 "visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
 "the information you need."
 msgstr ""
+"Jedno od najvećih prednosti Lubuntua je čudesna zajednica koja dolazi s "
+"njim. Ostali korisnici  drage volje će vam pomoći ako naiđete na problem. "
+"Postoji mnogo različitih načina za dobivanje pomoći, najlakši način je tako "
+"da posjetite <a href=\"http://lubuntu.net/\">Internet stranicu</a>, na kojoj "
+"smo prikupili sve informacije koje su vam potrebne."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/08_thanks.html:1
 msgid "Thank you for choosing Lubuntu"
-msgstr ""
+msgstr "Hvala vam što ste odabrali Lubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/08_thanks.html:8
@@ -222,3 +250,10 @@ msgid ""
 "either by giving us feedback or by getting involved in the project, please "
 "visit our <a href=\"http://lubuntu.net/\">website</a>."
 msgstr ""
+"Instalacija će uskoro završiti. Nadamo se da ćete uživati u Lubuntu i sa "
+"svom slobodom koja dolazi uz njega.  Ako nam želite pomoći poboljšati "
+"Lubuntu, ili davajući nam povratne informacije ili uključujući u projekt, "
+"posjetite našu <a href=\"http://lubuntu.net/\">internet stranicu</a>."
+
+#~ msgid "Welcome to Lubuntu 15.04"
+#~ msgstr "Dobrodošli u Lubuntu 15.04"

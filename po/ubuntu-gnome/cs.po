@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:52+0300\n"
-"PO-Revision-Date: 2014-02-25 10:20+0000\n"
-"Last-Translator: Tadeáš Pařík <tadeas.parik@gmail.com>\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-03-17 11:33+0000\n"
+"Last-Translator: Martin Šácha <lp@s0c4.net>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/accessibility.html:2
@@ -48,6 +48,9 @@ msgid ""
 "browse the web. Easy browsing, high performance, advanced security, powerful "
 "personalization and the cutting edge, all that is between your hands."
 msgstr ""
+"S předinstalovaným Firefoxem má Ubuntu GNOME již vše co potřebujete k "
+"prohlížení webu. Jednoduché brouzdání, vysoký výkon, pokročilé zabezpečení, "
+"řiroké možnosti přizpůsobení a moderní technologie, to vše máte nyní v rukou."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/desktop.html:2
@@ -85,7 +88,7 @@ msgstr "Jednoduše kontrolujte <strong>svá upozornění</strong>"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-gnome/slides/desktop.html:24
 msgid "Enhance your work flow with <strong>dynamic workspaces</strong>"
-msgstr ""
+msgstr "Zlepšete své pracovní postupy s <strong> dynamickými plochami</strong>"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:2
@@ -95,7 +98,7 @@ msgstr "Nápověda a podpora"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:8
 msgid "Thanks for choosing and installing Ubuntu GNOME"
-msgstr ""
+msgstr "Děkujeme za výběr a instalaci Ubuntu GNOME"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:9
@@ -103,6 +106,8 @@ msgid ""
 "Learn more about Ubuntu GNOME in our Wiki Area <a href=\"https://wiki.ubuntu."
 "com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
 msgstr ""
+"Více o Ubuntu GNOME se dozvíte na naší Wiki <a href=\"https://wiki.ubuntu."
+"com/UbuntuGNOME\">https://wiki.ubuntu.com/UbuntuGNOME</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:10
@@ -110,6 +115,8 @@ msgid ""
 "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
 "ContactUs\">tiny.cc/uGContactUs</a>."
 msgstr ""
+"Pomoc a podporu najdete na <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
+"ContactUs\">https://wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:11
@@ -158,7 +165,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/office.html:2
 msgid "Your office on your machine"
-msgstr ""
+msgstr "Kancelář ve vašem počítači"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/office.html:8
@@ -167,6 +174,9 @@ msgid ""
 "more. LibreOffice is a comprehensive, professional-quality productivity "
 "suite shipped by default. Make your day-to-day tasks more easy and fun."
 msgstr ""
+"Tvořte profesionální dokumenty, tabulky, prezentace, výkresy a mnoho "
+"dalšího. LibreOffice je všestranný, profesionální balík dostupný v základní "
+"instalaci. Zjednodušte svou práci ještě dnes!"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/photos.html:2
@@ -181,30 +191,38 @@ msgid ""
 "pictures. And you can share your favorite snaps on all popular photo sites "
 "and social networks."
 msgstr ""
+"Jste unavení výběrem té správné aplikace na správu fotografií? GNOME Photos "
+"umí jednoduše importovat, organizovat, upravovat a samozřejmě zobrazovat "
+"fotografie. Své oblíbené momentky můžete sdílet na fotografické servery a "
+"sociální sítě."
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu-gnome/slides/usc.html:2
+#: slideshows/ubuntu-gnome/slides/software.html:2
 msgid "Find even more software"
 msgstr "Najděte ještě více softwaru"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/usc.html:8
+#: slideshows/ubuntu-gnome/slides/software.html:8
 msgid "<strong>Say Goodbye to searching the web for a software.</strong>"
-msgstr ""
+msgstr "<strong>Řekněte sbohem hledání programů na internetu</strong>"
 
-#. type: Content of: <div><div><div>
-#: slideshows/ubuntu-gnome/slides/usc.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/software.html:9
 msgid ""
-"With Ubuntu Software Center you can easily find and install software. Your "
-"ratings and reviews are used to rank software by popularity. You have access "
-"to thousands of free and commercial applications. Installing anything is "
-"just a couple of clicks away from you."
+"With GNOME Software you can easily find and install software. Your ratings "
+"and reviews are used to rank software by popularity. You have access to "
+"thousands of free and commercial applications. Installing anything is just a "
+"couple of clicks away from you."
 msgstr ""
+"V Programech GNOME můžete jednoduše prohledávat a instalovat software. Vaše "
+"hodnocení a recenze používají jiní uživatelé k lepší orientaci. Využijte "
+"přístupu k tisícům volných, i komerčních aplikací! K instalaci libovolného "
+"programu stačí pár kliknutí."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/welcome.html:2
-msgid "Welcome to Ubuntu GNOME 15.10"
-msgstr ""
+msgid "Welcome to Ubuntu GNOME 16.04"
+msgstr "Vítejte v Ubuntu GNOME 16.04"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:8
@@ -212,6 +230,8 @@ msgid ""
 "The official Ubuntu flavor featuring the GNOME Desktop Environment, aiming "
 "to provide a pure GNOME desktop experience built on top of Ubuntu."
 msgstr ""
+"Oficiální vydání Ubuntu s desktopem GNOME, které poskytuje čisté GNOME "
+"prostředí nad základy z Ubuntu."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:9
@@ -219,148 +239,18 @@ msgid ""
 "The latest version of Ubuntu GNOME is the best choice for those looking for "
 "a fast, beautiful, simple, usable and stable Operating System."
 msgstr ""
-
-#~ msgid "Included software"
-#~ msgstr "Obsažený software"
-
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Firefox Webový prohlížeč"
-
-#~ msgid "Customization options"
-#~ msgstr "Možnosti přizpůsobení"
-
-#~ msgid "Language support"
-#~ msgstr "Jazyková podpora"
-
-#~ msgid "Assistive technologies"
-#~ msgstr "Technologie usnadnění"
-
-#~ msgid "Supported software"
-#~ msgstr "Podporovaný software"
-
-#~ msgid "Flash"
-#~ msgstr "Flash"
-
-#~ msgid "Chromium"
-#~ msgstr "Chromium"
+"Poslední verze Ubuntu GNOME je nejlepší volbou pro ty, kteří hledají rychlý, "
+"pěkný, jednoduchý a stabilní operační systém."
 
 #~ msgid ""
-#~ "Learn more about Ubuntu GNOME from <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
+#~ "With Ubuntu Software Center you can easily find and install software. "
+#~ "Your ratings and reviews are used to rank software by popularity. You "
+#~ "have access to thousands of free and commercial applications. Installing "
+#~ "anything is just a couple of clicks away from you."
 #~ msgstr ""
-#~ "Více informací o Ubuntu GNOME na <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
+#~ "Díky Správci softwaru pro Ubuntu můžete jednoduše najít a nainstalovat "
+#~ "programy z ověřených zdrojů. Vaše hodnocení a komentáře mohou posloužit "
+#~ "ostatním uživatelům v rozhodování. Instalace je opravdu na pár kliknutí."
 
-#~ msgid ""
-#~ "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
-#~ "ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
-#~ msgstr ""
-#~ "Pro nápovědu a podporu navštivte <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
-
-#~ msgid "Videos"
-#~ msgstr "Videa"
-
-#~ msgid "Everything you need for the office"
-#~ msgstr "Vše, co je v kanceláři potřeba"
-
-#~ msgid "Evince Document Viewer"
-#~ msgstr "Prohlížeč dokumentů Evince"
-
-#~ msgid "Documents"
-#~ msgstr "Dokumenty"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
-
-#~ msgid "GIMP Image Editor"
-#~ msgstr "Editor obrázků GIMP"
-
-#~ msgid "Shotwell Photo Manager"
-#~ msgstr "Správce fotografií Shotwell"
-
-#~ msgid "Thank you for choosing and installing Ubuntu GNOME."
-#~ msgstr "Děkujeme, že jste si vybrali k instalaci Ubuntu GNOME."
-
-#~ msgid "Chat with <strong>your friends</strong> from Facebook, Google, etc."
-#~ msgstr ""
-#~ "Pište si se <strong>svými přáteli</strong> ze sociálních sítí Facebook, "
-#~ "Google atd."
-
-#~ msgid "Manage <strong>your address book</strong> easily"
-#~ msgstr "Spravujte jednoduše <strong>svůj adresář</strong>"
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Hudební přehrávač Rhythmbox"
-
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "Editor videa Pitivi"
-
-#~ msgid "<strong>Say goodbye to searching the web for new software. </strong>"
-#~ msgstr ""
-#~ "<strong>Rozlučte se složitým vyhledáváním nového softwaru na webu.</"
-#~ "strong>"
-
-#~ msgid ""
-#~ "With Shotwell, you can quickly and easily import, organize, edit and view "
-#~ "your pictures. And you can share your favorite snaps on all popular photo "
-#~ "sites and social networks."
-#~ msgstr ""
-#~ "Shotwell umožňuje rychlý a jednoduchý import, organizaci, editaci a "
-#~ "zobrazení fotografií.  Vše můžete sdílet na oblíbených foto portálech "
-#~ "nebo sociálních sítích."
-
-#~ msgid ""
-#~ "We believe the combination of Ubuntu and GNOME is the best choice for "
-#~ "those looking for a beautiful, simple, and usable operating system."
-#~ msgstr ""
-#~ "Věříme, že spojení Ubuntu a GNOME je nejlepší možnost pro ty, kteří "
-#~ "hledají hezký, jednoduchý a použitelný operační systém."
-
-#~ msgid "LibreOffice Suite"
-#~ msgstr "Kancelářský balík LibreOffice"
-
-#~ msgid ""
-#~ "Ubuntu Software Center gives you instant access to thousands of great "
-#~ "games and applications — some free and some available commercially. If "
-#~ "you see something you like, you can see more information and install it "
-#~ "in just a few clicks."
-#~ msgstr ""
-#~ "Centrum Softwaru Ubuntu vám umožní přístup k tisícům her a aplikací - "
-#~ "některé zcela zdarma jiné komerční. Vidíte-li něco, co se vám líbí, tak "
-#~ "instalace i získání informací je otázka několik kliknutí."
-
-#~ msgid "Access <strong>your online documents</strong> natively"
-#~ msgstr "Přistupujte přirozeně ke svým <strong>online dokumentům</strong>"
-
-#~ msgid "Enhance your workflow with <strong>dynamic workspaces</strong>"
-#~ msgstr ""
-#~ "Zlepšete své nasazení s <strong>dynamickými pracovními plochami</strong>"
-
-#~ msgid ""
-#~ "Ubuntu GNOME has everything you need to browse the web. Firefox offers "
-#~ "powerful personalization, support for cutting-edge web standards, "
-#~ "carefully optimized performance, and advanced security while still "
-#~ "remaining easy to use."
-#~ msgstr ""
-#~ "Ubuntu GNOME má vše, co potřebujete k prohlížení webu. Firefox nabízí "
-#~ "velké množství úprav, podporuje mnoho webových standardů, je pečlivě "
-#~ "optimalizován a nabízí pokročilé možnosti nastavení zabezpečení, přitom "
-#~ "je stále velmi jednoduchý k používání."
-
-#~ msgid ""
-#~ "Ubuntu GNOME features the GNOME desktop on top of the popular Ubuntu "
-#~ "foundation."
-#~ msgstr ""
-#~ "Ubuntu GNOME nabízí GNOME rozhraní, které je založeno na populárním "
-#~ "Ubuntu."
-
-#~ msgid ""
-#~ "We understand how important your computer is for day-to-day tasks. Create "
-#~ "professional documents, spreadsheets and presentations with LibreOffice "
-#~ "and manage your local and online documents in a single place with GNOME "
-#~ "Documents."
-#~ msgstr ""
-#~ "Rozumíme jak je počítač důležitý pro vaše každodenní úkoly. Vytváření "
-#~ "profesionálních dokumentů, tabulek a prezentací v LibreOffice a také "
-#~ "správa lokálních či online dokumentů pomocí GNOME Dokumentů."
+#~ msgid "Welcome to Ubuntu GNOME 15.10"
+#~ msgstr "Vítejte v Ubuntu GNOME 15.10"

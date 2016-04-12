@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:51+0300\n"
-"PO-Revision-Date: 2015-10-08 01:30+0000\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-03-26 22:59+0000\n"
 "Last-Translator: Learner <muzaffar.habibullayev@yandex.ru>\n"
 "Language-Team: Uzbek <uz@li.org>\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -92,7 +92,7 @@ msgstr "Firefox veb brauzeri"
 #: slideshows/ubuntu/slides/browse.html:19
 #: slideshows/ubuntu/slides/photos.html:19
 msgid "Supported software"
-msgstr "Qo'llanadiga dasturlar"
+msgstr "Qo'llaniladigan dasturlar"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:23
@@ -109,20 +109,20 @@ msgstr "Chromium"
 msgid "Help and support"
 msgstr "Yordam va qo'llash"
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:7
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
 "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
 "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System meny."
+"the System menu."
 msgstr ""
 "<span class=\"app\" data-app=\"docs\">Rasmiy yo'riqnoma</span> Ubuntuga oid "
-"eng k'op tarqalgan masalalarni qamrab oladi. U  <a href=\"https://help."
-"ubuntu.com\">onlayn</a> va Tizim menyusidagi Ubuntu Yordamda joylashgan."
+"eng ko'p tarqalgan holatlarni qamragan. U ham <a href=\"https://help.ubuntu."
+"com\">onlayn</a> , ham Tizim Menyusidagi Ubuntu Yordamda mavjud."
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
@@ -134,8 +134,8 @@ msgstr ""
 "qidirishingiz mumkin. O'z tilingiz <a href=\"http://loco.ubuntu.com/teams/"
 "\">Mahalliy Hamjamiyat Jamoasi</a>da mavjud bo'lishi mumkin."
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:11
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
 "For pointers to other useful resources, please visit <a href=\"http://"
 "community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
@@ -160,10 +160,10 @@ msgid ""
 "CDs and portable music players, so you can enjoy all your music wherever you "
 "go."
 msgstr ""
-"Ubuntu maftunkor Rhythmbox musiqa pleeri bilan keladi.Rivojlangan ijro "
-"xossalari bilan, sizga manzur qo'shiqlarni ro'yxatini yaratishingiz oson."
+"Ubuntu maftunkor Rhythmbox musiqa pleyeri bilan keladi.Rivojlangan ijro "
+"xossalari bilan, sizga manzur qo'shiqlarning ro'yxatini yaratishingiz oson."
 "Hamda u CDlar va olib yuriladigan uskunalar bilan a'lo darajada ishlaydi va "
-"siz qaerga borsangiz ham o'z musiqangizdan rohatlanishingiz mumkin."
+"siz qayerga borsangiz ham o'z musiqangizdan rohatlanishingiz mumkin."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:15
@@ -213,13 +213,13 @@ msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it’s easy to share them and "
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"from the GNOME Software Center."
 msgstr ""
 "Shotwell qurilmalaringiz uchun tayyor bo'lgan qulay foto boshqaruvchidir. "
 "Kamera yoki telefoningizni rasmlarni ko'chirib o'tqazish uchun ulab, keyin "
 "ularni osongina boshqalar bilan baham ko'rishingiz va ishonchli joyda "
-"saqlashingiz mumkin. Agar rasmlarni o'zgartirmoqchi bo'lsangiz, Ubuntu "
-"Software Center'dan ko'pgina foto dasturlarni sinab ko'rishingiz mumkin."
+"saqlashingiz mumkin. Agar rasmlarni o'zgartirmoqchi bo'lsangiz, GNOME "
+"Dasturlar Markazidan ko'pgina foto dasturlarni sinab ko'rishingiz mumkin."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -244,15 +244,15 @@ msgstr "Yanad ko'proq dasturlarni toping"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the GNOME "
+"Software Store, you can find and install new apps with ease. Just type in "
+"what you’re looking for, or explore categories such as Science, Education "
+"and Games, alongside helpful reviews from other users."
 msgstr ""
-"Yangi dasturlarni Internetdan qidirish bilan xayrlashing. Ubuntu Dasturlar "
-"Markazi yordamida yangi dasturlarni osonlik bilan topib o'rnatishingiz "
-"mumkin. Faqat izlayotganingizni yozing yoki Fan, Ta'lim va O'yinlar kabi "
-"bo'limlardan foydalanuvchilar xulosalari bilan qidiring."
+"Internetdan dastur qidirish bilan xayrlashing. GNOME Dasturlar Markazi "
+"orqali siz yangi dasturlarni osonlik bilan topishingiz va o'rnatishingiz "
+"mumkin. Shunchaki qidiryapgan narsangizni yozing, yoki Fan, Ta'lim, Oyinlar "
+"hamda boshqa foydalanuvchilar fiklarini tadqiq qiling."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -269,18 +269,24 @@ msgstr ""
 "komp'yuter texnologiyalarini har qachongidan ham sodda holatga olib kelgan. "
 "Mana bir qancha ajoyib yangiliklarni kuzatishingiz mumkin…"
 
-#~ msgid "Any questions?"
-#~ msgstr "Savollaringiz bormi?"
+#~ msgid ""
+#~ "Say goodbye to searching the web for new software. With Ubuntu Software "
+#~ "Center, you can find and install new apps with ease. Just type in what "
+#~ "you’re looking for, or explore categories such as Science, Education and "
+#~ "Games, alongside helpful reviews from other users."
+#~ msgstr ""
+#~ "Yangi dasturlarni Internetdan qidirish bilan xayrlashing. Ubuntu "
+#~ "Dasturlar Markazi yordamida yangi dasturlarni osonlik bilan topib "
+#~ "o'rnatishingiz mumkin. Faqat izlayotganingizni yozing yoki Fan, Ta'lim va "
+#~ "O'yinlar kabi bo'limlardan foydalanuvchilar xulosalari bilan qidiring."
 
 #~ msgid ""
-#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
-#~ "to all your Ubuntu questions. There’s a good chance your question will "
-#~ "have been answered already and, if not, you’ll find thousands of "
-#~ "volunteers eager to help. For more support options, go to <a href="
-#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+#~ "covers many of the most common areas about Ubuntu. It's available both <a "
+#~ "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item "
+#~ "in the System meny."
 #~ msgstr ""
-#~ "Barcha Ubuntu savollaringizga <a href=\"http://askubuntu.com/\">askubuntu."
-#~ "com</a> da javob qidiring. Allaqachon savolingizga javob berilganik "
-#~ "ehtimoli katta. Agar bunday bo'lmasa, millionlab ko'ngillilar yordamga "
-#~ "muntazir. Ko'proq qo'llab-quvvatlash xossalari uchun <a href=\"http://www."
-#~ "ubuntu.com/support\">ubuntu.com/support</a> ga kiring."
+#~ "<span class=\"app\" data-app=\"docs\">Rasmiy yo'riqnoma</span> Ubuntuga "
+#~ "oid eng k'op tarqalgan masalalarni qamrab oladi. U  <a href=\"https://"
+#~ "help.ubuntu.com\">onlayn</a> va Tizim menyusidagi Ubuntu Yordamda "
+#~ "joylashgan."

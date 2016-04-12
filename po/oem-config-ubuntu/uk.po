@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:52+0300\n"
-"PO-Revision-Date: 2015-09-12 09:44+0000\n"
-"Last-Translator: Yuri Chornoivan <yurchor@gmail.com>\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-03-23 19:48+0000\n"
+"Last-Translator: Микола Ткач <Stuartlittle1970@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -110,21 +110,21 @@ msgstr "Chromium"
 msgid "Help and support"
 msgstr "Довідка і підтримка"
 
-#. type: Content of: <div><div><p>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:7
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:8
 msgid ""
 "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
 "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System meny."
+"the System menu."
 msgstr ""
-"У <span class=\"app\" data-app=\"docs\">офіційній документації</span> "
-"описано більшість основних моментів щодо користування Ubuntu. Для перегляду "
-"документації ви можете скористатися <a href=\"https://help.ubuntu.com"
-"\">інтернетом</a> або пунктом «Довідка з Ubuntu» у меню «Система»."
+"<span class=\"app\" data-app=\"docs\">Офіційна документація</span> охоплює "
+"найпоширеніші запитання про Ububtu. Вона доступна <a href=\"https://help."
+"ubuntu.com\">у мережі</a>, а також через елемент системного меню Довідка "
+"Ubuntu."
 
-#. type: Content of: <div><div><p>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
@@ -136,8 +136,8 @@ msgstr ""
 "відповіді. Підтримка вашою рідною мовою може надаватися відповідною <a href="
 "\"http://loco.ubuntu.com/teams/\">Командою місцевої спільноти</a>."
 
-#. type: Content of: <div><div><p>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:11
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:16
 msgid ""
 "For pointers to other useful resources, please visit <a href=\"http://"
 "community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
@@ -176,7 +176,7 @@ msgstr "Музичний програвач Rhythmbox"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
 msgid "Everything you need for the office"
-msgstr "Все що потрібно для офісу"
+msgstr "Все, що вам потрібно для офісу"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
@@ -246,15 +246,15 @@ msgstr "Знаходьте більше програм"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Ubuntu "
+"Software Store, you can find and install new apps with ease. Just type in "
+"what you’re looking for, or explore categories such as Science, Education "
+"and Games, alongside helpful reviews from other users."
 msgstr ""
-"Попрощайтеся з будь-якими пошуками нових програм у мережі. З Центром "
-"програмного забезпечення Убунту ви можете легко знайти та встановити нові "
-"програми. Просто вкажіть, що ви шукаєте, або передивляйтеся програми по "
-"категоріях Наука, Навчання, Ігри та інше, переглядаючи відгуки інших "
+"Тепер Ви можете відмовитися від пошуку нових проґрам у тенетах. Маючи доступ "
+"до крамниці проґрамного забезпечення Ubuntu Software Store, Ви зможете легко "
+"встановлювати нові застосунки. Уведіть те, що волієте знайти або досліджуйте "
+"категорії, що стосуються науки, освіти, забавок, а також корисні відгуки "
 "користувачів."
 
 #. type: Content of: <div><h1>
@@ -272,19 +272,26 @@ msgstr ""
 "користування комп’ютером легше, ніж будь-коли. Тут є декілька нових речей, "
 "на які слід подивитися..."
 
-#~ msgid "Any questions?"
-#~ msgstr "Є питання?"
+#~ msgid ""
+#~ "Say goodbye to searching the web for new software. With Ubuntu Software "
+#~ "Center, you can find and install new apps with ease. Just type in what "
+#~ "you’re looking for, or explore categories such as Science, Education and "
+#~ "Games, alongside helpful reviews from other users."
+#~ msgstr ""
+#~ "Попрощайтеся з будь-якими пошуками нових програм у мережі. З Центром "
+#~ "програмного забезпечення Убунту ви можете легко знайти та встановити нові "
+#~ "програми. Просто вкажіть, що ви шукаєте, або передивляйтеся програми по "
+#~ "категоріях Наука, Навчання, Ігри та інше, переглядаючи відгуки інших "
+#~ "користувачів."
 
 #~ msgid ""
-#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
-#~ "to all your Ubuntu questions. There’s a good chance your question will "
-#~ "have been answered already and, if not, you’ll find thousands of "
-#~ "volunteers eager to help. For more support options, go to <a href="
-#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+#~ "covers many of the most common areas about Ubuntu. It's available both <a "
+#~ "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item "
+#~ "in the System meny."
 #~ msgstr ""
-#~ "Перегляньте <a href=\"http://askubuntu.com/\">askubuntu.com</a>, щоб "
-#~ "отримати відповіді на усі ваші питання щодо Ubuntu. Існує велика "
-#~ "ймовірність того, що на ваше питання вже є готова відповідь. У іншому "
-#~ "випадку знайдуться тисячі добровольців, які прагнуть вам допомогти. Для "
-#~ "більших можливостей підтримки, перейдіть до <a href=\"http://www.ubuntu."
-#~ "com/support\">ubuntu.com/support</a>."
+#~ "У <span class=\"app\" data-app=\"docs\">офіційній документації</span> "
+#~ "описано більшість основних моментів щодо користування Ubuntu. Для "
+#~ "перегляду документації ви можете скористатися <a href=\"https://help."
+#~ "ubuntu.com\">інтернетом</a> або пунктом «Довідка з Ubuntu» у меню "
+#~ "«Система»."

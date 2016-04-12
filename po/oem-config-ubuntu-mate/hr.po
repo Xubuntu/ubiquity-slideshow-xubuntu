@@ -1,27 +1,27 @@
 # Croatian translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
 # This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-07 10:52+0300\n"
-"PO-Revision-Date: 2014-08-27 18:04+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-04-09 19:04+0000\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: Croatian <hr@li.org>\n"
+"Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-16 05:54+0000\n"
-"X-Generator: Launchpad (build 17196)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:42+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:1
 msgid "Welcome to Ubuntu MATE"
-msgstr ""
+msgstr "Dobrodošli u Ubuntu MATE"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:8
@@ -29,11 +29,13 @@ msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
 msgstr ""
+"Razvijen od strane zajednice Ubuntu temeljen operativni sustav koji na lijep "
+"način integrira MATE radno okruženje."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:1
 msgid "About"
-msgstr ""
+msgstr "Opis"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:8
@@ -41,60 +43,73 @@ msgid ""
 "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
 "desktop environment. Ideal for those who want the most out of their "
 "computers and prefer a traditional desktop metaphor. With modest hardware "
-"requirements it is suitable for modern desktops and laptops, micro computers "
+"requirements it is suitable for modern workstations, single board computers "
 "and older hardware alike."
 msgstr ""
+"Ubuntu MATE je stabilan, jednostavan za korištenje operativni sustav s "
+"prilagodljivim radnim okruženjem. Idealan za one koji žele iskoristiti "
+"najbolje od svoga računala i preferiraju tradicionalnu radnu površinu. Sa "
+"skromnim hardverskim zahtjevima prikladan je za moderne radne stanice, "
+"prosječna računala i stariji hardver."
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/03_usc.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:1
 msgid "Find even more software"
-msgstr ""
+msgstr "Pronađite još više softvera"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_usc.html:7
+#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:7
 msgid ""
 "Say goodbye to searching the web for new software. With Ubuntu MATE Welcome, "
-"you can find and install new apps with ease. If you want to discover more "
-"applications then use one of the supported software centres to search for "
-"what you're looking for, or explore categories such as Science, Education "
-"and Games, alongside helpful reviews from other users."
+"you can install popular applications with one click. You can also install "
+"software centres to discover even more applications for Ubuntu MATE."
 msgstr ""
+"Pozdravite se s pretraživanjem interneta za novim softverom. Sa Ubuntu MATE "
+"Zaslonom dobrodošlice, možete instalirati popularne aplikacije jednim "
+"klikom. Isto tako možete instalirati softverske centre kako bi otkrili još "
+"više aplikacija za Ubuntu MATE."
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/03_usc.html:11
+#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:11
 #: slideshows/oem-config-ubuntu-mate/slides/04_music.html:11
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:12
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:12
 #: slideshows/oem-config-ubuntu-mate/slides/07_office.html:12
 msgid "Included software"
-msgstr ""
+msgstr "Uključeni softver"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_usc.html:15
-msgid "GDebi Package Installer"
-msgstr ""
+#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:15
+msgid "Ubuntu MATE Welcome"
+msgstr "Ubuntu MATE dobrodošlica"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/03_usc.html:18
+#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:18
+#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:18
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:23
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:24
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:23
 msgid "Supported software"
-msgstr ""
+msgstr "Podržan softver"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_usc.html:22
+#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:22
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "Ubuntu Centar softvera"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_usc.html:26
+#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:26
 msgid "Synaptic Package Manager"
-msgstr ""
+msgstr "Synaptic upravitelj paketima"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:30
+msgid "GDebi Package Installer"
+msgstr "GDebi paketni instaler"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/04_music.html:2
 msgid "Take your music with you"
-msgstr ""
+msgstr "Ponesite glazbu sa sobom"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_music.html:7
@@ -104,74 +119,93 @@ msgid ""
 "great with CDs and portable music players, so you can enjoy all your music "
 "wherever you go."
 msgstr ""
+"Ubuntu MATE dolazi s iznenađujućim Rhythmbox glazbenim sviračem. Uz napredne "
+"mogućnosti reprodukcije jednostavno je odabrati omiljene pjesme. Odlično "
+"radi s CD-ima i prijenosnim sviračima glazbe, tako da glazbu možete ponijeti "
+"sa sobom."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_music.html:15
 msgid "Rhythmbox Music Player"
-msgstr ""
+msgstr "Rhythmbox glazbeni reproduktor"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:22
+msgid "Banshee Media Player"
+msgstr "Banshee multimedijski reproduktor"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:26
+msgid "VLC Media Player"
+msgstr "VLC medijski izvođač"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:1
-msgid "Have fun with your photos"
-msgstr ""
+msgid "Organise your photos"
+msgstr "Organizirajte svoje fotografije"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:8
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it's easy to share them and "
-"keep them safe. If you're feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"keep them safe."
 msgstr ""
+"Shotwell je koristan upravitelj fotografijama koji je uvijek spreman za vaše "
+"gadgete. Spojite fotoaparat ili telefon, kopirajte svoje fotografije, te ih "
+"jednostavno dijelite s ostalima i čuvajte na sigurnome."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:16
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "Shotwell upravitelj fotografija"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:20
 msgid "Eye of MATE Image Viewer"
-msgstr ""
+msgstr "MATE preglednik slika"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:27
 msgid "GIMP Image Editor"
-msgstr ""
+msgstr "GIMP uređivač slika"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Iskoristite web"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:8
 msgid ""
-"Ubuntu MATE includes Firefox, the web browser used by millions of people "
-"around the world. And web applications you use frequently (like Facebook or "
-"Gmail, for example) can be pinned to your desktop for faster access, just "
-"like apps on your computer."
+"Ubuntu MATE includes Firefox, an easy and safe web browser used by millions "
+"of people around the world. Designed with privacy in mind it includes "
+"enhanced security features to protect you from online threats."
 msgstr ""
+"Ubuntu MATE dolazi s Firefoxom, jednostavnim i sigurnim web preglednikom "
+"kojeg koriste milijuni korisnika diljem svijeta. Dizajniran s posebnim "
+"osvrtom na privatnost uključuje poboljšane sigurnosne značajke u svrhu vaše "
+"zaštite od prijetnji s interneta."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:16
-msgid "Firefox web browser"
-msgstr ""
+msgid "Firefox Web Browser"
+msgstr "Firefox web preglednik"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:20
 msgid "Thunderbird Mail"
-msgstr ""
+msgstr "Thunderbird pošta"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:28
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:27
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/07_office.html:1
 msgid "Everything you need for the office"
-msgstr ""
+msgstr "Sve što vam je potrebno za ured"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_office.html:8
@@ -180,26 +214,29 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"LibreOffice je besplatan uredski paket sa svime što vam je potrebno za "
+"stvaranje dokumenata, proračunskih tablica i prezentacija. Kompatibilan je s "
+"Microsoft Office datotekama pruža sve što vam je potrebno potpuno besplatno."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_office.html:16
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_office.html:20
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_office.html:24
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:1
-msgid "Access for everyone"
-msgstr ""
+msgid "Accessible for everyone"
+msgstr "Pristupačan za sve"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:8
@@ -209,90 +246,105 @@ msgid ""
 "language, colour scheme and text size, Ubuntu MATE makes computing easy - "
 "whoever and wherever you are."
 msgstr ""
+"U srcu Ubuntu MATE filozofije nalazi se vjera da je računalstvo za svakoga. "
+"Uz napredne alate pristupačnosti i mogućnosti promjene prijevoda, palete "
+"boja i veličine teksta, Ubuntu MATE čini računalstvo jednostavnim."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:12
 msgid "Customization options"
-msgstr ""
+msgstr "Mogućnosti prilagodbe"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:16
 msgid "Appearance"
-msgstr ""
+msgstr "Izgled"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:20
 msgid "Assistive technologies"
-msgstr ""
+msgstr "Pomoćne tehnologije"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:24
 msgid "Language support"
-msgstr ""
+msgstr "Jezična podrška"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:1
-msgid "Community"
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:8
-msgid ""
-"We have a number of ways you can connect with the Ubuntu MATE community."
-msgstr ""
+msgid "Join the community"
+msgstr "Pridrižite se zajednici"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:12
+#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:8
 msgid "Discussion"
+msgstr "Rasprava"
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:12
+msgid ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
+"Community</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
+"zajednica</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:16
 msgid ""
-"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
-"Forum</a>"
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
+"\"caption\">Google+ Community</a>"
 msgstr ""
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
+"\"caption\">Google+ zajednica</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:20
 msgid ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Ubuntu MATE IRC "
-"channel</a>"
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC Channel</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC kanal</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:23
-msgid "Social Networks"
-msgstr ""
+msgid "Announcements"
+msgstr "Objave"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:27
 msgid ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+</a>"
+"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
+"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:31
 msgid ""
-"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:35
-msgid ""
 "<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
 "\">Facebook</a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
+"\">Facebook</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:38
+#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:34
 msgid "Development"
+msgstr "Razvoj"
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:38
+msgid ""
+"<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
+"Launchpad</a>"
 msgstr ""
+"<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
+"Launchpad</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:42
 msgid ""
-"<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
-"Project</a>"
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
+"Tracker</a>"
 msgstr ""
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption"
+"\">Pratitelj grešaka</a>"

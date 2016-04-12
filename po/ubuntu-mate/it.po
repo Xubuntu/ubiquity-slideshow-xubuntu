@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-07 10:52+0300\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
 "PO-Revision-Date: 2014-10-15 01:33+0000\n"
 "Last-Translator: riccardo pecchioli <rooibositaly@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,7 +42,7 @@ msgid ""
 "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
 "desktop environment. Ideal for those who want the most out of their "
 "computers and prefer a traditional desktop metaphor. With modest hardware "
-"requirements it is suitable for modern desktops and laptops, micro computers "
+"requirements it is suitable for modern workstations, single board computers "
 "and older hardware alike."
 msgstr ""
 "Ubuntu MATE è un sistema operativo stabile, di facile utilizzo e altamente "
@@ -52,19 +52,17 @@ msgstr ""
 "al nuovo hardware."
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu-mate/slides/03_usc.html:1
+#: slideshows/ubuntu-mate/slides/03_welcome.html:1
 msgid "Find even more software"
 msgstr "Scopri altri programmi"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-mate/slides/03_usc.html:7
+#: slideshows/ubuntu-mate/slides/03_welcome.html:7
 #, fuzzy
 msgid ""
 "Say goodbye to searching the web for new software. With Ubuntu MATE Welcome, "
-"you can find and install new apps with ease. If you want to discover more "
-"applications then use one of the supported software centres to search for "
-"what you're looking for, or explore categories such as Science, Education "
-"and Games, alongside helpful reviews from other users."
+"you can install popular applications with one click. You can also install "
+"software centres to discover even more applications for Ubuntu MATE."
 msgstr ""
 "Di addio alle ricerche del software in rete. Con Ubuntu Software Center, "
 "potrai trovare e installare nuovi programmi con facilità. \r\n"
@@ -73,7 +71,7 @@ msgstr ""
 "utenti."
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/03_usc.html:11
+#: slideshows/ubuntu-mate/slides/03_welcome.html:11
 #: slideshows/ubuntu-mate/slides/04_music.html:11
 #: slideshows/ubuntu-mate/slides/05_photos.html:12
 #: slideshows/ubuntu-mate/slides/06_browse.html:12
@@ -82,26 +80,32 @@ msgid "Included software"
 msgstr "Programmi inclusi"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/03_usc.html:15
-msgid "GDebi Package Installer"
-msgstr "Installatore pacchetto GDebi"
+#: slideshows/ubuntu-mate/slides/03_welcome.html:15
+msgid "Ubuntu MATE Welcome"
+msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/03_usc.html:18
+#: slideshows/ubuntu-mate/slides/03_welcome.html:18
+#: slideshows/ubuntu-mate/slides/04_music.html:18
 #: slideshows/ubuntu-mate/slides/05_photos.html:23
-#: slideshows/ubuntu-mate/slides/06_browse.html:24
+#: slideshows/ubuntu-mate/slides/06_browse.html:23
 msgid "Supported software"
 msgstr "Programmi supportati"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/03_usc.html:22
+#: slideshows/ubuntu-mate/slides/03_welcome.html:22
 msgid "Ubuntu Software Center"
 msgstr "Ubuntu Software Center"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/03_usc.html:26
+#: slideshows/ubuntu-mate/slides/03_welcome.html:26
 msgid "Synaptic Package Manager"
 msgstr "Gestore pacchetti"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-mate/slides/03_welcome.html:30
+msgid "GDebi Package Installer"
+msgstr "Installatore pacchetto GDebi"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/04_music.html:2
@@ -122,9 +126,20 @@ msgstr ""
 msgid "Rhythmbox Music Player"
 msgstr "Riproduttore musicale Rhythmbox"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-mate/slides/04_music.html:22
+msgid "Banshee Media Player"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu-mate/slides/04_music.html:26
+msgid "VLC Media Player"
+msgstr ""
+
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/05_photos.html:1
-msgid "Have fun with your photos"
+#, fuzzy
+msgid "Organise your photos"
 msgstr "Divertiti con le tue fotografie"
 
 #. type: Content of: <div><div><div><p>
@@ -132,8 +147,7 @@ msgstr "Divertiti con le tue fotografie"
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it's easy to share them and "
-"keep them safe. If you're feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"keep them safe."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -159,15 +173,14 @@ msgstr "Sfrutta il web al massimo"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:8
 msgid ""
-"Ubuntu MATE includes Firefox, the web browser used by millions of people "
-"around the world. And web applications you use frequently (like Facebook or "
-"Gmail, for example) can be pinned to your desktop for faster access, just "
-"like apps on your computer."
+"Ubuntu MATE includes Firefox, an easy and safe web browser used by millions "
+"of people around the world. Designed with privacy in mind it includes "
+"enhanced security features to protect you from online threats."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:16
-msgid "Firefox web browser"
+msgid "Firefox Web Browser"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -176,7 +189,7 @@ msgid "Thunderbird Mail"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/06_browse.html:28
+#: slideshows/ubuntu-mate/slides/06_browse.html:27
 msgid "Chromium"
 msgstr ""
 
@@ -210,7 +223,7 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/08_accessibility.html:1
-msgid "Access for everyone"
+msgid "Accessible for everyone"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
@@ -244,69 +257,69 @@ msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/09_community.html:1
-msgid "Community"
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-mate/slides/09_community.html:8
-msgid ""
-"We have a number of ways you can connect with the Ubuntu MATE community."
+msgid "Join the community"
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/09_community.html:12
+#: slideshows/ubuntu-mate/slides/09_community.html:8
 msgid "Discussion"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntu-mate/slides/09_community.html:12
+msgid ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
+"Community</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:16
 msgid ""
-"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
-"Forum</a>"
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
+"\"caption\">Google+ Community</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:20
 msgid ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Ubuntu MATE IRC "
-"channel</a>"
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC Channel</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/09_community.html:23
-msgid "Social Networks"
+msgid "Announcements"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:27
 msgid ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+</a>"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/09_community.html:31
-msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/09_community.html:35
+#: slideshows/ubuntu-mate/slides/09_community.html:31
 msgid ""
 "<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
 "\">Facebook</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/09_community.html:38
+#: slideshows/ubuntu-mate/slides/09_community.html:34
 msgid "Development"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li>
+#: slideshows/ubuntu-mate/slides/09_community.html:38
+msgid ""
+"<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
+"Launchpad</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:42
 msgid ""
-"<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
-"Project</a>"
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
+"Tracker</a>"
 msgstr ""
 
 #~ msgid ""

@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:52+0300\n"
-"PO-Revision-Date: 2015-03-05 12:01+0000\n"
-"Last-Translator: Claudio Arseni <claudio.arseni@gmail.com>\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-04-06 08:23+0000\n"
+"Last-Translator: Milo Casagrande <milo.casagrande@gmail.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/accessibility.html:2
@@ -49,6 +49,9 @@ msgid ""
 "browse the web. Easy browsing, high performance, advanced security, powerful "
 "personalization and the cutting edge, all that is between your hands."
 msgstr ""
+"Con Firefox installato, Ubuntu GNOME dispone di tutto quello che può servire "
+"per esplorare il web. Facilità di navigazione, ottime prestazioni, sicurezza "
+"avanzata e capillari personalizzazioni: tutto quello di cui avete bisogno."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/desktop.html:2
@@ -87,6 +90,8 @@ msgstr "Controlla <strong>le notifiche</strong> in maniera semplice"
 #: slideshows/ubuntu-gnome/slides/desktop.html:24
 msgid "Enhance your work flow with <strong>dynamic workspaces</strong>"
 msgstr ""
+"Migliora il tuo modo di lavorare con <strong>spazi di lavoro dinamici</"
+"strong>"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:2
@@ -96,7 +101,7 @@ msgstr "Aiuto e supporto"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:8
 msgid "Thanks for choosing and installing Ubuntu GNOME"
-msgstr ""
+msgstr "Grazie per aver scelto e installato Ubuntu GNOME"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:9
@@ -104,6 +109,9 @@ msgid ""
 "Learn more about Ubuntu GNOME in our Wiki Area <a href=\"https://wiki.ubuntu."
 "com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
 msgstr ""
+"Per maggiori informazioni a riguardo di Ubuntu GNOME, consultare il nostro "
+"wiki a questo indirizzo:<a href=\"https://wiki.ubuntu.com/UbuntuGNOME\">tiny."
+"cc/uGWiki</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:10
@@ -111,6 +119,8 @@ msgid ""
 "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
 "ContactUs\">tiny.cc/uGContactUs</a>."
 msgstr ""
+"Per aiuto e supporto, consultare questo collegamento: <a href=\"https://wiki."
+"ubuntu.com/UbuntuGNOME/ContactUs\">tiny.cc/uGContactUs</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:11
@@ -159,7 +169,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/office.html:2
 msgid "Your office on your machine"
-msgstr ""
+msgstr "Il vostro ufficio sempre con voi"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/office.html:8
@@ -168,6 +178,10 @@ msgid ""
 "more. LibreOffice is a comprehensive, professional-quality productivity "
 "suite shipped by default. Make your day-to-day tasks more easy and fun."
 msgstr ""
+"Create documenti professionali, fogli di calcolo, presentazioni, disegni e "
+"molto di più. LibreOffice è una suite da ufficio professionale ed è "
+"disponibile da subito dopo l'installazione di Ubuntu GNOME. Rendete le "
+"vostre giornate più facili e divertenti!"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/photos.html:2
@@ -182,30 +196,39 @@ msgid ""
 "pictures. And you can share your favorite snaps on all popular photo sites "
 "and social networks."
 msgstr ""
+"Stanchi di cercare l'applicazione adatta alla gestione delle vostre foto? "
+"Con Foto è facile importare, organizzare, modificare e visualizzare tutte le "
+"proprie fotografie. Condividerle sui social network? Semplicissimo!"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu-gnome/slides/usc.html:2
+#: slideshows/ubuntu-gnome/slides/software.html:2
 msgid "Find even more software"
 msgstr "Ancora più software"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/usc.html:8
+#: slideshows/ubuntu-gnome/slides/software.html:8
 msgid "<strong>Say Goodbye to searching the web for a software.</strong>"
 msgstr ""
+"<strong>Addio a tediose ricerche su Internet per trovare un programma.</"
+"strong>"
 
-#. type: Content of: <div><div><div>
-#: slideshows/ubuntu-gnome/slides/usc.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/software.html:9
 msgid ""
-"With Ubuntu Software Center you can easily find and install software. Your "
-"ratings and reviews are used to rank software by popularity. You have access "
-"to thousands of free and commercial applications. Installing anything is "
-"just a couple of clicks away from you."
+"With GNOME Software you can easily find and install software. Your ratings "
+"and reviews are used to rank software by popularity. You have access to "
+"thousands of free and commercial applications. Installing anything is just a "
+"couple of clicks away from you."
 msgstr ""
+"Con Software potete facilmente trovare e installare nuovi programmi. I "
+"vostri voti e le vostre recensioni servono per categorizzare il software in "
+"base alla popolarità. Grazie a Software, avrete accesso a migliaia di "
+"applicazioni libere e commerciali, tutte a pochi clic di distanza."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/welcome.html:2
-msgid "Welcome to Ubuntu GNOME 15.10"
-msgstr ""
+msgid "Welcome to Ubuntu GNOME 16.04"
+msgstr "Benvenuti in Ubuntu GNOME 16.04"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:8
@@ -213,6 +236,8 @@ msgid ""
 "The official Ubuntu flavor featuring the GNOME Desktop Environment, aiming "
 "to provide a pure GNOME desktop experience built on top of Ubuntu."
 msgstr ""
+"La versione ufficiale di Ubuntu con l'ambiente grafico GNOME: pura "
+"esperienza GNOME costruita sulle basi di Ubuntu."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:9
@@ -220,152 +245,5 @@ msgid ""
 "The latest version of Ubuntu GNOME is the best choice for those looking for "
 "a fast, beautiful, simple, usable and stable Operating System."
 msgstr ""
-
-#~ msgid "Included software"
-#~ msgstr "Programmi inclusi"
-
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Browser web Firefox"
-
-#~ msgid "Customization options"
-#~ msgstr "Opzioni di personalizzazione"
-
-#~ msgid "Language support"
-#~ msgstr "Supporto lingue"
-
-#~ msgid "Assistive technologies"
-#~ msgstr "Tecnologie assistive"
-
-#~ msgid "Supported software"
-#~ msgstr "Programmi supportati"
-
-#~ msgid "Flash"
-#~ msgstr "Flash"
-
-#~ msgid "Chromium"
-#~ msgstr "Chromium"
-
-#~ msgid "Thank you for choosing and installing Ubuntu GNOME."
-#~ msgstr "Grazie per aver scelto di installare Ubuntu GNOME."
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Riproduttore musicale Rhythmbox"
-
-#~ msgid "Videos"
-#~ msgstr "Video"
-
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "Editor video Pitivi"
-
-#~ msgid "Everything you need for the office"
-#~ msgstr "Tutto il necessario per l'ufficio"
-
-#~ msgid "Evince Document Viewer"
-#~ msgstr "Visualizzatore documenti Evince"
-
-#~ msgid "Documents"
-#~ msgstr "Documenti"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
-
-#~ msgid "GIMP Image Editor"
-#~ msgstr "Editor di immagini GIMP"
-
-#~ msgid "Shotwell Photo Manager"
-#~ msgstr "Gestore di fotografie Shotwell"
-
-#~ msgid "Enhance your workflow with <strong>dynamic workspaces</strong>"
-#~ msgstr ""
-#~ "Migliora la tua produttività con gli <strong>spazi di lavoro dinamici</"
-#~ "strong>"
-
-#~ msgid "Access <strong>your online documents</strong> natively"
-#~ msgstr "Accedi nativamente <strong>ai tuoi documenti online</strong>"
-
-#~ msgid ""
-#~ "Learn more about Ubuntu GNOME from <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
-#~ msgstr ""
-#~ "Impara di più su Ubuntu GNOME visitando <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
-
-#~ msgid ""
-#~ "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
-#~ "ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
-#~ msgstr ""
-#~ "Per aiuto e supporto, vai alla pagina <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
-
-#~ msgid "Chat with <strong>your friends</strong> from Facebook, Google, etc."
-#~ msgstr ""
-#~ "Tieniti in contatto con <strong>i tuoi amici</strong> da Facebook, "
-#~ "Google, etc."
-
-#~ msgid "Manage <strong>your address book</strong> easily"
-#~ msgstr "Gestisci in maniera semplice <strong>la tua rubrica</strong>"
-
-#~ msgid ""
-#~ "Ubuntu GNOME has everything you need to browse the web. Firefox offers "
-#~ "powerful personalization, support for cutting-edge web standards, "
-#~ "carefully optimized performance, and advanced security while still "
-#~ "remaining easy to use."
-#~ msgstr ""
-#~ "Ubuntu GNOME ha tutto ciò di cui hai bisogno per esplorare il web. "
-#~ "Firefox offre infinite personlaizzazioni, il supporto agli standard web "
-#~ "più all'avanguardia e una sicurezza avanzata, restando semplice da usare."
-
-#~ msgid ""
-#~ "We understand how important your computer is for day-to-day tasks. Create "
-#~ "professional documents, spreadsheets and presentations with LibreOffice "
-#~ "and manage your local and online documents in a single place with GNOME "
-#~ "Documents."
-#~ msgstr ""
-#~ "Sappiamo quantoè importante il tuo computer nelle attività di ogni "
-#~ "giorno. Crea documenti professionali, fogli di calcolo e presentazioni "
-#~ "con LIbreOffice e gestisci i documenti locali e qelli online con "
-#~ "Documenti di GNOME."
-
-#~ msgid ""
-#~ "With Shotwell, you can quickly and easily import, organize, edit and view "
-#~ "your pictures. And you can share your favorite snaps on all popular photo "
-#~ "sites and social networks."
-#~ msgstr ""
-#~ "Con Shotwell puoi, velocemtne e in maniera semplice, importare, "
-#~ "organizzare, modificare e vedere le tue foto. E puoi anche condividere le "
-#~ "tue preferite in tutti i più popolari siti di foto e sui social network."
-
-#~ msgid "<strong>Say goodbye to searching the web for new software. </strong>"
-#~ msgstr "<strong>Di addio alla ricerca di nuovi software nel web. </strong>"
-
-#~ msgid ""
-#~ "Ubuntu Software Center gives you instant access to thousands of great "
-#~ "games and applications — some free and some available commercially. If "
-#~ "you see something you like, you can see more information and install it "
-#~ "in just a few clicks."
-#~ msgstr ""
-#~ "Ubuntu Software Center fornisce l'accesso immediato a migliaia di giochi "
-#~ "e applicazioni, sia gratuiti che a pagamento. Se trovi qualcosa che ti "
-#~ "piace, con pochi clic puoi subito avere ulteriori informazioni e decidere "
-#~ "se effettuare l'installazione."
-
-#~ msgid ""
-#~ "We believe the combination of Ubuntu and GNOME is the best choice for "
-#~ "those looking for a beautiful, simple, and usable operating system."
-#~ msgstr ""
-#~ "Noi crediamo che la combinazione di Ubuntu e GNOME sia la scleta migliore "
-#~ "per coloro che cercano la bellezza, la semplicità e l'usabilità del "
-#~ "sistema operativo."
-
-#~ msgid "LibreOffice Suite"
-#~ msgstr "Suite LibreOffice"
-
-#~ msgid ""
-#~ "Ubuntu GNOME features the GNOME desktop on top of the popular Ubuntu "
-#~ "foundation."
-#~ msgstr ""
-#~ "Ubuntu GNOME unisce l'ambiente desktop di GNOME con le solide basi del "
-#~ "popolare sistema Ubuntu."
-
-#~ msgid "Welcome to Ubuntu GNOME 15.04"
-#~ msgstr "Benvenuti in Ubuntu GNOME 15.04"
+"L'ultima versione di Ubuntu GNOME è la scelta migliore per quelli che "
+"cercano un sistema operativo veloce, bello, semplice e usabile."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:52+0300\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
 "PO-Revision-Date: 2015-04-16 12:36+0000\n"
 "Last-Translator: Arun Kumar - அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language-Team: Tamil <ta@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -107,17 +107,17 @@ msgstr "குரோமியம்"
 msgid "Help and support"
 msgstr ""
 
-#. type: Content of: <div><div><p>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:7
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:8
 msgid ""
 "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
 "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System meny."
+"the System menu."
 msgstr ""
 
-#. type: Content of: <div><div><p>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
@@ -125,8 +125,8 @@ msgid ""
 "teams/\">Local Community Team</a>."
 msgstr ""
 
-#. type: Content of: <div><div><p>
-#: slideshows/oem-config-ubuntu/slides/gethelp.html:11
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:16
 msgid ""
 "For pointers to other useful resources, please visit <a href=\"http://"
 "community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
@@ -230,15 +230,11 @@ msgstr "மேலும் தேவையான மென்பொருள�
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Ubuntu "
+"Software Store, you can find and install new apps with ease. Just type in "
+"what you’re looking for, or explore categories such as Science, Education "
+"and Games, alongside helpful reviews from other users."
 msgstr ""
-"புதிய மென்பொருட்களை தேட இணையத்தை நாடுவதற்கு டாட்டா காட்டுங்கள். உபுண்டு மென்பொருள் "
-"மையத்தின் மூலம் நீங்கள் எளிமையாக சுலபமாக பயன்பாடுகளை நிறுவ முடியும். நீங்க தேட "
-"நினைக்கும் மென்பொருள் பற்றி வார்த்தையை தட்டினால் போதும் அது கல்வி, அறிவியல், மற்றும் "
-"விளையாட்டு போன்ற வகைகளில் மற்ற பயனர்களின் கருத்துக்களுடன் காட்டப்படும்."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1
@@ -255,18 +251,13 @@ msgstr ""
 "நடையில் இதுவரை இல்லாதவாறு கணினியுகத்தை உருவாக்கிருக்கிறது. நீங்கள் இங்கே பார்ப்பது "
 "புதியவைகளில் சிலவற்றை மட்டுமே..."
 
-#~ msgid "Any questions?"
-#~ msgstr "ஏதேனும் கேள்விகள் உள்ளனவா?"
-
 #~ msgid ""
-#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
-#~ "to all your Ubuntu questions. There’s a good chance your question will "
-#~ "have been answered already and, if not, you’ll find thousands of "
-#~ "volunteers eager to help. For more support options, go to <a href="
-#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ "Say goodbye to searching the web for new software. With Ubuntu Software "
+#~ "Center, you can find and install new apps with ease. Just type in what "
+#~ "you’re looking for, or explore categories such as Science, Education and "
+#~ "Games, alongside helpful reviews from other users."
 #~ msgstr ""
-#~ "நீங்க <a href=\"http://askubuntu.com/\">askubuntu.com</a> என்ற இணையப் பக்கத்தில் "
-#~ "சொடுக்கி உங்களைடைய ஐயங்களை தீர்த்துக்கொள்ளலாம். உங்களுடைய கேள்விக்கு ஏற்கனவே பதில் "
-#~ "அங்கிருக்கலாம் அல்லது பால்லாரயிரம் தன்னார்வாளர்கள் பதிலளிக்க்கூடும். மேலும் உதவிக்கு <a "
-#~ "href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a> என்ற தளத்தை "
-#~ "அனுகவும்."
+#~ "புதிய மென்பொருட்களை தேட இணையத்தை நாடுவதற்கு டாட்டா காட்டுங்கள். உபுண்டு மென்பொருள் "
+#~ "மையத்தின் மூலம் நீங்கள் எளிமையாக சுலபமாக பயன்பாடுகளை நிறுவ முடியும். நீங்க தேட "
+#~ "நினைக்கும் மென்பொருள் பற்றி வார்த்தையை தட்டினால் போதும் அது கல்வி, அறிவியல், மற்றும் "
+#~ "விளையாட்டு போன்ற வகைகளில் மற்ற பயனர்களின் கருத்துக்களுடன் காட்டப்படும்."

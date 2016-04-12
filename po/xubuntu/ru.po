@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:51+0300\n"
-"PO-Revision-Date: 2015-10-12 12:19+0000\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-03-17 07:26+0000\n"
 "Last-Translator: Aleksey Kabanov <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -24,12 +24,17 @@ msgid "Welcome to Xubuntu"
 msgstr "Добро пожаловать в Xubuntu"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:7
-msgid "Congratulations, you have chosen to install Xubuntu 15.10!"
-msgstr "Поздравляем, вы выбрали установку Xubuntu 15.10!"
+#: slideshows/xubuntu/slides/00_welcome.html:5
+msgid "Congratulations for choosing to install"
+msgstr "Поздравляем с выбором"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:8
+#: slideshows/xubuntu/slides/00_welcome.html:5
+msgid "Xubuntu 16.04 LTS!"
+msgstr "Xubuntu 16.04 LTS!"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/00_welcome.html:6
 msgid ""
 "If you are running this installation via the <em>Try Xubuntu</em> option, "
 "feel free to examine things as Xubuntu installs. After the installation, the "
@@ -40,251 +45,155 @@ msgstr ""
 "устанавливается. После установки рабочий стол будет выглядеть подобно тому, "
 "как он выглядит сейчас."
 
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/00_welcome.html:10
+msgid "<span class=\"fo is\">Xubuntu</span>"
+msgstr "<span class=\"fo is\">Xubuntu</span>"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/00_welcome.html:11
+msgid "<span class=\"fo plus\">Xfce</span>"
+msgstr "<span class=\"fo plus\">Xfce</span>"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/00_welcome.html:12
+msgid "<span class=\"fo\">Ubuntu</span>"
+msgstr "<span class=\"fo\">Ubuntu</span>"
+
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/01_defaultapps.html:2
+#: slideshows/xubuntu/slides/01_applications.html:2
 msgid "Ready to go!"
 msgstr "Готовы?!"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:7
+#: slideshows/xubuntu/slides/01_applications.html:5
 msgid ""
-"Here is a brief list of some applications that are preinstalled with Xubuntu "
-"for your convenience. Find them in the menu on the left top corner of your "
-"screen. You can install more through the <span class=\"app\" data-app=\"usc"
-"\">Ubuntu Software Center</span>."
+"Here is a list of some applications that are preinstalled with Xubuntu for "
+"your convenience. Find them in the applications menu and install more with "
+"the package manager."
 msgstr ""
-"Вот краткий список некоторых приложений, предустановленных в Xubuntu для "
-"вашего удобства. Их можно найти в меню в левом верхнем углу экрана. Для "
-"установки других приложений воспользуйтесь <span class=\"app\" data-app=\"usc"
-"\">Центром приложений Ubuntu</span>."
+"Вот список некоторых из приложений, устанавливаемых вместе с Xubuntu для "
+"вашего удобства. Найдите их в меню приложений и установите дополнительные "
+"приложения с помощью менеджера пакетов."
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/01_defaultapps.html:10
-msgid "Internet"
-msgstr "Интернет"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:8
+msgid "<strong>Firefox</strong> <span>Web browser</span>"
+msgstr "<strong>Firefox</strong> <span>Веб-браузер</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:11
-msgid "<strong>Firefox</strong>, web browser"
-msgstr "<strong>Firefox</strong>, веб-браузер"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:9
+msgid "<strong>Thunderbird</strong> <span>Mail and news client</span>"
+msgstr ""
+"<strong>Thunderbird</strong> <span>Клиент электронной почты и новостных "
+"рассылок</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:12
-msgid "<strong>Thunderbird</strong>, mail and news client"
-msgstr "<strong>Thunderbird</strong>, почтовый и новостной клиент"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:10
+msgid "<strong>Pidgin</strong> <span>Internet messenger</span>"
+msgstr ""
+"<strong>Pidgin</strong> <span>Приложение для обмена мгновенными сообщениями</"
+"span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:13
-msgid "<strong>Pidgin</strong>, Internet messenger"
-msgstr "<strong>Pidgin</strong>, клиент мгновенного обмена сообщениями"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:11
+msgid "<strong>Parole</strong> <span>Media player</span>"
+msgstr "<strong>Parole</strong> <span>Медиапроигрыватель</span>"
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/01_defaultapps.html:14
-msgid "Office"
-msgstr "Офисные приложения"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:14
+msgid "<strong>LibreOffice Writer</strong> <span>Word processor</span>"
+msgstr "<strong>LibreOffice Writer</strong> <span>Текстовый процессор</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:15
-msgid "<strong>LibreOffice Writer</strong>, word processor"
-msgstr "<strong>LibreOffice Writer</strong>, текстовый редактор"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:15
+msgid "<strong>LibreOffice Calc</strong> <span>Spreadsheet editor</span>"
+msgstr ""
+"<strong>LibreOffice Calc</strong> <span>Редактор электронных таблиц</span>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:16
-msgid "<strong>LibreOffice Calc</strong>, spreadsheet editor"
-msgstr "<strong>LibreOffice Calc</strong>, редактор электронных таблиц"
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:16
+msgid "<strong>Gnome Software</strong> <span>Package manager</span>"
+msgstr "<strong>Gnome Software</strong> <span>Менеджер пакетов</span>"
 
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/01_defaultapps.html:19
-msgid "Media"
-msgstr "Мультимедиа"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:20
-msgid "<strong>gmusicbrowser</strong>, music collection software"
-msgstr "<strong>gmusicbrowser</strong>, музыкальный проигрыватель"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:21
-msgid "<strong>Parole</strong>, media player"
-msgstr "<strong>Parole</strong>, медиаплеер"
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/01_defaultapps.html:22
-msgid "System & Settings"
-msgstr "Параметры системы"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:23
-msgid "<strong>Ubuntu Software Center</strong>"
-msgstr "<strong>Центр приложений Ubuntu</strong>"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:24
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/01_applications.html:17
 msgid "<strong>Settings Manager</strong>"
 msgstr "<strong>Менеджер настроек</strong>"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:28
-#: slideshows/xubuntu/slides/02_personalize.html:13
-#: slideshows/xubuntu/slides/04_customize.html:13
-#: slideshows/xubuntu/slides/04_customize.html:14
-#: slideshows/xubuntu/slides/05_support.html:20
-msgid "<b>»</b>"
-msgstr "<b>»</b>"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_defaultapps.html:28
-msgid "Ubuntu Software Center"
-msgstr "Центр приложений Ubuntu"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/02_personalize.html:2
-msgid "Personalize your computer"
-msgstr "Персонализируйте ваш компьютер"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_personalize.html:7
-msgid ""
-"Easily set your profile image and user details for your user with <span "
-"class=\"app\" data-app=\"mugshot\">Mugshot</span>."
-msgstr ""
-"Настройте изображение и данные своего профиля с помощью <span class=\"app\" "
-"data-app=\"mugshot\">Mugshot</span>."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_personalize.html:8
-msgid ""
-"Your profile information will automatically be picked up by supported "
-"applications like Pidgin, LibreOffice Writer and Calc."
-msgstr ""
-"Информация из вашего профиля будет автоматически использоваться такими "
-"приложениями, как Pidgin, LibreOffice Writer и Calc."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/02_personalize.html:13
-msgid "About Me"
-msgstr "О себе"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/03_desktop.html:2
-msgid "The Xubuntu desktop"
-msgstr "Рабочий стол Xubuntu"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:7
-msgid ""
-"On the desktop you will see icons that can be used to access some of the "
-"most common places on your system. In addition, you will see a single, "
-"multipurpose, panel at the top of the screen."
-msgstr ""
-"На рабочем столе вы увидите иконки, которые можно использовать для доступа к "
-"некоторым часто используемым местам в вашей системе. Дополнительно, вы "
-"увидите одну мульти-функциональную панель управления в верхней части экрана."
-
 #. type: Attribute 'alt' of: <div><div><img>
-#: slideshows/xubuntu/slides/03_desktop.html:11
+#: slideshows/xubuntu/slides/02_desktop.html:3
 msgid "Xubuntu default panel"
 msgstr "Стандартная панель Xubuntu"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:17
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/02_desktop.html:8
 msgid ""
-"On the left hand side, you will see a Xubuntu logo. Click it to open the "
-"main menu. We will tell you more about this menu in the next slide."
+"On the left hand side, you will see a Xubuntu logo. Clicking it opens the "
+"main menu."
 msgstr ""
-"В левой части вы увидите логотип Xubuntu. Нажмите на него, чтобы открыть "
-"главное меню. Мы расскажем вам об этом меню в следующем слайде."
+"С левой стороны расположен логотип Xubuntu. Щелчок на нём открывает главное "
+"меню."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:18
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/02_desktop.html:9
 msgid ""
 "The middle part of the panel is dedicated to window buttons for open "
 "applications."
 msgstr "В средней части панели будут отображаться кнопки открытых приложений."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:19
-msgid ""
-"On the far right, you will see indicators and a clock. Click the clock to "
-"see the monthly calendar."
-msgstr ""
-"В конце правой части, вы увидите индикаторы и часы. Нажмите на часы, чтобы "
-"увидеть ежемесячный календарь."
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/02_desktop.html:10
+msgid "On the far right, you will see indicators and a clock."
+msgstr "Справа находятся индикаторы и часы."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_desktop.html:23
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/02_desktop.html:15
 msgid ""
-"Customize your panel by right-clicking it and selecting <em>Panel » Panel "
-"Preferences</em>. You can also add and remove panels using this dialog."
+"On the desktop you will see icons that can be used to access some of the "
+"most common places on your system. In the Settings Manager you will find "
+"many tools to change this default desktop."
 msgstr ""
-"Панель можно настроить, щёлкнув на ней правой кнопкой и выбрав <em>Панель » "
-"Параметры панели</em>. В этом диалоговом окне также можно добавлять и "
-"удалять панели."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/xubuntu/slides/02_desktop.html:19
+msgid ""
+"Most of the tools to customise your desktop to your liking will be found at "
+"the top in the <strong>Personal</strong> section. For quick visible changes "
+"to your desktop, play with the Panel, Theme Configuration, Appearance and "
+"Window Manager tools."
+msgstr ""
+
+#. type: Content of: <div><div><h1>
+#: slideshows/xubuntu/slides/02_desktop.html:22
+msgid "The Xubuntu desktop"
+msgstr "Рабочий стол Xubuntu"
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/04_customize.html:2
-msgid "Make the desktop your own"
-msgstr "Создавайте свой собственный рабочий стол"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:7
-msgid ""
-"Edit your user menus, whether adding applications, directories, separators "
-"to the menu layout or reordering menu items. Create new launchers and modify "
-"existing ones with <span class=\"app\" data-app=\"menulibre\">MenuLibre</"
-"span>."
-msgstr ""
-"Настройте меню приложений: добавьте приложения, категории, разделители, или "
-"поменяйте элементы местами. Создайте новые значки запуска или измените уже "
-"существующие с помощью <span class=\"app\" data-app=\"menulibre\">MenuLibre</"
-"span>."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:8
-msgid ""
-"Control the look of your window borders, how the windows themselves look and "
-"the appearance of your icons with the <span class=\"app\" data-app=\"theme-"
-"config\">Theme Configuration</span> utility."
-msgstr ""
-"Управляйте оформлением рамок окон, внешним видом самих окон и значков с "
-"помощью утилиты <span class=\"app\" data-app=\"theme-config\">Theme "
-"Configuration</span>."
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:13
-msgid "Menu Editor"
-msgstr "Редактор Меню"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/04_customize.html:14
-msgid "Theme Configuration"
-msgstr "Настройка темы"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/05_support.html:2
+#: slideshows/xubuntu/slides/03_support.html:2
 msgid "Help & Support"
 msgstr "Справка и поддержка"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:7
+#: slideshows/xubuntu/slides/03_support.html:5
 msgid ""
-"The <span class=\"app\" data-app=\"docs\">Official Documentation</span> that "
-"covers many of the most common areas and questions about Xubuntu is shipped "
-"with every Xubuntu release. The documentation is also available <a href="
-"\"http://docs.xubuntu.org/\">online</a>."
+"The <em>Official Documentation</em> that covers many of the most common "
+"areas and questions about Xubuntu is shipped with every Xubuntu release. You "
+"can find it under <strong>Menu &rsaquo; Help</strong>. The documentation is "
+"also available <a href=\"http://docs.xubuntu.org/\">online</a>."
 msgstr ""
-"<span class=\"app\" data-app=\"docs\">Официальная документация</span>, "
-"охватывающая многие типичные темы и вопросы, касающиеся Xubuntu, "
-"поставляется с каждым выпуском Xubuntu. Эта документация доступна также <a "
-"href=\"http://docs.xubuntu.org/\">в Интернете</a>."
+"<em>Официальная документация</em>, охватывающая наиболее общие темы и "
+"вопросы, касающиеся Xubuntu, поставляется с каждым выпуском Xubuntu. Её "
+"можно найти в <strong>меню &rsaquo; Справка</strong>. Эта документация "
+"доступна также <a href=\"http://docs.xubuntu.org/\">в Интернете</a>."
 
 #. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/05_support.html:8
+#: slideshows/xubuntu/slides/03_support.html:6
 msgid "Other resources"
 msgstr "Прочие ресурсы"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:9
+#: slideshows/xubuntu/slides/03_support.html:7
 msgid ""
 "Still have questions? The full list of support methods is available at the "
 "<a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
@@ -294,95 +203,321 @@ msgstr ""
 "представлен в разделе <a href=\"http://xubuntu.org/help\">Справка и "
 "поддержка</a> на веб-сайте Xubuntu."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/05_support.html:13
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/04_support-live.html:2
 msgid "Real-time support"
 msgstr "Интерактивная поддержка"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:14
+#: slideshows/xubuntu/slides/04_support-live.html:6
 msgid ""
-"For live, online support <strong>in English</strong>, join our IRC channel, "
+"For live, online support <em>in English</em>, join our IRC channel, "
 "<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
 "channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
 msgstr ""
-"Для живой интерактивной поддержки <strong>на английском языке</strong> "
-"подключитесь к нашему IRC-каналу, <em>#xubuntu</em>, <a href=\"http://"
-"webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">щёлкнув "
-"здесь</a>."
+"Для живой интернет-поддержки <em>на английском</em> подключитесь к нашему "
+"каналу IRC <em>#xubuntu</em>, <a href=\"http://webchat.freenode.net/?"
+"channels=xubuntu&nick=xubuntu..i&prompt=1\">щёлкнув здесь</a>."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:15
+#: slideshows/xubuntu/slides/04_support-live.html:7
 msgid ""
-"For support in <strong>other languages</strong>, view the full list of <a "
-"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
-"channels</a>."
+"For support in <em>other languages</em>, view the full list of <a href="
+"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
 msgstr ""
-"Для получения помощи на <strong>других языках</strong> смотрите полный "
-"список <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">локальных "
-"каналов поддержки</a>."
+"Для поддержки на <em>других языках</em> ознакомьтесь с полным списком <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">локальных каналов "
+"поддержки</a>."
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_support.html:20
-msgid "Help"
-msgstr "Справка"
+#. type: Content of: <div><div>
+#: slideshows/xubuntu/slides/04_support-live.html:16
+msgid "Meow"
+msgstr ""
 
 #. type: Content of: <div><div><h1>
-#: slideshows/xubuntu/slides/06_thanks.html:4
+#: slideshows/xubuntu/slides/05_contribute.html:3
+msgid "Want to contribute?"
+msgstr "Хотите помочь?"
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/05_contribute.html:5
+msgid ""
+"Like what you see? Like what you use? Why not join in? You don't have to be "
+"able to code – there are many different parts we need help with."
+msgstr ""
+"Нравится то, что вы видите? Нравится то, что используете? Почему бы не "
+"присоединиться к нам? Если не умеете писать программы, есть много других "
+"дел, в которых нам нужна помощь."
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/05_contribute.html:6
+msgid ""
+"To read about all of the opportunities available to you, head to the <a href="
+"\"http://xubuntu.org/contribute/\">Get Involved</a> section of our website. "
+"This page has introductions to our various subteams as well as links to "
+"other important websites related to Xubuntu development."
+msgstr ""
+"Чтобы узнать о всех доступных для вас возможностях участия, посетите раздел "
+"<a href=\"http://xubuntu.org/contribute/\">Get Involved</a> нашего веб-"
+"сайта. Эта страница познакомит вас с различными подгруппами нашего "
+"сообщества и предоставит ссылки на другие важные сайты, имеющие отношение к "
+"разработке Xubuntu."
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:10
+msgid "testing"
+msgstr "тестирование"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:11
+msgid "social media"
+msgstr ""
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:12
+msgid "documentation"
+msgstr "документация"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:13
+msgid "bug triage"
+msgstr "поиск ошибок"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:14
+msgid "artwork"
+msgstr "оформление"
+
+#. type: Content of: <div><div><div>
+#: slideshows/xubuntu/slides/05_contribute.html:15
+msgid "development"
+msgstr "разработка"
+
+#. type: Content of: <div><h1>
+#: slideshows/xubuntu/slides/06_thanks.html:2
 msgid "Thank you!"
 msgstr "Спасибо!"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:9
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/06_thanks.html:5
 msgid ""
-"Thanks for taking the time to install Xubuntu with us. Feel free to pass on "
-"your installation media and let others try Xubuntu as well!"
+"Thanks for taking the time to install Xubuntu. Feel free to pass on your "
+"installation media and let others try Xubuntu as well!"
 msgstr ""
-"Спасибо за время, которое вы провели вместе с нами, пока устанавливалась "
-"Xubuntu. Рекомендуем вам поделиться установочным носителем с другими людьми, "
-"чтобы они тоже могли попробовать Xubuntu!"
+"Спасибо за время, затраченное на установку Xubuntu! Мы будем только рады, "
+"если вы передадите свой установочный носитель другим людям, чтобы они тоже "
+"могли опробовать Xubuntu!"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:11
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/06_thanks.html:6
 msgid ""
 "We'd love to hear about your experiences with Xubuntu. You can share them on "
 "the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-"\">Xubuntu users mailing list</a> or on the <em>#xubuntu-offtopic</em> IRC "
-"channel."
+"\">Xubuntu users mailing list</a> or if you are still here, on <em>#xubuntu-"
+"offtopic</em> IRC channel where you might find people to talk with."
 msgstr ""
-"Мы будем рады узнать о ваших впечатлениях от Xubuntu. Вы можете рассказать о "
-"них в <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-"\">почтовой рассылке пользователей Xubuntu</a> или на IRC-канале "
-"<em>#xubuntu-offtopic</em>."
+"Нам было бы приятно узнать о ваших впечатлениях от Xubuntu. Вы можете "
+"поделиться ими в <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-"
+"users\">почтовой рассылке пользователей Xubuntu</a> или на канале IRC "
+"<em>#xubuntu-offtopic</em>, где вы сможете найти себе собеседников."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/xubuntu/slides/06_thanks.html:13
-msgid "We need your help!"
-msgstr "Нам нужна ваша помощь!"
+#~ msgid "Help"
+#~ msgstr "Справка"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:14
-msgid ""
-"Want to give something back? The different ways to contribute to the Xubuntu "
-"community can all be found on the <a href=\"http://xubuntu.org/devel\">Get "
-"Involved</a> section of our website."
-msgstr ""
-"Хотите помочь? О различных способах сделать свой вклад в сообщество Xubuntu "
-"можно узнать в разделе <a href=\"http://xubuntu.org/devel\">Get Involved</a> "
-"на нашем веб-сайте."
+#~ msgid "Make the desktop your own"
+#~ msgstr "Создавайте свой собственный рабочий стол"
 
-#~ msgid "<strong>AbiWord</strong>, word processor"
-#~ msgstr "<strong>AbiWord</strong>, текстовый редактор"
+#~ msgid "Internet"
+#~ msgstr "Интернет"
 
-#~ msgid "<strong>Gnumeric</strong>, spreadsheet editor"
-#~ msgstr "<strong>Gnumeric</strong>, редактор электронных таблиц"
+#~ msgid "We need your help!"
+#~ msgstr "Нам нужна ваша помощь!"
 
-#~ msgid "Congratulations, you have chosen to install Xubuntu 15.04!"
-#~ msgstr "Поздравляем, вы выбрали установку Xubuntu 15.04!"
+#~ msgid "Office"
+#~ msgstr "Офисные приложения"
+
+#~ msgid "Media"
+#~ msgstr "Мультимедиа"
+
+#~ msgid "About Me"
+#~ msgstr "О себе"
+
+#~ msgid ""
+#~ "On the left hand side, you will see a Xubuntu logo. Click it to open the "
+#~ "main menu. We will tell you more about this menu in the next slide."
+#~ msgstr ""
+#~ "В левой части вы увидите логотип Xubuntu. Нажмите на него, чтобы открыть "
+#~ "главное меню. Мы расскажем вам об этом меню в следующем слайде."
+
+#~ msgid ""
+#~ "On the far right, you will see indicators and a clock. Click the clock to "
+#~ "see the monthly calendar."
+#~ msgstr ""
+#~ "В конце правой части, вы увидите индикаторы и часы. Нажмите на часы, "
+#~ "чтобы увидеть ежемесячный календарь."
+
+#~ msgid "<b>»</b>"
+#~ msgstr "<b>»</b>"
+
+#~ msgid "Personalize your computer"
+#~ msgstr "Персонализируйте ваш компьютер"
+
+#~ msgid "<strong>Firefox</strong>, web browser"
+#~ msgstr "<strong>Firefox</strong>, веб-браузер"
+
+#~ msgid "<strong>Thunderbird</strong>, mail and news client"
+#~ msgstr "<strong>Thunderbird</strong>, почтовый и новостной клиент"
+
+#~ msgid "<strong>Parole</strong>, media player"
+#~ msgstr "<strong>Parole</strong>, медиаплеер"
+
+#~ msgid "<strong>Ubuntu Software Center</strong>"
+#~ msgstr "<strong>Центр приложений Ubuntu</strong>"
+
+#~ msgid ""
+#~ "On the desktop you will see icons that can be used to access some of the "
+#~ "most common places on your system. In addition, you will see a single, "
+#~ "multipurpose, panel at the top of the screen."
+#~ msgstr ""
+#~ "На рабочем столе вы увидите иконки, которые можно использовать для "
+#~ "доступа к некоторым часто используемым местам в вашей системе. "
+#~ "Дополнительно, вы увидите одну мульти-функциональную панель управления в "
+#~ "верхней части экрана."
+
+#~ msgid "Menu Editor"
+#~ msgstr "Редактор Меню"
+
+#~ msgid "Theme Configuration"
+#~ msgstr "Настройка темы"
+
+#~ msgid "<strong>gmusicbrowser</strong>, music collection software"
+#~ msgstr "<strong>gmusicbrowser</strong>, музыкальный проигрыватель"
+
+#~ msgid "<strong>Pidgin</strong>, Internet messenger"
+#~ msgstr "<strong>Pidgin</strong>, клиент мгновенного обмена сообщениями"
+
+#~ msgid "System & Settings"
+#~ msgstr "Параметры системы"
+
+#~ msgid ""
+#~ "Want to give something back? The different ways to contribute to the "
+#~ "Xubuntu community can all be found on the <a href=\"http://xubuntu.org/"
+#~ "devel\">Get Involved</a> section of our website."
+#~ msgstr ""
+#~ "Хотите помочь? О различных способах сделать свой вклад в сообщество "
+#~ "Xubuntu можно узнать в разделе <a href=\"http://xubuntu.org/devel\">Get "
+#~ "Involved</a> на нашем веб-сайте."
+
+#~ msgid ""
+#~ "Here is a brief list of some applications that are preinstalled with "
+#~ "Xubuntu for your convenience. Find them in the menu on the left top "
+#~ "corner of your screen. You can install more through the <span class=\"app"
+#~ "\" data-app=\"usc\">Ubuntu Software Center</span>."
+#~ msgstr ""
+#~ "Вот краткий список некоторых приложений, предустановленных в Xubuntu для "
+#~ "вашего удобства. Их можно найти в меню в левом верхнем углу экрана. Для "
+#~ "установки других приложений воспользуйтесь <span class=\"app\" data-app="
+#~ "\"usc\">Центром приложений Ubuntu</span>."
+
+#~ msgid "Ubuntu Software Center"
+#~ msgstr "Центр приложений Ubuntu"
+
+#~ msgid ""
+#~ "Thanks for taking the time to install Xubuntu with us. Feel free to pass "
+#~ "on your installation media and let others try Xubuntu as well!"
+#~ msgstr ""
+#~ "Спасибо за время, которое вы провели вместе с нами, пока устанавливалась "
+#~ "Xubuntu. Рекомендуем вам поделиться установочным носителем с другими "
+#~ "людьми, чтобы они тоже могли попробовать Xubuntu!"
+
+#~ msgid ""
+#~ "For live, online support <strong>in English</strong>, join our IRC "
+#~ "channel, <em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
+#~ "channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+#~ msgstr ""
+#~ "Для живой интерактивной поддержки <strong>на английском языке</strong> "
+#~ "подключитесь к нашему IRC-каналу, <em>#xubuntu</em>, <a href=\"http://"
+#~ "webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">щёлкнув "
+#~ "здесь</a>."
+
+#~ msgid ""
+#~ "For support in <strong>other languages</strong>, view the full list of <a "
+#~ "href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+#~ "channels</a>."
+#~ msgstr ""
+#~ "Для получения помощи на <strong>других языках</strong> смотрите полный "
+#~ "список <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local"
+#~ "\">локальных каналов поддержки</a>."
+
+#~ msgid ""
+#~ "The <span class=\"app\" data-app=\"docs\">Official Documentation</span> "
+#~ "that covers many of the most common areas and questions about Xubuntu is "
+#~ "shipped with every Xubuntu release. The documentation is also available "
+#~ "<a href=\"http://docs.xubuntu.org/\">online</a>."
+#~ msgstr ""
+#~ "<span class=\"app\" data-app=\"docs\">Официальная документация</span>, "
+#~ "охватывающая многие типичные темы и вопросы, касающиеся Xubuntu, "
+#~ "поставляется с каждым выпуском Xubuntu. Эта документация доступна также "
+#~ "<a href=\"http://docs.xubuntu.org/\">в Интернете</a>."
+
+#~ msgid ""
+#~ "We'd love to hear about your experiences with Xubuntu. You can share them "
+#~ "on the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+#~ "\">Xubuntu users mailing list</a> or on the <em>#xubuntu-offtopic</em> "
+#~ "IRC channel."
+#~ msgstr ""
+#~ "Мы будем рады узнать о ваших впечатлениях от Xubuntu. Вы можете "
+#~ "рассказать о них в <a href=\"https://lists.ubuntu.com/mailman/listinfo/"
+#~ "xubuntu-users\">почтовой рассылке пользователей Xubuntu</a> или на IRC-"
+#~ "канале <em>#xubuntu-offtopic</em>."
+
+#~ msgid ""
+#~ "Easily set your profile image and user details for your user with <span "
+#~ "class=\"app\" data-app=\"mugshot\">Mugshot</span>."
+#~ msgstr ""
+#~ "Настройте изображение и данные своего профиля с помощью <span class=\"app"
+#~ "\" data-app=\"mugshot\">Mugshot</span>."
+
+#~ msgid "Congratulations, you have chosen to install Xubuntu 15.10!"
+#~ msgstr "Поздравляем, вы выбрали установку Xubuntu 15.10!"
+
+#~ msgid "<strong>LibreOffice Calc</strong>, spreadsheet editor"
+#~ msgstr "<strong>LibreOffice Calc</strong>, редактор электронных таблиц"
+
+#~ msgid "<strong>LibreOffice Writer</strong>, word processor"
+#~ msgstr "<strong>LibreOffice Writer</strong>, текстовый редактор"
 
 #~ msgid ""
 #~ "Your profile information will automatically be picked up by supported "
-#~ "applications like Pidgin, Abiword, Gnumeric and LibreOffice."
+#~ "applications like Pidgin, LibreOffice Writer and Calc."
 #~ msgstr ""
-#~ "Настройки вашего профиля будут автоматически загружены в поддерживаемые "
-#~ "приложения, такие как Pidgin, Abiword, Gnumeric и LibreOffice"
+#~ "Информация из вашего профиля будет автоматически использоваться такими "
+#~ "приложениями, как Pidgin, LibreOffice Writer и Calc."
+
+#~ msgid ""
+#~ "Customize your panel by right-clicking it and selecting <em>Panel » Panel "
+#~ "Preferences</em>. You can also add and remove panels using this dialog."
+#~ msgstr ""
+#~ "Панель можно настроить, щёлкнув на ней правой кнопкой и выбрав <em>Панель "
+#~ "» Параметры панели</em>. В этом диалоговом окне также можно добавлять и "
+#~ "удалять панели."
+
+#~ msgid ""
+#~ "Edit your user menus, whether adding applications, directories, "
+#~ "separators to the menu layout or reordering menu items. Create new "
+#~ "launchers and modify existing ones with <span class=\"app\" data-app="
+#~ "\"menulibre\">MenuLibre</span>."
+#~ msgstr ""
+#~ "Настройте меню приложений: добавьте приложения, категории, разделители, "
+#~ "или поменяйте элементы местами. Создайте новые значки запуска или "
+#~ "измените уже существующие с помощью <span class=\"app\" data-app="
+#~ "\"menulibre\">MenuLibre</span>."
+
+#~ msgid ""
+#~ "Control the look of your window borders, how the windows themselves look "
+#~ "and the appearance of your icons with the <span class=\"app\" data-app="
+#~ "\"theme-config\">Theme Configuration</span> utility."
+#~ msgstr ""
+#~ "Управляйте оформлением рамок окон, внешним видом самих окон и значков с "
+#~ "помощью утилиты <span class=\"app\" data-app=\"theme-config\">Theme "
+#~ "Configuration</span>."

@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:51+0300\n"
-"PO-Revision-Date: 2013-09-22 14:00+0000\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-03-24 11:57+0000\n"
 "Last-Translator: Jalakas <Unknown>\n"
 "Language-Team: Estonian <et@li.org>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -105,19 +105,19 @@ msgstr "Chromium"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
 msgid "Help and support"
-msgstr ""
+msgstr "Abi ja tugi"
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:7
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
 "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
 "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System meny."
+"the System menu."
 msgstr ""
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
@@ -125,8 +125,8 @@ msgid ""
 "teams/\">Local Community Team</a>."
 msgstr ""
 
-#. type: Content of: <div><div><p>
-#: slideshows/ubuntu/slides/gethelp.html:11
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
 "For pointers to other useful resources, please visit <a href=\"http://"
 "community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
@@ -198,11 +198,11 @@ msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it’s easy to share them and "
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"from the GNOME Software Center."
 msgstr ""
 "Shotwell on mugav fotohaldur. Ühenda kaamera, telefon või mistahes muu seade "
 "ja kanna fotod üle oma arvutisse, kus on need kindlas kohas ning lihtsasti "
-"teistega jagatavad. Kui sind tabab loomepuhang, võid proovida Ubuntu "
+"teistega jagatavad. Kui sind tabab loomepuhang, võid proovida GNOME "
 "tarkvarakeskusest ka paljusid teisi fotorakendusi."
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -228,15 +228,11 @@ msgstr "Veel rohkem tarkvara"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu Software "
-"Center, you can find and install new apps with ease. Just type in what "
-"you’re looking for, or explore categories such as Science, Education and "
-"Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the GNOME "
+"Software Store, you can find and install new apps with ease. Just type in "
+"what you’re looking for, or explore categories such as Science, Education "
+"and Games, alongside helpful reviews from other users."
 msgstr ""
-"Jäta hüvasti veebist tarkvara otsimisega. Ubuntu tarkvarakeskuse kaudu saab "
-"lihtsalt otsida ja paigaldada uusi rakendusi. Kiirelt saab otsida programme "
-"nime või kategooria järgi näiteks teaduse, hariduse, mängude või mõnes muus "
-"valdkonnas. Otsimist abistavad teise kasutajate hinnangud ja kommentaarid."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -253,18 +249,14 @@ msgstr ""
 "arvutikasutamise lihtsamaks kui kunagi varem. Siin on vaid mõned lahedad "
 "uued asjad mida läbivaadata..."
 
-#~ msgid "Any questions?"
-#~ msgstr "On sul küsimusi?"
-
 #~ msgid ""
-#~ "Check out <a href=\"http://askubuntu.com/\">askubuntu.com</a> for answers "
-#~ "to all your Ubuntu questions. There’s a good chance your question will "
-#~ "have been answered already and, if not, you’ll find thousands of "
-#~ "volunteers eager to help. For more support options, go to <a href="
-#~ "\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+#~ "Say goodbye to searching the web for new software. With Ubuntu Software "
+#~ "Center, you can find and install new apps with ease. Just type in what "
+#~ "you’re looking for, or explore categories such as Science, Education and "
+#~ "Games, alongside helpful reviews from other users."
 #~ msgstr ""
-#~ "Küsimuste korral külasta lehekülge <a href=\"http://askubuntu.com/"
-#~ "\">askubuntu.com</a>. Arvatavasti on sinu küsimustele seal juba vastatud, "
-#~ "vastasel juhul võid sa ise küsimuse esitada, millele vastatakse peatselt. "
-#~ "Rohkema abi jaoks külasta veebilehte <a href=\"http://www.ubuntu.com/"
-#~ "support\">ubuntu.com/support</a>."
+#~ "Jäta hüvasti veebist tarkvara otsimisega. Ubuntu tarkvarakeskuse kaudu "
+#~ "saab lihtsalt otsida ja paigaldada uusi rakendusi. Kiirelt saab otsida "
+#~ "programme nime või kategooria järgi näiteks teaduse, hariduse, mängude "
+#~ "või mõnes muus valdkonnas. Otsimist abistavad teise kasutajate hinnangud "
+#~ "ja kommentaarid."

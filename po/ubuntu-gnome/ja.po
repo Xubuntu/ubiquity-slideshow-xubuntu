@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:52+0300\n"
-"PO-Revision-Date: 2015-10-06 08:03+0000\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-03-29 01:48+0000\n"
 "Last-Translator: Kenichi Ito <ken.i54k@gmail.com>\n"
 "Language-Team: Japanese <ja@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/accessibility.html:2
@@ -48,6 +48,9 @@ msgid ""
 "browse the web. Easy browsing, high performance, advanced security, powerful "
 "personalization and the cutting edge, all that is between your hands."
 msgstr ""
+"すでにインストールされているFirefoxで、Ubuntu GNOMEでは望むすべてのWebを閲覧"
+"できます。簡単に閲覧、高速なパフォーマンス、高度なセキュリティ、強力なカスタ"
+"マイズと最先端のすべてがあなたの手の中に。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/desktop.html:2
@@ -84,6 +87,7 @@ msgstr "容易な <strong> 通知 </strong> の確認"
 #: slideshows/ubuntu-gnome/slides/desktop.html:24
 msgid "Enhance your work flow with <strong>dynamic workspaces</strong>"
 msgstr ""
+"<strong>ダイナミックなワークスペース</strong>であなたのワークフローを強化"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:2
@@ -93,7 +97,7 @@ msgstr "ヘルプとサポート"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:8
 msgid "Thanks for choosing and installing Ubuntu GNOME"
-msgstr ""
+msgstr "Ubuntu GNOMEの選択とインストールに感謝します"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:9
@@ -101,6 +105,8 @@ msgid ""
 "Learn more about Ubuntu GNOME in our Wiki Area <a href=\"https://wiki.ubuntu."
 "com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
 msgstr ""
+"Ubuntu GNOMEのWiki <a href=\"https://wiki.ubuntu.com/UbuntuGNOME\">tiny.cc/"
+"uGWiki</a>で詳細を確認しましょう。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:10
@@ -108,6 +114,8 @@ msgid ""
 "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
 "ContactUs\">tiny.cc/uGContactUs</a>."
 msgstr ""
+"ヘルプとサポートを得るには、<a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
+"ContactUs\">tiny.cc/uGContactUs</a>にアクセスして下さい。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:11
@@ -128,7 +136,7 @@ msgid ""
 msgstr ""
 "Ubuntu GNOMEはオンラインアカウントとのシームレスな統合ができ、同じ場所からす"
 "べてのデータにアクセスできます。必要なときにオンラインアカウントを使用し、簡"
-"単に必要なものを探すことがうまく行くようになります。"
+"単に必要なものを探せるようになります。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/media.html:2
@@ -150,13 +158,13 @@ msgid ""
 "GNOME Videos allows you to easily watch videos from your computer, DVD, or "
 "streamed over the Internet."
 msgstr ""
-"GNOME VideoはこのコンピューターやDVD、インターネット経由でのストリーミングを"
+"GNOME ビデオでこのコンピューターやDVD、インターネット経由でのストリーミングを"
 "簡単に見ることができます。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/office.html:2
 msgid "Your office on your machine"
-msgstr ""
+msgstr "あなたのマシンであなたのオフィスを"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/office.html:8
@@ -165,6 +173,10 @@ msgid ""
 "more. LibreOffice is a comprehensive, professional-quality productivity "
 "suite shipped by default. Make your day-to-day tasks more easy and fun."
 msgstr ""
+"本格的なドキュメント、表計算、プレゼンテーション、図形描画などが作成できま"
+"す。LibreOfficeは総合的でプロフェッショナルな品質を誇るオフィススイートで、あ"
+"らかじめインストールされています。日々の作業をより簡単に、より楽しく行えま"
+"す。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/photos.html:2
@@ -179,30 +191,38 @@ msgid ""
 "pictures. And you can share your favorite snaps on all popular photo sites "
 "and social networks."
 msgstr ""
+"写真を管理するのに適切なアプリケーションを見つけることにうんざりしています"
+"か？ GNOME 写真を使用すれば、素早く簡単に写真のインポート管理と編集と表示がで"
+"きます。お気に入りの一枚をすべての写真サイトとソーシャルネットワークで共有も"
+"できます。"
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu-gnome/slides/usc.html:2
+#: slideshows/ubuntu-gnome/slides/software.html:2
 msgid "Find even more software"
 msgstr "もっとソフトウェアを見つけましょう"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/usc.html:8
+#: slideshows/ubuntu-gnome/slides/software.html:8
 msgid "<strong>Say Goodbye to searching the web for a software.</strong>"
-msgstr ""
+msgstr "<strong>Webでのソフトウェア検索に別れを告げましょう。</strong>"
 
-#. type: Content of: <div><div><div>
-#: slideshows/ubuntu-gnome/slides/usc.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/software.html:9
 msgid ""
-"With Ubuntu Software Center you can easily find and install software. Your "
-"ratings and reviews are used to rank software by popularity. You have access "
-"to thousands of free and commercial applications. Installing anything is "
-"just a couple of clicks away from you."
+"With GNOME Software you can easily find and install software. Your ratings "
+"and reviews are used to rank software by popularity. You have access to "
+"thousands of free and commercial applications. Installing anything is just a "
+"couple of clicks away from you."
 msgstr ""
+"GNOME Softwareで簡単にソフトウェアを見つけインストールできます。あなたの評価"
+"やレビューはソフトウェアを人気度でランク付けするのに使われます。何千ものフ"
+"リーまたは商用のアプリケーションにアクセスできます。インストールするにはほん"
+"の数クリックで良いのです。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/welcome.html:2
-msgid "Welcome to Ubuntu GNOME 15.10"
-msgstr "Ubuntu GNOME 15.10 へようこそ"
+msgid "Welcome to Ubuntu GNOME 16.04"
+msgstr "Ubuntu GNOME 16.04へようこそ"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:8
@@ -210,6 +230,8 @@ msgid ""
 "The official Ubuntu flavor featuring the GNOME Desktop Environment, aiming "
 "to provide a pure GNOME desktop experience built on top of Ubuntu."
 msgstr ""
+"Ubuntuで構成された、純粋なGNOMEデスクトップ経験の提供を目的とし、GNOMEデスク"
+"トップ環境をフィーチャーした公式Ubuntuフレーバーです。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:9
@@ -217,149 +239,8 @@ msgid ""
 "The latest version of Ubuntu GNOME is the best choice for those looking for "
 "a fast, beautiful, simple, usable and stable Operating System."
 msgstr ""
+"最新版のUbuntu GNOMEは高速で美しく、シンプルで使いやすく、安定したOSをお探し"
+"の際には最高の選択です。"
 
-#~ msgid "Supported software"
-#~ msgstr "サポートされるソフトウェア"
-
-#~ msgid "Customization options"
-#~ msgstr "カスタマイズの選択肢"
-
-#~ msgid "Language support"
-#~ msgstr "言語サポート"
-
-#~ msgid "Assistive technologies"
-#~ msgstr "支援技術"
-
-#~ msgid "Flash"
-#~ msgstr "Flash"
-
-#~ msgid "Chromium"
-#~ msgstr "Chromium"
-
-#~ msgid "Thank you for choosing and installing Ubuntu GNOME."
-#~ msgstr ""
-#~ "Ubuntu GNOMEを選び、インストールしていただき、ありがとうございます。"
-
-#~ msgid ""
-#~ "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
-#~ "ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
-#~ msgstr ""
-#~ "ヘルプとサポートが必要なときは<a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>にアクセ"
-#~ "スしてください。"
-
-#~ msgid ""
-#~ "Learn more about Ubuntu GNOME from <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
-#~ msgstr ""
-#~ "Ubuntu GNOMEについて<a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
-#~ "OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>からもっと知る。"
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Rhythmboxミュージックプレイヤー"
-
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "PiTiVi 動画エディター"
-
-#~ msgid "<strong>Say goodbye to searching the web for new software. </strong>"
-#~ msgstr ""
-#~ "<strong>ウェブから新しいソフトウェアを探す必要はありません。</strong>"
-
-#~ msgid ""
-#~ "Ubuntu Software Center gives you instant access to thousands of great "
-#~ "games and applications — some free and some available commercially. If "
-#~ "you see something you like, you can see more information and install it "
-#~ "in just a few clicks."
-#~ msgstr ""
-#~ "Ubuntuソフトウェアセンターは有償・無償を問わずいくつもの素晴らしいゲームや"
-#~ "アプリケーションに簡単にアクセスすることができます。気になるものがあれば詳"
-#~ "しい情報を見て、わずか数クリックでインストールすることができます。"
-
-#~ msgid ""
-#~ "We believe the combination of Ubuntu and GNOME is the best choice for "
-#~ "those looking for a beautiful, simple, and usable operating system."
-#~ msgstr ""
-#~ "私たちはUbuntuとGNOMEの組み合わせが、美しくてシンプルかつ使用に適したオペ"
-#~ "レーティングシステムを求める人にとって最善の選択であると考えています。"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
-
-#~ msgid "GIMP Image Editor"
-#~ msgstr "GIMP画像エディター"
-
-#~ msgid ""
-#~ "With Shotwell, you can quickly and easily import, organize, edit and view "
-#~ "your pictures. And you can share your favorite snaps on all popular photo "
-#~ "sites and social networks."
-#~ msgstr ""
-#~ "Shotwellを使えば、素早くそして簡単に写真をインポート、整理、編集、閲覧する"
-#~ "ことができます。またお気に入りの写真を人気のある写真サイトやソーシャルネッ"
-#~ "トワークで共有することができます。"
-
-#~ msgid "Included software"
-#~ msgstr "含まれるソフトウェア"
-
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Firefoxウェブブラウザー"
-
-#~ msgid "Videos"
-#~ msgstr "動画"
-
-#~ msgid "Everything you need for the office"
-#~ msgstr "オフィスに必要なものすべて"
-
-#~ msgid "Evince Document Viewer"
-#~ msgstr "Evince ドキュメントビューアー"
-
-#~ msgid "Documents"
-#~ msgstr "ドキュメント"
-
-#~ msgid "LibreOffice Suite"
-#~ msgstr "LibreOffie スイート"
-
-#~ msgid "Enhance your workflow with <strong>dynamic workspaces</strong>"
-#~ msgstr "<strong>動的なワークスペース</strong> でワークフローの強化"
-
-#~ msgid "Manage <strong>your address book</strong> easily"
-#~ msgstr "容易な <strong>アドレス帳</strong> の管理"
-
-#~ msgid "Access <strong>your online documents</strong> natively"
-#~ msgstr "自然な <strong>オンラインドキュメント</strong> へアクセス"
-
-#~ msgid ""
-#~ "Ubuntu GNOME has everything you need to browse the web. Firefox offers "
-#~ "powerful personalization, support for cutting-edge web standards, "
-#~ "carefully optimized performance, and advanced security while still "
-#~ "remaining easy to use."
-#~ msgstr ""
-#~ "Ubuntu GNOMEにはWebのブラウズに必要なすべてが収められています。Firefoxは強"
-#~ "力なカスタマイズ、最先端のWeb標準サポート、パフォーマンスの注意深い最適"
-#~ "化、高度なセキュリティを容易に使用できるように提供します。"
-
-#~ msgid "Chat with <strong>your friends</strong> from Facebook, Google, etc."
-#~ msgstr "FacebookやGoogleからの <strong>友達</strong> とチャット"
-
-#~ msgid ""
-#~ "Ubuntu GNOME features the GNOME desktop on top of the popular Ubuntu "
-#~ "foundation."
-#~ msgstr ""
-#~ "Ubuntu GNOMEは有名なUbuntuを基盤として、GNOMEデスクトップを全面に押し出し"
-#~ "ています。"
-
-#~ msgid ""
-#~ "We understand how important your computer is for day-to-day tasks. Create "
-#~ "professional documents, spreadsheets and presentations with LibreOffice "
-#~ "and manage your local and online documents in a single place with GNOME "
-#~ "Documents."
-#~ msgstr ""
-#~ "日々の作業にこのコンピューターがどれほど重要なのか、私達はよく理解していま"
-#~ "す。LibreOfficeでプロフェッショナルなドキュメント、表計算とプレゼンテー"
-#~ "ションを作成し、GNOMEドキュメントで手元とオンラインのドキュメントを一元管"
-#~ "理できます。"
-
-#~ msgid "Shotwell Photo Manager"
-#~ msgstr "Shotwell写真管理ツール"
-
-#~ msgid "Welcome to Ubuntu GNOME 15.04"
-#~ msgstr "Ubuntu GNOME 15.04 へようこそ"
+#~ msgid "Welcome to Ubuntu GNOME 15.10"
+#~ msgstr "Ubuntu GNOME 15.10 へようこそ"

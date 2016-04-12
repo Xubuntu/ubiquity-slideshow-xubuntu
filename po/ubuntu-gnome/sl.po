@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2015-09-07 10:52+0300\n"
-"PO-Revision-Date: 2014-02-25 09:55+0000\n"
+"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"PO-Revision-Date: 2016-04-02 15:19+0000\n"
 "Last-Translator: Dražen Matešić <Unknown>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-16 19:21+0000\n"
-"X-Generator: Launchpad (build 17812)\n"
+"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
+"X-Generator: Launchpad (build 17990)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/accessibility.html:2
@@ -48,6 +48,10 @@ msgid ""
 "browse the web. Easy browsing, high performance, advanced security, powerful "
 "personalization and the cutting edge, all that is between your hands."
 msgstr ""
+"Z že nameščenim Firefoxom ima Ubuntu GNOME vse, kar potrebujete za brskanje "
+"po internetu. Enostavno brskanje, visoka zmogljivost, napredna varnost, "
+"zmogljivo prilagajanje in najsodobnejša tehnologija - vse to je na dosegu "
+"vaših rok."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/desktop.html:2
@@ -88,6 +92,7 @@ msgstr "Preverjajte <strong>svoja obvestila</strong> z lahkoto"
 #: slideshows/ubuntu-gnome/slides/desktop.html:24
 msgid "Enhance your work flow with <strong>dynamic workspaces</strong>"
 msgstr ""
+"Izboljšajte svoj potek dela z <strong>dinamičnimi delovnimi okolji</strong>"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:2
@@ -97,7 +102,7 @@ msgstr "Pomoč in podpora"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:8
 msgid "Thanks for choosing and installing Ubuntu GNOME"
-msgstr ""
+msgstr "Hvala, ker ste izbrali in namestili Ubuntu GNOME"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:9
@@ -105,6 +110,8 @@ msgid ""
 "Learn more about Ubuntu GNOME in our Wiki Area <a href=\"https://wiki.ubuntu."
 "com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
 msgstr ""
+"Več o Ubuntuju GNOME lahko izveste na našem Wikiju <a href=\"https://wiki."
+"ubuntu.com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:10
@@ -112,6 +119,8 @@ msgid ""
 "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
 "ContactUs\">tiny.cc/uGContactUs</a>."
 msgstr ""
+"Za pomoč in podporo pojdite na <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
+"ContactUs\">tiny.cc/uGContactUs</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:11
@@ -160,7 +169,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/office.html:2
 msgid "Your office on your machine"
-msgstr ""
+msgstr "Vaša pisarna na vašem računalniku"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/office.html:8
@@ -169,6 +178,10 @@ msgid ""
 "more. LibreOffice is a comprehensive, professional-quality productivity "
 "suite shipped by default. Make your day-to-day tasks more easy and fun."
 msgstr ""
+"Ustvarjajte profesionalne dokumente, preglednice, predstavitve, risbe in "
+"več. LibreOffice je celovit produktivni paket profesionalne kakovosti, ki je "
+"privzeto vključen. Naredite svoja vsakodnevna opravila enostavnejša in "
+"zabavna."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/photos.html:2
@@ -183,30 +196,39 @@ msgid ""
 "pictures. And you can share your favorite snaps on all popular photo sites "
 "and social networks."
 msgstr ""
+"Ste siti iskanja pravega programa za organiziranje svojih fotografij? S "
+"Fotografijami GNOME lahko hitro in enostavno uvozite, organizirate, urejate "
+"in si ogledate svoje fotografije. Poleg tega lahko svoje najboljše posnetke "
+"izmenjate na vseh priljubljenih spletnih mestih za fotografije in družbenih "
+"omrežjih."
 
 #. type: Content of: <div><h1>
-#: slideshows/ubuntu-gnome/slides/usc.html:2
+#: slideshows/ubuntu-gnome/slides/software.html:2
 msgid "Find even more software"
 msgstr "Najdite še več programov"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-gnome/slides/usc.html:8
+#: slideshows/ubuntu-gnome/slides/software.html:8
 msgid "<strong>Say Goodbye to searching the web for a software.</strong>"
-msgstr ""
+msgstr "<strong>Odpravite iskanje programske opreme po spletu.</strong>"
 
-#. type: Content of: <div><div><div>
-#: slideshows/ubuntu-gnome/slides/usc.html:9
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-gnome/slides/software.html:9
 msgid ""
-"With Ubuntu Software Center you can easily find and install software. Your "
-"ratings and reviews are used to rank software by popularity. You have access "
-"to thousands of free and commercial applications. Installing anything is "
-"just a couple of clicks away from you."
+"With GNOME Software you can easily find and install software. Your ratings "
+"and reviews are used to rank software by popularity. You have access to "
+"thousands of free and commercial applications. Installing anything is just a "
+"couple of clicks away from you."
 msgstr ""
+"S Programi GNOME lahko enostavno najdete in namestite programsko opremo. "
+"Vaše ocene in mnenja se uporabijo za razvrščanje programske opreme po "
+"priljubljenosti. Imate dostop do tisočih brezplačnih in plačljivih "
+"programov. Njihova namestitev je oddaljena samo nekaj klikov."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/welcome.html:2
-msgid "Welcome to Ubuntu GNOME 15.10"
-msgstr ""
+msgid "Welcome to Ubuntu GNOME 16.04"
+msgstr "Dobrodošli v Ubuntu GNOME 16.04"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:8
@@ -214,6 +236,8 @@ msgid ""
 "The official Ubuntu flavor featuring the GNOME Desktop Environment, aiming "
 "to provide a pure GNOME desktop experience built on top of Ubuntu."
 msgstr ""
+"Uraden odtenek Ubuntuja, ki predstavlja namizno okolje GNOME z namenom "
+"dobave čiste namizne izkušnje GNOME, izgrajene na Ubuntuju."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:9
@@ -221,152 +245,20 @@ msgid ""
 "The latest version of Ubuntu GNOME is the best choice for those looking for "
 "a fast, beautiful, simple, usable and stable Operating System."
 msgstr ""
-
-#~ msgid "Supported software"
-#~ msgstr "Podprta programska oprema"
-
-#~ msgid "Included software"
-#~ msgstr "Priloženi programi"
-
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Spletni brskalnik Firefox"
-
-#~ msgid "Customization options"
-#~ msgstr "Možnosti prilagajanja"
-
-#~ msgid "Language support"
-#~ msgstr "Jezikovna podpora"
-
-#~ msgid "Assistive technologies"
-#~ msgstr "Pomožne tehnologije"
-
-#~ msgid "Flash"
-#~ msgstr "Flash"
-
-#~ msgid "Chromium"
-#~ msgstr "Chromium"
-
-#~ msgid "Thank you for choosing and installing Ubuntu GNOME."
-#~ msgstr "Hvala, ker ste izbrali in namestili Ubuntu GNOME."
-
-#~ msgid "Rhythmbox Music Player"
-#~ msgstr "Predvajalnik glasbe Rhythmbox"
-
-#~ msgid "Videos"
-#~ msgstr "Videi"
-
-#~ msgid "Pitivi Video Editor"
-#~ msgstr "Urejevalnik videa PiTiVi"
-
-#~ msgid "Everything you need for the office"
-#~ msgstr "Vse, kar potrebujete za pisarno"
-
-#~ msgid "Documents"
-#~ msgstr "Dokumenti"
+"Najnovejša različica Ubuntuja GNOME je najboljša izbira za vse, ki iščete "
+"hiter, všečen, preprost, uporaben in stabilen operacijski sistem."
 
 #~ msgid ""
-#~ "Ubuntu GNOME has everything you need to browse the web. Firefox offers "
-#~ "powerful personalization, support for cutting-edge web standards, "
-#~ "carefully optimized performance, and advanced security while still "
-#~ "remaining easy to use."
+#~ "With Ubuntu Software Center you can easily find and install software. "
+#~ "Your ratings and reviews are used to rank software by popularity. You "
+#~ "have access to thousands of free and commercial applications. Installing "
+#~ "anything is just a couple of clicks away from you."
 #~ msgstr ""
-#~ "Ubuntu GNOME ima vse, kar potrebujete za brskanje po spletu. Firefox "
-#~ "ponuja zmogljivo prilagajanje uporabniku, podpira najsodobnejše spletne "
-#~ "standarde, skrbno optimirano varnost, a je kljub temu preprost za uporabo."
+#~ "S Središčem programske opreme Ubuntu lahko enostavno najdete in namestite "
+#~ "programsko opremo. Vaše ocene in mnenja se uporabijo za razvrščanje "
+#~ "programske opreme po priljubljenosti. Imate dostop do tisočih brezplačnih "
+#~ "in plačljivih programov. Njihova namestitev je oddaljena samo nekaj "
+#~ "klikov."
 
-#~ msgid "Enhance your workflow with <strong>dynamic workspaces</strong>"
-#~ msgstr ""
-#~ "Izboljšajte svoj potek dela z <strong>dinamičnimi delovnimi površinami</"
-#~ "strong>"
-
-#~ msgid "Inkscape"
-#~ msgstr "Inkscape"
-
-#~ msgid "Evince Document Viewer"
-#~ msgstr "Pregledovalnik dokumentov Evince"
-
-#~ msgid "GIMP Image Editor"
-#~ msgstr "Urejevalnik slik GIMP"
-
-#~ msgid "Shotwell Photo Manager"
-#~ msgstr "Upravljalnik fotografij Shotwell"
-
-#~ msgid ""
-#~ "Learn more about Ubuntu GNOME from <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
-#~ msgstr ""
-#~ "Poizvedite več o Ubuntu GNOME na <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/OneStopPage\">wiki.ubuntu.com/UbuntuGNOME/OneStopPage</a>."
-
-#~ msgid ""
-#~ "For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
-#~ "ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
-#~ msgstr ""
-#~ "Za pomoč in podporo pojdite na <a href=\"https://wiki.ubuntu.com/"
-#~ "UbuntuGNOME/ContactUs\">wiki.ubuntu.com/UbuntuGNOME/ContactUs</a>."
-
-#~ msgid "Chat with <strong>your friends</strong> from Facebook, Google, etc."
-#~ msgstr ""
-#~ "Klepetajte z <strong>vašimi prijatelji</strong> iz Facebooka, Googla itd."
-
-#~ msgid "Manage <strong>your address book</strong> easily"
-#~ msgstr "Upravljajte <strong>vaš imenik</strong> z lahkoto"
-
-#~ msgid "LibreOffice Suite"
-#~ msgstr "Pisarniški paket LibreOffice"
-
-#~ msgid ""
-#~ "We understand how important your computer is for day-to-day tasks. Create "
-#~ "professional documents, spreadsheets and presentations with LibreOffice "
-#~ "and manage your local and online documents in a single place with GNOME "
-#~ "Documents."
-#~ msgstr ""
-#~ "Razumemo, kako pomemben je vaš računalnik za vsakodnevne naloge. "
-#~ "Ustvarite profesionalne dokumente, preglednice in predstavitve z "
-#~ "LibreOffice ter upravljajte vaše krajevne in spletne dokumente na enem "
-#~ "mestu z GNOME Dokumenti."
-
-#~ msgid ""
-#~ "With Shotwell, you can quickly and easily import, organize, edit and view "
-#~ "your pictures. And you can share your favorite snaps on all popular photo "
-#~ "sites and social networks."
-#~ msgstr ""
-#~ "S Shotwellom lahko hitro in enostavno uvozite, uredite, urejate in "
-#~ "gledate vaše slike. Vaše najljubše posnetke lahko delite na vseh "
-#~ "priljubljenih fotografskih straneh in družabnih omrežjih."
-
-#~ msgid "<strong>Say goodbye to searching the web for new software. </strong>"
-#~ msgstr ""
-#~ "<strong>Poslovite se od iskanja nove programske opreme na spletu. </"
-#~ "strong>"
-
-#~ msgid ""
-#~ "Ubuntu GNOME features the GNOME desktop on top of the popular Ubuntu "
-#~ "foundation."
-#~ msgstr ""
-#~ "Ubuntu GNOME prihaja z namizjem GNOME na vrhu priljubljene Ubuntu osnove."
-
-#~ msgid ""
-#~ "We believe the combination of Ubuntu and GNOME is the best choice for "
-#~ "those looking for a beautiful, simple, and usable operating system."
-#~ msgstr ""
-#~ "Verjamemo, da je zveza Ubuntuja in GNOME najboljša odločitev za tiste, ki "
-#~ "iščete lep, preprost in uporaben operacijski sistem."
-
-#~ msgid "Access <strong>your online documents</strong> natively"
-#~ msgstr ""
-#~ "Dostop do <strong>vaših spletnih dokumentov</strong> je povsem domač"
-
-#~ msgid ""
-#~ "Ubuntu Software Center gives you instant access to thousands of great "
-#~ "games and applications — some free and some available commercially. If "
-#~ "you see something you like, you can see more information and install it "
-#~ "in just a few clicks."
-#~ msgstr ""
-#~ "Programsko središče Ubuntu vam nudi hipen dostop do tisoč odličnih iger "
-#~ "in programov - nekateri so zastonj in drugi na voljo za nakup. Če vidite "
-#~ "kaj takega, kar vam je všeč, lahko pogledate za več podrobnosti in "
-#~ "namestite z nekaj kliki."
-
-#~ msgid "Welcome to Ubuntu GNOME 15.04"
-#~ msgstr "Dobrodošli v Ubuntu GNOME 15.04"
+#~ msgid "Welcome to Ubuntu GNOME 15.10"
+#~ msgstr "Dobrodošli v Ubuntu GNOME 15.10"
