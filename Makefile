@@ -7,6 +7,7 @@ SLIDESHOWS = \
 	lubuntu \
 	edubuntu \
 	ubuntustudio \
+	ubuntu-budgie \
 	ubuntu-gnome \
 	ubuntukylin \
 	ubuntu-mate \
