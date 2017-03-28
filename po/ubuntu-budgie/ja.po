@@ -1,25 +1,26 @@
-# Japanese translations for PACKAGE package
-# Copyright (C) 2017 Free Software Foundation, Inc.
-# This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2017.
+# Japanese translation for ubiquity-slideshow-ubuntu
+# Copyright (c) 2017 Rosetta Contributors and Canonical Ltd 2017
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2017-01-19 12:23-0500\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: ja\n"
+"PO-Revision-Date: 2017-03-20 12:06+0000\n"
+"Last-Translator: Ikuya Awashiro <ikuya@fruitsbasket.info>\n"
+"Language-Team: Japanese <ja@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/01_welcome.html:2
 msgid "Welcome!"
-msgstr ""
+msgstr "ようこそ！"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/ubuntu-budgie/slides/01_welcome.html:8
@@ -45,7 +46,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/02_desktop.html:2
 msgid "Simple and easy to use"
-msgstr ""
+msgstr "シンプルで使いやすい"
 
 #. type: Content of: <div><div>
 #: slideshows/ubuntu-budgie/slides/02_desktop.html:7
@@ -78,7 +79,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/03_browse.html:2
 msgid "Make the most of the web"
-msgstr ""
+msgstr "ウェブを最大限に活用"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/03_browse.html:8
@@ -92,7 +93,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/04_office.html:2
 msgid "Your office on your machine"
-msgstr ""
+msgstr "あなたのマシンであなたのオフィスを"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/04_office.html:8
@@ -106,7 +107,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/05_media.html:2
 msgid "Enjoy your music and videos"
-msgstr ""
+msgstr "音楽や動画を楽しむ"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/05_media.html:8
@@ -114,18 +115,19 @@ msgid ""
 "<strong>Rhythmbox</strong> lets you organize your music and listen to "
 "Internet radio, podcasts, and more."
 msgstr ""
+"<strong>Rhythmbox</strong> を使えば、音楽を整理したりインターネットラジオやpodcast、その他を聴いたりすることができます。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/05_media.html:10
 msgid ""
 "<strong>GNOME-MPV</strong> allows you to easily watch videos from your "
 "computer or DVD."
-msgstr ""
+msgstr "<strong>GNOME-MPV</strong>でこのコンピューターにあるビデオやDVDを簡単に見ることができます。"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/06_photos.html:2
 msgid "Have fun with your photos"
-msgstr ""
+msgstr "写真を楽しもう"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/06_photos.html:8
@@ -139,12 +141,12 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/07_software.html:2
 msgid "Find even more software"
-msgstr ""
+msgstr "追加のソフトウェアを見つけましょう"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/07_software.html:8
 msgid "<strong>Say Goodbye to searching the web for a software</strong>"
-msgstr ""
+msgstr "<strong>ウェブでのソフトウェア検索に別れを告げましょう</strong>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/07_software.html:10
@@ -158,19 +160,19 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:2
 msgid "Help and support"
-msgstr ""
+msgstr "ヘルプとサポート"
 
 #. type: Content of: <div><div><div>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:8
 msgid "Thanks for choosing and installing <strong>Ubuntu Budgie</strong>!"
-msgstr ""
+msgstr "<strong>Ubuntu Budgie</strong>の選択とインストールに感謝します！"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:9
 msgid ""
-"Get help and support on our Google+ community (Google \"google+ Ubuntu Budgie"
-"\") or on <strong>Launchpad</strong>: <a href=\"https://launchpad.net/Ubuntu "
-"Budgie\">launchpad.net/ubuntubudgie</a>"
+"Get help and support on our Google+ community (Google \"google+ Ubuntu "
+"Budgie\") or on <strong>Launchpad</strong>: <a "
+"href=\"https://launchpad.net/Ubuntu Budgie\">launchpad.net/ubuntubudgie</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><li>
@@ -183,4 +185,4 @@ msgstr ""
 #. type: Content of: <div><div><div>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:11
 msgid "Enjoy and have fun! 😃"
-msgstr ""
+msgstr "楽しんでください! 😃"

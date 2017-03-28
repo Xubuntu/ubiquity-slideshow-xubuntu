@@ -7,16 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
 "PO-Revision-Date: 2013-04-11 12:22+0000\n"
 "Last-Translator: Simos Xenitellis  <Unknown>\n"
 "Language-Team: Greek <el@li.org>\n"
-"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
-"X-Generator: Launchpad (build 17990)\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/00_welcome.html:2
@@ -139,7 +138,7 @@ msgstr "Στούντιο ζωγραφικής Krita"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/03_graphics.html:14
-#: slideshows/ubuntustudio/slides/04_photography.html:14
+#: slideshows/ubuntustudio/slides/04_photography.html:13
 msgid "GIMP Image Editor"
 msgstr "Επεξεργαστής εικόνων GIMP"
 
@@ -166,11 +165,6 @@ msgstr "Επεξεργασία φωτογραφιών Darktable"
 #: slideshows/ubuntustudio/slides/04_photography.html:12
 msgid "RawTherapee Raw Image Processor"
 msgstr "Επεξεργασία φωτογραφιών Raw RawTherapee"
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntustudio/slides/04_photography.html:13
-msgid "Shotwell Photo Manager"
-msgstr "Διαχειριστής εικόνων Shotwell"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/05_software.html:2
@@ -205,31 +199,35 @@ msgstr "Ευχαριστούμε!"
 #: slideshows/ubuntustudio/slides/06_support.html:7
 msgid ""
 "Thanks for taking the time with us. We'd love to hear about your experiences "
-"with Ubuntu Studio. You can share them on the <a href=\"https://lists.ubuntu."
-"com/mailman/listinfo/Ubuntu-Studio-users\">Ubuntu Studio users mailing list</"
-"a>."
+"with Ubuntu Studio. You can share them on the <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-"
+"users\">Ubuntu Studio users mailing list</a>."
 msgstr ""
 "Ευχαριστούμε για το χρόνο σας. Θα θέλαμε πολύ να μάθουμε για τις εμπειρίες "
-"σας με το Ubuntu Studio. Μπορείτε να τις μοιραστείτε στην <a href=\"https://"
-"lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-users\">λίστα συζήτησης "
-"χρηστών του Ubuntu Studio (στα Αγγλικά)</a>."
+"σας με το Ubuntu Studio. Μπορείτε να τις μοιραστείτε στην <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-users\">λίστα "
+"συζήτησης χρηστών του Ubuntu Studio (στα Αγγλικά)</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:8
 msgid ""
-"Join our IRC channel <em>#ubuntustudio</em> for online support by <a href="
-"\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-user..."
-"&prompt=1\">clicking here</a>."
+"Join our IRC channel <em>#ubuntustudio</em> for online support by <a "
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-"
+"user...&prompt=1\">clicking here</a>."
 msgstr ""
 "Συνδεθείτε στο κανάλι μας στο IRC, <em>#ubuntustudio</em> για online "
-"υποστήριξη κάνοντας <a href=\"http://webchat.freenode.net/?"
-"channels=ubuntustudio&nick=studio-user...&prompt=1\">κλικ εδώ</a>."
+"υποστήριξη κάνοντας <a "
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-"
+"user...&prompt=1\">κλικ εδώ</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:9
 msgid ""
-"Finally, visit us on the web at the <a href=\"http://ubuntustudio.org"
-"\">Ubuntu Studio website</a>. Thank you again!"
+"Finally, visit us on the web at the <a "
+"href=\"http://ubuntustudio.org\">Ubuntu Studio website</a>. Thank you again!"
 msgstr ""
 "Τέλος, επισκεφθείτε μας στο <a href=\"http://ubuntustudio.org\">διαδικτυακό "
 "μας τόπο Ubuntu Studio</a>. Σας ευχαριστούμε ξανά!"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "Διαχειριστής εικόνων Shotwell"

@@ -7,23 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
-"PO-Revision-Date: 2015-04-11 06:45+0000\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"PO-Revision-Date: 2016-06-24 08:00+0000\n"
 "Last-Translator: Cédric VALMARY (Tot en òc) <cvalmary@yahoo.fr>\n"
 "Language-Team: Occitan (post 1500) <oc@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
-"X-Generator: Launchpad (build 17990)\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:52+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
 msgid "Activate Accessibility"
 msgstr "Activar l'accessibilitat"
 
-#.  "your" refers to a large group that includes the reader. 
+#. "your" refers to a large group that includes the reader.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:6
 msgid ""
@@ -35,8 +34,8 @@ msgstr ""
 "situacion d'andicap. Provesissèm doncas d'aisinas que fan d'Edubuntu un dels "
 "sistèmas operatius los mai accessibles del monde."
 
-#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
+#. The string "Assistive Technologies Preferences" is describing a particular menu item: System >
+#. Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:7
 msgid ""
@@ -51,8 +50,8 @@ msgstr ""
 "l'ecran o <em>Accessibilitat de la mirga</em> per clicar suls botons de la "
 "mirga automaticament."
 
-#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
+#. As before, the string "Appearance Preferences" is describing a particular menu item: System >
+#. Preferences > Appearance. Certain words were kept the same to make the menu item discoverable.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:8
 msgid ""
@@ -60,9 +59,9 @@ msgid ""
 "choose between different visual styles and even change the fonts that are "
 "used by applications."
 msgstr ""
-"Doblidetz pas de far tanben un torn dins las <em>Preferéncias d'afichatge</"
-"em>. I poiretz causir diferents tèmas visuals e quitament modificar las "
-"poliças de caractèrs utilizadas per las aplicacions."
+"Doblidetz pas de far tanben un torn dins las <em>Preferéncias "
+"d'afichatge</em>. I poiretz causir diferents tèmas visuals e quitament "
+"modificar las poliças de caractèrs utilizadas per las aplicacions."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/arkose.html:1
@@ -103,8 +102,8 @@ msgstr "Calcular tot"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
-"em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome "
+"Calculator</em>."
 msgstr ""
 "Edubuntu prepausa la darrièra version de la poderosa <em>calculadoira "
 "Gnome<em>."
@@ -174,7 +173,8 @@ msgstr "Una excellenta seguida burotica"
 msgid ""
 "<em>LibreOffice</em> is a powerful office software suite that is easy to "
 "understand."
-msgstr "<em>LibreOffice</em> es una seguida burotica poderosa de bon utilizar."
+msgstr ""
+"<em>LibreOffice</em> es una seguida burotica poderosa de bon utilizar."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:7
@@ -206,7 +206,7 @@ msgstr ""
 msgid "Get Involved"
 msgstr "Participatz"
 
-#.  The string "Help and Support" should be exactly as it appears in the System menu. 
+#. The string "Help and Support" should be exactly as it appears in the System menu.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:6
 msgid ""
@@ -216,7 +216,7 @@ msgstr ""
 "S'avètz besonh d'ajuda, ensajatz <em>Ajuda e sosten</em> dins lo menut "
 "Sistèma, o lo menú <em>Ajuda</em> dins la màger part de las aplicacions."
 
-#.  The url "edubuntu.org/support" should not be translated 
+#. The url "edubuntu.org/support" should not be translated
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid ""
@@ -228,23 +228,23 @@ msgstr ""
 "En mai d'una importanta documentacion escricha, la comunautat Edubuntu "
 "provesís una assisténcia tecnica gratuita per Internet. I a tanben una "
 "assisténcia comerciala disponibla alprèp de Canonical, sos pertenaris e "
-"societats agradadas. Ne podètz aprene mai sus <a href=\"http://www.edubuntu."
-"org/documentation\">"
+"societats agradadas. Ne podètz aprene mai sus <a "
+"href=\"http://www.edubuntu.org/documentation\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid "edubuntu.org</a>"
 msgstr "edubuntu.org</a>"
 
-#.  The url "edubuntu.org/community" should not be translated 
+#. The url "edubuntu.org/community" should not be translated
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
-"community\">"
+"Let us know about your Edubuntu experience at <a "
+"href=\"http://edubuntu.com/community\">"
 msgstr ""
-"Fasètz-nos part de vòstra experiéncia amb Edubuntu sus <a href=\"http://www."
-"edubuntu-fr.org\">"
+"Fasètz-nos part de vòstra experiéncia amb Edubuntu sus <a "
+"href=\"http://www.edubuntu-fr.org\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -333,14 +333,16 @@ msgstr "Contrarotlatz vòstra classa"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
-msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgid ""
+"<em>Epoptes</em> allows a lecturer to take control of student desktops."
 msgstr ""
 "<em>Epoptes</em> permet a un professor de prene lo contraròtle dels burèus "
 "d'estudiants."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:7
-msgid "Broadcast a desktop session to all users to demonstrate a new concept."
+msgid ""
+"Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 "Difusatz una sesilha de burèu a totes los utilizaires per far veire un "
 "concèpte novèl."
@@ -629,7 +631,8 @@ msgstr ""
 msgid ""
 "Try an application out before deciding whether it's the right tool for the "
 "job."
-msgstr "Ensajatz una aplicacion abans de decidir se conven a vòstres besonhs."
+msgstr ""
+"Ensajatz una aplicacion abans de decidir se conven a vòstres besonhs."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/testdrive.html:8
@@ -699,8 +702,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:8
 msgid ""
-"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
-"em>."
+"Learn basic computer skills and unleash your creativity with "
+"<em>TuxPaint</em>."
 msgstr ""
 "Aprenètz las basas de l'informatica e liberatz vòstra creativitat amb "
 "<em>Tux Paint</em>."
@@ -710,8 +713,8 @@ msgstr ""
 msgid ""
 "Learn where all the buttons on your keyboard are using <em>TuxType</em>."
 msgstr ""
-"Aprenètz ont se tròban totas las tòcas sus vòstre clavièr amb <em>TuxType</"
-"em>."
+"Aprenètz ont se tròban totas las tòcas sus vòstre clavièr amb "
+"<em>TuxType</em>."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/underthehood.html:1
@@ -768,7 +771,7 @@ msgstr "Benvenguda"
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:7
 msgid ""
-"Thank you for installing Edubuntu 16.04.  The Edubuntu project is a "
+"Thank you for installing Edubuntu 17.04.  The Edubuntu project is a "
 "community project that aims to provide a whole-school technological platform "
 "suitable for delivering education. We are coders, educators, parents and "
 "technologists who aim to make technology easier for all."
@@ -790,13 +793,12 @@ msgstr ""
 "<b>Profiechatz plan d'Edubuntu e benvenguda dins la familha Edubuntu !</b>"
 
 #~ msgid ""
-#~ "Thank you for installing Edubuntu 15.04.  The Edubuntu project is a "
-#~ "community project that aims to provide a whole-school technological "
-#~ "platform suitable for delivering education. We are coders, educators, "
-#~ "parents and technologists who aim to make technology easier for all."
+#~ "Thank you for installing Edubuntu 17.04.  The Edubuntu project is a "
+#~ "community project that aims to provide a whole-school technological platform "
+#~ "suitable for delivering education. We are coders, educators, parents and "
+#~ "technologists who aim to make technology easier for all."
 #~ msgstr ""
-#~ "Mercé d'aver installat Edubuntu 15.04. Lo projècte Edubuntu es un "
-#~ "projècte comunautari que cèrca a provesir una platafòrma tecnologica "
-#~ "escolara completa e apropriada a l'ensenhament. Sèm de programadors, "
-#~ "d'educators, de parents e de tecnològs que cèrcan a far la tecnologia mai "
-#~ "aisida per totes."
+#~ "Mercé d'aver installat Edubuntu 17.04. Lo projècte Edubuntu es un projècte "
+#~ "comunautari que cèrca a provesir una plataforma tecnologica escolara "
+#~ "completa e apropriada a l'ensenhament. Sèm de programaires, d'educators, de "
+#~ "parents e de tecnològs que cèrcan de rendre la tecnologia accessibla a totes."

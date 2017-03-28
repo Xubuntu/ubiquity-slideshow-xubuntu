@@ -7,16 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
 "PO-Revision-Date: 2013-04-01 08:27+0000\n"
 "Last-Translator: Samir Ribić <Unknown>\n"
 "Language-Team: Bosnian <bs@li.org>\n"
-"Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
-"X-Generator: Launchpad (build 17990)\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/00_welcome.html:2
@@ -137,7 +136,7 @@ msgstr "Krita slikarski studio"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/03_graphics.html:14
-#: slideshows/ubuntustudio/slides/04_photography.html:14
+#: slideshows/ubuntustudio/slides/04_photography.html:13
 msgid "GIMP Image Editor"
 msgstr "GIMP uređivač slika"
 
@@ -164,11 +163,6 @@ msgstr "Darktable fotografski uređivač"
 #: slideshows/ubuntustudio/slides/04_photography.html:12
 msgid "RawTherapee Raw Image Processor"
 msgstr "RawTherapee obrađivač sirovih slika"
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntustudio/slides/04_photography.html:13
-msgid "Shotwell Photo Manager"
-msgstr "Shotwell organizator slika"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/05_software.html:2
@@ -202,30 +196,34 @@ msgstr "Hvala vam!"
 #: slideshows/ubuntustudio/slides/06_support.html:7
 msgid ""
 "Thanks for taking the time with us. We'd love to hear about your experiences "
-"with Ubuntu Studio. You can share them on the <a href=\"https://lists.ubuntu."
-"com/mailman/listinfo/Ubuntu-Studio-users\">Ubuntu Studio users mailing list</"
-"a>."
+"with Ubuntu Studio. You can share them on the <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-"
+"users\">Ubuntu Studio users mailing list</a>."
 msgstr ""
 "Hvala što ste proveli vrijemes nama. Željeli bismo čuti vaša iskustva s "
-"Ubuntu Studio. Možete ih podijeliti na <a href=\"https://lists.ubuntu.com/"
-"mailman/listinfo/Ubuntu-Studio-users\">Ubuntu Studio korisničkoj listi</a>."
+"Ubuntu Studio. Možete ih podijeliti na <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-"
+"users\">Ubuntu Studio korisničkoj listi</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:8
 msgid ""
-"Join our IRC channel <em>#ubuntustudio</em> for online support by <a href="
-"\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-user..."
-"&prompt=1\">clicking here</a>."
+"Join our IRC channel <em>#ubuntustudio</em> for online support by <a "
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-"
+"user...&prompt=1\">clicking here</a>."
 msgstr ""
-"Prijavite se na IRC kanal <em>#ubuntustudio</em> za mrežnu podršku <a href="
-"\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-user..."
-"&prompt=1\">klikom ovdje</a>."
+"Prijavite se na IRC kanal <em>#ubuntustudio</em> za mrežnu podršku <a "
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-"
+"user...&prompt=1\">klikom ovdje</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:9
 msgid ""
-"Finally, visit us on the web at the <a href=\"http://ubuntustudio.org"
-"\">Ubuntu Studio website</a>. Thank you again!"
+"Finally, visit us on the web at the <a "
+"href=\"http://ubuntustudio.org\">Ubuntu Studio website</a>. Thank you again!"
 msgstr ""
 "Konačno, posjetite nas na webu <a href=\"http://ubuntustudio.org\">Ubuntu "
 "Studio web sajt</a>. Hvala ponovo!"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "Shotwell organizator slika"

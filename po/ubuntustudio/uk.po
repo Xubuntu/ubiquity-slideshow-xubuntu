@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
 "PO-Revision-Date: 2013-03-21 17:28+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
-"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
-"X-Generator: Launchpad (build 17990)\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
+"Language: uk\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/00_welcome.html:2
@@ -139,7 +139,7 @@ msgstr "Студія для малювання Krita"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/03_graphics.html:14
-#: slideshows/ubuntustudio/slides/04_photography.html:14
+#: slideshows/ubuntustudio/slides/04_photography.html:13
 msgid "GIMP Image Editor"
 msgstr "Редактор зображень GIMP"
 
@@ -167,11 +167,6 @@ msgstr "Фоторедактор Darktable"
 #: slideshows/ubuntustudio/slides/04_photography.html:12
 msgid "RawTherapee Raw Image Processor"
 msgstr "Програма для обробки цифрових негативів RawTherapee"
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntustudio/slides/04_photography.html:13
-msgid "Shotwell Photo Manager"
-msgstr "Впорядник фотографій Shotwell"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/05_software.html:2
@@ -205,31 +200,35 @@ msgstr "Дякуємо!"
 #: slideshows/ubuntustudio/slides/06_support.html:7
 msgid ""
 "Thanks for taking the time with us. We'd love to hear about your experiences "
-"with Ubuntu Studio. You can share them on the <a href=\"https://lists.ubuntu."
-"com/mailman/listinfo/Ubuntu-Studio-users\">Ubuntu Studio users mailing list</"
-"a>."
+"with Ubuntu Studio. You can share them on the <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-"
+"users\">Ubuntu Studio users mailing list</a>."
 msgstr ""
 "Дякуємо, що приділили увагу цьому продукту. Ми будемо раді почути про ваші "
-"враження від Ubuntu Studio. Ви можете поділитися ними у <a href=\"https://"
-"lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-users\">списку листування "
-"користувачів Ubuntu Studio</a>."
+"враження від Ubuntu Studio. Ви можете поділитися ними у <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-"
+"users\">списку листування користувачів Ubuntu Studio</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:8
 msgid ""
-"Join our IRC channel <em>#ubuntustudio</em> for online support by <a href="
-"\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-user..."
-"&prompt=1\">clicking here</a>."
+"Join our IRC channel <em>#ubuntustudio</em> for online support by <a "
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-"
+"user...&prompt=1\">clicking here</a>."
 msgstr ""
 "Долучайтеся до нашого каналу IRC <em>#ubuntustudio</em>, щоб отримати "
-"інтерактивну підтримку. Достатньо <a href=\"http://webchat.freenode.net/?"
-"channels=ubuntustudio&nick=studio-user...&prompt=1\">клацнути тут</a>."
+"інтерактивну підтримку. Достатньо <a "
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-"
+"user...&prompt=1\">клацнути тут</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:9
 msgid ""
-"Finally, visit us on the web at the <a href=\"http://ubuntustudio.org"
-"\">Ubuntu Studio website</a>. Thank you again!"
+"Finally, visit us on the web at the <a "
+"href=\"http://ubuntustudio.org\">Ubuntu Studio website</a>. Thank you again!"
 msgstr ""
-"Нарешті, відвідайте <a href=\"http://ubuntustudio.org\">сайт Ubuntu Studio</"
-"a>. Ще раз дякуємо!"
+"Нарешті, відвідайте <a href=\"http://ubuntustudio.org\">сайт Ubuntu "
+"Studio</a>. Ще раз дякуємо!"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "Впорядник фотографій Shotwell"

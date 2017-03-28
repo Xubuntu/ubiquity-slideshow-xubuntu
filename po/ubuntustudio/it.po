@@ -7,16 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
 "PO-Revision-Date: 2013-03-23 12:44+0000\n"
 "Last-Translator: Claudio Arseni <claudio.arseni@gmail.com>\n"
 "Language-Team: Italian <it@li.org>\n"
-"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
-"X-Generator: Launchpad (build 17990)\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/00_welcome.html:2
@@ -26,7 +25,8 @@ msgstr "Benvenuti!"
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/00_welcome.html:7
 msgid "Thanks for choosing Ubuntu Studio, and welcome to the installation."
-msgstr "Grazie per aver scelto Ubuntu Studio, e benvenuti nell'installaizone."
+msgstr ""
+"Grazie per aver scelto Ubuntu Studio, e benvenuti nell'installaizone."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/00_welcome.html:8
@@ -138,7 +138,7 @@ msgstr "Pittura digitale Krita"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/03_graphics.html:14
-#: slideshows/ubuntustudio/slides/04_photography.html:14
+#: slideshows/ubuntustudio/slides/04_photography.html:13
 msgid "GIMP Image Editor"
 msgstr "Editor di immagini GIMP"
 
@@ -165,11 +165,6 @@ msgstr "Editor di foto Darktable"
 #: slideshows/ubuntustudio/slides/04_photography.html:12
 msgid "RawTherapee Raw Image Processor"
 msgstr "Elaboratore di immagini RAW RawTherapee"
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntustudio/slides/04_photography.html:13
-msgid "Shotwell Photo Manager"
-msgstr "Gestore di fotografie Shotwell"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/05_software.html:2
@@ -204,31 +199,34 @@ msgstr "Grazie!"
 #: slideshows/ubuntustudio/slides/06_support.html:7
 msgid ""
 "Thanks for taking the time with us. We'd love to hear about your experiences "
-"with Ubuntu Studio. You can share them on the <a href=\"https://lists.ubuntu."
-"com/mailman/listinfo/Ubuntu-Studio-users\">Ubuntu Studio users mailing list</"
-"a>."
+"with Ubuntu Studio. You can share them on the <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-"
+"users\">Ubuntu Studio users mailing list</a>."
 msgstr ""
 "Grazie per averci dedicato il tuo tempo. A noi piace conoscere le "
-"impressioni degli utenti Ubuntu Studio. Puoi condividerle usando <a href="
-"\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-users\">la mailing "
-"list degli utenti di Ubuntu Studio</a>."
+"impressioni degli utenti Ubuntu Studio. Puoi condividerle usando <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-users\">la "
+"mailing list degli utenti di Ubuntu Studio</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:8
 msgid ""
-"Join our IRC channel <em>#ubuntustudio</em> for online support by <a href="
-"\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-user..."
-"&prompt=1\">clicking here</a>."
+"Join our IRC channel <em>#ubuntustudio</em> for online support by <a "
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-"
+"user...&prompt=1\">clicking here</a>."
 msgstr ""
 "Entra nel nostro canale IRC <em>#ubuntustudio</em> per il supporto online <a "
-"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-user..."
-"&prompt=1\">facendo clic qui</a>."
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-"
+"user...&prompt=1\">facendo clic qui</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:9
 msgid ""
-"Finally, visit us on the web at the <a href=\"http://ubuntustudio.org"
-"\">Ubuntu Studio website</a>. Thank you again!"
+"Finally, visit us on the web at the <a "
+"href=\"http://ubuntustudio.org\">Ubuntu Studio website</a>. Thank you again!"
 msgstr ""
 "Infine, visita il sito web di <a href=\"http://ubuntustudio.org\">Ubuntu "
 "Studio</a>. Grazie ancora!"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "Gestore di fotografie Shotwell"

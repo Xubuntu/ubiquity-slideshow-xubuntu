@@ -7,16 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
-"PO-Revision-Date: 2016-02-18 11:00+0000\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"PO-Revision-Date: 2017-02-20 06:32+0000\n"
 "Last-Translator: Aleksey Kabanov <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
-"X-Generator: Launchpad (build 17990)\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/accessibility.html:2
@@ -109,20 +108,18 @@ msgstr "Благодарим за выбор и установку Ubuntu GNOME"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:9
 msgid ""
-"Learn more about Ubuntu GNOME in our Wiki Area <a href=\"https://wiki.ubuntu."
-"com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
+"Learn more about Ubuntu GNOME in our <a "
+"href=\"https://wiki.ubuntu.com/UbuntuGNOME\">Wiki Area</a>."
 msgstr ""
-"Узнайте больше об Ubuntu GNOME в нашем разделе Ubuntu Wiki <a href=\"https://"
-"wiki.ubuntu.com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:10
 msgid ""
-"For help and support, go to <a href=\"https://wiki.ubuntu.com/UbuntuGNOME/"
-"ContactUs\">tiny.cc/uGContactUs</a>."
+"For help and support, <a "
+"href=\"https://wiki.ubuntu.com/UbuntuGNOME/ContactUs\">contact us</a>."
 msgstr ""
-"Чтобы получить помощь, посетите страничку <a href=\"https://wiki.ubuntu.com/"
-"UbuntuGNOME/ContactUs\">tiny.cc/uGContactUs</a>."
+"Для получения помощи и поддержки <a "
+"href=\"https://wiki.ubuntu.com/UbuntuGNOME/ContactUs\">свяжитесь с нами</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/gethelp.html:11
@@ -223,11 +220,15 @@ msgid ""
 "thousands of free and commercial applications. Installing anything is just a "
 "couple of clicks away from you."
 msgstr ""
+"Используя GNOME-программы вы сможете легко найти и установить программы. "
+"Ваши оценки и рецензии используются для классификации программ по "
+"популярности. Для вас открыт доступ к тысячам бесплатных и коммерческих "
+"приложений. Установка программного обеспечения занимает несколько щелчков."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-gnome/slides/welcome.html:2
-msgid "Welcome to Ubuntu GNOME 16.04"
-msgstr ""
+msgid "Welcome to Ubuntu GNOME 17.04"
+msgstr "Добро пожаловать в Ubuntu GNOME 17.04"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:8
@@ -235,6 +236,9 @@ msgid ""
 "The official Ubuntu flavor featuring the GNOME Desktop Environment, aiming "
 "to provide a pure GNOME desktop experience built on top of Ubuntu."
 msgstr ""
+"Официальный вариант Ubuntu со средой рабочего стола GNOME, призванный "
+"предоставить пользователям оболочку GNOME Shell поверх операционной системы "
+"Ubuntu."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-gnome/slides/welcome.html:9
@@ -245,16 +249,21 @@ msgstr ""
 "Новая версия Ubuntu GNOME — это оптимальный выбор для тех, кому нужна "
 "быстрая, красивая, простая, удобная и стабильная операционная система."
 
-#~ msgid "Welcome to Ubuntu GNOME 15.10"
-#~ msgstr "Добро пожаловать в Ubuntu GNOME 15.10"
+#~ msgid ""
+#~ "Learn more about Ubuntu GNOME in our Wiki Area <a "
+#~ "href=\"https://wiki.ubuntu.com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
+#~ msgstr ""
+#~ "Узнайте больше об Ubuntu GNOME в нашем разделе Ubuntu Wiki <a "
+#~ "href=\"https://wiki.ubuntu.com/UbuntuGNOME\">tiny.cc/uGWiki</a>."
 
 #~ msgid ""
-#~ "With Ubuntu Software Center you can easily find and install software. "
-#~ "Your ratings and reviews are used to rank software by popularity. You "
-#~ "have access to thousands of free and commercial applications. Installing "
-#~ "anything is just a couple of clicks away from you."
+#~ "For help and support, go to <a "
+#~ "href=\"https://wiki.ubuntu.com/UbuntuGNOME/ContactUs\">tiny.cc/uGContactUs</a"
+#~ ">."
 #~ msgstr ""
-#~ "С помощью Центра приложений Ubuntu можно легко найти и установить нужное "
-#~ "приложение. Ваши оценки и отзывы используются для ранжирования приложений "
-#~ "по популярности. У вас имеется доступ к тысячам свободных и коммерческих "
-#~ "приложений. Для их установки достаточно лишь нескольких щелчков мышью."
+#~ "Чтобы получить помощь, посетите страничку <a "
+#~ "href=\"https://wiki.ubuntu.com/UbuntuGNOME/ContactUs\">tiny.cc/uGContactUs</a"
+#~ ">."
+
+#~ msgid "Welcome to Ubuntu GNOME 17.04"
+#~ msgstr "Вас приветствует Ubuntu GNOME 17.04"

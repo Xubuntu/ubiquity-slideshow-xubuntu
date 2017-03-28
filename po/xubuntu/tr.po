@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
-"PO-Revision-Date: 2015-02-15 19:23+0000\n"
-"Last-Translator: Volkan Gezer <Unknown>\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"PO-Revision-Date: 2016-09-27 12:54+0000\n"
+"Last-Translator: Enes UNAL <aenesunal@gmail.com>\n"
 "Language-Team: Turkish <tr@li.org>\n"
-"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
-"X-Generator: Launchpad (build 17990)\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
+"Language: tr\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -26,11 +26,11 @@ msgstr "Xubuntu'ya Hoş Geldiniz"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:5
 msgid "Congratulations for choosing to install"
-msgstr ""
+msgstr "Yüklemeyi seçtiğiniz için tebrik ederiz"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:5
-msgid "Xubuntu 16.04 LTS!"
+msgid "Xubuntu 17.04!"
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -47,17 +47,17 @@ msgstr ""
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/00_welcome.html:10
 msgid "<span class=\"fo is\">Xubuntu</span>"
-msgstr ""
+msgstr "<span class=\"fo is\">Xubuntu</span>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/00_welcome.html:11
 msgid "<span class=\"fo plus\">Xfce</span>"
-msgstr ""
+msgstr "<span class=\"fo plus\">Xfce</span>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/00_welcome.html:12
 msgid "<span class=\"fo\">Ubuntu</span>"
-msgstr ""
+msgstr "<span class=\"fo\">Ubuntu</span>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_applications.html:2
@@ -75,12 +75,12 @@ msgstr ""
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:8
 msgid "<strong>Firefox</strong> <span>Web browser</span>"
-msgstr ""
+msgstr "<strong>Firefox</strong> <span>Ağ Tarayıcısı</span>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:9
 msgid "<strong>Thunderbird</strong> <span>Mail and news client</span>"
-msgstr ""
+msgstr "<strong>Thunderbird</strong> <span>E-posta ve haber istemcisi</span>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:10
@@ -90,22 +90,23 @@ msgstr ""
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:11
 msgid "<strong>Parole</strong> <span>Media player</span>"
-msgstr ""
+msgstr "<strong>Parole</strong> <span>Ortam oynatıcı</span>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:14
 msgid "<strong>LibreOffice Writer</strong> <span>Word processor</span>"
-msgstr ""
+msgstr "<strong>LibreOffice Writer</strong> <span>Kelime işlemcisi</span>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:15
 msgid "<strong>LibreOffice Calc</strong> <span>Spreadsheet editor</span>"
 msgstr ""
+"<strong>LibreOffice Calc</strong> <span>Hesap çizelgesi düzenleyici</span>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:16
 msgid "<strong>Gnome Software</strong> <span>Package manager</span>"
-msgstr ""
+msgstr "<strong>Gnome Yazılımı</strong> <span>Paket yöneticisi</span>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:17
@@ -123,6 +124,8 @@ msgid ""
 "On the left hand side, you will see a Xubuntu logo. Clicking it opens the "
 "main menu."
 msgstr ""
+"Sol tarafta Xubuntu simgesini göreceksiniz. Bu simgeye tıklayarak ana menüyü "
+"açabilirsiniz."
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/02_desktop.html:9
@@ -135,7 +138,7 @@ msgstr ""
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/02_desktop.html:10
 msgid "On the far right, you will see indicators and a clock."
-msgstr ""
+msgstr "En sağda göstergeler ve saat bulunuyor."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/02_desktop.html:15
@@ -198,26 +201,28 @@ msgstr "Eş zamanlı destek"
 #: slideshows/xubuntu/slides/04_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1"
+"\">clicking here</a>."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_support-live.html:16
 msgid "Meow"
-msgstr ""
+msgstr "Meow"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/05_contribute.html:3
 msgid "Want to contribute?"
-msgstr ""
+msgstr "Katkıda bulunmak ister misin?"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_contribute.html:5
@@ -229,26 +234,26 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_contribute.html:6
 msgid ""
-"To read about all of the opportunities available to you, head to the <a href="
-"\"http://xubuntu.org/contribute/\">Get Involved</a> section of our website. "
-"This page has introductions to our various subteams as well as links to "
-"other important websites related to Xubuntu development."
+"To read about all of the opportunities available to you, head to the <a "
+"href=\"http://xubuntu.org/contribute/\">Get Involved</a> section of our "
+"website. This page has introductions to our various subteams as well as "
+"links to other important websites related to Xubuntu development."
 msgstr ""
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/05_contribute.html:10
 msgid "testing"
-msgstr ""
+msgstr "sınanıyor"
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/05_contribute.html:11
 msgid "social media"
-msgstr ""
+msgstr "sosyal medya"
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/05_contribute.html:12
 msgid "documentation"
-msgstr ""
+msgstr "belgeleme"
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/05_contribute.html:13
@@ -263,7 +268,7 @@ msgstr ""
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/05_contribute.html:15
 msgid "development"
-msgstr ""
+msgstr "geliştirme"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/06_thanks.html:2
@@ -281,121 +286,11 @@ msgstr ""
 #: slideshows/xubuntu/slides/06_thanks.html:6
 msgid ""
 "We'd love to hear about your experiences with Xubuntu. You can share them on "
-"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-"\">Xubuntu users mailing list</a> or if you are still here, on <em>#xubuntu-"
-"offtopic</em> IRC channel where you might find people to talk with."
+"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-"
+"users\">Xubuntu users mailing list</a> or if you are still here, on "
+"<em>#xubuntu-offtopic</em> IRC channel where you might find people to talk "
+"with."
 msgstr ""
 
-#~ msgid "Help"
-#~ msgstr "Yardım"
-
-#~ msgid "About Me"
-#~ msgstr "Hakkımda"
-
-#~ msgid "Make the desktop your own"
-#~ msgstr "Masaüstünüzü kendinizin yapın"
-
-#~ msgid "Office"
-#~ msgstr "Ofis"
-
-#~ msgid "Internet"
-#~ msgstr "İnternet"
-
-#~ msgid "Media"
-#~ msgstr "Ortam"
-
-#~ msgid "System & Settings"
-#~ msgstr "Sistem ve Ayarlar"
-
-#~ msgid "We need your help!"
-#~ msgstr "Yardımınıza ihtiyacımız var!"
-
-#~ msgid "Menu Editor"
-#~ msgstr "Menü Düzenleyici"
-
-#~ msgid "<b>»</b>"
-#~ msgstr "<b>»</b>"
-
-#~ msgid "Personalize your computer"
-#~ msgstr "Bilgisayarınızı kişiselleştirin"
-
-#~ msgid ""
-#~ "On the left hand side, you will see a Xubuntu logo. Click it to open the "
-#~ "main menu. We will tell you more about this menu in the next slide."
-#~ msgstr ""
-#~ "Sol tarafta bir Xubuntu logosu göreceksiniz. Ana menüyü açmak için "
-#~ "tıklayın. Bu menü ile ilgili daha fazla bilgi sonraki slaytta "
-#~ "anlatılacaktır."
-
-#~ msgid ""
-#~ "On the desktop you will see icons that can be used to access some of the "
-#~ "most common places on your system. In addition, you will see a single, "
-#~ "multipurpose, panel at the top of the screen."
-#~ msgstr ""
-#~ "Masaüstünde sisteminizde çoğu ortak konuma erişim sağlamakta "
-#~ "kullanılabilecek simgeler göreceksiniz. Ek olarak, ekranın yukarısında "
-#~ "tek bir çok amaçlı panel göreceksiniz."
-
-#~ msgid ""
-#~ "On the far right, you will see indicators and a clock. Click the clock to "
-#~ "see the monthly calendar."
-#~ msgstr ""
-#~ "Sağa doğru, belirticileri ve bir saat göreceksiniz. Aylık takvimi görmek "
-#~ "için saate tıklayın."
-
-#~ msgid "Theme Configuration"
-#~ msgstr "Tema Yapılandırması"
-
-#~ msgid "<strong>Firefox</strong>, web browser"
-#~ msgstr "<strong>Firefox</strong>, web tarayıcısı"
-
-#~ msgid "<strong>Thunderbird</strong>, mail and news client"
-#~ msgstr "<strong>Thunderbird</strong>, posta ve haber istemcisi"
-
-#~ msgid "<strong>Pidgin</strong>, Internet messenger"
-#~ msgstr "<strong>Pidgin</strong>, İnternet iletişim aracı"
-
-#~ msgid ""
-#~ "Want to give something back? The different ways to contribute to the "
-#~ "Xubuntu community can all be found on the <a href=\"http://xubuntu.org/"
-#~ "devel\">Get Involved</a> section of our website."
-#~ msgstr ""
-#~ "Bir şeyler mi söylemek istiyorsunuz? Xubuntu topluluğuna katılabilmeniz "
-#~ "için çeşitli yolları web sitemizin <a href=\"http://xubuntu.org/devel"
-#~ "\">Katılın</a> sayfasında bulabilirsiniz."
-
-#~ msgid "<strong>Ubuntu Software Center</strong>"
-#~ msgstr "<strong>Ubuntu Yazılım Merkezi</strong>"
-
-#~ msgid "<strong>gmusicbrowser</strong>, music collection software"
-#~ msgstr "<strong>gmusicbrowser</strong>, müzik koleksiyon yazılımı"
-
-#~ msgid "<strong>Parole</strong>, media player"
-#~ msgstr "<strong>Parole</strong>, ortam oynatıcı"
-
-#~ msgid ""
-#~ "Customize your panel by right-clicking it and selecting <em>Panel » Panel "
-#~ "Preferences</em>. You can also add and remove panels using this dialog."
-#~ msgstr ""
-#~ "Panelinizi, üzerine sağ tıklayıp <em>Panel » Panel Tercihleri</em> "
-#~ "kullanarak özelleştirebilirsiniz. Bu pencereyi kullanarak aynı zamanda "
-#~ "panel ekleyebilir veya kaldırabilirsiniz."
-
-#~ msgid ""
-#~ "Easily set your profile image and user details for your user with <span "
-#~ "class=\"app\" data-app=\"mugshot\">Mugshot</span>."
-#~ msgstr ""
-#~ "<span class=\"app\" data-app=\"mugshot\">Mugshot</span> ile kullanıcı "
-#~ "profil fotoğrafı ve kullanıcı ayrıntılarını kolaylıkla ayarlayın."
-
-#~ msgid "Ubuntu Software Center"
-#~ msgstr "Ubuntu Yazılım Merkezi"
-
-#~ msgid ""
-#~ "For support in <strong>other languages</strong>, view the full list of <a "
-#~ "href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
-#~ "channels</a>."
-#~ msgstr ""
-#~ "<strong>Diğer dillerde</strong> destek için, <a href=\"https://wiki."
-#~ "ubuntu.com/IRC/ChannelList/Local\">Yerel destek kanallarının</a> "
-#~ "listesine bakın."
+#~ msgid "Xubuntu 17.04!"
+#~ msgstr "Xubuntu 17.04!"

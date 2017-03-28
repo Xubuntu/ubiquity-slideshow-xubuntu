@@ -1,25 +1,26 @@
-# Finnish translations for PACKAGE package
-# Copyright (C) 2017 Free Software Foundation, Inc.
-# This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2017.
+# Finnish translation for ubiquity-slideshow-ubuntu
+# Copyright (c) 2017 Rosetta Contributors and Canonical Ltd 2017
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2017-01-19 12:23-0500\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: fi\n"
+"PO-Revision-Date: 2017-02-23 08:30+0000\n"
+"Last-Translator: Jiri Grönroos <Unknown>\n"
+"Language-Team: Finnish <fi@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/01_welcome.html:2
 msgid "Welcome!"
-msgstr ""
+msgstr "Tervetuloa!"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/ubuntu-budgie/slides/01_welcome.html:8
@@ -27,6 +28,8 @@ msgid ""
 "<strong>Ubuntu Budgie</strong> is a community driven Ubuntu flavor featuring "
 "the <strong>Budgie</strong> Desktop Environment"
 msgstr ""
+"<strong>Ubuntu Budgie</strong> on yhteisöpohjainen Ubuntu-sisarjulkaisu "
+"<strong>Budgie</strong>-työpöytäympäristöllä"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/ubuntu-budgie/slides/01_welcome.html:9
@@ -34,6 +37,8 @@ msgid ""
 "Being designed with the modern user in mind, <strong>Budgie</strong> focuses "
 "on simplicity and elegance"
 msgstr ""
+"Suunnittelun keskipisteenä on ollut käyttäjä; <strong>Budgie</strong> "
+"keskittyy yksinkertaisuuteen ja hienostuneisuuteen"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/ubuntu-budgie/slides/01_welcome.html:10
@@ -41,11 +46,13 @@ msgid ""
 "<strong>Budgie</strong> tightly integrates with the GNOME stack, employing "
 "underlying technologies to offer an alternative desktop experience"
 msgstr ""
+"<strong>Budgie</strong> integroituu vahvasti Gnome-ympäristön kanssa, mutta "
+"alla toimiva sama tekniikka tarjoaa Gnomesta poikkeavan työpöytäkokemuksen"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/02_desktop.html:2
 msgid "Simple and easy to use"
-msgstr ""
+msgstr "Yksinkertainen ja helppo käyttää"
 
 #. type: Content of: <div><div>
 #: slideshows/ubuntu-budgie/slides/02_desktop.html:7
@@ -53,6 +60,8 @@ msgid ""
 "<strong>Budgie</strong> is built exclusively for desktop users. No mobile or "
 "tablet here!"
 msgstr ""
+"<strong>Budgie</strong> on rakennettu vain työpöytäkäyttäjiä varten. Ei "
+"mobiilia tai tablettia saatavilla!"
 
 #. type: Content of: <div><div><li>
 #: slideshows/ubuntu-budgie/slides/02_desktop.html:9
@@ -60,6 +69,8 @@ msgid ""
 "<strong>Budgie Menu</strong> provides quick access to your apps, offering "
 "both category and compact views"
 msgstr ""
+"<strong>Budgie-valikko</strong> tarjoaa nopean pääsyn sovelluksiin, tarjolla "
+"on sekä luokka- että kompaktinäkymä"
 
 #. type: Content of: <div><div><li>
 #: slideshows/ubuntu-budgie/slides/02_desktop.html:10
@@ -67,6 +78,8 @@ msgid ""
 "<strong>Raven</strong> side panel lets you access applets,notifications and "
 "customization center all in one place"
 msgstr ""
+"<strong>Raven</strong>-sivupaneeli kokoaa sovelmat, ilmoitukset ja "
+"mukautuksen yhteen keskeiseen paikkaan"
 
 #. type: Content of: <div><div><li>
 #: slideshows/ubuntu-budgie/slides/02_desktop.html:11
@@ -74,11 +87,13 @@ msgid ""
 "<strong>Budgie</strong> gets out of your way and provides a clutter free "
 "desktop experience"
 msgstr ""
+"<strong>Budgie</strong> pysyy pois käyttäjän tieltä, lopputuloksena on "
+"selkeä työpöytäkokemus"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/03_browse.html:2
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Ota kaikki irti internetistä"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/03_browse.html:8
@@ -88,11 +103,14 @@ msgid ""
 "advanced security, powerful personalization and the cutting edge, all that "
 "is between your hands."
 msgstr ""
+"Esiasennettu <strong>Chromium</strong> tarjoaa verkkoselailukokemuksen "
+"Ubuntu Budgieen. Vaivaton surffailu, suuri suorituskyky, edistynyt "
+"tietoturva, nämä ja paljon muuta tarjotaan käyttäjälle."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/04_office.html:2
 msgid "Your office on your machine"
-msgstr ""
+msgstr "Toimisto tietokoneellasi"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/04_office.html:8
@@ -102,11 +120,14 @@ msgid ""
 "productivity suite shipped by default. Make your day-to-day tasks more easy "
 "and fun."
 msgstr ""
+"Luo ammattimaisia asiakirjoja, taulukkoja, esityksiä, piirrustuksia ja "
+"paljon muuta. Esiasennettu <strong>LibreOffice</strong> on laadukas toimisto-"
+"ohjelmisto. Tee päivittäisiä tehtäviä aiempaa vähemmällä vaivalla."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/05_media.html:2
 msgid "Enjoy your music and videos"
-msgstr ""
+msgstr "Nauti musiikista ja videoista"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/05_media.html:8
@@ -114,6 +135,8 @@ msgid ""
 "<strong>Rhythmbox</strong> lets you organize your music and listen to "
 "Internet radio, podcasts, and more."
 msgstr ""
+"<strong>Rytmilaatikon</strong> avulla pidät musiikin hallinnassasi, "
+"kuuntelet internetin radiokanavia, podcasteja ja paljon muuta."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/05_media.html:10
@@ -121,11 +144,13 @@ msgid ""
 "<strong>GNOME-MPV</strong> allows you to easily watch videos from your "
 "computer or DVD."
 msgstr ""
+"<strong>GNOME-MPV</strong> mahdollistaa videoiden katselun tietokoneelta tai "
+"DVD:ltä."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/06_photos.html:2
 msgid "Have fun with your photos"
-msgstr ""
+msgstr "Leikittele valokuvillasi"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/06_photos.html:8
@@ -135,16 +160,20 @@ msgid ""
 "edit and view your pictures. And you can share your favorite snaps on all "
 "popular photo sites and social networks."
 msgstr ""
+"Etsitkö sopivaa sovellusta kuviesi hallintaa varten? <strong>Gnomen "
+"kuvasovelluksella</strong> voit tuoda, hallita, muokata ja katsella kuviasi "
+"vaivatta. Lisäksi kuvien jako suosituimpiin sosiaalisiin medioihin onnistuu "
+"muutamalla napsautuksella."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/07_software.html:2
 msgid "Find even more software"
-msgstr ""
+msgstr "Löydä lisää sovelluksia"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/07_software.html:8
 msgid "<strong>Say Goodbye to searching the web for a software</strong>"
-msgstr ""
+msgstr "<strong>Ei enää ohjelmistojen etsimistä ympäri internetiä</strong>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/07_software.html:10
@@ -154,24 +183,31 @@ msgid ""
 "You have access to thousands of free and commercial applications. Installing "
 "anything is just a couple of clicks away from you."
 msgstr ""
+"<strong>Ohjelmistot</strong> mahdollistaa sovellusten etsimisen ja "
+"asennuksen. Käyttäjien arvosteluja käytetään sovellusten suosion "
+"mittaamiseksi. Käytössäsi on tuhansia vapaita ja kaupallisia sovelluksia. "
+"Minkä tahansa niistä asentaminen tapahtuu vain muutaman napin painalluksella."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:2
 msgid "Help and support"
-msgstr ""
+msgstr "Ohjeet ja tuki"
 
 #. type: Content of: <div><div><div>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:8
 msgid "Thanks for choosing and installing <strong>Ubuntu Budgie</strong>!"
-msgstr ""
+msgstr "Kiitos, että valitsit ja asensit <strong>Ubuntu Budgien</strong>!"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:9
 msgid ""
-"Get help and support on our Google+ community (Google \"google+ Ubuntu Budgie"
-"\") or on <strong>Launchpad</strong>: <a href=\"https://launchpad.net/Ubuntu "
-"Budgie\">launchpad.net/ubuntubudgie</a>"
+"Get help and support on our Google+ community (Google \"google+ Ubuntu "
+"Budgie\") or on <strong>Launchpad</strong>: <a "
+"href=\"https://launchpad.net/Ubuntu Budgie\">launchpad.net/ubuntubudgie</a>"
 msgstr ""
+"Hanki tukea  Google+-yhteisöltä (googleta \"google+ Ubuntu Budgie\") tai "
+"<strong>Launchpadin</strong> kautta: <a href=\"https://launchpad.net/Ubuntu "
+"Budgie\">launchpad.net/ubuntubudgie</a>"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:10
@@ -179,8 +215,10 @@ msgid ""
 "For more information and pointers to other useful resources, please visit "
 "our homepage: <a href=\"https://ubuntubudgie.org\">ubuntubudgie.org</a>"
 msgstr ""
+"Lisätietoja ja viittauksia muihin tietolähteisiin on saatavilla sivustomme "
+"kautta: <a href=\"https://ubuntubudgie.org\">ubuntubudgie.org</a>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:11
 msgid "Enjoy and have fun! 😃"
-msgstr ""
+msgstr "Nauti ja pidä hauskaa! 😃"

@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
 "PO-Revision-Date: 2016-04-07 18:56+0000\n"
 "Last-Translator: Piotr Strębski <strebski@o2.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
-"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
-"X-Generator: Launchpad (build 17990)\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
+"Language: pl\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -30,8 +30,8 @@ msgstr "Gratulujemy wyboru instalacji"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:5
-msgid "Xubuntu 16.04 LTS!"
-msgstr "Xubuntu 16.04 LTS!"
+msgid "Xubuntu 17.04!"
+msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:6
@@ -202,8 +202,8 @@ msgid ""
 "<a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
 "Xubuntu website."
 msgstr ""
-"Pełna lista wsparcia technicznego jest dostępna w <a href=\"http://xubuntu."
-"org/help\">sekcji Pomocy</a> na stronie Xubuntu"
+"Pełna lista wsparcia technicznego jest dostępna w <a "
+"href=\"http://xubuntu.org/help\">sekcji Pomocy</a> na stronie Xubuntu"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_support-live.html:2
@@ -214,15 +214,17 @@ msgstr "Bezpośrednie wsparcie"
 #: slideshows/xubuntu/slides/04_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1"
+"\">clicking here</a>."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
 
 #. type: Content of: <div><div>
@@ -245,10 +247,10 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_contribute.html:6
 msgid ""
-"To read about all of the opportunities available to you, head to the <a href="
-"\"http://xubuntu.org/contribute/\">Get Involved</a> section of our website. "
-"This page has introductions to our various subteams as well as links to "
-"other important websites related to Xubuntu development."
+"To read about all of the opportunities available to you, head to the <a "
+"href=\"http://xubuntu.org/contribute/\">Get Involved</a> section of our "
+"website. This page has introductions to our various subteams as well as "
+"links to other important websites related to Xubuntu development."
 msgstr ""
 
 #. type: Content of: <div><div><div>
@@ -299,151 +301,11 @@ msgstr ""
 #: slideshows/xubuntu/slides/06_thanks.html:6
 msgid ""
 "We'd love to hear about your experiences with Xubuntu. You can share them on "
-"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-"\">Xubuntu users mailing list</a> or if you are still here, on <em>#xubuntu-"
-"offtopic</em> IRC channel where you might find people to talk with."
+"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-"
+"users\">Xubuntu users mailing list</a> or if you are still here, on "
+"<em>#xubuntu-offtopic</em> IRC channel where you might find people to talk "
+"with."
 msgstr ""
 
-#~ msgid "Help"
-#~ msgstr "Pomoc"
-
-#~ msgid "System & Settings"
-#~ msgstr "System i ustawienia"
-
-#~ msgid "We need your help!"
-#~ msgstr "Potrzebujemy Twojej pomocy!"
-
-#~ msgid "About Me"
-#~ msgstr "Informacje o mnie"
-
-#~ msgid "Make the desktop your own"
-#~ msgstr "Uczyń pulpit Twoim pulpitem"
-
-#~ msgid "Office"
-#~ msgstr "Biuro"
-
-#~ msgid "Internet"
-#~ msgstr "Internet"
-
-#~ msgid "Media"
-#~ msgstr "Dźwięk i wideo"
-
-#~ msgid "<b>»</b>"
-#~ msgstr "<b>»</b>"
-
-#~ msgid ""
-#~ "On the left hand side, you will see a Xubuntu logo. Click it to open the "
-#~ "main menu. We will tell you more about this menu in the next slide."
-#~ msgstr ""
-#~ "W lewym górnym rogu znajduje się logo Xubuntu. Klikając na nie, otworzy "
-#~ "się menu główne. Na następnym slajdzie  znajduje się więcej informacji."
-
-#~ msgid "Menu Editor"
-#~ msgstr "Edytor menu"
-
-#~ msgid "<strong>Firefox</strong>, web browser"
-#~ msgstr "Przeglądarka internetowa <strong>Firefox</strong>"
-
-#~ msgid "<strong>Thunderbird</strong>, mail and news client"
-#~ msgstr "Klient poczty <strong>Thunderbird</strong>"
-
-#~ msgid "<strong>Pidgin</strong>, Internet messenger"
-#~ msgstr "Komunikator internetowy <strong>Pidgin</strong>"
-
-#~ msgid ""
-#~ "Want to give something back? The different ways to contribute to the "
-#~ "Xubuntu community can all be found on the <a href=\"http://xubuntu.org/"
-#~ "devel\">Get Involved</a> section of our website."
-#~ msgstr ""
-#~ "Poszukiwane są osoby chętne do pomocy. Szczegółowe informacje dostępne są "
-#~ "na stronie domowej w sekcji <a href=\"http://xubuntu.org/devel\">Get "
-#~ "Involved</a>."
-
-#~ msgid "<strong>Ubuntu Software Center</strong>"
-#~ msgstr "<strong>Centrum Oprogramowania Ubuntu</strong>"
-
-#~ msgid "<strong>gmusicbrowser</strong>, music collection software"
-#~ msgstr "Odtwarzacz muzyczny <strong>gmusicbrowser</strong>"
-
-#~ msgid "<strong>Parole</strong>, media player"
-#~ msgstr "Odtwarzacz filmów <strong>Parole</strong>"
-
-#~ msgid "Personalize your computer"
-#~ msgstr "Personalizacja komputera"
-
-#~ msgid ""
-#~ "On the far right, you will see indicators and a clock. Click the clock to "
-#~ "see the monthly calendar."
-#~ msgstr ""
-#~ "W prawym górnym rogu znajdują się ikony apletu powiadomień oraz zegar. "
-#~ "Kliknięcie w niego, wyświetli kalendarz."
-
-#~ msgid ""
-#~ "On the desktop you will see icons that can be used to access some of the "
-#~ "most common places on your system. In addition, you will see a single, "
-#~ "multipurpose, panel at the top of the screen."
-#~ msgstr ""
-#~ "Na pulpicie znajdują się ikony do najważniejszych miejsc w systemie. "
-#~ "Dodatkowo na górze znajduje się wielofunkcyjny panel."
-
-#~ msgid "Theme Configuration"
-#~ msgstr "Konfiguracja motywu"
-
-#~ msgid ""
-#~ "Customize your panel by right-clicking it and selecting <em>Panel » Panel "
-#~ "Preferences</em>. You can also add and remove panels using this dialog."
-#~ msgstr ""
-#~ "Dostosuj swój panel przez kliknięcie prawym przyciskiem myszy i wybranie "
-#~ "<em>Panel » Preferencje</em>. Możesz także dodawać i usuwać panele "
-#~ "używając tego okna."
-
-#~ msgid "Ubuntu Software Center"
-#~ msgstr "Centrum oprogramowania Ubuntu"
-
-#~ msgid ""
-#~ "Here is a brief list of some applications that are preinstalled with "
-#~ "Xubuntu for your convenience. Find them in the menu on the left top "
-#~ "corner of your screen. You can install more through the <span class=\"app"
-#~ "\" data-app=\"usc\">Ubuntu Software Center</span>."
-#~ msgstr ""
-#~ "Oto krótka lista kilku programów, które są domyślnie zainstalowane w "
-#~ "Xubuntu dla Twojej wygody. Znajdziesz je w menu w lewym górnym rogu "
-#~ "ekranu. Możesz zainstalować więcej programów przez <span class=\"app\" "
-#~ "data-app=\"usc\">Centrum oprogramowania Ubuntu</span>."
-
-#~ msgid ""
-#~ "We'd love to hear about your experiences with Xubuntu. You can share them "
-#~ "on the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-#~ "\">Xubuntu users mailing list</a> or on the <em>#xubuntu-offtopic</em> "
-#~ "IRC channel."
-#~ msgstr ""
-#~ "Bardzo chcielibyśmy usłyszeć o Twoich doświadczeniach z Xubuntu. Możesz "
-#~ "się nimi podzielić na <a href=\"https://lists.ubuntu.com/mailman/listinfo/"
-#~ "xubuntu-users\">liście mailingowej użytkowników Xubuntu</a> albo na "
-#~ "kanale IRC <em>#xubuntu-offtopic</em>."
-
-#~ msgid "Congratulations, you have chosen to install Xubuntu 15.10!"
-#~ msgstr "Gratulujemy, zdecydowałeś się na zainstalowanie Xubuntu 15.10!"
-
-#~ msgid "<strong>LibreOffice Calc</strong>, spreadsheet editor"
-#~ msgstr "<strong>LibreOffice Calc</strong>, edytor arkuszy kalkulacyjnych"
-
-#~ msgid "<strong>LibreOffice Writer</strong>, word processor"
-#~ msgstr "<strong>LibreOffice Writer</strong>, procesor tekstu"
-
-#~ msgid ""
-#~ "Thanks for taking the time to install Xubuntu with us. Feel free to pass "
-#~ "on your installation media and let others try Xubuntu as well!"
-#~ msgstr ""
-#~ "Dziękujemy za poświęcenie z nami czasu koniecznego na instalację Xubuntu. "
-#~ "Zapraszamy do przekazania nośnika instalacyjnego, by również inni mogli "
-#~ "wypróbować Xubuntu!"
-
-#~ msgid ""
-#~ "For support in <strong>other languages</strong>, view the full list of <a "
-#~ "href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
-#~ "channels</a>."
-#~ msgstr ""
-#~ "Celem uzyskania pomocy w <strong>innych językach</strong>, zobacz pełną "
-#~ "listę <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">lokalnych "
-#~ "kanałów wsparcia</a>."
+#~ msgid "Xubuntu 17.04!"
+#~ msgstr "Xubuntu 17.04!"

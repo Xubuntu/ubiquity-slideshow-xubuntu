@@ -7,16 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
 "PO-Revision-Date: 2013-03-26 07:36+0000\n"
 "Last-Translator: Cédric VALMARY (Tot en òc) <cvalmary@yahoo.fr>\n"
 "Language-Team: Occitan (post 1500) <oc@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
-"X-Generator: Launchpad (build 17990)\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/00_welcome.html:2
@@ -138,7 +137,7 @@ msgstr "Krita Paint Studio"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/03_graphics.html:14
-#: slideshows/ubuntustudio/slides/04_photography.html:14
+#: slideshows/ubuntustudio/slides/04_photography.html:13
 msgid "GIMP Image Editor"
 msgstr "Editor d'imatges GIMP"
 
@@ -165,11 +164,6 @@ msgstr "Editor fòto Darktable"
 #: slideshows/ubuntustudio/slides/04_photography.html:12
 msgid "RawTherapee Raw Image Processor"
 msgstr "Tractament d'imatges RAW RawTherapee"
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntustudio/slides/04_photography.html:13
-msgid "Shotwell Photo Manager"
-msgstr "Gestionari de fòtos Shotwell"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/05_software.html:2
@@ -203,9 +197,9 @@ msgstr "Mercés !"
 #: slideshows/ubuntustudio/slides/06_support.html:7
 msgid ""
 "Thanks for taking the time with us. We'd love to hear about your experiences "
-"with Ubuntu Studio. You can share them on the <a href=\"https://lists.ubuntu."
-"com/mailman/listinfo/Ubuntu-Studio-users\">Ubuntu Studio users mailing list</"
-"a>."
+"with Ubuntu Studio. You can share them on the <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-"
+"users\">Ubuntu Studio users mailing list</a>."
 msgstr ""
 "Mercé d'aver pres lo temps de legir aquesta presentacion. Nos agradariá "
 "fòrça d'aver vòstre retorn d'experiéncia amb Ubuntu Studio. Lo podètz "
@@ -215,19 +209,23 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:8
 msgid ""
-"Join our IRC channel <em>#ubuntustudio</em> for online support by <a href="
-"\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-user..."
-"&prompt=1\">clicking here</a>."
+"Join our IRC channel <em>#ubuntustudio</em> for online support by <a "
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-"
+"user...&prompt=1\">clicking here</a>."
 msgstr ""
 "Rejonhètz nòstre canal IRC <em>#ubuntustudio</em> per obténer de supòrt en "
-"linha en <a href=\"http://webchat.freenode.net/?"
-"channels=ubuntustudio&nick=studio-user...&prompt=1\">clicant aicí</a>."
+"linha en <a "
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-"
+"user...&prompt=1\">clicant aicí</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:9
 msgid ""
-"Finally, visit us on the web at the <a href=\"http://ubuntustudio.org"
-"\">Ubuntu Studio website</a>. Thank you again!"
+"Finally, visit us on the web at the <a "
+"href=\"http://ubuntustudio.org\">Ubuntu Studio website</a>. Thank you again!"
 msgstr ""
 "Enfin, trantalhetz pas a visitar lo <a href=\"http://ubuntustudio.org\">site "
 "web d'Ubuntu Studio</a>. Mercé encara[bsp]!"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "Gestionari de fòtos Shotwell"

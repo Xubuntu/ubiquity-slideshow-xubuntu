@@ -1,39 +1,38 @@
 # Korean translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
 # This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
-"PO-Revision-Date: 2014-08-27 18:04+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"PO-Revision-Date: 2016-07-10 05:21+0000\n"
+"Last-Translator: Jung-Kyu Park <bagjunggyu@gmail.com>\n"
+"Language-Team: Korean <ko@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-16 05:53+0000\n"
-"X-Generator: Launchpad (build 17196)\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:52+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:1
 msgid "Welcome to Ubuntu MATE"
-msgstr ""
+msgstr "환영합니다 우분투 마테 입니다"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:8
 msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
-msgstr ""
+msgstr "마테 데스크톱과 아름답게 조화를 이룬 커뮤니티에 의해 개발된 우분투 기반의 운영체제입니다."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:1
 msgid "About"
-msgstr ""
+msgstr "소개"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:8
@@ -43,12 +42,12 @@ msgid ""
 "computers and prefer a traditional desktop metaphor. With modest hardware "
 "requirements it is suitable for modern workstations, single board computers "
 "and older hardware alike."
-msgstr ""
+msgstr "우분투 마테는 안정적입니다, 사용자 환경을 설정해서 쉽게 사용할 수 있는 운영체제입니다."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:1
 msgid "Find even more software"
-msgstr ""
+msgstr "더욱 많은 소프트웨어를 찾아보세요"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:7
@@ -57,6 +56,8 @@ msgid ""
 "you can install popular applications with one click. You can also install "
 "software centres to discover even more applications for Ubuntu MATE."
 msgstr ""
+"웹을 통한 새 소프트웨어 검색과는 바이 바이 하세요. 우분투 마테 웰컴을 통해서, 각종 애플리케이션들을 한 번의 클릭으로 설치하실 수 "
+"있습니다."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:11
@@ -65,12 +66,12 @@ msgstr ""
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:12
 #: slideshows/oem-config-ubuntu-mate/slides/07_office.html:12
 msgid "Included software"
-msgstr ""
+msgstr "포함된 소프트웨어"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:15
 msgid "Ubuntu MATE Welcome"
-msgstr ""
+msgstr "우분투 마테 웰컴"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:18
@@ -78,27 +79,27 @@ msgstr ""
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:23
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:23
 msgid "Supported software"
-msgstr ""
+msgstr "지원하는 소프트웨어"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:22
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "우분투 소프트웨어 센터"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:26
 msgid "Synaptic Package Manager"
-msgstr ""
+msgstr "시냅틱 패키지 관리자"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:30
 msgid "GDebi Package Installer"
-msgstr ""
+msgstr "GDebi 패키지 설치 프로그램"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/04_music.html:2
 msgid "Take your music with you"
-msgstr ""
+msgstr "항상 음악과 함께하세요."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_music.html:7
@@ -108,26 +109,28 @@ msgid ""
 "great with CDs and portable music players, so you can enjoy all your music "
 "wherever you go."
 msgstr ""
+"우분투 마테는 놀라운 리듬박스 음악 플레이어와 함께합니다. 향상된 플레이백 옵션을 통해, 듣고 싶은 노래를 쉽게 정렬할 수 있습니다. "
+"또한 CD 휴대용 음악 플레이어 등과도 잘 작동하구요, 어디에서든지 여러분의 모든 음악을 즐기실 수 있습니다."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_music.html:15
 msgid "Rhythmbox Music Player"
-msgstr ""
+msgstr "리듬박스 음악 플레이어"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_music.html:22
 msgid "Banshee Media Player"
-msgstr ""
+msgstr "밴시 미디어 플레이어"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_music.html:26
 msgid "VLC Media Player"
-msgstr ""
+msgstr "VLC 미디어 플레이어"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:1
 msgid "Organise your photos"
-msgstr ""
+msgstr "사진을 구성하세요"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:8
@@ -136,26 +139,28 @@ msgid ""
 "camera or a phone to transfer your photos, then it's easy to share them and "
 "keep them safe."
 msgstr ""
+"샷웰은 여러분의 장비를 위해 준비된 간편한 사진 관리 도구입니다. 카메라 또는 스마트폰을 연결해서 사진을 옮겨보세요, 공유하기 쉽고 "
+"안전하게 보관할 수 있습니다."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:16
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "샷웰 포토 매니저"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:20
 msgid "Eye of MATE Image Viewer"
-msgstr ""
+msgstr "이미지 뷰어 아이 오브 마테"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:27
 msgid "GIMP Image Editor"
-msgstr ""
+msgstr "김프 이미지 편집기"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "웹을 최대한 활용하세요"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:8
@@ -164,26 +169,28 @@ msgid ""
 "of people around the world. Designed with privacy in mind it includes "
 "enhanced security features to protect you from online threats."
 msgstr ""
+"우분투 마테는 파이어 폭스를 포함합니다. 전 세계에서 수백만 명이 이용하는 쉽고 안전한 웹 브라우저입니다. 사생활 보호를 염두에 두고 "
+"개발되어서 향상된 보안 기능이 여러분을 온라인 유해환경 으로부터 보호해 줄 겁니다."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:16
 msgid "Firefox Web Browser"
-msgstr ""
+msgstr "파이어폭스 웹 브라우저"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:20
 msgid "Thunderbird Mail"
-msgstr ""
+msgstr "썬더버드 메일"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:27
 msgid "Chromium"
-msgstr ""
+msgstr "크로미움"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/07_office.html:1
 msgid "Everything you need for the office"
-msgstr ""
+msgstr "사무에 필요한 모든 것"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_office.html:8
@@ -192,26 +199,28 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"리브레오피스는 문서와 스프레드시트, 발표 자료를 만드는데 필요한 모든 것을 제공하며 마이크로소프트 오피스 파일과 호환되는 자유로운 사무용 "
+"프로그램 모음입니다.  사용자가 필요한 모든 기능을 포함한 리브레오피스를 무료로 제공합니다."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_office.html:16
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "리브레오피스 라이터"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_office.html:20
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "리브레오피스 칼크"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_office.html:24
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "리브레오피스 임프레스"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:1
 msgid "Accessible for everyone"
-msgstr ""
+msgstr "누구나 사용할 수 있습니다"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:8
@@ -221,36 +230,38 @@ msgid ""
 "language, colour scheme and text size, Ubuntu MATE makes computing easy - "
 "whoever and wherever you are."
 msgstr ""
+"우분투 마테 철학의 핵심에는 컴퓨팅은 모드에게 라는 믿음이 있습니다. 편리한 기능 도구와 옵션 등을 통해 언어와, 색상 주제, 글자 크기 "
+"등을 바꿉니다, 우분투 마테는 컴퓨팅을 쉽게 누구나 어디에서든 가능하게 해줍니다."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:12
 msgid "Customization options"
-msgstr ""
+msgstr "사용자 설정 옵션"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:16
 msgid "Appearance"
-msgstr ""
+msgstr "꾸미기"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:20
 msgid "Assistive technologies"
-msgstr ""
+msgstr "보조 기술"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:24
 msgid "Language support"
-msgstr ""
+msgstr "언어 지원"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:1
 msgid "Join the community"
-msgstr ""
+msgstr "커뮤니티에 참여하세요"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:8
 msgid "Discussion"
-msgstr ""
+msgstr "의견 나눔"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:12
@@ -258,42 +269,50 @@ msgid ""
 "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
 "Community</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
+"Community</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:16
 msgid ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+ Community</a>"
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" "
+"class=\"caption\">Google+ Community</a>"
 msgstr ""
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" "
+"class=\"caption\">Google+ Community</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:20
 msgid ""
 "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC Channel</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC Channel</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:23
 msgid "Announcements"
-msgstr ""
+msgstr "소개글"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:27
 msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
+"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:31
 msgid ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
-"\">Facebook</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:34
 msgid "Development"
-msgstr ""
+msgstr "개발"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:38
@@ -301,6 +320,8 @@ msgid ""
 "<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
 "Launchpad</a>"
 msgstr ""
+"<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
+"Launchpad</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/09_community.html:42
@@ -308,3 +329,5 @@ msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
 msgstr ""
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
+"Tracker</a>"

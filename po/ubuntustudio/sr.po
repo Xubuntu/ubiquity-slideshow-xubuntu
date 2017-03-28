@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
 "PO-Revision-Date: 2014-03-02 04:41+0000\n"
 "Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
 "Language-Team: Serbian <gnom@prevod.org>\n"
-"Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-04-12 16:41+0000\n"
-"X-Generator: Launchpad (build 17990)\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
+"Language: sr\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/00_welcome.html:2
@@ -26,7 +26,8 @@ msgstr "Добро дошли!"
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/00_welcome.html:7
 msgid "Thanks for choosing Ubuntu Studio, and welcome to the installation."
-msgstr "Хвала вам што сте одабрали Убунту студио, и добродошли у инсталацију."
+msgstr ""
+"Хвала вам што сте одабрали Убунту студио, и добродошли у инсталацију."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/00_welcome.html:8
@@ -137,7 +138,7 @@ msgstr "Крита, сликарска радионица"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/03_graphics.html:14
-#: slideshows/ubuntustudio/slides/04_photography.html:14
+#: slideshows/ubuntustudio/slides/04_photography.html:13
 msgid "GIMP Image Editor"
 msgstr "ГИМП, уређивач слика"
 
@@ -164,11 +165,6 @@ msgstr "Тамнатабла уређивач фотографија"
 #: slideshows/ubuntustudio/slides/04_photography.html:12
 msgid "RawTherapee Raw Image Processor"
 msgstr "Обрађивач слика у сировом облику"
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntustudio/slides/04_photography.html:13
-msgid "Shotwell Photo Manager"
-msgstr "Фото-бунар уредник слика"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/05_software.html:2
@@ -202,31 +198,36 @@ msgstr "Хвала вам!"
 #: slideshows/ubuntustudio/slides/06_support.html:7
 msgid ""
 "Thanks for taking the time with us. We'd love to hear about your experiences "
-"with Ubuntu Studio. You can share them on the <a href=\"https://lists.ubuntu."
-"com/mailman/listinfo/Ubuntu-Studio-users\">Ubuntu Studio users mailing list</"
-"a>."
+"with Ubuntu Studio. You can share them on the <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-"
+"users\">Ubuntu Studio users mailing list</a>."
 msgstr ""
 "Хвала вам на времену проведеном са нама. Волели бисмо да чујемо о вашим "
-"утисцима са Убунту студиом. Можете их поделити са нама на <a href=\"https://"
-"lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-users\">дописној листи "
-"корисника Убунту студија</a>."
+"утисцима са Убунту студиом. Можете их поделити са нама на <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-"
+"users\">дописној листи корисника Убунту студија</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:8
 msgid ""
-"Join our IRC channel <em>#ubuntustudio</em> for online support by <a href="
-"\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-user..."
-"&prompt=1\">clicking here</a>."
+"Join our IRC channel <em>#ubuntustudio</em> for online support by <a "
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-"
+"user...&prompt=1\">clicking here</a>."
 msgstr ""
 "Придружите нам се на нашем ИРЦ каналу <em>#ubuntustudio</em> за подршку на "
-"мрежи <a href=\"http://webchat.freenode.net/?"
-"channels=ubuntustudio&nick=studio-user...&prompt=1\">кликом овде</a>."
+"мрежи <a "
+"href=\"http://webchat.freenode.net/?channels=ubuntustudio&nick=studio-"
+"user...&prompt=1\">кликом овде</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:9
 msgid ""
-"Finally, visit us on the web at the <a href=\"http://ubuntustudio.org"
-"\">Ubuntu Studio website</a>. Thank you again!"
+"Finally, visit us on the web at the <a "
+"href=\"http://ubuntustudio.org\">Ubuntu Studio website</a>. Thank you again!"
 msgstr ""
-"На крају, посетите нас на вебу на<a href=\"http://ubuntustudio.org"
-"\">страницама Убунту студија</a>. Хвала вам још једном!"
+"На крају, посетите нас на вебу на<a "
+"href=\"http://ubuntustudio.org\">страницама Убунту студија</a>. Хвала вам "
+"још једном!"
+
+#~ msgid "Shotwell Photo Manager"
+#~ msgstr "Фото-бунар уредник слика"

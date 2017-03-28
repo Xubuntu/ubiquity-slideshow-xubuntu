@@ -1,27 +1,26 @@
 # Catalan translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
 # This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-# Pau Iranzo <paugnu@gmail.com>, 2011.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
-"PO-Revision-Date: 2014-08-27 18:03+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"PO-Revision-Date: 2016-04-14 15:49+0000\n"
+"Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
+"Language-Team: Catalan <ca@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-16 05:53+0000\n"
-"X-Generator: Launchpad (build 17196)\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:52+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/01_welcome.html:1
 msgid "Welcome to Ubuntu MATE"
-msgstr ""
+msgstr "Us donem la benvinguda a l'Ubuntu MATE"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/01_welcome.html:8
@@ -29,11 +28,13 @@ msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
 msgstr ""
+"Un sistema operatiu basat en l'Ubuntu desenvolupat comunitàriament  que "
+"integra de forma bonica l'escriptori MATE."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/02_about.html:1
 msgid "About"
-msgstr ""
+msgstr "Quant a"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/02_about.html:8
@@ -44,11 +45,16 @@ msgid ""
 "requirements it is suitable for modern workstations, single board computers "
 "and older hardware alike."
 msgstr ""
+"L'Ubuntu MATE es un sistema operatiu estable i fàcil d'usar amb un entorn "
+"d'escriptori configurable. És ideal pels que volen el màxim dels seus "
+"ordinadors i prefereixen una metàfora d'escriptori tradicional. Amb "
+"requeriments modestos de maquinari és apropiat per a estacions de treball "
+"modernes, ordinadors de tauler únic i maquinari antic semblant."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/03_welcome.html:1
 msgid "Find even more software"
-msgstr ""
+msgstr "Trobeu encara més programari"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/03_welcome.html:7
@@ -57,6 +63,10 @@ msgid ""
 "you can install popular applications with one click. You can also install "
 "software centres to discover even more applications for Ubuntu MATE."
 msgstr ""
+"Digueu adéu a cercar la web per a nou programari. Amb l'Ubuntu MATE Welcome, "
+"podeu instal·lar aplicacions populars amb un clic. També podeu instal·lar "
+"centres de programari per descobrir encara més aplicacions per a l'Ubuntu "
+"MATE."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/03_welcome.html:11
@@ -65,12 +75,12 @@ msgstr ""
 #: slideshows/ubuntu-mate/slides/06_browse.html:12
 #: slideshows/ubuntu-mate/slides/07_office.html:12
 msgid "Included software"
-msgstr ""
+msgstr "Programari inclòs"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/03_welcome.html:15
 msgid "Ubuntu MATE Welcome"
-msgstr ""
+msgstr "Benvinguda de l'Ubuntu MATE"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/03_welcome.html:18
@@ -78,27 +88,27 @@ msgstr ""
 #: slideshows/ubuntu-mate/slides/05_photos.html:23
 #: slideshows/ubuntu-mate/slides/06_browse.html:23
 msgid "Supported software"
-msgstr ""
+msgstr "Programari suportat"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/03_welcome.html:22
 msgid "Ubuntu Software Center"
-msgstr ""
+msgstr "Centre de Programari de l'Ubuntu"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/03_welcome.html:26
 msgid "Synaptic Package Manager"
-msgstr ""
+msgstr "Gestor de paquets Synaptic"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/03_welcome.html:30
 msgid "GDebi Package Installer"
-msgstr ""
+msgstr "Instal·lador de paquets GDebi"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/04_music.html:2
 msgid "Take your music with you"
-msgstr ""
+msgstr "Porteu la vostra música a sobre"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/04_music.html:7
@@ -108,26 +118,30 @@ msgid ""
 "great with CDs and portable music players, so you can enjoy all your music "
 "wherever you go."
 msgstr ""
+"L'Ubuntu MATE ve amb el sensacional reproductor de música Rhythmbox. Amb "
+"opcions de reproducció avançades, és senzill posar a la cua les cançons "
+"perfectes. I funciona molt bé amb CD i reproductors portàtils de música, de "
+"manera que podeu gaudir de la vostra música aneu on aneu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/04_music.html:15
 msgid "Rhythmbox Music Player"
-msgstr ""
+msgstr "Reproductor de música Rhythmbox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/04_music.html:22
 msgid "Banshee Media Player"
-msgstr ""
+msgstr "Reproductor multimèdia Banshee"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/04_music.html:26
 msgid "VLC Media Player"
-msgstr ""
+msgstr "Reproductor multimèdia VLC"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/05_photos.html:1
 msgid "Organise your photos"
-msgstr ""
+msgstr "Organitzeu les vostres fotografies"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/05_photos.html:8
@@ -136,26 +150,29 @@ msgid ""
 "camera or a phone to transfer your photos, then it's easy to share them and "
 "keep them safe."
 msgstr ""
+"El Shotwell és un gestor pràctic de fotografies que està preparat per als "
+"vostres estris. Connecteu una càmera o un telèfon per transferir les vostres "
+"fotografies, i després és fàcil compartir-les o mantenir-les segures."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/05_photos.html:16
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "Gestor de fotografies Shotwell"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/05_photos.html:20
 msgid "Eye of MATE Image Viewer"
-msgstr ""
+msgstr "Visualitzador d'imatges Eye of MATE"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/05_photos.html:27
 msgid "GIMP Image Editor"
-msgstr ""
+msgstr "Editor d'imatges GIMP"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/06_browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Aprofiteu la web al màxim"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:8
@@ -164,26 +181,30 @@ msgid ""
 "of people around the world. Designed with privacy in mind it includes "
 "enhanced security features to protect you from online threats."
 msgstr ""
+"L'Ubuntu MATE inclou el Firefox, un navegador web fàcil i segur usat per "
+"milions de persones al voltant del món. Dissenyat pensant en la privacitat, "
+"inclou característiques millorades de seguretat per protegir-vos de les "
+"amenaces en línia."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:16
 msgid "Firefox Web Browser"
-msgstr ""
+msgstr "Navegador web Firefox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:20
 msgid "Thunderbird Mail"
-msgstr ""
+msgstr "Gestor de correu Thunderbird"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:27
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/07_office.html:1
 msgid "Everything you need for the office"
-msgstr ""
+msgstr "Tot el que us cal per a l'oficina"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/07_office.html:8
@@ -192,26 +213,30 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"El LibreOffice és un paquet ofimàtic lliure amb tot el que necessiteu per "
+"crear documents, fulls de càlcul i presentacions. És compatible amb els "
+"formats de l'Office de Microsoft i ofereix totes les funcions necessàries de "
+"manera gratuïta."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_office.html:16
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "Processador de textos del LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_office.html:20
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "Full de càlcul del LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_office.html:24
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "Editor de presentacions del LibreOffice"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/08_accessibility.html:1
 msgid "Accessible for everyone"
-msgstr ""
+msgstr "Accessible per a tohom"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/08_accessibility.html:8
@@ -221,36 +246,40 @@ msgid ""
 "language, colour scheme and text size, Ubuntu MATE makes computing easy - "
 "whoever and wherever you are."
 msgstr ""
+"Al cor de la filosofia de l'Ubuntu MATE hi ha la creença que la informàtica "
+"és per a tothom. Amb eines avançades d'accessibilitat i opcions per canviar "
+"la llengua, l'esquema de color i la mida del text, l'Ubuntu MATE fa fàcil la "
+"informàtica sigueu qui sigueu i esteu on esteu."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/08_accessibility.html:12
 msgid "Customization options"
-msgstr ""
+msgstr "Opcions de personalització"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/08_accessibility.html:16
 msgid "Appearance"
-msgstr ""
+msgstr "Aparença"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/08_accessibility.html:20
 msgid "Assistive technologies"
-msgstr ""
+msgstr "Tecnologies assistives"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/08_accessibility.html:24
 msgid "Language support"
-msgstr ""
+msgstr "Suport de llengua"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/09_community.html:1
 msgid "Join the community"
-msgstr ""
+msgstr "Uniu-vos a la comunitat"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/09_community.html:8
 msgid "Discussion"
-msgstr ""
+msgstr "Discussió"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:12
@@ -258,42 +287,50 @@ msgid ""
 "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
 "Community</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Comunitat de "
+"l'Ubuntu MATE</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:16
 msgid ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+ Community</a>"
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" "
+"class=\"caption\">Google+ Community</a>"
 msgstr ""
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" "
+"class=\"caption\">Comunitat de Google+</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:20
 msgid ""
 "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC Channel</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Canal d'IRC</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/09_community.html:23
 msgid "Announcements"
-msgstr ""
+msgstr "Anuncis"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:27
 msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
+"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:31
 msgid ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
-"\">Facebook</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/09_community.html:34
 msgid "Development"
-msgstr ""
+msgstr "Desenvolupament"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:38
@@ -301,6 +338,8 @@ msgid ""
 "<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
 "Launchpad</a>"
 msgstr ""
+"<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Launchpad de "
+"l'Ubuntu MATE</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/09_community.html:42
@@ -308,3 +347,5 @@ msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
 msgstr ""
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Gestor "
+"d'informes d'error</a>"
