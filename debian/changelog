@@ -4,7 +4,12 @@ ubiquity-slideshow-ubuntu (123) UNRELEASED; urgency=medium
   * Update Lubuntu slideshow: remove mentions of Ubuntu version and update
     slides for website, Software changes. (LP: #1645564)
 
- -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Mon, 03 Apr 2017 13:37:32 -0400
+  [ Mathieu Trudel-Lapierre ]
+  * po/ubuntukylin/slideshow-ubuntukylin.pot; po/ubuntukylin/zh_CN.po: fix
+    simplified Chinese translations again: reapply the translations from
+    ShuiLu Pi that got mangled when I applied the Launchpad export.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Mon, 03 Apr 2017 13:42:18 -0400
 
 ubiquity-slideshow-ubuntu (122) zesty; urgency=medium
 
