@@ -1,28 +1,79 @@
-html, body
-{
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
 	margin:0;
 	padding:0;
-	font-family: Oxygen-Sans;
-	color:#000000;
-	background-color: #EFF0F1;
+	border:0;
+	outline:0;
+	font-size: 100%;
+	font-style:normal;
+	text-decoration:none;
+	font-weight:normal;
+	vertical-align:baseline;
+	background:transparent;
+}
+ol, ul {
+	list-style:none;
+}
+
+html, body {
+	margin:0;
+	padding:0;
+
+	background-color:#F7F6F6;
+
+	font-family: 'Droid Sans', 'Cantarell', 'Ubuntu', 'UbuntuBeta', sans-serif;
+	font-size:13px;
+	line-height:1.4em;
+
+	color:#333333;
+
+	/* no reason to expose this extra stuff to the user */
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	user-select:none;
+	cursor:default;
 }
 
 /*
 Hyperlink-style text
 */
-a
-{
-	color: #0088aa;
+a {
+	/*color:#0087ED;*/
+	color:#1d99f3;
+	text-decoration:underline;
+	display:inline;
 }
 
-#slideshow
-{
+.text a:hover {
+	text-decoration:underline;
+}
+
+strong {
+	font-weight: bolder;
+}
+
+#wrapper {
 	position:absolute;
-	
-	width: 100%;
-	height: 100%;
-	
+
+	width:752px;
+	height:100%;
+}
+
+#slideshow {
+	width:752px;
+	min-height:442px;
+	height:100%;
 	overflow:hidden;
+	/* move this to #main if we want the background image to move with slides */
+	/*background-image:url('background.jpg');*/
+	/*background-position: bottom;*/
 }
 #slideshow > div {
 	position:absolute;
@@ -30,122 +81,263 @@ a
 	height:100%;
 }
 
-#debug-controls {
-	display:none;
+.control-arrow {
+	display:block;
 	position:absolute;
-	top:440px;
-	width:700px;
-	text-align:center;
+
+	z-index:100;
+	top:378px;
+	height:64px;
+	width:33px;
+
+	background-repeat:no-repeat;
+	cursor:pointer;
 }
-#debug-controls input {
-	width:40px;
+.control-arrow.disabled {
+	cursor:default;
+}
+.control-arrow:hover {
+	background-position: 0px -65px;
+}
+.control-arrow:active {
+	background-position: 0px -130px;
+}
+.control-arrow#prev-slide {
+	background-image:url('arrow-back.png');
+	left:686px;
+}
+.control-arrow#next-slide {
+	background-image:url('arrow-next.png');
+	left:719px; /* 752px - 33px */
 }
 
-/*
-Title block is positioned at the top of a slide.
-*/
-.title
-{
+/* Fixed container for a slide's title */
+.header {
+	display:table; /* this is a bit evil, but it lets us vertically centre stuff */
 	position:absolute;
-	top:15px;
-	left:10px;
+	/* FIXME: better to use position:relative here and for #main.
+	   Need to have a specific maximum height, though,
+	   which isn't working with display:table */
+	top:0px;
+	width:100%;
+	height:68px;
+	z-index: 2;
+	background-color:#232629;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.header > .slidetitle {
+	display:table-cell;
+	padding:0px 25px;
+	vertical-align:middle;
 
 	font-size:20px;
+	line-height:50px;
 	font-weight:bold;
-	color: #0f262f;
-	border-bottom: 1px solid #3DAEE9;
-	width: 100%;
-
-	padding:0;
-	margin:0;
+	color:#F7F6F6;
+}
+.header > .slidetitle img {
+	display: block;
 }
 
-/*
-Typically an image. This is positioned at the top
-right of a slide and is given a size of 64x64 pixels.
-*/
-.icon
-{
+.main {
 	position:absolute;
-	
-	width:auto;
-	height:auto;
-	
-	bottom:10px;
-	right:10px;
-	
-	z-index:11;
-	border:0px;
-}
-
-/*
-#content expects to be contained in here. #main
-creates a nice, plain surface upon which it can
-appear :)
-*/
-.main
-{
-	position:absolute;
-	
-	top:50px;
+	top:70px; /* 68px + 2px margin */
+	bottom:0px;
 	left:0px;
-	
-	padding-right:60px;
-	
-	font-size:14px;
-	
-	z-index:12;
+	right:0px;
+	min-height:370px; /* 442px (from #slideshow) - 70px - 2px */
+	/* move this to #slideshow if we don't want the background image to move with slides */
+	/*background-image:url('background.png');*/
+}
+
+.main.big {
+	top:68px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+}
+
+.main.wide{
+	top:68px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	/*background-image:url('background.jpg');*/
 }
 
 /*
-Slide's body text goes here. It appears right below
-the title, at the top of the white area with heavy
-margins around it.
+A slide's body text goes inside here.
+Inner space is 224px wide.
 */
-.main .content
-{
-	padding-left:16px;
-	padding-right:16px;
-}
 
-.content ul
-{
-	margin-top:0px;
-	padding-left:1.8em;
-	
-	height:auto;
-	
-	overflow:auto;
-	
-	list-style-image:url("bullet-point.png");
-}
-
-.content li
-{
-	padding:0.6em;
-}
-
-.content .special
 {
 	position:absolute;
-	top:290px;
-	left:50px;
-	
-	font-weight:bold;
+	z-index:10;
+	top:55px;
+	left:30px;
+	width:248px;
+	bottom:0px;
+	min-height:314px; /* 369 - 25 - 15 (for bottom) */
+	overflow:auto;
 }
 
-.content img.inline
-{
+.text > div {
+	margin-bottom:8px;
+	padding:6px 12px;
+}
+.text > div:last-child {
+	margin-bottom:0px;
+}
+
+.text > div > .subtitle {
+	padding-bottom:2px;
+	margin-bottom:5px;
+	font-size:inherit;
+	font-weight:normal;
+	text-decoration:none;
+	border-bottom:#F7F6F6 dotted 1px;
+}
+
+.main.big > .text {
+	top:55px;
+	width:320px;
+}
+
+.main.big > .text > div {
+	background:none;
+	font-size:13px;
+	line-height:1.2em;
+	color:#F7F6F6;
+	/*text-shadow:1px 1px 1px #333333;*/
+}
+
+.main.wide > .text {
+	position:absolute;
+	z-index:10;
+	top:235px;
+	left:36px;
+	width:680px;
+	overflow:auto;
+}
+
+.main.wide > .text > div {
+	background:none;
+	font-size:inherit;
+	line-height:1.2em;
+	margin-bottom:8px;
+	padding:6px 12px;
+	background-color:#FCFCFC;
+}
+
+/* Kubuntu addons 
+ * Aaron Honeycutt <aaronhoneycutt@kubuntu.org>
+ * ahoneybun on IRC
+ */
+
+.main > .text > ul.center {
+    list-style-type:disc;
+    font-size:15px;
+    width:525px;
+    margin-left:15px;
+    padding-top:25px;
+    padding-left:15px;
+}
+
+#left-text {
+    font-size:16px;
+    text-align:left;
+    padding-top:35px;
+    padding-left:13px;
+    width:209px;
+    overflow:auto;
+}
+
+#left-text-alt {
+    font-size:16px;
+    text-align:left;
+    padding-top:35px;
+    padding-left:13px;
+    width:250px;
+    overflow:auto;
+}
+
+#right-text { 
+    font-size:16px;
+    text-align:right;
+    padding-top:65px;
+    padding-left:250px;
+    width:350px;
+    overflow:auto;
+}
+
+/* End of addons by Kubuntu */
+
+.featured ul {
+	display:table;
+}
+.featured li {
+	display:table-row;
+}
+.featured li > * {
+	padding-bottom:12px;
+}
+.featured li .icon {
+	display:table-cell;
+	width:24px;
 	height:auto;
-	width:auto;
+	padding-right:12px;
+}
+.featured li .caption {
+	display:table-cell;
+	vertical-align:middle;
+}
+
+.bigicon{
+	position: absolute;
+	bottom:0px;
+}
+
+.bigicon ul{
+	width:100%;
+}
+.bigicon li{
+	margin-right:20px;
+	float:left;
+}
+
+/* Expects screenshot to be 448x347 px */
+.main > .screenshot {
+	position:absolute;
+	top:25px;
+	right:-2px; /* offsets 2px margin of .main */
+
+	z-index:2;
+
+	/* Screenshot shadow, not in use but might be useful in future releases*/
+	/* -webkit-box-shadow:#999999 0px 0px 5px;
+	-moz-box-shadow:#999999 0px 0px 5px;
+	box-shadow:#999999 0px 0px 5px; */
+}
+
+/* Expects screenshot to be 748x370 px */
+.main.wide > .background {
+	top:0px;
+	right:0px;
+	width:100%;
+	height:auto;
+	-webkit-box-shadow:none;
+	-moz-box-shadow:none;
+	box-shadow:none;
+
+	z-index:0;
 }
 
 /*
 This rule disables drag-and-drop for images.  See bug #448703.
 */
-img
-{
- 	-webkit-user-drag: none;
+img {
+ 	-webkit-user-drag:none;
 }
 
 
@@ -154,22 +346,31 @@ img
 .rtl {
 	direction:rtl;
 }
-.rtl .title {
-	right:10px;
+
+.rtl .control-arrow#prev-slide {
+	background-image:url('arrow-next.png');
+	left:719px;
 }
-.rtl .icon {
-	left:10px;
-	right:auto;
+.rtl .control-arrow#next-slide {
+	background-image:url('arrow-back.png');
+	left:686px; /* 752px - 33px */
 }
-.rtl .main {
-	right:0px;
-	padding-right:0px;
-	padding-left:60px;
-}
-.rtl .content ul {
-	list-style-image:url("bullet-point.rtl.png");
-}
-.rtl .content .special {
-	right:50px;
+
+.rtl .main > .text {
 	left:auto;
+	right:36px;
+}
+
+.rtl .main > .screenshot {
+	right:auto;
+	left:-2px;
+}
+
+.rtl .featured li .icon {
+	padding-right:0px;
+	padding-left:12px;
+}
+
+.l10n-string {
+	display:none;
 }
