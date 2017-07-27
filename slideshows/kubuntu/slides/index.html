@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-	<title>ubiquity-slideshow-ubuntu</title>
+	<title>ubiquity-slideshow-kubuntu</title>
 	
 	<link href="link/base.css" rel="stylesheet" type="text/css" />
 	
@@ -34,25 +34,18 @@
 <body>
 
 <div id="slideshow">
-	<div><a href="01_Welcome.html" class="load"></a></div>
-	<div><a href="02_Desktop.html" class="load"></a></div>
-	<div><a href="03_Internet.html" class="load"></a></div>
-	<div><a href="04_Create.html" class="load"></a></div>
-	<div><a href="05_Multimedia.html" class="load"></a></div>
-	<div><a href="06_PIM.html" class="load"></a></div>
-	<div><a href="07_Office.html" class="load"></a></div>
-	<div><a href="08_Games.html" class="load"></a></div>
-	<div><a href="09_Accessibility.html" class="load"></a></div>
-	<div><a href="10_Discover.html" class="load"></a></div>
-	<div><a href="11_Get-Help.html" class="load"></a></div>
-	<div><a href="12_Get-Involved.html" class="load"></a></div>	
-
+	<div><a href="00_Welcome.html" class="load"></a></div>
+    <div><a href="01_Applications.html" class="load"></a></div>
+	<div><a href="02_Accessibility.html" class="load"></a></div>
+	<div><a href="03_Get-Help.html" class="load"></a></div>
+	<div><a href="04_Get-Involved.html" class="load"></a></div>
 </div>
 
-<div id="debug-controls">
-<input type="button" id="prev-slide" value="&lt;"/>
-<input type="button" id="next-slide" value="&gt;"/>
-</div>
+
+<div id="controls">
+	<a class="control-arrow" id="prev-slide" style="display:none;"></a>
+	<a class="control-arrow" id="next-slide"></a>
+	<input type="hidden" id="current-slide" />
 
 </body>
 
