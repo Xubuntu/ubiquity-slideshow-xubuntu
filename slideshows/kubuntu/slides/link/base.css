@@ -1,12 +1,12 @@
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+/*h1, h2, h3, h4, h5, h6, p, blockquote, pre,*/
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, font, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
 b, u, i, center,
-dl, dt, dd, ol, ul, li,
+/*dl, dt, dd, ol, ul, li, */
 fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td {
+caption, tbody, tfoot, thead {
 	margin:0;
 	padding:0;
 	border:0;
@@ -19,14 +19,18 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	background:transparent;
 }
 ol, ul {
-	list-style:none;
+/*	list-style:none;*/
+}
+
+p {
+    padding-bottom: 5px;
 }
 
 html, body {
 	margin:0;
 	padding:0;
 
-	background-color:#F7F6F6;
+	background-color:#fcfcfc;
 
 	font-family: 'Droid Sans', 'Cantarell', 'Ubuntu', 'UbuntuBeta', sans-serif;
 	font-size:13px;
@@ -57,6 +61,14 @@ a {
 
 strong {
 	font-weight: bolder;
+}
+
+#icon {
+	position: absolute;
+        bottom: 15px;
+        right: 45px;
+	width: 135px;
+	height: 135px;
 }
 
 #wrapper {
@@ -104,7 +116,7 @@ strong {
 }
 .control-arrow#prev-slide {
 	background-image:url('arrow-back.png');
-	left:686px;
+	left:20px;
 }
 .control-arrow#next-slide {
 	background-image:url('arrow-next.png');
@@ -134,7 +146,7 @@ strong {
 	font-size:20px;
 	line-height:50px;
 	font-weight:bold;
-	color:#F7F6F6;
+	color:#fcfcfc;
 }
 .header > .slidetitle img {
 	display: block;
@@ -149,21 +161,6 @@ strong {
 	min-height:370px; /* 442px (from #slideshow) - 70px - 2px */
 	/* move this to #slideshow if we don't want the background image to move with slides */
 	/*background-image:url('background.png');*/
-}
-
-.main.big {
-	top:68px;
-	left:0px;
-	right:0px;
-	bottom:0px;
-}
-
-.main.wide{
-	top:68px;
-	left:0px;
-	right:0px;
-	bottom:0px;
-	/*background-image:url('background.jpg');*/
 }
 
 /*
@@ -182,165 +179,12 @@ Inner space is 224px wide.
 	overflow:auto;
 }
 
-.text > div {
-	margin-bottom:8px;
-	padding:6px 12px;
-}
-.text > div:last-child {
-	margin-bottom:0px;
-}
-
-.text > div > .subtitle {
-	padding-bottom:2px;
-	margin-bottom:5px;
-	font-size:inherit;
-	font-weight:normal;
-	text-decoration:none;
-	border-bottom:#F7F6F6 dotted 1px;
-}
-
-.main.big > .text {
-	top:55px;
-	width:320px;
-}
-
-.main.big > .text > div {
-	background:none;
-	font-size:13px;
-	line-height:1.2em;
-	color:#F7F6F6;
-	/*text-shadow:1px 1px 1px #333333;*/
-}
-
-.main.wide > .text {
-	position:absolute;
-	z-index:10;
-	top:235px;
-	left:36px;
-	width:680px;
-	overflow:auto;
-}
-
-.main.wide > .text > div {
-	background:none;
-	font-size:inherit;
-	line-height:1.2em;
-	margin-bottom:8px;
-	padding:6px 12px;
-	background-color:#FCFCFC;
-}
-
-/* Kubuntu addons 
- * Aaron Honeycutt <aaronhoneycutt@kubuntu.org>
- * ahoneybun on IRC
- */
-
-.main > .text > ul.center {
-    list-style-type:disc;
-    font-size:15px;
-    width:525px;
-    margin-left:15px;
-    padding-top:25px;
-    padding-left:15px;
-}
-
-#left-text {
-    font-size:16px;
-    text-align:left;
-    padding-top:35px;
-    padding-left:13px;
-    width:209px;
-    overflow:auto;
-}
-
-#left-text-alt {
-    font-size:16px;
-    text-align:left;
-    padding-top:35px;
-    padding-left:13px;
-    width:250px;
-    overflow:auto;
-}
-
-#right-text { 
-    font-size:16px;
-    text-align:right;
-    padding-top:65px;
-    padding-left:250px;
-    width:350px;
-    overflow:auto;
-}
-
-/* End of addons by Kubuntu */
-
-.featured ul {
-	display:table;
-}
-.featured li {
-	display:table-row;
-}
-.featured li > * {
-	padding-bottom:12px;
-}
-.featured li .icon {
-	display:table-cell;
-	width:24px;
-	height:auto;
-	padding-right:12px;
-}
-.featured li .caption {
-	display:table-cell;
-	vertical-align:middle;
-}
-
-.bigicon{
-	position: absolute;
-	bottom:0px;
-}
-
-.bigicon ul{
-	width:100%;
-}
-.bigicon li{
-	margin-right:20px;
-	float:left;
-}
-
-/* Expects screenshot to be 448x347 px */
-.main > .screenshot {
-	position:absolute;
-	top:25px;
-	right:-2px; /* offsets 2px margin of .main */
-
-	z-index:2;
-
-	/* Screenshot shadow, not in use but might be useful in future releases*/
-	/* -webkit-box-shadow:#999999 0px 0px 5px;
-	-moz-box-shadow:#999999 0px 0px 5px;
-	box-shadow:#999999 0px 0px 5px; */
-}
-
-/* Expects screenshot to be 748x370 px */
-.main.wide > .background {
-	top:0px;
-	right:0px;
-	width:100%;
-	height:auto;
-	-webkit-box-shadow:none;
-	-moz-box-shadow:none;
-	box-shadow:none;
-
-	z-index:0;
-}
-
 /*
 This rule disables drag-and-drop for images.  See bug #448703.
 */
 img {
  	-webkit-user-drag:none;
 }
-
-
 
 /* RTL stuff */
 .rtl {
@@ -356,21 +200,117 @@ img {
 	left:686px; /* 752px - 33px */
 }
 
-.rtl .main > .text {
-	left:auto;
-	right:36px;
-}
-
-.rtl .main > .screenshot {
-	right:auto;
-	left:-2px;
-}
-
-.rtl .featured li .icon {
-	padding-right:0px;
-	padding-left:12px;
-}
-
 .l10n-string {
 	display:none;
 }
+
+/* Kubuntu addons
+ * Aaron Honeycutt <aaronhoneycutt@kubuntu.org>
+ * ahoneybun on IRC
+ */
+
+.main > ul.center {
+    list-style-type:none;
+    font-size:15px;
+    width:525px;
+    padding-top:25px;
+    padding-left:25px;
+}
+
+#center-text {
+    list-style-type:disc;
+    font-size:16px;
+    text-align:left;
+ /*   padding-top:25px; */
+    padding-left:25px;
+    width:445px;
+    overflow:auto;
+}
+
+#full-text {
+    list-style-type:disc;
+    font-size:16px;
+    text-align:left;
+    /*padding-top:15px;*/
+    padding-left:25px;
+    width:85%;
+    overflow:auto;
+}
+
+#left-text {
+    font-size:16px;
+    text-align:left;
+    /*padding-top:35px;*/
+    padding-left:25px;
+    width:211px;
+    overflow:auto;
+}
+
+#left-text-alt {
+    font-size:16px;
+    text-align:left;
+    padding-top:35px;
+    padding-left:13px;
+    width:380px;
+    overflow:auto;
+}
+
+#right-text {
+    font-size:16px;
+    text-align:right;
+    padding-top:65px;
+    padding-left:380px;
+    width:350px;
+    overflow:auto;
+}
+
+#screenie {
+    display:block;
+} 
+
+#double-screenie {
+    display:block;
+    padding-top:75px;
+    padding-left:300px;
+}
+
+#icon {
+    display:block;
+}
+
+.slide#welcome {
+    background-color:#fcfcfc;
+}
+
+.slide#desktop {
+    background-color:#eff0f1;
+}
+
+.box#bubble {
+    width:185px;
+    height:90px;
+    border:1px;
+    margin-left:12px;
+    margin-top:225px;
+    padding:5px;
+    background-color:#4d4d4d;
+    color:#fcfcfc;
+}
+
+.slide#accessibility {
+		background-color: #eff0f1;
+}
+
+table {
+	border-radius: 5px;
+	/*padding-top: 45px;*/
+	width: 85%;
+	margin: 0px auto;
+	float: none;
+}
+
+td {
+		text-align: center;
+		padding-bottom: 15px;
+}
+/* End of addons by Kubuntu */
