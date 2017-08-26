@@ -30,7 +30,7 @@ html, body {
 	margin:0;
 	padding:0;
 
-	background-color:#fcfcfc;
+	background-color:#eff0f1;
 
 	font-family: 'Droid Sans', 'Cantarell', 'Ubuntu', 'UbuntuBeta', sans-serif;
 	font-size:13px;
@@ -65,8 +65,8 @@ strong {
 
 #icon {
 	position: absolute;
-        bottom: 15px;
-        right: 45px;
+        bottom: -15px;
+        right: 55px;
 	width: 135px;
 	height: 135px;
 }
@@ -223,7 +223,7 @@ img {
     text-align:left;
  /*   padding-top:25px; */
     padding-left:25px;
-    width:445px;
+    width:455px;
     overflow:auto;
 }
 
@@ -278,14 +278,6 @@ img {
     display:block;
 }
 
-.slide#welcome {
-    background-color:#fcfcfc;
-}
-
-.slide#desktop {
-    background-color:#eff0f1;
-}
-
 .box#bubble {
     width:185px;
     height:90px;
@@ -295,10 +287,6 @@ img {
     padding:5px;
     background-color:#4d4d4d;
     color:#fcfcfc;
-}
-
-.slide#accessibility {
-		background-color: #eff0f1;
 }
 
 table {
