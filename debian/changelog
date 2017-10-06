@@ -1,8 +1,14 @@
 ubiquity-slideshow-ubuntu (132) UNRELEASED; urgency=medium
 
+  [ Jeremy Bicha ]
   * Drop ubiquity-slideshow-ubuntu-gnome
 
- -- Jeremy Bicha <jbicha@ubuntu.com>  Mon, 25 Sep 2017 19:14:08 -0400
+  [ Rafael Laguna (Redwolf) ]
+  * Updated Lubuntu slideshow for different apps in 17.10:
+    - Gnome-Mplayer -> Gnome MPV
+    - Flash -> Qupzilla
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Fri, 06 Oct 2017 14:39:23 -0400
 
 ubiquity-slideshow-ubuntu (131) artful; urgency=medium
 
