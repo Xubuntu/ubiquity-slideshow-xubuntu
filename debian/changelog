@@ -8,6 +8,10 @@ ubiquity-slideshow-ubuntu (132) UNRELEASED; urgency=medium
     - Gnome-Mplayer -> Gnome MPV
     - Flash -> Qupzilla
 
+  [ Liu Peng ]
+  * Fix a character rendering issue due to text size for the zh version of the
+    Ubuntu Kylin slideshow: "专" showed imcompletely. (LP: #1719813)
+
  -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Fri, 06 Oct 2017 14:39:23 -0400
 
 ubiquity-slideshow-ubuntu (131) artful; urgency=medium
