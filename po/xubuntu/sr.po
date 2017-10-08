@@ -6,16 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
 "PO-Revision-Date: 2017-03-20 19:54+0000\n"
 "Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
 "Language-Team: српски <gnome-sr@googlegroups.org>\n"
+"Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
-"Language: sr\n"
+"X-Launchpad-Export-Date: 2017-10-06 18:49+0000\n"
+"X-Generator: Launchpad (build 18474)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -28,15 +28,17 @@ msgid "Congratulations for choosing to install"
 msgstr "Честитамо, изабрали сте да инсталирате"
 
 #. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/00_welcome.html:5
+msgid "Xubuntu 17.10!"
+msgstr ""
+
+#. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:6
 msgid ""
-"If you are running this installation via the <em>Try Xubuntu</em> option, "
-"feel free to examine things as Xubuntu installs. After the installation, the "
-"desktop will look similar to how it does now."
+"If you are running the installation from the <em>Try Xubuntu</em> option, "
+"you can use the default applications while installing. You can even install "
+"new packages to try at the same time."
 msgstr ""
-"Ако сте покренули ову инсталацију путем могућности <em>Испробајте "
-"Иксубунту</em>, будите слободни да испитате ствари у току инсталације. Након "
-"инсталације, радна површ ће изгледати слично као и сада."
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/00_welcome.html:10
@@ -61,13 +63,10 @@ msgstr "Спремите се крећемо!"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_applications.html:5
 msgid ""
-"Here is a list of some applications that are preinstalled with Xubuntu for "
-"your convenience. Find them in the applications menu and install more with "
-"the package manager."
+"Here are some of the applications that we feel best suit Xubuntu and its "
+"users. Find them in the applications menu and install more with the package "
+"manager."
 msgstr ""
-"Овде је списак неких програма који су унапред инсталирани на Иксубунтуу "
-"зарад вашег задовољства. Пронађите их у изборнику програма а остале "
-"инсталирајте управником пакета."
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:8
@@ -208,25 +207,21 @@ msgstr "Подршка у стварном времену"
 #: slideshows/xubuntu/slides/04_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a "
-"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1"
-"\">clicking here</a>."
+"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
+"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
 msgstr ""
 "За живу, подршку на мрежи <em>на енглеском</em>, приступите нашем ИРЦ "
-"каналу, <em>#xubuntu</em>, тако што ћете <a "
-"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1"
-"\">притиснути овде</a>."
+"каналу, <em>#xubuntu</em>, тако што ћете <a href=\"http://webchat.freenode."
+"net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">притиснути овде</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a "
-"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
-"channels</a>."
+"For support in <em>other languages</em>, view the full list of <a href="
+"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
 msgstr ""
-"За подршку на <em>другим језицима</em>, погледајте читав списак <a "
-"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">месних канала "
-"подршке</a>."
+"За подршку на <em>другим језицима</em>, погледајте читав списак <a href="
+"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">месних канала подршке</a>."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_support-live.html:16
@@ -241,20 +236,17 @@ msgstr "Желите да допринесете?"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_contribute.html:5
 msgid ""
-"Like what you see? Like what you use? Why not join in? You don't have to be "
-"able to code – there are many different parts we need help with."
+"Ever wondered if you could help Xubuntu? You don't have to be able to code – "
+"there are many different areas we need help with."
 msgstr ""
-"Допада вам се оно што видите? Допада вам се оно што користите? Зашто нам се "
-"не придружите? Не морате знати програмирање — постоји много других огранака "
-"у којима нам је потребна помоћ."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_contribute.html:6
 msgid ""
-"To read about all of the opportunities available to you, head to the <a "
-"href=\"http://xubuntu.org/contribute/\">Get Involved</a> section of our "
-"website. This page has introductions to our various subteams as well as "
-"links to other important websites related to Xubuntu development."
+"To read about all of the opportunities available to you, head to the <a href="
+"\"http://xubuntu.org/contribute/\">Get Involved</a> section of our website. "
+"This page has introductions to our various subteams as well as links to "
+"other important websites related to Xubuntu development."
 msgstr ""
 "Да прочитате о свим могућностима које вам стоје нарасполагању, идите на "
 "одељак <a href=\"http://xubuntu.org/contribute/\">Придружите се</a> на нашој "
@@ -310,16 +302,12 @@ msgstr ""
 #: slideshows/xubuntu/slides/06_thanks.html:6
 msgid ""
 "We'd love to hear about your experiences with Xubuntu. You can share them on "
-"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-"
-"users\">Xubuntu users mailing list</a> or if you are still here, on "
-"<em>#xubuntu-offtopic</em> IRC channel where you might find people to talk "
-"with."
+"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+"\">Xubuntu users mailing list</a> or if you are still here, on <em>#xubuntu-"
+"offtopic</em> IRC channel where you might find people to talk with."
 msgstr ""
 "Желели бисмо да чујемо о вашим искуствима са Иксубунтуом. Можете да их "
 "размените на <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-"
 "users\">дописној листи корисника Иксубунтуа</a> или ако сте још увек овде, "
 "на ИРЦ каналу <em>#xubuntu-offtopic</em> на коме можете наћи људе с којима "
 "ћете разговарати."
-
-#~ msgid "Xubuntu 17.04!"
-#~ msgstr "Иксубунту 17.04 ЛТС!"

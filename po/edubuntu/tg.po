@@ -7,22 +7,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
 "PO-Revision-Date: 2013-04-17 18:39+0000\n"
 "Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
 "Language-Team: Tajik <tg@li.org>\n"
+"Language: tg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:52+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2017-10-06 18:48+0000\n"
+"X-Generator: Launchpad (build 18474)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
 msgid "Activate Accessibility"
 msgstr "Қобилияти дастрасиро фаъол кунед"
 
-#. "your" refers to a large group that includes the reader.
+#.  "your" refers to a large group that includes the reader. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:6
 msgid ""
@@ -34,8 +35,8 @@ msgstr ""
 "ҷисмонии шумо. Барои ҳамин, мо абзорҳоеро таъмин мекунем, ки Edubuntu-ро яке "
 "аз системаҳои омили аз ҳама дастраси ҷаҳон мекунанд."
 
-#. The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#. Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention.
+#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
+#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:7
 msgid ""
@@ -50,8 +51,8 @@ msgstr ""
 "талаффуз кардани матни экран фаъол кунед, ё ки зеркунии мушро густариш "
 "диҳед, то ин ки он тугмаҳои мушро ба таври худкор пахш кунад."
 
-#. As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#. Preferences > Appearance. Certain words were kept the same to make the menu item discoverable.
+#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
+#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:8
 msgid ""
@@ -102,8 +103,8 @@ msgstr "Ҳамаро ҳисоб кунед"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome "
-"Calculator</em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
+"em>."
 msgstr "Edubuntu дорои версияи охирини <em>Ҳисобкунаки Gnome</em> мебошад."
 
 #. type: Content of: <div><div><ul><li>
@@ -206,7 +207,7 @@ msgstr ""
 msgid "Get Involved"
 msgstr "Ҳамроҳ шавед"
 
-#. The string "Help and Support" should be exactly as it appears in the System menu.
+#.  The string "Help and Support" should be exactly as it appears in the System menu. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:6
 msgid ""
@@ -216,7 +217,7 @@ msgstr ""
 "Агар ба шумо кӯмак лозим бошад, фармони <em>Кӯмак ва дастгирӣ</em>-ро аз "
 "менюи \"Система\", ё аз менюи <em>Кӯмак</em> кӯшиш кунед."
 
-#. The url "edubuntu.org/support" should not be translated
+#.  The url "edubuntu.org/support" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid ""
@@ -235,15 +236,15 @@ msgstr ""
 msgid "edubuntu.org</a>"
 msgstr "edubuntu.org</a>"
 
-#. The url "edubuntu.org/community" should not be translated
+#.  The url "edubuntu.org/community" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a "
-"href=\"http://edubuntu.com/community\">"
+"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
+"community\">"
 msgstr ""
-"Дар бораи таҷрибаи худ бо Edubuntu дар <a "
-"href=\"http://edubuntu.com/community\"> ба мо бигӯед"
+"Дар бораи таҷрибаи худ бо Edubuntu дар <a href=\"http://edubuntu.com/"
+"community\"> ба мо бигӯед"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -283,14 +284,12 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:7
 msgid "Menus are created and applied using an easy to use menu editor."
-msgstr ""
-"Менюҳо тавассути муҳаррири осони менюҳо эҷод ва татбиқ карда мешаванд."
+msgstr "Менюҳо тавассути муҳаррири осони менюҳо эҷод ва татбиқ карда мешаванд."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:8
 msgid "Settings can be applied to users or groups system-wide."
-msgstr ""
-"Танзимот метавонад ба корбарон ё гурӯҳҳои система татбиқ карда шаванд."
+msgstr "Танзимот метавонад ба корбарон ё гурӯҳҳои система татбиқ карда шаванд."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/empathy.html:1
@@ -334,16 +333,14 @@ msgstr "Синфхонаи худро идора кунед"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
-msgid ""
-"<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
 msgstr ""
 "<em>Epoptes</em> ба нотиқ имконият медиҳад, ки мизҳои кории хонандагонро "
 "идора намояд."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:7
-msgid ""
-"Broadcast a desktop session to all users to demonstrate a new concept."
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 "Ҷаласаи мизи кориро ба ҳамаи корбарон паҳн кунед, то ин ки мафҳуми навро "
 "намоиш диҳед."
@@ -553,8 +550,7 @@ msgstr ""
 msgid ""
 "Create technical drawings such as building plans, interiors or mechanical "
 "parts."
-msgstr ""
-"Нақшаҳои техникӣ ба мисли нақшаҳои биноҳо, дохилҳо ё қисмҳои механикӣ."
+msgstr "Нақшаҳои техникӣ ба мисли нақшаҳои биноҳо, дохилҳо ё қисмҳои механикӣ."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:8
@@ -584,8 +580,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:8
 msgid "Rapidly deploy many diskless machines with low maintenance."
-msgstr ""
-"Компютерҳои зиёди бе дискро бо нигоҳдории паст бо зудӣ ба кор дароред."
+msgstr "Компютерҳои зиёди бе дискро бо нигоҳдории паст бо зудӣ ба кор дароред."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/pencil.html:1
@@ -704,11 +699,11 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:8
 msgid ""
-"Learn basic computer skills and unleash your creativity with "
-"<em>TuxPaint</em>."
+"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
+"em>."
 msgstr ""
-"Маҳорати асосии компютериро омӯзед ва маҳорати эҷодии худро бо "
-"<em>TuxPaint</em> кашф кунед."
+"Маҳорати асосии компютериро омӯзед ва маҳорати эҷодии худро бо <em>TuxPaint</"
+"em> кашф кунед."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:9
@@ -732,8 +727,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:7
 msgid "Linux 3.8 provides great hardware support and performance."
-msgstr ""
-"Linux 3.8 дастгирии аҷиби сахтафзор ва самаранокиро пешниҳод менамояд."
+msgstr "Linux 3.8 дастгирии аҷиби сахтафзор ва самаранокиро пешниҳод менамояд."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/underthehood.html:8
@@ -762,8 +756,7 @@ msgstr "Миқдори зиёди маълумотро ҷамъбаст куне
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/vym.html:9
 msgid "Organize your goals, future plans, events and more."
-msgstr ""
-"Мақсадҳо, нақшаҳои оянда, рӯйдодҳои худ ва ғайраро ба тартиб дароред."
+msgstr "Мақсадҳо, нақшаҳои оянда, рӯйдодҳои худ ва ғайраро ба тартиб дароред."
 
 #. type: Content of: <h1>
 #: slideshows/edubuntu/slides/welcome.html:1
@@ -773,7 +766,7 @@ msgstr "Хуш омадед"
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:7
 msgid ""
-"Thank you for installing Edubuntu 17.04.  The Edubuntu project is a "
+"Thank you for installing Edubuntu 17.10.  The Edubuntu project is a "
 "community project that aims to provide a whole-school technological platform "
 "suitable for delivering education. We are coders, educators, parents and "
 "technologists who aim to make technology easier for all."
@@ -793,5 +786,5 @@ msgstr ""
 #: slideshows/edubuntu/slides/welcome.html:15
 msgid "<b>Enjoy using Edubuntu and welcome to the Edubuntu family!</b>"
 msgstr ""
-"<b>Аз истифодабарии Edubuntu лаззат баред ва хуш омадед ба оилаи "
-"Edubuntu!</b>"
+"<b>Аз истифодабарии Edubuntu лаззат баред ва хуш омадед ба оилаи Edubuntu!</"
+"b>"

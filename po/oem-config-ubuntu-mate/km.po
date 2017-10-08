@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-24 23:23+0200\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
 "PO-Revision-Date: 2014-08-27 18:04+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,24 +21,24 @@ msgstr ""
 "X-Generator: Launchpad (build 17196)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:2
 msgid "Welcome to Ubuntu MATE"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:8
+#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:7
 msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:2
 msgid "About"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:8
+#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:7
 msgid ""
 "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
 "desktop environment. Ideal for those who want the most out of their "
@@ -47,176 +47,280 @@ msgid ""
 "and older hardware alike."
 msgstr ""
 
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:14
+msgid ""
+"For users coming from other operating systems Ubuntu MATE can adapt the user "
+"interface with one-click to something more modern or something that you "
+"might be more familar with via <strong>MATE Tweak</strong>."
+msgstr ""
+
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:1
-msgid "Find even more software"
+#: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:2
+msgid "Get up and running faster"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:7
+#: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:7
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu MATE Welcome, "
-"you can install popular applications with one click. You can also install "
-"software centres to discover even more applications for Ubuntu MATE."
+"Ubuntu MATE Welcome greets and assists new and returning users. The "
+"<strong>Getting Started</strong> wizard will guide you through the first "
+"boot post-installation setup and configuration of additional peripherals and "
+"devices and the documentation will help orientate new users. The "
+"<strong>Systems Specifications</strong> section will help you explore your "
+"hardware and offers one-click install and launch of many useful system "
+"monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
+"off point to the community."
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:11
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:11
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:12
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:12
-#: slideshows/oem-config-ubuntu-mate/slides/07_office.html:12
+#: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:18
+#: slideshows/oem-config-ubuntu-mate/slides/04_software.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:19
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:18
+#: slideshows/oem-config-ubuntu-mate/slides/11_office.html:13
 msgid "Included software"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:15
+#: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:22
 msgid "Ubuntu MATE Welcome"
 msgstr ""
 
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu-mate/slides/04_software.html:2
+msgid "Find the best software"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/04_software.html:7
+msgid ""
+"Say goodbye to searching the web for new software. There is an abundance of "
+"software available for Ubuntu MATE and some people find that choice "
+"overwhelming. The <strong>Software Boutique</strong> is a carefully curated "
+"selection of the best-in-class applications that complement Ubuntu MATE.  "
+"Experienced users can simply queue up all their favourite software for "
+"install and process it in one operation."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/04_software.html:20
+msgid "Software Boutique"
+msgstr ""
+
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:18
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:18
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:23
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:23
+#: slideshows/oem-config-ubuntu-mate/slides/04_software.html:23
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:27
+#: slideshows/oem-config-ubuntu-mate/slides/07_games.html:15
+#: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:23
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:25
 msgid "Supported software"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:22
-msgid "Ubuntu Software Center"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:26
-msgid "Synaptic Package Manager"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:30
-msgid "GDebi Package Installer"
+#: slideshows/oem-config-ubuntu-mate/slides/04_software.html:27
+msgid "Ubuntu Software"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:2
-msgid "Take your music with you"
+#: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:2
+msgid "Personalised computing"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:7
+#: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:7
 msgid ""
-"Ubuntu MATE comes with the amazing Rhythmbox music player. With advanced "
-"playback options, it's simple to queue up the perfect songs. And it works "
-"great with CDs and portable music players, so you can enjoy all your music "
-"wherever you go."
+"The default Ubuntu MATE user interface is intuitive and easy to use. But we "
+"understand people have different tastes and preferences which is why we "
+"created <strong>MATE Tweak</strong>, a tool to change the user interface to "
+"mimic other operating systems. Coming from Windows? Try <strong>Redmond</"
+"strong>.  Prefer the way macOS is layed out? Try <strong>Cupertino</"
+"strong>.  For Ubuntu Unity fans take a look at <strong>Mutiny</strong>.  Or "
+"for a hybrid user interface, try <strong>Pantheon</strong> or "
+"<strong>Comptemporary</strong>. Experienced users can customise the user "
+"interface and save their creations."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:15
-msgid "Rhythmbox Music Player"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:22
-msgid "Banshee Media Player"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:26
-msgid "VLC Media Player"
+#: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:23
+msgid "MATE Tweak"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:1
-msgid "Organise your photos"
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:8
-msgid ""
-"Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it's easy to share them and "
-"keep them safe."
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:16
-msgid "Shotwell Photo Manager"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:20
-msgid "Eye of MATE Image Viewer"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:27
-msgid "GIMP Image Editor"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:2
 msgid "Make the most of the web"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:8
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:7
 msgid ""
-"Ubuntu MATE includes Firefox, an easy and safe web browser used by millions "
-"of people around the world. Designed with privacy in mind it includes "
-"enhanced security features to protect you from online threats."
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:16
-msgid "Firefox Web Browser"
+"Ubuntu MATE includes <strong>Firefox</strong>, an easy and safe web browser "
+"used by millions of people around the world.  Designed with privacy in mind "
+"it includes enhanced security features to protect you from online threats. "
+"You'll also find <strong>Brave</strong>, <strong>Chromium</strong>, "
+"<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
+"strong> in the Software Boutique."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:20
+msgid "Firefox"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:24
 msgid "Thunderbird Mail"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:27
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:31
 msgid "Chromium"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/07_office.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/07_games.html:2
+msgid "Get your game on!"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/07_games.html:7
+msgid ""
+"Ubuntu MATE is not just about work, it's also great for play! You'll find "
+"<strong>Steam</strong> and <strong>Minecraft</strong> in the "
+"<strong>Software Boutique</strong>. We've also selected the very best open "
+"source games and stocked the Software Boutique with platformers, shoot 'em "
+"ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
+"person shooters."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/07_games.html:19
+msgid "Steam"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/07_games.html:23
+msgid "Minecraft"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:2
+msgid "Take your music with you"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:7
+msgid ""
+"Ubuntu MATE comes with the amazing Rhythmbox music player.  With advanced "
+"playback options, it's simple to queue up the perfect songs. And it works "
+"great with CDs and portable music players, so you can enjoy all your music "
+"wherever you go. If you prefer streaming services you'll find "
+"<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
+"many popular streaming services, in the <strong>Software Boutique</strong>"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:20
+msgid "Rhythmbox Music Player"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:24
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:22
+msgid "VLC"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:2
+msgid "Organise your photos"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:7
+msgid ""
+"Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
+"camera or a phone to transfer your photos, then it's easy to share them and "
+"keep them safe. For the digital photography enthusiasts and professionals "
+"the Software Boutique includes <strong>Darktable</strong> and "
+"<strong>Luminance HDR</strong> that offer virtual lightable and darkroom for "
+"RAW and HDR image workflows."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:20
+msgid "Shotwell Photo Manager"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:27
+msgid "GIMP Image Editor"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:2
+msgid "Grab some popcorn!"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:7
+msgid ""
+"Ubuntu MATE comes with <strong>Firefox</strong> pre-installed and "
+"<strong>Google Chrome</strong> is in the Software Boutique so you can watch "
+"content from your favourite streaming services such as <strong>Netflix</"
+"strong> and <strong>YouTube</strong>."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:12
+msgid ""
+"With <strong>VLC</strong> installed by default you can watch all you local "
+"video with ease and <strong>Emby</strong> media server is one-click away "
+"from the Software Boutique to create your own streaming server."
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:29
+msgid "Emby"
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu-mate/slides/11_office.html:2
 msgid "Everything you need for the office"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/07_office.html:8
+#: slideshows/oem-config-ubuntu-mate/slides/11_office.html:7
 msgid ""
 "LibreOffice is a free office suite packed with everything you need to create "
-"documents, spreadsheets and presentations. Compatible with Microsoft Office "
+"documents, spreadsheets and presentations.  Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/07_office.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/11_office.html:17
 msgid "LibreOffice Writer"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/07_office.html:20
+#: slideshows/oem-config-ubuntu-mate/slides/11_office.html:21
 msgid "LibreOffice Calc"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/07_office.html:24
+#: slideshows/oem-config-ubuntu-mate/slides/11_office.html:25
 msgid "LibreOffice Impress"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:2
 msgid "Accessible for everyone"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:8
+#: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:7
 msgid ""
 "At the heart of the Ubuntu MATE philosophy is the belief that computing is "
 "for everyone. With advanced accessibility tools and options to change "
@@ -225,87 +329,86 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:12
+#: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:13
 msgid "Customization options"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:17
 msgid "Appearance"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:20
+#: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:21
 msgid "Assistive technologies"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:24
+#: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:25
 msgid "Language support"
 msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:2
 msgid "Join the community"
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:8
-msgid "Discussion"
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:7
+msgid "Discussion & Support"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:12
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:11
 msgid ""
 "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
-"Community</a>"
+"Forum</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:15
 msgid ""
 "<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+ Community</a>"
+"\"caption\">Google+</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:20
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:19
 msgid ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC Channel</a>"
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:23
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:22
 msgid "Announcements"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:27
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:26
 msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:31
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:30
 msgid ""
 "<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
 "\">Facebook</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:34
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:33
 msgid "Development"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:38
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:37
 msgid ""
-"<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
-"Launchpad</a>"
+"<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:42
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:41
 msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"

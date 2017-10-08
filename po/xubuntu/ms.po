@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
 "PO-Revision-Date: 2016-12-19 23:05+0000\n"
 "Last-Translator: abuyop <Unknown>\n"
 "Language-Team: Malay <ms@li.org>\n"
+"Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2017-10-06 18:49+0000\n"
+"X-Generator: Launchpad (build 18474)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -28,15 +29,17 @@ msgid "Congratulations for choosing to install"
 msgstr "Tahniah kerana anda memilih pemasangan"
 
 #. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/00_welcome.html:5
+msgid "Xubuntu 17.10!"
+msgstr ""
+
+#. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:6
 msgid ""
-"If you are running this installation via the <em>Try Xubuntu</em> option, "
-"feel free to examine things as Xubuntu installs. After the installation, the "
-"desktop will look similar to how it does now."
+"If you are running the installation from the <em>Try Xubuntu</em> option, "
+"you can use the default applications while installing. You can even install "
+"new packages to try at the same time."
 msgstr ""
-"Jika anda menjalankan pemasangan ini melalui pilihan <em>Cuba Xubuntu</em>,  "
-"sila lihat apa-apa yang ada ketika Xubuntu dipasang. Selepas pemasangan, "
-"desktop akan kelihatan seperti yang anda lihat sekarang."
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/00_welcome.html:10
@@ -61,13 +64,10 @@ msgstr "Sedia!"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_applications.html:5
 msgid ""
-"Here is a list of some applications that are preinstalled with Xubuntu for "
-"your convenience. Find them in the applications menu and install more with "
-"the package manager."
+"Here are some of the applications that we feel best suit Xubuntu and its "
+"users. Find them in the applications menu and install more with the package "
+"manager."
 msgstr ""
-"Di sini terdapat beberapa aplikasi yang diprapasang dengan Xubuntu untuk "
-"kemudahan anda. Cari ia dalam menu aplikasi dan pasang lebih banyak aplikasi "
-"menerusi pengurus pakej."
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:8
@@ -92,8 +92,7 @@ msgstr "<strong>Parole</strong> <span>Pemain media</span>"
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:14
 msgid "<strong>LibreOffice Writer</strong> <span>Word processor</span>"
-msgstr ""
-"<strong>LibreOffice Writer</strong> <span>Pemprosesan perkataan</span>"
+msgstr "<strong>LibreOffice Writer</strong> <span>Pemprosesan perkataan</span>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:15
@@ -210,25 +209,23 @@ msgstr "Sokongan masa-nyata"
 #: slideshows/xubuntu/slides/04_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a "
-"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1"
-"\">clicking here</a>."
+"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
+"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
 msgstr ""
 "Untuk sokongan langsung atau atas-talian <em>dalam Bahasa Inggeris</em>, "
-"sertai saluran IRC kami, <em>#xubuntu</em>, dengan <a "
-"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1"
-"\">mengklik di sini</a>."
+"sertai saluran IRC kami, <em>#xubuntu</em>, dengan <a href=\"http://webchat."
+"freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">mengklik di sini</"
+"a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a "
-"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
-"channels</a>."
+"For support in <em>other languages</em>, view the full list of <a href="
+"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
 msgstr ""
-"Untuk sokongan dalam <em>bahasa lain</em>, sila rujuk senarai penuh <a "
-"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">saluran sokongan "
-"setempat</a>."
+"Untuk sokongan dalam <em>bahasa lain</em>, sila rujuk senarai penuh <a href="
+"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">saluran sokongan setempat</"
+"a>."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_support-live.html:16
@@ -243,20 +240,17 @@ msgstr "Mahu beri sumbangan?"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_contribute.html:5
 msgid ""
-"Like what you see? Like what you use? Why not join in? You don't have to be "
-"able to code – there are many different parts we need help with."
+"Ever wondered if you could help Xubuntu? You don't have to be able to code – "
+"there are many different areas we need help with."
 msgstr ""
-"Menyukai apa yang anda lihat dan guna? Kenapa tidak sertai kami? Anda tidak "
-"perlu tahu pengaturcaraan - masih terdapat banyak bahagian lain yang kami "
-"perlukan bantuan."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_contribute.html:6
 msgid ""
-"To read about all of the opportunities available to you, head to the <a "
-"href=\"http://xubuntu.org/contribute/\">Get Involved</a> section of our "
-"website. This page has introductions to our various subteams as well as "
-"links to other important websites related to Xubuntu development."
+"To read about all of the opportunities available to you, head to the <a href="
+"\"http://xubuntu.org/contribute/\">Get Involved</a> section of our website. "
+"This page has introductions to our various subteams as well as links to "
+"other important websites related to Xubuntu development."
 msgstr ""
 "Untuk membaca semua peluang yang terbuka luas untuk anda, pergi ke seksyen "
 "<a href=\"http://xubuntu.org/contribute/\">Melibatkan Diri</a> dalam laman "
@@ -312,17 +306,12 @@ msgstr ""
 #: slideshows/xubuntu/slides/06_thanks.html:6
 msgid ""
 "We'd love to hear about your experiences with Xubuntu. You can share them on "
-"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-"
-"users\">Xubuntu users mailing list</a> or if you are still here, on "
-"<em>#xubuntu-offtopic</em> IRC channel where you might find people to talk "
-"with."
+"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+"\">Xubuntu users mailing list</a> or if you are still here, on <em>#xubuntu-"
+"offtopic</em> IRC channel where you might find people to talk with."
 msgstr ""
 "Kami mahu mengetahui pengalaman anda menggunakan Xubuntu. Anda boleh "
-"kongsikannya di dalam <a "
-"href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users\">senarai mel "
-"pengguna Xubuntu</a> atau jika anda masih di sini, di<em>#xubuntu-"
-"offtopic</em> saluran IRC yang mana anda boleh berbual dengan sesiapa sahaja "
-"yang berada di sana."
-
-#~ msgid "Xubuntu 17.04!"
-#~ msgstr "Xubuntu 17.04!"
+"kongsikannya di dalam <a href=\"https://lists.ubuntu.com/mailman/listinfo/"
+"xubuntu-users\">senarai mel pengguna Xubuntu</a> atau jika anda masih di "
+"sini, di<em>#xubuntu-offtopic</em> saluran IRC yang mana anda boleh berbual "
+"dengan sesiapa sahaja yang berada di sana."

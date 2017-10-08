@@ -7,32 +7,35 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
 "PO-Revision-Date: 2012-04-19 15:13+0000\n"
 "Last-Translator: Roy Chan <roy.chan@linux.org.hk>\n"
 "Language-Team: Chinese (Hong Kong) <zh_HK@li.org>\n"
+"Language: zh_HK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:52+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2017-10-06 18:48+0000\n"
+"X-Generator: Launchpad (build 18474)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
 msgid "Activate Accessibility"
 msgstr ""
 
-#. "your" refers to a large group that includes the reader.
+#.  "your" refers to a large group that includes the reader. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:6
 msgid ""
 "We want to make computers work for everyone, whatever your physical "
 "circumstances. So, we provide tools that make Edubuntu one of the most "
 "accessible operating systems around."
-msgstr "我們希望任何人都可以使用電腦，而不受身體的影響。就是因為這個原因，我們提供很多工具，使 Edubuntu 成為最易使用的操作系統之一。"
+msgstr ""
+"我們希望任何人都可以使用電腦，而不受身體的影響。就是因為這個原因，我們提供很"
+"多工具，使 Edubuntu 成為最易使用的操作系統之一。"
 
-#. The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#. Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention.
+#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
+#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:7
 msgid ""
@@ -41,18 +44,21 @@ msgid ""
 "helpful tools like <em>Orca</em>, to speak text on the screen, or dwell "
 "click to press mouse buttons automatically."
 msgstr ""
-"您可以從同一個地方取得這些工具：「系統」選單「偏好設定」內的 <em>輔助科技</em>。從那裡您可以啟用實用的工具，像是 <em>Orca</em> "
-"可以朗讀畫面上的文字，或是利用替代點擊來自動按壓滑鼠按鈕。"
+"您可以從同一個地方取得這些工具：「系統」選單「偏好設定」內的 <em>輔助科技</"
+"em>。從那裡您可以啟用實用的工具，像是 <em>Orca</em> 可以朗讀畫面上的文字，或"
+"是利用替代點擊來自動按壓滑鼠按鈕。"
 
-#. As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#. Preferences > Appearance. Certain words were kept the same to make the menu item discoverable.
+#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
+#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:8
 msgid ""
 "Remember to check out the <em>Appearance Preferences</em>, too. You can "
 "choose between different visual styles and even change the fonts that are "
 "used by applications."
-msgstr "請記得也要檢視一下 <em>外觀設定</em>。您可以在那裡選擇不同的視覺風格，甚至是變更在應用程式上使用的字型。"
+msgstr ""
+"請記得也要檢視一下 <em>外觀設定</em>。您可以在那裡選擇不同的視覺風格，甚至是"
+"變更在應用程式上使用的字型。"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/arkose.html:1
@@ -70,7 +76,8 @@ msgstr "<em>Arkose</em> 允許您在密封的環境下連行應用程式。"
 msgid ""
 "You can now test downloaded software in a protected environment easily "
 "before deploying."
-msgstr "您現在可以輕易地在您正式使用前，在一個受保護的環境中測試剛下載的應用程式。"
+msgstr ""
+"您現在可以輕易地在您正式使用前，在一個受保護的環境中測試剛下載的應用程式。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:8
@@ -87,8 +94,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome "
-"Calculator</em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
+"em>."
 msgstr "Edubuntu 附帶有最新而強大的 <em>Gnome 計算機</em>。"
 
 #. type: Content of: <div><div><ul><li>
@@ -121,7 +128,9 @@ msgstr "<em>Calibre</em> 是一套用來把電子書分頖的電子圖書館系�
 msgid ""
 "It supports many formats, including MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, "
 "RTF, PDF and more."
-msgstr "它支持很多不同的格式，如 MOBI、LIT、PRC、EPUB、ODT、HTML、CBR、RTF、PDF 與其他等。"
+msgstr ""
+"它支持很多不同的格式，如 MOBI、LIT、PRC、EPUB、ODT、HTML、CBR、RTF、PDF 與其"
+"他等。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:8
@@ -152,7 +161,9 @@ msgstr "<em>LibreOffice</em> 是個強大且易於上手的辦公套裝軟件。
 msgid ""
 "<em>Firefox</em> provides a safe and easy web browsing experience with many "
 "useful add-ons available."
-msgstr "<em>Firefox</em> 提供安全而簡單的網頁瀏覽體驗，還有許多實用的附加元件可供使用。"
+msgstr ""
+"<em>Firefox</em> 提供安全而簡單的網頁瀏覽體驗，還有許多實用的附加元件可供使"
+"用。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:8
@@ -171,15 +182,17 @@ msgstr "<em>Gimp</em> 是個強大且可運行腳本的影像編輯軟件。"
 msgid "Get Involved"
 msgstr ""
 
-#. The string "Help and Support" should be exactly as it appears in the System menu.
+#.  The string "Help and Support" should be exactly as it appears in the System menu. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:6
 msgid ""
 "If you need help, try <em>Help and Support</em> from the System menu, or the "
 "<em>Help</em> menu in most applications."
-msgstr "如果您需要幫助，試一試「系統」選單內的 <em>幫助及支援</em>，或是大多數應用程式內的 <em>求助</em> 選單。"
+msgstr ""
+"如果您需要幫助，試一試「系統」選單內的 <em>幫助及支援</em>，或是大多數應用程"
+"式內的 <em>求助</em> 選單。"
 
-#. The url "edubuntu.org/support" should not be translated
+#.  The url "edubuntu.org/support" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid ""
@@ -188,22 +201,24 @@ msgid ""
 "available through Canonical, its partners and approved companies. Learn more "
 "at <a href=\"http://www.edubuntu.org/documentation\">"
 msgstr ""
-"除了我們豐富的支援文件，Edubuntu 的社群提供免費的全球技術支援。Canonical，Canonical "
-"的伙伴和其他得到授權的公司同時提供商業支援。要取得更多資訊，請瀏覽 <a "
-"href=\"http://www.edubuntu.org/documentation\">"
+"除了我們豐富的支援文件，Edubuntu 的社群提供免費的全球技術支援。Canonical，"
+"Canonical 的伙伴和其他得到授權的公司同時提供商業支援。要取得更多資訊，請瀏覽 "
+"<a href=\"http://www.edubuntu.org/documentation\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid "edubuntu.org</a>"
 msgstr "edubuntu.org</a>"
 
-#. The url "edubuntu.org/community" should not be translated
+#.  The url "edubuntu.org/community" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a "
-"href=\"http://edubuntu.com/community\">"
-msgstr "要讓我們知道您對 Edubuntu 的意見，請瀏覽 <a href=\"http://edubuntu.com/community\">"
+"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
+"community\">"
+msgstr ""
+"要讓我們知道您對 Edubuntu 的意見，請瀏覽 <a href=\"http://edubuntu.com/"
+"community\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -215,7 +230,9 @@ msgstr "edubuntu.org/community</a>"
 msgid ""
 "Thanks for viewing our slideshow, if you selected additional options, then "
 "the installation process will take a bit longer to complete."
-msgstr "感謝您留意本投影片。如果您選擇了安裝附加的功能，安裝可能還需要多一點時間來完成。"
+msgstr ""
+"感謝您留意本投影片。如果您選擇了安裝附加的功能，安裝可能還需要多一點時間來完"
+"成。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/documentation.html:11
@@ -262,7 +279,9 @@ msgstr ""
 msgid ""
 "Click the envelope near the clock to log in to your accounts. New messages "
 "appear there too, so you can see what's happening at a glance."
-msgstr "按下時間旁邊的信封來登錄到您的帳戶。新訊息也會在那兒出現。讓您對正在發生的事一目了然。"
+msgstr ""
+"按下時間旁邊的信封來登錄到您的帳戶。新訊息也會在那兒出現。讓您對正在發生的事"
+"一目了然。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:8
@@ -278,14 +297,12 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
-msgid ""
-"<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
 msgstr "<em>Epoptes</em> 容許講師操控學生的桌面。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:7
-msgid ""
-"Broadcast a desktop session to all users to demonstrate a new concept."
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr "廣播您的桌面到其他用戶的顯示屏上，讓您顯示您偉大而創新的概念。"
 
 #. type: Content of: <div><div><ul><li>
@@ -361,7 +378,8 @@ msgstr ""
 msgid ""
 "Edubuntu ships with <em>gbrainy</em>, a platform to train memory, "
 "arithmetical and logical capabilities."
-msgstr "Edubuntu 附有<em>gbrainy</em>，一套用來訓練記憶力，數學計算和邏輯才能的平台。"
+msgstr ""
+"Edubuntu 附有<em>gbrainy</em>，一套用來訓練記憶力，數學計算和邏輯才能的平台。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:7
@@ -391,7 +409,9 @@ msgstr ""
 msgid ""
 "Need more software? Try the <em>Ubuntu Software Center</em> to choose from "
 "thousands of extras you can download for free."
-msgstr "需要更多軟件嗎？試試<em>Ubuntu 軟件中心</em>，您可以從該中心選擇成千上萬個可下載的免費軟件。"
+msgstr ""
+"需要更多軟件嗎？試試<em>Ubuntu 軟件中心</em>，您可以從該中心選擇成千上萬個可"
+"下載的免費軟件。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:7
@@ -400,15 +420,17 @@ msgid ""
 "to creating music and exploring the universe. Take a look at the "
 "<em>Featured Applications</em> section for some of our favorites!"
 msgstr ""
-"那裹有很多強大的應用程式，它們可以符合您不同的興趣，由程式設定到音樂製作，甚至是星際瀏覽。看看 "
-"<em>推薦的應用程式</em>，那兒有一些我們推薦的應用程式。"
+"那裹有很多強大的應用程式，它們可以符合您不同的興趣，由程式設定到音樂製作，甚"
+"至是星際瀏覽。看看 <em>推薦的應用程式</em>，那兒有一些我們推薦的應用程式。"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:8
 msgid ""
 "Everything in Software Center is stored in our online repository. We are "
 "careful to keep it safe and updates will be delivered directly to you."
-msgstr "軟件中心內的每種程式都儲存在我們的線上套件庫。我們謹慎地讓它保持安全，並將更新直接發送給您。"
+msgstr ""
+"軟件中心內的每種程式都儲存在我們的線上套件庫。我們謹慎地讓它保持安全，並將更"
+"新直接發送給您。"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
@@ -589,8 +611,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:8
 msgid ""
-"Learn basic computer skills and unleash your creativity with "
-"<em>TuxPaint</em>."
+"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
+"em>."
 msgstr "利用 <em>TuxPaint</em>，學習基本的電腦知識，並解放您的創意。"
 
 #. type: Content of: <div><div><ul><li>
@@ -648,7 +670,7 @@ msgstr "歡迎"
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:7
 msgid ""
-"Thank you for installing Edubuntu 17.04.  The Edubuntu project is a "
+"Thank you for installing Edubuntu 17.10.  The Edubuntu project is a "
 "community project that aims to provide a whole-school technological platform "
 "suitable for delivering education. We are coders, educators, parents and "
 "technologists who aim to make technology easier for all."

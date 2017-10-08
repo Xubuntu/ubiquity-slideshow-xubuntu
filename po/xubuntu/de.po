@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2016-09-15 21:14+0000\n"
-"Last-Translator: Tobias Bannert <tobannert@gmail.com>\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"PO-Revision-Date: 2017-04-03 18:37+0000\n"
+"Last-Translator: schuko24 <gerdsaenger@t-online.de>\n"
 "Language-Team: German <de@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
-"Language: de\n"
+"X-Launchpad-Export-Date: 2017-10-06 18:49+0000\n"
+"X-Generator: Launchpad (build 18474)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/00_welcome.html:2
@@ -29,16 +29,17 @@ msgid "Congratulations for choosing to install"
 msgstr "Glückwunsch, Sie haben"
 
 #. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/00_welcome.html:5
+msgid "Xubuntu 17.10!"
+msgstr ""
+
+#. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/00_welcome.html:6
 msgid ""
-"If you are running this installation via the <em>Try Xubuntu</em> option, "
-"feel free to examine things as Xubuntu installs. After the installation, the "
-"desktop will look similar to how it does now."
+"If you are running the installation from the <em>Try Xubuntu</em> option, "
+"you can use the default applications while installing. You can even install "
+"new packages to try at the same time."
 msgstr ""
-"Falls Sie diese Installation mittels der <em>Xubuntu-ausprobieren</em>-"
-"Option ausführen, können Sie Xubuntu während der Installation weiter "
-"ausprobieren. Nach der Installation wird der Schreibtisch ähnlich aussehen "
-"wie jetzt."
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/00_welcome.html:10
@@ -63,13 +64,10 @@ msgstr "Fertig um loszulegen!"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_applications.html:5
 msgid ""
-"Here is a list of some applications that are preinstalled with Xubuntu for "
-"your convenience. Find them in the applications menu and install more with "
-"the package manager."
+"Here are some of the applications that we feel best suit Xubuntu and its "
+"users. Find them in the applications menu and install more with the package "
+"manager."
 msgstr ""
-"Hier ist eine Liste von ein paar der Anwendungen, die bei Xubuntu zur "
-"Einfachheit vorinstalliert sind. Sie können diese im Anwendungsmenü finden "
-"und weitere mit der Paketverwaltung installieren."
 
 #. type: Content of: <div><div><div>
 #: slideshows/xubuntu/slides/01_applications.html:8
@@ -184,9 +182,9 @@ msgid ""
 msgstr ""
 "Die <em>offizielle Dokumentation</em>, welche viele der häufigsten "
 "Themengebiete und Fragen über Xubuntu abdeckt, wird mit jeder Version von "
-"Xubuntu ausgeliefert. Sie finden sie unter <strong>Menü &rsaquo; "
-"Hilfe</strong>. Die Dokumentation ist auch im <a "
-"href=\"http://docs.xubuntu.org/\">Netz</a> verfügbar."
+"Xubuntu ausgeliefert. Sie finden sie unter <strong>Menü &rsaquo; Hilfe</"
+"strong>. Die Dokumentation ist auch im <a href=\"http://docs.xubuntu.org/"
+"\">Netz</a> verfügbar."
 
 #. type: Content of: <div><div><h2>
 #: slideshows/xubuntu/slides/03_support.html:6
@@ -200,9 +198,8 @@ msgid ""
 "<a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
 "Xubuntu website."
 msgstr ""
-"Sie haben weitere Fragen? Weitere Hilfe finden Sie im Abschnitt <a "
-"href=\"http://xubuntu.org/help\">Help & Support</a> auf der Xubuntu-"
-"Internetseite."
+"Sie haben weitere Fragen? Weitere Hilfe finden Sie im Abschnitt <a href="
+"\"http://xubuntu.org/help\">Help & Support</a> auf der Xubuntu-Internetseite."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/04_support-live.html:2
@@ -213,26 +210,22 @@ msgstr "Echtzeitunterstützung"
 #: slideshows/xubuntu/slides/04_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a "
-"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1"
-"\">clicking here</a>."
+"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
+"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
 msgstr ""
 "Für direkte Internetunterstützung <em>auf Englisch</em>, bitte unseren IRC-"
-"Kanal, <em>#xubuntu</em>, betreten, indem Sie <a "
-"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1"
-"\">hier klicken</a>."
+"Kanal, <em>#xubuntu</em>, betreten, indem Sie <a href=\"http://webchat."
+"freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">hier klicken</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/04_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a "
-"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
-"channels</a>."
+"For support in <em>other languages</em>, view the full list of <a href="
+"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
 msgstr ""
 "Für Unterstützung in <em>anderen Sprachen</em>, bitte in der vollständigen "
-"Liste der <a "
-"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">regionalen "
-"Unterstützungskanäle </a> nachsehen."
+"Liste der <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local"
+"\">regionalen Unterstützungskanäle </a> nachsehen."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_support-live.html:16
@@ -247,20 +240,17 @@ msgstr "Möchten Sie etwas beitragen?"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_contribute.html:5
 msgid ""
-"Like what you see? Like what you use? Why not join in? You don't have to be "
-"able to code – there are many different parts we need help with."
+"Ever wondered if you could help Xubuntu? You don't have to be able to code – "
+"there are many different areas we need help with."
 msgstr ""
-"Mögen Sie, was Sie sehen? Mögen Sie, was sie benutzen? Warum helfen Sie "
-"nicht mit? Sie müssen nicht programmieren können – es gibt viele "
-"verschiedene Sachen, bei denen wir Hilfe benötigen."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/05_contribute.html:6
 msgid ""
-"To read about all of the opportunities available to you, head to the <a "
-"href=\"http://xubuntu.org/contribute/\">Get Involved</a> section of our "
-"website. This page has introductions to our various subteams as well as "
-"links to other important websites related to Xubuntu development."
+"To read about all of the opportunities available to you, head to the <a href="
+"\"http://xubuntu.org/contribute/\">Get Involved</a> section of our website. "
+"This page has introductions to our various subteams as well as links to "
+"other important websites related to Xubuntu development."
 msgstr ""
 "Um alles über die verfügbaren Möglichkeiten zu lesen, bitte zum Bereich <a "
 "href=\"http://xubuntu.org/contribute/\">Mitmachen</a> auf unserer "
@@ -317,16 +307,12 @@ msgstr ""
 #: slideshows/xubuntu/slides/06_thanks.html:6
 msgid ""
 "We'd love to hear about your experiences with Xubuntu. You can share them on "
-"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-"
-"users\">Xubuntu users mailing list</a> or if you are still here, on "
-"<em>#xubuntu-offtopic</em> IRC channel where you might find people to talk "
-"with."
+"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+"\">Xubuntu users mailing list</a> or if you are still here, on <em>#xubuntu-"
+"offtopic</em> IRC channel where you might find people to talk with."
 msgstr ""
 "Wir würden liebend gern von Ihren Erfahrungen mit Xubuntu hören. Sie können "
-"sie auf der <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-"
-"users\">Verteilerliste der Xubuntu-Benutzer</a> (englischsprachig) teilen, "
-"oder im IRC-Kanal <em>#xubuntu-offtopic</em>, wo Sie auch einfach nur Leute "
-"zum Reden finden können."
-
-#~ msgid "Xubuntu 17.04!"
-#~ msgstr "Xubuntu 17.04 zur Installation ausgewählt!"
+"sie auf der <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+"\">Verteilerliste der Xubuntu-Benutzer</a> (englischsprachig) teilen, oder "
+"im IRC-Kanal <em>#xubuntu-offtopic</em>, wo Sie auch einfach nur Leute zum "
+"Reden finden können."

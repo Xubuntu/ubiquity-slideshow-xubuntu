@@ -7,16 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2016-10-14 13:41+0000\n"
-"Last-Translator: Tobias Bannert <tobannert@gmail.com>\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"PO-Revision-Date: 2017-09-10 18:11+0000\n"
+"Last-Translator: schuko24 <gerdsaenger@t-online.de>\n"
 "Language-Team: German <de@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
-"Language: de\n"
+"X-Launchpad-Export-Date: 2017-10-06 18:49+0000\n"
+"X-Generator: Launchpad (build 18474)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/00_welcome.html:1
+msgid "Welcome to Lubuntu"
+msgstr "Willkommen bei Lubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/00_welcome.html:8
@@ -199,24 +204,24 @@ msgid "Empathy"
 msgstr "Empathy"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/06_lsc.html:1
+#: slideshows/lubuntu/slides/06_software.html:1
 msgid "Download software with ease"
 msgstr "Anwendungen mit Leichtigkeit herunterladen"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/06_lsc.html:8
+#: slideshows/lubuntu/slides/06_software.html:8
 msgid ""
 "With Lubuntu, you have access to the whole Ubuntu repository and all the "
 "software included. This means that thousands of new applications are ready "
-"for your computer, free of charge. Use the <em>Lubuntu Software Center</em> "
+"for your computer, free of charge. Use the revamped <em>Software</em> app "
 "and explore categories such as games, science and education, or search for "
 "your favorite software."
 msgstr ""
-"Mit Lubuntu haben Sie Zugang zu allen Ubuntu-Paketquellen mit allen "
-"enthaltenen Anwendungen. Das bedeutet, dass tausende von neuen Anwendung "
-"kostenlos für Ihren Rechner bereitstehen. Benutzen Sie das <em>Lubuntu "
-"Software-Center</em> und durchsuchen Sie die Kategorien wie Spiele, "
-"Wissenschaft und Ausbildung, oder suchen Sie nach Ihren Lieblingsanwendungen."
+"Mit Lubuntu haben Sie Zugriff auf das gesamte Ubuntu Programmverzeichnis. "
+"Dies bedeutet, dass tausende neuer Anwendungen für Ihren Computer "
+"bereitstehen, kostenlos. Nutzen Sie die neue <em>Software</em> Anwendung und "
+"durchsuchen Sie Kategorien wie Spiele, Wissenschaft und Bildung, oder suchen "
+"Sie nach Ihrem Lieblingsprogramm."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/07_help.html:1
@@ -229,15 +234,14 @@ msgid ""
 "One of the biggest advantages with Lubuntu is the wonderful community that "
 "comes with it. Other users will gladly help you out if you encounter "
 "problems. There are many different ways to get help, the easiest way is to "
-"visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
+"visit our <a href=\"http://lubuntu.me/\">website</a>, as we've gathered all "
 "the information you need."
 msgstr ""
-"Einer der größten Vorteile von Lubuntu ist die wundervolle Gemeinschaft, die "
-"dazugehört. Andere Benutzer werden Ihnen freundlich helfen, wenn Sie "
-"Probleme feststellen sollten. Es gibt viele verschiedene Möglichkeiten, "
-"Hilfe zu erhalten, am einfachsten ist es, unsere <a "
-"href=\"http://lubuntu.net/\">Webseite</a> zu besuchen, wo wir alle "
-"Informationen gesammelt haben, die Sie brauchen."
+"Einer der größten Vorteile von Lubuntu ist die wunderbare Gemeinschaft. "
+"Andere Nutzer werden Ihnen gern helfen, falls Sie auf Probleme stoßen. Es "
+"gibt viele verschiedene Arten, Hilfe zu erhalten. Der einfachste Weg ist der "
+"Besuch unserer Webseite  <a href=\"http://lubuntu.me/\">website</a>. Dort "
+"sind alle nötigen Informationen für Sie zusammengetragen."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/08_thanks.html:1
@@ -250,13 +254,10 @@ msgid ""
 "The installation will finish soon. We hope you will enjoy Lubuntu and all "
 "the freedom that comes with it.  If you wish to help us improve Lubuntu, "
 "either by giving us feedback or by getting involved in the project, please "
-"visit our <a href=\"http://lubuntu.net/\">website</a>."
+"visit our <a href=\"http://lubuntu.me/\">website</a>."
 msgstr ""
-"Die Installation wird bald abgeschlossen sein. Wir hoffen, dass Sie Lubuntu "
-"und die gesamte Freiheit, die dazu gehört, genießen werden. Wenn Sie uns "
-"dabei helfen wollen, Lubuntu zu verbessern, entweder indem Sie uns Ihre "
-"Rückmeldung geben oder indem Sie sich am Projekt beteiligen, dann besuchen "
-"Sie unsere <a href=\"http://lubuntu.net/\">Webseite</a>."
-
-#~ msgid "Welcome to Lubuntu 17.04"
-#~ msgstr "Willkommen bei Lubuntu 17.04"
+"Die Installation ist in Kürze abgeschlossen. Wir wünschen Ihnen viel Freude "
+"mit Lubuntu und der ganzen Freiheit, die damit verbunden ist.  Falls Sie uns "
+"bei der Verbesserung von Lubuntu helfen möchten, entweder durch "
+"Rückmeldungen oder durch Mithilfe im Projekt, dann besuchen Sie unsere <a "
+"href=\"http://lubuntu.me/\">Website</a>."

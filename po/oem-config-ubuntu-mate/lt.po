@@ -7,23 +7,24 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2016-04-27 21:05+0000\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"PO-Revision-Date: 2017-08-29 18:38+0000\n"
 "Last-Translator: Moo <hazap@hotmail.com>\n"
 "Language-Team: Lithuanian <lt@li.org>\n"
+"Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:52+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2017-10-06 18:48+0000\n"
+"X-Generator: Launchpad (build 18474)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:2
 msgid "Welcome to Ubuntu MATE"
-msgstr "Sveiki atvykę į Ubuntu MATE"
+msgstr "Sveikiname paleidus Ubuntu MATE"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:8
+#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:7
 msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
@@ -32,12 +33,12 @@ msgstr ""
 "integruoja MATE darbalaukį."
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:2
 msgid "About"
 msgstr "Apie"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:8
+#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:7
 msgid ""
 "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
 "desktop environment. Ideal for those who want the most out of their "
@@ -52,197 +53,348 @@ msgstr ""
 "šiuolaikiniams staliniams bei nešiojamiesiems kompiuteriams, vienplokščiams "
 "kompiuteriams, o taip pat senesnei aparatinei įrangai."
 
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:14
+msgid ""
+"For users coming from other operating systems Ubuntu MATE can adapt the user "
+"interface with one-click to something more modern or something that you "
+"might be more familar with via <strong>MATE Tweak</strong>."
+msgstr ""
+"Naudojant <strong>MATE papildomus nustatymus</strong>, Ubuntu MATE iš kitų "
+"operacinių sistemų atvykusiems naudotojams gali vienu spustelėjimu "
+"pritaikyti sąsają į labiau šiuolaikinę arba labiau jiems pažįstamą."
+
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:1
-msgid "Find even more software"
-msgstr "Raskite dar daugiau programinės įrangos"
+#: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:2
+msgid "Get up and running faster"
+msgstr "Tapkite pasiruošę darbui greičiau"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:7
+#: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:7
 msgid ""
-"Say goodbye to searching the web for new software. With Ubuntu MATE Welcome, "
-"you can install popular applications with one click. You can also install "
-"software centres to discover even more applications for Ubuntu MATE."
+"Ubuntu MATE Welcome greets and assists new and returning users. The "
+"<strong>Getting Started</strong> wizard will guide you through the first "
+"boot post-installation setup and configuration of additional peripherals and "
+"devices and the documentation will help orientate new users. The "
+"<strong>Systems Specifications</strong> section will help you explore your "
+"hardware and offers one-click install and launch of many useful system "
+"monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
+"off point to the community."
 msgstr ""
-"Atsisveikinkite su naujos programinės įrangos paieškomis internete. "
-"Naudodami Ubuntu MATE, jūs galite vienu spustelėjimu įdiegti populiarias "
-"programas. Be to, jūs taip pat galite įdiegti programinių įrangų centrus, "
-"kad atrastumėte dar daugiau Ubuntu MATE sistemai skirtų programų."
+"Ubuntu MATE programa \"Sveiki\" sutinka naujus bei sugrįžtančius naudotojus "
+"ir jiems padeda. <strong>Darbo pradžios</strong> vediklis lydės jus per "
+"įdiegtos sistemos pirmojo paleidimo sąranką ir papildomų išorinių įrenginių "
+"konfigūravimą, o dokumentacija padės nukreipti naujus naudotojus. "
+"<strong>Sistemos specifikacijų</strong> sekcija padės ištirti savo aparatinę "
+"įrangą ir pasiūlys vienu spustelėjimu įdiegti ir paleisti daugelį naudingų "
+"sistemos stebėjimo įrankių. Prireikus palaikymo, Ubuntu MATE programa "
+"\"Sveiki\" yra pirmas kelrodis į bendruomenę."
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:11
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:11
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:12
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:12
-#: slideshows/oem-config-ubuntu-mate/slides/07_office.html:12
+#: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:18
+#: slideshows/oem-config-ubuntu-mate/slides/04_software.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:19
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:18
+#: slideshows/oem-config-ubuntu-mate/slides/11_office.html:13
 msgid "Included software"
 msgstr "Įtraukta programinė įranga"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:15
+#: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:22
 msgid "Ubuntu MATE Welcome"
-msgstr "Ubuntu MATE programa Sveiki"
+msgstr "Ubuntu MATE programa \"Sveiki\""
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu-mate/slides/04_software.html:2
+msgid "Find the best software"
+msgstr "Raskite geriausią programinę įrangą"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/04_software.html:7
+msgid ""
+"Say goodbye to searching the web for new software. There is an abundance of "
+"software available for Ubuntu MATE and some people find that choice "
+"overwhelming. The <strong>Software Boutique</strong> is a carefully curated "
+"selection of the best-in-class applications that complement Ubuntu MATE.  "
+"Experienced users can simply queue up all their favourite software for "
+"install and process it in one operation."
+msgstr ""
+"Atsisveikinkite su naujos programinės įrangos paieškomis internete. Ubuntu "
+"MATE yra prieinama daugybė programinės įrangos ir kai kuriems žmonėms toks "
+"pasirinkimas yra pribloškiantis. <strong>Programinės įrangos butikas</"
+"strong> yra kruopščiai kuruojamas geriausios klasės programų, papildančių "
+"Ubuntu MATE, pasirinkimas.  Patyrę naudotojai gali, tiesiog, pastatyti savo "
+"mėgstamą programinę įrangą į įdiegimo eilę ir apdoroti tai vienoje "
+"operacijoje."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/04_software.html:20
+msgid "Software Boutique"
+msgstr "Programinės įrangos butikas"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:18
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:18
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:23
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:23
+#: slideshows/oem-config-ubuntu-mate/slides/04_software.html:23
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:27
+#: slideshows/oem-config-ubuntu-mate/slides/07_games.html:15
+#: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:23
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:25
 msgid "Supported software"
 msgstr "Palaikoma programinė įranga"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:22
-msgid "Ubuntu Software Center"
-msgstr "Ubuntu programinės įrangos centras"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:26
-msgid "Synaptic Package Manager"
-msgstr "Synaptic paketų tvarkytuvė"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/03_welcome.html:30
-msgid "GDebi Package Installer"
-msgstr "GDebi paketų diegimo programa"
+#: slideshows/oem-config-ubuntu-mate/slides/04_software.html:27
+msgid "Ubuntu Software"
+msgstr "Ubuntu programinė įranga"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:2
-msgid "Take your music with you"
-msgstr "Pasiimkite savo muziką kartu su savimi"
+#: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:2
+msgid "Personalised computing"
+msgstr "Asmeninis naudojimasis kompiuteriu"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:7
+#: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:7
 msgid ""
-"Ubuntu MATE comes with the amazing Rhythmbox music player. With advanced "
-"playback options, it's simple to queue up the perfect songs. And it works "
-"great with CDs and portable music players, so you can enjoy all your music "
-"wherever you go."
+"The default Ubuntu MATE user interface is intuitive and easy to use. But we "
+"understand people have different tastes and preferences which is why we "
+"created <strong>MATE Tweak</strong>, a tool to change the user interface to "
+"mimic other operating systems. Coming from Windows? Try <strong>Redmond</"
+"strong>.  Prefer the way macOS is layed out? Try <strong>Cupertino</"
+"strong>.  For Ubuntu Unity fans take a look at <strong>Mutiny</strong>.  Or "
+"for a hybrid user interface, try <strong>Pantheon</strong> or "
+"<strong>Comptemporary</strong>. Experienced users can customise the user "
+"interface and save their creations."
 msgstr ""
-"Kartu su Ubuntu MATE yra pateikiamas nuostabus Rhythmbox muzikos grotuvas. "
-"Išplėstinių muzikos atkūrimo parinkčių dėka, yra paprasta sudaryti "
-"mėgiamiausių dainų eilę. Tai taip pat gerai veikia su CD diskais ir "
-"nešiojamaisiais muzikos grotuvais, taigi, galite mėgautis savo muzika visur, "
-"kur beeitumėte."
+"Numatytoji Ubuntu MATE naudotojo sąsaja yra intuityvi ir lengva naudoti. "
+"Tačiau mes suprantame, kad žmonės turi skirtingus skonius ir nuostatas, štai "
+"kodėl mes sukūrėme <strong>MATE papildomus nustatymus</strong> - įrankį, "
+"skirtą keisti naudotojo sąsają, siekiant pamėgdžioti kitas operacines "
+"sistemas. Perėjote iš Windows? Išbandykite <strong>Redmond</strong>.  "
+"Teikiate pirmenybę macOS išdėstymui? Išbandykite <strong>Cupertino</"
+"strong>.  Ubuntu Unity fanai gali užmesti akį į <strong>Mutiny</strong>.  "
+"Arba hibridinei naudotojo sąsajai išbandykite <strong>Pantheon</strong> ar "
+"<strong>Comptemporary</strong>. Patyrę naudotojai gali tinkinti naudotojo "
+"sąsają ir įsirašyti savo kūrinius."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:15
-msgid "Rhythmbox Music Player"
-msgstr "Rhythmbox muzikos grotuvas"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:22
-msgid "Banshee Media Player"
-msgstr "Medijos leistuvas „Banshee“"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/04_music.html:26
-msgid "VLC Media Player"
-msgstr "VLC leistuvė"
+#: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:23
+msgid "MATE Tweak"
+msgstr "MATE papildomi nustatymai"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:1
-msgid "Organise your photos"
-msgstr "Tvarkykite savo nuotraukas"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:8
-msgid ""
-"Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
-"camera or a phone to transfer your photos, then it's easy to share them and "
-"keep them safe."
-msgstr ""
-"Shotwell yra patogi skaitmeninių nuotraukų tvarkymo programa, paruošta "
-"naudojimui su jūsų prietaisais. Prijunkite fotoaparatą ar telefoną, kad "
-"perkeltumėte savo nuotraukas, o tuomet lengvai jas bendrinkite ir saugiai "
-"laikykite."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:16
-msgid "Shotwell Photo Manager"
-msgstr "Shotwell nuotraukų tvarkymo programa"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:20
-msgid "Eye of MATE Image Viewer"
-msgstr "Eye of MATE paveikslų peržiūros programa"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/05_photos.html:27
-msgid "GIMP Image Editor"
-msgstr "GIMP paveikslėlių manipuliavimo programa"
-
-#. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:2
 msgid "Make the most of the web"
 msgstr "Išnaudokite visas interneto galimybes"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:8
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:7
 msgid ""
-"Ubuntu MATE includes Firefox, an easy and safe web browser used by millions "
-"of people around the world. Designed with privacy in mind it includes "
-"enhanced security features to protect you from online threats."
+"Ubuntu MATE includes <strong>Firefox</strong>, an easy and safe web browser "
+"used by millions of people around the world.  Designed with privacy in mind "
+"it includes enhanced security features to protect you from online threats. "
+"You'll also find <strong>Brave</strong>, <strong>Chromium</strong>, "
+"<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
+"strong> in the Software Boutique."
 msgstr ""
-"Ubuntu MATE pateikiama kartu su Firefox, paprasta ir saugia interneto "
-"naršykle, kurią naudoja milijonai žmonių visame pasaulyje. Ši naršyklė "
-"sukurta, galvojant apie privatumą, taigi joje yra sustiprintos saugumo "
-"ypatybės, skirtos apsaugoti jus nuo internetinių grėsmių."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:16
-msgid "Firefox Web Browser"
-msgstr "Firefox interneto naršyklė"
+"Ubuntu MATE pateikia <strong>Firefox</strong> - milijonų žmonių visame "
+"pasaulyje naudojamą, lengvą ir saugią saityno naršyklę.  Ši naršyklė sukurta "
+"galvojant apie privatumą, todėl joje yra patobulintos saugumo ypatybės, "
+"skirtos apsaugoti jus nuo grėsmių internete. Programinės įrangos butike taip "
+"pat rasite <strong>Brave</strong>, <strong>Chromium</strong>, <strong>Google "
+"Chrome</strong>, <strong>Opera</strong> ir <strong>Vivaldi</strong> "
+"naršykles."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:20
+msgid "Firefox"
+msgstr "Firefox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:24
 msgid "Thunderbird Mail"
 msgstr "Thunderbird pašto programa"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:27
+#: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:31
 msgid "Chromium"
-msgstr "Chromium"
+msgstr "Chromium naršyklė"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/07_office.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/07_games.html:2
+msgid "Get your game on!"
+msgstr "Pasirinkite savo žaidimą!"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/07_games.html:7
+msgid ""
+"Ubuntu MATE is not just about work, it's also great for play! You'll find "
+"<strong>Steam</strong> and <strong>Minecraft</strong> in the "
+"<strong>Software Boutique</strong>. We've also selected the very best open "
+"source games and stocked the Software Boutique with platformers, shoot 'em "
+"ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
+"person shooters."
+msgstr ""
+"Ubuntu MATE nėra skirta tik darbui, ji puikiai tinka ir žaidimams! "
+"<strong>Programinės įrangos butike</strong> rasite <strong>Steam</strong> ir "
+"<strong>Minecraft</strong>. Mes taip pat atrinkome pačius geriausius "
+"atvirojo kodo žaidimus ir pripildėme Programinės įrangos butiką platformų ir "
+"lenktynių žaidimais, šaudyklėmis, skrydžių imitatoriais, galvosūkiais ir "
+"paeiliui žaidžiamais strateginiais žaidimais."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/07_games.html:19
+msgid "Steam"
+msgstr "Steam"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/07_games.html:23
+msgid "Minecraft"
+msgstr "Minecraft"
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:2
+msgid "Take your music with you"
+msgstr "Pasiimkite savo muziką su savimi"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:7
+msgid ""
+"Ubuntu MATE comes with the amazing Rhythmbox music player.  With advanced "
+"playback options, it's simple to queue up the perfect songs. And it works "
+"great with CDs and portable music players, so you can enjoy all your music "
+"wherever you go. If you prefer streaming services you'll find "
+"<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
+"many popular streaming services, in the <strong>Software Boutique</strong>"
+msgstr ""
+"Ubuntu MATE pateikiama kartu su nuostabiu Rhythmbox muzikos grotuvu.  Esant "
+"išplėstiniams atkūrimo parametrams, yra lengva iš eilės klausytis tobulų "
+"dainų. Be to, šis grotuvas puikiai veikia ir su CD diskais bei perkeliamais "
+"muzikos grotuvais, taigi, galite mėgautis savo muzika visur, kur bebūtumėte. "
+"Jei teikiate pirmenybę transliavimo paslaugoms, tuomet <strong>Programinės "
+"įrangos butike</strong> rasite <strong>Spotify</strong> ir <strong>Nuvola "
+"grotuvą</strong>, kurie savo ruožtu palaiko daugybę populiarių transliavimo "
+"paslaugų"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:20
+msgid "Rhythmbox Music Player"
+msgstr "Rhythmbox muzikos grotuvas"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:24
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:22
+msgid "VLC"
+msgstr "VLC"
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:2
+msgid "Organise your photos"
+msgstr "Tvarkykite savo nuotraukas"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:7
+msgid ""
+"Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
+"camera or a phone to transfer your photos, then it's easy to share them and "
+"keep them safe. For the digital photography enthusiasts and professionals "
+"the Software Boutique includes <strong>Darktable</strong> and "
+"<strong>Luminance HDR</strong> that offer virtual lightable and darkroom for "
+"RAW and HDR image workflows."
+msgstr ""
+"Shotwell yra patogi nuotraukų tvarkytuvė jūsų prietaisams. Prijunkite kamerą "
+"ar telefoną ir perkelkite savo nuotraukas, o tuomet, galite lengvai jas "
+"bendrinti ir laikyti saugioje vietoje. Skaitmeninės fotografijos "
+"entuziastams ir profesionalams į Programinės įrangos butiką yra įtrauktos "
+"programos <strong>Darktable</strong> ir <strong>Luminance HDR</strong>, "
+"siūlančios virtualią šviesos lentelę ir tamsų kambariuką, skirtą darbo eigai "
+"su RAW ir HDR paveikslais."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:20
+msgid "Shotwell Photo Manager"
+msgstr "Nuotraukų tvarkymo programa „Shotwell“"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:27
+msgid "GIMP Image Editor"
+msgstr "Paveikslėlių, nuotraukų redagavimas - GIMP"
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:2
+msgid "Grab some popcorn!"
+msgstr "Atsineškite spragėsių!"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:7
+msgid ""
+"Ubuntu MATE comes with <strong>Firefox</strong> pre-installed and "
+"<strong>Google Chrome</strong> is in the Software Boutique so you can watch "
+"content from your favourite streaming services such as <strong>Netflix</"
+"strong> and <strong>YouTube</strong>."
+msgstr ""
+"Ubuntu MATE yra pateikiama su iš anksto įdiegta <strong>Firefox</strong> ir "
+"Programinės įrangos butike esančia <strong>Google Chrome</strong>, taigi, "
+"galite žiūrėti turinį iš savo mėgstamų transliavimo paslaugų svetainių, "
+"tokių kaip <strong>Netflix</strong> ir <strong>YouTube</strong>."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:12
+msgid ""
+"With <strong>VLC</strong> installed by default you can watch all you local "
+"video with ease and <strong>Emby</strong> media server is one-click away "
+"from the Software Boutique to create your own streaming server."
+msgstr ""
+"Esant pagal numatymą įdiegtai <strong>VLC leistuvei</strong>, galite lengvai "
+"žiūrėti visus savo vietinius vaizdo įrašus, o norėdami susikurti asmeninį "
+"transliavimo serverį, Programinės įrangos butike galite vienu spustelėjimu "
+"įdiegti <strong>Emby</strong> medijos serverį."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu-mate/slides/10_video.html:29
+msgid "Emby"
+msgstr "Emby"
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu-mate/slides/11_office.html:2
 msgid "Everything you need for the office"
 msgstr "Viskas, ko reikia biurui"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/07_office.html:8
+#: slideshows/oem-config-ubuntu-mate/slides/11_office.html:7
 msgid ""
 "LibreOffice is a free office suite packed with everything you need to create "
-"documents, spreadsheets and presentations. Compatible with Microsoft Office "
+"documents, spreadsheets and presentations.  Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
-"LibreOffice - tai laisvas raštinės programų rinkinys, turintis viską, ko tik "
-"gali prireikti, kuriant dokumentus, skaičiuokles bei pateiktis. LibreOffice "
-"yra suderinamas su Microsoft Office failų formatais ir suteikia jums visas "
-"reikiamas ypatybes be kainos etiketės."
+"LibreOffice yra nemokamas raštinės programų paketas, kuriame yra viskas, ko "
+"reikia dokumentų, skaičiuoklių ir pateikčių kūrimui.  Būdamas suderinamas su "
+"Microsoft Office failų formatais, jis suteikia jums visas reikiamas ypatybes "
+"be kainų etiketės."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/07_office.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/11_office.html:17
 msgid "LibreOffice Writer"
-msgstr "LibreOffice Writer"
+msgstr "LibreOffice Writer rašyklė"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/07_office.html:20
+#: slideshows/oem-config-ubuntu-mate/slides/11_office.html:21
 msgid "LibreOffice Calc"
-msgstr "LibreOffice Calc"
+msgstr "LibreOffice Calc skaičiuoklė"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/07_office.html:24
+#: slideshows/oem-config-ubuntu-mate/slides/11_office.html:25
 msgid "LibreOffice Impress"
 msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:2
 msgid "Accessible for everyone"
 msgstr "Prieinama kiekvienam"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:8
+#: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:7
 msgid ""
 "At the heart of the Ubuntu MATE philosophy is the belief that computing is "
 "for everyone. With advanced accessibility tools and options to change "
@@ -256,100 +408,99 @@ msgstr ""
 "bebūtumėte."
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:12
+#: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:13
 msgid "Customization options"
 msgstr "Individualizavimo galimybės"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:17
 msgid "Appearance"
 msgstr "Išvaizda"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:20
+#: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:21
 msgid "Assistive technologies"
 msgstr "Pagalbinės technologijos"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/08_accessibility.html:24
+#: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:25
 msgid "Language support"
 msgstr "Kalbų palaikymas"
 
 #. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:1
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:2
 msgid "Join the community"
 msgstr "Prisijunkite prie bendruomenės"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:8
-msgid "Discussion"
-msgstr "Diskusijos"
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:7
+msgid "Discussion & Support"
+msgstr "Diskusijos ir palaikymas"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:12
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:11
 msgid ""
 "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
-"Community</a>"
+"Forum</a>"
 msgstr ""
 "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
-"bendruomenė</a>"
+"forumas</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:15
 msgid ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" "
-"class=\"caption\">Google+ Community</a>"
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
+"\"caption\">Google+</a>"
 msgstr ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" "
-"class=\"caption\">Google+ bendruomenė</a>"
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
+"\"caption\">Google+</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:20
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:19
 msgid ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC Channel</a>"
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
 msgstr ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC kanalas</a>"
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Tikralaikiai "
+"pokalbiai</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:23
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:22
 msgid "Announcements"
 msgstr "Pranešimai"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:27
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:26
 msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:31
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:30
 msgid ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
-"class=\"caption\">Facebook</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
+"\">Facebook</a>"
 msgstr ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
-"class=\"caption\">Facebook</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
+"\">Facebook</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:34
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:33
 msgid "Development"
 msgstr "Kūrimas"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:38
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:37
 msgid ""
-"<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
-"Launchpad</a>"
+"<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
-"<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu MATE "
-"Launchpad</a>"
+"<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Kodas</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/09_community.html:42
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:41
 msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
 msgstr ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Klaidų "
-"sekiklis</a>"
+"bei trikčių pranešimai</a>"

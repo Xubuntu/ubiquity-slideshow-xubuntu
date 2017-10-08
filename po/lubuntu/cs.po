@@ -7,16 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
 "PO-Revision-Date: 2016-03-17 11:30+0000\n"
 "Last-Translator: Martin Šácha <lp@s0c4.net>\n"
 "Language-Team: Czech <cs@li.org>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
-"Language: cs\n"
+"X-Launchpad-Export-Date: 2017-10-06 18:49+0000\n"
+"X-Generator: Launchpad (build 18474)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/lubuntu/slides/00_welcome.html:1
+msgid "Welcome to Lubuntu"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/00_welcome.html:8
@@ -39,9 +44,9 @@ msgid ""
 "energy-saving desktop environment. LXDE has been proven to work well with "
 "both old and new computers, ensuring you a smooth desktop experience."
 msgstr ""
-"Lubuntu je postaveno na rychlém a úsporném <em>Pracovním prostředí "
-"LXDE</em>. LXDE se skvěle hodí jak pro staré, tak pro nejnovější počítače a "
-"zaručí vám bezproblémovou práci s počítačem."
+"Lubuntu je postaveno na rychlém a úsporném <em>Pracovním prostředí LXDE</"
+"em>. LXDE se skvěle hodí jak pro staré, tak pro nejnovější počítače a zaručí "
+"vám bezproblémovou práci s počítačem."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/02_browser.html:1
@@ -195,23 +200,19 @@ msgid "Empathy"
 msgstr "Empathy"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/06_lsc.html:1
+#: slideshows/lubuntu/slides/06_software.html:1
 msgid "Download software with ease"
 msgstr "Jednoduché stahování softwaru"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/06_lsc.html:8
+#: slideshows/lubuntu/slides/06_software.html:8
 msgid ""
 "With Lubuntu, you have access to the whole Ubuntu repository and all the "
 "software included. This means that thousands of new applications are ready "
-"for your computer, free of charge. Use the <em>Lubuntu Software Center</em> "
+"for your computer, free of charge. Use the revamped <em>Software</em> app "
 "and explore categories such as games, science and education, or search for "
 "your favorite software."
 msgstr ""
-"S Lubuntu máte přístup ke zdrojům softwaru Ubuntu a veškerému softwaru, "
-"který obsahují. To znamená, že pro váš počítač jsou zcela zdarma k dispozici "
-"tisíce nových aplikací. Pro vyhledávání nového softwaru použijte <em>Centrum "
-"softwaru pro Lubuntu</em>."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/07_help.html:1
@@ -224,14 +225,9 @@ msgid ""
 "One of the biggest advantages with Lubuntu is the wonderful community that "
 "comes with it. Other users will gladly help you out if you encounter "
 "problems. There are many different ways to get help, the easiest way is to "
-"visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
+"visit our <a href=\"http://lubuntu.me/\">website</a>, as we've gathered all "
 "the information you need."
 msgstr ""
-"Jednou z největších výhod Lubuntu je skvělá komunita, která jej obklopuje. "
-"Ostatní uživatelé vám rádi pomohou s vašimi problémy. Je mnoho způsobů, jak "
-"získat pomoc s Lubuntu, nejjednodušší je navštívit <a "
-"href=\"http://lubuntu.net/\">naše stránky</a>, kde naleznete veškeré "
-"informace, které potřebujete."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/08_thanks.html:1
@@ -244,12 +240,5 @@ msgid ""
 "The installation will finish soon. We hope you will enjoy Lubuntu and all "
 "the freedom that comes with it.  If you wish to help us improve Lubuntu, "
 "either by giving us feedback or by getting involved in the project, please "
-"visit our <a href=\"http://lubuntu.net/\">website</a>."
+"visit our <a href=\"http://lubuntu.me/\">website</a>."
 msgstr ""
-"Instalace bude již brzy dokončena. Doufáme, že pro vás bude Lubuntu tím "
-"pravým systémem. Pokud si přejete pomoci nám ve vylepšení Lubuntu a to ať už "
-"svým názorem nebo přímým zapojením do projektu, navštivte naše <a "
-"href=\"http://www.lubuntu.cz/\">stránky</a>."
-
-#~ msgid "Welcome to Lubuntu 17.04"
-#~ msgstr "Vítejte v Lubuntu 17.04"

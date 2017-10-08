@@ -7,22 +7,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2016-08-06 10:37+0000\n"
-"Last-Translator: Denis Graipel <Unknown>\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"PO-Revision-Date: 2017-08-07 21:15+0000\n"
+"Last-Translator: Torsten Franz <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:52+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2017-10-06 18:48+0000\n"
+"X-Generator: Launchpad (build 18474)\n"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntukylin/slides/community.html:1
+#. type: Content of: <div><div><div><h1>
+#: slideshows/ubuntukylin/slides/community.html:5
 msgid "Ubuntu Kylin Community"
 msgstr "Ubuntu Kylin-Gemeinschaft"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><h5><p>
 #: slideshows/ubuntukylin/slides/community.html:8
 msgid ""
 "Ubuntu Kylin Community will maintain a communication platform for the "
@@ -31,41 +32,51 @@ msgid ""
 "website, forums, QQ, weibo, weixin, and various other channels."
 msgstr ""
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntukylin/slides/community.html:12
-msgid "Communication platform address"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/ubuntukylin/slides/kylin-burner.html:5
+msgid "Kylin Burner"
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntukylin/slides/community.html:15
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/ubuntukylin/slides/kylin-burner.html:8
 msgid ""
-"official website:<a href=\"http://www.ubuntukylin.com/\"> "
-"www.ubuntukylin.com</a>"
+"Data and ISO recording is available in Kylin Record. Burning and continue-"
+"burning of CD/DVD-R and DVD+R are supported. It is a pleasant, stable and "
+"lightweight application."
 msgstr ""
-"Offizielle Webseite: <a "
-"href=\"http://www.ubuntukylin.com/\">www.ubuntukylin.com</a>"
 
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntukylin/slides/community.html:18
-msgid "IRC: FreeNode - #ubuntukylin-devel"
-msgstr "IRC: FreeNode - #ubuntukylin-devel"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/ubuntukylin/slides/kylin-video.html:5
+msgid "Kylin Video"
+msgstr ""
 
-#. type: Content of: <div><div><div><table><tr><td>
-#: slideshows/ubuntukylin/slides/community.html:23
-msgid "weibo:"
-msgstr "weibo:"
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/ubuntukylin/slides/kylin-video.html:8
+msgid ""
+"Kylin Video is an open source video player using Qt5 based on SMPlayer. It "
+"surpports many video formats to offer a delighted watching experience for "
+"users. What is more, the interface is simple and easy."
+msgstr ""
 
-#. type: Content of: <div><div><div><table><tr><td>
-#: slideshows/ubuntukylin/slides/community.html:24
-msgid "wenxin:"
-msgstr "wenxin:"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/ubuntukylin/slides/pdf.html:5
+msgid "PDF Reader"
+msgstr ""
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntukylin/slides/software-center.html:1
+#. type: Content of: <div><div><div><h3><p>
+#: slideshows/ubuntukylin/slides/pdf.html:8
+msgid ""
+"Wendun Foxit Reader is based on Linux Foxit Reader, specially customized for "
+"Chinese users. A more convenient installation is supported, plus PDF "
+"documemt reading/ bookmark/ annotation and print etc.."
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/ubuntukylin/slides/software-center.html:5
 msgid "Software Center"
 msgstr "Software-Center"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/software-center.html:8
 msgid ""
 "Ubuntu Kylin Software Center is designed with GUI much easy for Chinese. It "
@@ -77,20 +88,8 @@ msgstr ""
 "Pakete. Sie können auch chinesische Programme nutzen, die vom Ubuntu Kylin-"
 "Team mitentwickelt worden sind!"
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntukylin/slides/software-center.html:13
-#: slideshows/ubuntukylin/slides/wps.html:12
-#: slideshows/ubuntukylin/slides/youker.html:11
-msgid "Included software"
-msgstr "Vorinstallierte Anwendungen"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntukylin/slides/software-center.html:17
-msgid "ubuntu-kylin-software-center"
-msgstr "Ubuntu-Kylin-Software-Center"
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntukylin/slides/sogou.html:1
+#. type: Content of: <div><div><div><h1>
+#: slideshows/ubuntukylin/slides/sogou.html:5
 msgid "Sogou Input Method"
 msgstr "Sogou Eingabemethode"
 
@@ -99,196 +98,81 @@ msgstr "Sogou Eingabemethode"
 msgid ""
 "Sogou Input Method for Linux is co-developed by Ubuntu Kylin team and Sogou "
 "Corp.. It is based on Fcitx framework and supports the same user experience "
-"with Windows, Mac version. You are welcome to install it via Ubuntu Kylin "
-"Software Center or <a "
-"href=\"http://www.ubuntukylin.com/\">www.ubuntukylin.com</a>."
+"with Windows, Mac version."
 msgstr ""
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntukylin/slides/sogou.html:12
-#: slideshows/ubuntukylin/slides/youker-series.html:12
-msgid "Supported software"
-msgstr "Unterstützte Anwendungen"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntukylin/slides/sogou.html:16
-msgid "sogoupinyin"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/ubuntukylin/slides/ukui.html:5
+msgid "A Brand New Desktop Environment"
 msgstr ""
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntukylin/slides/thanks.html:1
-msgid "Thanks"
-msgstr "Danke"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntukylin/slides/thanks.html:8
+#. type: Content of: <div><div><div><h2><p>
+#: slideshows/ubuntukylin/slides/ukui.html:7
 msgid ""
-"Once again to thank you for choosing Ubuntu Kylin operating system. Please "
-"visit the home page: <a "
-"href=\"http://www.ubuntukylin.com/\">www.ubuntukylin.com</a> for more "
-"information. Welcome to feedback related issues, we will try to do it better!"
-msgstr ""
-"Nochmals vielen Dank dafür, dass Sie sich für Ubuntu Kylin entschieden "
-"haben. Bitte besuchen Sie unsere Webseite unter : <a "
-"href=\"http://www.ubuntukylin.com/\">www.ubuntukylin.com</a> für weitere "
-"Informationen. Ihr Feedback ist uns wichtig, es hilft uns, besser zu werden."
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntukylin/slides/theme.html:1
-msgid "System beautify"
-msgstr "Systemverschönerung"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntukylin/slides/theme.html:8
-msgid ""
-"Desktop themes specifically designed for Chinese users. Stunning boot-up "
-"animations. Allowing you to appreciate the efforts we have devoted even to "
-"the details!"
-msgstr ""
-"Desktop-Designs speziell für chinesische Nutzer und erstaunliche Animationen "
-"während des Bootvorgangs zeigen unsere Liebe zum Detail"
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntukylin/slides/ukunity.html:1
-msgid "UI Customization"
-msgstr "Anpassung der Benutzungsoberfläche"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntukylin/slides/ukunity.html:8
-msgid ""
-"It provides a more beautiful and concise login and lock screen interface for "
-"Ubuntu Kylin users. Besides, the launcher has been moved to the bottom of "
-"the screen, in order to meet the needs of different users."
+"UKUI desktop environment is a brand new product for Chinese users. From "
+"start menu, status bar, panel icons to file manager and control panel, you "
+"will experience a smooth and beautiful system. More function in details are "
+"awaiting you to find out."
 msgstr ""
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntukylin/slides/weixin.html:1
-msgid "Web WeChat Client"
-msgstr "Webbasierter WeChat-Klient"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/ubuntukylin/slides/weixin.html:5
+msgid "Wechat Web Client"
+msgstr ""
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/weixin.html:8
 msgid ""
-"It is a convenient client which based on Web WeChat for Ubuntu Kylin users. "
-"You are welcome to install it via Ubuntu Kylin Software Center or <a "
-"href=\"http://www.ubuntukylin.com/\">www.ubuntukylin.com</a>."
+"Ubuntu Kylin offers a Wechat client on Web for users. It can be downloaded "
+"from Kylin software Center or www.ubuntukylin.com."
 msgstr ""
-"Ein praktischer auf WeChat basierender Web-Client für Benutzer von Ubuntu "
-"Kylin. Installieren Sie die Software über das Ubuntu Kylin Software Center "
-"oder <a href=\"http://www.ubuntukylin.com/\">www.ubuntukylin.com</a>."
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntukylin/slides/welcome.html:1
-msgid "Welcome to Ubuntu Kylin 17.04"
-msgstr "Willkommen bei Ubuntu Kylin 17.04"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/ubuntukylin/slides/welcome.html:7
+msgid "Thank You For Choosing Ubuntu Kylin Desktop Operating System"
+msgstr ""
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntukylin/slides/welcome.html:8
+#. type: Content of: <div><div><div><h6><p>
+#: slideshows/ubuntukylin/slides/welcome.html:10
 msgid ""
 "Ubuntu Kylin is an official flavor of Ubuntu, specifically endeavored to "
 "tailor an open source desktop operating system with distinct Chinese "
 "characteristics, so as to allow its users to enjoy a thoughtful and fine "
-"user experience. This release version is 17.04."
+"user experience. This release version is 17.10."
 msgstr ""
-"Ubuntu Kylin ist ein offizielles Ubuntu-Derivat, das auf die Bedürfnisse von "
-"chinesischen Benutzern zugeschnitten ist und auf diesem Wege sein fein "
-"durchdachtes Konzept präsentiert. Dies ist die Version 17.04"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntukylin/slides/welcome.html:9
+#. type: Content of: <div><div><div><h6><p>
+#: slideshows/ubuntukylin/slides/welcome.html:11
 msgid ""
 "The following pictures will show you what we have done in localization for "
 "Chinese users."
 msgstr ""
 "Die folgenden Bilder zeigen, was wir für chinesische Benutzer übersetzt haben"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntukylin/slides/wps.html:1
-msgid "WPS Office Suite"
-msgstr "WPS Office Suite"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/ubuntukylin/slides/wps.html:5
+msgid "Office Suite"
+msgstr ""
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><h4><p>
 #: slideshows/ubuntukylin/slides/wps.html:8
 msgid ""
-"Domestic text processing tools, compatible with Microsoft Office file "
-"formats, powerful typesetting features and extensive online resources. You "
-"are welcome to install it via Ubuntu Kylin Software Center or <a "
-"href=\"http://www.ubuntukylin.com/\">www.ubuntukylin.com</a>."
+"Linux Kingsoft WPS is compatible with Windows WPS. Fangzheng font is "
+"available in Linux Kingsoft WPS. Abundant online module and material make "
+"your document production more convenient."
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntukylin/slides/wps.html:16
-msgid "wps"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntukylin/slides/wps.html:20
-msgid "wpp"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntukylin/slides/wps.html:24
-msgid "et"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntukylin/slides/youker-series.html:1
+#. type: Content of: <div><div><div><h1>
+#: slideshows/ubuntukylin/slides/youker-series.html:5
 msgid "Youker Series"
 msgstr "Youker  Serie"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/youker-series.html:8
 msgid ""
-"Youker Weather, Youker Chinese Calendar and Youker Search developed for "
-"Ubuntu Kylin users make it easier to look up related information about life "
-"and search multimedia information such as chinese music, video, pictures and "
-"so on."
-msgstr ""
-"Youker Wetter, Youker chinesischer Kalender und die Youker Suche, für Ubuntu "
-"Kylin entwickelt, machen es einfacher, nach Informationen und "
-"Multimediainhalten, wie z.B. chinesischer Musik, Videos oder Bildern usw. zu "
-"suchen."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntukylin/slides/youker-series.html:16
-msgid "indicator-china-weather"
-msgstr "Wetteranzeige für China"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntukylin/slides/youker-series.html:20
-msgid "chinese-calendar"
-msgstr "Chinesischer Kalender"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntukylin/slides/youker-series.html:24
-msgid "unity-china-music-scope"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntukylin/slides/youker-series.html:28
-msgid "unity-china-photo-scope"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntukylin/slides/youker-series.html:32
-msgid "unity-china-video-scope"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/ubuntukylin/slides/youker.html:2
-msgid "Youker Assistant"
-msgstr "Youker Assistent"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntukylin/slides/youker.html:7
-msgid ""
-"Youker Assistant is a system management and configuration tool we developed "
-"for Ubuntu Kylin users. It could show system information, cleanup system "
-"garbage and beautify system customization. It makes your desktop more "
-"streamlined, more user-friendly, and enriched with personality."
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntukylin/slides/youker.html:15
-msgid "youker-assistant"
+"Youker Assistantant and Youker Weather are developed for Ubuntu Kylin users "
+"only. Powerful system information demonstration , clear system gabbage by "
+"one click, system custom beautify and weather information etc. are "
+"supported. Basically, a smooth, easy-to-use and substantial desktop is "
+"guaranteed."
 msgstr ""

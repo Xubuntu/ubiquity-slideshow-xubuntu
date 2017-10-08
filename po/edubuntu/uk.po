@@ -8,23 +8,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
 "PO-Revision-Date: 2016-03-18 12:20+0000\n"
-"Last-Translator: Микола Ткач <Stuartlittle1970@gmail.com>\n"
+"Last-Translator: stuartlittle <Stuartlittle1970@gmail.com>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
+"Language: ukPlural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:52+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
-"Language: ukPlural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2017-10-06 18:48+0000\n"
+"X-Generator: Launchpad (build 18474)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
 msgid "Activate Accessibility"
 msgstr "Доступність для усіх"
 
-#. "your" refers to a large group that includes the reader.
+#.  "your" refers to a large group that includes the reader. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:6
 msgid ""
@@ -36,8 +36,8 @@ msgstr ""
 "фізичних можливостей. Отже творці дистрибутива додали у нього програми, які "
 "роблять Edubuntu однією з найдоступніших операційних систем у світі."
 
-#. The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#. Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention.
+#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
+#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:7
 msgid ""
@@ -52,8 +52,8 @@ msgstr ""
 "програму <em>Orca</em> для озвучення тексту на екрані та програму для "
 "автоматичного натискання кнопок миші."
 
-#. As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#. Preferences > Appearance. Certain words were kept the same to make the menu item discoverable.
+#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
+#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:8
 msgid ""
@@ -104,8 +104,8 @@ msgstr "Будь-які обчислення"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome "
-"Calculator</em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
+"em>."
 msgstr ""
 "Частиною Edubuntu є найсвіжіша версія потужного <em>Калькулятора Gnome</em>."
 
@@ -209,18 +209,18 @@ msgstr ""
 msgid "Get Involved"
 msgstr "Долучення до команди"
 
-#. The string "Help and Support" should be exactly as it appears in the System menu.
+#.  The string "Help and Support" should be exactly as it appears in the System menu. 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:6
 msgid ""
 "If you need help, try <em>Help and Support</em> from the System menu, or the "
 "<em>Help</em> menu in most applications."
 msgstr ""
-"Якщо вам потрібна довідка, скористайтеся пунктом <em>Довідка і "
-"підтримка</em> у меню <em>Система</em> або відповідний пунктом меню "
-"<em>Довідка</em> більшості програм."
+"Якщо вам потрібна довідка, скористайтеся пунктом <em>Довідка і підтримка</"
+"em> у меню <em>Система</em> або відповідний пунктом меню <em>Довідка</em> "
+"більшості програм."
 
-#. The url "edubuntu.org/support" should not be translated
+#.  The url "edubuntu.org/support" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid ""
@@ -232,20 +232,20 @@ msgstr ""
 "Окрім докладної довідки до програмного забезпечення, спільнота Edubuntu "
 "надає безкоштовну технічну підтримку за допомогою інтернету. Передбачено "
 "також комерційну підтримку від компанії Canonical, її партнерів та "
-"сертифікованих компаній. Докладніше про це за адресою <a "
-"href=\"http://www.edubuntu.org/documentation\">ubuntu.com/support</a"
+"сертифікованих компаній. Докладніше про це за адресою <a href=\"http://www."
+"edubuntu.org/documentation\">ubuntu.com/support</a"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid "edubuntu.org</a>"
 msgstr "edubuntu.org</a>"
 
-#. The url "edubuntu.org/community" should not be translated
+#.  The url "edubuntu.org/community" should not be translated 
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a "
-"href=\"http://edubuntu.com/community\">"
+"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
+"community\">"
 msgstr ""
 "Повідомити нам про ваші враження від роботи у Edubuntu можна на сторінці <a "
 "href=\"http://edubuntu.com/community\">"
@@ -342,16 +342,14 @@ msgstr "Керування вашим класом"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
-msgid ""
-"<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
 msgstr ""
 "За допомогою <em>Epoptes</em> викладач може керувати стільничними "
 "середовищами учнів."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:7
-msgid ""
-"Broadcast a desktop session to all users to demonstrate a new concept."
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 "Надішліть зображення з вашого екрана всім користувачам у класі з метою "
 "демонстрації нового поняття."
@@ -527,8 +525,7 @@ msgstr ""
 #: slideshows/edubuntu/slides/kdeedu.html:8
 msgid ""
 "Improve mathematical skills with fraction, geometry and algebra software."
-msgstr ""
-"Передбачено програми з навчання діям з дробами, геометрії та алгебри."
+msgstr "Передбачено програми з навчання діям з дробами, геометрії та алгебри."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:9
@@ -590,8 +587,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:8
 msgid "Rapidly deploy many diskless machines with low maintenance."
-msgstr ""
-"Миттєво розгортайте системи бездискових станцій без особливих проблем."
+msgstr "Миттєво розгортайте системи бездискових станцій без особливих проблем."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/pencil.html:1
@@ -710,8 +706,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:8
 msgid ""
-"Learn basic computer skills and unleash your creativity with "
-"<em>TuxPaint</em>."
+"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
+"em>."
 msgstr ""
 "Оволодійте базовими навичками роботи з комп’ютером та продемонструйте ваші "
 "творчі можливості за допомогою <em>TuxPaint</em>."
@@ -777,6 +773,15 @@ msgid "Welcome"
 msgstr "Ласкаво просимо!"
 
 #. type: Content of: <div><div><ul><p>
+#: slideshows/edubuntu/slides/welcome.html:7
+msgid ""
+"Thank you for installing Edubuntu 17.10.  The Edubuntu project is a "
+"community project that aims to provide a whole-school technological platform "
+"suitable for delivering education. We are coders, educators, parents and "
+"technologists who aim to make technology easier for all."
+msgstr ""
+
+#. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:10
 msgid ""
 "While the installer is copying some files to disk, we'll show you some "
@@ -792,14 +797,3 @@ msgid "<b>Enjoy using Edubuntu and welcome to the Edubuntu family!</b>"
 msgstr ""
 "<b>Нехай користування Edubuntu буде для вас приємним! Вітаємо у сім’ї "
 "Edubuntu!</b>"
-
-#~ msgid ""
-#~ "Thank you for installing Edubuntu 17.04.  The Edubuntu project is a "
-#~ "community project that aims to provide a whole-school technological platform "
-#~ "suitable for delivering education. We are coders, educators, parents and "
-#~ "technologists who aim to make technology easier for all."
-#~ msgstr ""
-#~ "Дякуємо за встановлення Edubuntu 17.04! Edubuntu — це проєкт спільноти, "
-#~ "покликаний надати спільну технологічну плятформу для усіх ступенів "
-#~ "освітнього процесу. Ми — проґрамісти, викладачі, батьки та технологи, що "
-#~ "прагнуть зробити сучасні технології простішими для усіх."

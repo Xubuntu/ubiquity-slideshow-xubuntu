@@ -7,146 +7,214 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2016-10-11 08:12+0000\n"
-"Last-Translator: Flames_in_Paradise <Unknown>\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"PO-Revision-Date: 2017-07-21 03:47+0000\n"
+"Last-Translator: Arve Eriksson <Unknown>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
-"Language: sv\n"
+"X-Launchpad-Export-Date: 2017-10-06 18:48+0000\n"
+"X-Generator: Launchpad (build 18474)\n"
 
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/accessibility.html:1
-msgid "Accessibility in Kubuntu"
-msgstr "Hjälpmedel i Kubuntu"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/accessibility.html:6
-msgid ""
-"We want to make computers work for everyone, whatever your physical "
-"circumstances. So, we provide tools that make Kubuntu one of the most "
-"accessible operating systems around."
+#. type: Content of: <div><div><h1>
+#: slideshows/kubuntu/slides/00_Welcome.html:3
+msgid "Welcome to Kubuntu"
 msgstr ""
-"Vi vill göra så att datorer kan användas av alla, oavsett fysiska hinder. "
-"Därför tillhandahåller vi verktyg som gör Kubuntu till ett av de mest "
-"tillgängliga operativsystemen på marknaden."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/accessibility.html:9
-msgid ""
-"You can get at these tools in one place: the <em>Accessibility</em> "
-"preferences, inside the Desktop Behavior from the System Settings "
-"application from the menu. From there, you can turn on helpful tools like "
-"<em>Modifier Keys</em>, <em>Keyboard Filters</em>, and <em>Activation "
-"Gestures</em>."
+#. type: Attribute 'alt' of: <div><div><img>
+#: slideshows/kubuntu/slides/00_Welcome.html:7
+msgid "kubuntu logo"
 msgstr ""
-"Du kan komma åt dessa verktyg från en plats: "
-"<em>Åtkomstinställningarna</em>, i Skrivbordsbeteende från programmet "
-"Systeminställningar från menyn. Därifrån kan du aktivera hjälpmedel som "
-"<em>Modifierartangenter</em>, <em>Tangentbordsfilter</em>, och "
-"<em>Aktiveringsgester</em>."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/accessibility.html:13
-msgid "Remember to also look over the <em>Application Style</em>."
-msgstr "Kom ihåg att också gå igenom <em>Programstil</em>."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/games.html:1
-msgid "Get your game on with Kubuntu"
-msgstr "Spela med Kubuntu"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:6
-msgid ""
-"With hundreds of game titles in our online repository, Kubuntu allows you to "
-"not be all about work, but also allows you to play."
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/00_Welcome.html:11
+msgid "Thanks for picking Kubuntu!"
 msgstr ""
-"Med hundratals speltitlar i vårt programförråd så kan du inte bara använda "
-"Kubuntu i ditt arbete utan även för att spela dina favoritspel."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:9
-msgid "You can easily install Steam"
-msgstr "Du kan enkelt installera Steam"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:10
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/00_Welcome.html:12
 msgid ""
-"The <em>KDE Applications</em> have quite a few games ranging from "
-"card games to logic games and board games."
+"Kubuntu combines the best of the KDE Community's software with Ubuntu's base "
+"to make a great desktop experience"
 msgstr ""
-"<em>KDE Programsamling</em> innehåller ett större antal spel, allt från "
-"kortspel till logiska spel och brädspel."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:12
+#. type: Content of: <div><div><h1>
+#: slideshows/kubuntu/slides/01_Applications.html:3
+msgid "Find everything you need on your new install"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/01_Applications.html:7
 msgid ""
-"First Person Shooters, Role Playing Games, and more are also available in "
-"the repositories."
+"Kubuntu comes with most of the applications that you need on a daily basis."
 msgstr ""
-"Förstapersonsskjutare, rollspel och mycket mer finns tillgängliga i "
-"programförråden."
 
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/get-help.html:1
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/01_Applications.html:8
+msgid ""
+"For everything else you can install more software in Discover our software "
+"center"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:13
+msgid "Firefox"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:14
+msgid "Web Browser"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:18
+msgid "Kontact"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:19
+msgid "Email, Contacts"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:23
+msgid "LibreOffice"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:24
+msgid "Office Suite"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:28
+msgid "Discover"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:29
+msgid "Software Center"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:35
+msgid "Amarok"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:36
+msgid "Music Player"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:40
+msgid "Dragon Player"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:41
+msgid "Video Player"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:45
+msgid "Okular"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:46
+msgid "Document Viewer"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:50
+msgid "Dophin"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:51
+msgid "File Manager"
+msgstr ""
+
+#. type: Content of: <div><div><h1>
+#: slideshows/kubuntu/slides/02_Accessibility.html:3
+msgid "Kubuntu: for all users"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/02_Accessibility.html:15
+msgid "We want Kubuntu to work for everyone."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/02_Accessibility.html:16
+msgid "We include a screen reader, modifier keys and more."
+msgstr ""
+
+#. type: Content of: outside any tag (error?)
+#: slideshows/kubuntu/slides/02_Accessibility.html:20
+msgid "r"
+msgstr ""
+
+#. type: Content of: <div><div><h1>
+#: slideshows/kubuntu/slides/03_Get-Help.html:3
 msgid "Getting help with Kubuntu"
 msgstr "Få hjälp med Kubuntu"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/get-help.html:6
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/03_Get-Help.html:11
 msgid ""
-"If you need help, try <em>Help</em> from the menu, or the <em>Help</em> menu "
-"in most applications."
+"If you need help, try Help from the menu, or the Help menu in most "
+"applications.  Let us know about your Kubuntu experience at <a href=\"http://"
+"www.kubuntu.org/community\">Kubuntu Community</a>!"
 msgstr ""
-"Om du behöver hjälp så prova <em>Hjälp</em> från menyn eller <em>Hjälp</em>-"
-"menyn i de flesta program."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/get-help.html:8
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/03_Get-Help.html:14
 msgid ""
 "In addition to our extensive written help, the Kubuntu community in "
 "conjunction with the Ubuntu community, provides free technical support in "
-"person and over the Internet. Learn more at <a "
-"href=\"http://www.kubuntu.org/support\">kubuntu.org/support</a>."
+"person and over the Internet. Learn more at <a href=\"http://www.kubuntu.org/"
+"support\">Kubuntu Support</a>."
 msgstr ""
-"Förutom vår utförliga skriftliga hjälp erbjuder Kubuntugemenskapen i "
-"samarbete med Ubuntugemenskapen fri teknisk support, personligt och på "
-"nätet. Läs mer på <a "
-"href=\"http://www.kubuntu.org/support\">kubuntu.org/support</a>."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/get-help.html:12
+#. type: Content of: <div><div><p><ul><li>
+#: slideshows/kubuntu/slides/03_Get-Help.html:18
 msgid ""
-"Let us know about your Kubuntu experience at <a "
-"href=\"http://www.kubuntu.org/community\">kubuntu.org/community</a>!"
+"Kubuntu Community: <a href=\"http://www.kubuntu.org/community\">http://www."
+"kubuntu.org/community</a>"
 msgstr ""
-"Berätta för oss om dina erfarenheter av Kubuntu på <a "
-"href=\"http://www.kubuntu.org/community\">kubuntu.org/community</a>!"
 
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/get-involved.html:1
-msgid "Get involved and contribute to Kubuntu"
-msgstr "Hjälp till och bidra till Kubuntu"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/get-involved.html:6
+#. type: Content of: <div><div><p><ul><li>
+#: slideshows/kubuntu/slides/03_Get-Help.html:19
 msgid ""
-"The Kubuntu community consists of a group of individuals, who make up one of "
-"the greatest teams in the open source community, work on various aspects of "
-"the distribution, providing advice and technical support, as well as helping "
-"to promote Kubuntu to a wider audience."
+"Kubuntu Support:<a href=\"http://www.kubuntu.org/support\">http://www."
+"kubuntu.org/support</a>"
 msgstr ""
-"Kubuntugemenskapen består av en grupp individer som har skapat en av de "
-"bästa grupperna inom öppen källkod. De arbetar med olika delar av "
-"distributionen, allt från att ge råd och teknisk support till att hjälpa "
-"till med att sprida Kubuntu till den breda massan."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/get-involved.html:11
+#. type: Content of: <div><div><h1>
+#: slideshows/kubuntu/slides/04_Get-Involved.html:3
+msgid "Getting involved with Kubuntu"
+msgstr ""
+
+#. type: Attribute 'alt' of: <div><div><img>
+#: slideshows/kubuntu/slides/04_Get-Involved.html:7
+msgid "breeze users icon"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/04_Get-Involved.html:12
+msgid ""
+"The Kubuntu community consists of a group of individuals, who made up one of "
+"the greatest teams in the open source community, working on various aspects "
+"of the distribution, providing advice and technical support, as well as "
+"helping to promote Kubuntu to a wider audience."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/04_Get-Involved.html:19
 msgid ""
 "No matter your skill level, getting involved and helping to mold the future "
 "of Kubuntu is easy, and you are more than welcome to help out."
@@ -154,269 +222,23 @@ msgstr ""
 "Oavsett erfarenhet är det lätt att hjälpa till att forma Kubuntus framtid "
 "och din insats är mer än välkommen."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/get-involved.html:14
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/04_Get-Involved.html:24
 msgid ""
-"Look over <a "
-"href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase.kde.org/Kubuntu"
-"/Contribute</a> and see where you might be able to help out. Remember, it is "
-"easy to get involved and the work you do will be seen by millions of people "
+"Look over <a href=\"http://docs.kubuntu.org/docs/contribute.html\">Kubuntu "
+"Manual</a> and see where you might be able to help out. Remember, it is easy "
+"to get involved and the work you do will be seen by millions of people "
 "around the world."
 msgstr ""
-"Läs <a "
-"href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase.kde.org/Kubuntu"
-"/Contribute</a> och se var du kan bidra. Kom ihåg att det är lätt att delta, "
-"och ditt arbete kommer synas för miljoner världen över."
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/get-involved.html:20
-msgid "The installation will finish soon. We hope you enjoy Kubuntu."
+#: slideshows/kubuntu/slides/04_Get-Involved.html:30
+msgid "The installation will finish soon. We hope you enjoy Kubuntu!"
 msgstr ""
-"Installationen är snart färdig. Vi hoppas att du blir nöjd med Kubuntu."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/graphics.html:1
-msgid "Organize, enjoy, and share your photos"
-msgstr "Organisera, njut av och dela med dig av dina foton"
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/graphics.html:5
+#: slideshows/kubuntu/slides/04_Get-Involved.html:33
 msgid ""
-"With <em>Gwenview</em>, it is really easy to organize and share your photos."
+"Kubuntu Manual: <a href=\"http://docs.kubuntu.org/docs/contribute.html"
+"\">http://docs.kubuntu.org/docs/contribute.html</a>"
 msgstr ""
-"Med <em>Gwenview</em> så är det mycket enkelt att organisera och dela ut "
-"dina foton."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/graphics.html:7
-msgid ""
-"Use the Export option to copy your photos to a remote computer, iPod, a "
-"custom HTML gallery, or to export to services such as Flickr, SmugMug, "
-"PicasaWeb, and more."
-msgstr ""
-"Använd Exportera-alternativet för att kopiera dina foton till en fjärrdator, "
-"iPod, ett anpassat HTML-galleri eller för att exportera till tjänster såsom "
-"Flickr, SmugMug, PicasaWeb och många andra."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/graphics.html:10
-msgid ""
-"For more advanced organization and editing features, <em>digiKam</em> is "
-"available for installation."
-msgstr ""
-"För mer avancerade organiserings- och redigeringsfunktioner så finns "
-"<em>digiKam</em> tillgänglig för installation."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/installing-software.html:1
-msgid "Installing additional software"
-msgstr "Installera ytterligare programvara"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/installing-software.html:6
-msgid ""
-"Take a look at the <em>Discover</em> application in the menu. "
-"Discover will allow you to install (and remove) software from our online "
-"repositories, which we carefully organize to be safe and up to date."
-msgstr ""
-"Ta en titt på programmet <em>Muon upptäkt</em> i menyn. Muon upptäkt kommer "
-"låta dig installera (och ta bort) program genom våra online-förråd, som vi "
-"med stor noggrannhet håller uppdaterade och säkra."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/installing-software.html:10
-msgid ""
-"There is great software for everything from creating music and movies to "
-"producing 3D models and exploring the universe."
-msgstr ""
-"Det finns bra programvara för allt från att skapa musik och filmer till att "
-"producera 3D-modeller och utforska universum."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/installing-software.html:12
-msgid ""
-"If you need something that isn't available through us, find out if there is "
-"a Debian package or another repository available. That way, it will be "
-"really easy to install and you will receive automatic updates."
-msgstr ""
-"Om du behöver någonting som inte finns tillgängligt genom oss så kan du ta "
-"reda på om det finns ett Debian-paket eller annat förråd tillgängligt. På så "
-"sätt så är det mycket enkelt att installera och du kommer att få "
-"uppdateringar automatiskt."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/internet.html:1
-msgid "Make the most of the web"
-msgstr "Få ut det mesta av internet"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:5
-msgid ""
-"Kubuntu includes Mozilla Firefox, the web browser used by millions of people "
-"around the world."
-msgstr ""
-"Kubuntu inkluderar Mozilla Firefox, webbläsaren som används av miljoner "
-"människor världen över."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:6
-msgid ""
-"Browse the web, share your files, software, and multimedia, send and receive "
-"e-mail, and communicate with friends and family."
-msgstr ""
-"Surfa på webben, dela ut dina filer, program och multimedia, skicka och ta "
-"emot e-post samt kommunicera med vänner och familj."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:9
-msgid ""
-"Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
-"installable."
-msgstr ""
-"Webbläsare som <em>Chromium</em> och <em>Rekonq</em> går snabbt att "
-"installera."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/multimedia.html:1
-msgid "Music and movies in Kubuntu"
-msgstr "Musik och filmer i Kubuntu"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/multimedia.html:5
-msgid ""
-"Kubuntu is ready to play videos and music from the web, from CDs and DVDs."
-msgstr ""
-"Kubuntu är redo att spela upp videor och musik från webben, från cd- och dvd-"
-"skivor."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/multimedia.html:7
-msgid ""
-"<em>Amarok</em> audio player lets you organize your music and listen to "
-"Internet radio, podcasts, and more, as well as synchronizes your audio "
-"collection to a portable audio player."
-msgstr ""
-"Ljudspelaren <em>Amarok</em> låter dig organisera din musik och lyssna på "
-"internetradio, poddsändningar och annat, såväl som att synkronisera din "
-"ljudsamling till en portabel ljudspelare."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/multimedia.html:10
-msgid ""
-"<em>Dragon Player</em> allows you to easily watch videos from your computer, "
-"DVD, or streamed over the Internet."
-msgstr ""
-"<em>Dragon Player</em> låter dig se på videor från din dator, dvd-skiva "
-"eller strömmande video över Internet."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/office.html:1
-msgid "Office tools at your fingertips"
-msgstr "Tillgängliga kontorsprogram"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/office.html:5
-msgid ""
-"<em>LibreOffice</em> is a powerful office software suite that is very easy "
-"to learn and use."
-msgstr ""
-"<em>LibreOffice</em> är en kraftfull kontorsprogramsvit som är mycket enkel "
-"att lära sig och att använda."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/office.html:7
-msgid ""
-"Use it to create letters, presentations and spreadsheets, as well as "
-"diagrams and databases."
-msgstr ""
-"Använd det för att skriva brev, presentationer och kalkylblad, såväl som "
-"diagram och databaser."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/office.html:9
-msgid ""
-"<em>LibreOffice</em> works with documents from other popular office "
-"applications including WordPerfect and Microsoft Office. It uses the "
-"standard OpenDocument format."
-msgstr ""
-"<em>LibreOffice</em> fungerar med dokument från andra populära "
-"kontorsprogram, inklusive WordPerfect och Microsoft Office. Det använder "
-"formatstandarden OpenDocument."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/pim.html:1
-msgid "Manage your contacts, dates, and e-mail"
-msgstr "Hantera dina kontakter, möten och e-post"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/pim.html:6
-msgid ""
-"<em>Kontact</em> is the fully-featured personal information management "
-"software that comes with Kubuntu. It contains applications for E-mail, "
-"Calendar, Address Book, and more."
-msgstr ""
-"<em>Kontakt</em> är det funktionsrika programmet för personlig "
-"informationshantering som levereras med Kubuntu. Det innehåller program för "
-"e-post, kalender, adressbok och mycket mer."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/pim.html:9
-msgid ""
-"Send e-mail with <em>KMail</em> from services such as Yahoo, GMail, and "
-"various groupware services."
-msgstr ""
-"Skicka e-post med <em>Kmail</em> från tjänster såsom Yahoo, GMail och "
-"diverse grupprogramtjänster."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/pim.html:11
-msgid ""
-"Organize your calendar and scheduling with <em>KOrganizer</em> and "
-"synchronize with services such as Google's Calendar."
-msgstr ""
-"Organisera din kalender och schema med <em>Korganizer</em> och synkronisera "
-"mot tjänster såsom Googles Kalender."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/pim.html:13
-msgid ""
-"Keep your contacts organized with <em>KAddressBook</em> and import or export "
-"your contacts with nearly every address book standard as well synchronize "
-"with various groupware services."
-msgstr ""
-"Håll dina kontakter uppdaterade med <em>Kadressbok</em>, importera eller "
-"exportera dina kontakter med nästan alla standarder för adressböcker och "
-"synkronisera med olika grupprogramtjänster."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/welcome.html:1
-msgid "Welcome"
-msgstr "Välkommen"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/welcome.html:8
-msgid ""
-"We believe every computer user should be free to work in the environment "
-"they choose, and be free to download, change, study and share their software "
-"with anyone, for any purpose."
-msgstr ""
-"Vi anser att varje datoranvändare bör vara fri att arbeta i den miljö de "
-"själva vill, och vara fria att ladda ner, ändra, studera, och dela sina "
-"program med vilka som helst, för vilket syfte som helst."
-
-#. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/welcome.html:15
-msgid "Kubuntu is designed to be easy. Feel free to explore!"
-msgstr "Kubuntu är designat för att vara enkelt. Känn dig fri att utforska!"
-
-#~ msgid ""
-#~ "Thank you for choosing Kubuntu 17.04. We hope you enjoy the experience."
-#~ msgstr ""
-#~ "Tack för att du valt Kubuntu 17.04. Vi hoppas att du gillar upplevelsen."
-
-#~ msgid ""
-#~ "We want Kubuntu to work for you. So while your software is installing, this "
-#~ "slideshow will introduce you to Kubuntu 17.04."
-#~ msgstr ""
-#~ "Vi vill att Kubuntu ska fungera för dig. Medan din programvara installeras "
-#~ "kommer detta bildspel att introducera dig till Kubuntu 17.04."

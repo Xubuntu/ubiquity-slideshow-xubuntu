@@ -7,148 +7,234 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2017-02-23 22:23+0000\n"
+"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"PO-Revision-Date: 2017-08-23 21:14+0000\n"
 "Last-Translator: Moo <hazap@hotmail.com>\n"
 "Language-Team: Lithuanian <lt@li.org>\n"
+"Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
-"Language: lt\n"
+"X-Launchpad-Export-Date: 2017-10-06 18:48+0000\n"
+"X-Generator: Launchpad (build 18474)\n"
 
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/accessibility.html:1
-msgid "Accessibility in Kubuntu"
-msgstr "Kubuntu pritaikyta neįgaliesiems"
+#. type: Content of: <div><div><h1>
+#: slideshows/kubuntu/slides/00_Welcome.html:3
+msgid "Welcome to Kubuntu"
+msgstr "Sveiki atvykę į Kubuntu"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/accessibility.html:6
+#. type: Attribute 'alt' of: <div><div><img>
+#: slideshows/kubuntu/slides/00_Welcome.html:7
+msgid "kubuntu logo"
+msgstr "kubuntu logotipas"
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/00_Welcome.html:11
+msgid "Thanks for picking Kubuntu!"
+msgstr "Dėkojame, kad pasirinkote Kubuntu!"
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/00_Welcome.html:12
 msgid ""
-"We want to make computers work for everyone, whatever your physical "
-"circumstances. So, we provide tools that make Kubuntu one of the most "
-"accessible operating systems around."
+"Kubuntu combines the best of the KDE Community's software with Ubuntu's base "
+"to make a great desktop experience"
 msgstr ""
-"Mes norime, kad kompiuteriais galėtų naudotis visi, nesvarbu kokia yra jūsų "
-"fizinė būklė. Todėl kartu su Kubuntu pateikiame specialius įrankius, kad ši "
-"operacinė sistema būtų viena iš geriausiai pritaikytų neįgaliesiems."
+"Kubuntu suderina geriausią KDE bendruomenės programinę įrangą kartu su "
+"Ubuntu pagrindu ir taip sukuria nuostabų darbalaukio patyrimą"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/accessibility.html:9
+#. type: Content of: <div><div><h1>
+#: slideshows/kubuntu/slides/01_Applications.html:3
+msgid "Find everything you need on your new install"
+msgstr "Raskite savo naujame diegime viską, ko reikia"
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/01_Applications.html:7
 msgid ""
-"You can get at these tools in one place: the <em>Accessibility</em> "
-"preferences, inside the Desktop Behavior from the System Settings "
-"application from the menu. From there, you can turn on helpful tools like "
-"<em>Modifier Keys</em>, <em>Keyboard Filters</em>, and <em>Activation "
-"Gestures</em>."
-msgstr ""
-"Jūs galite gauti visus šiuos įrankius vienoje vietoje: Sistemos nustatymų "
-"meniu programoje, skyrelyje Darbalaukio elgsena, <em>Prieinamumo</em> "
-"nuostatose. Ten, jūs galite įjungti tokius naudingus įrankius kaip "
-"<em>Modifikavimo klavišai</em>, <em>Klaviatūros filtrai</em>, ir "
-"<em>Aktyvavimo gestai</em>."
+"Kubuntu comes with most of the applications that you need on a daily basis."
+msgstr "Kubuntu yra pateikiama su daugeliu kasdien reikalingų programų."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/accessibility.html:13
-msgid "Remember to also look over the <em>Application Style</em>."
-msgstr "Taip pat nepamirškite pažvelgti į <em>Programų stilių</em>."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/games.html:1
-msgid "Get your game on with Kubuntu"
-msgstr "Išbandykite save, žaisdami Kubuntu žaidimus"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:6
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/01_Applications.html:8
 msgid ""
-"With hundreds of game titles in our online repository, Kubuntu allows you to "
-"not be all about work, but also allows you to play."
+"For everything else you can install more software in Discover our software "
+"center"
 msgstr ""
-"Kubuntu leidžia ne tik dirbti, bet ir žaisti - internetinėje saugykloje yra "
-"šimtai žaidimų."
+"Viskam kitam galite įdiegti daugiau programinės įrangos, naudodami Discover "
+"- mūsų programinės įrangos centrą"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:9
-msgid "You can easily install Steam"
-msgstr "Jūs galite lengvai įsidiegti Steam"
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:13
+msgid "Firefox"
+msgstr "Firefox"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:10
-msgid ""
-"The <em>KDE Applications</em> have quite a few games ranging from "
-"card games to logic games and board games."
-msgstr ""
-"<em>KDE programų rinkinyje</em> yra gana nemažai įvairių žaidimų: kortų, "
-"logikos bei stalo žaidimų."
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:14
+msgid "Web Browser"
+msgstr "Saityno naršyklė"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/games.html:12
-msgid ""
-"First Person Shooters, Role Playing Games, and more are also available in "
-"the repositories."
-msgstr ""
-"Pirmojo asmens šaudyklės, žaidimai vaidmenimis bei daugelis kitų žaidimų yra "
-"prieinami saugyklose."
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:18
+msgid "Kontact"
+msgstr "Kontact"
 
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/get-help.html:1
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:19
+msgid "Email, Contacts"
+msgstr "El. paštas, kontaktai"
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:23
+msgid "LibreOffice"
+msgstr "LibreOffice"
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:24
+msgid "Office Suite"
+msgstr "Raštinės programų paketas"
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:28
+msgid "Discover"
+msgstr "Discover"
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:29
+msgid "Software Center"
+msgstr "Programinės įrangos centras"
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:35
+msgid "Amarok"
+msgstr "Amarok"
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:36
+msgid "Music Player"
+msgstr "Muzikos grotuvas"
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:40
+msgid "Dragon Player"
+msgstr "Dragon grotuvas"
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:41
+msgid "Video Player"
+msgstr "Vaizdo grotuvas"
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:45
+msgid "Okular"
+msgstr "Okular"
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:46
+msgid "Document Viewer"
+msgstr "Dokumentų žiūryklė"
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:50
+msgid "Dophin"
+msgstr "Dolphin"
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:51
+msgid "File Manager"
+msgstr "Failų tvarkytuvė"
+
+#. type: Content of: <div><div><h1>
+#: slideshows/kubuntu/slides/02_Accessibility.html:3
+msgid "Kubuntu: for all users"
+msgstr "Kubuntu: visiems naudotojams"
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/02_Accessibility.html:15
+msgid "We want Kubuntu to work for everyone."
+msgstr "Mes norime, kad Kubuntu tiktų visiems."
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/02_Accessibility.html:16
+msgid "We include a screen reader, modifier keys and more."
+msgstr "Mes įtraukėme ekrano skaityklę, modifikavimo klavišus ir daugiau."
+
+#. type: Content of: outside any tag (error?)
+#: slideshows/kubuntu/slides/02_Accessibility.html:20
+msgid "r"
+msgstr "r"
+
+#. type: Content of: <div><div><h1>
+#: slideshows/kubuntu/slides/03_Get-Help.html:3
 msgid "Getting help with Kubuntu"
 msgstr "Pagalba Kubuntu sistemos naudotojams"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/get-help.html:6
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/03_Get-Help.html:11
 msgid ""
-"If you need help, try <em>Help</em> from the menu, or the <em>Help</em> menu "
-"in most applications."
+"If you need help, try Help from the menu, or the Help menu in most "
+"applications.  Let us know about your Kubuntu experience at <a href=\"http://"
+"www.kubuntu.org/community\">Kubuntu Community</a>!"
 msgstr ""
-"Jei reikia pagalbos - paspauskite meniu esantį elementą <em>Pagalba</em> "
-"arba pasirinkite meniu punktą <em>Žinynas</em>, kurį rasite daugelyje "
-"programų."
+"Jeigu jums reikia pagalbos, pabandykite Pagalbą iš meniu arba daugelyje "
+"programų Pagalbos meniu. Praneškite mums apie savo patyrimą su Kubuntu, "
+"apsilankę <a href=\"http://www.kubuntu.org/community\">Kubuntu "
+"bendruomenėje</a>!"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/get-help.html:8
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/03_Get-Help.html:14
 msgid ""
 "In addition to our extensive written help, the Kubuntu community in "
 "conjunction with the Ubuntu community, provides free technical support in "
-"person and over the Internet. Learn more at <a "
-"href=\"http://www.kubuntu.org/support\">kubuntu.org/support</a>."
+"person and over the Internet. Learn more at <a href=\"http://www.kubuntu.org/"
+"support\">Kubuntu Support</a>."
 msgstr ""
-"Papildomai prie mūsų išplėstinio žinyno, Kubuntu bendruomenė kartu su Ubuntu "
-"bendruomene, asmeniškai teikia nemokamą techninę pagalbą per internetą. "
-"Sužinokite daugiau, adresu <a "
-"href=\"http://www.kubuntu.org/support\">kubuntu.org/support</a>."
+"Papildomai prie mūsų plačiai aprašytos pagalbos, Kubuntu bendruomenė kartu "
+"su Ubuntu bendruomene teikia nemokamą techninį palaikymą asmeniškai ir "
+"internetu. Sužinokite daugiau, apsilankę <a href=\"http://www.kubuntu.org/"
+"support\">Kubuntu palaikyme</a>."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/get-help.html:12
+#. type: Content of: <div><div><p><ul><li>
+#: slideshows/kubuntu/slides/03_Get-Help.html:18
 msgid ""
-"Let us know about your Kubuntu experience at <a "
-"href=\"http://www.kubuntu.org/community\">kubuntu.org/community</a>!"
+"Kubuntu Community: <a href=\"http://www.kubuntu.org/community\">http://www."
+"kubuntu.org/community</a>"
 msgstr ""
-"Praneškite mums apie savo patyrimus su Kubuntu, adresu <a "
-"href=\"http://www.kubuntu.org/community\">kubuntu.org/community</a>!"
+"Kubuntu bendruomenė: <a href=\"http://www.kubuntu.org/community\">http://www."
+"kubuntu.org/community</a>"
 
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/get-involved.html:1
-msgid "Get involved and contribute to Kubuntu"
-msgstr "Įsitraukite ir talkinkite Kubuntu"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/get-involved.html:6
+#. type: Content of: <div><div><p><ul><li>
+#: slideshows/kubuntu/slides/03_Get-Help.html:19
 msgid ""
-"The Kubuntu community consists of a group of individuals, who make up one of "
-"the greatest teams in the open source community, work on various aspects of "
-"the distribution, providing advice and technical support, as well as helping "
-"to promote Kubuntu to a wider audience."
+"Kubuntu Support:<a href=\"http://www.kubuntu.org/support\">http://www."
+"kubuntu.org/support</a>"
 msgstr ""
-"Kubuntu bendruomenė yra sudaryta iš asmenų grupės, kuri yra viena iš "
-"geriausių komandų atviro kodo bendruomenėje ir kuri dirba ties įvairiais "
-"distribucijos aspektais. Ši komanda atlieka savo darbą, pateikdama patarimus "
-"ir techninę pagalbą, o taip pat padėdama reklamuoti Kubuntu platesniai "
-"audiencijai."
+"Kubuntu palaikymas:<a href=\"http://www.kubuntu.org/support\">http://www."
+"kubuntu.org/support</a>"
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/get-involved.html:11
+#. type: Content of: <div><div><h1>
+#: slideshows/kubuntu/slides/04_Get-Involved.html:3
+msgid "Getting involved with Kubuntu"
+msgstr "Įsitraukimas į Kubuntu"
+
+#. type: Attribute 'alt' of: <div><div><img>
+#: slideshows/kubuntu/slides/04_Get-Involved.html:7
+msgid "breeze users icon"
+msgstr "breeze naudotojų piktograma"
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/04_Get-Involved.html:12
+msgid ""
+"The Kubuntu community consists of a group of individuals, who made up one of "
+"the greatest teams in the open source community, working on various aspects "
+"of the distribution, providing advice and technical support, as well as "
+"helping to promote Kubuntu to a wider audience."
+msgstr ""
+"Kubuntu bendruomenė susideda iš grupės asmenų, kurie atvirojo kodo "
+"bendruomenėje sudaro vieną iš nuostabiausių komandų, kuri dirba įvairiuose "
+"distribucijos aspektuose, teikia patarimus ir techninį palaikymą, o taip pat "
+"padeda platesniam žmonių ratui sužinoti apie Kubuntu."
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/04_Get-Involved.html:19
 msgid ""
 "No matter your skill level, getting involved and helping to mold the future "
 "of Kubuntu is easy, and you are more than welcome to help out."
@@ -156,278 +242,29 @@ msgstr ""
 "Nesvarbu ar Jūs esate patyrę ar ne – prisijungti prie bendruomenės ir padėti "
 "kurti Kubuntu ateitį yra lengva, o jūsų pagalba yra labai laukiama."
 
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/get-involved.html:14
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/04_Get-Involved.html:24
 msgid ""
-"Look over <a "
-"href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase.kde.org/Kubuntu"
-"/Contribute</a> and see where you might be able to help out. Remember, it is "
-"easy to get involved and the work you do will be seen by millions of people "
+"Look over <a href=\"http://docs.kubuntu.org/docs/contribute.html\">Kubuntu "
+"Manual</a> and see where you might be able to help out. Remember, it is easy "
+"to get involved and the work you do will be seen by millions of people "
 "around the world."
 msgstr ""
-"Užmeskite akį į <a "
-"href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase.kde.org/Kubuntu"
-"/Contribute</a> ir pasižiūrėkite, kurioje srityje jūs galėtumėte padėti. "
-"Prisiminkite, kad įsitraukti yra lengva, o jūsų atliktus darbus, matys "
-"milijonai žmonių visame pasaulyje."
+"Peržiūrėkite <a href=\"http://docs.kubuntu.org/docs/contribute.html"
+"\">Kubuntu vadovą</a> ir sužinokite kur jūs galėtumėte padėti. Prisiminkite, "
+"įsitraukti yra lengva, o jūsų darbą matys milijonai žmonių visame pasaulyje."
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/get-involved.html:20
-msgid "The installation will finish soon. We hope you enjoy Kubuntu."
+#: slideshows/kubuntu/slides/04_Get-Involved.html:30
+msgid "The installation will finish soon. We hope you enjoy Kubuntu!"
 msgstr ""
-"Diegimas netrukus bus baigtas. Tikimės, kad Jums bus malonu naudotis Kubuntu "
-"sistema."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/graphics.html:1
-msgid "Organize, enjoy, and share your photos"
-msgstr "Mėgaukitės, tvarkykite ir dalinkitės savo nuotraukomis"
+"Įdiegimas greitu metu bus užbaigtas. Tikimės, kad jūs mėgausitės Kubuntu!"
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/graphics.html:5
+#: slideshows/kubuntu/slides/04_Get-Involved.html:33
 msgid ""
-"With <em>Gwenview</em>, it is really easy to organize and share your photos."
+"Kubuntu Manual: <a href=\"http://docs.kubuntu.org/docs/contribute.html"
+"\">http://docs.kubuntu.org/docs/contribute.html</a>"
 msgstr ""
-"Programos <em>Gwenview</em> dėka yra tikrai lengva dalintis ir rūšiuoti "
-"skaitmenines nuotraukas."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/graphics.html:7
-msgid ""
-"Use the Export option to copy your photos to a remote computer, iPod, a "
-"custom HTML gallery, or to export to services such as Flickr, SmugMug, "
-"PicasaWeb, and more."
-msgstr ""
-"Naudokite eksportavimo parinktį, kad kopijuotumėte savo nuotraukas į "
-"nuotolinį kompiuterį, iPod, tinkintą HTML galeriją, arba, kad "
-"eksportuotumėte į tokias tarnybas kaip Flickr, SmugMug, PicasaWeb bei kitas."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/graphics.html:10
-msgid ""
-"For more advanced organization and editing features, <em>digiKam</em> is "
-"available for installation."
-msgstr ""
-"Dar labiau išplėstinėms tvarkymo ir redagavimo ypatybėms, yra paruošta "
-"įdiegti programa <em>digiKam</em>."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/installing-software.html:1
-msgid "Installing additional software"
-msgstr "Įdiekite norimą programinę įrangą"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/installing-software.html:6
-msgid ""
-"Take a look at the <em>Discover</em> application in the menu. "
-"Discover will allow you to install (and remove) software from our online "
-"repositories, which we carefully organize to be safe and up to date."
-msgstr ""
-"Meniu, užmeskite akį į programą <em>Discover</em>. Discover leis "
-"jums į savo kompiuterį įdiegti (ir šalinti) programinę įrangą iš mūsų "
-"saugyklų internete, kurias mes rūpestingai tvarkome, kad jos būtų saugios ir "
-"atnaujintos."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/installing-software.html:10
-msgid ""
-"There is great software for everything from creating music and movies to "
-"producing 3D models and exploring the universe."
-msgstr ""
-"Ten yra puikių programų visiems poreikiams - nuo muzikos, filmų ar "
-"animacijos kūrimo, iki trimačio modeliavimo bei kosmoso tyrinėjimų ar "
-"žaidimų."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/installing-software.html:12
-msgid ""
-"If you need something that isn't available through us, find out if there is "
-"a Debian package or another repository available. That way, it will be "
-"really easy to install and you will receive automatic updates."
-msgstr ""
-"Jeigu jums reikės kažkokios programos, kurios nėra mūsų saugyklose - "
-"susiraskite internete tos programos Debian (ar Ubuntu) paketą arba "
-"specialiai Ubuntu sistemoms skirtą saugyklą (APT repository). Į deb paketus "
-"supakuotas programas, ar programas, esančias Ubuntu sistemai paruoštose "
-"saugyklose yra lengva įdiegti bei atnaujinti."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/internet.html:1
-msgid "Make the most of the web"
-msgstr "Išnaudokite visas interneto galimybes"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:5
-msgid ""
-"Kubuntu includes Mozilla Firefox, the web browser used by millions of people "
-"around the world."
-msgstr ""
-"Kubuntu yra pateikiama su Mozilla Firefox - interneto naršykle, kurią "
-"naudoja milijonai žmonių visame pasaulyje."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:6
-msgid ""
-"Browse the web, share your files, software, and multimedia, send and receive "
-"e-mail, and communicate with friends and family."
-msgstr ""
-"Naršykite žiniatinklį, dalinkitės savo failais, nuotraukomis, filmais bei "
-"programomis, siųskite ir gaukite el. paštą, bendraukite su draugais, šeima "
-"ar kolegomis."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/internet.html:9
-msgid ""
-"Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
-"installable."
-msgstr ""
-"Tokios naršyklės kaip <em>Chromium</em> ir <em>Rekonq</em> yra lengvai "
-"įdiegiamos."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/multimedia.html:1
-msgid "Music and movies in Kubuntu"
-msgstr "Muzika ir filmai Kubuntu sistemoje"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/multimedia.html:5
-msgid ""
-"Kubuntu is ready to play videos and music from the web, from CDs and DVDs."
-msgstr ""
-"Kubuntu yra paruošta groti vaizdo įrašus bei muziką iš saityno, CD bei DVD "
-"diskų."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/multimedia.html:7
-msgid ""
-"<em>Amarok</em> audio player lets you organize your music and listen to "
-"Internet radio, podcasts, and more, as well as synchronizes your audio "
-"collection to a portable audio player."
-msgstr ""
-"Garso grotuvas <em>Amarok</em> leidžia jums tvarkyti savo muziką ir "
-"klausytis internetinio radijo, tinklalaidžių ir daug daugiau, bei "
-"sinchronizuoja jūsų garso kolekcija su nešiojamuoju garso grotuvu."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/multimedia.html:10
-msgid ""
-"<em>Dragon Player</em> allows you to easily watch videos from your computer, "
-"DVD, or streamed over the Internet."
-msgstr ""
-"Su <em>Dragon Player</em> galite paprastai žiūrėti filmus bei vaizdo įrašus "
-"iš kompiuterio, DVD, ar tiesiogiai iš Interneto."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/office.html:1
-msgid "Office tools at your fingertips"
-msgstr "Biuro programos visiems poreikiams"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/office.html:5
-msgid ""
-"<em>LibreOffice</em> is a powerful office software suite that is very easy "
-"to learn and use."
-msgstr ""
-"<em>LibreOffice</em> – tai galingas biuro programų paketas, kuriuo dirbti "
-"yra paprasta."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/office.html:7
-msgid ""
-"Use it to create letters, presentations and spreadsheets, as well as "
-"diagrams and databases."
-msgstr ""
-"Naudokite LibreOffice kurti dokumentus, pateiktis, el. lenteles, diagramas "
-"ar duomenų bazes."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/office.html:9
-msgid ""
-"<em>LibreOffice</em> works with documents from other popular office "
-"applications including WordPerfect and Microsoft Office. It uses the "
-"standard OpenDocument format."
-msgstr ""
-"<em>LibreOffice</em> veikia su dokumentais iš kitų populiarių biuro "
-"programų, įskaitant WordPerfect ir Microsoft Office. LibreOffice naudoja "
-"standartinį OpenDocument formatą."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/pim.html:1
-msgid "Manage your contacts, dates, and e-mail"
-msgstr "Tvarkykite savo kontaktus, susitikimus bei el. paštą"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/pim.html:6
-msgid ""
-"<em>Kontact</em> is the fully-featured personal information management "
-"software that comes with Kubuntu. It contains applications for E-mail, "
-"Calendar, Address Book, and more."
-msgstr ""
-"<em>Kontact</em> yra kartu su Kubuntu pateikiama, visiškai parengta "
-"asmeninės informacijos tvarkymo programinė įranga. Joje yra programos, "
-"skirtos el. paštui, kalendoriui, adresų knygai ir daugiau."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/pim.html:9
-msgid ""
-"Send e-mail with <em>KMail</em> from services such as Yahoo, GMail, and "
-"various groupware services."
-msgstr ""
-"Siųskite el. paštą, naudodami <em>KMail</em> su tokiomis tarnybomis kaip "
-"Yahoo, GMail bei įvairiomis grupinio darbo programinių įrangų paslaugomis."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/pim.html:11
-msgid ""
-"Organize your calendar and scheduling with <em>KOrganizer</em> and "
-"synchronize with services such as Google's Calendar."
-msgstr ""
-"Tvarkykite savo kalendorių bei planus, naudodami <em>KOrganizer</em> ir "
-"sinchronizuokite su tokiomis paslaugomis kaip Google Kalendorius."
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/pim.html:13
-msgid ""
-"Keep your contacts organized with <em>KAddressBook</em> and import or export "
-"your contacts with nearly every address book standard as well synchronize "
-"with various groupware services."
-msgstr ""
-"Tvarkykite kontaktus, naudodami <em>KAddressBook</em> ir importuokite ar "
-"eksportuokite savo kontaktus į beveik bet kurį adresų knygos standartą, o "
-"taip pat sinchronizuokite su įvairiomis grupinio darbo programinių įrangų "
-"paslaugomis."
-
-#. type: Content of: <h1>
-#: slideshows/kubuntu/slides/welcome.html:1
-msgid "Welcome"
-msgstr "Sveiki"
-
-#. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/welcome.html:8
-msgid ""
-"We believe every computer user should be free to work in the environment "
-"they choose, and be free to download, change, study and share their software "
-"with anyone, for any purpose."
-msgstr ""
-"Mes tikime, kad kiekvienas kompiuterio naudotojas turėtų turėti galimybę "
-"laisvai dirbti savo pasirinktoje aplinkoje ir galėti laisvai atsisiųsti, "
-"taisyti, nagrinėti ir dalintis savo programine įranga su bet kuo, bet "
-"kokiais tikslais."
-
-#. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/welcome.html:15
-msgid "Kubuntu is designed to be easy. Feel free to explore!"
-msgstr "Kubuntu yra sukurta būti patogia ir lengva. Laisvai tyrinėkite!"
-
-#~ msgid ""
-#~ "We want Kubuntu to work for you. So while your software is installing, this "
-#~ "slideshow will introduce you to Kubuntu 17.04."
-#~ msgstr ""
-#~ "Mes norime, kad Kubuntu dirbtų jums. Taigi, kol jūsų programinė įranga yra "
-#~ "įdiegiama, ši pateiktis pristatys jums Kubuntu 17.04."
-
-#~ msgid ""
-#~ "Thank you for choosing Kubuntu 17.04. We hope you enjoy the experience."
-#~ msgstr ""
-#~ "Dėkojame, kad pasirinkote Kubuntu 17.04. Tikimės, kad jūs mėgausitės "
-#~ "patyrimais."
+"Kubuntu vadovas: <a href=\"http://docs.kubuntu.org/docs/contribute.html"
+"\">http://docs.kubuntu.org/docs/contribute.html</a>"
