@@ -2,10 +2,10 @@ Source: ubiquity-slideshow-ubuntu
 Section: x11
 Priority: optional
 Maintainer: Ubiquity Slideshow Team <ubiquity-slideshow@lists.launchpad.net>
-Build-Depends: cdbs, debhelper (>= 5)
+Build-Depends: debhelper (>= 11)
 Build-Depends-Indep: po4a, python-utidylib, python
 Vcs-Bzr: https://code.launchpad.net/~ubiquity-slideshow/ubiquity-slideshow-ubuntu/html
-Standards-Version: 3.9.6
+Standards-Version: 4.1.2
 Homepage: https://launchpad.net/ubiquity-slideshow-ubuntu
 
 Package: ubiquity-slideshow-ubuntu

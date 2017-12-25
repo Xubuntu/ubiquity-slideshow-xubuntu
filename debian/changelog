@@ -1,3 +1,12 @@
+ubiquity-slideshow-ubuntu (134) UNRELEASED; urgency=medium
+
+  * Switch from cdbs to dh
+  * Bump debhelper compat to 11
+  * Bump Standards-Version to 4.1.2
+  * Drop useless debian/source/options (default xz compression is fine)
+
+ -- Jeremy Bicha <jbicha@debian.org>  Mon, 25 Dec 2017 10:09:01 -0500
+
 ubiquity-slideshow-ubuntu (133) artful; urgency=medium
 
   * Update translations from launchpad.
