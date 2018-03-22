@@ -63,12 +63,28 @@ strong {
 	font-weight: bolder;
 }
 
-#icon {
+#icon-logo {
 	position: absolute;
         bottom: -15px;
         right: 55px;
 	width: 135px;
-	height: 135px;
+	height: 150px;
+}
+
+#icon-help {
+        position: absolute;
+        bottom: -15px;
+        right: 55px;
+        width: 135px;
+        height: 160px;
+}
+
+#icon-users {
+        position: absolute;
+        bottom: -15px;
+        right: 55px;
+        width: 135px;
+        height: 165px;
 }
 
 #wrapper {
@@ -221,7 +237,6 @@ img {
     list-style-type:disc;
     font-size:16px;
     text-align:left;
- /*   padding-top:25px; */
     padding-left:25px;
     width:455px;
     overflow:auto;
@@ -291,9 +306,11 @@ img {
 
 table {
 	border-radius: 5px;
+        border-spacing: 10px;
+        border-collapse: separate;
 	/*padding-top: 45px;*/
 	width: 85%;
-	margin: 0px auto;
+	margin: auto auto;
 	float: none;
 }
 
