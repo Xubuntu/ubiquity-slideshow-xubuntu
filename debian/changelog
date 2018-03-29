@@ -1,4 +1,4 @@
-ubiquity-slideshow-ubuntu (135) bionic; urgency=medium
+ubiquity-slideshow-ubuntu (135) UNRELEASED; urgency=medium
 
   [ Will Cooke ]
   * Updates for Ubuntu Desktop 18.04 (LP: #1759601)
@@ -6,9 +6,12 @@ ubiquity-slideshow-ubuntu (135) bionic; urgency=medium
     - Updated screenshots to 18.04.
     - Updated usc.html to include mention of the snap store.
 
-  [Jean-Baptiste Lallement]
+  [ Jean-Baptiste Lallement ]
     - Refreshed pot files for ubuntu and oem-config-ubuntu
     - Fixed broken link music.jpg for oem-config-ubuntu
+
+  [ Aaron Honeycutt ]
+  * Refreshed Kubuntu slideshow for 18.04.
 
  -- Jean-Baptiste Lallement <jean-baptiste.lallement@ubuntu.com>  Thu, 29 Mar 2018 10:55:22 +0200
 
