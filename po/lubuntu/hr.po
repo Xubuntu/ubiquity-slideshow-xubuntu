@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
-"PO-Revision-Date: 2017-09-09 15:07+0000\n"
-"Last-Translator: Kristijan Puljek <Unknown>\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2018-04-12 17:03+0000\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
 "Language-Team: Croatian <hr@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:49+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
@@ -44,7 +44,7 @@ msgid ""
 "both old and new computers, ensuring you a smooth desktop experience."
 msgstr ""
 "Lubuntu se temelji na <em>LXDE radnom okruženju</em>, brzih performansa i "
-"energetski učinkovito radno okruženje. LXDE provjereno radi na starim i "
+"energetski učinkovitom radnom okruženju. LXDE provjereno radi na starim i "
 "novim računalima, pružajući ugodno iskustvo."
 
 #. type: Content of: <div><h1>
@@ -82,12 +82,12 @@ msgstr "Firefox"
 #: slideshows/lubuntu/slides/04_media.html:32
 #: slideshows/lubuntu/slides/05_social.html:19
 msgid "Supported software"
-msgstr "Podržan softver"
+msgstr "Podržani softver"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:23
-msgid "Flash"
-msgstr "Flash"
+msgid "Qupzilla"
+msgstr "Qupzilla"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:28
@@ -130,18 +130,19 @@ msgstr "LibreOffice"
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/04_media.html:1
 msgid "Enjoy your music and videos"
-msgstr "Uživajte u glazbi i videu"
+msgstr "Uživajte u glazbi i video snimkama"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:10
 msgid ""
 "Listen to your favorite music with <em>Audacious</em>, a simple but powerful "
-"audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
-"video player powered by mplayer with support for many formats."
+"audio player. And enjoy all your videos with <em>Gnome MPV</em>, the next "
+"generation video player, with support for many formats."
 msgstr ""
-"Slušajte omiljenu glazbu s <em>Audaciousom</em>, jednostavnim ali moćnim "
-"glazbenim sviračem. Uživajte u video snimkama s <em>Gnome-Mplayer</em> kojeg "
-"pokreće mplayer i podržava većinu formata."
+"Slušajte svoju omiljenu glazbu sa <em>Audaciousom</em>, jednostavnim ali "
+"moćnim glazbenim reproduktorom. I uživajte u svojim video snimkama s "
+"<em>Gnome MPV</em>, budućom generacijom video reproduktora, s podrškom za "
+"mnoge formate."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:14
@@ -149,7 +150,7 @@ msgid ""
 "You can also obtain additional codec support by installing the <em>lubuntu-"
 "restricted-extras</em> package."
 msgstr ""
-"Podršku za dodatke kôdeke dobivate instalacijom <em>lubuntu-restricted-"
+"Podršku za dodatne kôdeke dobivate instalacijom <em>lubuntu-restricted-"
 "extras</em> paketom."
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -159,8 +160,8 @@ msgstr "Audacious"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:28
-msgid "Gnome-Mplayer"
-msgstr "Gnome-Mplayer"
+msgid "Gnome MPV"
+msgstr "Gnome MPV"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:36
@@ -175,7 +176,7 @@ msgstr "VLC medijski izvođač"
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/05_social.html:1
 msgid "Chat with your friends"
-msgstr "Čavrljajte s prijateljima"
+msgstr "Razgovarajte s prijateljima"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/05_social.html:8
@@ -184,7 +185,7 @@ msgid ""
 "friends. It supports a wide range of chat services, such as AIM, Google Talk "
 "and Facebook."
 msgstr ""
-"S <em>Pidginom</em>, možete ostati u kontaktu sa svim vašim prijateljima."
+"S <em>Pidginom</em>, možete ostati u kontaktu sa svim svojim prijateljima. "
 "Podržava većinu usluga, poput AIM, Google Talka i Facebooka."
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -211,11 +212,11 @@ msgid ""
 "and explore categories such as games, science and education, or search for "
 "your favorite software."
 msgstr ""
-"Sa Lubuntuom, imate pristup cijelom Ubuntu repozitoriju i sav uključen "
-"softver. To znači da su vašem računalu dostupne tisuće aplikacija, besplatno "
-"bez naplaćivanja. Koristite obnovljenu aplikaciju <em>Softvera</em> i "
-"istražite kategorije poput igra, znanosti i obrazovanja, ili pretražite svoj "
-"omiljeni softver."
+"S Lubuntuom, imate pristup cijelom Ubuntu repozitoriju i svom uključenom "
+"softveru. To znači da su vašem računalu dostupne tisuće aplikacija, "
+"besplatno bez naplaćivanja. Koristite obnovljenu aplikaciju <em>Softvera</"
+"em> i istražite kategorije poput igra, znanosti i obrazovanja, ili "
+"pretražite svoj omiljeni softver."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/07_help.html:1
@@ -255,42 +256,17 @@ msgstr ""
 "bilo slanjem povratnih informacija ili uključivanjem u projekt, posjetite "
 "našu <a href=\"http://lubuntu.me/\">web stranicu</a>."
 
-#~ msgid ""
-#~ "With Lubuntu, you have access to the whole Ubuntu repository and all the "
-#~ "software included. This means that thousands of new applications are "
-#~ "ready for your computer, free of charge. Use the <em>Lubuntu Software "
-#~ "Center</em> and explore categories such as games, science and education, "
-#~ "or search for your favorite software."
-#~ msgstr ""
-#~ "S Lubuntuom, imate pristup cjelokupnom Ubuntu repozitoriju i svom "
-#~ "softveru uključenom u njega. To znači da su na tisuće novih aplikacija "
-#~ "spremne za korištenje na vašem računalu , besplatno. Koristite "
-#~ "<em>Lubuntu centar softvera</em> i istražite kategorije poput igara, "
-#~ "znanosti i obrazovanja, ili potražite svoj omiljeni softver."
+#~ msgid "Flash"
+#~ msgstr "Flash"
 
 #~ msgid ""
-#~ "The installation will finish soon. We hope you will enjoy Lubuntu and all "
-#~ "the freedom that comes with it.  If you wish to help us improve Lubuntu, "
-#~ "either by giving us feedback or by getting involved in the project, "
-#~ "please visit our <a href=\"http://lubuntu.net/\">website</a>."
+#~ "Listen to your favorite music with <em>Audacious</em>, a simple but "
+#~ "powerful audio player. And enjoy all your videos with <em>Gnome-Mplayer</"
+#~ "em>, a fast video player powered by mplayer with support for many formats."
 #~ msgstr ""
-#~ "Instalacija će uskoro završiti. Nadamo se da ćete uživati u Lubuntu i sa "
-#~ "svom slobodom koja dolazi uz njega.  Ako nam želite pomoći poboljšati "
-#~ "Lubuntu, ili davajući nam povratne informacije ili uključujući u projekt, "
-#~ "posjetite našu <a href=\"http://lubuntu.net/\">internet stranicu</a>."
+#~ "Slušajte omiljenu glazbu s <em>Audaciousom</em>, jednostavnim ali moćnim "
+#~ "glazbenim sviračem. Uživajte u video snimkama s <em>Gnome-Mplayer</em> "
+#~ "kojeg pokreće mplayer i podržava većinu formata."
 
-#~ msgid ""
-#~ "One of the biggest advantages with Lubuntu is the wonderful community "
-#~ "that comes with it. Other users will gladly help you out if you encounter "
-#~ "problems. There are many different ways to get help, the easiest way is "
-#~ "to visit our <a href=\"http://lubuntu.net/\">website</a>, as we've "
-#~ "gathered all the information you need."
-#~ msgstr ""
-#~ "Jedno od najvećih prednosti Lubuntua je čudesna zajednica koja dolazi s "
-#~ "njim. Ostali korisnici  drage volje će vam pomoći ako naiđete na problem. "
-#~ "Postoji mnogo različitih načina za dobivanje pomoći, najlakši način je "
-#~ "tako da posjetite <a href=\"http://lubuntu.net/\">Internet stranicu</a>, "
-#~ "na kojoj smo prikupili sve informacije koje su vam potrebne."
-
-#~ msgid "Welcome to Lubuntu 17.04"
-#~ msgstr "Dobrodošli u Lubuntu 17.04"
+#~ msgid "Gnome-Mplayer"
+#~ msgstr "Gnome-Mplayer"

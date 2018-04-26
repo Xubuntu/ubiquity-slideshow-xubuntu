@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
-"PO-Revision-Date: 2017-10-11 23:14+0000\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2018-04-10 13:08+0000\n"
 "Last-Translator: Yaron <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:48+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
@@ -85,8 +85,8 @@ msgstr "תוכנות נתמכות"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:23
-msgid "Flash"
-msgstr "פלאש"
+msgid "Qupzilla"
+msgstr "Qupzilla"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:28
@@ -135,12 +135,12 @@ msgstr "ליהנות מהמוזיקה ומסרטוני הווידאו שלך"
 #: slideshows/lubuntu/slides/04_media.html:10
 msgid ""
 "Listen to your favorite music with <em>Audacious</em>, a simple but powerful "
-"audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
-"video player powered by mplayer with support for many formats."
+"audio player. And enjoy all your videos with <em>Gnome MPV</em>, the next "
+"generation video player, with support for many formats."
 msgstr ""
-"ניתן להאזין למוזיקה המועדפת עליך עם <em>Audacious</em>, נגן מוזיקה פשוט "
-"ועצמתי. כמו כן, ליהנות מכל הסרטונים שלך עם <em>Gnome-Mplayer</em>, נגן "
-"סרטונים מהיר שמופעל על גבי mplayer עם תמיכה בסוגים רבים ושונים של סרטונים."
+"ניתן להאזין למוזיקה האהובה עליך עם <em>Audacious</em>, נגן שמע פשוט ורב "
+"עצמה. כמו כן, ליהנות מכל הסרטונים שלך עם <em>Gnome MPV</em>, נגן וידאו מהדור "
+"הבא, עם תמיכה בסוגי סרטונים רבים."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:14
@@ -158,8 +158,8 @@ msgstr "Audacious"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:28
-msgid "Gnome-Mplayer"
-msgstr "Gnome-Mplayer"
+msgid "Gnome MPV"
+msgstr "Gnome MPV"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:36
@@ -252,39 +252,17 @@ msgstr ""
 "או על ידי מעורבות במיזם, נא לבקר ב<a href=\"http://lubuntu.me/\">אתר</a> "
 "שלנו."
 
-#~ msgid ""
-#~ "The installation will finish soon. We hope you will enjoy Lubuntu and all "
-#~ "the freedom that comes with it.  If you wish to help us improve Lubuntu, "
-#~ "either by giving us feedback or by getting involved in the project, "
-#~ "please visit our <a href=\"http://lubuntu.net/\">website</a>."
-#~ msgstr ""
-#~ "ההתקנה תסתיים בקרוב. אנו מקווים שתיהנה מלובונטו ומכל החירות שמגיעה יחד "
-#~ "אתה. אם ברצונך לעזור לשפר את לובונטו, או על ידי הגשת משוב או על ידי "
-#~ "מעורבות במיזם, ניתן לבקר ב<a href=\"http://lubuntu.net/\">אתר</a> שלנו."
+#~ msgid "Flash"
+#~ msgstr "פלאש"
 
-#~ msgid "Welcome to Lubuntu 17.04"
-#~ msgstr "ברוך בואך ללובונטו 17.04"
+#~ msgid "Gnome-Mplayer"
+#~ msgstr "Gnome-Mplayer"
 
 #~ msgid ""
-#~ "One of the biggest advantages with Lubuntu is the wonderful community "
-#~ "that comes with it. Other users will gladly help you out if you encounter "
-#~ "problems. There are many different ways to get help, the easiest way is "
-#~ "to visit our <a href=\"http://lubuntu.net/\">website</a>, as we've "
-#~ "gathered all the information you need."
+#~ "Listen to your favorite music with <em>Audacious</em>, a simple but "
+#~ "powerful audio player. And enjoy all your videos with <em>Gnome-Mplayer</"
+#~ "em>, a fast video player powered by mplayer with support for many formats."
 #~ msgstr ""
-#~ "אחד מהיתרונות הגדולים בלובונטו הוא הקהילה הנפלאה שמתלווה אליה. משתמשים "
-#~ "אחרים ישמחו לסייע לך אם נתקלת בבעיות. ישנן מגוון דרכים לקבל עזרה, הדרך "
-#~ "הקלה ביותר היא לבקר ב<a href=\"http://lubuntu.net/\">אתר</a> שלנו, בו "
-#~ "הכנו את כל המידע הדרוש לך."
-
-#~ msgid ""
-#~ "With Lubuntu, you have access to the whole Ubuntu repository and all the "
-#~ "software included. This means that thousands of new applications are "
-#~ "ready for your computer, free of charge. Use the <em>Lubuntu Software "
-#~ "Center</em> and explore categories such as games, science and education, "
-#~ "or search for your favorite software."
-#~ msgstr ""
-#~ "עם לובונטו יש לך גישה לכל המאגר של אובונטו ולכל התכניות שנלוות למערכת. "
-#~ "משמעות הדבר היא שניתן להתקין אלפי יישומים חדשים למחשב ללא כל עלות. ניתן "
-#~ "להשתמש ב<em>מרכז התכנה של לובונטו</em> ולעיין בקטגוריות כגון משחקים, מדע "
-#~ "וחינוך, או לחפש את התכניות האהובות עליך."
+#~ "ניתן להאזין למוזיקה המועדפת עליך עם <em>Audacious</em>, נגן מוזיקה פשוט "
+#~ "ועצמתי. כמו כן, ליהנות מכל הסרטונים שלך עם <em>Gnome-Mplayer</em>, נגן "
+#~ "סרטונים מהיר שמופעל על גבי mplayer עם תמיכה בסוגים רבים ושונים של סרטונים."

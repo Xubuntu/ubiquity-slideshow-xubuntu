@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
 "PO-Revision-Date: 2017-09-08 19:52+0000\n"
 "Last-Translator: schuko24 <gerdsaenger@t-online.de>\n"
 "Language-Team: German <de@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:48+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/00_Welcome.html:3
@@ -26,7 +26,7 @@ msgstr "Willkommen bei Kubuntu"
 #. type: Attribute 'alt' of: <div><div><img>
 #: slideshows/kubuntu/slides/00_Welcome.html:7
 msgid "kubuntu logo"
-msgstr ""
+msgstr "Kubuntu-Logo"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:11
@@ -39,8 +39,15 @@ msgid ""
 "Kubuntu combines the best of the KDE Community's software with Ubuntu's base "
 "to make a great desktop experience"
 msgstr ""
-"Kubuntu vereinigt das Beste der KDE Community Software mit Ubuntus Basis für "
-"ein tolles Desktoperlebnis"
+"Kubuntu vereinigt das Beste der Programme von der KDE-Gemeinschaft mit "
+"Ubuntu als Basis für ein tolles Schreibtischerlebnis"
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/00_Welcome.html:13
+msgid ""
+"This slideshow will go over the default applications, how to get help, and "
+"how to contribute to Kubuntu"
+msgstr ""
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/01_Applications.html:3
@@ -56,8 +63,9 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/01_Applications.html:8
+#, fuzzy
 msgid ""
-"For everything else you can install more software in Discover our software "
+"For everything else, you can install more software in Discover, our software "
 "center"
 msgstr "Alles weitere kann über das Software Center installiert werden"
 
@@ -78,8 +86,8 @@ msgstr "Kontakt"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:19
-msgid "Email, Contacts"
-msgstr "Email, Kontakte"
+msgid "PIM Suite"
+msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:23
@@ -103,43 +111,44 @@ msgstr "Software-Center"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:35
-msgid "Amarok"
-msgstr "Amarok"
+msgid "VLC"
+msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:36
-msgid "Music Player"
+#, fuzzy
+msgid "Media Player"
 msgstr "Musikwiedergabe"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:40
-msgid "Dragon Player"
-msgstr "Dragon Player"
-
-#. type: Content of: <div><div><table><tr><td><div>
-#: slideshows/kubuntu/slides/01_Applications.html:41
-msgid "Video Player"
-msgstr "Video-Wiedergabe"
-
-#. type: Content of: <div><div><table><tr><td><div>
-#: slideshows/kubuntu/slides/01_Applications.html:45
 msgid "Okular"
 msgstr "Okular"
 
 #. type: Content of: <div><div><table><tr><td><div>
-#: slideshows/kubuntu/slides/01_Applications.html:46
+#: slideshows/kubuntu/slides/01_Applications.html:41
 msgid "Document Viewer"
 msgstr "Dokumentenbetrachter"
 
 #. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:45
+msgid "Dolphin"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:46
+msgid "File Manager"
+msgstr "Dateiverwaltung"
+
+#. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:50
-msgid "Dophin"
-msgstr "Dolphin"
+msgid "Kate"
+msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:51
-msgid "File Manager"
-msgstr "Dateiverwaltung"
+msgid "Text Editor"
+msgstr ""
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/02_Accessibility.html:3
@@ -147,17 +156,17 @@ msgid "Kubuntu: for all users"
 msgstr "Kubuntu: für jeden"
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/02_Accessibility.html:15
+#: slideshows/kubuntu/slides/02_Accessibility.html:11
 msgid "We want Kubuntu to work for everyone."
 msgstr "Wir möchten, dass Kubuntu für jeden geeignet ist."
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/02_Accessibility.html:16
+#: slideshows/kubuntu/slides/02_Accessibility.html:12
 msgid "We include a screen reader, modifier keys and more."
 msgstr "Es gibt einen Bildschirmvorleser, Spezialtasten und weiter Funktionen"
 
 #. type: Content of: outside any tag (error?)
-#: slideshows/kubuntu/slides/02_Accessibility.html:20
+#: slideshows/kubuntu/slides/02_Accessibility.html:16
 msgid "r"
 msgstr "r"
 
@@ -193,8 +202,9 @@ msgstr ""
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:18
+#, fuzzy
 msgid ""
-"Kubuntu Community: <a href=\"http://www.kubuntu.org/community\">http://www."
+"Kubuntu Community: <a href=\"https://www.kubuntu.org/community\">http://www."
 "kubuntu.org/community</a>"
 msgstr ""
 "Kubuntu Community: <a href=\"http://www.kubuntu.org/community\">http://www."
@@ -202,8 +212,9 @@ msgstr ""
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:19
+#, fuzzy
 msgid ""
-"Kubuntu Support:<a href=\"http://www.kubuntu.org/support\">http://www."
+"Kubuntu Support: <a href=\"https://www.kubuntu.org/support\">http://www."
 "kubuntu.org/support</a>"
 msgstr ""
 "Kubuntu Hilfet:<a href=\"http://www.kubuntu.org/support\">http://www.kubuntu."
@@ -217,7 +228,7 @@ msgstr "Bei Kubuntu mitmachen"
 #. type: Attribute 'alt' of: <div><div><img>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:7
 msgid "breeze users icon"
-msgstr ""
+msgstr "Breeze-Benutzersymbol"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:12
@@ -235,352 +246,62 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:19
+#, fuzzy
 msgid ""
 "No matter your skill level, getting involved and helping to mold the future "
-"of Kubuntu is easy, and you are more than welcome to help out."
+"of Kubuntu is easy, and you are more than welcome to help out.Remember, it "
+"is easy to get involved and the work you do will be seen by millions of "
+"people around the world."
 msgstr ""
 "Egal, welche Fähigkeiten Sie haben, Sie können leicht dabei helfen, das "
 "System zu verbessern. Helfende Hände sind immer willkommen."
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/04_Get-Involved.html:24
-msgid ""
-"Look over <a href=\"http://docs.kubuntu.org/docs/contribute.html\">Kubuntu "
-"Manual</a> and see where you might be able to help out. Remember, it is easy "
-"to get involved and the work you do will be seen by millions of people "
-"around the world."
-msgstr ""
-"Besuchen Sie  <a href=\"http://docs.kubuntu.org/docs/contribute.html"
-"\">Kubuntu Manual</a> und finden Sie heraus, ob auch Sie helfen können. Es "
-"ist ganz einfach, mitzumachen und Ihre Arbeit wird von Millionen von "
-"Menschen in der ganzen Welt gesehen."
-
-#. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/04_Get-Involved.html:30
+#: slideshows/kubuntu/slides/04_Get-Involved.html:25
 msgid "The installation will finish soon. We hope you enjoy Kubuntu!"
 msgstr ""
 "Die Installation ist in Kürze abgeschlossen. Wir hoffen, dass Ihnen Kubuntu "
 "gefällt!"
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/04_Get-Involved.html:33
+#: slideshows/kubuntu/slides/04_Get-Involved.html:28
+#, fuzzy
 msgid ""
-"Kubuntu Manual: <a href=\"http://docs.kubuntu.org/docs/contribute.html"
-"\">http://docs.kubuntu.org/docs/contribute.html</a>"
+"Kubuntu Manual: <a href=\"https://kubuntu.org/support/\">https://kubuntu.org/"
+"support</a>"
 msgstr ""
-"Kubuntu Handbuch: <a href=\"http://docs.kubuntu.org/docs/contribute.html"
-"\">http://docs.kubuntu.org/docs/contribute.html</a>"
+"Kubuntu Hilfet:<a href=\"http://www.kubuntu.org/support\">http://www.kubuntu."
+"org/support</a>"
 
-#~ msgid "Accessibility in Kubuntu"
-#~ msgstr "Barrierefreiheit in Kubuntu"
-
-#~ msgid "Installing additional software"
-#~ msgstr "Zusätzliche Software installieren"
-
-#~ msgid "Welcome"
-#~ msgstr "Herzlich Willkommen"
+#~ msgid "Email, Contacts"
+#~ msgstr "Email, Kontakte"
 
 #~ msgid ""
-#~ "If you need something that isn't available through us, find out if there "
-#~ "is a Debian package or another repository available. That way, it will be "
-#~ "really easy to install and you will receive automatic updates."
+#~ "Look over <a href=\"http://docs.kubuntu.org/docs/contribute.html"
+#~ "\">Kubuntu Manual</a> and see where you might be able to help out. "
+#~ "Remember, it is easy to get involved and the work you do will be seen by "
+#~ "millions of people around the world."
 #~ msgstr ""
-#~ "Wenn Sie etwas benötigen, das nicht über uns verfügbar ist, suchen Sie am "
-#~ "besten nach einem Debian-Paket oder einer Software-Paketquelle. Das "
-#~ "vereinfacht die Installation und stellt sicher, dass Sie mit "
-#~ "automatischen Aktualisierungen versorgt werden."
+#~ "Besuchen Sie  <a href=\"http://docs.kubuntu.org/docs/contribute.html"
+#~ "\">Kubuntu Manual</a> und finden Sie heraus, ob auch Sie helfen können. "
+#~ "Es ist ganz einfach, mitzumachen und Ihre Arbeit wird von Millionen von "
+#~ "Menschen in der ganzen Welt gesehen."
 
-#~ msgid "Music and movies in Kubuntu"
-#~ msgstr "Musik und Filme in Kubuntu"
+#~ msgid "Amarok"
+#~ msgstr "Amarok"
 
-#~ msgid "Office tools at your fingertips"
-#~ msgstr "Büroanwendungen stets zur Hand"
-
-#~ msgid "Get involved and contribute to Kubuntu"
-#~ msgstr "Beteiligen Sie sich und unterstützen Sie Kubuntu"
-
-#~ msgid "The installation will finish soon. We hope you enjoy Kubuntu."
-#~ msgstr ""
-#~ "Die Installation wird bald abgeschlossen sein. Wir hoffen, dass Kubuntu "
-#~ "Ihnen gefallen wird."
-
-#~ msgid "Get your game on with Kubuntu"
-#~ msgstr "Finden Sie Ihr Spiel in Kubuntu!"
-
-#~ msgid "Kubuntu is designed to be easy. Feel free to explore!"
-#~ msgstr ""
-#~ "Kubuntu wurde gestaltet, um einfach zu sein. Erkunden Sie es ruhig selbst!"
+#~ msgid "Dophin"
+#~ msgstr "Dolphin"
 
 #~ msgid ""
-#~ "With <em>Gwenview</em>, it is really easy to organize and share your "
-#~ "photos."
+#~ "Kubuntu Manual: <a href=\"http://docs.kubuntu.org/docs/contribute.html"
+#~ "\">http://docs.kubuntu.org/docs/contribute.html</a>"
 #~ msgstr ""
-#~ "Mit <em>Gwenview</em> ist es besonders einfach, Fotos zu verwalten und "
-#~ "weiterzugeben."
+#~ "Kubuntu Handbuch: <a href=\"http://docs.kubuntu.org/docs/contribute.html"
+#~ "\">http://docs.kubuntu.org/docs/contribute.html</a>"
 
-#~ msgid ""
-#~ "If you need help, try <em>Help</em> from the menu, or the <em>Help</em> "
-#~ "menu in most applications."
-#~ msgstr ""
-#~ "Wenn Sie Hilfe benötigen, verwenden Sie <em>Hilfe</em> im Menü oder "
-#~ "nutzen Sie den Menüpunkt <em>Hilfe</em>, welcher in den meisten "
-#~ "Anwendungen verfügbar ist."
+#~ msgid "Dragon Player"
+#~ msgstr "Dragon-Medienwiedergabe"
 
-#~ msgid ""
-#~ "<em>Amarok</em> audio player lets you organize your music and listen to "
-#~ "Internet radio, podcasts, and more, as well as synchronizes your audio "
-#~ "collection to a portable audio player."
-#~ msgstr ""
-#~ "Mit dem Musikwiedergabeprogramm <em>Amarok</em> können Sie Musik, "
-#~ "Internet-Radio, Podcasts und mehr hören, sowie Ihre Audio-Sammlung mit "
-#~ "tragbaren Geräten synchronisieren."
-
-#~ msgid "Manage your contacts, dates, and e-mail"
-#~ msgstr "Verwalten Sie Ihre Kontakte, Termine und E-Mails"
-
-#~ msgid ""
-#~ "<em>Kontact</em> is the fully-featured personal information management "
-#~ "software that comes with Kubuntu. It contains applications for E-mail, "
-#~ "Calendar, Address Book, and more."
-#~ msgstr ""
-#~ "<em>Kontact</em> ist die voll ausgestattete Verwaltung für persönliche "
-#~ "Informationen, die mit Kubuntu ausgeliefert wird. Es enthält Anwendungen "
-#~ "für E-Mail, Kalender, Adressbuch und vieles mehr."
-
-#~ msgid ""
-#~ "Organize your calendar and scheduling with <em>KOrganizer</em> and "
-#~ "synchronize with services such as Google's Calendar."
-#~ msgstr ""
-#~ "Organisieren Sie Ihre Kalender- und Terminplanung mit <em>KOrganizer</em> "
-#~ "und synchronisieren Sie diese mit Diensten wie Google Calendar."
-
-#~ msgid ""
-#~ "There is great software for everything from creating music and movies to "
-#~ "producing 3D models and exploring the universe."
-#~ msgstr ""
-#~ "Sie finden dort großartige Software für jeden Zweck, vom Erstellen von "
-#~ "Musik oder Videos bis hin zur Produktion von 3D-Modellen und dem Erkunden "
-#~ "des Universums."
-
-#~ msgid ""
-#~ "For more advanced organization and editing features, <em>digiKam</em> is "
-#~ "available for installation."
-#~ msgstr ""
-#~ "Für weitergehende Organisations- und Bearbeitungsfunktionen steht "
-#~ "<em>digiKam</em> zur Installation zur Verfügung."
-
-#~ msgid ""
-#~ "Use it to create letters, presentations and spreadsheets, as well as "
-#~ "diagrams and databases."
-#~ msgstr ""
-#~ "Verwenden Sie es, um Briefe, Präsentationen und Tabellen, sowie Diagramme "
-#~ "und Datenbanken zu erstellen."
-
-#~ msgid ""
-#~ "Send e-mail with <em>KMail</em> from services such as Yahoo, GMail, and "
-#~ "various groupware services."
-#~ msgstr ""
-#~ "Senden Sie E-Mails mit <em>KMail</em> über Dienste wie Yahoo, Google Mail "
-#~ "und verschiedene Groupware-Dienstleister."
-
-#~ msgid ""
-#~ "<em>Dragon Player</em> allows you to easily watch videos from your "
-#~ "computer, DVD, or streamed over the Internet."
-#~ msgstr ""
-#~ "Mit <em>Dragon Player</em> können Sie ganz einfach Videos von Ihrem "
-#~ "Computer, von DVDs oder Internet-Streams ansehen."
-
-#~ msgid ""
-#~ "The Kubuntu community consists of a group of individuals, who make up one "
-#~ "of the greatest teams in the open source community, work on various "
-#~ "aspects of the distribution, providing advice and technical support, as "
-#~ "well as helping to promote Kubuntu to a wider audience."
-#~ msgstr ""
-#~ "Die Kubuntu-Gemeinschaft besteht aus einer Gruppe von Menschen, die zu "
-#~ "den größten Teams in der Open-Source-Gemeinschaft gehören. Sie arbeitet "
-#~ "an verschiedenen Aspekten der Distribution, gibt Ratschläge und "
-#~ "technische Unterstützung, sie hilft aber auch, Kubuntu einem größeren "
-#~ "Publikum näher zu bringen."
-
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "Fotos ansehen, sortieren und weitergeben"
-
-#~ msgid ""
-#~ "Use the Export option to copy your photos to a remote computer, iPod, a "
-#~ "custom HTML gallery, or to export to services such as Flickr, SmugMug, "
-#~ "PicasaWeb, and more."
-#~ msgstr ""
-#~ "Verwenden Sie die Exportfunktion, um Ihre Fotos auf einen entfernten "
-#~ "Computer, iPod oder in eine eigene HTML-Galerie zu kopieren oder "
-#~ "exportieren Sie sie zu Diensten wie Flickr, SmugMug, Picasa und vielen "
-#~ "weiteren."
-
-#~ msgid ""
-#~ "Browse the web, share your files, software, and multimedia, send and "
-#~ "receive e-mail, and communicate with friends and family."
-#~ msgstr ""
-#~ "Browsen Sie durch das Internet, teilen Sie Ihre Dateien, Software und "
-#~ "Multimediainhalte mit anderen, senden und empfangen Sie E-Mails und "
-#~ "kommunizieren Sie mit Freunden und Familie."
-
-#~ msgid ""
-#~ "Keep your contacts organized with <em>KAddressBook</em> and import or "
-#~ "export your contacts with nearly every address book standard as well "
-#~ "synchronize with various groupware services."
-#~ msgstr ""
-#~ "Speichern Sie Ihre Kontakte mit <em>KAddressBook</em>, importieren oder "
-#~ "exportieren Sie Ihre Kontakte über fast jedes Standard-Adressbuchformat "
-#~ "oder synchronisieren Sie Ihre Kontakte mit verschiedenen Groupware-"
-#~ "Diensten."
-
-#~ msgid ""
-#~ "Kubuntu is ready to play videos and music from the web, from CDs and DVDs."
-#~ msgstr ""
-#~ "Kubuntu ist dafür vorbereitet, Videos und Musik aus dem Internet sowie "
-#~ "von CDs und DVDs abzuspielen."
-
-#~ msgid ""
-#~ "<em>LibreOffice</em> is a powerful office software suite that is very "
-#~ "easy to learn and use."
-#~ msgstr ""
-#~ "<em>LibreOffice</em> ist eine leistungsfähige Zusammenstellung von "
-#~ "Büroanwendungen, die sehr einfach zu erlernen und benutzerfreundlich ist."
-
-#~ msgid ""
-#~ "With hundreds of game titles in our online repository, Kubuntu allows you "
-#~ "to not be all about work, but also allows you to play."
-#~ msgstr ""
-#~ "Mit Hunderten Spielen in unseren online verfügbaren Software-"
-#~ "Paketquellen, ermöglicht Ihnen Kubuntu nicht nur, Ihre Arbeit zu "
-#~ "erledigen, sondern auch zu spielen."
-
-#~ msgid ""
-#~ "We want to make computers work for everyone, whatever your physical "
-#~ "circumstances. So, we provide tools that make Kubuntu one of the most "
-#~ "accessible operating systems around."
-#~ msgstr ""
-#~ "Wir möchten Rechner für alle – unabhängig ihrer körperlichen Umstände – "
-#~ "nutzbar machen. Deshalb stellen wir die Werkzeuge zur Verfügung, die "
-#~ "Kubuntu zu einem der barrierefreiesten Betriebssysteme machen."
-
-#~ msgid ""
-#~ "Let us know about your Kubuntu experience at <a href=\"http://www.kubuntu."
-#~ "org/community\">kubuntu.org/community</a>!"
-#~ msgstr ""
-#~ "Lassen Sie uns an Ihrer Erfahrung mit Kubuntu teilhaben auf <a href="
-#~ "\"http://www.kubuntu.org/community\">kubuntu.org/community</a>!"
-
-#~ msgid ""
-#~ "In addition to our extensive written help, the Kubuntu community in "
-#~ "conjunction with the Ubuntu community, provides free technical support in "
-#~ "person and over the Internet. Learn more at <a href=\"http://www.kubuntu."
-#~ "org/support\">kubuntu.org/support</a>."
-#~ msgstr ""
-#~ "Zusätzlich zu unserer umfangreichen schriftlichen Hilfe, bietet die "
-#~ "Kubuntu-Gemeinschaft zusammen mit der Ubuntu-Gemeinschaft kostenlos "
-#~ "technische Unterstützung an, persönlich oder über das Internet. Lesen Sie "
-#~ "weiter auf <a href=\"http://www.kubuntu.org/support\">kubuntu.org/"
-#~ "support</a>."
-
-#~ msgid ""
-#~ "<em>LibreOffice</em> works with documents from other popular office "
-#~ "applications including WordPerfect and Microsoft Office. It uses the "
-#~ "standard OpenDocument format."
-#~ msgstr ""
-#~ "<em>LibreOffice</em> unterstützt Dokumente anderer bekannter "
-#~ "Büroanwendungen wie WordPerfect und Microsoft Office. Es verwendet das "
-#~ "OpenDocument-Format."
-
-#~ msgid ""
-#~ "First Person Shooters, Role Playing Games, and more are also available in "
-#~ "the repositories."
-#~ msgstr ""
-#~ "Ego-Shooter, Rollenspiele und weitere Spiele sind in den Paketquellen "
-#~ "verfügbar."
-
-#~ msgid ""
-#~ "Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
-#~ "installable."
-#~ msgstr ""
-#~ "Web-Browser wie <em>Chromium</em> und <em>Rekonq</em> können leicht "
-#~ "installiert werden."
-
-#~ msgid "Make the most of the web"
-#~ msgstr "Holen Sie das Beste aus dem Internet"
-
-#~ msgid ""
-#~ "We believe every computer user should be free to work in the environment "
-#~ "they choose, and be free to download, change, study and share their "
-#~ "software with anyone, for any purpose."
-#~ msgstr ""
-#~ "Wir glauben, jeder Rechnernutzer sollte frei wählen können, in welcher "
-#~ "Umgebung er arbeiten möchte. Er sollte die Freiheit besitzen, diese "
-#~ "herunterzuladen, zu ändern, zu studieren und sie für jeden Zweck "
-#~ "weiterzugeben."
-
-#~ msgid ""
-#~ "Kubuntu includes Mozilla Firefox, the web browser used by millions of "
-#~ "people around the world."
-#~ msgstr ""
-#~ "Kubuntu enthält Mozilla Firefox, den Web-Browser den Millionen Leute auf "
-#~ "der ganzen Welt nutzen."
-
-#~ msgid "You can easily install Steam"
-#~ msgstr "Sie können ganz einfach Steam installieren"
-
-#~ msgid ""
-#~ "Look over <a href=\"https://userbase.kde.org/Kubuntu/Contribute"
-#~ "\">userbase.kde.org/Kubuntu/Contribute</a> and see where you might be "
-#~ "able to help out. Remember, it is easy to get involved and the work you "
-#~ "do will be seen by millions of people around the world."
-#~ msgstr ""
-#~ "Besuchen Sie <a href=\"https://userbase.kde.org/Kubuntu/Contribute"
-#~ "\">userbase.kde.org/Kubuntu/Contribute</a> und finden Sie heraus, wie "
-#~ "auch Sie helfen oder unterstützen können. Wie gesagt, es ist ganz einfach "
-#~ "mitzumachen und Ihr Beitrag kann von Millionen Menschen auf der ganzen "
-#~ "Welt gesehen werden."
-
-#~ msgid "Remember to also look over the <em>Application Style</em>."
-#~ msgstr "Schauen Sie sich auch die <em>Anwendungsgestaltung</em> an."
-
-#~ msgid ""
-#~ "You can get at these tools in one place: the <em>Accessibility</em> "
-#~ "preferences, inside the Desktop Behavior from the System Settings "
-#~ "application from the menu. From there, you can turn on helpful tools like "
-#~ "<em>Modifier Keys</em>, <em>Keyboard Filters</em>, and <em>Activation "
-#~ "Gestures</em>."
-#~ msgstr ""
-#~ "Diese Werkzeuge sind an einem Ort in den Systemeinstellungen verfügbar: "
-#~ "Den <em>Zugangshilfen</em>, von dort aus können nützliche Werkzeuge wie "
-#~ "<em>Hilfstasten</em>, <em>Tastaturfilter</em> und <em>Gestenaktivierung</"
-#~ "em> konfiguriert werden."
-
-#~ msgid ""
-#~ "Thank you for choosing Kubuntu 17.04. We hope you enjoy the experience."
-#~ msgstr ""
-#~ "Danke für die Wahl von Kubuntu 17.04. Wir wünschen Ihnen viel Freude bei "
-#~ "der Nutzung."
-
-#~ msgid ""
-#~ "We want Kubuntu to work for you. So while your software is installing, "
-#~ "this slideshow will introduce you to Kubuntu 17.04."
-#~ msgstr ""
-#~ "Kubuntu soll nützlich für Sie sein. Während der Installation gibt Ihnen "
-#~ "die Diaschau eine kleine Einführung in Kubuntu 17.04."
-
-#~ msgid ""
-#~ "Take a look at the <em>Discover</em> application in the menu. Discover "
-#~ "will allow you to install (and remove) software from our online "
-#~ "repositories, which we carefully organize to be safe and up to date."
-#~ msgstr ""
-#~ "Probieren Sie die <em>Entdecken</em> Anwendung im Menü. Sie ermöglicht "
-#~ "Ihnen, aus unseren Onlinepaketquellen Programme  zu installieren (und zu "
-#~ "deinstallieren), die wir sorgfältig verwalten, damit diese sicher und "
-#~ "aktuell bleiben."
-
-#~ msgid ""
-#~ "The <em>KDE Applications</em> have quite a few games ranging from card "
-#~ "games to logic games and board games."
-#~ msgstr ""
-#~ "Die <em>KDE Anwendungen</em> enthalten eine ganze Menge von Karten-, "
-#~ "Knobel und Brettspielen."
+#~ msgid "Video Player"
+#~ msgstr "Filmwiedergabe"

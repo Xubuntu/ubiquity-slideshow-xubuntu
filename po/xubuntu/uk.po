@@ -9,209 +9,78 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
-"PO-Revision-Date: 2016-05-31 15:44+0000\n"
-"Last-Translator: stuartlittle <Stuartlittle1970@gmail.com>\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2018-03-30 16:24+0000\n"
+"Last-Translator: Andrii Prokopenko <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:49+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:42+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/00_welcome.html:2
+#: slideshows/xubuntu/slides/01_welcome.html:2
 msgid "Welcome to Xubuntu"
 msgstr "Вітаємо у Xubuntu"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:5
-msgid "Congratulations for choosing to install"
-msgstr "Поздоровляємо з вибором"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:5
-msgid "Xubuntu 17.10!"
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:6
+#: slideshows/xubuntu/slides/01_welcome.html:5
 msgid ""
-"If you are running the installation from the <em>Try Xubuntu</em> option, "
-"you can use the default applications while installing. You can even install "
-"new packages to try at the same time."
+"Start exploring your new desktop by making yourself familiar with the "
+"applications menu."
+msgstr "Почніть вивчати нову стільниці зі знайомства з меню програм."
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_welcome.html:6
+msgid ""
+"Use the Software application to install more applications and the Settings "
+"Manager to customize the look and feel of your desktop."
 msgstr ""
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/00_welcome.html:10
-msgid "<span class=\"fo is\">Xubuntu</span>"
-msgstr "<span class=\"fo is\">Xubuntu</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/00_welcome.html:11
-msgid "<span class=\"fo plus\">Xfce</span>"
-msgstr "<span class=\"fo plus\">Xfce</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/00_welcome.html:12
-msgid "<span class=\"fo\">Ubuntu</span>"
-msgstr "<span class=\"fo\">Ubuntu</span>"
+"Використовуйте Програмне забезпечення для встановлення додаткових програм та "
+"Менеджер налаштувань для персоналізації зовнішнього вигляду стільниці."
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/01_applications.html:2
-msgid "Ready to go!"
-msgstr "Можна починати!"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_applications.html:5
-msgid ""
-"Here are some of the applications that we feel best suit Xubuntu and its "
-"users. Find them in the applications menu and install more with the package "
-"manager."
-msgstr ""
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:8
-msgid "<strong>Firefox</strong> <span>Web browser</span>"
-msgstr "<strong>Firefox</strong> <span>Оглядач тенет</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:9
-msgid "<strong>Thunderbird</strong> <span>Mail and news client</span>"
-msgstr ""
-"<strong>Thunderbird</strong> <span>Клієнт електронної пошти та новинних "
-"розсилок</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:10
-msgid "<strong>Pidgin</strong> <span>Internet messenger</span>"
-msgstr ""
-"<strong>Pidgin</strong> <span>Застосунок для обміну миттєвими "
-"повідомленнями</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:11
-msgid "<strong>Parole</strong> <span>Media player</span>"
-msgstr "<strong>Parole</strong> <span>Медіяпрогравач</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:14
-msgid "<strong>LibreOffice Writer</strong> <span>Word processor</span>"
-msgstr "<strong>LibreOffice Writer</strong> <span>Текстовий процесор</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:15
-msgid "<strong>LibreOffice Calc</strong> <span>Spreadsheet editor</span>"
-msgstr ""
-"<strong>LibreOffice Calc</strong> <span>Редактор електронних таблиць</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:16
-msgid "<strong>Gnome Software</strong> <span>Package manager</span>"
-msgstr "<strong>Gnome Software</strong> <span>Керівник пакунками</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:17
-msgid "<strong>Settings Manager</strong>"
-msgstr "<strong>Менеджер параметрів</strong>"
-
-#. type: Attribute 'alt' of: <div><div><img>
-#: slideshows/xubuntu/slides/02_desktop.html:3
-msgid "Xubuntu default panel"
-msgstr "Типова панель Xubuntu"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/02_desktop.html:8
-msgid ""
-"On the left hand side, you will see a Xubuntu logo. Clicking it opens the "
-"main menu."
-msgstr ""
-"Ліворуч розташований логотип Xubuntu. Клац на ньому відкриває головне меню."
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/02_desktop.html:9
-msgid ""
-"The middle part of the panel is dedicated to window buttons for open "
-"applications."
-msgstr ""
-"У середній частині панелі будуть розташовуватися кнопки відкритих додатків."
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/02_desktop.html:10
-msgid "On the far right, you will see indicators and a clock."
-msgstr "Праворуч розташовані індикатори та годинник."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/02_desktop.html:15
-msgid ""
-"On the desktop you will see icons that can be used to access some of the "
-"most common places on your system. In the Settings Manager you will find "
-"many tools to change this default desktop."
-msgstr ""
-"На стільниці Ви побачите піктограми, які можуть бути використані для доступу "
-"до деяких з найпоширеніших місць у Вашій системі. У диспетчері параметрів Ви "
-"знайдете безліч знарядь для зміни типової стільниці."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/02_desktop.html:19
-msgid ""
-"Most of the tools to customise your desktop to your liking will be found at "
-"the top in the <strong>Personal</strong> section. For quick visible changes "
-"to your desktop, play with the Panel, Theme Configuration, Appearance and "
-"Window Manager tools."
-msgstr ""
-"Більшість засобів для налаштування стільниці можна знайти вгорі, у розділі "
-"<strong>Особисті</strong>. Для швидкого змінювання зовнішнього вигляду "
-"стільниці поекпериментуйте зі знаряддями «Панель», «Налаштування теми», "
-"«Зовнішній вигляд» та «Керівник вікон»."
-
-#. type: Content of: <div><div><h1>
-#: slideshows/xubuntu/slides/02_desktop.html:22
-msgid "The Xubuntu desktop"
-msgstr "Стільниця Xubuntu"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/03_support.html:2
+#: slideshows/xubuntu/slides/02_support.html:2
 msgid "Help & Support"
 msgstr "Довідка і підтримка"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_support.html:5
+#: slideshows/xubuntu/slides/02_support.html:5
 msgid ""
-"The <em>Official Documentation</em> that covers many of the most common "
-"areas and questions about Xubuntu is shipped with every Xubuntu release. You "
-"can find it under <strong>Menu &rsaquo; Help</strong>. The documentation is "
-"also available <a href=\"http://docs.xubuntu.org/\">online</a>."
+"The <em>Official Documentation</em> will help you getting started with "
+"Xubuntu. You can find the documentation under <em>Help</em> on the "
+"applications menu."
 msgstr ""
-"<em>Офіційна документація</em>, яка охоплює найпоширеніші теми та запитання, "
-"що стосуються Xubuntu, постачається з кожним випуском Xubuntu. Її можна "
-"знайти в <strong>меню &rsaquo; Довідка</strong>. Ця документація доступна "
-"також <a href=\"http://docs.xubuntu.org/\">у Тенетах</a>."
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/03_support.html:6
-msgid "Other resources"
-msgstr "Інші ресурси"
+"<em>Офіційна документація</em> допоможе вам познайомитись з Xubuntu. Її "
+"можна знайти в за посиланням <strong>Довідка</strong> в меню програм."
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_support.html:7
+#: slideshows/xubuntu/slides/02_support.html:6
 msgid ""
-"Still have questions? The full list of support methods is available at the "
-"<a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
-"Xubuntu website."
+"If the documentation doesn't answer your questions, check the full list of "
+"support methods from the Xubuntu website."
 msgstr ""
-"Лишилися запитання? Повний перелік забезпечення підтримки користувачів "
-"представлений у розділі <a href=\"http://xubuntu.org/help\">Довідка і "
-"підтримка</a> на веб-сайті Xubuntu."
+"Якщо документація не надала вам можливості вирішити питання, спробуйте усі "
+"способи підтримки на веб-сайті Xubuntu."
+
+#. type: Content of: <div><div>
+#: slideshows/xubuntu/slides/02_support.html:10
+msgid ""
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
+"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+msgstr ""
+"<a href=\"https://docs.xubuntu.org/1804/\">Офіційна документація в мережі</"
+"a> <a href=\"https://xubuntu.org/help/\">Всі способи підтримки</a>"
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/04_support-live.html:2
+#: slideshows/xubuntu/slides/03_support-live.html:2
 msgid "Real-time support"
 msgstr "Підтримка у реальному часі"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_support-live.html:6
+#: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
 "<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
@@ -222,7 +91,7 @@ msgstr ""
 "channels=xubuntu&nick=xubuntu..i&prompt=1\">клацнувши тут</a>."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_support-live.html:7
+#: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
 "For support in <em>other languages</em>, view the full list of <a href="
 "\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
@@ -232,117 +101,235 @@ msgstr ""
 "підтримки</a>."
 
 #. type: Content of: <div><div>
-#: slideshows/xubuntu/slides/04_support-live.html:16
+#: slideshows/xubuntu/slides/03_support-live.html:16
 msgid "Meow"
 msgstr "Няв"
 
 #. type: Content of: <div><div><h1>
-#: slideshows/xubuntu/slides/05_contribute.html:3
-msgid "Want to contribute?"
-msgstr "Бажаєте зробити свій внесок?"
+#: slideshows/xubuntu/slides/04_community.html:3
+msgid "Join the community"
+msgstr "Приєднуйтеся до спільноти"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_contribute.html:5
+#: slideshows/xubuntu/slides/04_community.html:5
 msgid ""
-"Ever wondered if you could help Xubuntu? You don't have to be able to code – "
-"there are many different areas we need help with."
+"We'd love to hear about your experiences with Xubuntu. Share them on the "
+"Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
+"Ми хотіли б почути про ваш досвід роботи з Xubuntu. Надішліть їх у список "
+"розсилки користувачів Xubuntu або на каналі IRC  #xubuntu-offtopic."
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_contribute.html:6
+#: slideshows/xubuntu/slides/04_community.html:6
 msgid ""
-"To read about all of the opportunities available to you, head to the <a href="
-"\"http://xubuntu.org/contribute/\">Get Involved</a> section of our website. "
-"This page has introductions to our various subteams as well as links to "
-"other important websites related to Xubuntu development."
+"We always need help in making Xubuntu even better. No specific skills are "
+"required to contribute. To read about all of the opportunities available, "
+"head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
+"section of our website."
 msgstr ""
-"Щоб дізнатися про усі доступні для Вас можливости участі, відвідайте розділ "
-"<a href=\"http://xubuntu.org/contribute/\">Get Involved</a> нашого веб-"
-"сайту. Ця сторінка познайомить Вас з різними підгрупами нашої спільноти та "
-"надасть посилання на інші важливі сайти, що мають відношення до розробки "
-"Xubuntu."
+"Ми завжди потребуємо допомоги у покращенні Xubuntu. Для того, щоб зробоити "
+"свій внесок у це, не потрібно жодних особливих вмінб і навичок. Щоб "
+"дізнатися про усі доступні для Вас можливости участі, відвідайте розділ <a "
+"href=\"http://xubuntu.org/contribute/\">Get Involved</a> нашого веб-сайту."
 
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:10
-msgid "testing"
-msgstr "тестування"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:11
-msgid "social media"
-msgstr "соціяльні медія"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:12
-msgid "documentation"
-msgstr "документація"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:13
-msgid "bug triage"
-msgstr "пошук вад"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:14
-msgid "artwork"
-msgstr "оздоблення"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:15
-msgid "development"
-msgstr "розробка"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/06_thanks.html:2
-msgid "Thank you!"
-msgstr "Дякуємо!"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:5
-msgid ""
-"Thanks for taking the time to install Xubuntu. Feel free to pass on your "
-"installation media and let others try Xubuntu as well!"
+#. type: Content of: <div><div>
+#: slideshows/xubuntu/slides/04_community.html:10
+msgid "Hey, what about passing on your installation media to a friend!"
 msgstr ""
-"Дякуємо за час, витрачений на встановлення Xubuntu! Ми будемо задоволені, "
-"якщо Ви передасте свій встановлювальний носій іншим людям, щоб вони теж "
-"могли спробувати Xubuntu!"
+"Ми будемо задоволені, якщо Ви передасте свій встановлювальний носій другові!"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:6
-msgid ""
-"We'd love to hear about your experiences with Xubuntu. You can share them on "
-"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-"\">Xubuntu users mailing list</a> or if you are still here, on <em>#xubuntu-"
-"offtopic</em> IRC channel where you might find people to talk with."
-msgstr ""
-"Нам було б приємно дізнатися про Ваші враження від Xubuntu. Ви можете "
-"поділитисяя ними у <a href=\"https://lists.ubuntu.com/mailman/listinfo/"
-"xubuntu-users\">поштовій розсилці користувачів Xubuntu</a> або на каналі IRC "
-"<em>#xubuntu-offtopic</em>, де Ви зможете знайти собі вільні вуха."
+#~ msgid "Thank you!"
+#~ msgstr "Дякуємо!"
+
+#~ msgid "Xubuntu default panel"
+#~ msgstr "Типова панель Xubuntu"
 
 #~ msgid ""
-#~ "If you are running this installation via the <em>Try Xubuntu</em> option, "
-#~ "feel free to examine things as Xubuntu installs. After the installation, "
-#~ "the desktop will look similar to how it does now."
+#~ "The middle part of the panel is dedicated to window buttons for open "
+#~ "applications."
 #~ msgstr ""
-#~ "Якщо ви встановлюєте цю систему з портативної системи після вибору пункту "
-#~ "<em>Спробувати Xubuntu</em>, ознайомтеся з тим, як працює Xubuntu. Після "
-#~ "встановлення система виглядатиме дуже подібно до того, як вона виглядає "
-#~ "зараз."
+#~ "У середній частині панелі будуть розташовуватися кнопки відкритих "
+#~ "додатків."
+
+#~ msgid "Other resources"
+#~ msgstr "Інші ресурси"
 
 #~ msgid ""
-#~ "Here is a list of some applications that are preinstalled with Xubuntu "
-#~ "for your convenience. Find them in the applications menu and install more "
-#~ "with the package manager."
+#~ "Still have questions? The full list of support methods is available at "
+#~ "the <a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
+#~ "Xubuntu website."
 #~ msgstr ""
-#~ "Ось перелік деяких із додатків, що встановлюються разом з Xubuntu для "
-#~ "Вашої зручности. Знайдіть їх у меню застосунків і встановіть додаткові "
-#~ "застосунки за допомогою керівника пакунками."
+#~ "Лишилися запитання? Повний перелік забезпечення підтримки користувачів "
+#~ "представлений у розділі <a href=\"http://xubuntu.org/help\">Довідка і "
+#~ "підтримка</a> на веб-сайті Xubuntu."
+
+#~ msgid "Ready to go!"
+#~ msgstr "Можна починати!"
+
+#~ msgid "The Xubuntu desktop"
+#~ msgstr "Стільниця Xubuntu"
+
+#~ msgid "<strong>Settings Manager</strong>"
+#~ msgstr "<strong>Менеджер параметрів</strong>"
+
+#~ msgid "<span class=\"fo\">Ubuntu</span>"
+#~ msgstr "<span class=\"fo\">Ubuntu</span>"
+
+#~ msgid "<strong>Thunderbird</strong> <span>Mail and news client</span>"
+#~ msgstr ""
+#~ "<strong>Thunderbird</strong> <span>Клієнт електронної пошти та новинних "
+#~ "розсилок</span>"
+
+#~ msgid "<strong>Pidgin</strong> <span>Internet messenger</span>"
+#~ msgstr ""
+#~ "<strong>Pidgin</strong> <span>Застосунок для обміну миттєвими "
+#~ "повідомленнями</span>"
+
+#~ msgid "<strong>Parole</strong> <span>Media player</span>"
+#~ msgstr "<strong>Parole</strong> <span>Медіяпрогравач</span>"
+
+#~ msgid "Congratulations for choosing to install"
+#~ msgstr "Поздоровляємо з вибором"
+
+#~ msgid "<span class=\"fo plus\">Xfce</span>"
+#~ msgstr "<span class=\"fo plus\">Xfce</span>"
+
+#~ msgid "<span class=\"fo is\">Xubuntu</span>"
+#~ msgstr "<span class=\"fo is\">Xubuntu</span>"
+
+#~ msgid "<strong>LibreOffice Writer</strong> <span>Word processor</span>"
+#~ msgstr "<strong>LibreOffice Writer</strong> <span>Текстовий процесор</span>"
+
+#~ msgid "<strong>Gnome Software</strong> <span>Package manager</span>"
+#~ msgstr "<strong>Gnome Software</strong> <span>Керівник пакунками</span>"
 
 #~ msgid ""
-#~ "Like what you see? Like what you use? Why not join in? You don't have to "
-#~ "be able to code – there are many different parts we need help with."
+#~ "On the left hand side, you will see a Xubuntu logo. Clicking it opens the "
+#~ "main menu."
 #~ msgstr ""
-#~ "Подобається те, що Ви бачите? Подобається те, що використовуєте? Чому б "
-#~ "не приєднатися до нас? Якщо не вмієте писати проґрами, є багато інших "
-#~ "справ, у яких нам потрібна допомога."
+#~ "Ліворуч розташований логотип Xubuntu. Клац на ньому відкриває головне "
+#~ "меню."
+
+#~ msgid "<strong>LibreOffice Calc</strong> <span>Spreadsheet editor</span>"
+#~ msgstr ""
+#~ "<strong>LibreOffice Calc</strong> <span>Редактор електронних таблиць</"
+#~ "span>"
+
+#~ msgid ""
+#~ "The <em>Official Documentation</em> that covers many of the most common "
+#~ "areas and questions about Xubuntu is shipped with every Xubuntu release. "
+#~ "You can find it under <strong>Menu &rsaquo; Help</strong>. The "
+#~ "documentation is also available <a href=\"http://docs.xubuntu.org/"
+#~ "\">online</a>."
+#~ msgstr ""
+#~ "<em>Офіційна документація</em>, яка охоплює найпоширеніші теми та "
+#~ "запитання, що стосуються Xubuntu, постачається з кожним випуском Xubuntu. "
+#~ "Її можна знайти в <strong>меню &rsaquo; Довідка</strong>. Ця документація "
+#~ "доступна також <a href=\"http://docs.xubuntu.org/\">у Тенетах</a>."
+
+#~ msgid "On the far right, you will see indicators and a clock."
+#~ msgstr "Праворуч розташовані індикатори та годинник."
+
+#~ msgid ""
+#~ "On the desktop you will see icons that can be used to access some of the "
+#~ "most common places on your system. In the Settings Manager you will find "
+#~ "many tools to change this default desktop."
+#~ msgstr ""
+#~ "На стільниці Ви побачите піктограми, які можуть бути використані для "
+#~ "доступу до деяких з найпоширеніших місць у Вашій системі. У диспетчері "
+#~ "параметрів Ви знайдете безліч знарядь для зміни типової стільниці."
+
+#~ msgid ""
+#~ "To read about all of the opportunities available to you, head to the <a "
+#~ "href=\"http://xubuntu.org/contribute/\">Get Involved</a> section of our "
+#~ "website. This page has introductions to our various subteams as well as "
+#~ "links to other important websites related to Xubuntu development."
+#~ msgstr ""
+#~ "Щоб дізнатися про усі доступні для Вас можливости участі, відвідайте "
+#~ "розділ <a href=\"http://xubuntu.org/contribute/\">Get Involved</a> нашого "
+#~ "веб-сайту. Ця сторінка познайомить Вас з різними підгрупами нашої "
+#~ "спільноти та надасть посилання на інші важливі сайти, що мають відношення "
+#~ "до розробки Xubuntu."
+
+#~ msgid "Want to contribute?"
+#~ msgstr "Бажаєте зробити свій внесок?"
+
+#~ msgid "testing"
+#~ msgstr "тестування"
+
+#~ msgid "bug triage"
+#~ msgstr "пошук вад"
+
+#~ msgid "development"
+#~ msgstr "розробка"
+
+#~ msgid "artwork"
+#~ msgstr "оздоблення"
+
+#~ msgid "documentation"
+#~ msgstr "документація"
+
+#~ msgid ""
+#~ "Thanks for taking the time to install Xubuntu. Feel free to pass on your "
+#~ "installation media and let others try Xubuntu as well!"
+#~ msgstr ""
+#~ "Дякуємо за час, витрачений на встановлення Xubuntu! Ми будемо задоволені, "
+#~ "якщо Ви передасте свій встановлювальний носій іншим людям, щоб вони теж "
+#~ "могли спробувати Xubuntu!"
+
+#~ msgid ""
+#~ "We'd love to hear about your experiences with Xubuntu. You can share them "
+#~ "on the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+#~ "\">Xubuntu users mailing list</a> or if you are still here, on "
+#~ "<em>#xubuntu-offtopic</em> IRC channel where you might find people to "
+#~ "talk with."
+#~ msgstr ""
+#~ "Нам було б приємно дізнатися про Ваші враження від Xubuntu. Ви можете "
+#~ "поділитисяя ними у <a href=\"https://lists.ubuntu.com/mailman/listinfo/"
+#~ "xubuntu-users\">поштовій розсилці користувачів Xubuntu</a> або на каналі "
+#~ "IRC <em>#xubuntu-offtopic</em>, де Ви зможете знайти собі вільні вуха."
+
+#~ msgid ""
+#~ "Most of the tools to customise your desktop to your liking will be found "
+#~ "at the top in the <strong>Personal</strong> section. For quick visible "
+#~ "changes to your desktop, play with the Panel, Theme Configuration, "
+#~ "Appearance and Window Manager tools."
+#~ msgstr ""
+#~ "Більшість засобів для налаштування стільниці можна знайти вгорі, у "
+#~ "розділі <strong>Особисті</strong>. Для швидкого змінювання зовнішнього "
+#~ "вигляду стільниці поекпериментуйте зі знаряддями «Панель», «Налаштування "
+#~ "теми», «Зовнішній вигляд» та «Керівник вікон»."
+
+#~ msgid "Xubuntu 17.10!"
+#~ msgstr "Xubuntu 17.10!"
+
+#~ msgid ""
+#~ "Here are some of the applications that we feel best suit Xubuntu and its "
+#~ "users. Find them in the applications menu and install more with the "
+#~ "package manager."
+#~ msgstr ""
+#~ "Ось деякі програми, які, на нашу думку, найкраще підходять для Xubuntu та "
+#~ "її користувачів. Знайдіть їх в меню програм і встановіть додаткові за "
+#~ "допомогою менеджера пакетів."
+
+#~ msgid ""
+#~ "Ever wondered if you could help Xubuntu? You don't have to be able to "
+#~ "code – there are many different areas we need help with."
+#~ msgstr ""
+#~ "Ви хотіли б допомогти Xubuntu? Для цього не обов'язково вміти "
+#~ "програмувати - є багато інших областей, в яких нам потрібна ваша допомога."
+
+#~ msgid ""
+#~ "If you are running the installation from the <em>Try Xubuntu</em> option, "
+#~ "you can use the default applications while installing. You can even "
+#~ "install new packages to try at the same time."
+#~ msgstr ""
+#~ "Якщо ви запустили встановлення варіанту <em>Спробувати Xubuntu</em>, то "
+#~ "можете користуватися стандартними програмами прямо під час установки "
+#~ "системи. Ви можете навіть встановлювати для проби нові програми в цей час."
+
+#~ msgid "<strong>Firefox</strong> <span>Web browser</span>"
+#~ msgstr "<strong>Firefox</strong> <span>Веб-переглядач</span>"
+
+#~ msgid "social media"
+#~ msgstr "соціальні медіа"

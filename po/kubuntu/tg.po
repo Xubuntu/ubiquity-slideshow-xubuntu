@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
 "PO-Revision-Date: 2013-04-18 15:16+0000\n"
 "Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
 "Language-Team: Tajik <tg@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:48+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/00_Welcome.html:3
@@ -40,6 +40,13 @@ msgid ""
 "to make a great desktop experience"
 msgstr ""
 
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/00_Welcome.html:13
+msgid ""
+"This slideshow will go over the default applications, how to get help, and "
+"how to contribute to Kubuntu"
+msgstr ""
+
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/01_Applications.html:3
 msgid "Find everything you need on your new install"
@@ -54,7 +61,7 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/01_Applications.html:8
 msgid ""
-"For everything else you can install more software in Discover our software "
+"For everything else, you can install more software in Discover, our software "
 "center"
 msgstr ""
 
@@ -75,7 +82,7 @@ msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:19
-msgid "Email, Contacts"
+msgid "PIM Suite"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
@@ -100,42 +107,42 @@ msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:35
-msgid "Amarok"
+msgid "VLC"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:36
-msgid "Music Player"
+msgid "Media Player"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:40
-msgid "Dragon Player"
-msgstr ""
-
-#. type: Content of: <div><div><table><tr><td><div>
-#: slideshows/kubuntu/slides/01_Applications.html:41
-msgid "Video Player"
-msgstr ""
-
-#. type: Content of: <div><div><table><tr><td><div>
-#: slideshows/kubuntu/slides/01_Applications.html:45
 msgid "Okular"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
-#: slideshows/kubuntu/slides/01_Applications.html:46
+#: slideshows/kubuntu/slides/01_Applications.html:41
 msgid "Document Viewer"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:45
+msgid "Dolphin"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:46
+msgid "File Manager"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:50
-msgid "Dophin"
+msgid "Kate"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:51
-msgid "File Manager"
+msgid "Text Editor"
 msgstr ""
 
 #. type: Content of: <div><div><h1>
@@ -144,17 +151,17 @@ msgid "Kubuntu: for all users"
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/02_Accessibility.html:15
+#: slideshows/kubuntu/slides/02_Accessibility.html:11
 msgid "We want Kubuntu to work for everyone."
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/02_Accessibility.html:16
+#: slideshows/kubuntu/slides/02_Accessibility.html:12
 msgid "We include a screen reader, modifier keys and more."
 msgstr ""
 
 #. type: Content of: outside any tag (error?)
-#: slideshows/kubuntu/slides/02_Accessibility.html:20
+#: slideshows/kubuntu/slides/02_Accessibility.html:16
 msgid "r"
 msgstr ""
 
@@ -183,14 +190,14 @@ msgstr ""
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:18
 msgid ""
-"Kubuntu Community: <a href=\"http://www.kubuntu.org/community\">http://www."
+"Kubuntu Community: <a href=\"https://www.kubuntu.org/community\">http://www."
 "kubuntu.org/community</a>"
 msgstr ""
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:19
 msgid ""
-"Kubuntu Support:<a href=\"http://www.kubuntu.org/support\">http://www."
+"Kubuntu Support: <a href=\"https://www.kubuntu.org/support\">http://www."
 "kubuntu.org/support</a>"
 msgstr ""
 
@@ -215,236 +222,24 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:19
+#, fuzzy
 msgid ""
 "No matter your skill level, getting involved and helping to mold the future "
-"of Kubuntu is easy, and you are more than welcome to help out."
+"of Kubuntu is easy, and you are more than welcome to help out.Remember, it "
+"is easy to get involved and the work you do will be seen by millions of "
+"people around the world."
 msgstr ""
 "Новобаста аз сатҳи маҳорати шумо, ҳамроҳшавӣ ва иштирок дар сохтани ояндаи "
 "Kubuntu осон аст, ва мо кӯмаки шуморо самимона қабул мекунем."
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/04_Get-Involved.html:24
-msgid ""
-"Look over <a href=\"http://docs.kubuntu.org/docs/contribute.html\">Kubuntu "
-"Manual</a> and see where you might be able to help out. Remember, it is easy "
-"to get involved and the work you do will be seen by millions of people "
-"around the world."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/04_Get-Involved.html:30
+#: slideshows/kubuntu/slides/04_Get-Involved.html:25
 msgid "The installation will finish soon. We hope you enjoy Kubuntu!"
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/04_Get-Involved.html:33
+#: slideshows/kubuntu/slides/04_Get-Involved.html:28
 msgid ""
-"Kubuntu Manual: <a href=\"http://docs.kubuntu.org/docs/contribute.html"
-"\">http://docs.kubuntu.org/docs/contribute.html</a>"
+"Kubuntu Manual: <a href=\"https://kubuntu.org/support/\">https://kubuntu.org/"
+"support</a>"
 msgstr ""
-
-#~ msgid "Accessibility in Kubuntu"
-#~ msgstr "Қобилияти дастрасӣ дар Kubuntu"
-
-#~ msgid ""
-#~ "We want to make computers work for everyone, whatever your physical "
-#~ "circumstances. So, we provide tools that make Kubuntu one of the most "
-#~ "accessible operating systems around."
-#~ msgstr ""
-#~ "Мо мехоҳем, ки компютерҳо барои ҳама кор кунанд, новобаста аз ҳолати "
-#~ "ҷисмонии шумо. Барои ҳамин, мо абзорҳоеро таъмин мекунем, ки Kubuntu-ро "
-#~ "яке аз системаҳои омили аз ҳама дастраси ҷаҳон мекунанд."
-
-#~ msgid "Get your game on with Kubuntu"
-#~ msgstr "Бозии худро бо Kubuntu оғоз диҳед"
-
-#~ msgid ""
-#~ "With hundreds of game titles in our online repository, Kubuntu allows you "
-#~ "to not be all about work, but also allows you to play."
-#~ msgstr ""
-#~ "Бо садҳо бозиҳо дар анбори бастаҳои онлайни мо, Kubuntu ба шумо на танҳо "
-#~ "имконияти коркунӣ, балки имконияти бозӣ карданро низ медиҳад."
-
-#~ msgid ""
-#~ "If you need help, try <em>Help</em> from the menu, or the <em>Help</em> "
-#~ "menu in most applications."
-#~ msgstr ""
-#~ "Агар ба шумо кӯмак лозим бошад, <em>Кӯмак</em>-ро аз меню, ё ки аз менюи "
-#~ "<em>Кӯмак</em> кӯшиш кунед."
-
-#~ msgid ""
-#~ "In addition to our extensive written help, the Kubuntu community in "
-#~ "conjunction with the Ubuntu community, provides free technical support in "
-#~ "person and over the Internet. Learn more at <a href=\"http://www.kubuntu."
-#~ "org/support\">kubuntu.org/support</a>."
-#~ msgstr ""
-#~ "Ба ғайр аз кӯмаки васеи навишташудаи мо, ҷомеаи Kubuntu дар якҷоягӣ бо "
-#~ "ҷомеаи Ubuntu дастгирии ройгони техникиро рӯ ба рӯ ва дар Интернет таъмин "
-#~ "мекунад. Маълумоти бештарро аз <a href=\"http://www.kubuntu.org/support"
-#~ "\">kubuntu.org/support</a> гиред."
-
-#~ msgid ""
-#~ "Let us know about your Kubuntu experience at <a href=\"http://www.kubuntu."
-#~ "org/community\">kubuntu.org/community</a>!"
-#~ msgstr ""
-#~ "Дар бораи таҷрибаи худ бо Kubuntu дар <a href=\"http://www.kubuntu.org/"
-#~ "community\">kubuntu.org/community</a> ба мо бигӯед!"
-
-#~ msgid "Get involved and contribute to Kubuntu"
-#~ msgstr "Ҳамроҳ шавед ва саҳми худро ба Kubuntu гузоред"
-
-#~ msgid "The installation will finish soon. We hope you enjoy Kubuntu."
-#~ msgstr ""
-#~ "Насбкунӣ зуд ба анҷом мерасад. Мо умедворем, ки шумо аз Kubuntu лаззат "
-#~ "мебаред."
-
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr ""
-#~ "Суратҳои худро ба тартиб дароред, аз онҳо лаззат баред ва онҳоро мубодила "
-#~ "кунед"
-
-#~ msgid "Installing additional software"
-#~ msgstr "Насбкунии нармафзори иловагӣ"
-
-#~ msgid "Music and movies in Kubuntu"
-#~ msgstr "Мусиқӣ ва филмҳо дар Kubuntu"
-
-#~ msgid "Office tools at your fingertips"
-#~ msgstr "Абзорҳои офис дар охири ангуштони шумо"
-
-#~ msgid ""
-#~ "<em>LibreOffice</em> is a powerful office software suite that is very "
-#~ "easy to learn and use."
-#~ msgstr ""
-#~ "<em>LibreOffice</em> - ин маҷмӯи нармафзори боқувват мебошад, ки барои "
-#~ "омӯзиш ва истифода хеле осон аст."
-
-#~ msgid ""
-#~ "Use it to create letters, presentations and spreadsheets, as well as "
-#~ "diagrams and databases."
-#~ msgstr ""
-#~ "Онро барои эҷодкунии мактубҳо, тақдимҳо ва ҷалвалҳои электронӣ, аз он "
-#~ "ҷумла диаграммаҳо ва пойгоҳҳои иттилоотӣ истифода баред."
-
-#~ msgid "Manage your contacts, dates, and e-mail"
-#~ msgstr "Тамосҳо, санаҳо ва почтаи электронии худро идора кунед"
-
-#~ msgid ""
-#~ "Send e-mail with <em>KMail</em> from services such as Yahoo, GMail, and "
-#~ "various groupware services."
-#~ msgstr ""
-#~ "Почтаи электрониро бо <em>KMail</em> аз хидматҳои ба мисли Yahoo, GMail, "
-#~ "ва хидматҳои гуногуни нармафзори гурӯҳӣ фиристонед."
-
-#~ msgid "Welcome"
-#~ msgstr "Хуш омадед"
-
-#~ msgid "Kubuntu is designed to be easy. Feel free to explore!"
-#~ msgstr "Kubuntu барои осон будан сохта шудааст. Озодона тамошо кунед!"
-
-#~ msgid ""
-#~ "The Kubuntu community consists of a group of individuals, who make up one "
-#~ "of the greatest teams in the open source community, work on various "
-#~ "aspects of the distribution, providing advice and technical support, as "
-#~ "well as helping to promote Kubuntu to a wider audience."
-#~ msgstr ""
-#~ "Ҷомеаи Kubuntu за гурӯҳи шахсоне иборат аст, ки яке аз гурӯҳи аҷибтарини "
-#~ "ҷомеаи озодро ташкил мекунанд, дар соҳаҳои гуногуни паҳнкунӣ кор "
-#~ "мекунанд, аз он ҷумла маслиҳат ва дастгирии техникиро пешниҳод мекунанд, "
-#~ "инчунин кӯмак мекунанд, ки Kubuntu ба одамони зиёдтар паҳн карда шавад."
-
-#~ msgid ""
-#~ "With <em>Gwenview</em>, it is really easy to organize and share your "
-#~ "photos."
-#~ msgstr ""
-#~ "Бо <em>Gwenview</em>, мураттабсозӣ ва мубодилакунии суратҳои шумо дар "
-#~ "ҳақиқат осон аст."
-
-#~ msgid ""
-#~ "Use the Export option to copy your photos to a remote computer, iPod, a "
-#~ "custom HTML gallery, or to export to services such as Flickr, SmugMug, "
-#~ "PicasaWeb, and more."
-#~ msgstr ""
-#~ "Имкони \"Содирот\"-ро барои нусхабардории суратҳои худ ба компютери "
-#~ "дурдаст, iPod, галереяи танзимшавандаи HTML, ё ки барои содирот ба "
-#~ "хидматҳо ба мисли Flickr, SmugMug, PicasaWeb, ва бештар истифода баред."
-
-#~ msgid ""
-#~ "For more advanced organization and editing features, <em>digiKam</em> is "
-#~ "available for installation."
-#~ msgstr ""
-#~ "Барои хусусиятҳои бештари мураттабсозӣ ва таҳрири пешрафта, шумо "
-#~ "метавонед <em>digiKam</em>-ро насб кунед."
-
-#~ msgid ""
-#~ "There is great software for everything from creating music and movies to "
-#~ "producing 3D models and exploring the universe."
-#~ msgstr ""
-#~ "Нармафзори аҷиб барои ҳама чиз мавҷуд аст - аз эҷодкунии мусиқӣ ва филмҳо "
-#~ "сар карда, то истеҳсоли намунаҳои 3D ва тамошо кардани коинот."
-
-#~ msgid ""
-#~ "If you need something that isn't available through us, find out if there "
-#~ "is a Debian package or another repository available. That way, it will be "
-#~ "really easy to install and you will receive automatic updates."
-#~ msgstr ""
-#~ "Агар ба шумо чизе лозим шавад, ки бо мо дастрас набошад, фаҳмед, ки оё "
-#~ "бастаи Debian ё анбори дигари бастаҳо дастрас аст. Дар ин ҳолат, насбкунӣ "
-#~ "воқеан осон мегардад, ва шумо навсозиҳои худкорро қабул мекунед."
-
-#~ msgid ""
-#~ "Browse the web, share your files, software, and multimedia, send and "
-#~ "receive e-mail, and communicate with friends and family."
-#~ msgstr ""
-#~ "Вебро тамошо кунед, файлҳо, нармафзор ва мултимедиаи худро мубодила "
-#~ "кунед, почтаи электрониро фиристонед ва қабул кунед, ва бо дӯстон ва оила "
-#~ "дар тамос бошед."
-
-#~ msgid ""
-#~ "Kubuntu is ready to play videos and music from the web, from CDs and DVDs."
-#~ msgstr ""
-#~ "Kubuntu барои пахш кардани видеоҳо ва мусиқӣ аз веб, CD-ҳо ва DVD-ҳо "
-#~ "тайёр аст."
-
-#~ msgid ""
-#~ "<em>Amarok</em> audio player lets you organize your music and listen to "
-#~ "Internet radio, podcasts, and more, as well as synchronizes your audio "
-#~ "collection to a portable audio player."
-#~ msgstr ""
-#~ "Плеери аудиоии <em>Amarok</em> ба шумо имконият медиҳад, ки мусиқии худро "
-#~ "мураттаб кунед, ва радиои Интернет, подкастҳо ва бештарро гӯш кунед, ва "
-#~ "инчунин маҷмӯи аудиоии шуморо ба плеери ҳамлпазири аудиоӣ ҳамоҳанг "
-#~ "мекунад."
-
-#~ msgid ""
-#~ "<em>Dragon Player</em> allows you to easily watch videos from your "
-#~ "computer, DVD, or streamed over the Internet."
-#~ msgstr ""
-#~ "<em>Dragon Player</em> ба шумо имконият медиҳад, ки видеоҳои компютери "
-#~ "худ, DVD ё аз Интернет пахшшударо ба осонӣ тамошо кунед."
-
-#~ msgid ""
-#~ "<em>Kontact</em> is the fully-featured personal information management "
-#~ "software that comes with Kubuntu. It contains applications for E-mail, "
-#~ "Calendar, Address Book, and more."
-#~ msgstr ""
-#~ "<em>Kontact</em> -ин ин нармафзори пурқуввати идоракунии маълумоти шахсӣ "
-#~ "мебошад, ки ба Kubuntu дохил шудааст. Он дорои барномаҳо барои почтаи "
-#~ "электронӣ, тақвим, китоби суроғаҳо ва бештар мебошад."
-
-#~ msgid ""
-#~ "Organize your calendar and scheduling with <em>KOrganizer</em> and "
-#~ "synchronize with services such as Google's Calendar."
-#~ msgstr ""
-#~ "Тақвим ва замонбандии худро бо <em>KOrganizer</em> мураттаб кунед ва бо "
-#~ "хидматҳои монанди Тақвими Google ҳамоҳанг кунед."
-
-#~ msgid ""
-#~ "Keep your contacts organized with <em>KAddressBook</em> and import or "
-#~ "export your contacts with nearly every address book standard as well "
-#~ "synchronize with various groupware services."
-#~ msgstr ""
-#~ "Тамосҳои худро бо <em>KAddressBook</em> мураттабшуда нигоҳ доред, ва "
-#~ "тамосҳои худро дар тақрибан ҳар як стандарти китоби суроғаҳо ворид ё "
-#~ "содир кунед, ва инчунин бо хидматҳои гуногуни нармафзори гурӯҳӣ ҳамоҳанг "
-#~ "кунед."

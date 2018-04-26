@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
 "PO-Revision-Date: 2017-10-13 18:27+0000\n"
 "Last-Translator: Ikuya Awashiro <ikuya@fruitsbasket.info>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:49+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
@@ -88,8 +88,8 @@ msgstr "サポートされるソフトウェア"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:23
-msgid "Flash"
-msgstr "Flash"
+msgid "Qupzilla"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:28
@@ -138,12 +138,9 @@ msgstr "音楽や動画を楽しむ"
 #: slideshows/lubuntu/slides/04_media.html:10
 msgid ""
 "Listen to your favorite music with <em>Audacious</em>, a simple but powerful "
-"audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
-"video player powered by mplayer with support for many formats."
+"audio player. And enjoy all your videos with <em>Gnome MPV</em>, the next "
+"generation video player, with support for many formats."
 msgstr ""
-"シンプルながらパワフルな音楽プレイヤーである<em>Audacious</em>で、お気に入り"
-"の音楽を聞きましょう。 また、多くのフォーマットに対応したmplayerによる高速な"
-"動画プレイヤーである<em>Gnome-Mplayer</em>で、色々な動画を楽しみましょう。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:14
@@ -161,8 +158,8 @@ msgstr "Audacious"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:28
-msgid "Gnome-Mplayer"
-msgstr "Gnome-Mplayer"
+msgid "Gnome MPV"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:36
@@ -249,38 +246,18 @@ msgid ""
 "visit our <a href=\"http://lubuntu.me/\">website</a>."
 msgstr ""
 
-#~ msgid ""
-#~ "One of the biggest advantages with Lubuntu is the wonderful community "
-#~ "that comes with it. Other users will gladly help you out if you encounter "
-#~ "problems. There are many different ways to get help, the easiest way is "
-#~ "to visit our <a href=\"http://lubuntu.net/\">website</a>, as we've "
-#~ "gathered all the information you need."
-#~ msgstr ""
-#~ "Lubuntuの大きな利点の一つとして、Lubuntuとともに素晴らしいコミュニティがあ"
-#~ "ることでしょう。助けを得るには異なる色々な方法があり、最も簡単な方法は、必"
-#~ "要な情報すべてを集めているLubuntuの<a href=\"http://lubuntu.net/\">ウェブ"
-#~ "サイト</a>を訪問することです。"
+#~ msgid "Flash"
+#~ msgstr "Flash"
+
+#~ msgid "Gnome-Mplayer"
+#~ msgstr "Gnome-Mplayer"
 
 #~ msgid ""
-#~ "The installation will finish soon. We hope you will enjoy Lubuntu and all "
-#~ "the freedom that comes with it.  If you wish to help us improve Lubuntu, "
-#~ "either by giving us feedback or by getting involved in the project, "
-#~ "please visit our <a href=\"http://lubuntu.net/\">website</a>."
+#~ "Listen to your favorite music with <em>Audacious</em>, a simple but "
+#~ "powerful audio player. And enjoy all your videos with <em>Gnome-Mplayer</"
+#~ "em>, a fast video player powered by mplayer with support for many formats."
 #~ msgstr ""
-#~ "インストールはまもなく完了します。Lubuntuならびに、共にあるすべての自由を"
-#~ "楽しんでいただければと願っています。Lubuntuの改善に協力していただける場合"
-#~ "は、Lubuntuの<a href=\"http://lubuntu.net/\">ウェブサイト</a>を訪れて、"
-#~ "フィードバックを行ったりプロジェクトに参加したりしてみてください。"
-
-#~ msgid ""
-#~ "With Lubuntu, you have access to the whole Ubuntu repository and all the "
-#~ "software included. This means that thousands of new applications are "
-#~ "ready for your computer, free of charge. Use the <em>Lubuntu Software "
-#~ "Center</em> and explore categories such as games, science and education, "
-#~ "or search for your favorite software."
-#~ msgstr ""
-#~ "Lubuntuでは、Ubuntuリポジトリ全体ならびに含まれているすべてのソフトウェア"
-#~ "にアクセスできます。これは、多くの新しいアプリケーションが無料で用意されて"
-#~ "いるということを示しています。<em>Lubuntuソフトウェアセンター</em>を利用し"
-#~ "て、ゲーム、科学、教育といったカテゴリを見て回ったり、好きなソフトウェアを"
-#~ "検索してみてください。"
+#~ "シンプルながらパワフルな音楽プレイヤーである<em>Audacious</em>で、お気に入"
+#~ "りの音楽を聞きましょう。 また、多くのフォーマットに対応したmplayerによる高"
+#~ "速な動画プレイヤーである<em>Gnome-Mplayer</em>で、色々な動画を楽しみましょ"
+#~ "う。"

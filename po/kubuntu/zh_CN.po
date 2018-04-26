@@ -7,23 +7,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
-"PO-Revision-Date: 2012-10-01 13:01+0000\n"
-"Last-Translator: Aron Xu <Unknown>\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2018-04-16 13:31+0000\n"
+"Last-Translator: Luo Yufan <Unknown>\n"
 "Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:48+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 "X-Poedit-Language: zh_CN\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/00_Welcome.html:3
 msgid "Welcome to Kubuntu"
-msgstr ""
+msgstr "欢迎使用 Kubuntu"
 
 #. type: Attribute 'alt' of: <div><div><img>
 #: slideshows/kubuntu/slides/00_Welcome.html:7
@@ -33,7 +33,7 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:11
 msgid "Thanks for picking Kubuntu!"
-msgstr ""
+msgstr "感谢您选择了 Kubuntu！"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:12
@@ -42,10 +42,17 @@ msgid ""
 "to make a great desktop experience"
 msgstr ""
 
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/00_Welcome.html:13
+msgid ""
+"This slideshow will go over the default applications, how to get help, and "
+"how to contribute to Kubuntu"
+msgstr ""
+
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/01_Applications.html:3
 msgid "Find everything you need on your new install"
-msgstr ""
+msgstr "在新安装的系统中找到您所需的任何内容。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/01_Applications.html:7
@@ -55,10 +62,11 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/01_Applications.html:8
+#, fuzzy
 msgid ""
-"For everything else you can install more software in Discover our software "
+"For everything else, you can install more software in Discover, our software "
 "center"
-msgstr ""
+msgstr "在 Discover 应用商店中寻找一切您所需的应用。"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:13
@@ -68,7 +76,7 @@ msgstr ""
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:14
 msgid "Web Browser"
-msgstr ""
+msgstr "网络浏览器"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:18
@@ -77,7 +85,7 @@ msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:19
-msgid "Email, Contacts"
+msgid "PIM Suite"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
@@ -88,7 +96,7 @@ msgstr ""
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:24
 msgid "Office Suite"
-msgstr ""
+msgstr "办公套件"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:28
@@ -98,65 +106,65 @@ msgstr ""
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:29
 msgid "Software Center"
-msgstr ""
+msgstr "软件中心"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:35
-msgid "Amarok"
-msgstr ""
+msgid "VLC"
+msgstr "VLC"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:36
-msgid "Music Player"
+msgid "Media Player"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:40
-msgid "Dragon Player"
-msgstr ""
+msgid "Okular"
+msgstr "Okular"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:41
-msgid "Video Player"
-msgstr ""
-
-#. type: Content of: <div><div><table><tr><td><div>
-#: slideshows/kubuntu/slides/01_Applications.html:45
-msgid "Okular"
-msgstr ""
-
-#. type: Content of: <div><div><table><tr><td><div>
-#: slideshows/kubuntu/slides/01_Applications.html:46
 msgid "Document Viewer"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:45
+msgid "Dolphin"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:46
+msgid "File Manager"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:50
-msgid "Dophin"
+msgid "Kate"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:51
-msgid "File Manager"
+msgid "Text Editor"
 msgstr ""
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/02_Accessibility.html:3
 msgid "Kubuntu: for all users"
-msgstr ""
+msgstr "Kubuntu：为了所有用户"
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/02_Accessibility.html:15
+#: slideshows/kubuntu/slides/02_Accessibility.html:11
 msgid "We want Kubuntu to work for everyone."
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/02_Accessibility.html:16
+#: slideshows/kubuntu/slides/02_Accessibility.html:12
 msgid "We include a screen reader, modifier keys and more."
 msgstr ""
 
 #. type: Content of: outside any tag (error?)
-#: slideshows/kubuntu/slides/02_Accessibility.html:20
+#: slideshows/kubuntu/slides/02_Accessibility.html:16
 msgid "r"
 msgstr ""
 
@@ -184,17 +192,23 @@ msgstr ""
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:18
+#, fuzzy
 msgid ""
-"Kubuntu Community: <a href=\"http://www.kubuntu.org/community\">http://www."
+"Kubuntu Community: <a href=\"https://www.kubuntu.org/community\">http://www."
 "kubuntu.org/community</a>"
 msgstr ""
+"Kubuntu 社区： <a href=\"http://www.kubuntu.org/community\">http://www."
+"kubuntu.org/community</a>"
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:19
+#, fuzzy
 msgid ""
-"Kubuntu Support:<a href=\"http://www.kubuntu.org/support\">http://www."
+"Kubuntu Support: <a href=\"https://www.kubuntu.org/support\">http://www."
 "kubuntu.org/support</a>"
 msgstr ""
+"Kubuntu 支持： <a href=\"http://www.kubuntu.org/support\">http://www.kubuntu."
+"org/support</a>"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:3
@@ -217,201 +231,30 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:19
+#, fuzzy
 msgid ""
 "No matter your skill level, getting involved and helping to mold the future "
-"of Kubuntu is easy, and you are more than welcome to help out."
+"of Kubuntu is easy, and you are more than welcome to help out.Remember, it "
+"is easy to get involved and the work you do will be seen by millions of "
+"people around the world."
 msgstr ""
 "不管您的技术水平如何，都可以加入到 Kubuntu 社区之中，一起创造未来。我们热情地"
 "欢迎您的加入！"
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/04_Get-Involved.html:24
-msgid ""
-"Look over <a href=\"http://docs.kubuntu.org/docs/contribute.html\">Kubuntu "
-"Manual</a> and see where you might be able to help out. Remember, it is easy "
-"to get involved and the work you do will be seen by millions of people "
-"around the world."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/04_Get-Involved.html:30
+#: slideshows/kubuntu/slides/04_Get-Involved.html:25
 msgid "The installation will finish soon. We hope you enjoy Kubuntu!"
-msgstr ""
+msgstr "安装即将完成。我们希望您能喜欢 Kubuntu！"
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/04_Get-Involved.html:33
+#: slideshows/kubuntu/slides/04_Get-Involved.html:28
+#, fuzzy
 msgid ""
-"Kubuntu Manual: <a href=\"http://docs.kubuntu.org/docs/contribute.html"
-"\">http://docs.kubuntu.org/docs/contribute.html</a>"
+"Kubuntu Manual: <a href=\"https://kubuntu.org/support/\">https://kubuntu.org/"
+"support</a>"
 msgstr ""
+"Kubuntu 支持： <a href=\"http://www.kubuntu.org/support\">http://www.kubuntu."
+"org/support</a>"
 
-#~ msgid ""
-#~ "Kubuntu is ready to play videos and music from the web, from CDs and DVDs."
-#~ msgstr "Kubuntu 可以直接播放来自网络、CD 和 DVD 的视频和音乐。"
-
-#~ msgid "Kubuntu is designed to be easy. Feel free to explore!"
-#~ msgstr "Kubuntu 设计的宗旨是易于使用。一起来自由地探索吧！"
-
-#~ msgid ""
-#~ "With hundreds of game titles in our online repository, Kubuntu allows you "
-#~ "to not be all about work, but also allows you to play."
-#~ msgstr ""
-#~ "我们的在线仓库中有数以百计的游戏，Kubuntu 让您在工作之余尽享娱乐的美妙。"
-
-#~ msgid "The installation will finish soon. We hope you enjoy Kubuntu."
-#~ msgstr "安装即将结束。我们衷心希望您会喜欢 Kubuntu！"
-
-#~ msgid ""
-#~ "Use it to create letters, presentations and spreadsheets, as well as "
-#~ "diagrams and databases."
-#~ msgstr ""
-#~ "您可以使用它制作文档、演示文稿和电子表格，以及其他各种图表和办公数据库。"
-
-#~ msgid "Accessibility in Kubuntu"
-#~ msgstr "破除障碍 自由沟通"
-
-#~ msgid ""
-#~ "We want to make computers work for everyone, whatever your physical "
-#~ "circumstances. So, we provide tools that make Kubuntu one of the most "
-#~ "accessible operating systems around."
-#~ msgstr ""
-#~ "为了让所有人都可以自由地使用 Kubuntu，我们提供了多种辅助工具，使 Kubuntu "
-#~ "成为最易用的操作系统之一。"
-
-#~ msgid "Get your game on with Kubuntu"
-#~ msgstr "轻松娱乐 自在游戏"
-
-#~ msgid ""
-#~ "If you need help, try <em>Help</em> from the menu, or the <em>Help</em> "
-#~ "menu in most applications."
-#~ msgstr ""
-#~ "如果您需要帮助，请尝试系统菜单中的 <em>帮助和支持</em>，很多应用程序中也都"
-#~ "有 <em>帮助</em> 菜单随时供您查看。"
-
-#~ msgid "Get involved and contribute to Kubuntu"
-#~ msgstr "加入社区 参与贡献"
-
-#~ msgid ""
-#~ "The Kubuntu community consists of a group of individuals, who make up one "
-#~ "of the greatest teams in the open source community, work on various "
-#~ "aspects of the distribution, providing advice and technical support, as "
-#~ "well as helping to promote Kubuntu to a wider audience."
-#~ msgstr ""
-#~ "无数用户的参与和贡献使 Kubuntu 社区成为最出色的开源社区之一。用户们为 "
-#~ "Kubuntu 提出建议、提供技术支持、帮助推广和传播，从各个方面推动着 Kubuntu "
-#~ "的进步。"
-
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "管理照片 便捷分享"
-
-#~ msgid ""
-#~ "With <em>Gwenview</em>, it is really easy to organize and share your "
-#~ "photos."
-#~ msgstr "通过 <em>Gwenview</em>，您可以便捷地管理和分享自己的照片。"
-
-#~ msgid ""
-#~ "Use the Export option to copy your photos to a remote computer, iPod, a "
-#~ "custom HTML gallery, or to export to services such as Flickr, SmugMug, "
-#~ "PicasaWeb, and more."
-#~ msgstr ""
-#~ "通过导出选项，您可以把照片复制到远程计算机，iPod 和各种在线相册。导出到 "
-#~ "Flickr、SmugMug、PicasaWeb 等各种网络服务也十分简单。"
-
-#~ msgid ""
-#~ "For more advanced organization and editing features, <em>digiKam</em> is "
-#~ "available for installation."
-#~ msgstr "如果您需要更高级的管理和编辑特性，可以安装 <em>digiKam</em>。"
-
-#~ msgid ""
-#~ "There is great software for everything from creating music and movies to "
-#~ "producing 3D models and exploring the universe."
-#~ msgstr ""
-#~ "还有众多的优秀软件供您选用。无论是录制音乐、制作电影，还是生成三维动画、探"
-#~ "索宇宙，您都可以找到合适的选择。"
-
-#~ msgid ""
-#~ "If you need something that isn't available through us, find out if there "
-#~ "is a Debian package or another repository available. That way, it will be "
-#~ "really easy to install and you will receive automatic updates."
-#~ msgstr ""
-#~ "如果您需要某些我们尚未直接提供的软件，请在其它软件仓库中寻找。软件仓库的添"
-#~ "加和安装十分简单，也同样为您提供自动更新服务。"
-
-#~ msgid ""
-#~ "Browse the web, share your files, software, and multimedia, send and "
-#~ "receive e-mail, and communicate with friends and family."
-#~ msgstr ""
-#~ "您可以在 Kubuntu 中浏览网页，分享文件、软件和多媒体资源，收发电子邮件，与"
-#~ "家人和朋友进行交流。"
-
-#~ msgid "Music and movies in Kubuntu"
-#~ msgstr "影音娱乐 更胜一筹"
-
-#~ msgid ""
-#~ "<em>Amarok</em> audio player lets you organize your music and listen to "
-#~ "Internet radio, podcasts, and more, as well as synchronizes your audio "
-#~ "collection to a portable audio player."
-#~ msgstr ""
-#~ "Kubuntu 预装了 <em>Amarok</em> 音乐播放器，您可以管理音乐，收听互联网电"
-#~ "台、播客和其他内容。也可以方便地将您的音乐同步到便携音乐播放器上。"
-
-#~ msgid ""
-#~ "<em>Dragon Player</em> allows you to easily watch videos from your "
-#~ "computer, DVD, or streamed over the Internet."
-#~ msgstr ""
-#~ "您可以使用 <em>Dragon Player</em> 轻松观看计算机、DVD 或互联网上的视频资"
-#~ "源。"
-
-#~ msgid ""
-#~ "<em>LibreOffice</em> is a powerful office software suite that is very "
-#~ "easy to learn and use."
-#~ msgstr ""
-#~ "Kubuntu 预装了 <em>LibreOffice</em>，这是一款简单易学、功能强大的办公套"
-#~ "件。"
-
-#~ msgid "Manage your contacts, dates, and e-mail"
-#~ msgstr "邮件日程 高效管理"
-
-#~ msgid ""
-#~ "<em>Kontact</em> is the fully-featured personal information management "
-#~ "software that comes with Kubuntu. It contains applications for E-mail, "
-#~ "Calendar, Address Book, and more."
-#~ msgstr ""
-#~ "Kubuntu 自带 <em>Kontact</em>，这是一套功能完善的个人信息管理软件。它包含"
-#~ "处理电子邮件、日历、地址薄和其他内容的应用程序。"
-
-#~ msgid ""
-#~ "Send e-mail with <em>KMail</em> from services such as Yahoo, GMail, and "
-#~ "various groupware services."
-#~ msgstr "您可以用  <em>KMail</em> 管理 Yahoo、Gmail 和其它电子邮件服务。"
-
-#~ msgid "Welcome"
-#~ msgstr "欢迎使用"
-
-#~ msgid "Installing additional software"
-#~ msgstr "万千软件 轻松获取"
-
-#~ msgid "Office tools at your fingertips"
-#~ msgstr "自由办公 近在指尖"
-
-#~ msgid ""
-#~ "Organize your calendar and scheduling with <em>KOrganizer</em> and "
-#~ "synchronize with services such as Google's Calendar."
-#~ msgstr ""
-#~ "您可以用 <em>KOrganizer</em> 管理日程和计划任务，并和 Google Calendar 等网"
-#~ "络服务同步。"
-
-#~ msgid ""
-#~ "Keep your contacts organized with <em>KAddressBook</em> and import or "
-#~ "export your contacts with nearly every address book standard as well "
-#~ "synchronize with various groupware services."
-#~ msgstr ""
-#~ "您可以用 <em>KAddressBook</em> 管理您的联系人，以多种地址薄格式导入和导"
-#~ "出，还可以与各种群组服务同步。"
-
-#~ msgid ""
-#~ "Let us know about your Kubuntu experience at <a href=\"http://www.kubuntu."
-#~ "org/community\">kubuntu.org/community</a>!"
-#~ msgstr ""
-#~ "可在<a href=\"http://forum.ubuntu.org.cn\">forum.ubuntu.org.cn/community</"
-#~ "a>分享您的 Kubuntu 体验！"
+#~ msgid "Email, Contacts"
+#~ msgstr "电子邮件、联系人"

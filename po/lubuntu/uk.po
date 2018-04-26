@@ -8,21 +8,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
-"PO-Revision-Date: 2016-03-18 12:21+0000\n"
-"Last-Translator: stuartlittle <Stuartlittle1970@gmail.com>\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2018-03-30 16:10+0000\n"
+"Last-Translator: Andrii Prokopenko <Unknown>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:49+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
 msgid "Welcome to Lubuntu"
-msgstr ""
+msgstr "Вітаємо в Lubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/00_welcome.html:8
@@ -87,8 +87,8 @@ msgstr "Підтримуване програмне забезпечення"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:23
-msgid "Flash"
-msgstr "Flash"
+msgid "Qupzilla"
+msgstr "Qupzilla"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:28
@@ -138,14 +138,13 @@ msgstr "Прослуховування музики і перегляд віде
 #: slideshows/lubuntu/slides/04_media.html:10
 msgid ""
 "Listen to your favorite music with <em>Audacious</em>, a simple but powerful "
-"audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
-"video player powered by mplayer with support for many formats."
+"audio player. And enjoy all your videos with <em>Gnome MPV</em>, the next "
+"generation video player, with support for many formats."
 msgstr ""
 "Насолоджуйтеся улюбленими музичними творами за допомогою <em>Audacious</em>, "
 "простого, але потужного музичного програвача. Переглядайте свої відео за "
-"допомогою <em>Gnome-Mplayer</em>, невибагливого до ресурсів відеопрогравача "
-"на основі mplayer, у якому передбачено підтримку багатьох форматів "
-"відеоданих."
+"допомогою <em>Gnome MPV</em>, наступного покоління відеопрогравача з "
+"підтримкою великої кількості форматів."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:14
@@ -163,8 +162,8 @@ msgstr "Audacious"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:28
-msgid "Gnome-Mplayer"
-msgstr "Gnome-Mplayer"
+msgid "Gnome MPV"
+msgstr "Gnome MPV"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:36
@@ -216,6 +215,11 @@ msgid ""
 "and explore categories such as games, science and education, or search for "
 "your favorite software."
 msgstr ""
+"З Lubuntu ви матимете доступ до всього репозиторію Ubuntu та до всього "
+"програмного забезпечення, яке туди входить. Це означає, що тисячі нових "
+"програм доступні для вашого комп'ютера безкоштовно. Використовуйте оновлену "
+"програму <em>Програмне забезпечення</em> та переглядайте такі категорії, як "
+"ігри, наука та освіта, або шукайте ваше улюблене програмне забезпечення."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/07_help.html:1
@@ -231,6 +235,11 @@ msgid ""
 "visit our <a href=\"http://lubuntu.me/\">website</a>, as we've gathered all "
 "the information you need."
 msgstr ""
+"Однією з найбільших переваг Lubuntu є чудова спільнота, що поєднана з нею. "
+"Інші користувачі із задоволенням допоможуть вам, якщо у вас виникнуть "
+"проблеми. Існує багато різних способів отримати допомогу, найпростіший "
+"спосіб - відвідати наш <a href=\"http://lubuntu.me/\">веб-сайт</a>, де ми "
+"зібрали всю необхідну інформацію."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/08_thanks.html:1
@@ -245,42 +254,24 @@ msgid ""
 "either by giving us feedback or by getting involved in the project, please "
 "visit our <a href=\"http://lubuntu.me/\">website</a>."
 msgstr ""
+"Встановлення незабаром завершиться. Ми сподіваємось, що Ви будете "
+"насолоджуватися Lubuntu та всією свободою, яка походить з нею. Якщо ви "
+"хочете допомогти нам покращити Lubuntu, надавши нам відгук або приєднавшись "
+"до проекту, відвідайте наш <a href=\"http://lubuntu.me/\">веб-сайт</a>."
+
+#~ msgid "Flash"
+#~ msgstr "Flash"
 
 #~ msgid ""
-#~ "With Lubuntu, you have access to the whole Ubuntu repository and all the "
-#~ "software included. This means that thousands of new applications are "
-#~ "ready for your computer, free of charge. Use the <em>Lubuntu Software "
-#~ "Center</em> and explore categories such as games, science and education, "
-#~ "or search for your favorite software."
+#~ "Listen to your favorite music with <em>Audacious</em>, a simple but "
+#~ "powerful audio player. And enjoy all your videos with <em>Gnome-Mplayer</"
+#~ "em>, a fast video player powered by mplayer with support for many formats."
 #~ msgstr ""
-#~ "За допомогою Lubuntu ви отримаєте доступ до всього діапазону програмного "
-#~ "забезпечення зі сховищ пакунків Ubuntu. Це означає, що ви можете "
-#~ "безкоштовно встановити будь-які з тисяч пакунків, що зберігаються у цих "
-#~ "сховищах. Для ознайомлення зі списками пакунків, впорядкованими за "
-#~ "категоріями, зокрема пакунками з іграми, науковими та освітніми "
-#~ "програмами, та пошуку потрібних пакунків скористайтеся <em>Центром "
-#~ "програм Lubuntu</em>."
+#~ "Насолоджуйтеся улюбленими музичними творами за допомогою <em>Audacious</"
+#~ "em>, простого, але потужного музичного програвача. Переглядайте свої "
+#~ "відео за допомогою <em>Gnome-Mplayer</em>, невибагливого до ресурсів "
+#~ "відеопрогравача на основі mplayer, у якому передбачено підтримку багатьох "
+#~ "форматів відеоданих."
 
-#~ msgid ""
-#~ "One of the biggest advantages with Lubuntu is the wonderful community "
-#~ "that comes with it. Other users will gladly help you out if you encounter "
-#~ "problems. There are many different ways to get help, the easiest way is "
-#~ "to visit our <a href=\"http://lubuntu.net/\">website</a>, as we've "
-#~ "gathered all the information you need."
-#~ msgstr ""
-#~ "Однією з найбільших переваг Lubuntu є чудова спільнота дистрибутива. Інші "
-#~ "користувачі із задоволенням допоможуть вам у вирішенні будь-яких проблем. "
-#~ "Допомогу можна отримати у декілька способів. Найпростішим є відвідання "
-#~ "нашого <a href=\"http://lubuntu.net/\">сайта</a>, де зібрано всі потрібні "
-#~ "для цього дані."
-
-#~ msgid ""
-#~ "The installation will finish soon. We hope you will enjoy Lubuntu and all "
-#~ "the freedom that comes with it.  If you wish to help us improve Lubuntu, "
-#~ "either by giving us feedback or by getting involved in the project, "
-#~ "please visit our <a href=\"http://lubuntu.net/\">website</a>."
-#~ msgstr ""
-#~ "Невдовзі встановлення буде завершено. Сподіваємося, вам сподобається "
-#~ "Lubuntu. Якщо ви хочете допомогти нам у покращенні Lubuntu, поділіться "
-#~ "вашими враженнями або долучайтеся до проекту. Відповідні дані можна "
-#~ "знайти на нашому <a href=\"http://lubuntu.net/\">сайті</a>."
+#~ msgid "Gnome-Mplayer"
+#~ msgstr "Gnome-Mplayer"

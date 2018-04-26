@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
 "PO-Revision-Date: 2017-07-29 05:57+0000\n"
 "Last-Translator: minwook shin <Unknown>\n"
 "Language-Team: Korean <ko@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:48+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/00_Welcome.html:3
@@ -40,6 +40,13 @@ msgid ""
 "to make a great desktop experience"
 msgstr ""
 
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/00_Welcome.html:13
+msgid ""
+"This slideshow will go over the default applications, how to get help, and "
+"how to contribute to Kubuntu"
+msgstr ""
+
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/01_Applications.html:3
 msgid "Find everything you need on your new install"
@@ -54,7 +61,7 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/01_Applications.html:8
 msgid ""
-"For everything else you can install more software in Discover our software "
+"For everything else, you can install more software in Discover, our software "
 "center"
 msgstr ""
 
@@ -75,7 +82,7 @@ msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:19
-msgid "Email, Contacts"
+msgid "PIM Suite"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
@@ -100,42 +107,42 @@ msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:35
-msgid "Amarok"
+msgid "VLC"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:36
-msgid "Music Player"
+msgid "Media Player"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:40
-msgid "Dragon Player"
-msgstr ""
-
-#. type: Content of: <div><div><table><tr><td><div>
-#: slideshows/kubuntu/slides/01_Applications.html:41
-msgid "Video Player"
-msgstr ""
-
-#. type: Content of: <div><div><table><tr><td><div>
-#: slideshows/kubuntu/slides/01_Applications.html:45
 msgid "Okular"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
-#: slideshows/kubuntu/slides/01_Applications.html:46
+#: slideshows/kubuntu/slides/01_Applications.html:41
 msgid "Document Viewer"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:45
+msgid "Dolphin"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
+#: slideshows/kubuntu/slides/01_Applications.html:46
+msgid "File Manager"
+msgstr ""
+
+#. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:50
-msgid "Dophin"
+msgid "Kate"
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:51
-msgid "File Manager"
+msgid "Text Editor"
 msgstr ""
 
 #. type: Content of: <div><div><h1>
@@ -144,17 +151,17 @@ msgid "Kubuntu: for all users"
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/02_Accessibility.html:15
+#: slideshows/kubuntu/slides/02_Accessibility.html:11
 msgid "We want Kubuntu to work for everyone."
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/02_Accessibility.html:16
+#: slideshows/kubuntu/slides/02_Accessibility.html:12
 msgid "We include a screen reader, modifier keys and more."
 msgstr ""
 
 #. type: Content of: outside any tag (error?)
-#: slideshows/kubuntu/slides/02_Accessibility.html:20
+#: slideshows/kubuntu/slides/02_Accessibility.html:16
 msgid "r"
 msgstr ""
 
@@ -183,14 +190,14 @@ msgstr ""
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:18
 msgid ""
-"Kubuntu Community: <a href=\"http://www.kubuntu.org/community\">http://www."
+"Kubuntu Community: <a href=\"https://www.kubuntu.org/community\">http://www."
 "kubuntu.org/community</a>"
 msgstr ""
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:19
 msgid ""
-"Kubuntu Support:<a href=\"http://www.kubuntu.org/support\">http://www."
+"Kubuntu Support: <a href=\"https://www.kubuntu.org/support\">http://www."
 "kubuntu.org/support</a>"
 msgstr ""
 
@@ -215,316 +222,24 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:19
+#, fuzzy
 msgid ""
 "No matter your skill level, getting involved and helping to mold the future "
-"of Kubuntu is easy, and you are more than welcome to help out."
+"of Kubuntu is easy, and you are more than welcome to help out.Remember, it "
+"is easy to get involved and the work you do will be seen by millions of "
+"people around the world."
 msgstr ""
 "여러분의 기술적 숙련도에 관계없이, 참여하셔서 함께  쿠분투의 미래를 이끌어 가"
 "는 일은 쉽습니다, 함께 하신다면 여러분의 도움은 환영 그 이상입니다."
 
 #. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/04_Get-Involved.html:24
-msgid ""
-"Look over <a href=\"http://docs.kubuntu.org/docs/contribute.html\">Kubuntu "
-"Manual</a> and see where you might be able to help out. Remember, it is easy "
-"to get involved and the work you do will be seen by millions of people "
-"around the world."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-#: slideshows/kubuntu/slides/04_Get-Involved.html:30
+#: slideshows/kubuntu/slides/04_Get-Involved.html:25
 msgid "The installation will finish soon. We hope you enjoy Kubuntu!"
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
-#: slideshows/kubuntu/slides/04_Get-Involved.html:33
+#: slideshows/kubuntu/slides/04_Get-Involved.html:28
 msgid ""
-"Kubuntu Manual: <a href=\"http://docs.kubuntu.org/docs/contribute.html"
-"\">http://docs.kubuntu.org/docs/contribute.html</a>"
+"Kubuntu Manual: <a href=\"https://kubuntu.org/support/\">https://kubuntu.org/"
+"support</a>"
 msgstr ""
-
-#~ msgid "Kubuntu is designed to be easy. Feel free to explore!"
-#~ msgstr "쿠분투는 쉽게 사용 가능하도록 설계되었습니다. 자유를 만끽하세요!"
-
-#~ msgid "Office tools at your fingertips"
-#~ msgstr "손쉬운 오피스 도구"
-
-#~ msgid "Welcome"
-#~ msgstr "환영합니다"
-
-#~ msgid "Installing additional software"
-#~ msgstr "추가 소프트웨어 설치"
-
-#~ msgid ""
-#~ "<em>LibreOffice</em> is a powerful office software suite that is very "
-#~ "easy to learn and use."
-#~ msgstr ""
-#~ "<em>LibreOffice</em>는 배우기 쉽고 강력한 오피스 프로그램 모음입니다."
-
-#~ msgid "Get your game on with Kubuntu"
-#~ msgstr "쿠분투로 게임 즐기기"
-
-#~ msgid ""
-#~ "With hundreds of game titles in our online repository, Kubuntu allows you "
-#~ "to not be all about work, but also allows you to play."
-#~ msgstr ""
-#~ "쿠분투는 일만 하는 운영 체제가 아닌, 즐기기 위한 운영체제이기도 합니다. 온"
-#~ "라인 저장소에 있는 여러 종류의 게임을 설치할 수 있습니다."
-
-#~ msgid ""
-#~ "If you need help, try <em>Help</em> from the menu, or the <em>Help</em> "
-#~ "menu in most applications."
-#~ msgstr ""
-#~ "도움이 필요하다면 K 메뉴의 <em>도움말</em> 및 개별 프로그램의 <em>도움말</"
-#~ "em>을 참조하십시오."
-
-#~ msgid "Accessibility in Kubuntu"
-#~ msgstr "쿠분투의 접근성"
-
-#~ msgid ""
-#~ "We want to make computers work for everyone, whatever your physical "
-#~ "circumstances. So, we provide tools that make Kubuntu one of the most "
-#~ "accessible operating systems around."
-#~ msgstr ""
-#~ "어떠한 신체적 장애를 가지고 있어도 컴퓨터를 쉽게 사용할 수 있어야 합니다. "
-#~ "그래서 쿠분투는 접근성을 보조하기 위한 여러 도구를 제공합니다."
-
-#~ msgid "Get involved and contribute to Kubuntu"
-#~ msgstr "쿠분투에 참여하고 기여하기"
-
-#~ msgid ""
-#~ "The Kubuntu community consists of a group of individuals, who make up one "
-#~ "of the greatest teams in the open source community, work on various "
-#~ "aspects of the distribution, providing advice and technical support, as "
-#~ "well as helping to promote Kubuntu to a wider audience."
-#~ msgstr ""
-#~ "쿠분투 커뮤니티는 배포판의 여러 부분에서 활약하면서 조언과 기술 지원을 하"
-#~ "고 있고, 쿠분투를 더 많은 사람에게 알리기 위하여 모인 사람들이 만들어 나가"
-#~ "고 있습니다."
-
-#~ msgid "The installation will finish soon. We hope you enjoy Kubuntu."
-#~ msgstr "설치가 곧 끝납니다. 쿠분투를 잘 사용하십시오."
-
-#~ msgid ""
-#~ "With <em>Gwenview</em>, it is really easy to organize and share your "
-#~ "photos."
-#~ msgstr ""
-#~ "<em>Gwenview</em>를 사용하면 사진을 쉽게 정리하고 공유할 수 있습니다."
-
-#~ msgid "Organize, enjoy, and share your photos"
-#~ msgstr "사진을 정리하고 감상하고 공유하기"
-
-#~ msgid ""
-#~ "Use the Export option to copy your photos to a remote computer, iPod, a "
-#~ "custom HTML gallery, or to export to services such as Flickr, SmugMug, "
-#~ "PicasaWeb, and more."
-#~ msgstr ""
-#~ "내보내기 기능을 사용하여 가지고 있는 사진을 원격 컴퓨터, iPod, HTML 갤러리"
-#~ "로 내보내거나 Flickr, SmugMug, PicasaWeb 등 웹 서비스에 공유할 수 있습니"
-#~ "다."
-
-#~ msgid ""
-#~ "Browse the web, share your files, software, and multimedia, send and "
-#~ "receive e-mail, and communicate with friends and family."
-#~ msgstr ""
-#~ "웹을 탐색하고, 파일, 소프트웨어, 멀티미디어를 공유하고, 전자 우편을 주고받"
-#~ "고, 친구들과 가족과 대화를 할 수 있습니다."
-
-#~ msgid ""
-#~ "If you need something that isn't available through us, find out if there "
-#~ "is a Debian package or another repository available. That way, it will be "
-#~ "really easy to install and you will receive automatic updates."
-#~ msgstr ""
-#~ "만약 기본적으로 제공되지 않는 소프트웨어가 필요하다면, 데비안 패키지나 다"
-#~ "른 저장소를 사용할 수 있는지 확인해보십시오. 저장소를 추가하면 정말 쉽게 "
-#~ "프로그램을 설치하고 자동 업데이트를 받을 수 있습니다."
-
-#~ msgid ""
-#~ "For more advanced organization and editing features, <em>digiKam</em> is "
-#~ "available for installation."
-#~ msgstr ""
-#~ "<em>digiKam</em>을 설치하면 더 전문적인 사진 관리 및 편집 기능을 사용할 "
-#~ "수 있습니다."
-
-#~ msgid "Music and movies in Kubuntu"
-#~ msgstr "쿠분투의 음악과 영화"
-
-#~ msgid ""
-#~ "There is great software for everything from creating music and movies to "
-#~ "producing 3D models and exploring the universe."
-#~ msgstr ""
-#~ "음악과 영화를 만들고, 3차원 모델을 만들고, 우주를 탐사하는 것까지 모든 분"
-#~ "야에 사용할 수 있는 좋은 소프트웨어가 있습니다."
-
-#~ msgid ""
-#~ "Kubuntu is ready to play videos and music from the web, from CDs and DVDs."
-#~ msgstr ""
-#~ "쿠분투는 CD, DVD, 온라인에 있는 음악과 영상을 재생할 준비가 되어 있습니다."
-
-#~ msgid ""
-#~ "<em>Amarok</em> audio player lets you organize your music and listen to "
-#~ "Internet radio, podcasts, and more, as well as synchronizes your audio "
-#~ "collection to a portable audio player."
-#~ msgstr ""
-#~ "<em>Amarok</em> 음악 재생기를 사용하면 음악을 정리할 수 있고, 인터넷 라디"
-#~ "오, 팟캐스트 등을 들을 수 있습니다. 또한 휴대용 오디오 장치에 있는 음악 모"
-#~ "음과 동기화할 수 있습니다."
-
-#~ msgid ""
-#~ "<em>Dragon Player</em> allows you to easily watch videos from your "
-#~ "computer, DVD, or streamed over the Internet."
-#~ msgstr ""
-#~ "<em>Dragon Player</em>를 사용하면 컴퓨터나 DVD, 인터넷 스트리밍 동영상을 "
-#~ "쉽게 볼 수 있습니다."
-
-#~ msgid "Manage your contacts, dates, and e-mail"
-#~ msgstr "연락처, 일정, 전자 우편 관리"
-
-#~ msgid ""
-#~ "Use it to create letters, presentations and spreadsheets, as well as "
-#~ "diagrams and databases."
-#~ msgstr ""
-#~ "편지를 쓰거나, 프리젠테이션, 스프레드시트, 다이어그램, 데이터베이스를 만"
-#~ "들 수 있습니다."
-
-#~ msgid ""
-#~ "Send e-mail with <em>KMail</em> from services such as Yahoo, GMail, and "
-#~ "various groupware services."
-#~ msgstr ""
-#~ "<em>KMail</em>을 사용하여 Yahoo, GMail, 그룹웨어 서비스를 통하여 전자 우편"
-#~ "을 보낼 수 있습니다."
-
-#~ msgid ""
-#~ "<em>Kontact</em> is the fully-featured personal information management "
-#~ "software that comes with Kubuntu. It contains applications for E-mail, "
-#~ "Calendar, Address Book, and more."
-#~ msgstr ""
-#~ "<em>Kontact</em>는 쿠분투에 포함된 개인 정보 관리 소프트웨어입니다. 전자 "
-#~ "우편, 달력, 주소록 등 기능을 하는 프로그램을 포함합니다."
-
-#~ msgid ""
-#~ "Keep your contacts organized with <em>KAddressBook</em> and import or "
-#~ "export your contacts with nearly every address book standard as well "
-#~ "synchronize with various groupware services."
-#~ msgstr ""
-#~ "<em>KAddressBook</em>을 사용하면 연락처를 정리할 수 있으며, 거의 모든 주소"
-#~ "록 형식으로 연락처를 교환하거나 그룹웨어 서비스와 동기화할 수 있습니다."
-
-#~ msgid ""
-#~ "Organize your calendar and scheduling with <em>KOrganizer</em> and "
-#~ "synchronize with services such as Google's Calendar."
-#~ msgstr ""
-#~ "<em>KOrganizer</em>를 사용하여 달력을 보고, 일정을 관리하며, Google 캘린"
-#~ "더 등의 서비스와 동기화할 수 있습니다."
-
-#~ msgid "Make the most of the web"
-#~ msgstr "웹을 최대한 활용하십시오"
-
-#~ msgid "You can easily install Steam"
-#~ msgstr "Steam도 쉽게 설치하실 수 있습니다"
-
-#~ msgid "Remember to also look over the <em>Application Style</em>."
-#~ msgstr "<em>어플리케이션 스타일</em>도 잊지 말고 둘러보세요."
-
-#~ msgid ""
-#~ "You can get at these tools in one place: the <em>Accessibility</em> "
-#~ "preferences, inside the Desktop Behavior from the System Settings "
-#~ "application from the menu. From there, you can turn on helpful tools like "
-#~ "<em>Modifier Keys</em>, <em>Keyboard Filters</em>, and <em>Activation "
-#~ "Gestures</em>."
-#~ msgstr ""
-#~ "이런 도구들을 한 곳에서 이용하실 수 있습니다: 데스크톱 동작 안의 메뉴의 시"
-#~ "스템 설정 어플, <em><접근성></em>. 그곳에서, <em>키 조합</em>, <em>키보드 "
-#~ "필터</em>,<em>제스쳐 동작</em>등의 유용한 도구들을 실행시킬 수 있습니다."
-
-#~ msgid ""
-#~ "Kubuntu includes Mozilla Firefox, the web browser used by millions of "
-#~ "people around the world."
-#~ msgstr ""
-#~ "쿠분투는, 전 세계 수백만 명이 사용하는 모질라 파이어 폭스를 싣고 있습니다."
-
-#~ msgid ""
-#~ "Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
-#~ "installable."
-#~ msgstr ""
-#~ "<em>크로미움</em>이나 <em>리콩</em> 같은 웹브라우저를 쉽게 설치하실 수 있"
-#~ "습니다."
-
-#~ msgid ""
-#~ "Let us know about your Kubuntu experience at <a href=\"http://www.kubuntu."
-#~ "org/community\">kubuntu.org/community</a>!"
-#~ msgstr ""
-#~ "여러분의 쿠분투 사용경험을 이곳에서 함께 해주세요 <a href=\"http://www."
-#~ "kubuntu.org/community\">kubuntu.org/community</a>!"
-
-#~ msgid ""
-#~ "Look over <a href=\"https://userbase.kde.org/Kubuntu/Contribute"
-#~ "\">userbase.kde.org/Kubuntu/Contribute</a> and see where you might be "
-#~ "able to help out. Remember, it is easy to get involved and the work you "
-#~ "do will be seen by millions of people around the world."
-#~ msgstr ""
-#~ "아래 사이트를 둘러보시고 <a href=\"https://userbase.kde.org/Kubuntu/"
-#~ "Contribute\">userbase.kde.org/Kubuntu/Contribute</a> 함께 참여하실 만 한 "
-#~ "곳을 찾아보세요. 기억하세요, 참여하기는 쉬우며 여러분의 참여는 전 세계 수"
-#~ "백만의 사용자들이 알아보게 됩니다."
-
-#~ msgid ""
-#~ "We believe every computer user should be free to work in the environment "
-#~ "they choose, and be free to download, change, study and share their "
-#~ "software with anyone, for any purpose."
-#~ msgstr ""
-#~ "우리는 모든 컴퓨터 사용자들이 그들이 선택한 사용자 환경에서 자유로워야 하"
-#~ "며, 다운로드, 교환, 공부하며 그들의 소프트웨어를 모두와, 모든 목적으로 자"
-#~ "유로이 나눌 수 있어야 한다고 믿습니다."
-
-#~ msgid ""
-#~ "<em>LibreOffice</em> works with documents from other popular office "
-#~ "applications including WordPerfect and Microsoft Office. It uses the "
-#~ "standard OpenDocument format."
-#~ msgstr ""
-#~ "<em>리브레 오피스</em>는 WordPerfect나 Microsoft Office 와 같이 잘 알려진 "
-#~ "다른 오피스 어플리케이션들과도 작업이 가능합니다. 리브레 오피스는 표준 공"
-#~ "개 문서(OpenDocument) 형식을 따릅니다."
-
-#~ msgid ""
-#~ "In addition to our extensive written help, the Kubuntu community in "
-#~ "conjunction with the Ubuntu community, provides free technical support in "
-#~ "person and over the Internet. Learn more at <a href=\"http://www.kubuntu."
-#~ "org/support\">kubuntu.org/support</a>."
-#~ msgstr ""
-#~ "쿠분투에서 제공하는 광범위한 도움말에 더해서, 우분투 커뮤니티와 함께, 쿠분"
-#~ "투 커뮤니티는 인터넷을 통해서 사용자에게 무료 기술 지원을 제공합니다. 이곳"
-#~ "에서 확인해보세요 <a href=\"http://www.kubuntu.org/support\">kubuntu.org/"
-#~ "support</a>."
-
-#~ msgid ""
-#~ "First Person Shooters, Role Playing Games, and more are also available in "
-#~ "the repositories."
-#~ msgstr "슈팅 게임, 롤 플레잉 게임, 과 더 많은 게임들도 저장소에 있습니다."
-
-#~ msgid ""
-#~ "Thank you for choosing Kubuntu 17.04. We hope you enjoy the experience."
-#~ msgstr "쿠분투 17.04를 선택해 주셔서 감사합니다. 경험을 즐기시기 바랍니다."
-
-#~ msgid ""
-#~ "We want Kubuntu to work for you. So while your software is installing, "
-#~ "this slideshow will introduce you to Kubuntu 17.04."
-#~ msgstr ""
-#~ "쿠분투가 당신을 위해 일하기를 바랍니다. 따라서 소프트웨어가 설치되는 동안 "
-#~ "이 슬라이드 쇼는 쿠분투 17.04를 소개합니다."
-
-#~ msgid ""
-#~ "Take a look at the <em>Discover</em> application in the menu. Discover "
-#~ "will allow you to install (and remove) software from our online "
-#~ "repositories, which we carefully organize to be safe and up to date."
-#~ msgstr ""
-#~ "메뉴에서 <em>탐색</em> 응용 프로그램을 살펴보십시오. 탐색을 사용하면 온라"
-#~ "인 리포지토리에서 소프트웨어를 설치(및 제거) 할 수 있습니다. 소프트웨어는 "
-#~ "신중하게 구성되어 안전하고 최신 상태로 유지됩니다."
-
-#~ msgid ""
-#~ "The <em>KDE Applications</em> have quite a few games ranging from card "
-#~ "games to logic games and board games."
-#~ msgstr ""
-#~ "<em> KDE 응용 프로그램</em>에는 카드 게임부터 로직 게임 및 보드 게임에 이"
-#~ "르는 다양한 게임이 있습니다."

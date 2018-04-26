@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
 "PO-Revision-Date: 2016-09-30 05:49+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <ca@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:48+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:2
@@ -46,11 +46,12 @@ msgid ""
 "requirements it is suitable for modern workstations, single board computers "
 "and older hardware alike."
 msgstr ""
-"L'Ubuntu MATE es un sistema operatiu estable i fàcil d'usar amb un entorn "
-"d'escriptori configurable. És ideal per a les persones que volen el màxim "
-"dels seus ordinadors i prefereixen una metàfora d'escriptori tradicional. "
-"Amb requeriments modestos de maquinari, és apropiat per a estacions de "
-"treball modernes, ordinadors de tauler únic i maquinari antic semblant."
+"L'Ubuntu MATE és un sistema operatiu estable i fàcil d'utilitzar amb un "
+"entorn d'escriptori configurable. És ideal pels que volen el màxim dels seus "
+"ordinadors i prefereixen una metàfora d'escriptori tradicional. Amb uns "
+"requisits modestos de maquinari és apropiat per a les estacions de treball "
+"modernes, els ordinadors amb tot en una placa i així com per als ordinadors "
+"amb maquinari antic."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:14
@@ -59,11 +60,15 @@ msgid ""
 "interface with one-click to something more modern or something that you "
 "might be more familar with via <strong>MATE Tweak</strong>."
 msgstr ""
+"Per als usuaris que venen d'altres sistemes operatius, l'Ubuntu MATE pot "
+"adaptar la interfície d'usuari d'un sol clic a alguna cosa més modern o "
+"alguna cosa que podria ser més familiar amb els <strong>Retocs de MATE</"
+"strong>."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:2
 msgid "Get up and running faster"
-msgstr ""
+msgstr "Comença a funcionar més ràpidament"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:7
@@ -77,6 +82,15 @@ msgid ""
 "monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
 "off point to the community."
 msgstr ""
+"La benvinguda de l'Ubuntu MATE dóna la benvinguda i assisteix als usuaris "
+"nous i als que tornen. L'auxiliar <strong>com començar</strong> us guiarà en "
+"la preparació i configuració dels perifèrics i dispositius addicionals en la "
+"primera arrencada després de la instal·lació, la documentació ajudarà en la "
+"tasca d'orientació dels nous usuaris. La secció de les "
+"<strong>especificacions del sistema</strong> us ajudarà a explorar el vostre "
+"maquinari i us proporcionarà diverses eines d'un sol clic per instal·lar i "
+"executar diverses eines útils de monitoratge. Quan us calgui assistència, la "
+"benvinguda de l'Ubuntu MATE és el punt de partida a la comunitat d'usuaris."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:18
@@ -98,7 +112,7 @@ msgstr "Benvinguda de l'Ubuntu MATE"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:2
 msgid "Find the best software"
-msgstr ""
+msgstr "Trobeu el millor programari"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:7
@@ -110,11 +124,18 @@ msgid ""
 "Experienced users can simply queue up all their favourite software for "
 "install and process it in one operation."
 msgstr ""
+"Digueu adéu a la cerca de programari nou al web. Hi ha una gran quantitat de "
+"programari disponible per a l'Ubuntu MATE, però algunes persones troben "
+"aquesta opció aclaparadora. La <strong>botiga de programari</strong> és una "
+"selecció acurada de les millors aplicacions en la seva classe que "
+"complementen l'Ubuntu MATE. Els usuaris experimentats poden simplement "
+"enviar a la cua les seves aplicacions preferides per instal·lar-les i "
+"processar-les en una única operació."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:20
 msgid "Software Boutique"
-msgstr ""
+msgstr "Botiga de programari"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:23
@@ -128,12 +149,12 @@ msgstr "Programari compatible"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:27
 msgid "Ubuntu Software"
-msgstr ""
+msgstr "Programari de l'Ubuntu"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:2
 msgid "Personalised computing"
-msgstr ""
+msgstr "Informàtica personalitzada"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:7
@@ -148,16 +169,26 @@ msgid ""
 "<strong>Comptemporary</strong>. Experienced users can customise the user "
 "interface and save their creations."
 msgstr ""
+"La interfície d'usuari predeterminada de l'Ubuntu MATE és intuïtiva i fàcil "
+"d'utilitzar. Però entenem que les persones tenen gustos i preferències "
+"diferents, per això hem creat els <strong>Retocs de MATE</strong>, una eina "
+"per canviar la interfície d'usuari per imitar altres sistemes operatius. "
+"Veniu del Windows? Proveu <strong>Redmond</strong>. Preferiu el disseny de "
+"macOS? Proveu <strong>Cupertino</strong>. Si sou un seguidor de l'Ubuntu "
+"Unity, doneu un cop d'ull a <strong>Mutiny</strong>. O bé, per a una "
+"interfície d'usuari híbrida, proveu <strong>Pantheon</strong> o "
+"<strong>Comptemporary</strong>. Els usuaris experimentats poden "
+"personalitzar la seva interfície d'usuari i desar les seves creacions."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:23
 msgid "MATE Tweak"
-msgstr ""
+msgstr "Retocs de MATE"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:2
 msgid "Make the most of the web"
-msgstr "Aprofiteu la web al màxim"
+msgstr "Aprofiteu el web al màxim"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:7
@@ -169,11 +200,18 @@ msgid ""
 "<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
 "strong> in the Software Boutique."
 msgstr ""
+"L’Ubuntu MATE inclou el <strong>Firefox</strong>, un navegador web senzill i "
+"segur que és utilitzat per milions de persones a tot el món. Dissenyat "
+"tenint en compte la privacitat, aquest inclou característiques de seguretat "
+"millorades per protegir-vos de les amenaces que hi ha en línia. A la «Botiga "
+"de programari» també podeu trobar el <strong>Brave</strong>, el "
+"<strong>Chromium</strong>, el <strong>Google Chrome</strong>, "
+"l’<strong>Opera</strong> i el <strong>Vivaldi</strong>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:20
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:24
@@ -188,7 +226,7 @@ msgstr "Chromium"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:2
 msgid "Get your game on!"
-msgstr ""
+msgstr "Comenceu a jugar!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:7
@@ -200,21 +238,28 @@ msgid ""
 "ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
 "person shooters."
 msgstr ""
+"L'Ubuntu MATE no és només per a treballar, també és ideal per a jugar. "
+"Trobareu l’<strong>Steam</strong> i el <strong>Minecraft</strong> a la "
+"<strong>botiga de programari</strong>. També hem seleccionat els millors "
+"jocs de codi obert i amb aquests hem omplert la botiga de programari amb "
+"jocs de plataformes, marcianets, jocs de carreres, simuladors de vol, "
+"trencaclosques, jocs d'estratègia en torns i videojocs de tir en primera "
+"persona."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:19
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:23
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:2
 msgid "Take your music with you"
-msgstr "Porteu la vostra música amb vosaltres"
+msgstr "Porteu la vostra música a sobre"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:7
@@ -226,6 +271,13 @@ msgid ""
 "<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
 "many popular streaming services, in the <strong>Software Boutique</strong>"
 msgstr ""
+"L’Ubuntu MATE incorpora l'increïble reproductor de música Rhythmbox. Amb les "
+"opcions avançades de reproducció, és senzill arribar a tenir les cançons "
+"perfectes. I funciona molt bé amb CD i reproductors de música portàtils, per "
+"aquest motiu podreu gaudir de tota la vostra música allà on aneu. Si "
+"preferiu els serveis d’emissió en línia, trobareu l’<strong>Spotify</strong> "
+"i el <strong>Reproductor Nuvola</strong>, que admet molts serveis d’emissió "
+"en línia populars, a la <strong>Botiga de programari</strong>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:20
@@ -236,7 +288,7 @@ msgstr "Reproductor de música Rhythmbox"
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:24
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:22
 msgid "VLC"
-msgstr ""
+msgstr "VLC"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:2
@@ -253,6 +305,13 @@ msgid ""
 "<strong>Luminance HDR</strong> that offer virtual lightable and darkroom for "
 "RAW and HDR image workflows."
 msgstr ""
+"El Shotwell és un gestor de fotografies molt pràctic que està preparat per "
+"als vostres gins. Connecteu una càmera o un telèfon per transferir les "
+"vostres fotos i després compartiu-les i mantingueu-les fora de perill. Per "
+"als entusiastes i professionals de la fotografia digital, a la Botiga de "
+"programari trobareu <strong>Darktable</strong> i <strong>Luminance HDR</"
+"strong> que ofereixen il·luminació virtual i cambra fosca per als fluxos de "
+"treball de fotografies RAW i HDR."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:20
@@ -267,7 +326,7 @@ msgstr "Editor d'imatges GIMP"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:2
 msgid "Grab some popcorn!"
-msgstr ""
+msgstr "Agafeu algunes crispetes!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:7
@@ -277,6 +336,10 @@ msgid ""
 "content from your favourite streaming services such as <strong>Netflix</"
 "strong> and <strong>YouTube</strong>."
 msgstr ""
+"L'Ubuntu Mate incorpora el <strong>Firefox</strong> preinstal·lat, el "
+"<strong>Google Chrome</strong> està a la «Botiga de programari» per tant "
+"podreu continuar veient el contingut de les vostres plataformes d'emissió "
+"preferides, com ara <strong>Netflix</strong> i <strong>YouTube</strong>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:12
@@ -285,16 +348,20 @@ msgid ""
 "video with ease and <strong>Emby</strong> media server is one-click away "
 "from the Software Boutique to create your own streaming server."
 msgstr ""
+"Amb el <strong>VLC</strong> instal·lat de forma predeterminada podreu veure "
+"tots els vostres vídeos locals amb facilitat i amb el servidor multimèdia "
+"<strong>Emby</strong>, amb la «Botiga de programari» esteu a un sol clic per "
+"crear el vostre propi servidor d’emissió."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:29
 msgid "Emby"
-msgstr ""
+msgstr "Emby"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:2
 msgid "Everything you need for the office"
-msgstr "Tot el que us cal per a l'oficina"
+msgstr "Tot el que necessiteu per a l'oficina"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:7
@@ -303,11 +370,15 @@ msgid ""
 "documents, spreadsheets and presentations.  Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"El LibreOffice és un paquet ofimàtic lliure amb tot el necessari per crear "
+"documents, fulls de càlcul i presentacions. És compatible amb els formats de "
+"fitxer de Microsoft Office, us proporciona totes les funcionalitats que "
+"necessiteu, però de forma gratuïta."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:17
 msgid "LibreOffice Writer"
-msgstr "Writer del LibreOffice"
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:21
@@ -350,12 +421,12 @@ msgstr "Aparença"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:21
 msgid "Assistive technologies"
-msgstr "Tecnologies assistives"
+msgstr "Tecnologies assistides"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:25
 msgid "Language support"
-msgstr "Suport d'idioma"
+msgstr "Suport de llengua"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:2
@@ -365,7 +436,7 @@ msgstr "Uniu-vos a la comunitat"
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:7
 msgid "Discussion & Support"
-msgstr ""
+msgstr "Debat i suport"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:11
@@ -373,6 +444,8 @@ msgid ""
 "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
 "Forum</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Fòrum de "
+"l'Ubuntu MATE</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:15
@@ -380,12 +453,15 @@ msgid ""
 "<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
 "\"caption\">Google+</a>"
 msgstr ""
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
+"\"caption\">Google+</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:19
 msgid ""
 "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Xat en directe</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:22
@@ -418,6 +494,7 @@ msgstr "Desenvolupament"
 msgid ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Codi</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:41
@@ -425,111 +502,5 @@ msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
 msgstr ""
-"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Gestor "
-"d'informes d'error</a>"
-
-#~ msgid "Find even more software"
-#~ msgstr "Trobeu encara més programari"
-
-#~ msgid ""
-#~ "Say goodbye to searching the web for new software. With Ubuntu MATE "
-#~ "Welcome, you can install popular applications with one click. You can "
-#~ "also install software centres to discover even more applications for "
-#~ "Ubuntu MATE."
-#~ msgstr ""
-#~ "Digueu adéu a cercar la web per a nou programari. Amb l'Ubuntu MATE "
-#~ "Welcome, podeu instal·lar aplicacions populars amb un clic. També podeu "
-#~ "instal·lar centres de programari per descobrir encara més aplicacions per "
-#~ "a l'Ubuntu MATE."
-
-#~ msgid "Ubuntu Software Center"
-#~ msgstr "Centre de programari de l'Ubuntu"
-
-#~ msgid ""
-#~ "Ubuntu MATE comes with the amazing Rhythmbox music player. With advanced "
-#~ "playback options, it's simple to queue up the perfect songs. And it works "
-#~ "great with CDs and portable music players, so you can enjoy all your "
-#~ "music wherever you go."
-#~ msgstr ""
-#~ "L'Ubuntu MATE ve amb el sensacional reproductor de música Rhythmbox. Amb "
-#~ "opcions de reproducció avançades, és senzill posar a la cua les cançons "
-#~ "perfectes. I funciona molt bé amb CD i reproductors portàtils de música, "
-#~ "de manera que podeu gaudir de la vostra música aneu on aneu."
-
-#~ msgid "VLC Media Player"
-#~ msgstr "Reproductor multimèdia VLC"
-
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it's easy to share them "
-#~ "and keep them safe."
-#~ msgstr ""
-#~ "El Shotwell és un gestor pràctic de fotografies que està preparat per als "
-#~ "vostres estris. Connecteu una càmera o un telèfon per transferir les "
-#~ "vostres fotografies, i després és fàcil compartir-les o mantenir-les "
-#~ "segures."
-
-#~ msgid "Banshee Media Player"
-#~ msgstr "Reproductor multimèdia Banshee"
-
-#~ msgid "GDebi Package Installer"
-#~ msgstr "Instal·lador de paquets GDebi"
-
-#~ msgid "Synaptic Package Manager"
-#~ msgstr "Gestor de paquets Synaptic"
-
-#~ msgid "Eye of MATE Image Viewer"
-#~ msgstr "Visualitzador d'imatges Eye of MATE"
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you need to "
-#~ "create documents, spreadsheets and presentations. Compatible with "
-#~ "Microsoft Office file formats, it gives you all the features you need, "
-#~ "without the price tag."
-#~ msgstr ""
-#~ "El LibreOffice és un paquet ofimàtic lliure amb tot el que necessiteu per "
-#~ "crear documents, fulls de càlcul i presentacions. És compatible amb els "
-#~ "formats de l'Office de Microsoft i ofereix totes les funcions necessàries "
-#~ "de manera gratuïta."
-
-#~ msgid ""
-#~ "Ubuntu MATE includes Firefox, an easy and safe web browser used by "
-#~ "millions of people around the world. Designed with privacy in mind it "
-#~ "includes enhanced security features to protect you from online threats."
-#~ msgstr ""
-#~ "L'Ubuntu MATE inclou el Firefox, un navegador web fàcil i segur usat per "
-#~ "milions de persones al voltant del món. Dissenyat pensant en la "
-#~ "privacitat, inclou característiques millorades de seguretat per protegir-"
-#~ "vos de les amenaces en línia."
-
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Navegador Firefox"
-
-#~ msgid "Discussion"
-#~ msgstr "Discussió"
-
-#~ msgid ""
-#~ "<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu "
-#~ "MATE Launchpad</a>"
-#~ msgstr ""
-#~ "<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Launchpad "
-#~ "de l'Ubuntu MATE</a>"
-
-#~ msgid ""
-#~ "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
-#~ "Community</a>"
-#~ msgstr ""
-#~ "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Comunitat de "
-#~ "l'Ubuntu MATE</a>"
-
-#~ msgid ""
-#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC Channel</a>"
-#~ msgstr ""
-#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Canal d'IRC</a>"
-
-#~ msgid ""
-#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
-#~ "class=\"caption\">Google+ Community</a>"
-#~ msgstr ""
-#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
-#~ "class=\"caption\">Comunitat de Google+</a>"
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Eina de "
+"seguiment d'errors</a>"

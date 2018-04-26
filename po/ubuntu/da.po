@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
-"PO-Revision-Date: 2016-04-07 18:38+0000\n"
-"Last-Translator: Ask Hjorth Larsen <asklarsen@gmail.com>\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2018-04-01 18:08+0000\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
 "Language-Team: Danish <da@li.org>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:49+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 "X-Poedit-Language: Danish\n"
 
 #. type: Content of: <div><h1>
@@ -86,7 +86,7 @@ msgstr "Medfølgende programmer"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:16
 msgid "Firefox web browser"
-msgstr "Firefox – webbrowser"
+msgstr "Firefox-webbrowser"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:19
@@ -114,13 +114,13 @@ msgstr "Hjælp og support"
 msgid ""
 "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
-"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System menu."
+"href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+"Dock."
 msgstr ""
-"Den <span class=\"app\" data-app=\"docs\">officielle dokumentation</span> "
-"dækker størstedelen af de hyppigt anvendte områder af Ubuntu. Den er både "
-"tilgængelig <a href=\"https://help.ubuntu.com\">online</a> og via elementet "
-"Hjælp til Ubuntu i systemmenuen."
+"Den <span class=\"app\" data-app=\"docs\">Officielle dokumentation</span> "
+"dækker mange af de mest almindelige områder af Ubuntu. Den er tilgængelig "
+"både <a href=\"https://help.ubuntu.com\">online</a> og via hjælpeikonet i "
+"dokken."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:12
@@ -138,15 +138,13 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"http://"
-"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
-"information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
-"support</a>."
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
 msgstr ""
-"For henvisninger til andre nyttige ressourcer, så besøg <a href=\"http://"
-"community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
-"information</a> eller <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
-"support</a>."
+"Besøg <a href=\"https://www.ubuntu.com/support/community-support\">Community "
+"support</a> eller <a href=\"http://www.ubuntu.com/support\">Commercial "
+"support</a> for henvisninger til andre nyttige ressourcer."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -169,7 +167,7 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
-msgstr "Rhythmbox – musikafspiller"
+msgstr "Rhythmbox-musikafspiller"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
@@ -191,17 +189,17 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
 msgid "LibreOffice Writer"
-msgstr "LibreOffice Tekstbehandling"
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:20
 msgid "LibreOffice Calc"
-msgstr "LibreOffice Regneark"
+msgstr "LibreOffice Calc"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:24
 msgid "LibreOffice Impress"
-msgstr "LibreOffice Præsentation"
+msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
@@ -244,15 +242,17 @@ msgstr "Find endnu flere programmer"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With access to the Ubuntu "
-"Software Store, you can find and install new apps with ease. Just type in "
-"what you’re looking for, or explore categories such as Science, Education "
-"and Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Snap "
+"Store and the Ubuntu software archive, you can find and install new apps "
+"with ease. Just type in what you’re looking for, or explore categories such "
+"as Graphics & Photography, Games and Productivity, alongside helpful reviews "
+"from other users."
 msgstr ""
-"Sig farvel til at søge efter ny software på nettet. Med Ubuntu Softwarebutik "
-"kan du finde og installere nye programmer med lethed. Bare skriv hvad du "
-"leder efter eller gennemse kategorier såsom videnskab, læring og spil, "
-"sammen med nyttige anmeldelser fra andre brugere."
+"Sig farvel til at søge på nettet efter nye programmer. Med adgang til Snap "
+"Store og Ubuntus programarkiv kan du nemt finde og installere nye "
+"programmer. Indtast det, du er på udkig efter, eller kig i kategorier som "
+"Grafik og fotografi eller Spil og produktivitet sammen med nyttige "
+"anmeldelser fra andre brugere."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -265,6 +265,39 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
-"Hurtig og funktionsrig: Den nyeste version af Ubuntu gør det lettere end "
-"nogensinde at bruge din computer. Her er et par fede nyheder at kigge "
-"nærmere på..."
+"Hurtig og fuld af nye funktioner: Den seneste version af Ubuntu gør det "
+"lettere end nogensinde at bruge din computer. Her er nogle af de fede ting "
+"du kan kigge på..."
+
+#~ msgid ""
+#~ "For pointers to other useful resources, please visit <a href=\"http://"
+#~ "community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+#~ "information</a> or <a href=\"http://www.ubuntu.com/support\">ubuntu.com/"
+#~ "support</a>."
+#~ msgstr ""
+#~ "For henvisninger til andre nyttige ressourcer, så besøg <a href=\"http://"
+#~ "community.ubuntu.com/help-information/\">community.ubuntu.com/help-"
+#~ "information</a> eller <a href=\"http://www.ubuntu.com/support\">ubuntu."
+#~ "com/support</a>."
+
+#~ msgid ""
+#~ "Say goodbye to searching the web for new software. With access to the "
+#~ "Ubuntu Software Store, you can find and install new apps with ease. Just "
+#~ "type in what you’re looking for, or explore categories such as Science, "
+#~ "Education and Games, alongside helpful reviews from other users."
+#~ msgstr ""
+#~ "Sig farvel til at søge efter ny software på nettet. Med Ubuntu "
+#~ "Softwarebutik kan du finde og installere nye programmer med lethed. Bare "
+#~ "skriv hvad du leder efter eller gennemse kategorier såsom videnskab, "
+#~ "læring og spil, sammen med nyttige anmeldelser fra andre brugere."
+
+#~ msgid ""
+#~ "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+#~ "covers many of the most common areas about Ubuntu. It's available both <a "
+#~ "href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item "
+#~ "in the System menu."
+#~ msgstr ""
+#~ "Den <span class=\"app\" data-app=\"docs\">officielle dokumentation</span> "
+#~ "dækker størstedelen af de mest anvendte områder af Ubuntu. Den er både "
+#~ "tilgængelig <a href=\"https://help.ubuntu.com\">online</a> og via "
+#~ "elementet Hjælp til Ubuntu i systemmenuen."

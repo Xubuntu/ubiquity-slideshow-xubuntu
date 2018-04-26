@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
 "PO-Revision-Date: 2016-05-03 17:58+0000\n"
 "Last-Translator: Josef Andersson <Unknown>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:48+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/01_welcome.html:2
@@ -59,11 +59,14 @@ msgid ""
 "interface with one-click to something more modern or something that you "
 "might be more familar with via <strong>MATE Tweak</strong>."
 msgstr ""
+"För användare som kommer från andra operativsystem kan Ubuntu MATE anpassa "
+"användargränssnittet med ett enda klick till något mer modernt, eller något "
+"som du kanske är mer bekant med via <strong>MATE Tweak</strong>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:2
 msgid "Get up and running faster"
-msgstr ""
+msgstr "Kom igång snabbare"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:7
@@ -77,6 +80,15 @@ msgid ""
 "monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
 "off point to the community."
 msgstr ""
+"Ubuntu MATE Välkommen hälsar välkomna och hjälper nya och återvändande "
+"användare. Guiden <strong>Kom igång</strong> kommer hjälpa dig igenom den "
+"första systemstarten efter installationen installation och konfiguration av "
+"ytterligare enheter och dokumentationen kommer hjälpa nya användare "
+"orientera sig. Avsnittet om <strong>Systemspecifikationer</strong> kommer "
+"hjälpa dig att utforska din hårdvara, och erbjuder installation med ett enda "
+"musklick och start av många nyttiga verktyg för systemövervakning. När du "
+"behöver hjälp är Ubuntu MATE Välkommen din startplats för att nå ut till "
+"gemenskapen."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:18
@@ -98,7 +110,7 @@ msgstr "Ubuntu Mate Welcome"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/04_software.html:2
 msgid "Find the best software"
-msgstr ""
+msgstr "Hitta den bästa mjukvaran"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/04_software.html:7
@@ -110,11 +122,17 @@ msgid ""
 "Experienced users can simply queue up all their favourite software for "
 "install and process it in one operation."
 msgstr ""
+"Säg adjö till att söka på webben efter nya program. Det finns ett överflöd "
+"av program tillgängliga för Ubuntu MATE, och vissa kan finns utbudet "
+"överväldigande. <strong>Programbutiken</strong> är ett omsorgsfullt "
+"bearbetat urval av program som är bäst på vad de gör för att komplettera "
+"Ubuntu MATE. Erfarna användare kan enkelt köa alla deras favoritprogram för "
+"installation och utföra detta i en och samma åtgärd."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/04_software.html:20
 msgid "Software Boutique"
-msgstr ""
+msgstr "Programbutiken"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/04_software.html:23
@@ -128,12 +146,12 @@ msgstr "Program som stöds"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/04_software.html:27
 msgid "Ubuntu Software"
-msgstr ""
+msgstr "Programvara för Ubuntu"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:2
 msgid "Personalised computing"
-msgstr ""
+msgstr "Personlig dator"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:7
@@ -148,11 +166,20 @@ msgid ""
 "<strong>Comptemporary</strong>. Experienced users can customise the user "
 "interface and save their creations."
 msgstr ""
+"Det förvalda Ubuntu MATE-användargränssnittet är intuitivt och lättanvänt. "
+"Men vi förstår att folk har olika smak och preferenser, alltså skapade vi "
+"<strong>MATE Tweak</strong>, ett verktyg för att ändra användargränssnittet "
+"för att efterlikna andra operativsystem. Kommer du från Windows? Testa "
+"<strong>Redmond</strong>. Föredrar du hur MacOS är utformat? Testa "
+"<strong>Cupertino</strong>. För Ubuntu Unity-fans, kolla upp <strong>Mutiny</"
+"strong>. Eller för ett hybridgränssnitt, testa <strong>Pantheon</strong> "
+"eller <strong>Comptemporary</strong>. Erfarna användare kan anpassa "
+"användargränssnittet och spara sina skapelser."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:23
 msgid "MATE Tweak"
-msgstr ""
+msgstr "MATE Tweak"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/06_browse.html:2
@@ -169,11 +196,17 @@ msgid ""
 "<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
 "strong> in the Software Boutique."
 msgstr ""
+"Ubuntu MATE har <strong>Firefox</strong> förinstallerat, en lättanvänd och "
+"säker webbläsare som används av miljoner världen över. Utformat med "
+"integritet i fokus inkluderar den raffinerade trygghetsfunktioner för att "
+"skydda dig från hot online. Du kan också hitta <strong>Brave</strong>, "
+"<strong>Chromium</strong>, <strong>Google Chrome</strong>, <strong>Opera</"
+"strong> och <strong>Vivaldi</strong> i Programbutiken."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:20
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:24
@@ -188,7 +221,7 @@ msgstr "Chromium"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/07_games.html:2
 msgid "Get your game on!"
-msgstr ""
+msgstr "Spelen kan börja!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:7
@@ -200,16 +233,22 @@ msgid ""
 "ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
 "person shooters."
 msgstr ""
+"Ubuntu MATE handlar inte bara om arbete, det är också utmärkt för lek! Du "
+"kan hitta <strong>Steam</strong> och <strong>Minecraft</strong> i "
+"<strong>Programbutiken</strong>. Vi har också valt ut de bästa spelen med "
+"öppen källkod och fyllt Programbutiken med plattformsspel, shoot-'em-ups, "
+"racingspel, flygsimulatorer, pusselspel, turbaserad strategi och first "
+"person shooters."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:19
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:23
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/08_music.html:2
@@ -226,6 +265,13 @@ msgid ""
 "<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
 "many popular streaming services, in the <strong>Software Boutique</strong>"
 msgstr ""
+"Ubuntu MATE installerar den fantastiska musikspelaren Rhythmbox. Med "
+"avancerade uppspelningsalternativ är det enkelt att köa de perfekta låtarna. "
+"Och den fungerar utmärkt med CD-skivor och bärbara musikspelare, så du kan "
+"njuta av all din musik var du än är. Om du föredrar streaming-tjänster kan "
+"du använda <strong>Spotify</strong> och <strong>Nuvola Player</strong>, "
+"vilka har stöd för många populära streaming-tjänster, i "
+"<strong>Programbutiken</strong>"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/08_music.html:20
@@ -236,7 +282,7 @@ msgstr "Rhythmbox musikspelare"
 #: slideshows/ubuntu-mate/slides/08_music.html:24
 #: slideshows/ubuntu-mate/slides/10_video.html:22
 msgid "VLC"
-msgstr ""
+msgstr "VLC"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/09_photos.html:2
@@ -253,6 +299,12 @@ msgid ""
 "<strong>Luminance HDR</strong> that offer virtual lightable and darkroom for "
 "RAW and HDR image workflows."
 msgstr ""
+"Shotwell är en praktisk fotohanterare som är redo för dina prylar. Anslut en "
+"kamera eller telefon för att föra över dina foton, sedan är det enkelt att "
+"dela ut dem och bevara dem. För entusiaster av digitalt fotografi och "
+"yrkespersoner inkluderar Programbutiken <strong>Darktable</strong> och "
+"<strong>Luminance HDR</strong> som erbjuder virtuella ljusbord och mörkrum "
+"för arbetsflöden med RAW- och HDR-bilder."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/09_photos.html:20
@@ -267,7 +319,7 @@ msgstr "GIMP bildredigerare"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/10_video.html:2
 msgid "Grab some popcorn!"
-msgstr ""
+msgstr "Fram med popcornen!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/10_video.html:7
@@ -277,6 +329,10 @@ msgid ""
 "content from your favourite streaming services such as <strong>Netflix</"
 "strong> and <strong>YouTube</strong>."
 msgstr ""
+"Ubuntu MATE har <strong>Firefox</strong> förinstallerat, och <strong>Google "
+"Chrome</strong> finns i Programbutiken så att du kan titta på innehåll från "
+"dina favorit-streaming-tjänster, såsom <strong>Netflix</string> och "
+"<strong>YouTube</strong>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/10_video.html:12
@@ -285,11 +341,14 @@ msgid ""
 "video with ease and <strong>Emby</strong> media server is one-click away "
 "from the Software Boutique to create your own streaming server."
 msgstr ""
+"Med <strong>VLC</strong> förinstallerat kan du titta på alla dina lokala "
+"videofiler med lätthet, och mediaservern <strong>Emby</strong> är bara ett "
+"klick bort inifrån Programbutiken för att skapa din egen streaming-server."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/10_video.html:29
 msgid "Emby"
-msgstr ""
+msgstr "Emby"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/11_office.html:2
@@ -303,6 +362,10 @@ msgid ""
 "documents, spreadsheets and presentations.  Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"LibreOffice är en fri kontorssvit, fullpackad med allt du behöver för att "
+"skapa dokument, kalkylark och presentationer. Med dess kompatibilitet med "
+"Microsoft Office-filformat ger den dig alla funktioner du behöver, utan "
+"samma saftiga prislapp."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/11_office.html:17
@@ -365,7 +428,7 @@ msgstr "Gå med i användargemenskapen"
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/13_community.html:7
 msgid "Discussion & Support"
-msgstr ""
+msgstr "Diskussion & Support"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:11
@@ -373,6 +436,8 @@ msgid ""
 "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
 "Forum</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
+"Forum</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:15
@@ -380,12 +445,15 @@ msgid ""
 "<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
 "\"caption\">Google+</a>"
 msgstr ""
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
+"\"caption\">Google+</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:19
 msgid ""
 "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live-chatt</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/13_community.html:22
@@ -418,6 +486,7 @@ msgstr "Utveckling"
 msgid ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Koda</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:41
@@ -427,108 +496,3 @@ msgid ""
 msgstr ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption"
 "\">Felrapporteringssystem</a>"
-
-#~ msgid "Find even more software"
-#~ msgstr "Hitta ännu fler program"
-
-#~ msgid "Ubuntu Software Center"
-#~ msgstr "Programcentral för Ubuntu"
-
-#~ msgid "Synaptic Package Manager"
-#~ msgstr "Synaptic pakethanterare"
-
-#~ msgid "Eye of MATE Image Viewer"
-#~ msgstr "Eye of MATE bildvisare"
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you need to "
-#~ "create documents, spreadsheets and presentations. Compatible with "
-#~ "Microsoft Office file formats, it gives you all the features you need, "
-#~ "without the price tag."
-#~ msgstr ""
-#~ "LibreOffice är ett fritt kontorspaket, med allt du behöver för att skapa "
-#~ "dokument, kalkylblad och presentationer. Utan prislapp och kompatibelt "
-#~ "med Microsoft Office-filformat, ger LibreOffice dig alla funktioner du "
-#~ "behöver."
-
-#~ msgid "Discussion"
-#~ msgstr "Diskussion"
-
-#~ msgid ""
-#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
-#~ "class=\"caption\">Google+ Community</a>"
-#~ msgstr ""
-#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
-#~ "class=\"caption\">Google+-gemenskapen</a>"
-
-#~ msgid ""
-#~ "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
-#~ "Community</a>"
-#~ msgstr ""
-#~ "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE-"
-#~ "gemenskapen</a>"
-
-#~ msgid ""
-#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC Channel</a>"
-#~ msgstr ""
-#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">IRC-kanalen</a>"
-
-#~ msgid ""
-#~ "Say goodbye to searching the web for new software. With Ubuntu MATE "
-#~ "Welcome, you can install popular applications with one click. You can "
-#~ "also install software centres to discover even more applications for "
-#~ "Ubuntu MATE."
-#~ msgstr ""
-#~ "Säg adjö till att söka på webben efter nya program. Med Ubuntu MATE "
-#~ "Welcome kan du installera populära program med ett klick. Du kan också "
-#~ "installera programcentraler för att upptäcka ännu mer program till Ubuntu "
-#~ "MATE."
-
-#~ msgid "VLC Media Player"
-#~ msgstr "VLC mediaspelare"
-
-#~ msgid "Banshee Media Player"
-#~ msgstr "Banshee mediaspelare"
-
-#~ msgid "GDebi Package Installer"
-#~ msgstr "GDebi paketinstallerare"
-
-#~ msgid ""
-#~ "Ubuntu MATE includes Firefox, an easy and safe web browser used by "
-#~ "millions of people around the world. Designed with privacy in mind it "
-#~ "includes enhanced security features to protect you from online threats."
-#~ msgstr ""
-#~ "Ubuntu MATE inkluderar Firefox, en användarvänlig och säker webbläsare "
-#~ "aom används av miljontals människor världen över. Utvecklad med "
-#~ "integritet i åtanke inkluderar den utökade säkerhetsfunktioner för att "
-#~ "skydda dig från hot när du är uppkopplad."
-
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Firefox webbläsare"
-
-#~ msgid ""
-#~ "Ubuntu MATE comes with the amazing Rhythmbox music player. With advanced "
-#~ "playback options, it's simple to queue up the perfect songs. And it works "
-#~ "great with CDs and portable music players, so you can enjoy all your "
-#~ "music wherever you go."
-#~ msgstr ""
-#~ "Ubuntu MATE har den fullfjädrade musikspelaren Rythmbox installerad vid "
-#~ "en nyinstallation. Dess avancerade uppspelningsfunktioner gör det enkelt "
-#~ "att lägga till filer i spelköer. Dessutom fungerar den perfekt med CD-"
-#~ "skivor och MP3-spelare så att du kan njuta av din musik var du än är."
-
-#~ msgid ""
-#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect "
-#~ "a camera or a phone to transfer your photos, then it's easy to share them "
-#~ "and keep them safe."
-#~ msgstr ""
-#~ "Shotwell är en praktisk fotohanterare som är redo för dina prylar. Anslut "
-#~ "en kamera eller en telefon för att överföra dina bilder, och sedan är det "
-#~ "enkelt att dela dem och förvara dem på en säker plats."
-
-#~ msgid ""
-#~ "<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu "
-#~ "MATE Launchpad</a>"
-#~ msgstr ""
-#~ "<a href=\"https://launchpad.net/ubuntu-mate\" class=\"caption\">Ubuntu "
-#~ "MATE Launchpad</a>"

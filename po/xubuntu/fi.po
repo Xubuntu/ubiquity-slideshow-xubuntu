@@ -7,206 +7,74 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
-"PO-Revision-Date: 2017-09-19 07:00+0000\n"
-"Last-Translator: Jiri Grönroos <Unknown>\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2018-04-04 07:32+0000\n"
+"Last-Translator: Pasi Lallinaho <pasi@shimmerproject.org>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:49+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:42+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/00_welcome.html:2
+#: slideshows/xubuntu/slides/01_welcome.html:2
 msgid "Welcome to Xubuntu"
 msgstr "Tervetuloa Xubuntuun"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:5
-msgid "Congratulations for choosing to install"
-msgstr "Onnittelut valinnastasi asentaa"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:5
-msgid "Xubuntu 17.10!"
-msgstr "Xubuntu 17.10!"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:6
+#: slideshows/xubuntu/slides/01_welcome.html:5
 msgid ""
-"If you are running the installation from the <em>Try Xubuntu</em> option, "
-"you can use the default applications while installing. You can even install "
-"new packages to try at the same time."
+"Start exploring your new desktop by making yourself familiar with the "
+"applications menu."
+msgstr "Aloita uuden työpöytäsi tutkiminen tutustumalla sovellusvalikkoon."
+
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_welcome.html:6
+msgid ""
+"Use the Software application to install more applications and the Settings "
+"Manager to customize the look and feel of your desktop."
 msgstr ""
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/00_welcome.html:10
-msgid "<span class=\"fo is\">Xubuntu</span>"
-msgstr "<span class=\"fo is\">Xubuntu</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/00_welcome.html:11
-msgid "<span class=\"fo plus\">Xfce</span>"
-msgstr "<span class=\"fo plus\">Xfce</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/00_welcome.html:12
-msgid "<span class=\"fo\">Ubuntu</span>"
-msgstr "<span class=\"fo\">Ubuntu</span>"
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/01_applications.html:2
-msgid "Ready to go!"
-msgstr "Valmiina sinua varten!"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_applications.html:5
-msgid ""
-"Here are some of the applications that we feel best suit Xubuntu and its "
-"users. Find them in the applications menu and install more with the package "
-"manager."
-msgstr ""
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:8
-msgid "<strong>Firefox</strong> <span>Web browser</span>"
-msgstr "<strong>Firefox</strong> <span>Web-selain</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:9
-msgid "<strong>Thunderbird</strong> <span>Mail and news client</span>"
-msgstr "<strong>Thunderbird</strong> <span>Sähköposti ja uutiset</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:10
-msgid "<strong>Pidgin</strong> <span>Internet messenger</span>"
-msgstr "<strong>Pidgin</strong> <span>Pikaviestin</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:11
-msgid "<strong>Parole</strong> <span>Media player</span>"
-msgstr "<strong>Parole</strong> <span>Mediasoitin</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:14
-msgid "<strong>LibreOffice Writer</strong> <span>Word processor</span>"
-msgstr "<strong>LibreOffice Writer</strong> <span>Tekstinkäsittely</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:15
-msgid "<strong>LibreOffice Calc</strong> <span>Spreadsheet editor</span>"
-msgstr "<strong>LibreOffice Calc</strong> <span>Taulukkolaskenta</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:16
-msgid "<strong>Gnome Software</strong> <span>Package manager</span>"
-msgstr "<strong>Gnome Software</strong> <span>Paketinhallinta</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:17
-msgid "<strong>Settings Manager</strong>"
-msgstr "<strong>Asetukset</strong>"
-
-#. type: Attribute 'alt' of: <div><div><img>
-#: slideshows/xubuntu/slides/02_desktop.html:3
-msgid "Xubuntu default panel"
-msgstr "Xubuntun oletuspaneeli"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/02_desktop.html:8
-msgid ""
-"On the left hand side, you will see a Xubuntu logo. Clicking it opens the "
-"main menu."
-msgstr ""
-"Vasemmalla puolella näet Xubuntun logon. Klikkaamalla sitä näet päävalikon."
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/02_desktop.html:9
-msgid ""
-"The middle part of the panel is dedicated to window buttons for open "
-"applications."
-msgstr ""
-"Paneelin keskiosa on omistettu avoimena olevien sovellusten "
-"ikkunapainikkeille."
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/02_desktop.html:10
-msgid "On the far right, you will see indicators and a clock."
-msgstr "Oikealla puolella näet ilmaisimet ja kellon."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/02_desktop.html:15
-msgid ""
-"On the desktop you will see icons that can be used to access some of the "
-"most common places on your system. In the Settings Manager you will find "
-"many tools to change this default desktop."
-msgstr ""
-"Työpöydällä näet kuvakkeita joita voit käyttää siirtyäksesi yleisimpiin "
-"sijainteisiin järjestelmässäsi. Asetukset -sovelluksesta löydät monia "
-"työkaluja, joilla voit muuttaa oletustyöpöytää."
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/02_desktop.html:19
-msgid ""
-"Most of the tools to customise your desktop to your liking will be found at "
-"the top in the <strong>Personal</strong> section. For quick visible changes "
-"to your desktop, play with the Panel, Theme Configuration, Appearance and "
-"Window Manager tools."
-msgstr ""
-"Useimmat työkalut, joilla voit mukauttaa työpöytääsi haluamasi kaltaiseksi "
-"löytyvät <strong>Henkilökohtaiset</tab> -osiosta. Jos haluat saavuttaa "
-"muutoksia nopeasti, leiki seuraavilla työkaluilla: Paneeli, Teeman mukautus, "
-"Ulkoasu ja Ikkunointiohjelma."
-
-#. type: Content of: <div><div><h1>
-#: slideshows/xubuntu/slides/02_desktop.html:22
-msgid "The Xubuntu desktop"
-msgstr "Xubuntu-työpöytä"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/03_support.html:2
+#: slideshows/xubuntu/slides/02_support.html:2
 msgid "Help & Support"
 msgstr "Ohjeet ja tuki"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_support.html:5
+#: slideshows/xubuntu/slides/02_support.html:5
 msgid ""
-"The <em>Official Documentation</em> that covers many of the most common "
-"areas and questions about Xubuntu is shipped with every Xubuntu release. You "
-"can find it under <strong>Menu &rsaquo; Help</strong>. The documentation is "
-"also available <a href=\"http://docs.xubuntu.org/\">online</a>."
+"The <em>Official Documentation</em> will help you getting started with "
+"Xubuntu. You can find the documentation under <em>Help</em> on the "
+"applications menu."
 msgstr ""
-"<em>Virallinen dokumentaatio</em>, joka kattaa useimmat yleisimmistä "
-"alueista ja kysymyksistä Xubuntuun liittyen toimitetaan jokaisen Xubuntun "
-"julkaisun kanssa. Löydät sen sijainnista <strong>Valikko &rsaquo; Ohje</"
-"strong>. Dokumentaatio on saatavilla myös <a href=\"http://docs.xubuntu.org/"
-"\">verkossa</a>."
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/03_support.html:6
-msgid "Other resources"
-msgstr "Muut resurssit"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_support.html:7
+#: slideshows/xubuntu/slides/02_support.html:6
 msgid ""
-"Still have questions? The full list of support methods is available at the "
-"<a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
-"Xubuntu website."
+"If the documentation doesn't answer your questions, check the full list of "
+"support methods from the Xubuntu website."
 msgstr ""
-"Onko sinulla vielä kysymyksiä? Täysi lista tukimetodeista on saatavilla "
-"Xubuntun verkkosivuston <a href=\"http://xubuntu.org/help\">Help & Support</"
-"a> -osiosta."
+"Mikäli dokumentaatio ei vastaa kysymyksiisi, katso lista kaikista "
+"tukimuodoista Xubuntun verkkosivulta."
+
+#. type: Content of: <div><div>
+#: slideshows/xubuntu/slides/02_support.html:10
+msgid ""
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
+"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+msgstr ""
+"<a href=\"https://docs.xubuntu.org/1804/\">Virallinen dokumentaatio "
+"verkossa</a> <a href=\"https://xubuntu.org/help/\">Kaikki tukimuodot</a>"
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/04_support-live.html:2
+#: slideshows/xubuntu/slides/03_support-live.html:2
 msgid "Real-time support"
 msgstr "Reaaliaikainen tuki"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_support-live.html:6
+#: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
 "<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
@@ -217,7 +85,7 @@ msgstr ""
 "channels=xubuntu&nick=xubuntu..i&prompt=1\">napsauttamalla tästä</a>."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_support-live.html:7
+#: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
 "For support in <em>other languages</em>, view the full list of <a href="
 "\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
@@ -226,118 +94,203 @@ msgstr ""
 "ChannelList/Local\">paikallisilta tukikanavilta</a>."
 
 #. type: Content of: <div><div>
-#: slideshows/xubuntu/slides/04_support-live.html:16
+#: slideshows/xubuntu/slides/03_support-live.html:16
 msgid "Meow"
 msgstr "Miau"
 
 #. type: Content of: <div><div><h1>
-#: slideshows/xubuntu/slides/05_contribute.html:3
-msgid "Want to contribute?"
-msgstr "Haluatko osallistua?"
+#: slideshows/xubuntu/slides/04_community.html:3
+msgid "Join the community"
+msgstr "Liity yhteisöön"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_contribute.html:5
+#: slideshows/xubuntu/slides/04_community.html:5
 msgid ""
-"Ever wondered if you could help Xubuntu? You don't have to be able to code – "
-"there are many different areas we need help with."
+"We'd love to hear about your experiences with Xubuntu. Share them on the "
+"Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
+"Haluaisimme kuulla Xubuntuun liittyvistä kokemuksistasi. Jaa ne Xubuntun "
+"käyttäjien postituslistalla tai #xubuntu-offtopic-IRC-kanavalla."
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_contribute.html:6
+#: slideshows/xubuntu/slides/04_community.html:6
 msgid ""
-"To read about all of the opportunities available to you, head to the <a href="
-"\"http://xubuntu.org/contribute/\">Get Involved</a> section of our website. "
-"This page has introductions to our various subteams as well as links to "
-"other important websites related to Xubuntu development."
+"We always need help in making Xubuntu even better. No specific skills are "
+"required to contribute. To read about all of the opportunities available, "
+"head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
+"section of our website."
 msgstr ""
-"Lukeaksesi kaikista avoimista mahdollisuuksista, siirry verkkosivustomme <a "
-"href=\"http://xubuntu.org/contribute/\">Get Involved</a> -osiolle. Tämä sivu "
-"esittelee lukuisat tiimimme sekä sisältää linkkejä muille tärkeille Xubuntun "
-"kehittämiseen liittyvillle sivustoille."
+"Tarvitsemme aina apua tehdäksemme Xubuntusta entistä paremman. Et tarvitse "
+"mitään tiettyjä taitoja auttaaksesi. Lukeaksesi kaikista mahdollisuuksista "
+"auttaa, siirry <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> -"
+"osiolle verkkosivustollamme."
 
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:10
-msgid "testing"
-msgstr "testaus"
+#. type: Content of: <div><div>
+#: slideshows/xubuntu/slides/04_community.html:10
+msgid "Hey, what about passing on your installation media to a friend!"
+msgstr "Hei, mitä jos lainaisit asennusmedian kaverillesi!"
 
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:11
-msgid "social media"
-msgstr "sosiaalinen media"
+#~ msgid "The Xubuntu desktop"
+#~ msgstr "Xubuntu-työpöytä"
 
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:12
-msgid "documentation"
-msgstr "dokumentaatio"
+#~ msgid "Thank you!"
+#~ msgstr "Kiitos!"
 
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:13
-msgid "bug triage"
-msgstr "bugien lajittelu"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:14
-msgid "artwork"
-msgstr "grafiikka"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:15
-msgid "development"
-msgstr "kehitystyö"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/06_thanks.html:2
-msgid "Thank you!"
-msgstr "Kiitos!"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:5
-msgid ""
-"Thanks for taking the time to install Xubuntu. Feel free to pass on your "
-"installation media and let others try Xubuntu as well!"
-msgstr ""
-"Kiitos kun asensit Xubuntun. Voit jakaa asennusmediaasi muille ja antaa myös "
-"heidän kokeilla Xubuntua!"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:6
-msgid ""
-"We'd love to hear about your experiences with Xubuntu. You can share them on "
-"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-"\">Xubuntu users mailing list</a> or if you are still here, on <em>#xubuntu-"
-"offtopic</em> IRC channel where you might find people to talk with."
-msgstr ""
-"Haluaisimme mielellämme kuulla kokemuksistasi Xubuntun kanssa. Voit jakaa ne "
-"<a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users\">Xubuntu-"
-"käyttäjien sähköpostilistalla</a> (englanniksi) tai jos olet vielä täällä, "
-"<em>#xubuntu-offtopic</em> -IRC-kanavalla, jolta voit myös löytää ihmisiä "
-"joiden kanssa keskustella."
+#~ msgid "Xubuntu default panel"
+#~ msgstr "Xubuntun oletuspaneeli"
 
 #~ msgid ""
-#~ "If you are running this installation via the <em>Try Xubuntu</em> option, "
-#~ "feel free to examine things as Xubuntu installs. After the installation, "
-#~ "the desktop will look similar to how it does now."
+#~ "The middle part of the panel is dedicated to window buttons for open "
+#~ "applications."
 #~ msgstr ""
-#~ "Jos suoritat tätä asennusta <em>Kokeile Xubuntua</em> -tilassa, voit "
-#~ "kokeilla järjestelmää kun Xubuntua asennetaan. Asennuksen jälkeen "
-#~ "työpöytä tulee näyttämään samankaltaiselta kuin nyt."
+#~ "Paneelin keskiosa on omistettu avoimena olevien sovellusten "
+#~ "ikkunapainikkeille."
+
+#~ msgid "<strong>Settings Manager</strong>"
+#~ msgstr "<strong>Asetukset</strong>"
+
+#~ msgid "Other resources"
+#~ msgstr "Muut resurssit"
 
 #~ msgid ""
-#~ "Here is a list of some applications that are preinstalled with Xubuntu "
-#~ "for your convenience. Find them in the applications menu and install more "
-#~ "with the package manager."
+#~ "Still have questions? The full list of support methods is available at "
+#~ "the <a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
+#~ "Xubuntu website."
 #~ msgstr ""
-#~ "Tässä on lista joistain sovelluksista jotka ovat esiasennettu Xubuntuun "
-#~ "sinua varten. Löydät ne sovellusvalikosta ja lisää voit asentaa "
-#~ "paketinhallintasovelluksella."
+#~ "Onko sinulla vielä kysymyksiä? Täysi lista tukimetodeista on saatavilla "
+#~ "Xubuntun verkkosivuston <a href=\"http://xubuntu.org/help\">Help & "
+#~ "Support</a> -osiosta."
+
+#~ msgid "Ready to go!"
+#~ msgstr "Valmiina sinua varten!"
+
+#~ msgid "<span class=\"fo\">Ubuntu</span>"
+#~ msgstr "<span class=\"fo\">Ubuntu</span>"
+
+#~ msgid "Congratulations for choosing to install"
+#~ msgstr "Onnittelut valinnastasi asentaa"
+
+#~ msgid "<span class=\"fo plus\">Xfce</span>"
+#~ msgstr "<span class=\"fo plus\">Xfce</span>"
+
+#~ msgid "<span class=\"fo is\">Xubuntu</span>"
+#~ msgstr "<span class=\"fo is\">Xubuntu</span>"
+
+#~ msgid "social media"
+#~ msgstr "sosiaalinen media"
+
+#~ msgid "testing"
+#~ msgstr "testaus"
+
+#~ msgid "<strong>Firefox</strong> <span>Web browser</span>"
+#~ msgstr "<strong>Firefox</strong> <span>Web-selain</span>"
+
+#~ msgid "<strong>Thunderbird</strong> <span>Mail and news client</span>"
+#~ msgstr "<strong>Thunderbird</strong> <span>Sähköposti ja uutiset</span>"
+
+#~ msgid "<strong>Pidgin</strong> <span>Internet messenger</span>"
+#~ msgstr "<strong>Pidgin</strong> <span>Pikaviestin</span>"
+
+#~ msgid "<strong>LibreOffice Writer</strong> <span>Word processor</span>"
+#~ msgstr "<strong>LibreOffice Writer</strong> <span>Tekstinkäsittely</span>"
+
+#~ msgid "<strong>Gnome Software</strong> <span>Package manager</span>"
+#~ msgstr "<strong>Gnome Software</strong> <span>Paketinhallinta</span>"
+
+#~ msgid "<strong>Parole</strong> <span>Media player</span>"
+#~ msgstr "<strong>Parole</strong> <span>Mediasoitin</span>"
+
+#~ msgid "<strong>LibreOffice Calc</strong> <span>Spreadsheet editor</span>"
+#~ msgstr "<strong>LibreOffice Calc</strong> <span>Taulukkolaskenta</span>"
 
 #~ msgid ""
-#~ "Like what you see? Like what you use? Why not join in? You don't have to "
-#~ "be able to code – there are many different parts we need help with."
+#~ "On the left hand side, you will see a Xubuntu logo. Clicking it opens the "
+#~ "main menu."
 #~ msgstr ""
-#~ "Pidätkö näkemästäsi? Pidätkö käyttämästäsi? Mikset auttaisi meitä? Sinun "
-#~ "ei tarvitse osata ohjelmoida – tarvitsemme apua monien eri asioiden "
-#~ "kanssa."
+#~ "Vasemmalla puolella näet Xubuntun logon. Klikkaamalla sitä näet "
+#~ "päävalikon."
 
-#~ msgid "Xubuntu 17.04!"
-#~ msgstr "Xubuntu 17.04!"
+#~ msgid ""
+#~ "To read about all of the opportunities available to you, head to the <a "
+#~ "href=\"http://xubuntu.org/contribute/\">Get Involved</a> section of our "
+#~ "website. This page has introductions to our various subteams as well as "
+#~ "links to other important websites related to Xubuntu development."
+#~ msgstr ""
+#~ "Lukeaksesi kaikista avoimista mahdollisuuksista, siirry verkkosivustomme "
+#~ "<a href=\"http://xubuntu.org/contribute/\">Get Involved</a> -osiolle. "
+#~ "Tämä sivu esittelee lukuisat tiimimme sekä sisältää linkkejä muille "
+#~ "tärkeille Xubuntun kehittämiseen liittyvillle sivustoille."
+
+#~ msgid "Want to contribute?"
+#~ msgstr "Haluatko osallistua?"
+
+#~ msgid "On the far right, you will see indicators and a clock."
+#~ msgstr "Oikealla puolella näet ilmaisimet ja kellon."
+
+#~ msgid ""
+#~ "On the desktop you will see icons that can be used to access some of the "
+#~ "most common places on your system. In the Settings Manager you will find "
+#~ "many tools to change this default desktop."
+#~ msgstr ""
+#~ "Työpöydällä näet kuvakkeita joita voit käyttää siirtyäksesi yleisimpiin "
+#~ "sijainteisiin järjestelmässäsi. Asetukset -sovelluksesta löydät monia "
+#~ "työkaluja, joilla voit muuttaa oletustyöpöytää."
+
+#~ msgid ""
+#~ "Most of the tools to customise your desktop to your liking will be found "
+#~ "at the top in the <strong>Personal</strong> section. For quick visible "
+#~ "changes to your desktop, play with the Panel, Theme Configuration, "
+#~ "Appearance and Window Manager tools."
+#~ msgstr ""
+#~ "Useimmat työkalut, joilla voit mukauttaa työpöytääsi haluamasi "
+#~ "kaltaiseksi löytyvät <strong>Henkilökohtaiset</tab> -osiosta. Jos haluat "
+#~ "saavuttaa muutoksia nopeasti, leiki seuraavilla työkaluilla: Paneeli, "
+#~ "Teeman mukautus, Ulkoasu ja Ikkunointiohjelma."
+
+#~ msgid ""
+#~ "The <em>Official Documentation</em> that covers many of the most common "
+#~ "areas and questions about Xubuntu is shipped with every Xubuntu release. "
+#~ "You can find it under <strong>Menu &rsaquo; Help</strong>. The "
+#~ "documentation is also available <a href=\"http://docs.xubuntu.org/"
+#~ "\">online</a>."
+#~ msgstr ""
+#~ "<em>Virallinen dokumentaatio</em>, joka kattaa useimmat yleisimmistä "
+#~ "alueista ja kysymyksistä Xubuntuun liittyen toimitetaan jokaisen Xubuntun "
+#~ "julkaisun kanssa. Löydät sen sijainnista <strong>Valikko &rsaquo; Ohje</"
+#~ "strong>. Dokumentaatio on saatavilla myös <a href=\"http://docs.xubuntu."
+#~ "org/\">verkossa</a>."
+
+#~ msgid "bug triage"
+#~ msgstr "bugien lajittelu"
+
+#~ msgid "documentation"
+#~ msgstr "dokumentaatio"
+
+#~ msgid "development"
+#~ msgstr "kehitystyö"
+
+#~ msgid "artwork"
+#~ msgstr "grafiikka"
+
+#~ msgid ""
+#~ "We'd love to hear about your experiences with Xubuntu. You can share them "
+#~ "on the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+#~ "\">Xubuntu users mailing list</a> or if you are still here, on "
+#~ "<em>#xubuntu-offtopic</em> IRC channel where you might find people to "
+#~ "talk with."
+#~ msgstr ""
+#~ "Haluaisimme mielellämme kuulla kokemuksistasi Xubuntun kanssa. Voit jakaa "
+#~ "ne <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+#~ "\">Xubuntu-käyttäjien sähköpostilistalla</a> (englanniksi) tai jos olet "
+#~ "vielä täällä, <em>#xubuntu-offtopic</em> -IRC-kanavalla, jolta voit myös "
+#~ "löytää ihmisiä joiden kanssa keskustella."
+
+#~ msgid ""
+#~ "Thanks for taking the time to install Xubuntu. Feel free to pass on your "
+#~ "installation media and let others try Xubuntu as well!"
+#~ msgstr ""
+#~ "Kiitos kun asensit Xubuntun. Voit jakaa asennusmediaasi muille ja antaa "
+#~ "myös heidän kokeilla Xubuntua!"
+
+#~ msgid "Xubuntu 17.10!"
+#~ msgstr "Xubuntu 17.10!"

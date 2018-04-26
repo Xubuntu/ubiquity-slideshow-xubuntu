@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
 "PO-Revision-Date: 2016-04-07 19:27+0000\n"
 "Last-Translator: Aputsiak Niels Janussen <aj@isit.gl>\n"
 "Language-Team: Danish <da@li.org>\n"
@@ -15,8 +15,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:48+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:2
@@ -29,6 +29,8 @@ msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
 msgstr ""
+"Et Ubuntu-baseret styresystem udviklet af fællesskabet, der integrerer flot "
+"med MATE-skrivebordsmiljøet."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:2
@@ -44,6 +46,11 @@ msgid ""
 "requirements it is suitable for modern workstations, single board computers "
 "and older hardware alike."
 msgstr ""
+"Ubuntu MATE er et stabilt, letanvendeligt styresystem med et "
+"skrivebordsmiljø som kan tilpasses. Ideelt for de som ønsker mest mulig fra "
+"deres computere og som foretrækker en traditionel skrivebordsmetafor. Med "
+"beskedne hardwarekrav egner den sig lige godt til moderne arbejdsstationer, "
+"enkeltkort-computere og ældre hardware."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:14
@@ -52,11 +59,14 @@ msgid ""
 "interface with one-click to something more modern or something that you "
 "might be more familar with via <strong>MATE Tweak</strong>."
 msgstr ""
+"Til brugere som kommer fra andre styresystemer kan Ubuntu MATE tilpasse "
+"brugerfladen med ét klik til noget mere moderene eller noget som du måske "
+"kender bedre med via <strong>MATE Tweak</strong>."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:2
 msgid "Get up and running faster"
-msgstr ""
+msgstr "Kom hurtigere i gang"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:7
@@ -70,6 +80,14 @@ msgid ""
 "monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
 "off point to the community."
 msgstr ""
+"Ubuntu MATE Velkommen hilser på og assisterer nye og tilbagevendende "
+"brugere. <strong>Getting Started</strong>-assistenten guider dig efter "
+"installationen gennem den første boot-opsætning og konfiguration af "
+"yderligere eksterne enheder og enheder, og dokumentationen hjælper nye "
+"brugere i gang. <strong>Systems Specifications</strong>-afsnittet hjælper "
+"dig med at udforske din hardware og tilbyder installation med ét klik, og "
+"start af mange nyttige systemovervågningsværktøjer. Når du har brug for "
+"support så er Ubuntu MATE Velkommen startpunktet til fællesskabet."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:18
@@ -86,12 +104,12 @@ msgstr "Medfølgende programmer"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:22
 msgid "Ubuntu MATE Welcome"
-msgstr ""
+msgstr "Ubuntu MATE - Velkommen"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:2
 msgid "Find the best software"
-msgstr ""
+msgstr "Find det bedste software"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:7
@@ -103,11 +121,17 @@ msgid ""
 "Experienced users can simply queue up all their favourite software for "
 "install and process it in one operation."
 msgstr ""
+"Sig farvel til at søge på webbet efter ny software. Der er et væld af "
+"software til Ubuntu MATE og nogle personer finder udvalget overvældende. "
+"<strong>Softwarebutikken</strong> er et udvalg af de bedst omhyggeligt "
+"udvalgte programmer som komplimenterer Ubuntu MATE. Erfarne brugere kan "
+"ganske enkelt sætte al deres favoritsoftware til installation og fortsætte i "
+"en og samme handling."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:20
 msgid "Software Boutique"
-msgstr ""
+msgstr "Softwarebutik"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:23
@@ -121,12 +145,12 @@ msgstr "Understøttede programmer"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:27
 msgid "Ubuntu Software"
-msgstr ""
+msgstr "Ubuntu software"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:2
 msgid "Personalised computing"
-msgstr ""
+msgstr "Den personlige computer"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:7
@@ -141,11 +165,20 @@ msgid ""
 "<strong>Comptemporary</strong>. Experienced users can customise the user "
 "interface and save their creations."
 msgstr ""
+"Ubuntu MATEs standardbrugerflade er intuitiv og let at bruge. Men vi forstå "
+"at folk har forskellig smag og præferencer, hvilket er årsagen til at vi "
+"skabte <strong>MATE Tweak</strong>, et værktøj til at skifte brugerfladen så "
+"den efterligner andre styresystemer. Kommer du fra Windows? Så prøv "
+"<strong>Redmond</strong>. Foretrækker du layoutet i macOS? Så prøv "
+"<strong>Cupertino</strong>. Ubuntu Unity-fans kan kigge på <strong>Mutiny</"
+"strong>. Eller for en hybrid-brugerflade, prøv <strong>Pantheon</strong> "
+"eller <strong>Comptemporary</strong>. Erfarne brugere kan tilpasse "
+"brugerfladen og gemme deres kreationer."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:23
 msgid "MATE Tweak"
-msgstr ""
+msgstr "MATE Tweak"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:2
@@ -162,11 +195,17 @@ msgid ""
 "<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
 "strong> in the Software Boutique."
 msgstr ""
+"Ubuntu MATE inkluderer <strong>Firefox</strong>, en nem og sikker webbrowser "
+"som bruges af millioner af mennesker verden over. Den er designet med "
+"privatlivet i tankerne og inkluderer forbedrede sikkerhedsfunktioner til at "
+"beskytte dig mod onlinetrusler. I softwarebutikken finder du også "
+"<strong>Brave</strong>, <strong>Chromium</strong>, <strong>Google Chrome</"
+"strong>, <strong>Opera</strong> og <strong>Vivaldi</strong>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:20
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:24
@@ -181,7 +220,7 @@ msgstr "Chromium"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:2
 msgid "Get your game on!"
-msgstr ""
+msgstr "Spil!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:7
@@ -193,16 +232,22 @@ msgid ""
 "ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
 "person shooters."
 msgstr ""
+"Ubuntu MATE handler ikke kun om arbejde. Den er også god til spil! Du finder "
+"<strong>Steam</strong> og <strong>Minecraft</strong> i "
+"<strong>Softwarebutikken</strong>. Vi har også de aller bedste open source-"
+"spil og har fyldt softwarebutikken med platformspil, shoot 'em ups, "
+"racerspil, flysimulatorer, puzzlers, tur-baseret spil og first person "
+"shooters."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:19
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:23
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:2
@@ -219,22 +264,29 @@ msgid ""
 "<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
 "many popular streaming services, in the <strong>Software Boutique</strong>"
 msgstr ""
+"Ubuntu MATE kommer med den fantastiske Rhythmbox-musikafspiller. Med "
+"avancerede afspilningsmuligheder er det lige til at sætte de perfekte sange "
+"i kø. Og den virker godt med CD'er og transportable afspillere, så du kan "
+"nyde al din musik hvor end du er. Hvis du foretrækker streamingtjenester så "
+"finder du <strong>Spotify</strong> og <strong>Nuvola Player</strong>, der "
+"understøtter mange populære streamingtjenester, i <strong>Softwarebutikken</"
+"strong>"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:20
 msgid "Rhythmbox Music Player"
-msgstr "Rhythmbox - musikafspiller"
+msgstr "Rhythmbox-musikafspiller"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:24
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:22
 msgid "VLC"
-msgstr ""
+msgstr "VLC"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:2
 msgid "Organise your photos"
-msgstr ""
+msgstr "Organisér dine billeder"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:7
@@ -246,6 +298,12 @@ msgid ""
 "<strong>Luminance HDR</strong> that offer virtual lightable and darkroom for "
 "RAW and HDR image workflows."
 msgstr ""
+"Shotwell er en handy billedhåndtering som er klar til dine gadgets. Tilslut "
+"et kamera eller en telefon for at overfører dine billeder, så er det let af "
+"dele dem og holde dem sikre. Til digitale fotografientusiaster og "
+"professionelle inkluderer softwarebutikken <strong>Darktable</strong> og "
+"<strong>Luminance HDR</strong> der tilbyder virtuelt lysbord og mørkekammer "
+"til arbejde med RAW- og HDR-billeder."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:20
@@ -260,7 +318,7 @@ msgstr "GIMP - billedredigering"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:2
 msgid "Grab some popcorn!"
-msgstr ""
+msgstr "Tag nogen popcorn!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:7
@@ -270,6 +328,10 @@ msgid ""
 "content from your favourite streaming services such as <strong>Netflix</"
 "strong> and <strong>YouTube</strong>."
 msgstr ""
+"Ubuntu MATE har på forhånd installeret <strong>Firefox</strong>, og "
+"<strong>Google Chrome</strong> er i softwarebutikken så du kan se indhold "
+"fra dine favorit streamingtjenester såsom <strong>Netflix</strong> og "
+"<strong>YouTube</strong>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:12
@@ -278,11 +340,14 @@ msgid ""
 "video with ease and <strong>Emby</strong> media server is one-click away "
 "from the Software Boutique to create your own streaming server."
 msgstr ""
+"Med <strong>VLC</strong> installeret som standard kan du let se alle dine "
+"lokale videoer og <strong>Emby</strong>-medieserver er ét klik væk fra "
+"softwarebutikken, til at oprette din egen streamingserver."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:29
 msgid "Emby"
-msgstr ""
+msgstr "Emby"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:2
@@ -296,26 +361,30 @@ msgid ""
 "documents, spreadsheets and presentations.  Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"LibreOffice er en gratis kontorpakke med alt hvad du har brug for til at "
+"oprette dokumenter, regneark og præsentationer. Kompatibel med Microsoft "
+"Office-filformater, giver den dig alle de funktioner du har brug for, men "
+"uden det koster noget."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:17
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:21
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:25
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:2
 msgid "Accessible for everyone"
-msgstr ""
+msgstr "Tilgængelig for alle"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:7
@@ -325,6 +394,10 @@ msgid ""
 "language, colour scheme and text size, Ubuntu MATE makes computing easy - "
 "whoever and wherever you are."
 msgstr ""
+"I hjertet af Ubuntu MATEs filosofi er troen på at alle skal computere er "
+"noget alle skal kunne. Med avancerede tilgængelighedsværktøjer og mulighed "
+"for at skifte sprog, farveskema og tekststørrelse, gør Ubuntu MATE det let "
+"af bruge computere - hvem end og hvor end du er."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:13
@@ -349,12 +422,12 @@ msgstr "Sprogunderstøttelse"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:2
 msgid "Join the community"
-msgstr ""
+msgstr "Deltag i fællesskabet"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:7
 msgid "Discussion & Support"
-msgstr ""
+msgstr "Diskussion og support"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:11
@@ -362,6 +435,8 @@ msgid ""
 "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
 "Forum</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
+"forum</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:15
@@ -369,12 +444,15 @@ msgid ""
 "<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
 "\"caption\">Google+</a>"
 msgstr ""
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
+"\"caption\">Google+</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:19
 msgid ""
 "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Livechat</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:22
@@ -386,6 +464,7 @@ msgstr "Meddelelser"
 msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
+"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:30
@@ -393,6 +472,8 @@ msgid ""
 "<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
 "\">Facebook</a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
+"\">Facebook</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:33
@@ -404,6 +485,7 @@ msgstr "Udvikling"
 msgid ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Kode</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:41
@@ -411,29 +493,5 @@ msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
 msgstr ""
-
-#~ msgid "Find even more software"
-#~ msgstr "Find endnu flere programmer"
-
-#~ msgid "Ubuntu Software Center"
-#~ msgstr "Ubuntu Softwarecenter"
-
-#~ msgid "Synaptic Package Manager"
-#~ msgstr "Synaptic - pakkehåndtering"
-
-#~ msgid ""
-#~ "LibreOffice is a free office suite packed with everything you need to "
-#~ "create documents, spreadsheets and presentations. Compatible with "
-#~ "Microsoft Office file formats, it gives you all the features you need, "
-#~ "without the price tag."
-#~ msgstr ""
-#~ "LibreOffice er en fri kontorpakke med alt du behøver, til oprettelse at "
-#~ "dokumenter, regneark og præsentationer. Kompatibel med filformaterne i "
-#~ "Microsoft Office, giver den dig alle de funktioner du har brug for, uden "
-#~ "prisskiltet."
-
-#~ msgid "Firefox Web Browser"
-#~ msgstr "Internetbrowseren Firefox"
-
-#~ msgid "Discussion"
-#~ msgstr "Diskussion"
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
+"Tracker</a>"

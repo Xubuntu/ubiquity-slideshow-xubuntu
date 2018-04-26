@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
 "PO-Revision-Date: 2017-09-24 07:11+0000\n"
 "Last-Translator: Ikuya Awashiro <ikuya@fruitsbasket.info>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -15,195 +15,62 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-10-17 15:49+0000\n"
-"X-Generator: Launchpad (build 18476)\n"
+"X-Launchpad-Export-Date: 2018-04-26 10:42+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/00_welcome.html:2
+#: slideshows/xubuntu/slides/01_welcome.html:2
 msgid "Welcome to Xubuntu"
 msgstr "Xubuntuにようこそ"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:5
-msgid "Congratulations for choosing to install"
-msgstr "インストールありがとうございます"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:5
-msgid "Xubuntu 17.10!"
-msgstr "Xubuntu 17.10!"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/00_welcome.html:6
+#: slideshows/xubuntu/slides/01_welcome.html:5
 msgid ""
-"If you are running the installation from the <em>Try Xubuntu</em> option, "
-"you can use the default applications while installing. You can even install "
-"new packages to try at the same time."
+"Start exploring your new desktop by making yourself familiar with the "
+"applications menu."
 msgstr ""
 
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/00_welcome.html:10
-msgid "<span class=\"fo is\">Xubuntu</span>"
-msgstr "<span class=\"fo is\">Xubuntu</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/00_welcome.html:11
-msgid "<span class=\"fo plus\">Xfce</span>"
-msgstr "<span class=\"fo plus\">Xfce</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/00_welcome.html:12
-msgid "<span class=\"fo\">Ubuntu</span>"
-msgstr "<span class=\"fo\">Ubuntu</span>"
+#. type: Content of: <div><div><p>
+#: slideshows/xubuntu/slides/01_welcome.html:6
+msgid ""
+"Use the Software application to install more applications and the Settings "
+"Manager to customize the look and feel of your desktop."
+msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/01_applications.html:2
-msgid "Ready to go!"
-msgstr "準備はいいですか!"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/01_applications.html:5
-msgid ""
-"Here are some of the applications that we feel best suit Xubuntu and its "
-"users. Find them in the applications menu and install more with the package "
-"manager."
-msgstr ""
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:8
-msgid "<strong>Firefox</strong> <span>Web browser</span>"
-msgstr "<strong>Firefox</strong> <span>ウェブブラウザ</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:9
-msgid "<strong>Thunderbird</strong> <span>Mail and news client</span>"
-msgstr "<strong>Thunderbird</strong> <span>メールとニュースクライアント</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:10
-msgid "<strong>Pidgin</strong> <span>Internet messenger</span>"
-msgstr "<strong>Pidgin</strong> <span>インターネットメッセンジャー</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:11
-msgid "<strong>Parole</strong> <span>Media player</span>"
-msgstr "<strong>Parole</strong> <span>メディアプレイヤー</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:14
-msgid "<strong>LibreOffice Writer</strong> <span>Word processor</span>"
-msgstr "<strong>LibreOffice Writer</strong> <span>ワードプロセッサー</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:15
-msgid "<strong>LibreOffice Calc</strong> <span>Spreadsheet editor</span>"
-msgstr "<strong>LibreOffice Calc</strong> <span>表計算エディター</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:16
-msgid "<strong>Gnome Software</strong> <span>Package manager</span>"
-msgstr ""
-"<strong>Gnome ソフトウェア</strong> <span>パッケージマネージャー</span>"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/01_applications.html:17
-msgid "<strong>Settings Manager</strong>"
-msgstr "<strong>設定マネージャー</strong>"
-
-#. type: Attribute 'alt' of: <div><div><img>
-#: slideshows/xubuntu/slides/02_desktop.html:3
-msgid "Xubuntu default panel"
-msgstr "Xubuntuデフォルトパネル"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/02_desktop.html:8
-msgid ""
-"On the left hand side, you will see a Xubuntu logo. Clicking it opens the "
-"main menu."
-msgstr ""
-"左端にあるのがXubuntuロゴです。クリックするとメインメニューを開きます。"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/02_desktop.html:9
-msgid ""
-"The middle part of the panel is dedicated to window buttons for open "
-"applications."
-msgstr ""
-"パネルの真ん中の部分は開いたアプリケーションのウィンドウボタンとして割り当て"
-"られています。"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/02_desktop.html:10
-msgid "On the far right, you will see indicators and a clock."
-msgstr "右端にはインジケーターと時計があります。"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/02_desktop.html:15
-msgid ""
-"On the desktop you will see icons that can be used to access some of the "
-"most common places on your system. In the Settings Manager you will find "
-"many tools to change this default desktop."
-msgstr ""
-"デスクトップにはよく使うシステムの場所のアイコンがあります。設定マネージャー"
-"にはデフォルトのデスクトップから変更するたくさんのツールがあります。"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/02_desktop.html:19
-msgid ""
-"Most of the tools to customise your desktop to your liking will be found at "
-"the top in the <strong>Personal</strong> section. For quick visible changes "
-"to your desktop, play with the Panel, Theme Configuration, Appearance and "
-"Window Manager tools."
-msgstr ""
-"デスクトップをあなたの好みにカスタマイズするツールのほとんどは上部の<strong>"
-"個人設定</strong>セクションにあります。デスクトップの見た目の変更、パネルの変"
-"更、テーマの設定、外観とウィンドウマネージャーのツールなどです。"
-
-#. type: Content of: <div><div><h1>
-#: slideshows/xubuntu/slides/02_desktop.html:22
-msgid "The Xubuntu desktop"
-msgstr "Xubuntuデスクトップ"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/03_support.html:2
+#: slideshows/xubuntu/slides/02_support.html:2
 msgid "Help & Support"
 msgstr "ヘルプとサポート"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_support.html:5
+#: slideshows/xubuntu/slides/02_support.html:5
 msgid ""
-"The <em>Official Documentation</em> that covers many of the most common "
-"areas and questions about Xubuntu is shipped with every Xubuntu release. You "
-"can find it under <strong>Menu &rsaquo; Help</strong>. The documentation is "
-"also available <a href=\"http://docs.xubuntu.org/\">online</a>."
+"The <em>Official Documentation</em> will help you getting started with "
+"Xubuntu. You can find the documentation under <em>Help</em> on the "
+"applications menu."
 msgstr ""
-"<em>公式ドキュメント</em> はXubuntuに関する最も一般的な領域の多くと質問を網羅"
-"しており、Xubuntuのリリース毎にお届けしています。<strong>メニュー &rsaquo; ヘ"
-"ルプ</strong>からたどれます。また、<a href=\"http://docs.xubuntu.org/\">オン"
-"ライン</a>でも読むことができます。"
-
-#. type: Content of: <div><div><h2>
-#: slideshows/xubuntu/slides/03_support.html:6
-msgid "Other resources"
-msgstr "その他のリソース"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/03_support.html:7
+#: slideshows/xubuntu/slides/02_support.html:6
 msgid ""
-"Still have questions? The full list of support methods is available at the "
-"<a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
-"Xubuntu website."
+"If the documentation doesn't answer your questions, check the full list of "
+"support methods from the Xubuntu website."
 msgstr ""
-"それでも質問がありますか？ XubuntuのWebサイト <a href=\"http://xubuntu.org/"
-"help\">Help & Support section</a> にはサポート方法のリストがあります。"
+
+#. type: Content of: <div><div>
+#: slideshows/xubuntu/slides/02_support.html:10
+msgid ""
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
+"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+msgstr ""
 
 #. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/04_support-live.html:2
+#: slideshows/xubuntu/slides/03_support-live.html:2
 msgid "Real-time support"
 msgstr "リアルタイムなサポート"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_support-live.html:6
+#: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
 "<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
@@ -214,7 +81,7 @@ msgstr ""
 "channels=xubuntu&nick=xubuntu..i&prompt=1\">ここをクリック</a>してください。"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/xubuntu/slides/04_support-live.html:7
+#: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
 "For support in <em>other languages</em>, view the full list of <a href="
 "\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
@@ -223,113 +90,194 @@ msgstr ""
 "ChannelList/Local\">ローカルサポートチャンネル</a> の全リストをご覧ください。"
 
 #. type: Content of: <div><div>
-#: slideshows/xubuntu/slides/04_support-live.html:16
+#: slideshows/xubuntu/slides/03_support-live.html:16
 msgid "Meow"
 msgstr "Meow"
 
 #. type: Content of: <div><div><h1>
-#: slideshows/xubuntu/slides/05_contribute.html:3
-msgid "Want to contribute?"
-msgstr "貢献したいですか？"
-
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_contribute.html:5
-msgid ""
-"Ever wondered if you could help Xubuntu? You don't have to be able to code – "
-"there are many different areas we need help with."
+#: slideshows/xubuntu/slides/04_community.html:3
+msgid "Join the community"
 msgstr ""
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/05_contribute.html:6
+#: slideshows/xubuntu/slides/04_community.html:5
 msgid ""
-"To read about all of the opportunities available to you, head to the <a href="
-"\"http://xubuntu.org/contribute/\">Get Involved</a> section of our website. "
-"This page has introductions to our various subteams as well as links to "
-"other important websites related to Xubuntu development."
+"We'd love to hear about your experiences with Xubuntu. Share them on the "
+"Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
-"Webサイトの <a href=\"http://xubuntu.org/contribute/\">Get Involved</a> セク"
-"ションにはお願いしたいことがあるのでご一読ください。このページにはさまざまな"
-"サブチームの紹介と、Xubuntuの開発に関する重要なWebサイトへのリンクがありま"
-"す。"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:10
-msgid "testing"
-msgstr "テスト"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:11
-msgid "social media"
-msgstr "ソーシャルメディア"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:12
-msgid "documentation"
-msgstr "ドキュメント"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:13
-msgid "bug triage"
-msgstr "バグトリアージ"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:14
-msgid "artwork"
-msgstr "アートワーク"
-
-#. type: Content of: <div><div><div>
-#: slideshows/xubuntu/slides/05_contribute.html:15
-msgid "development"
-msgstr "開発"
-
-#. type: Content of: <div><h1>
-#: slideshows/xubuntu/slides/06_thanks.html:2
-msgid "Thank you!"
-msgstr "ありがとうございます！"
 
 #. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:5
+#: slideshows/xubuntu/slides/04_community.html:6
 msgid ""
-"Thanks for taking the time to install Xubuntu. Feel free to pass on your "
-"installation media and let others try Xubuntu as well!"
+"We always need help in making Xubuntu even better. No specific skills are "
+"required to contribute. To read about all of the opportunities available, "
+"head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
+"section of our website."
 msgstr ""
-"Xubuntuをインストールしてくれてありがとうございます。インストールメディアをほ"
-"かの人にプレゼントして、Xubuntuを試してもらいましょう！"
 
-#. type: Content of: <div><div><p>
-#: slideshows/xubuntu/slides/06_thanks.html:6
-msgid ""
-"We'd love to hear about your experiences with Xubuntu. You can share them on "
-"the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-"\">Xubuntu users mailing list</a> or if you are still here, on <em>#xubuntu-"
-"offtopic</em> IRC channel where you might find people to talk with."
+#. type: Content of: <div><div>
+#: slideshows/xubuntu/slides/04_community.html:10
+msgid "Hey, what about passing on your installation media to a friend!"
 msgstr ""
-"Xubuntuでの体験をお聞かせいただきたいと思います。<a href=\"https://lists."
-"ubuntu.com/mailman/listinfo/xubuntu-users\">Xubuntu ユーザーのメーリングリス"
-"ト</a>で共有するか、まだ試用を継続するなら<em>#xubuntu-offtopic</em> IRCチャ"
-"ンネルに話し相手がいるでしょう。"
+
+#~ msgid "The Xubuntu desktop"
+#~ msgstr "Xubuntuデスクトップ"
+
+#~ msgid "Thank you!"
+#~ msgstr "ありがとうございます！"
+
+#~ msgid "Xubuntu default panel"
+#~ msgstr "Xubuntuデフォルトパネル"
+
+#~ msgid "Ready to go!"
+#~ msgstr "準備はいいですか!"
 
 #~ msgid ""
-#~ "If you are running this installation via the <em>Try Xubuntu</em> option, "
-#~ "feel free to examine things as Xubuntu installs. After the installation, "
-#~ "the desktop will look similar to how it does now."
+#~ "The middle part of the panel is dedicated to window buttons for open "
+#~ "applications."
 #~ msgstr ""
-#~ "<em> Xubuntuを試す </em> オプションでインストールを実行している場合は、"
-#~ "Xubuntuのインストールをそのまま実行してください。インストール後、デスク"
-#~ "トップは今と似た状態の表示になります。"
+#~ "パネルの真ん中の部分は開いたアプリケーションのウィンドウボタンとして割り当"
+#~ "てられています。"
 
 #~ msgid ""
-#~ "Like what you see? Like what you use? Why not join in? You don't have to "
-#~ "be able to code – there are many different parts we need help with."
+#~ "Still have questions? The full list of support methods is available at "
+#~ "the <a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
+#~ "Xubuntu website."
 #~ msgstr ""
-#~ "どうしたい？ どう使いたい？ 一緒にやろうよ！ コードが書ける必要はありませ"
-#~ "ん。さまざまな箇所で手助けを必要としています。"
+#~ "それでも質問がありますか？ XubuntuのWebサイト <a href=\"http://xubuntu."
+#~ "org/help\">Help & Support section</a> にはサポート方法のリストがあります。"
+
+#~ msgid "<strong>Settings Manager</strong>"
+#~ msgstr "<strong>設定マネージャー</strong>"
+
+#~ msgid "Other resources"
+#~ msgstr "その他のリソース"
+
+#~ msgid "<span class=\"fo\">Ubuntu</span>"
+#~ msgstr "<span class=\"fo\">Ubuntu</span>"
+
+#~ msgid "<span class=\"fo plus\">Xfce</span>"
+#~ msgstr "<span class=\"fo plus\">Xfce</span>"
+
+#~ msgid "<span class=\"fo is\">Xubuntu</span>"
+#~ msgstr "<span class=\"fo is\">Xubuntu</span>"
+
+#~ msgid "social media"
+#~ msgstr "ソーシャルメディア"
+
+#~ msgid "<strong>Firefox</strong> <span>Web browser</span>"
+#~ msgstr "<strong>Firefox</strong> <span>ウェブブラウザ</span>"
+
+#~ msgid "<strong>Parole</strong> <span>Media player</span>"
+#~ msgstr "<strong>Parole</strong> <span>メディアプレイヤー</span>"
+
+#~ msgid "<strong>Pidgin</strong> <span>Internet messenger</span>"
+#~ msgstr "<strong>Pidgin</strong> <span>インターネットメッセンジャー</span>"
+
+#~ msgid "<strong>Thunderbird</strong> <span>Mail and news client</span>"
+#~ msgstr ""
+#~ "<strong>Thunderbird</strong> <span>メールとニュースクライアント</span>"
+
+#~ msgid "<strong>LibreOffice Writer</strong> <span>Word processor</span>"
+#~ msgstr "<strong>LibreOffice Writer</strong> <span>ワードプロセッサー</span>"
+
+#~ msgid "<strong>Gnome Software</strong> <span>Package manager</span>"
+#~ msgstr ""
+#~ "<strong>Gnome ソフトウェア</strong> <span>パッケージマネージャー</span>"
+
+#~ msgid "<strong>LibreOffice Calc</strong> <span>Spreadsheet editor</span>"
+#~ msgstr "<strong>LibreOffice Calc</strong> <span>表計算エディター</span>"
+
+#~ msgid "On the far right, you will see indicators and a clock."
+#~ msgstr "右端にはインジケーターと時計があります。"
 
 #~ msgid ""
-#~ "Here is a list of some applications that are preinstalled with Xubuntu "
-#~ "for your convenience. Find them in the applications menu and install more "
-#~ "with the package manager."
+#~ "On the desktop you will see icons that can be used to access some of the "
+#~ "most common places on your system. In the Settings Manager you will find "
+#~ "many tools to change this default desktop."
 #~ msgstr ""
-#~ "利便性のためにXubuntuにあらかじめインストールされているアプリケーションの"
-#~ "一覧です。アプリケーションメニューにありますが、パッケージマネージャーでさ"
-#~ "らにインストールできます。"
+#~ "デスクトップにはよく使うシステムの場所のアイコンがあります。設定マネー"
+#~ "ジャーにはデフォルトのデスクトップから変更するたくさんのツールがあります。"
+
+#~ msgid "testing"
+#~ msgstr "テスト"
+
+#~ msgid "development"
+#~ msgstr "開発"
+
+#~ msgid "bug triage"
+#~ msgstr "バグトリアージ"
+
+#~ msgid "documentation"
+#~ msgstr "ドキュメント"
+
+#~ msgid "artwork"
+#~ msgstr "アートワーク"
+
+#~ msgid "Want to contribute?"
+#~ msgstr "貢献したいですか？"
+
+#~ msgid ""
+#~ "The <em>Official Documentation</em> that covers many of the most common "
+#~ "areas and questions about Xubuntu is shipped with every Xubuntu release. "
+#~ "You can find it under <strong>Menu &rsaquo; Help</strong>. The "
+#~ "documentation is also available <a href=\"http://docs.xubuntu.org/"
+#~ "\">online</a>."
+#~ msgstr ""
+#~ "<em>公式ドキュメント</em> はXubuntuに関する最も一般的な領域の多くと質問を"
+#~ "網羅しており、Xubuntuのリリース毎にお届けしています。<strong>メニュー "
+#~ "&rsaquo; ヘルプ</strong>からたどれます。また、<a href=\"http://docs."
+#~ "xubuntu.org/\">オンライン</a>でも読むことができます。"
+
+#~ msgid ""
+#~ "We'd love to hear about your experiences with Xubuntu. You can share them "
+#~ "on the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
+#~ "\">Xubuntu users mailing list</a> or if you are still here, on "
+#~ "<em>#xubuntu-offtopic</em> IRC channel where you might find people to "
+#~ "talk with."
+#~ msgstr ""
+#~ "Xubuntuでの体験をお聞かせいただきたいと思います。<a href=\"https://lists."
+#~ "ubuntu.com/mailman/listinfo/xubuntu-users\">Xubuntu ユーザーのメーリングリ"
+#~ "スト</a>で共有するか、まだ試用を継続するなら<em>#xubuntu-offtopic</em> IRC"
+#~ "チャンネルに話し相手がいるでしょう。"
+
+#~ msgid ""
+#~ "Thanks for taking the time to install Xubuntu. Feel free to pass on your "
+#~ "installation media and let others try Xubuntu as well!"
+#~ msgstr ""
+#~ "Xubuntuをインストールしてくれてありがとうございます。インストールメディア"
+#~ "をほかの人にプレゼントして、Xubuntuを試してもらいましょう！"
+
+#~ msgid ""
+#~ "To read about all of the opportunities available to you, head to the <a "
+#~ "href=\"http://xubuntu.org/contribute/\">Get Involved</a> section of our "
+#~ "website. This page has introductions to our various subteams as well as "
+#~ "links to other important websites related to Xubuntu development."
+#~ msgstr ""
+#~ "Webサイトの <a href=\"http://xubuntu.org/contribute/\">Get Involved</a> セ"
+#~ "クションにはお願いしたいことがあるのでご一読ください。このページにはさまざ"
+#~ "まなサブチームの紹介と、Xubuntuの開発に関する重要なWebサイトへのリンクがあ"
+#~ "ります。"
+
+#~ msgid ""
+#~ "On the left hand side, you will see a Xubuntu logo. Clicking it opens the "
+#~ "main menu."
+#~ msgstr ""
+#~ "左端にあるのがXubuntuロゴです。クリックするとメインメニューを開きます。"
+
+#~ msgid ""
+#~ "Most of the tools to customise your desktop to your liking will be found "
+#~ "at the top in the <strong>Personal</strong> section. For quick visible "
+#~ "changes to your desktop, play with the Panel, Theme Configuration, "
+#~ "Appearance and Window Manager tools."
+#~ msgstr ""
+#~ "デスクトップをあなたの好みにカスタマイズするツールのほとんどは上部の"
+#~ "<strong>個人設定</strong>セクションにあります。デスクトップの見た目の変"
+#~ "更、パネルの変更、テーマの設定、外観とウィンドウマネージャーのツールなどで"
+#~ "す。"
+
+#~ msgid "Congratulations for choosing to install"
+#~ msgstr "インストールありがとうございます"
+
+#~ msgid "Xubuntu 17.10!"
+#~ msgstr "Xubuntu 17.10!"
