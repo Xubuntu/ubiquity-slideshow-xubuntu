@@ -7,7 +7,7 @@
 This project is about slideshows which appear while installing Ubuntu or
 its *buntu friends. The one source package provides a number of Debian
 packages for Ubuntu, including ubiquity-slideshow-ubuntu,
-ubiquity-slideshow-lubuntu and ubiquity-slideshow-kubuntu.
+ubiquity-slideshow-xubuntu and ubiquity-slideshow-kubuntu.
 
 This is associated with the ubiquity-slideshow group on Launchpad at
 <https://launchpad.net/~ubiquity-slideshow>.

@@ -4,7 +4,6 @@ SLIDESHOWS = \
 	ubuntu \
 	kubuntu \
 	xubuntu \
-	lubuntu \
 	edubuntu \
 	ubuntustudio \
 	ubuntu-budgie \
