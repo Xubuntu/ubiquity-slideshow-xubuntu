@@ -1,3 +1,10 @@
+ubiquity-slideshow-ubuntu (142) cosmic; urgency=medium
+
+  [ Aaron Honeycutt ]
+  * Update the Kubuntu slideshow for 18.10.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Tue, 09 Oct 2018 07:38:39 -0500
+
 ubiquity-slideshow-ubuntu (141) cosmic; urgency=medium
 
   [ Olivier Tilloy ]
@@ -13,7 +20,7 @@ ubiquity-slideshow-ubuntu (140) cosmic; urgency=medium
 
 ubiquity-slideshow-ubuntu (139) cosmic; urgency=medium
 
-  * Completely removing Lubuntu, as Calamares will be their installer. 
+  * Completely removing Lubuntu, as Calamares will be their installer.
 
  -- Walter Lapchynski <wxl@ubuntu.com>  Tue, 15 May 2018 20:39:15 -0700
 
@@ -412,7 +419,7 @@ ubiquity-slideshow-ubuntu (100) wily; urgency=medium
 
 ubiquity-slideshow-ubuntu (99) wily; urgency=medium
 
-  * Update slideshow for Ubuntu GNOME 15.10 
+  * Update slideshow for Ubuntu GNOME 15.10
 
  -- Tim Lunn <tim@feathertop.org>  Sun, 30 Aug 2015 17:25:37 +1000
 
@@ -878,7 +885,7 @@ ubiquity-slideshow-ubuntu (59) quantal; urgency=low
   * Lubuntu: Change the link to the mailing list
 
   [ Harald Sitter ]
-  * Kubuntu: Remove reference to commercial support from Canonical 
+  * Kubuntu: Remove reference to commercial support from Canonical
 
   [ Dylan McCall ]
   * Support slideshow customization with ubiquity-slideshow/extra folder
@@ -1076,7 +1083,7 @@ ubiquity-slideshow-ubuntu (42) oneiric; urgency=low
  -- Evan Dandrea <evand@ubuntu.com>  Wed, 07 Sep 2011 21:54:16 +0100
 
 ubiquity-slideshow-ubuntu (41) oneiric; urgency=low
- 
+
   * Bump version strings to 11.10.
 
  -- Evan Dandrea <ev@ubuntu.com>  Thu, 25 Aug 2011 11:12:17 +0100
@@ -1443,7 +1450,7 @@ ubiquity-slideshow-ubuntu (12) lucid; urgency=low
     WebKit.
   * Changed default slide interval for slideshows to 45s
     (LP: #423639)
-  
+
   [ Evan Dandrea ]
   * Put Kubuntu slides in their own directory to avoid having to make
     each slideshow package conflict.
