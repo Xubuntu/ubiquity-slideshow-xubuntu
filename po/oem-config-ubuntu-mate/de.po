@@ -8,20 +8,20 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2018-04-26 12:04+0100\n"
-"PO-Revision-Date: 2016-08-06 10:40+0000\n"
-"Last-Translator: Denis Graipel <Unknown>\n"
+"PO-Revision-Date: 2018-05-22 23:43+0000\n"
+"Last-Translator: Tobias Bannert <tobannert@gmail.com>\n"
 "Language-Team: German <de@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
-"X-Generator: Launchpad (build 18623)\n"
+"X-Launchpad-Export-Date: 2018-10-11 14:28+0000\n"
+"X-Generator: Launchpad (build 18790)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:2
 msgid "Welcome to Ubuntu MATE"
-msgstr "Willkommen bei Ubuntu MATE"
+msgstr "Willkommen bei Ubuntu-MATE"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:7
@@ -59,11 +59,15 @@ msgid ""
 "interface with one-click to something more modern or something that you "
 "might be more familar with via <strong>MATE Tweak</strong>."
 msgstr ""
+"Für Benutzer, die von anderen Betriebssystemen kommen, kann Ubuntu MATE die "
+"Benutzeroberfläche mit einem Klick an etwas moderneres oder etwas, mit dem "
+"Sie vertrauter sind, über die <strong>MATE-Feineinstellung</ strong> "
+"anpassen."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:2
 msgid "Get up and running faster"
-msgstr ""
+msgstr "Achtung, es geht los!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:7
@@ -77,6 +81,16 @@ msgid ""
 "monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
 "off point to the community."
 msgstr ""
+"Ubuntu MATE  begrüßt und unterstützt neue und wiederkehrende Benutzer mit "
+"einer eigenen Einführung. Der Assistent <strong>Erste Schritte</ strong> "
+"führt Sie durch die ersten Schritte nach der Installation. Bei der "
+"Konfiguration zusätzlicher Peripheriegeräte und Geräte hilft die "
+"Dokumentation neuen Benutzern bei der Orientierung. Der Abschnitt "
+"<strong>Systemspezifikationen</ strong> hilft Ihnen bei der Erkundung Ihrer "
+"Hardware und bietet die Möglichkeit, viele nützliche Systemüberwachungstools "
+"mit einem Klick zu installieren und zu starten. Wenn Sie Unterstützung "
+"benötigen, ist die Ubuntu MATE Einführung der Ausgangspunkt für die "
+"Community."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:18
@@ -110,11 +124,16 @@ msgid ""
 "Experienced users can simply queue up all their favourite software for "
 "install and process it in one operation."
 msgstr ""
+"Nie mehr das Web nach neuer Software durchsuchen. Es gibt eine Fülle von "
+"Programmen für Ubuntu MATE, das Angebot ist schlicht überwältigend. Die "
+"<strong>Software-Boutique</strong> ist eine sorgfältige Zusammenstellung der "
+"besten Programme um Ubuntu MATE zu ergänzen. Erfahrene Nutzer wählen ihre "
+"Lieblingssoftware aus und installieren alles mit nur einem Klick."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:20
 msgid "Software Boutique"
-msgstr ""
+msgstr "Software-Boutique"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:23
@@ -133,7 +152,7 @@ msgstr "Ubuntu-Software"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:2
 msgid "Personalised computing"
-msgstr ""
+msgstr "Personalisierter Rechner"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:7
@@ -148,6 +167,17 @@ msgid ""
 "<strong>Comptemporary</strong>. Experienced users can customise the user "
 "interface and save their creations."
 msgstr ""
+"Die Standardbenutzeroberfläche von Ubuntu MATE ist intuitiv und einfach zu "
+"bedienen. Wir verstehen, dass Menschen unterschiedliche Geschmäcker und "
+"Vorlieben haben. Aus diesem Grund haben wir <strong>MATE Tweak</ strong> "
+"entwickelt, ein Programm zum Ändern der Benutzeroberfläche, um andere "
+"Betriebssysteme nachzuahmen. Haben Sie vorher Windows genutzt? Probieren Sie "
+"<strong>Redmond</ strong> aus. Bevorzugen Sie die Optik von macOS? Dann "
+"sollten Sie <strong>Cupertino</ strong> anschauen. Für Fans von Ubuntu Unity "
+"werfen Sie einen Blick auf <strong>Mutiny</ strong>. Oder probieren Sie für "
+"eine hybride Benutzeroberfläche <strong>Pantheon</ strong> oder "
+"<strong>Comptemporary</ strong> aus. Erfahrene Benutzer können die "
+"Benutzeroberfläche selbst gestalten und ihre Kreationen speichern."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:23
@@ -169,6 +199,13 @@ msgid ""
 "<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
 "strong> in the Software Boutique."
 msgstr ""
+"Ubuntu MATE enthält mit <strong>Firefox</ strong>, einen einfachen und "
+"sicheren Webbrowser, den Millionen von Menschen  weltweit verwenden. Mit "
+"einem Fokus auf die Privatsphäre entwickelt, enthält er erweiterte "
+"Sicherheitsfunktionen, um den Nutzer Online zu schützen. Desweiteren sind "
+"<strong>Brave</ strong>, <strong>Chromium</ strong>, <strong>Google Chrome</ "
+"strong>, <strong>Opera</ strong> und <strong>Vivaldi</ strong> in der "
+"Software-Boutique zu finden."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:20
@@ -188,7 +225,7 @@ msgstr "Chromium"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:2
 msgid "Get your game on!"
-msgstr ""
+msgstr "Lasst die Spiele beginnen!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:7
@@ -200,6 +237,12 @@ msgid ""
 "ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
 "person shooters."
 msgstr ""
+"Bei Ubuntu MATE geht es nicht nur um Arbeit, es ist ebenfalls großartig zum "
+"Spielen! Man findet <strong>Steam</strong> und <strong>Minecraft</strong> in "
+"der <strong>Software-Boutique</strong>. Wir haben die besten Open-Source-"
+"Spiele ausgewählt und die Software-Boutique mit Plattformspielen, "
+"Rennspielen, Flugsimulatoren, Puzzles, rundenbasierten Strategie-Spielen und "
+"Ego-Shootern bestückt."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:19
@@ -226,6 +269,13 @@ msgid ""
 "<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
 "many popular streaming services, in the <strong>Software Boutique</strong>"
 msgstr ""
+"Ubuntu MATE kommt mit dem vielseitigen Rhythmbox Musik-Spieler. Mit "
+"erweiterten Wiedergabeoptionen können Sie einfach eigene Abspiel-Listen "
+"erstellen. Das Programm arbeitet hervorragend mit CDs und tragbaren Musik-"
+"Playern, so dass Sie überall Ihre Musik genießen können. Wenn Sie Streaming-"
+"Dienste nutzen wollen, sind <strong>Spotify</ strong> und <strong>Nuvola "
+"Player</ strong> in der <strong>Software-Boutique</ strong>. Diese "
+"unterstützen viele beliebte Streaming-Dienste."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:20
@@ -253,6 +303,12 @@ msgid ""
 "<strong>Luminance HDR</strong> that offer virtual lightable and darkroom for "
 "RAW and HDR image workflows."
 msgstr ""
+"Shotwell ist ein praktischer Foto-Manager, der für Ihre Geräte bereit ist. "
+"Schließen Sie eine Kamera oder ein Smartphone an, um Ihre Fotos zu "
+"übertragen. Diese können Sie dann ganz einfach teilen und sicher "
+"aufbewahren. Für Digitalfotografen und -profis bietet die Software-Boutique "
+"<strong>Darktable</ strong> und <strong>Luminance HDR</ strong>, die einen "
+"professionellen Rahmen für RAW- und HDR-Bild-Workflows bieten."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:20
@@ -267,7 +323,7 @@ msgstr "GIMP-Bildbearbeitung"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:2
 msgid "Grab some popcorn!"
-msgstr ""
+msgstr "Nehmen Sie sich Popcorn!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:7
@@ -277,6 +333,9 @@ msgid ""
 "content from your favourite streaming services such as <strong>Netflix</"
 "strong> and <strong>YouTube</strong>."
 msgstr ""
+"Ubuntu MATE hat <strong>Firefox</strong> bereits installiert und "
+"<strong>Google Chrome</strong> ist in der Software-Boutique. Alles vorhanden "
+"um Ihre favorisierten Dienste wie Netflix oder YouTube zu nutzen."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:12
@@ -285,11 +344,15 @@ msgid ""
 "video with ease and <strong>Emby</strong> media server is one-click away "
 "from the Software Boutique to create your own streaming server."
 msgstr ""
+"Wenn man <strong>VLC</ strong> installiert, kann man alle lokalen Videos "
+"ganz einfach ansehen und der Medienserver <strong>Emby</ strong> ist in der "
+"Software Boutique nur einen Klick entfernt. So kann man einen eigenen "
+"Streaming-Server erstellen."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:29
 msgid "Emby"
-msgstr ""
+msgstr "Emby"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:2
@@ -303,6 +366,10 @@ msgid ""
 "documents, spreadsheets and presentations.  Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"LibreOffice ist eine kostenloses Office-Paket, das mit allem ausgestattet "
+"ist, was Sie zum Erstellen von Dokumenten, Tabellen und Präsentationen "
+"benötigen. Kompatibel mit Microsoft-Office-Dateiformaten, bietet es Ihnen "
+"alle Funktionen, die Sie benötigen."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:17

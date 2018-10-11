@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2018-04-26 12:04+0100\n"
-"PO-Revision-Date: 2017-10-02 08:18+0000\n"
+"PO-Revision-Date: 2018-07-20 06:54+0000\n"
 "Last-Translator: Aleksey Kabanov <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-04-26 10:42+0000\n"
-"X-Generator: Launchpad (build 18623)\n"
+"X-Launchpad-Export-Date: 2018-10-11 14:29+0000\n"
+"X-Generator: Launchpad (build 18790)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
@@ -29,6 +29,7 @@ msgid ""
 "Start exploring your new desktop by making yourself familiar with the "
 "applications menu."
 msgstr ""
+"Начните изучение вашей новой рабочей среды со знакомства с меню приложений."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:6
@@ -49,6 +50,8 @@ msgid ""
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
 msgstr ""
+"<em>Официальная документация</em> поможет вам освоится в Xubuntu. Её можно "
+"открыть с помощью пункта <em>Справка</em> в меню приложений."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
@@ -56,6 +59,9 @@ msgid ""
 "If the documentation doesn't answer your questions, check the full list of "
 "support methods from the Xubuntu website."
 msgstr ""
+"Если в документации не нашлись ответы на некоторые ваши вопросы, "
+"ознакомьтесь со всеми вариантами поддержки пользователей на веб-сайте "
+"Xubuntu."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
@@ -63,6 +69,9 @@ msgid ""
 "<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
 "<a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
+"<a href=\"https://docs.xubuntu.org/1804/\">Официальная документация в "
+"Интернете</a> <a href=\"https://xubuntu.org/help/\">Все варианты поддержки</"
+"a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
@@ -98,7 +107,7 @@ msgstr "Мяу"
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/04_community.html:3
 msgid "Join the community"
-msgstr ""
+msgstr "Присоединяйтесь к сообществу"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
@@ -106,6 +115,8 @@ msgid ""
 "We'd love to hear about your experiences with Xubuntu. Share them on the "
 "Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
+"Мы будем рады узнать ваше мнение о Xubuntu. Поделитесь им в списке почтовой "
+"рассылки пользователей Xubuntu или на IRC-канале #xubuntu-offtopic."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -115,205 +126,12 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
+"Нам всегда пригодится ваша помощь, чтобы сделать Xubuntu ещё лучше. Для "
+"участия не требуется никаких особых умений. Чтобы узнать о всех доступных "
+"возможностях участия, обратитесь к разделу нашего веб-сайта <a href="
+"\"https://xubuntu.org/contribute/\">Get Involved</a>."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
 msgstr ""
-
-#~ msgid "The Xubuntu desktop"
-#~ msgstr "Рабочий стол Xubuntu"
-
-#~ msgid "Thank you!"
-#~ msgstr "Спасибо!"
-
-#~ msgid "Ready to go!"
-#~ msgstr "Готовы?!"
-
-#~ msgid "Other resources"
-#~ msgstr "Прочие ресурсы"
-
-#~ msgid "Xubuntu default panel"
-#~ msgstr "Стандартная панель Xubuntu"
-
-#~ msgid ""
-#~ "The middle part of the panel is dedicated to window buttons for open "
-#~ "applications."
-#~ msgstr ""
-#~ "В средней части панели будут отображаться кнопки открытых приложений."
-
-#~ msgid ""
-#~ "Still have questions? The full list of support methods is available at "
-#~ "the <a href=\"http://xubuntu.org/help\">Help & Support section</a> of the "
-#~ "Xubuntu website."
-#~ msgstr ""
-#~ "Остались вопросы?! Полный перечень обеспечения поддержки пользователей "
-#~ "представлен в разделе <a href=\"http://xubuntu.org/help\">Справка и "
-#~ "поддержка</a> на веб-сайте Xubuntu."
-
-#~ msgid "<strong>Settings Manager</strong>"
-#~ msgstr "<strong>Менеджер настроек</strong>"
-
-#~ msgid "<span class=\"fo\">Ubuntu</span>"
-#~ msgstr "<span class=\"fo\">Ubuntu</span>"
-
-#~ msgid "<strong>Firefox</strong> <span>Web browser</span>"
-#~ msgstr "<strong>Firefox</strong> <span>Веб-браузер</span>"
-
-#~ msgid "<strong>Thunderbird</strong> <span>Mail and news client</span>"
-#~ msgstr ""
-#~ "<strong>Thunderbird</strong> <span>Клиент электронной почты и новостных "
-#~ "рассылок</span>"
-
-#~ msgid "<strong>Pidgin</strong> <span>Internet messenger</span>"
-#~ msgstr ""
-#~ "<strong>Pidgin</strong> <span>Приложение для обмена мгновенными "
-#~ "сообщениями</span>"
-
-#~ msgid "<strong>Parole</strong> <span>Media player</span>"
-#~ msgstr "<strong>Parole</strong> <span>Медиапроигрыватель</span>"
-
-#~ msgid "Congratulations for choosing to install"
-#~ msgstr "Поздравляем с выбором"
-
-#~ msgid "<span class=\"fo plus\">Xfce</span>"
-#~ msgstr "<span class=\"fo plus\">Xfce</span>"
-
-#~ msgid "<span class=\"fo is\">Xubuntu</span>"
-#~ msgstr "<span class=\"fo is\">Xubuntu</span>"
-
-#~ msgid "<strong>Gnome Software</strong> <span>Package manager</span>"
-#~ msgstr "<strong>Gnome Software</strong> <span>Менеджер пакетов</span>"
-
-#~ msgid ""
-#~ "On the left hand side, you will see a Xubuntu logo. Clicking it opens the "
-#~ "main menu."
-#~ msgstr ""
-#~ "С левой стороны расположен логотип Xubuntu. Щелчок на нём открывает "
-#~ "главное меню."
-
-#~ msgid "<strong>LibreOffice Writer</strong> <span>Word processor</span>"
-#~ msgstr ""
-#~ "<strong>LibreOffice Writer</strong> <span>Текстовый процессор</span>"
-
-#~ msgid "<strong>LibreOffice Calc</strong> <span>Spreadsheet editor</span>"
-#~ msgstr ""
-#~ "<strong>LibreOffice Calc</strong> <span>Редактор электронных таблиц</span>"
-
-#~ msgid "On the far right, you will see indicators and a clock."
-#~ msgstr "Справа находятся индикаторы и часы."
-
-#~ msgid ""
-#~ "The <em>Official Documentation</em> that covers many of the most common "
-#~ "areas and questions about Xubuntu is shipped with every Xubuntu release. "
-#~ "You can find it under <strong>Menu &rsaquo; Help</strong>. The "
-#~ "documentation is also available <a href=\"http://docs.xubuntu.org/"
-#~ "\">online</a>."
-#~ msgstr ""
-#~ "<em>Официальная документация</em>, охватывающая наиболее общие темы и "
-#~ "вопросы, касающиеся Xubuntu, поставляется с каждым выпуском Xubuntu. Её "
-#~ "можно найти в <strong>меню &rsaquo; Справка</strong>. Эта документация "
-#~ "доступна также <a href=\"http://docs.xubuntu.org/\">в Интернете</a>."
-
-#~ msgid ""
-#~ "To read about all of the opportunities available to you, head to the <a "
-#~ "href=\"http://xubuntu.org/contribute/\">Get Involved</a> section of our "
-#~ "website. This page has introductions to our various subteams as well as "
-#~ "links to other important websites related to Xubuntu development."
-#~ msgstr ""
-#~ "Чтобы узнать о всех доступных для вас возможностях участия, посетите "
-#~ "раздел <a href=\"http://xubuntu.org/contribute/\">Get Involved</a> нашего "
-#~ "веб-сайта. Эта страница познакомит вас с различными подгруппами нашего "
-#~ "сообщества и предоставит ссылки на другие важные сайты, имеющие отношение "
-#~ "к разработке Xubuntu."
-
-#~ msgid "Want to contribute?"
-#~ msgstr "Хотите помочь?"
-
-#~ msgid ""
-#~ "Thanks for taking the time to install Xubuntu. Feel free to pass on your "
-#~ "installation media and let others try Xubuntu as well!"
-#~ msgstr ""
-#~ "Спасибо за время, затраченное на установку Xubuntu! Мы будем только рады, "
-#~ "если вы передадите свой установочный носитель другим людям, чтобы они "
-#~ "тоже могли опробовать Xubuntu!"
-
-#~ msgid ""
-#~ "We'd love to hear about your experiences with Xubuntu. You can share them "
-#~ "on the <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users"
-#~ "\">Xubuntu users mailing list</a> or if you are still here, on "
-#~ "<em>#xubuntu-offtopic</em> IRC channel where you might find people to "
-#~ "talk with."
-#~ msgstr ""
-#~ "Нам было бы приятно узнать о ваших впечатлениях от Xubuntu. Вы можете "
-#~ "поделиться ими в <a href=\"https://lists.ubuntu.com/mailman/listinfo/"
-#~ "xubuntu-users\">почтовой рассылке пользователей Xubuntu</a> или на канале "
-#~ "IRC <em>#xubuntu-offtopic</em>, где вы сможете найти себе собеседников."
-
-#~ msgid "testing"
-#~ msgstr "тестирование"
-
-#~ msgid "artwork"
-#~ msgstr "оформление"
-
-#~ msgid "bug triage"
-#~ msgstr "поиск ошибок"
-
-#~ msgid "documentation"
-#~ msgstr "документация"
-
-#~ msgid "development"
-#~ msgstr "разработка"
-
-#~ msgid ""
-#~ "On the desktop you will see icons that can be used to access some of the "
-#~ "most common places on your system. In the Settings Manager you will find "
-#~ "many tools to change this default desktop."
-#~ msgstr ""
-#~ "На рабочем столе расположены значки для доступа к некоторым местам вашей "
-#~ "системы. В диспетчере настроек имеется множество инструментов для "
-#~ "настройки рабочего стола."
-
-#~ msgid ""
-#~ "Most of the tools to customise your desktop to your liking will be found "
-#~ "at the top in the <strong>Personal</strong> section. For quick visible "
-#~ "changes to your desktop, play with the Panel, Theme Configuration, "
-#~ "Appearance and Window Manager tools."
-#~ msgstr ""
-#~ "Большинство из инструментов для настройки рабочего стола можно найти "
-#~ "наверху, в разделе <strong>Личные</strong>. Для быстрого изменения "
-#~ "внешнего вида рабочего стола поэкспериментируйте с инструментами "
-#~ "«Панель», «Настройки темы», «Внешний вид» и «Диспетчер окон»."
-
-#~ msgid "social media"
-#~ msgstr "социальные медиа"
-
-#~ msgid ""
-#~ "Ever wondered if you could help Xubuntu? You don't have to be able to "
-#~ "code – there are many different areas we need help with."
-#~ msgstr ""
-#~ "Вы хотели бы помочь Xubuntu? Для этого не обязательно уметь "
-#~ "программировать – есть много других областей, в которых нам нужна ваша "
-#~ "помощь."
-
-#~ msgid "Xubuntu 17.10!"
-#~ msgstr "Xubuntu 17.10!"
-
-#~ msgid ""
-#~ "If you are running the installation from the <em>Try Xubuntu</em> option, "
-#~ "you can use the default applications while installing. You can even "
-#~ "install new packages to try at the same time."
-#~ msgstr ""
-#~ "Если вы запустили установку из опции <em>Попробовать Xubuntu</em>, то "
-#~ "можете пользоваться стандартными приложениями прямо во время установки "
-#~ "системы. Вы можете даже устанавливать для пробы новые приложения в это "
-#~ "время."
-
-#~ msgid ""
-#~ "Here are some of the applications that we feel best suit Xubuntu and its "
-#~ "users. Find them in the applications menu and install more with the "
-#~ "package manager."
-#~ msgstr ""
-#~ "Вот некоторые приложения, по нашему мнению, наилучшим образом подходящие "
-#~ "для Xubuntu и её пользователей. Найдите их в меню приложений и установите "
-#~ "дополнительные с помощью менеджера пакетов."

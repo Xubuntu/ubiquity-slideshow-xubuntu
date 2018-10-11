@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2018-04-26 12:04+0100\n"
-"PO-Revision-Date: 2017-09-24 07:38+0000\n"
+"PO-Revision-Date: 2018-09-02 16:21+0000\n"
 "Last-Translator: Valter Mura <valtermura@gmail.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-04-26 10:41+0000\n"
-"X-Generator: Launchpad (build 18623)\n"
+"X-Launchpad-Export-Date: 2018-10-11 14:28+0000\n"
+"X-Generator: Launchpad (build 18790)\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/00_Welcome.html:3
@@ -48,6 +48,8 @@ msgid ""
 "This slideshow will go over the default applications, how to get help, and "
 "how to contribute to Kubuntu"
 msgstr ""
+"Questa presentazione farà una panoramica sulle applicazioni predefinite, sul "
+"modo di ottenere aiuto e su come contribuire a Kubuntu"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/01_Applications.html:3
@@ -62,13 +64,12 @@ msgstr "Kubuntu comprende le applicazioni di cui hai bisogno quotidianamente."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/01_Applications.html:8
-#, fuzzy
 msgid ""
 "For everything else, you can install more software in Discover, our software "
 "center"
 msgstr ""
-"Per altre necessità puoi installare altro software in Discover, il nostro "
-"centro software"
+"Per qualsiasi altra necessità puoi installare ulteriore software in "
+"Discover, il nostro centro software"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:13
@@ -88,7 +89,7 @@ msgstr "Kontact"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:19
 msgid "PIM Suite"
-msgstr ""
+msgstr "Suite per la gestione delle informazioni personali"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:23
@@ -113,13 +114,12 @@ msgstr "Centro software"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:35
 msgid "VLC"
-msgstr ""
+msgstr "VLC"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:36
-#, fuzzy
 msgid "Media Player"
-msgstr "Riproduttore musicale"
+msgstr "Riproduttore multimediale"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:40
@@ -134,7 +134,7 @@ msgstr "Visualizzatore di documenti"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:45
 msgid "Dolphin"
-msgstr ""
+msgstr "Dolphin"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:46
@@ -144,12 +144,12 @@ msgstr "Gestore di file"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:50
 msgid "Kate"
-msgstr ""
+msgstr "Kate"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:51
 msgid "Text Editor"
-msgstr ""
+msgstr "Editor di testo"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/02_Accessibility.html:3
@@ -204,22 +204,20 @@ msgstr ""
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:18
-#, fuzzy
 msgid ""
 "Kubuntu Community: <a href=\"https://www.kubuntu.org/community\">http://www."
 "kubuntu.org/community</a>"
 msgstr ""
-"Comunità Kubuntu: <a href=\"http://www.kubuntu.org/community\">http://www."
+"Comunità Kubuntu: <a href=\"https://www.kubuntu.org/community\">http://www."
 "kubuntu.org/community</a>"
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:19
-#, fuzzy
 msgid ""
 "Kubuntu Support: <a href=\"https://www.kubuntu.org/support\">http://www."
 "kubuntu.org/support</a>"
 msgstr ""
-"Supporto Kubuntu:<a href=\"http://www.kubuntu.org/support\">http://www."
+"Supporto per Kubuntu: <a href=\"https://www.kubuntu.org/support\">http://www."
 "kubuntu.org/support</a>"
 
 #. type: Content of: <div><div><h1>
@@ -247,15 +245,16 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:19
-#, fuzzy
 msgid ""
 "No matter your skill level, getting involved and helping to mold the future "
 "of Kubuntu is easy, and you are more than welcome to help out.Remember, it "
 "is easy to get involved and the work you do will be seen by millions of "
 "people around the world."
 msgstr ""
-"Non importa quale sia il tuo livello di competenza, collaborare e aiutare a "
-"costruire il futuro di Kubuntu è facile, il tuo aiuto è più che benvenuto!"
+"Non importa che livello di abilità possiedi, partecipare e contribuire a "
+"costruire il futuro di Kubuntu è facile, e tu sei più che benvenuto. "
+"Ricorda: è facile partecipare e il tuo lavoro sarà visto e apprezzato da "
+"milioni di utenti in tutto il mondo."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:25
@@ -266,43 +265,9 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:28
-#, fuzzy
 msgid ""
 "Kubuntu Manual: <a href=\"https://kubuntu.org/support/\">https://kubuntu.org/"
 "support</a>"
 msgstr ""
-"Supporto Kubuntu:<a href=\"http://www.kubuntu.org/support\">http://www."
-"kubuntu.org/support</a>"
-
-#~ msgid "Email, Contacts"
-#~ msgstr "Posta elettronica, contatti"
-
-#~ msgid ""
-#~ "Look over <a href=\"http://docs.kubuntu.org/docs/contribute.html"
-#~ "\">Kubuntu Manual</a> and see where you might be able to help out. "
-#~ "Remember, it is easy to get involved and the work you do will be seen by "
-#~ "millions of people around the world."
-#~ msgstr ""
-#~ "Dai uno sguardo al <a href=\"http://docs.kubuntu.org/docs/contribute.html"
-#~ "\">Manuale di Kubuntu</a> e verifica se puoi contribuire. Ricorda, è "
-#~ "facile partecipare e il tuo lavoro sarà visto da milioni di persone in "
-#~ "tutto il mondo."
-
-#~ msgid "Video Player"
-#~ msgstr "Riproduttore video"
-
-#~ msgid "Dragon Player"
-#~ msgstr "Dragon Player"
-
-#~ msgid "Amarok"
-#~ msgstr "Amarok"
-
-#~ msgid "Dophin"
-#~ msgstr "Dolphin"
-
-#~ msgid ""
-#~ "Kubuntu Manual: <a href=\"http://docs.kubuntu.org/docs/contribute.html"
-#~ "\">http://docs.kubuntu.org/docs/contribute.html</a>"
-#~ msgstr ""
-#~ "Manuale Kubuntu: <a href=\"http://docs.kubuntu.org/docs/contribute.html"
-#~ "\">http://docs.kubuntu.org/docs/contribute.html</a>"
+"Manuale di Kubuntu: <a href=\"https://kubuntu.org/support/\">https://kubuntu."
+"org/support</a>"
