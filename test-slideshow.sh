@@ -19,7 +19,7 @@ if [ -z "$slideshow" ]
 			[ $showname = "ubuntu" ] && select=TRUE
 			slideshows="$slideshows $select $showname"
 		done
-		slideshow=$(zenity --list --radiolist --column="Pick" --column="Slideshow" $slideshows --title="$TITLE" --text="Choose a slideshow to test")
+		slideshow=$(zenity --height=450 --list --radiolist --column="Pick" --column="Slideshow" $slideshows --title="$TITLE" --text="Choose a slideshow to test")
 		[ "$slideshow" = "" ] | [ "$slideshow" = "(null)" ] && exit
 fi
 

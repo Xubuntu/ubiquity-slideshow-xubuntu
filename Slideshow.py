@@ -1,7 +1,11 @@
 #!/usr/bin/python3
 
 import os
-from gi.repository import GLib, Gdk, Gtk, WebKit
+import gi
+gi.require_version('WebKit2', '4.0')
+gi.require_version('Gdk', '3.0')
+gi.require_version('Gtk', '3.0')
+from gi.repository import GLib, Gdk, Gtk, WebKit2
 from configparser import ConfigParser
 import subprocess
 
@@ -10,9 +14,9 @@ import locale
 from optparse import OptionParser
 
 
-class SlideshowViewer(WebKit.WebView):
+class SlideshowViewer(WebKit2.WebView):
     '''
-    A basic GTK widget (WebKit.WebView) which displays a slideshow in the
+    A basic GTK widget (WebKit2.WebView) which displays a slideshow in the
     ubiquity-slideshow format. Feel free to copy and paste this to your application
     and customize it as needed.
     '''
@@ -38,23 +42,24 @@ class SlideshowViewer(WebKit.WebView):
         if controls:
             parameters.append('controls')
 
-        WebKit.WebView.__init__(self)
+        WebKit2.WebView.__init__(self)
         parameters_encoded = '&'.join(parameters)
-        self.open('%s#%s' % (slideshow_main, parameters_encoded))
+        slideshow_main = '%s#%s' % (slideshow_main, parameters_encoded)
+        self.load_uri(slideshow_main)
 
         settings = self.get_settings()
-        settings.set_property("enable-default-context-menu", False)
+        ##settings.set_property("enable-default-context-menu", False)
         #Recent webkit feature. See <http://trac.WebKit.org/changeset/52087>.
-        settings.set_property("enable-file-access-from-file-uris", True)
+        settings.set_property("allow-file-access-from-file-urls", True)
 
         config_width = int(config.get('Slideshow', 'width'))
         config_height = int(config.get('Slideshow', 'height'))
         self.set_size_request(config_width, config_height)
 
-        self.connect('navigation-policy-decision-requested', self._on_navigate_decision)
-        self.connect('navigation-requested', self._on_navigate)
-        self.connect('new-window-policy-decision-requested', self._on_new_window_decision)
-        self.connect('create-web-view', self._on_new_window)
+        self.connect('decide-policy', self._on_navigate_decision)
+        ##self.connect('navigation-requested', self._on_navigate)
+        ##self.connect('new-window-policy-decision-requested', self._on_new_window_decision)
+        ##self.connect('create-web-view', self._on_new_window)
 
     '''
     Determines the ideal locale for the slideshow, based on the given locale,
@@ -79,13 +84,14 @@ class SlideshowViewer(WebKit.WebView):
     def _new_browser_window(self, uri):
         subprocess.Popen(['xdg-open', uri], close_fds=True)
 
-    def _on_navigate_decision(self, view, frame, req, action, decision):
-        reason = action.get_reason()
-        if reason == "link-clicked":
-            decision.use()
+    def _on_navigate_decision(self, web_view, decision, decision_type):
+        if decision_type == WebKit2.PolicyDecisionType.NEW_WINDOW_ACTION:
+            request = decision.get_request()
+            uri = request.get_uri()
+            decision.ignore()
+            subprocess.Popen(['sensible-browser', uri],
+                             close_fds=True)
             return False
-
-        decision.ignore()
         return True
 
     def _on_navigate(self, view, frame, req):
@@ -131,16 +137,6 @@ options.path = os.path.abspath(options.path)
 if not os.path.exists(options.path):
     sys.exit("\033[91m * Please build the slideshow content first by using the make command * \033[0m")
 
-
-Gdk.threads_init()
-
-# Set default SSL CA file for secure communication with web services.
-# This is important, because libsoup is not secure by default.
-soup_session = WebKit.get_default_session()
-soup_session.set_property('ssl-strict', True)
-soup_session.set_property('ssl-use-system-ca-file', True)
-
-
 slideshow_window = Gtk.Window()
 slideshow_window.set_title("Installer slideshow preview")
 slideshow_window.connect('destroy', Gtk.main_quit)
@@ -154,9 +150,9 @@ slideshow = SlideshowViewer(options.path, locale=options.locale, rtl=options.rtl
 
 install_progressbar = Gtk.ProgressBar()
 install_progressbar.set_margin_top(8)
-install_progressbar.set_margin_right(8)
+install_progressbar.set_margin_end(8)
 install_progressbar.set_margin_bottom(8)
-install_progressbar.set_margin_left(8)
+install_progressbar.set_margin_start(8)
 install_progressbar.set_fraction(0)
 
 
