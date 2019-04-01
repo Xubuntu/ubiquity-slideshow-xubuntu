@@ -7,73 +7,80 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"POT-Creation-Date: 2019-03-13 15:37+0000\n"
 "PO-Revision-Date: 2017-08-19 21:08+0000\n"
 "Last-Translator: Anthony Harrington <Unknown>\n"
 "Language-Team: English (Australia) <en_AU@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-10-11 14:28+0000\n"
-"X-Generator: Launchpad (build 18790)\n"
+"X-Launchpad-Export-Date: 2019-03-28 21:21+0000\n"
+"X-Generator: Launchpad (build 18910)\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/00_Welcome.html:3
 msgid "Welcome to Kubuntu"
-msgstr ""
+msgstr "Welcome to Kubuntu"
 
 #. type: Attribute 'alt' of: <div><div><img>
 #: slideshows/kubuntu/slides/00_Welcome.html:7
 msgid "kubuntu logo"
-msgstr ""
+msgstr "kubuntu logo"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:11
 msgid "Thanks for picking Kubuntu!"
-msgstr ""
+msgstr "Thanks for picking Kubuntu!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:12
 msgid ""
 "Kubuntu combines the best of the KDE Community's software with Ubuntu's base "
-"to make a great desktop experience"
+"to make a great desktop experience."
 msgstr ""
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:13
 msgid ""
 "This slideshow will go over the default applications, how to get help, and "
-"how to contribute to Kubuntu"
+"how to contribute to Kubuntu."
+msgstr ""
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/00_Welcome.html:14
+msgid ""
+"Some of the listed applications are only included in the default "
+"installation option."
 msgstr ""
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/01_Applications.html:3
 msgid "Find everything you need on your new install"
-msgstr ""
+msgstr "Find everything you need on your new install"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/01_Applications.html:7
 msgid ""
 "Kubuntu comes with most of the applications that you need on a daily basis."
 msgstr ""
+"Kubuntu comes with most of the applications that you need on a daily basis."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/01_Applications.html:8
 msgid ""
 "For everything else, you can install more software in Discover, our software "
-"center"
+"center."
 msgstr ""
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:13
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:14
 msgid "Web Browser"
-msgstr ""
+msgstr "Web Browser"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:18
@@ -174,8 +181,8 @@ msgstr "Getting help with Kubuntu"
 #: slideshows/kubuntu/slides/03_Get-Help.html:11
 msgid ""
 "If you need help, try Help from the menu, or the Help menu in most "
-"applications.  Let us know about your Kubuntu experience at <a href=\"http://"
-"www.kubuntu.org/community\">Kubuntu Community</a>!"
+"applications.  Let us know about your Kubuntu experience at <a "
+"href=\"http://www.kubuntu.org/community\">Kubuntu Community</a>!"
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -183,22 +190,28 @@ msgstr ""
 msgid ""
 "In addition to our extensive written help, the Kubuntu community in "
 "conjunction with the Ubuntu community, provides free technical support in "
-"person and over the Internet. Learn more at <a href=\"http://www.kubuntu.org/"
-"support\">Kubuntu Support</a>."
+"person and over the Internet."
 msgstr ""
 
-#. type: Content of: <div><div><p><ul><li>
+#. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/03_Get-Help.html:18
 msgid ""
-"Kubuntu Community: <a href=\"https://www.kubuntu.org/community\">http://www."
-"kubuntu.org/community</a>"
+"Learn more at <a href=\"http://www.kubuntu.org/support\">Kubuntu Support</a>."
 msgstr ""
 
 #. type: Content of: <div><div><p><ul><li>
-#: slideshows/kubuntu/slides/03_Get-Help.html:19
+#: slideshows/kubuntu/slides/03_Get-Help.html:21
 msgid ""
-"Kubuntu Support: <a href=\"https://www.kubuntu.org/support\">http://www."
-"kubuntu.org/support</a>"
+"Kubuntu Community: <a "
+"href=\"https://www.kubuntu.org/community\">http://www.kubuntu.org/community</"
+"a>"
+msgstr ""
+
+#. type: Content of: <div><div><p><ul><li>
+#: slideshows/kubuntu/slides/03_Get-Help.html:22
+msgid ""
+"Kubuntu Support: <a "
+"href=\"https://www.kubuntu.org/support\">http://www.kubuntu.org/support</a>"
 msgstr ""
 
 #. type: Content of: <div><div><h1>
@@ -214,7 +227,7 @@ msgstr ""
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:12
 msgid ""
-"The Kubuntu community consists of a group of individuals, who made up one of "
+"The Kubuntu community consists of a group of individuals who made up one of "
 "the greatest teams in the open source community, working on various aspects "
 "of the distribution, providing advice and technical support, as well as "
 "helping to promote Kubuntu to a wider audience."
@@ -224,9 +237,8 @@ msgstr ""
 #: slideshows/kubuntu/slides/04_Get-Involved.html:19
 msgid ""
 "No matter your skill level, getting involved and helping to mold the future "
-"of Kubuntu is easy, and you are more than welcome to help out.Remember, it "
-"is easy to get involved and the work you do will be seen by millions of "
-"people around the world."
+"of Kubuntu is easy, and you are more than welcome to help out.  The work you "
+"do will be seen by millions of people around the world."
 msgstr ""
 
 #. type: Content of: <div><div><p>
@@ -237,6 +249,27 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:28
 msgid ""
-"Kubuntu Manual: <a href=\"https://kubuntu.org/support/\">https://kubuntu.org/"
-"support</a>"
+"Kubuntu Manual: <a "
+"href=\"https://kubuntu.org/support/\">https://kubuntu.org/support</a>"
 msgstr ""
+
+#~ msgid ""
+#~ "For everything else, you can install more software in Discover, our software "
+#~ "center"
+#~ msgstr ""
+#~ "For everything else, you can install more software in Discover, our software "
+#~ "centre"
+
+#~ msgid ""
+#~ "Kubuntu combines the best of the KDE Community's software with Ubuntu's base "
+#~ "to make a great desktop experience"
+#~ msgstr ""
+#~ "Kubuntu combines the best of the KDE Community's software with Ubuntu's base "
+#~ "to make a great desktop experience"
+
+#~ msgid ""
+#~ "This slideshow will go over the default applications, how to get help, and "
+#~ "how to contribute to Kubuntu"
+#~ msgstr ""
+#~ "This slideshow will go over the default applications, how to get help, and "
+#~ "how to contribute to Kubuntu"

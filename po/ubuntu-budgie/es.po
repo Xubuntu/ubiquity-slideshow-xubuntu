@@ -7,16 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2018-04-26 12:04+0100\n"
-"PO-Revision-Date: 2017-08-29 16:27+0000\n"
-"Last-Translator: Adolfo Jayme <Unknown>\n"
+"POT-Creation-Date: 2019-03-13 17:22+0100\n"
+"PO-Revision-Date: 2019-03-25 09:55+0000\n"
+"Last-Translator: Rodrigo Lledó <rodhos92@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-10-11 14:28+0000\n"
-"X-Generator: Launchpad (build 18790)\n"
+"X-Launchpad-Export-Date: 2019-03-28 21:20+0000\n"
+"X-Generator: Launchpad (build 18910)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/01_welcome.html:2
@@ -55,17 +54,8 @@ msgstr ""
 msgid "Simple and easy to use"
 msgstr "Fácil y sencillo de usar"
 
-#. type: Content of: <div><div>
-#: slideshows/ubuntu-budgie/slides/02_desktop.html:7
-msgid ""
-"<strong>Budgie</strong> is built exclusively for desktop users. No mobile or "
-"tablet here!"
-msgstr ""
-"<strong>Budgie</strong> se ha creado en exclusiva para usuarios de "
-"sobremesa. ¡Aquí no hay componentes para móviles o tabletas!"
-
 #. type: Content of: <div><div><li>
-#: slideshows/ubuntu-budgie/slides/02_desktop.html:9
+#: slideshows/ubuntu-budgie/slides/02_desktop.html:7
 msgid ""
 "<strong>Budgie Menu</strong> provides quick access to your apps, offering "
 "both category and compact views"
@@ -74,17 +64,27 @@ msgstr ""
 "aplicaciones a través de sus vistas compacta y por categorías"
 
 #. type: Content of: <div><div><li>
-#: slideshows/ubuntu-budgie/slides/02_desktop.html:10
+#: slideshows/ubuntu-budgie/slides/02_desktop.html:8
 msgid ""
-"<strong>Raven</strong> side panel lets you access applets,notifications and "
-"customization center all in one place"
+"<strong>Raven</strong> side panel lets you access notifications, play music "
+"and sound control all in one place"
 msgstr ""
-"El panel lateral <strong>Raven</strong> le permite acceder a "
-"miniaplicaciones, notificaciones y el centro de personalización; todo en un "
-"solo sitio"
+"El panel lateral de <strong>Raven</strong> le permite acceder a "
+"notificaciones, reproducir música y controlar el sonido todo en un único "
+"lugar"
 
 #. type: Content of: <div><div><li>
-#: slideshows/ubuntu-budgie/slides/02_desktop.html:11
+#: slideshows/ubuntu-budgie/slides/02_desktop.html:9
+msgid ""
+"<strong>Budgie Desktop Settings</strong> lets you further customize your "
+"desktop; panels, fonts, themes, icons and autostart apps"
+msgstr ""
+"La <strong>Configuración del escritorio de Budgie</strong> le permite "
+"personalizar su escritorio: paneles, tipografías, temas, iconos e iniciar "
+"aplicaciones automáticamente"
+
+#. type: Content of: <div><div><li>
+#: slideshows/ubuntu-budgie/slides/02_desktop.html:10
 msgid ""
 "<strong>Budgie</strong> gets out of your way and provides a clutter free "
 "desktop experience"
@@ -100,15 +100,15 @@ msgstr "Saque el máximo partido de la web"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/03_browse.html:8
 msgid ""
-"With <strong>Chromium</strong> already installed, Ubuntu Budgie has "
+"With <strong>Firefox</strong> already installed, Ubuntu Budgie has "
 "everything you need to browse the web. Easy browsing, high performance, "
 "advanced security, powerful personalization and the cutting edge, all that "
-"is between your hands."
+"is in your hands."
 msgstr ""
-"Ubuntu Bugdie incluye <strong>Chromium</strong> ya preinstalado para "
-"ofrecerle todo lo que necesita para navegar por la web. Exploración "
-"sencilla, buen rendimiento, seguridad avanzada, personalización a fondo y "
-"tecnología de avanzada… Todo esto al alcance de su mano."
+"Con <strong>Firefox</strong> ya instalado, Ubuntu Budgie tiene todo lo que "
+"necesita para navegar la web. Navegación fácil, alto rendimiento, seguridad "
+"avanzada, personalización potente y lo más avanzado, todo esto está en sus "
+"manos."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/04_office.html:2
@@ -206,13 +206,11 @@ msgstr "¡Gracias por elegir e instalar <strong>Ubuntu Budgie</strong>!"
 #. type: Content of: <div><div><div><li>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:9
 msgid ""
-"Get help and support on our Google+ community (plus.google.com/"
-"+UbuntuBudgie) or on <strong>Launchpad</strong>: <a href=\"https://launchpad."
-"net/ubuntubudgie\">launchpad.net/ubuntubudgie</a>"
+"Get help and support with our Discourse community: <a "
+"href=\"https://discourse.ubuntubudgie.org\">discourse.ubuntubudgie.org</a>"
 msgstr ""
-"Reciba ayuda y asistencia a través de nuestra comunidad de Google+ (plus."
-"google.com/+UbuntuBudgie) o en <strong>Launchpad</strong>: <a href=\"https://"
-"launchpad.net/ubuntubudgie\">launchpad.net/ubuntubudgie</a>"
+"Obtenga ayuda y asistencia en nuestra comunidad de Discourse: <a "
+"href=\"https://discourse.ubuntubudgie.org\">discourse.ubuntubudgie.org</a>"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:10
@@ -227,3 +225,38 @@ msgstr ""
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:11
 msgid "Enjoy and have fun! 😃"
 msgstr "¡Disfrute y páselo bien! 😃"
+
+#~ msgid ""
+#~ "<strong>Budgie</strong> is built exclusively for desktop users. No mobile or "
+#~ "tablet here!"
+#~ msgstr ""
+#~ "<strong>Budgie</strong> se ha creado en exclusiva para usuarios de "
+#~ "sobremesa. ¡Aquí no hay componentes para móviles o tabletas!"
+
+#~ msgid ""
+#~ "<strong>Raven</strong> side panel lets you access applets,notifications and "
+#~ "customization center all in one place"
+#~ msgstr ""
+#~ "El panel lateral <strong>Raven</strong> le permite acceder a "
+#~ "miniaplicaciones, notificaciones y el centro de personalización; todo en un "
+#~ "solo sitio"
+
+#~ msgid ""
+#~ "With <strong>Chromium</strong> already installed, Ubuntu Budgie has "
+#~ "everything you need to browse the web. Easy browsing, high performance, "
+#~ "advanced security, powerful personalization and the cutting edge, all that "
+#~ "is between your hands."
+#~ msgstr ""
+#~ "Ubuntu Bugdie incluye <strong>Chromium</strong> ya preinstalado para "
+#~ "ofrecerle todo lo que necesita para navegar por la web. Exploración "
+#~ "sencilla, buen rendimiento, seguridad avanzada, personalización a fondo y "
+#~ "tecnología de avanzada… Todo esto al alcance de su mano."
+
+#~ msgid ""
+#~ "Get help and support on our Google+ community "
+#~ "(plus.google.com/+UbuntuBudgie) or on <strong>Launchpad</strong>: <a "
+#~ "href=\"https://launchpad.net/ubuntubudgie\">launchpad.net/ubuntubudgie</a>"
+#~ msgstr ""
+#~ "Reciba ayuda y asistencia a través de nuestra comunidad de Google+ "
+#~ "(plus.google.com/+UbuntuBudgie) o en <strong>Launchpad</strong>: <a "
+#~ "href=\"https://launchpad.net/ubuntubudgie\">launchpad.net/ubuntubudgie</a>"

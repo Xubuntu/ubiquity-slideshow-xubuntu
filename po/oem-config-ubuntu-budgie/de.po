@@ -7,16 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2018-04-26 12:04+0100\n"
-"PO-Revision-Date: 2018-05-15 15:15+0000\n"
-"Last-Translator: Phillip Sz <Unknown>\n"
+"POT-Creation-Date: 2019-03-13 15:38+0000\n"
+"PO-Revision-Date: 2019-03-24 19:53+0000\n"
+"Last-Translator: Torsten Franz <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-10-11 14:28+0000\n"
-"X-Generator: Launchpad (build 18790)\n"
+"X-Launchpad-Export-Date: 2019-03-28 21:20+0000\n"
+"X-Generator: Launchpad (build 18910)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-budgie/slides/01_welcome.html:2
@@ -77,15 +76,19 @@ msgstr ""
 #. type: Content of: <div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/02_desktop.html:10
 msgid ""
-"<strong>Raven</strong> side panel lets you access applets,notifications and "
-"customization center all in one place"
+"<strong>Raven</strong> side panel lets you access notifications, play music "
+"and sound control all in one place"
 msgstr ""
-"<strong>Raven</strong> Die Seitenleiste lässt sie auf Applets, "
-"Benachrichtigungen und das Personalisierungs-Center zugreifen. Alles an "
-"einem Ort."
 
 #. type: Content of: <div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/02_desktop.html:11
+msgid ""
+"<strong>Budgie Desktop Settings</strong> lets you further customize your "
+"desktop; panels, fonts, themes, icons and autostart apps"
+msgstr ""
+
+#. type: Content of: <div><div><li>
+#: slideshows/oem-config-ubuntu-budgie/slides/02_desktop.html:12
 msgid ""
 "<strong>Budgie</strong> gets out of your way and provides a clutter free "
 "desktop experience"
@@ -101,15 +104,15 @@ msgstr "Holen Sie das Beste aus dem Internet"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-budgie/slides/03_browse.html:8
 msgid ""
-"With <strong>Chromium</strong> already installed, Ubuntu Budgie has "
+"With <strong>Firefox</strong> already installed, Ubuntu Budgie has "
 "everything you need to browse the web. Easy browsing, high performance, "
 "advanced security, powerful personalization and the cutting edge, all that "
-"is between your hands."
+"is in your hands."
 msgstr ""
-"Mit dem bereits installiertem <strong>Chromium</strong> enthält Ubuntu "
-"Budgie alles, was Sie benötigen um im Web zu surfen. Einfaches Browsen, hohe "
-"Leistung, fortgeschrittene Sicherheit, starke Personalisierungsmöglichkeiten "
-"und Technik auf dem neueste Stand stehen zur Ihrer Verfügung."
+"Da <strong>Firefox</strong> bereits installiert ist, hat Ubuntu Budgie "
+"alles, was benötigt wird um im Internet zu surfen. Einfaches Surfen, hohe "
+"Geschwindigkeit, erweiterte Sicherheit, starke Personalisierung und die "
+"Spitzenposition – alles ist in Ihren Händen."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-budgie/slides/04_office.html:2
@@ -180,8 +183,8 @@ msgstr "Noch mehr Anwendungen finden"
 #: slideshows/oem-config-ubuntu-budgie/slides/07_software.html:8
 msgid "<strong>Say Goodbye to searching the web for a software</strong>"
 msgstr ""
-"<strong>Verabschieden Sie sich davon, im Web nach Software suchen zu müssen</"
-"strong>"
+"<strong>Verabschieden Sie sich davon, im Web nach Software suchen zu "
+"müssen</strong>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-budgie/slides/07_software.html:10
@@ -210,13 +213,11 @@ msgstr ""
 #. type: Content of: <div><div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/08_gethelp.html:9
 msgid ""
-"Get help and support on our Google+ community (plus.google.com/"
-"+UbuntuBudgie) or on <strong>Launchpad</strong>: <a href=\"https://launchpad."
-"net/ubuntubudgie\">launchpad.net/ubuntubudgie</a>"
+"Get help and support with our Discourse community: <a "
+"href=\"https://discourse.ubuntubudgie.org\">discourse.ubuntubudgie.org</a>"
 msgstr ""
-"Bekommen Sie Hilfe und Unterstützung von unserer Google+ Community (plus."
-"google.com/+UbuntuBudgie) oder auf  <strong>Launchpad</strong>: <a href="
-"\"https://launchpad.net/ubuntubudgie\">launchpad.net/ubuntubudgie</a>"
+"Erhalten Sie Hilfe und Unterstützung in unserer Discourse-Gemeinschaft:  <a "
+"href=\"https://discourse.ubuntubudgie.org\">discourse.ubuntubudgie.org</a>"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/08_gethelp.html:10
@@ -225,10 +226,38 @@ msgid ""
 "our homepage: <a href=\"https://ubuntubudgie.org\">ubuntubudgie.org</a>"
 msgstr ""
 "Für weitere Informationen und Hinweise auf weitere nützliche Quellen, "
-"besuchen Sie bitte unsere Webseite: <a href=\"https://ubuntubudgie.org"
-"\">ubuntubudgie.org</a>"
+"besuchen Sie bitte unsere Webseite: <a "
+"href=\"https://ubuntubudgie.org\">ubuntubudgie.org</a>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/oem-config-ubuntu-budgie/slides/08_gethelp.html:11
 msgid "Enjoy and have fun! 😃"
 msgstr "Viel Vergnügen! 😃"
+
+#~ msgid ""
+#~ "<strong>Raven</strong> side panel lets you access applets,notifications and "
+#~ "customization center all in one place"
+#~ msgstr ""
+#~ "<strong>Raven</strong> Die Seitenleiste lässt sie auf Applets, "
+#~ "Benachrichtigungen und das Personalisierungs-Center zugreifen. Alles an "
+#~ "einem Ort."
+
+#~ msgid ""
+#~ "With <strong>Chromium</strong> already installed, Ubuntu Budgie has "
+#~ "everything you need to browse the web. Easy browsing, high performance, "
+#~ "advanced security, powerful personalization and the cutting edge, all that "
+#~ "is between your hands."
+#~ msgstr ""
+#~ "Mit dem bereits installiertem <strong>Chromium</strong> enthält Ubuntu "
+#~ "Budgie alles, was Sie benötigen um im Web zu surfen. Einfaches Browsen, hohe "
+#~ "Leistung, fortgeschrittene Sicherheit, starke Personalisierungsmöglichkeiten "
+#~ "und Technik auf dem neueste Stand stehen zur Ihrer Verfügung."
+
+#~ msgid ""
+#~ "Get help and support on our Google+ community "
+#~ "(plus.google.com/+UbuntuBudgie) or on <strong>Launchpad</strong>: <a "
+#~ "href=\"https://launchpad.net/ubuntubudgie\">launchpad.net/ubuntubudgie</a>"
+#~ msgstr ""
+#~ "Bekommen Sie Hilfe und Unterstützung von unserer Google+ Community "
+#~ "(plus.google.com/+UbuntuBudgie) oder auf  <strong>Launchpad</strong>: <a "
+#~ "href=\"https://launchpad.net/ubuntubudgie\">launchpad.net/ubuntubudgie</a>"

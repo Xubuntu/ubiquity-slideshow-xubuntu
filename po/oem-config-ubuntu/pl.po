@@ -7,17 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2018-04-26 12:04+0100\n"
-"PO-Revision-Date: 2016-03-23 10:18+0000\n"
-"Last-Translator: Krzysztof Tataradziński <Unknown>\n"
+"POT-Creation-Date: 2019-03-13 15:38+0000\n"
+"PO-Revision-Date: 2019-03-14 16:59+0000\n"
+"Last-Translator: GTriderXC <gtriderxc@yahoo.com>\n"
 "Language-Team: Polish <dominikowski@gmail.com>\n"
-"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-10-11 14:28+0000\n"
-"X-Generator: Launchpad (build 18790)\n"
+"X-Launchpad-Export-Date: 2019-03-28 21:21+0000\n"
+"X-Generator: Launchpad (build 18910)\n"
 "X-Poedit-Country: Poland\n"
+"Language: pl\n"
 "X-Poedit-Language: Polish\n"
 
 #. type: Content of: <div><h1>
@@ -98,11 +98,6 @@ msgstr "Obsługiwane oprogramowanie"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:23
-msgid "Flash"
-msgstr "Flash"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Przeglądarka internetowa Chromium"
 
@@ -114,22 +109,23 @@ msgstr "Pomoc i wsparcie"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
 msgid ""
-"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"The <span class=\"app\" data-app=\"docs\">official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
 "href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
 "Dock."
 msgstr ""
-"<span class=\"app\" data-app=\"docs\">Oficjalna dokumentacja</span> omawia "
-"wiele najważniejszych elementów Ubuntu. Jest dostępna zarówno <a href="
-"\"https://help.ubuntu.com\">w sieci</a>, jak i pod ikoną pomocy w doku."
+"<span class=\"app\" data-app=\"docs\">Oficjalna dokumentacja</span> pokrywa "
+"najpopularniejsze dziedziny Ubuntu. Dostępna jest <a "
+"href=\"https://help.ubuntu.com\">online</a> oraz jako ikona pomocy w panelu "
+"uruchamiania."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
-"teams/\">Local Community Team</a>."
+"your own language may be provided by your <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
 msgstr ""
 "Na <a href=\"http://askubuntu.com\">Ask Ubuntu</a> możesz zadawać pytania i "
 "szukać odpowiedzi na już zadane pytania. Wsparcie w Twoim języku może być "
@@ -139,10 +135,15 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"https://www."
-"ubuntu.com/support/community-support\">Community support</a> or <a href="
-"\"http://www.ubuntu.com/support\">Commercial support</a>."
+"For pointers to other useful resources, please visit <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Community "
+"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
+"support</a>."
 msgstr ""
+"Aby zdobyć więcej przydatnych informacji, odwiedź stronę <a "
+"href=\"https://www.ubuntu.com/support/community-support\">wsparcia "
+"społeczności</a> lub <a href=\"http://www.ubuntu.com/support\">wsparcia "
+"komercyjnego</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:2
@@ -167,6 +168,21 @@ msgstr ""
 #: slideshows/oem-config-ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Odtwarzacz muzyki Rhythmbox"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/oem-config-ubuntu/slides/music.html:18
+msgid "Available software"
+msgstr "Proponowane oprogramowanie"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/music.html:22
+msgid "Spotify"
+msgstr "Spotify"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/music.html:26
+msgid "VLC"
+msgstr "VLC"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
@@ -214,8 +230,9 @@ msgid ""
 "from the Ubuntu Software Center."
 msgstr ""
 "Shotwell jest podręcznym menedżerem kolekcji zdjęć, przygotowanym do obsługi "
-"różnego rodzaju sprzętu. Wystarczy podłączyć aparat lub telefon, aby w&nbsp;"
-"łatwy sposób skopiować je w&nbsp;bezpieczne miejsce lub opublikować.\r\n"
+"różnego rodzaju sprzętu. Wystarczy podłączyć aparat lub telefon, aby "
+"w&nbsp;łatwy sposób skopiować je w&nbsp;bezpieczne miejsce lub "
+"opublikować.\r\n"
 "Centrum oprogramowania Ubuntu zawiera również mnóstwo innych doskonałych "
 "programów graficznych, udostępniających wiele funkcjonalności."
 
@@ -268,3 +285,16 @@ msgstr ""
 "Szybki i pełen nowych funkcji — nowa wersja systemu Ubuntu ułatwia "
 "korzystanie z komputera bardziej niż kiedykolwiek. Oto kilka interesujących "
 "nowości…"
+
+#~ msgid "Flash"
+#~ msgstr "Flash"
+
+#~ msgid ""
+#~ "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+#~ "covers many of the most common areas about Ubuntu. It's available both <a "
+#~ "href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+#~ "Dock."
+#~ msgstr ""
+#~ "<span class=\"app\" data-app=\"docs\">Oficjalna dokumentacja</span> omawia "
+#~ "wiele najważniejszych elementów Ubuntu. Jest dostępna zarówno <a "
+#~ "href=\"https://help.ubuntu.com\">w sieci</a>, jak i pod ikoną pomocy w doku."

@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"POT-Creation-Date: 2019-03-13 15:37+0000\n"
 "PO-Revision-Date: 2018-04-27 16:04+0000\n"
 "Last-Translator: Marcos Lans <Unknown>\n"
 "Language-Team: Galician <gl@li.org>\n"
-"Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-10-11 14:28+0000\n"
-"X-Generator: Launchpad (build 18790)\n"
+"X-Launchpad-Export-Date: 2019-03-28 21:21+0000\n"
+"X-Generator: Launchpad (build 18910)\n"
+"Language: gl\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/00_Welcome.html:3
@@ -37,19 +37,22 @@ msgstr "Grazas por escoller Kubuntu!"
 #: slideshows/kubuntu/slides/00_Welcome.html:12
 msgid ""
 "Kubuntu combines the best of the KDE Community's software with Ubuntu's base "
-"to make a great desktop experience"
+"to make a great desktop experience."
 msgstr ""
-"Kubuntu combina o mellor software da comunidade KDE coa base de Ubuntu para "
-"facer unha gran experiencia de escritorio"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:13
 msgid ""
 "This slideshow will go over the default applications, how to get help, and "
-"how to contribute to Kubuntu"
+"how to contribute to Kubuntu."
 msgstr ""
-"Esta presentación repasará os aplicativos predeterminados, como obter axuda "
-"e como contribuír ao Kubuntu"
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/00_Welcome.html:14
+msgid ""
+"Some of the listed applications are only included in the default "
+"installation option."
+msgstr ""
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/01_Applications.html:3
@@ -68,10 +71,8 @@ msgstr ""
 #: slideshows/kubuntu/slides/01_Applications.html:8
 msgid ""
 "For everything else, you can install more software in Discover, our software "
-"center"
+"center."
 msgstr ""
-"Para todo o demais, pode instalar máis software en Discover, o noso centro "
-"de software"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:13
@@ -182,43 +183,46 @@ msgstr "Consiga axuda sobre Kubuntu"
 #: slideshows/kubuntu/slides/03_Get-Help.html:11
 msgid ""
 "If you need help, try Help from the menu, or the Help menu in most "
-"applications.  Let us know about your Kubuntu experience at <a href=\"http://"
-"www.kubuntu.org/community\">Kubuntu Community</a>!"
+"applications.  Let us know about your Kubuntu experience at <a "
+"href=\"http://www.kubuntu.org/community\">Kubuntu Community</a>!"
 msgstr ""
 "Se precisa axuda, probe coa Axuda do menú ou co menú de Axuda na maioría dos "
-"aplicativos. Cóntenos a súa experiencia na nosa <a href=\"http://www.kubuntu."
-"org/community\">Comunidade Kubuntu</a>!"
+"aplicativos. Cóntenos a súa experiencia na nosa <a "
+"href=\"http://www.kubuntu.org/community\">Comunidade Kubuntu</a>!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/03_Get-Help.html:14
 msgid ""
 "In addition to our extensive written help, the Kubuntu community in "
 "conjunction with the Ubuntu community, provides free technical support in "
-"person and over the Internet. Learn more at <a href=\"http://www.kubuntu.org/"
-"support\">Kubuntu Support</a>."
+"person and over the Internet."
 msgstr ""
-"Ademais da nosa axuda escrita amplamente, a comunidade Kulbuntu en unión coa "
-"comunidade Ubuntu proporciona asistencia técnica gratuíta en persoa e por "
-"internet. Infórmese na <a href=\"http://www.kubuntu.org/support\">Asistencia "
-"de Kubuntu</a>."
 
-#. type: Content of: <div><div><p><ul><li>
+#. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/03_Get-Help.html:18
 msgid ""
-"Kubuntu Community: <a href=\"https://www.kubuntu.org/community\">http://www."
-"kubuntu.org/community</a>"
+"Learn more at <a href=\"http://www.kubuntu.org/support\">Kubuntu Support</a>."
 msgstr ""
-"Comunidade do Kubuntu: <a href=\"https://www.kubuntu.org/community\">http://"
-"www.kubuntu.org/community</a>"
 
 #. type: Content of: <div><div><p><ul><li>
-#: slideshows/kubuntu/slides/03_Get-Help.html:19
+#: slideshows/kubuntu/slides/03_Get-Help.html:21
 msgid ""
-"Kubuntu Support: <a href=\"https://www.kubuntu.org/support\">http://www."
-"kubuntu.org/support</a>"
+"Kubuntu Community: <a "
+"href=\"https://www.kubuntu.org/community\">http://www.kubuntu.org/community</"
+"a>"
 msgstr ""
-"Asistencia do Kubuntu: <a href=\"https://www.kubuntu.org/support\">http://"
-"www.kubuntu.org/support</a>"
+"Comunidade do Kubuntu: <a "
+"href=\"https://www.kubuntu.org/community\">http://www.kubuntu.org/community</"
+"a>"
+
+#. type: Content of: <div><div><p><ul><li>
+#: slideshows/kubuntu/slides/03_Get-Help.html:22
+msgid ""
+"Kubuntu Support: <a "
+"href=\"https://www.kubuntu.org/support\">http://www.kubuntu.org/support</a>"
+msgstr ""
+"Asistencia do Kubuntu: <a "
+"href=\"https://www.kubuntu.org/support\">http://www.kubuntu.org/support</a>"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:3
@@ -233,28 +237,19 @@ msgstr "icono de usuarios breeze"
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:12
 msgid ""
-"The Kubuntu community consists of a group of individuals, who made up one of "
+"The Kubuntu community consists of a group of individuals who made up one of "
 "the greatest teams in the open source community, working on various aspects "
 "of the distribution, providing advice and technical support, as well as "
 "helping to promote Kubuntu to a wider audience."
 msgstr ""
-"A comunidade de Kubuntu consite dun grupo de persoas que conforman un dos "
-"máis grandes equipos da comunidade de código aberto, traballando en varios "
-"aspectos da distribución, proporcionando consello e asistencia técnica "
-"ademais de axudar a promocionar Kubuntu para un público máis amplo."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:19
 msgid ""
 "No matter your skill level, getting involved and helping to mold the future "
-"of Kubuntu is easy, and you are more than welcome to help out.Remember, it "
-"is easy to get involved and the work you do will be seen by millions of "
-"people around the world."
+"of Kubuntu is easy, and you are more than welcome to help out.  The work you "
+"do will be seen by millions of people around the world."
 msgstr ""
-"Non importa a súa habelencia, involucrarse e axudar a moldear o futuro do "
-"Kubuntu é doado e a súa axuda será máis que benvida. Lembre que é fácil "
-"participar e o traballo que faga será visto por millóns de persoas de todo o "
-"mundo."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:25
@@ -264,8 +259,62 @@ msgstr "A instalación rematará pronto. Esperamos que goce do Kubuntu!"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:28
 msgid ""
-"Kubuntu Manual: <a href=\"https://kubuntu.org/support/\">https://kubuntu.org/"
-"support</a>"
+"Kubuntu Manual: <a "
+"href=\"https://kubuntu.org/support/\">https://kubuntu.org/support</a>"
 msgstr ""
-"Manual do Kubuntu: <a href=\"https://kubuntu.org/support/\">https://kubuntu."
-"org/support</a>"
+"Manual do Kubuntu: <a "
+"href=\"https://kubuntu.org/support/\">https://kubuntu.org/support</a>"
+
+#~ msgid ""
+#~ "Kubuntu combines the best of the KDE Community's software with Ubuntu's base "
+#~ "to make a great desktop experience"
+#~ msgstr ""
+#~ "Kubuntu combina o mellor software da comunidade KDE coa base de Ubuntu para "
+#~ "facer unha gran experiencia de escritorio"
+
+#~ msgid ""
+#~ "In addition to our extensive written help, the Kubuntu community in "
+#~ "conjunction with the Ubuntu community, provides free technical support in "
+#~ "person and over the Internet. Learn more at <a "
+#~ "href=\"http://www.kubuntu.org/support\">Kubuntu Support</a>."
+#~ msgstr ""
+#~ "Ademais da nosa axuda escrita amplamente, a comunidade Kulbuntu en unión coa "
+#~ "comunidade Ubuntu proporciona asistencia técnica gratuíta en persoa e por "
+#~ "internet. Infórmese na <a href=\"http://www.kubuntu.org/support\">Asistencia "
+#~ "de Kubuntu</a>."
+
+#~ msgid ""
+#~ "The Kubuntu community consists of a group of individuals, who made up one of "
+#~ "the greatest teams in the open source community, working on various aspects "
+#~ "of the distribution, providing advice and technical support, as well as "
+#~ "helping to promote Kubuntu to a wider audience."
+#~ msgstr ""
+#~ "A comunidade de Kubuntu consite dun grupo de persoas que conforman un dos "
+#~ "máis grandes equipos da comunidade de código aberto, traballando en varios "
+#~ "aspectos da distribución, proporcionando consello e asistencia técnica "
+#~ "ademais de axudar a promocionar Kubuntu para un público máis amplo."
+
+#~ msgid ""
+#~ "This slideshow will go over the default applications, how to get help, and "
+#~ "how to contribute to Kubuntu"
+#~ msgstr ""
+#~ "Esta presentación repasará os aplicativos predeterminados, como obter axuda "
+#~ "e como contribuír ao Kubuntu"
+
+#~ msgid ""
+#~ "For everything else, you can install more software in Discover, our software "
+#~ "center"
+#~ msgstr ""
+#~ "Para todo o demais, pode instalar máis software en Discover, o noso centro "
+#~ "de software"
+
+#~ msgid ""
+#~ "No matter your skill level, getting involved and helping to mold the future "
+#~ "of Kubuntu is easy, and you are more than welcome to help out.Remember, it "
+#~ "is easy to get involved and the work you do will be seen by millions of "
+#~ "people around the world."
+#~ msgstr ""
+#~ "Non importa a súa habelencia, involucrarse e axudar a moldear o futuro do "
+#~ "Kubuntu é doado e a súa axuda será máis que benvida. Lembre que é fácil "
+#~ "participar e o traballo que faga será visto por millóns de persoas de todo o "
+#~ "mundo."

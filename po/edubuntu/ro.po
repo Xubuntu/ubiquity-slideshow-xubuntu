@@ -7,23 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"POT-Creation-Date: 2019-03-13 15:37+0000\n"
 "PO-Revision-Date: 2011-04-15 01:15+0000\n"
 "Last-Translator: Ciprian Pavel <Unknown>\n"
 "Language-Team: Romanian <ro@li.org>\n"
-"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-10-11 14:28+0000\n"
-"X-Generator: Launchpad (build 18790)\n"
+"X-Launchpad-Export-Date: 2019-03-28 21:21+0000\n"
+"X-Generator: Launchpad (build 18910)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
 msgid "Activate Accessibility"
 msgstr ""
 
-#.  "your" refers to a large group that includes the reader. 
+#. "your" refers to a large group that includes the reader.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:6
 msgid ""
@@ -35,8 +34,8 @@ msgstr ""
 "dizabilitățile fiecăruia. De aceea, oferim unelte care fac Edubuntu unul din "
 "cele mai accesibile sisteme de operare."
 
-#.  The string "Assistive Technologies Preferences" is describing a particular menu item: System >
-#.  Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention. 
+#. The string "Assistive Technologies Preferences" is describing a particular menu item: System >
+#. Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:7
 msgid ""
@@ -50,8 +49,8 @@ msgstr ""
 "precum <em>Orca</em>, care citește textele de pe ecran, sau clic staționar "
 "ce apasă automat butoanele mausului."
 
-#.  As before, the string "Appearance Preferences" is describing a particular menu item: System >
-#.  Preferences > Appearance. Certain words were kept the same to make the menu item discoverable. 
+#. As before, the string "Appearance Preferences" is describing a particular menu item: System >
+#. Preferences > Appearance. Certain words were kept the same to make the menu item discoverable.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/accessibility.html:8
 msgid ""
@@ -72,7 +71,8 @@ msgstr ""
 #: slideshows/edubuntu/slides/arkose.html:6
 msgid ""
 "<em>Arkose</em> allows you to run an application in a contained environment."
-msgstr "<em>Arkose</em> vă permite să rulați aplicații într-un mediu protejat."
+msgstr ""
+"<em>Arkose</em> vă permite să rulați aplicații într-un mediu protejat."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:7
@@ -98,8 +98,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
-"em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome "
+"Calculator</em>."
 msgstr ""
 "Edubuntu vine cu ultima versiune a puternicului <em>Calculator Gnome</em>."
 
@@ -196,7 +196,7 @@ msgstr "<em>Gimp</em> este un puternic editor de imagini și fotografii."
 msgid "Get Involved"
 msgstr "Implicați-vă"
 
-#.  The string "Help and Support" should be exactly as it appears in the System menu. 
+#. The string "Help and Support" should be exactly as it appears in the System menu.
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:6
 msgid ""
@@ -206,7 +206,7 @@ msgstr ""
 "Dacă aveți nevoie de ajutor, încercați <em>Ajutor și asistență</em> din "
 "meniul Sistem sau meniul <em>Ajutor</em> din majoritatea aplicațiilor."
 
-#.  The url "edubuntu.org/support" should not be translated 
+#. The url "edubuntu.org/support" should not be translated
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:7
 msgid ""
@@ -225,15 +225,15 @@ msgstr ""
 msgid "edubuntu.org</a>"
 msgstr "edubuntu.org</a>"
 
-#.  The url "edubuntu.org/community" should not be translated 
+#. The url "edubuntu.org/community" should not be translated
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
-"community\">"
+"Let us know about your Edubuntu experience at <a "
+"href=\"http://edubuntu.com/community\">"
 msgstr ""
-"Spuneți-ne mai multe despre experiența folosirii Edubuntu la <a href="
-"\"http://edubuntu.com/community\">"
+"Spuneți-ne mai multe despre experiența folosirii Edubuntu la <a "
+"href=\"http://edubuntu.com/community\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -319,12 +319,14 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
-msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgid ""
+"<em>Epoptes</em> allows a lecturer to take control of student desktops."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:7
-msgid "Broadcast a desktop session to all users to demonstrate a new concept."
+msgid ""
+"Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 "Transmiteți o sesiune desktop către toți utilizatorii pentru a demonstra un "
 "nou concept."
@@ -384,7 +386,8 @@ msgstr ""
 #: slideshows/edubuntu/slides/freemind.html:8
 #: slideshows/edubuntu/slides/vym.html:8
 msgid "Make subsections stand out with cloud bubbles and custom colours."
-msgstr "Evidențiați subsecțiuni cu buline de tip nor și culori personalizate."
+msgstr ""
+"Evidențiați subsecțiuni cu buline de tip nor și culori personalizate."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:9
@@ -437,8 +440,9 @@ msgid ""
 "Need more software? Try the <em>Ubuntu Software Center</em> to choose from "
 "thousands of extras you can download for free."
 msgstr ""
-"Aveți nevoie de mai multe aplicații? încercați <em>Centrul Software Ubuntu</"
-"em> pentru a alege din miile de aplicații ce pot fi descărcate gratuit."
+"Aveți nevoie de mai multe aplicații? încercați <em>Centrul Software "
+"Ubuntu</em> pentru a alege din miile de aplicații ce pot fi descărcate "
+"gratuit."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:7
@@ -639,8 +643,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:8
 msgid ""
-"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
-"em>."
+"Learn basic computer skills and unleash your creativity with "
+"<em>TuxPaint</em>."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>

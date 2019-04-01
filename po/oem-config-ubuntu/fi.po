@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2018-04-26 12:04+0100\n"
-"PO-Revision-Date: 2018-04-06 08:58+0000\n"
+"POT-Creation-Date: 2019-03-13 15:38+0000\n"
+"PO-Revision-Date: 2019-03-16 09:59+0000\n"
 "Last-Translator: Jiri Grönroos <Unknown>\n"
 "Language-Team: Finnish <fi@li.org>\n"
-"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-10-11 14:28+0000\n"
-"X-Generator: Launchpad (build 18790)\n"
+"X-Launchpad-Export-Date: 2019-03-28 21:21+0000\n"
+"X-Generator: Launchpad (build 18910)\n"
+"Language: fi\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -96,11 +96,6 @@ msgstr "Tuetut ohjelmistot"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:23
-msgid "Flash"
-msgstr "Flash"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -112,39 +107,40 @@ msgstr "Ohjeet ja tuki"
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:8
 msgid ""
-"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"The <span class=\"app\" data-app=\"docs\">official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
 "href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
 "Dock."
 msgstr ""
 "<span class=\"app\" data-app=\"docs\">Virallinen dokumentaatio</span> kattaa "
-"useimmat Ubuntuun liittyvät yleisimmät aihealueet. Se on saatavilla sekä <a "
-"href=\"https://help.ubuntu.com\">verkon kautta</a> että paikallisesti "
-"telakan ohjekuvakkeen takaa."
+"useimmat yleisimmät Ubuntun osa-alueet. Dokumentaatio on saatavilla <a "
+"href=\"https://help.ubuntu.com\">verkossa</a> ja telakan Ohje-kuvaketta "
+"napsauttamalla."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
-"teams/\">Local Community Team</a>."
+"your own language may be provided by your <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
 msgstr ""
 "<a href=\"http://askubuntu.com\">Ask Ubuntu</a> -palvelussa on mahdollista "
 "kysyä kysymyksiä ja selata suurta määrää aiempia vastauksia kysymyksiin. "
-"Tukea omalla kielelläsi voi löytyä <a href=\"http://loco.ubuntu.com/teams/"
-"\">Ubuntun paikallistiimin</a> kautta."
+"Tukea omalla kielelläsi voi löytyä <a "
+"href=\"http://loco.ubuntu.com/teams/\">Ubuntun paikallistiimin</a> kautta."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"https://www."
-"ubuntu.com/support/community-support\">Community support</a> or <a href="
-"\"http://www.ubuntu.com/support\">Commercial support</a>."
+"For pointers to other useful resources, please visit <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Community "
+"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
+"support</a>."
 msgstr ""
-"Vinkkejä ja muita hyödyllisiä resursseja tarjoaa <a href=\"https://www."
-"ubuntu.com/support/community-support\">yhteisön tuki</a> ja <a href=\"http://"
-"www.ubuntu.com/support\">kaupallinen tuki</a>."
+"Vinkkejä ja muita hyödyllisiä resursseja tarjoaa <a "
+"href=\"https://www.ubuntu.com/support/community-support\">yhteisön tuki</a> "
+"ja <a href=\"http://www.ubuntu.com/support\">kaupallinen tuki</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:2
@@ -168,6 +164,21 @@ msgstr ""
 #: slideshows/oem-config-ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Rytmilaatikko-musiikkisoitin"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/oem-config-ubuntu/slides/music.html:18
+msgid "Available software"
+msgstr "Saatavilla olevat ohjelmistot"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/music.html:22
+msgid "Spotify"
+msgstr "Spotify"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/music.html:26
+msgid "VLC"
+msgstr "VLC"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
@@ -268,3 +279,17 @@ msgstr ""
 "Ubuntun uusimman version nopeus ja uudet ominaisuudet tekevät tietokoneen "
 "käyttämisestä helpompaa kuin koskaan ennen. Kiinnitä seuraaviin asioihin "
 "huomiota, kun tutustut uuteen käyttöjärjestelmääsi..."
+
+#~ msgid "Flash"
+#~ msgstr "Flash"
+
+#~ msgid ""
+#~ "The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+#~ "covers many of the most common areas about Ubuntu. It's available both <a "
+#~ "href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+#~ "Dock."
+#~ msgstr ""
+#~ "<span class=\"app\" data-app=\"docs\">Virallinen dokumentaatio</span> kattaa "
+#~ "useimmat Ubuntuun liittyvät yleisimmät aihealueet. Se on saatavilla sekä <a "
+#~ "href=\"https://help.ubuntu.com\">verkon kautta</a> että paikallisesti "
+#~ "telakan ohjekuvakkeen takaa."
