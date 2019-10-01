@@ -1,3 +1,16 @@
+ubiquity-slideshow-ubuntu (149) UNRELEASED; urgency=medium
+
+  [ Martin Wimpress ]
+  * Update Ubuntu MATE slides to reflect new default apps.
+    (LP: #1843297, #1843311)
+
+  * debian/control:
+    + Change Conflicts/Replaces from oem-config-slideshow-ubuntu to
+      oem-config-slideshow for oem-slideshow-ubuntu-{mate,budgie}
+      (LP: #1842047, #1713720)
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Tue, 01 Oct 2019 18:23:37 +0200
+
 ubiquity-slideshow-ubuntu (148) eoan; urgency=medium
 
   [ Will Cooke ]
