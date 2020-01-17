@@ -27,15 +27,15 @@ ol, ul {
 html, body {
 	margin:0;
 	padding:0;
-	
+
 	background-color:#F7F6F6;
-	
+
 	font-family:'Ubuntu', 'UbuntuBeta', sans-serif;
 	font-size:12px;
 	line-height:1.4em;
-	
+
 	color:#333333;
-	
+
 	/* no reason to expose this extra stuff to the user */
 	-webkit-user-select:none;
 	-moz-user-select:none;
@@ -47,8 +47,9 @@ html, body {
 Hyperlink-style text
 */
 a {
-	color:#19B6EE;
+	color: #ffffff; 
 	text-decoration:none;
+	font-weight: bold;
 	display:inline;
 }
 
@@ -62,7 +63,7 @@ strong {
 
 #wrapper {
 	position:absolute;
-	
+
 	width:752px;
 	height:100%;
 }
@@ -82,12 +83,12 @@ strong {
 .control-arrow {
 	display:block;
 	position:absolute;
-	
+
 	z-index:100;
 	top:218px;
 	height:64px;
 	width:33px;
-	
+
 	background-repeat:no-repeat;
 	cursor:pointer;
 }
@@ -119,18 +120,17 @@ strong {
 	top:0px;
 	width:100%;
 	height:68px;
-	background-color:#2b2929;
+	background-color:#3C3B37;
 }
 
 .header > .slidetitle {
 	display:table-cell;
 	padding:0px 25px;
 	vertical-align:middle;
-	
 	font-size:24px;
 	line-height:30px;
 	font-weight:normal;
-	color:#f9f9f9;
+	color: #f9f9f9; /*#DED9CB; */
 }
 .header > .slidetitle img {
 	display: block;
@@ -138,14 +138,15 @@ strong {
 
 .main {
 	position:absolute;
-	top:70px; /* 68px + 2px margin */
-	bottom:2px;
-	left:2px;
-	right:2px;
+	top:68px; /* 68px + 2px margin */
+	bottom:0px;
+	left:0px;
+	right:0px;
 	min-height:370px; /* 442px (from #slideshow) - 70px - 2px */
-	
-	/* move this to #slideshow if we don't want the background image to move with slides */
 	background-image:url('background.png');
+	background-repeat: no-repeat;
+	/* move this to #slideshow if we don't want the background image to move with slides */
+	/* background-image:url('background.png'); */
 }
 
 .main.wide {
@@ -174,7 +175,9 @@ Inner space is 224px wide.
 .text > div {
 	margin-bottom:8px;
 	padding:6px 12px;
-	background-color:#F7F6F6;
+	color: #ffffff;
+	background: rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
 }
 .text > div:last-child {
 	margin-bottom:0px;
@@ -186,7 +189,7 @@ Inner space is 224px wide.
 	font-size:inherit;
 	font-weight:normal;
 	text-decoration:none;
-	border-bottom:#333333 dotted 1px;
+	border-bottom:#d04e21 dotted 1px;
 }
 
 .main.wide > .text {
@@ -227,12 +230,12 @@ Inner space is 224px wide.
 	position:absolute;
 	top:25px;
 	right:-2px; /* offsets 2px margin of .main */
-	
+
 	z-index:2;
-	
-	-webkit-box-shadow:#999999 0px 0px 5px;
+
+	/* -webkit-box-shadow:#999999 0px 0px 5px;
 	-moz-box-shadow:#999999 0px 0px 5px;
-	box-shadow:#999999 0px 0px 5px;
+	box-shadow:#999999 0px 0px 5px; */
 }
 
 /* Expects screenshot to be 748x370 px */
@@ -244,22 +247,22 @@ Inner space is 224px wide.
 	-webkit-box-shadow:none;
 	-moz-box-shadow:none;
 	box-shadow:none;
-	
+
 	z-index:0;
 }
 
 .main.wide > .twitter-stream {
 	display:none; /* always revealed by javascript */
-	
+
 	position:absolute;
 	width:334px;
 	height:304px; /* 304 - 22 (for .twitter-stream-input) */
 	top:25px;
 	right:16px;
 	z-index:2;
-	
+
 	padding:0 6px;
-	
+
 	color:#eee;
 }
 
@@ -270,15 +273,15 @@ Inner space is 224px wide.
 .twitter-stream .twitter-stream-header h2 {
 	display:inline;
 	color:#fff;
-	
+
 	font-size:16px;
 }
 .twitter-stream .twitter-stream-header img {
 	opacity:0.6;
 	float:right;
-	
+
 	margin-left:22px;
-	
+
 	-webkit-transition:opacity 150ms linear;
 }
 .twitter-stream .twitter-stream-header:hover img {
@@ -287,9 +290,9 @@ Inner space is 224px wide.
 
 .twitter-stream .twitter-stream-tweets {
 	overflow:hidden;
-	
+
 	height:100%;
-	
+
 	/* Warning: this is non-standard, only works in Webkit, could break at any time */
 	-webkit-mask-image:-webkit-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,0) 100%);
 }
@@ -329,15 +332,15 @@ Inner space is 224px wide.
 
 .twitter-stream input.twitter-stream-input {
 	width:100%;
-	
+
 	-webkit-box-sizing:border-box;
 	padding:4px 2px 4px 22px;
-	
+
 	background-color:rgba(0, 0, 0, 0);
 	border:none;
 	outline:none;
 	color:#fff;
-	
+
 	background-image:url('twitter-bird-16.png');
 	background-position:left center;
 	background-repeat:no-repeat;
@@ -403,4 +406,3 @@ img {
 .l10n-string {
 	display:none;
 }
-
