@@ -1,3 +1,11 @@
+ubiquity-slideshow-ubuntu (153ubuntu1) UNRELEASED; urgency=medium
+
+  * debian/control:
+    - remove the Build-Depends on python-utidylib, it not needed anymore
+      and the package has been removed from focal
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 05 Mar 2020 12:32:39 +0100
+
 ubiquity-slideshow-ubuntu (153) focal; urgency=medium
 
   * Add Focal Fossa artwork.
