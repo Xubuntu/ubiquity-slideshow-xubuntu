@@ -1,183 +1,104 @@
-# Chinese (Simplified) translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2019-09-18 15:07+0800\n"
-"PO-Revision-Date: 2017-10-17 15:25+0000\n"
-"Last-Translator: Ma Jun <majun@ubuntukylin.com>\n"
-"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-03-10 20:53+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2019-10-10 13:36+0000\n"
-"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
-#. type: Content of: <div><div><div><h1>
-#: slideshows/ubuntukylin/slides/community.html:5
-msgid "Ubuntu Kylin Community"
-msgstr "优麒麟社区"
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/control-center.html:5
+msgid "UKUI Control Center"
+msgstr "控制面板"
 
-#. type: Content of: <div><div><div><h2><p>
-#: slideshows/ubuntukylin/slides/community.html:8
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/control-center.html:7
 msgid ""
-"Ubuntu Kylin Community will maintain a communication platform for the "
-"ubiquitous \"Youker Friends\" to exchange the latest and the most "
-"professional technical information and community news--by utilizing official "
-"website, forums, QQ, weibo, weixin, and various other channels."
-msgstr ""
-"优麒麟社区维护一个为无处不在的优客搭建的交流平台，利用官方网站、论坛、QQ、微博、微信以及其他各种渠道交流最新和最专业的技术信息和社区新闻。"
+"More accurate classification, more convenient operation, and more concise "
+"interface"
+msgstr "分类更精准，操作更便利，界面更简洁"
 
-#. type: Content of: <div><div><div><h1>
-#: slideshows/ubuntukylin/slides/kylin-burner.html:5
-msgid "Kylin Burner"
-msgstr "麒麟刻录器"
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/hardware.html:4
+msgid "Mainstream Hardware Platforms"
+msgstr "主流硬件平台"
 
-#. type: Content of: <div><div><div><h2><p>
-#: slideshows/ubuntukylin/slides/kylin-burner.html:8
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/hardware.html:5
 msgid ""
-"Data and ISO recording is available in Kylin Record. Burning and continue-"
-"burning of CD/DVD-R and DVD+R are supported. It is a pleasant, stable and "
-"lightweight application."
-msgstr "提供数据和ISO镜像刻录，支持CD/DVD-R和DVD+R的刻录和续刻。提供界面友好、稳定和轻量化的刻录体验。"
+"Supporting mainstream hardware platforms including Intel, AMD, Kunpeng and "
+"Phytium"
+msgstr "支持Intel、AMD、鲲鹏、飞腾等硬件平台"
 
-#. type: Content of: <div><div><div><h1>
-#: slideshows/ubuntukylin/slides/kylin-video.html:5
-msgid "Kylin Video"
-msgstr "麒麟影音"
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/long-support.html:4
+msgid "Long-term Online Support"
+msgstr "长期在线支持"
 
-#. type: Content of: <div><div><div><h2><p>
-#: slideshows/ubuntukylin/slides/kylin-video.html:8
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/long-support.html:6
+msgid "Free system support and updates for up to 5 years"
+msgstr "免费为个人用户提供长达5年系统支持和更新"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/newdesktop-environment.html:5
+msgid "New Desktop Environment"
+msgstr "全新桌面环境"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/newdesktop-environment.html:7
+msgid "Brand new design, more concise and easy to use"
+msgstr "全新设计开始菜单、面板等组件，更加简洁易用"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/panel.html:5
+msgid "UKUI Panel"
+msgstr "任务栏"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/panel.html:7
+msgid "Quick app preview, easy notification management, unified plugin style"
+msgstr "应用快速预览，通知便捷管理，插件风格统一"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/rich-applications.html:5
+msgid "Rich Featured Applications"
+msgstr "丰富特色应用"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/rich-applications.html:7
+msgid "Lylin series applications installed, pursuing ultimate user experience"
+msgstr "主导研发麒麟系统特色应用，追求极致用户体验"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/stablekernel.html:5
+msgid "Latest Stable Kerne"
+msgstr "最新稳定内核"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/stablekernel.html:7
+msgid "Linux 5.4 LTS kernel inside, covering latest cutting-edge technologies"
+msgstr "基于Linux 5.4 LTS内核，前沿技术尽在其中"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/startmenu.html:5
+msgid "UKUI Start Menu"
+msgstr "开始菜单"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/startmenu.html:7
 msgid ""
-"Kylin Video is an open source video player using Qt5 based on SMPlayer. It "
-"surpports many video formats to offer a delighted watching experience for "
-"users. What is more, the interface is simple and easy."
-msgstr ""
-"麒麟影音是一款基于SMPlayer的开源视频播放器，使用Qt5实现。支持众多视频格式，提供更加友好的用户交互和使用体验，界面更加简洁易用。"
-
-#. type: Content of: <div><div><div><h1>
-#: slideshows/ubuntukylin/slides/pdf.html:5
-msgid "PDF Reader"
-msgstr "PDF阅读器"
-
-#. type: Content of: <div><div><div><h3><p>
-#: slideshows/ubuntukylin/slides/pdf.html:8
-msgid ""
-"Wendun Foxit Reader is based on Linux Foxit Reader, specially customized for "
-"Chinese users. A more convenient installation is supported, plus PDF "
-"documemt reading/ bookmark/ annotation and print etc.."
-msgstr "文盾福昕阅读器是基于福昕阅读器Linux版本转为中文用户定制的版本。安装更加方便，支持PDF文档的阅读、书签、注释和打印等功能。"
-
-#. type: Content of: <div><div><div><h1>
-#: slideshows/ubuntukylin/slides/software-center.html:5
-msgid "Software Center"
-msgstr "软件中心"
-
-#. type: Content of: <div><div><div><h2><p>
-#: slideshows/ubuntukylin/slides/software-center.html:8
-msgid ""
-"Ubuntu Kylin Software Center is designed with GUI much easy for Chinese. It "
-"supports both Ubuntu and Ubuntu Kylin archives. You can enjoy popular "
-"Chinese applications co-developed by Ubuntu Kylin team!"
-msgstr ""
-"Ubuntu Kylin 软件中心设计更易于中国人使用的图形用户界面。同时支持 Ubuntu 和 Ubuntu Kylin 软件仓库，便于快速安装 "
-"Ubuntu Kylin 团队合作推出的中文特色软件！"
-
-#. type: Content of: <div><div><div><h1>
-#: slideshows/ubuntukylin/slides/sogou.html:5
-msgid "Sogou Input Method"
-msgstr "搜狗输入法"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntukylin/slides/sogou.html:8
-msgid ""
-"Sogou Input Method for Linux is co-developed by Ubuntu Kylin team and Sogou "
-"Corp.. It is based on Fcitx framework and supports the same user experience "
-"with Windows, Mac version."
-msgstr ""
-"搜狗输入法Linux版是由优麒麟团队和搜狗公司合作开发。它基于Fcitx输入法框架，提供与Windows、Mac等平台上搜狗输入法一样的用户体验。"
-
-#. type: Content of: <div><div><div><h1>
-#: slideshows/ubuntukylin/slides/ukui.html:3
-msgid "A Brand New Desktop Environment"
-msgstr "全新的桌面环境"
-
-#. type: Content of: <div><div><div><h3><p>
-#: slideshows/ubuntukylin/slides/ukui.html:5
-msgid ""
-"UKUI desktop environment is a brand new product for Chinese users. From "
-"start menu, status bar, panel icons to file manager and control panel, you "
-"will experience a smooth and beautiful system. More function in details are "
-"awaiting you to find out."
-msgstr ""
-"UKUI桌面环境是根据中国用户的使用习惯开发的全新桌面环境。从开始菜单、状态栏、托盘图标和控制面板等，都将提供更加简洁美观的使用体验。更多实用功能期待您去"
-"体验。"
-
-#. type: Content of: <div><div><div><h1>
-#: slideshows/ubuntukylin/slides/weixin.html:5
-msgid "Wechat Web Client"
-msgstr "微信网页客户端"
-
-#. type: Content of: <div><div><div><h2><p>
-#: slideshows/ubuntukylin/slides/weixin.html:8
-msgid ""
-"Ubuntu Kylin offers a Wechat client on Web for users. It can be downloaded "
-"from Kylin software Center or www.ubuntukylin.com."
-msgstr "优麒麟提供了一个微信网页客户端程序方便用户使用。该程序可以从优麒麟软件中心或者www.ubuntukylin.com官网下载。"
-
-#. type: Content of: <div><div><div><h1>
-#: slideshows/ubuntukylin/slides/welcome.html:7
-msgid "Thank You For Choosing Ubuntu Kylin Desktop Operating System"
-msgstr "感谢您选择优麒麟开源桌面操作系统"
-
-#. type: Content of: <div><div><div><h6><p>
-#: slideshows/ubuntukylin/slides/welcome.html:10
-msgid ""
-"Ubuntu Kylin is an open-source desktop Linux operating system created in "
-"2013 and is one of the official Ubuntu flavor. With hundreds of thousands of "
-"active users worldwide, the goal is to provide Linux open source desktop "
-"operating systems with Windows-like operating experiences for users "
-"worldwide. This release version is 19.10."
-msgstr ""
-
-#. type: Content of: <div><div><div><h6><p>
-#: slideshows/ubuntukylin/slides/welcome.html:11
-msgid "The following pictures will show you what we have done."
-msgstr ""
-
-#. type: Content of: <div><div><div><h1>
-#: slideshows/ubuntukylin/slides/wps.html:5
-msgid "Office Suite"
-msgstr "办公套件"
-
-#. type: Content of: <div><div><div><h4><p>
-#: slideshows/ubuntukylin/slides/wps.html:8
-msgid ""
-"Linux Kingsoft WPS is compatible with Windows WPS. Fangzheng font is "
-"available in Linux Kingsoft WPS. Abundant online module and material make "
-"your document production more convenient."
-msgstr "WPS办公套件linux版提供与其Windwos版兼容的体验和格式支持，提供方正字体以及各种在线模板素材，将使您的文档办公更加方便高效。"
-
-#. type: Content of: <div><div><div><h1>
-#: slideshows/ubuntukylin/slides/youker-series.html:5
-msgid "Youker Series"
-msgstr "优客系列"
-
-#. type: Content of: <div><div><div><h2><p>
-#: slideshows/ubuntukylin/slides/youker-series.html:8
-msgid ""
-"Youker Assistantant and Youker Weather are developed for Ubuntu Kylin users "
-"only. Powerful system information demonstration , clear system gabbage by "
-"one click, system custom beautify and weather information etc. are "
-"supported. Basically, a smooth, easy-to-use and substantial desktop is "
-"guaranteed."
-msgstr "优客助手和优客天气是针对Linux用户提供的系统辅助软件。提供强大的系统信息查看、系统垃圾清理、系统美化设置以及天气信息等。"
-
-#~ msgid ""
-#~ "The following pictures will show you what we have done in localization for "
-#~ "Chinese users."
-#~ msgstr "以下图片将会展示我们为中国用户所做的本地化工作。"
+"Amazing upgrades with noval dark theme, full screen browsing and application "
+"classification"
+msgstr "全新升级，新增主题、全屏、应用分类等功能"
