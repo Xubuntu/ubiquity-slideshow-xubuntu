@@ -1,24 +1,26 @@
-# Chinese (Simplified) translation for ubiquity-slideshow-ubuntu.
-# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016.
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"POT-Creation-Date: 2019-09-17 17:39+0800\n"
-"PO-Revision-Date: Fri, 10 Mar 2017 16:44:17 +0800\n"
-"Last-Translator: Luo Lei <luolei@ubuntukylin.com>\n"
-"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-03-13 09:47+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/community.html:5
 msgid "Ubuntu Kylin Community"
-msgstr "優麒麟社區"
+msgstr ""
 
 #. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/community.html:8
@@ -28,13 +30,35 @@ msgid ""
 "professional technical information and community news--by utilizing official "
 "website, forums, QQ, weibo, weixin, and various other channels."
 msgstr ""
-"優麒麟(Ubuntu Kylin)社區通過官網、論壇、QQ 群、微博、微信等多種渠道爲您傳遞最"
-"新、最專業的技術咨詢和社區動態，爲廣大優客朋友提供交流平台。"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/control-center.html:5
+msgid "UKUI Control Center"
+msgstr ""
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/control-center.html:7
+msgid ""
+"More accurate classification, more convenient operation, and more concise "
+"interface"
+msgstr ""
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/hardware.html:4
+msgid "Mainstream Hardware Platforms"
+msgstr ""
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/hardware.html:5
+msgid ""
+"Supporting mainstream hardware platforms including Intel, AMD, Kunpeng and "
+"Phytium"
+msgstr ""
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/kylin-burner.html:5
 msgid "Kylin Burner"
-msgstr "簡單易用的麒麟刻錄"
+msgstr ""
 
 #. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/kylin-burner.html:8
@@ -43,13 +67,11 @@ msgid ""
 "burning of CD/DVD-R and DVD+R are supported. It is a pleasant, stable and "
 "lightweight application."
 msgstr ""
-"提供簡單易用的數據刻錄和鏡像刻錄功能，支持CD、DVD-R及DVD+R格式的光盤刻錄與續"
-"刻，是一款界面美觀、功能穩定的輕量級光盤刻錄軟件。"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/kylin-video.html:5
 msgid "Kylin Video"
-msgstr "酷炫的麒麟影音"
+msgstr ""
 
 #. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/kylin-video.html:8
@@ -58,13 +80,41 @@ msgid ""
 "surpports many video formats to offer a delighted watching experience for "
 "users. What is more, the interface is simple and easy."
 msgstr ""
-"麒麟影音是一款基於SMPlayer，使用Qt5進行開發的開源視屏播放器，支持絕大部分視屏"
-"格式播放，界面風格清新，用戶操作簡單。"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/long-support.html:4
+msgid "Long-term Online Support"
+msgstr ""
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/long-support.html:6
+msgid "Free system support and updates for up to 5 years"
+msgstr ""
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/newdesktop-environment.html:5
+msgid "New Desktop Environment"
+msgstr ""
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/newdesktop-environment.html:7
+msgid "Brand new design, more concise and easy to use"
+msgstr ""
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/panel.html:5
+msgid "UKUI Panel"
+msgstr ""
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/panel.html:7
+msgid "Quick app preview, easy notification management, unified plugin style"
+msgstr ""
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/pdf.html:5
 msgid "PDF Reader"
-msgstr "便捷的PDF文件查看"
+msgstr ""
 
 #. type: Content of: <div><div><div><h3><p>
 #: slideshows/ubuntukylin/slides/pdf.html:8
@@ -73,14 +123,21 @@ msgid ""
 "Chinese users. A more convenient installation is supported, plus PDF "
 "documemt reading/ bookmark/ annotation and print etc.."
 msgstr ""
-"文盾福昕閱讀器以福昕閱讀器Linux版本爲基礎，針對中文用戶定制，安裝使用更加方"
-"便，並提供PDF文件閱讀、書簽、注釋、打印等功能，讓您的PDF文件查看和使用更加輕"
-"松便捷。"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/rich-applications.html:5
+msgid "Rich Featured Applications"
+msgstr ""
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/rich-applications.html:7
+msgid "Kylin series applications installed, pursuing ultimate user experience"
+msgstr ""
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/software-center.html:5
 msgid "Software Center"
-msgstr "方便快捷的軟件中心"
+msgstr ""
 
 #. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/software-center.html:8
@@ -89,13 +146,11 @@ msgid ""
 "supports both Ubuntu and Ubuntu Kylin archives. You can enjoy popular "
 "Chinese applications co-developed by Ubuntu Kylin team!"
 msgstr ""
-"專爲中文用戶開發的軟件中心，界面簡潔，同時支持 Ubuntu 和優麒麟(Ubuntu Kylin)"
-"軟件倉庫，便于快速安裝優麒麟(Ubuntu Kylin)團隊爲您定制的商業軟件！"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/sogou.html:5
 msgid "Sogou Input Method"
-msgstr "強大的中文輸入"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntukylin/slides/sogou.html:8
@@ -104,13 +159,33 @@ msgid ""
 "Corp.. It is based on Fcitx framework and supports the same user experience "
 "with Windows, Mac version."
 msgstr ""
-"與搜狗公司聯合傾力打造，基於小企鵝輸入法框架，具備與Windows、Mac版本完全一致"
-"的用戶體驗，讓您的中文輸入鍵字如飛"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/stablekernel.html:5
+msgid "Latest Stable Kernel"
+msgstr ""
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/stablekernel.html:7
+msgid "Linux 5.4 LTS kernel inside, covering latest cutting-edge technologies"
+msgstr ""
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/startmenu.html:5
+msgid "UKUI Start Menu"
+msgstr ""
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/startmenu.html:7
+msgid ""
+"Amazing upgrades with noval dark theme, full screen browsing and application "
+"classification"
+msgstr ""
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/ukui.html:3
 msgid "A Brand New Desktop Environment"
-msgstr "全新的桌面環境"
+msgstr ""
 
 #. type: Content of: <div><div><div><h3><p>
 #: slideshows/ubuntukylin/slides/ukui.html:5
@@ -120,14 +195,11 @@ msgid ""
 "will experience a smooth and beautiful system. More function in details are "
 "awaiting you to find out."
 msgstr ""
-"UKUI桌面環境轉爲中文用戶傾力打造的全新桌面環境，從開始菜單、狀態欄、托盤圖標"
-"到文件管理器和控制面板，提供優美的系統主題和熟悉的使用體驗，讓您體驗到我們在"
-"細節上所做的努力！"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/weixin.html:5
 msgid "Wechat Web Client"
-msgstr "微信網頁版客戶端"
+msgstr ""
 
 #. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/weixin.html:8
@@ -135,13 +207,11 @@ msgid ""
 "Ubuntu Kylin offers a Wechat client on Web for users. It can be downloaded "
 "from Kylin software Center or www.ubuntukylin.com."
 msgstr ""
-"爲優麒麟(Ubuntu Kylin)用戶提供了一個基于微信網頁版的客戶端，讓您可以更便捷的"
-"使用微信網頁版。可通過軟件中心或www.ubuntukylin.com安裝使用。"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/welcome.html:7
 msgid "Thank You For Choosing Ubuntu Kylin Desktop Operating System"
-msgstr "歡迎使用優麒麟桌面操作系統"
+msgstr ""
 
 #. type: Content of: <div><div><div><h6><p>
 #: slideshows/ubuntukylin/slides/welcome.html:10
@@ -155,14 +225,13 @@ msgstr ""
 
 #. type: Content of: <div><div><div><h6><p>
 #: slideshows/ubuntukylin/slides/welcome.html:11
-#, fuzzy
 msgid "The following pictures will show you what we have done."
-msgstr "下面您將了解到我們爲中文用戶所做的特色定制！"
+msgstr ""
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/wps.html:5
 msgid "Office Suite"
-msgstr "自由輕鬆的辦公"
+msgstr ""
 
 #. type: Content of: <div><div><div><h4><p>
 #: slideshows/ubuntukylin/slides/wps.html:8
@@ -171,13 +240,11 @@ msgid ""
 "available in Linux Kingsoft WPS. Abundant online module and material make "
 "your document production more convenient."
 msgstr ""
-"您可以使用金山WPS，它與Windows版深度兼容，更加尊重Linux用戶特定的使用習慣；自"
-"帶方正字體集；在線模板和素材使用文檔創作更加輕鬆高效。"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/youker-series.html:5
 msgid "Youker Series"
-msgstr "體貼入微的優客系列"
+msgstr ""
 
 #. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/youker-series.html:8
@@ -188,15 +255,3 @@ msgid ""
 "supported. Basically, a smooth, easy-to-use and substantial desktop is "
 "guaranteed."
 msgstr ""
-"專爲優麒麟(Ubuntu Kylin)用戶開發的優客助手、優客天氣等軟件，爲您提供強大的系"
-"統信息狀態展示、垃圾一鍵清理、系統定制美化、天氣信息查詢等功能，讓您的桌面更"
-"加流暢、易用、豐富且具有個性。"
-
-#~ msgid ""
-#~ "Ubuntu Kylin is an official flavor of Ubuntu, specifically endeavored to "
-#~ "tailor an open source desktop operating system with distinct Chinese "
-#~ "characteristics, so as to allow its users to enjoy a thoughtful and fine "
-#~ "user experience. This release version is 19.04."
-#~ msgstr ""
-#~ "優麒麟(Ubuntu Kylin) 是 Ubuntu 官方中文衍生版，致力于創建更有中國味的開源"
-#~ "桌面終端操作系統，爲您提供體貼、細膩的用戶體驗，本次發布的版本爲19.04。"
