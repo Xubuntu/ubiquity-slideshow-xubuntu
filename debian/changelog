@@ -1,3 +1,11 @@
+ubiquity-slideshow-ubuntu (160) focal; urgency=medium
+
+  * Restore Ubuntukylin translations that were reverted by the previous
+    upload, those were patched inliner rather than done on launchpad,
+    that has been fixed now (lp: #1873543)
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Mon, 20 Apr 2020 10:35:23 +0200
+
 ubiquity-slideshow-ubuntu (159) focal; urgency=medium
 
   * Updated launchpad translations
