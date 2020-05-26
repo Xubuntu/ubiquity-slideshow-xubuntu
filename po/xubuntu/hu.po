@@ -1,23 +1,24 @@
-# Hungarian translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-#
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-# Gabor Kelemen <kelemeng at ubuntu dot com>, 2016.
+# 
+# Translators:
+# Sean Davis <bluesabre@ubuntu.com>, 2020
+# Balázs Meskó <mesko.balazs@fsf.hu>, 2020
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2018-03-20 21:47+0000\n"
-"Last-Translator: Gabor Kelemen <kelemeng@openscope.org>\n"
-"Language-Team: Hungarian <openscope at googlegroups dot com>\n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: Balázs Meskó <mesko.balazs@fsf.hu>, 2020\n"
+"Language-Team: Hungarian (https://www.transifex.com/xubuntu/teams/110148/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
-"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
 "Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
+"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
@@ -29,7 +30,7 @@ msgstr "Üdvözöljük a Xubuntuban!"
 msgid ""
 "Start exploring your new desktop by making yourself familiar with the "
 "applications menu."
-msgstr ""
+msgstr "Kezdje felfedezni új asztalát az alkalmazások menü megismerésével."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:6
@@ -37,6 +38,9 @@ msgid ""
 "Use the Software application to install more applications and the Settings "
 "Manager to customize the look and feel of your desktop."
 msgstr ""
+"A Szoftverek alkalmazással további alkalmazásokat telepíthet, a "
+"Beállításkezelővel pedig testreszabhatja az asztala megjelenését és "
+"viselkedését."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_support.html:2
@@ -50,6 +54,8 @@ msgid ""
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
 msgstr ""
+"A <em>hivatalos dokumentáció</em> segít a Xubuntu kezdeti lépéseiben. A "
+"dokumentációt az alkalmazásmenü <em>Súgó</em> részében találja."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
@@ -57,13 +63,17 @@ msgid ""
 "If the documentation doesn't answer your questions, check the full list of "
 "support methods from the Xubuntu website."
 msgstr ""
+"Ha a dokumentáció nem ad választ a kérdéseire, akkor tekintse meg az összes "
+"támogatási módot a Xubuntu weboldalán."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
+"<a href=\"https://docs.xubuntu.org/1804/\">Hivatalos online dokumentáció</a>"
+" <a href=\"https://xubuntu.org/help/\">Összes támogatási mód</a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
@@ -75,13 +85,13 @@ msgstr "Valós idejű támogatás"
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
 "<em>#xubuntu</em>, by <a "
-"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1"
-"\">clicking here</a>."
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking"
+" here</a>."
 msgstr ""
-"Élő, <em>angol nyelvű</em> online támogatásárt csatlakozzon "
-"<em>#xubuntu</em> nevű IRC-csatornánkhoz <a "
-"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1"
-"\">ide kattintva</a>."
+"Élő, <em>angol nyelvű</em> online támogatásárt csatlakozzon a "
+"<em>#xubuntu</em> IRC-csatornánkhoz <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">ide"
+" kattintva</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
@@ -102,7 +112,7 @@ msgstr "Miau"
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/04_community.html:3
 msgid "Join the community"
-msgstr ""
+msgstr "Csatlakozzon a közösséghez"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
@@ -110,6 +120,8 @@ msgid ""
 "We'd love to hear about your experiences with Xubuntu. Share them on the "
 "Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
+"Szeretnénk hallani a Xubuntuval szerzett tapasztalatairól. Ossza meg őket a "
+"Xubuntu felhasználók levezőlistáján, vagy a #xubuntu-offtopic IRC-csatornán."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -119,8 +131,13 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
+"Mindig szükségünk van a segítségre a Xubuntu még jobbá tételéhez. A "
+"közreműködéshez nem feltétlenül szükséges speciális tudás. Az elérhető "
+"lehetőségekért keresse fel a <a "
+"href=\"https://xubuntu.org/contribute/\">Kapcsolódjon be</a> lapot a "
+"weboldalunkon."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
-msgstr ""
+msgstr "Hé, mi lenne, ha továbbadná a telepítőmédiát egy barátjának!"
