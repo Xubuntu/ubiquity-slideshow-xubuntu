@@ -1,22 +1,24 @@
-# Greek translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
+# 
+# Translators:
+# Sean Davis <bluesabre@ubuntu.com>, 2020
+# Joan Jani <igiann7@gmail.com>, 2020
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2015-04-06 19:33+0000\n"
-"Last-Translator: Aggelos Arnaoutis <angelosarn@hotmail.com>\n"
-"Language-Team: Greek <el@li.org>\n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: Joan Jani <igiann7@gmail.com>, 2020\n"
+"Language-Team: Greek (https://www.transifex.com/xubuntu/teams/110148/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
-"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
 "Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
+"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
@@ -29,6 +31,8 @@ msgid ""
 "Start exploring your new desktop by making yourself familiar with the "
 "applications menu."
 msgstr ""
+"Ξεκινήστε να εξερευνάτε τη νέα σας επιφάνεια εργασίας και εξοικειωθείτε με "
+"το μενού εφαρμογών."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:6
@@ -36,6 +40,9 @@ msgid ""
 "Use the Software application to install more applications and the Settings "
 "Manager to customize the look and feel of your desktop."
 msgstr ""
+"Χρησιμοποιήστε τις Εφαρμογές Λογισμικού για να εγκαταστήσετε περισσότερες "
+"εφαρμογές και τη Διαχείριση Ρυθμίσεων για να προσαρμόσετε την εμφάνιση και "
+"την αίσθηση της επιφάνειας εργασίας σας."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_support.html:2
@@ -49,6 +56,9 @@ msgid ""
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
 msgstr ""
+"Η <em>επίσημη τεκμηρίωση</em> θα σας βοηθήσει να ξεκινήσετε με το Xubuntu. "
+"Μπορείτε να βρείτε την τεκμηρίωση στην ενότητα <em>Βοήθεια</em> στο μενού "
+"εφαρμογών."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
@@ -56,13 +66,17 @@ msgid ""
 "If the documentation doesn't answer your questions, check the full list of "
 "support methods from the Xubuntu website."
 msgstr ""
+"Εάν η τεκμηρίωση δεν απαντά στις ερωτήσεις σας, ελέγξτε την πλήρη λίστα των "
+"μεθόδων υποστήριξης από τον ιστότοπο του Xubuntu."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
+"<a href=\"https://docs.xubuntu.org/1804/\">Επίσημη τεκμηρίωση online</a> <a "
+"href=\"https://xubuntu.org/help/\">Όλες οι μέθοδοι υποστήριξης</a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
@@ -74,9 +88,13 @@ msgstr "Υποστήριξη πραγματικού χρόνου"
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
 "<em>#xubuntu</em>, by <a "
-"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1"
-"\">clicking here</a>."
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking"
+" here</a>."
 msgstr ""
+"Για άμεση διαδικτυακή υποστήριξη στα <em>Αγγλικά</em>, εγγραφείτε στο κανάλι"
+" IRC, <em>#xubuntu</em>, κάνοντας <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">κλικ"
+" εδώ</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
@@ -85,16 +103,19 @@ msgid ""
 "href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
 "channels</a>."
 msgstr ""
+"Για υποστήριξη σε <em>άλλες γλώσσες</em>, δείτε την πλήρη λίστα των <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">τοπικών καναλιών "
+"υποστήριξης</a>. "
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/03_support-live.html:16
 msgid "Meow"
-msgstr ""
+msgstr "Νιάου"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/04_community.html:3
 msgid "Join the community"
-msgstr ""
+msgstr "Γίνετε μέλος της κοινότητας"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
@@ -102,6 +123,9 @@ msgid ""
 "We'd love to hear about your experiences with Xubuntu. Share them on the "
 "Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
+"Θα θέλαμε πολύ να μάθουμε για τις εμπειρίες σας με το Xubuntu. Μοιραστείτε "
+"τες στη λίστα αλληλογραφίας χρηστών του Xubuntu ή στο κανάλι # xubuntu-"
+"offtopic στο IRC."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -111,8 +135,10 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
+"Χρειαζόμαστε πάντα βοήθεια για να κάνουμε το Xubuntu ακόμα καλύτερο. Δεν απαιτούνται συγκεκριμένες δεξιότητες για να συνεισφέρεις. Για να διαβάσετε όλες τις διαθέσιμες ευκαιρίες, μεταβείτε στην ενότητα <a href=\"https://xubuntu.org/contribute/\">\"Συμμετοχή\"</a> στον ιστότοπό μας.\n"
+" "
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
-msgstr ""
+msgstr "Εϊ, τι θα έλεγες να δώσεις το μέσο εγκατάστασης σε έναν φίλο σου! "
