@@ -1,26 +1,26 @@
-# SOME DESCRIPTIVE TITLE
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Danish translation for ubiquity-slideshow-ubuntu
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2020-03-13 09:47+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: \n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: da\n"
+"PO-Revision-Date: 2019-09-27 15:18+0000\n"
+"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
+"Language-Team: Danish <da@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Launchpad-Export-Date: 2020-04-15 14:44+0000\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/community.html:5
 msgid "Ubuntu Kylin Community"
-msgstr ""
+msgstr "Ubuntu Kylin-fællesskabet"
 
 #. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/community.html:8
@@ -30,6 +30,11 @@ msgid ""
 "professional technical information and community news--by utilizing official "
 "website, forums, QQ, weibo, weixin, and various other channels."
 msgstr ""
+"Ubuntu Kylin-fællesskabet vedligeholder en kommunikationsplatform til de  "
+"allestedsnærværende \"Yoker Friends\", så den seneste og mest "
+"professionelle, tekniske information og fællesskabets nyheder kan udveksles -"
+"- gennem det officielle websted, fora, QQ, weibo, weixin og forskellige "
+"andre kanaler."
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/control-center.html:5
@@ -58,7 +63,7 @@ msgstr ""
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/kylin-burner.html:5
 msgid "Kylin Burner"
-msgstr ""
+msgstr "Kylin-brænder"
 
 #. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/kylin-burner.html:8
@@ -67,11 +72,14 @@ msgid ""
 "burning of CD/DVD-R and DVD+R are supported. It is a pleasant, stable and "
 "lightweight application."
 msgstr ""
+"Data- og ISO-optagelse er tilgængelig i Kylin-brænder. Brænding og fortsæt-"
+"brænding af CD/DVD-R og DVD+R understøttes. Det er et behageligt, stabilt og "
+"let program."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/kylin-video.html:5
 msgid "Kylin Video"
-msgstr ""
+msgstr "Kylin-video"
 
 #. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/kylin-video.html:8
@@ -80,6 +88,9 @@ msgid ""
 "surpports many video formats to offer a delighted watching experience for "
 "users. What is more, the interface is simple and easy."
 msgstr ""
+"Kylin-video er en open source videoafspiller som bruger Qt5-baseret på "
+"SMPlayer. Det understøtter mange videoformater som giver brugerne en god "
+"seeroplevelse. Brugerfladen er desuden simpel og let."
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/long-support.html:4
@@ -114,7 +125,7 @@ msgstr ""
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/pdf.html:5
 msgid "PDF Reader"
-msgstr ""
+msgstr "PDF-læser"
 
 #. type: Content of: <div><div><div><h3><p>
 #: slideshows/ubuntukylin/slides/pdf.html:8
@@ -123,6 +134,9 @@ msgid ""
 "Chinese users. A more convenient installation is supported, plus PDF "
 "documemt reading/ bookmark/ annotation and print etc.."
 msgstr ""
+"Wendun Foxit Reader er baseret på Linux Foxit Reader, specielt tilpasset "
+"kinesiske brugere. En mere bekvem installation understøttes, plus PDF-"
+"dokument læsning/bogmærke/annotering og udskrivning osv."
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/rich-applications.html:5
@@ -131,13 +145,14 @@ msgstr ""
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/rich-applications.html:7
-msgid "Kylin series applications installed, pursuing ultimate user experience"
+msgid ""
+"Kylin series applications installed, pursuing ultimate user experience"
 msgstr ""
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/software-center.html:5
 msgid "Software Center"
-msgstr ""
+msgstr "Softwarecenter"
 
 #. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/software-center.html:8
@@ -146,11 +161,15 @@ msgid ""
 "supports both Ubuntu and Ubuntu Kylin archives. You can enjoy popular "
 "Chinese applications co-developed by Ubuntu Kylin team!"
 msgstr ""
+"Softwarecenter i Ubuntu Kylin er designet med en grafisk brugerflade, der "
+"gør det nemt på kinesisk. Den understøtter både arkiver fra Ubuntu og Ubuntu "
+"Kylin. Du kan gøre brug af populære, kinesiske programmer, der er udviklet i "
+"samarbejde mellem Ubuntu Kylin-holdet!"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/sogou.html:5
 msgid "Sogou Input Method"
-msgstr ""
+msgstr "Sogou-indtastningsmetode"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntukylin/slides/sogou.html:8
@@ -159,6 +178,9 @@ msgid ""
 "Corp.. It is based on Fcitx framework and supports the same user experience "
 "with Windows, Mac version."
 msgstr ""
+"Sogou-indtastningsmetode til Linux er udviklet i samarbejde med Ubuntu Kylin-"
+"holdet og Sogou Corp. Den er baseret på Fcitx-framework og understøtter den "
+"samme brugeroplevelse med Windows- og Mac-version."
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/stablekernel.html:5
@@ -167,7 +189,8 @@ msgstr ""
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/stablekernel.html:7
-msgid "Linux 5.4 LTS kernel inside, covering latest cutting-edge technologies"
+msgid ""
+"Linux 5.4 LTS kernel inside, covering latest cutting-edge technologies"
 msgstr ""
 
 #. type: Content of: <div><div><h3>
@@ -185,7 +208,7 @@ msgstr ""
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/ukui.html:3
 msgid "A Brand New Desktop Environment"
-msgstr ""
+msgstr "Et helt nyt skrivebordsmiljø"
 
 #. type: Content of: <div><div><div><h3><p>
 #: slideshows/ubuntukylin/slides/ukui.html:5
@@ -195,11 +218,15 @@ msgid ""
 "will experience a smooth and beautiful system. More function in details are "
 "awaiting you to find out."
 msgstr ""
+"UKUI-skrivebordsmiljøet er et helt nyt produkt til kinesiske brugere. Fra "
+"startmenu, statuslinje, panelikoner til filhåndtering og kontrolpanel, vil "
+"du opleve et gnidningsløst og smukt system. Der er flere funktioner som "
+"venter på at blive fundet af dig."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/weixin.html:5
 msgid "Wechat Web Client"
-msgstr ""
+msgstr "Wechat-webklient"
 
 #. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/weixin.html:8
@@ -207,11 +234,13 @@ msgid ""
 "Ubuntu Kylin offers a Wechat client on Web for users. It can be downloaded "
 "from Kylin software Center or www.ubuntukylin.com."
 msgstr ""
+"Ubuntu Kylin tilbyder en Wechat-klient på webbet til brugerne. Den kan "
+"downloades fra Kylin-softwarecenter eller www.ubuntukylin.com."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/welcome.html:7
 msgid "Thank You For Choosing Ubuntu Kylin Desktop Operating System"
-msgstr ""
+msgstr "Tak fordi du valgte Ubuntu Kylin-skrivebordsstyresystemet"
 
 #. type: Content of: <div><div><div><h6><p>
 #: slideshows/ubuntukylin/slides/welcome.html:10
@@ -222,16 +251,21 @@ msgid ""
 "operating systems with Windows-like operating experiences for users "
 "worldwide. This release version is 19.10."
 msgstr ""
+"Ubuntu Kylin er et open source skrivebord med Linux-styresystem som blev "
+"oprettet i 2013 og er en af de officielle Ubuntu-varianter. Med "
+"hundredetusindvis af aktive brugere verden over er målet er at leverer et "
+"Linux open source-skrivebordsstyresystem med Windows-lignende brugsoplevelse "
+"for brugere verden over. Denne udgivelse er version 19.10."
 
 #. type: Content of: <div><div><div><h6><p>
 #: slideshows/ubuntukylin/slides/welcome.html:11
 msgid "The following pictures will show you what we have done."
-msgstr ""
+msgstr "Følgende billeder viser dig hvad vi har lavet."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/wps.html:5
 msgid "Office Suite"
-msgstr ""
+msgstr "Kontorpakke"
 
 #. type: Content of: <div><div><div><h4><p>
 #: slideshows/ubuntukylin/slides/wps.html:8
@@ -240,11 +274,14 @@ msgid ""
 "available in Linux Kingsoft WPS. Abundant online module and material make "
 "your document production more convenient."
 msgstr ""
+"Linux Kingsoft WPS er kompatibel med Windows WPS. Fangzheng-skrifttypen er "
+"tilgængelig i Linux Kingsoft WPS. Des tore mængde af onlinemoduler og -"
+"materiale gør din produktion af dokumenter mere bekvem."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/youker-series.html:5
 msgid "Youker Series"
-msgstr ""
+msgstr "Youker-serierne"
 
 #. type: Content of: <div><div><div><h2><p>
 #: slideshows/ubuntukylin/slides/youker-series.html:8
@@ -255,3 +292,8 @@ msgid ""
 "supported. Basically, a smooth, easy-to-use and substantial desktop is "
 "guaranteed."
 msgstr ""
+"Youker Assistantant og Youker Weather er udviklet kun til Ubuntu Kylin-"
+"brugere. Kraftfuld demonstration af systeminformation, rydning af "
+"systemaffald med kun ét klik, smuk systemtilpasset og vejrinformation osv. "
+"understøttes. Ganske enkelt garanteres et gnidningsløst, brugervenlig og "
+"væsentligt skrivebord."
