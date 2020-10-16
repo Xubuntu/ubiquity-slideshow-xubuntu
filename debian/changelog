@@ -1,8 +1,16 @@
-ubiquity-slideshow-ubuntu (161) UNRELEASED; urgency=medium
+ubiquity-slideshow-ubuntu (162) UNRELEASED; urgency=medium
 
   [ Brian Murray ]
   * Fix typo of the word strategy in 07_games slide. (LP: #1870214)
   * Update Software Center name, patch from mpt. 
+
+  [ Martin Wimpress]
+  * Update welcome image to feature the mascot wearing Pi tinted
+    sunglasses. (LP: #1899955)
+
+ -- Martin Wimpress <martin.wimpress@ubuntu.com>  Fri, 16 Oct 2020 10:13:06 +0100
+
+ubiquity-slideshow-ubuntu (161) groovy; urgency=medium
 
   [ Martin Wimpress]
   * Update Ubuntu slideshow for Groovy
