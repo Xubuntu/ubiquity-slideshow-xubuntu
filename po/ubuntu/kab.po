@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
 "PO-Revision-Date: 2020-01-27 14:24+0000\n"
 "Last-Translator: ButterflyOfFire <Unknown>\n"
 "Language-Team: Kabyle <kab@li.org>\n"
+"Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-04-15 14:24+0000\n"
-"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -30,11 +31,15 @@ msgid ""
 "colour scheme and text size, Ubuntu makes computing easy – whoever and "
 "wherever you are."
 msgstr ""
+"Deg wul n tfiluzufit n Ubuntu tella tmedlit belli tasenselkimt tettwag i "
+"medden akk. S yifecka n unekcum leqqayen d yiɣewwaren n ubeddel n tutlayt, "
+"azenziɣ n yiniten d teɣzi n uḍris, Ubuntu yettarra tasenselkimt teshel i yal "
+"yiwen - deg yal adeg d wanda ma telliḍ."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
 msgid "Customization options"
-msgstr ""
+msgstr "Iɣewwaren n waggan"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:16
@@ -54,7 +59,7 @@ msgstr "Asefrek n tutlayt"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Awi ayen yelhan seg web"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
@@ -64,6 +69,10 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
+"Ubuntu yella degs Firefox, iminig web yettwasqdacen sɣur imelyunen n medden "
+"deg umaḍal. D yisnasen web i tesseqdaceḍ yal ass (amedya am Facebook neɣ "
+"Gmail) zemren ad ttureṣṣin deg tnarit-inek/inem i unekcum arurad, am "
+"yisnasen yellan deg uselkim-inek/inem."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -71,7 +80,7 @@ msgstr ""
 #: slideshows/ubuntu/slides/office.html:12
 #: slideshows/ubuntu/slides/photos.html:12
 msgid "Included software"
-msgstr ""
+msgstr "Aseɣzan i d-yeddan"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:16
@@ -82,7 +91,7 @@ msgstr "Iminig web Firefox"
 #: slideshows/ubuntu/slides/browse.html:19
 #: slideshows/ubuntu/slides/photos.html:19
 msgid "Supported software"
-msgstr ""
+msgstr "Iseɣzanen yettusefraken"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:23
@@ -102,29 +111,38 @@ msgid ""
 "href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
 "Dock."
 msgstr ""
+"<span class=\"app\" data-app=\"docs\">Tasemlit tunṣibt</span> tegber ddeqs n "
+"yiḥricen imugan ɣef Ubuntu. Yella deg <a href=\"https://help.ubuntu.com"
+"\">srid</a> neɣ s tignit n tallalt deg Dock."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a "
-"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
 msgstr ""
+"Deg <a href=\"http://askubuntu.com\">Suter Ubuntu</a> tzemreḍ ad testeqsiḍ "
+"daɣen ad tnadiḍ ddeqs n tegrummiwin n yisteqsiyen i yesɛan yakan tiririyin. "
+"Tallalt s tutlayt-ik/im izmer ad tettunefk deg <a href=\"http://loco.ubuntu."
+"com/teams/\">Tarbaɛt-ik/im Tamɣiwent Tadigant</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a "
-"href=\"https://www.ubuntu.com/support/community-support\">Community "
-"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
-"support</a>."
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
 msgstr ""
+"I yisewwaṛen ɣer tiɣbula i iwulmen, rzu ma ulacaɣilif ɣer <a href=\"https://"
+"www.ubuntu.com/support/community-support\">temqiwent n tallalt</a> neɣ <a "
+"href=\"http://www.ubuntu.com/support\">tallalt s tedrimt</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
 msgid "Take your music with you"
-msgstr ""
+msgstr "Awi aẓawan-ik/m yid-k/m"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/music.html:7
@@ -134,21 +152,25 @@ msgid ""
 "CDs and portable music players, so you can enjoy all your music wherever you "
 "go."
 msgstr ""
+"Ubuntu yettas-d s yimeɣri n uẓawan Rhythmbox. S yiɣewwaren leqqayen n tɣuri, "
+"d afessas maḍi i tmerna n udras n tezlatin i tɣuri. Daɣen iteddu s "
+"yiḍebsiyenCD meqqren d yimeɣriyen n uẓawan n wawway, ihi ad tezhuḍ s uẓawan-"
+"ik/im anida yebɣu tiliḍ."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
-msgstr ""
+msgstr "Imeɣri n uẓawan Rhythmbox"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/music.html:18
 msgid "Available software"
-msgstr ""
+msgstr "Aseɣzan yellan"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:22
 msgid "Spotify"
-msgstr ""
+msgstr "Spotify"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:26
@@ -158,7 +180,7 @@ msgstr "VLC"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
 msgid "Everything you need for the office"
-msgstr ""
+msgstr "S kra n wayen i tesriḍ deg tnarit-ik"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/office.html:8
@@ -167,6 +189,10 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"LibreOffice d amazrar n yifecka n tnarit ilelli ideg yella wayen akk i "
+"teḥwaǧeḍ i tmerna n yisemliyen, tifelwiyin n usiḍen d usenked. Imṣada d "
+"yimasalen n yifuyla n Microsoft Office, ad ak-d-yefk meṛṛa timahilin i "
+"teḥwaǧeḍ, mebla tadrimt."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
@@ -186,7 +212,7 @@ msgstr "LibreOffice Impress"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
 msgid "Have fun with your photos"
-msgstr ""
+msgstr "Zhu s tewlafin-inek/inem"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/photos.html:8
@@ -196,26 +222,31 @@ msgid ""
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
 "from the Ubuntu Software Center."
 msgstr ""
+"Shotwell d amsefrak n tewlafin s ufus, i iheggan i yilellucen-ik/im. Qqen "
+"takamiṛat neɣ tiliɣri i wakken ad tazneḍ tiwlafin-inek/inem, sakin d ayen "
+"fessusen i beṭṭu d uḥraz-nsent. Ma tḥulfaḍd d yiman-ik/im d asnulfay, "
+"tzemreḍ ad tɛerḍeḍ ddeqs n yisnasen n tewlafin seg Wammas n Yiseɣzanen n "
+"Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "Amsefrak n tewlafin Shotwell"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:23
 msgid "GIMP Image Editor"
-msgstr ""
+msgstr "Amaẓrag n tugniwin GIMP"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
 msgid "Pitivi Video Editor"
-msgstr ""
+msgstr "Amaẓrag n tvidyut Pitivi"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
 msgid "Find even more software"
-msgstr ""
+msgstr "Rnu af-d ugar n yiseɣzan"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
@@ -226,11 +257,16 @@ msgid ""
 "as Graphics & Photography, Games and Productivity, alongside helpful reviews "
 "from other users."
 msgstr ""
+"Ini qqim di lehna i unadi n yiseɣzan imaynuten di web. S lmendad n unekcum "
+"ɣer Snap Store d uɣbar n yiseɣzan n Ubuntu, tzemreḍ ad tafeḍ, ad tesbeddeḍ "
+"isnasen imaynuten s sshala. Yewwi-d kan ad taruḍ ayen iɣef tettnadiḍ, neɣ ad "
+"tesnirmeḍ taggayin am udlifen & Tewlafin, Uraren & tiffursa, d yiwenniten "
+"yelhan n yiseqdacen-nniḍen."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "Ansuf ɣer Ubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/welcome.html:8
@@ -238,3 +274,6 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
+"D arurad yerna yeččur aṭas d timahalin timaynutin, lqem aneggaru n Ubuntu "
+"yessishil tasenselkimt akken iwata ɣef wakken tella uqbel. Ha-ten-a kra "
+"imaynuten yelhan i yessefk ad tissineḍ..."

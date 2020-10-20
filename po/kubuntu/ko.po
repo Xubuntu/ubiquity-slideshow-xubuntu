@@ -6,17 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2018-08-15 12:09+0000\n"
-"Last-Translator: Gunwoo Kim <Unknown>\n"
+"PO-Revision-Date: 2020-08-22 05:53+0000\n"
+"Last-Translator: SeokJoo Cho <lnxlht4j@gmail.com>\n"
 "Language-Team: Korean <ko@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-04-15 14:44+0000\n"
-"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
-"Language: ko\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:36+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/00_Welcome.html:3
@@ -39,6 +39,8 @@ msgid ""
 "Kubuntu combines the best of the KDE Community's software with Ubuntu's base "
 "to make a great desktop experience."
 msgstr ""
+"쿠분투는 최상의 데스크톱 경험을 선사하기 위하여 우분투 기반에 최고의 KDE 커뮤"
+"니티의 소프트웨어를 제공합니다."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:13
@@ -46,18 +48,20 @@ msgid ""
 "This slideshow will go over the default applications, how to get help, and "
 "how to contribute to Kubuntu."
 msgstr ""
+"이 슬라이드쇼는 기본 응용프로그램, 도움을 얻는 방법, 그리고 쿠분투에 기여하"
+"는 방법을 다룹니다."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:14
 msgid ""
 "Some of the listed applications are only included in the default "
 "installation option."
-msgstr ""
+msgstr "나열된 일부 응용프로그램은 기본 설치 옵션에만 포함되어 있습니다."
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/01_Applications.html:3
 msgid "Find everything you need on your new install"
-msgstr ""
+msgstr "새로운 설치에 필요한 모든것을 찾아보십시오."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/01_Applications.html:7
@@ -71,6 +75,8 @@ msgid ""
 "For everything else, you can install more software in Discover, our software "
 "center."
 msgstr ""
+"다른 모든것들을 찾으신다면, 저희의 소프트웨어 센터인 Discover에서 더욱 많은 "
+"프로그램을 설치할 수 있습니다."
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:13
@@ -90,7 +96,7 @@ msgstr "Kontact"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:19
 msgid "PIM Suite"
-msgstr ""
+msgstr "PIM Suite"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:23
@@ -155,17 +161,17 @@ msgstr "텍스트 편집기"
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/02_Accessibility.html:3
 msgid "Kubuntu: for all users"
-msgstr ""
+msgstr "쿠분투: 모든 사용자를 위해"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/02_Accessibility.html:11
 msgid "We want Kubuntu to work for everyone."
-msgstr ""
+msgstr "저희는 쿠분투가 모든 사람들을 위하기를 바랍니다."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/02_Accessibility.html:12
 msgid "We include a screen reader, modifier keys and more."
-msgstr ""
+msgstr "저희는 스크린 리더, 특수키 등을 포함하였습니다."
 
 #. type: Content of: outside any tag (error?)
 #: slideshows/kubuntu/slides/02_Accessibility.html:16
@@ -181,9 +187,12 @@ msgstr "쿠분투 도움 얻기"
 #: slideshows/kubuntu/slides/03_Get-Help.html:11
 msgid ""
 "If you need help, try Help from the menu, or the Help menu in most "
-"applications.  Let us know about your Kubuntu experience at <a "
-"href=\"http://www.kubuntu.org/community\">Kubuntu Community</a>!"
+"applications.  Let us know about your Kubuntu experience at <a href=\"http://"
+"www.kubuntu.org/community\">Kubuntu Community</a>!"
 msgstr ""
+"도움이 필요하시다면, 메뉴에 있는 도움말 또는 대부분의 응용 프로그램 상의 도움"
+"말 메뉴를 사용해 보십시오. 사용자의 쿠분투 경험을 <a href=\"http://www."
+"kubuntu.org/community\">쿠분투 커뮤니티</a>에서 저희와 공유해주십시오!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/03_Get-Help.html:14
@@ -192,37 +201,44 @@ msgid ""
 "conjunction with the Ubuntu community, provides free technical support in "
 "person and over the Internet."
 msgstr ""
+"저희의 폭넓은 도움말 문서와 더불어, 쿠분투 커뮤니티는 우분투 커뮤니티와 연계"
+"하여 대면으로 그리고 인터넷을 통하여 무료 기술 지원을 제공합니다."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/03_Get-Help.html:18
 msgid ""
 "Learn more at <a href=\"http://www.kubuntu.org/support\">Kubuntu Support</a>."
 msgstr ""
+"<a href=\"http://www.kubuntu.org/support\">쿠분투 지원</a>에서 더욱 많은 정보"
+"를 확인하세요."
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:21
 msgid ""
-"Kubuntu Community: <a "
-"href=\"https://www.kubuntu.org/community\">http://www.kubuntu.org/community</"
-"a>"
+"Kubuntu Community: <a href=\"https://www.kubuntu.org/community\">http://www."
+"kubuntu.org/community</a>"
 msgstr ""
+"쿠분투 커뮤니티: <a href=\"https://www.kubuntu.org/community\">http://www."
+"kubuntu.org/community</a>"
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:22
 msgid ""
-"Kubuntu Support: <a "
-"href=\"https://www.kubuntu.org/support\">http://www.kubuntu.org/support</a>"
+"Kubuntu Support: <a href=\"https://www.kubuntu.org/support\">http://www."
+"kubuntu.org/support</a>"
 msgstr ""
+"쿠분투 고객지원: <a href=\"https://www.kubuntu.org/support\">http://www."
+"kubuntu.org/support</a>"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:3
 msgid "Getting involved with Kubuntu"
-msgstr ""
+msgstr "쿠분투와 함께하기"
 
 #. type: Attribute 'alt' of: <div><div><img>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:7
 msgid "breeze users icon"
-msgstr ""
+msgstr "breeze 사용자 아이콘"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:12
@@ -232,6 +248,10 @@ msgid ""
 "of the distribution, providing advice and technical support, as well as "
 "helping to promote Kubuntu to a wider audience."
 msgstr ""
+"쿠분투 커뮤니티는 오픈소스 커뮤니티에서 가장 훌륭한 팀 중 하나를 구성하는 개"
+"인들로 구성되어 있으며, 쿠분투를 더욱 많은 사용자에게 홍보하는 것을 도울 뿐"
+"만 아니라 배포판의 다양한 측면에 대해 작업하고 조언과 기술적 지원을 제공합니"
+"다."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:19
@@ -240,15 +260,20 @@ msgid ""
 "of Kubuntu is easy, and you are more than welcome to help out.  The work you "
 "do will be seen by millions of people around the world."
 msgstr ""
+"당신의 기술 수준과는 상관없이, 쿠분투의 미래를 만들어 가는것에 참여하고 돕는 "
+"일은 쉬운 일이며, 당신은 기꺼이 도울 수 있습니다. 당신의 도움은 전세계의 수백"
+"만 사람들에게 보여질 것입니다."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:25
 msgid "The installation will finish soon. We hope you enjoy Kubuntu!"
-msgstr ""
+msgstr "곧 설치가 완료됩니다. 쿠분투를 즐기시기를 바랍니다!"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:28
 msgid ""
-"Kubuntu Manual: <a "
-"href=\"https://kubuntu.org/support/\">https://kubuntu.org/support</a>"
+"Kubuntu Manual: <a href=\"https://kubuntu.org/support/\">https://kubuntu.org/"
+"support</a>"
 msgstr ""
+"쿠분투 사용설명서: <a href=\"https://kubuntu.org/support/\">https://kubuntu."
+"org/support</a>"

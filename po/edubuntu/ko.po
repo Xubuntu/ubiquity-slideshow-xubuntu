@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2013-04-12 00:29+0000\n"
-"Last-Translator: Min-Soo Kim <misol.kr@gmail.com>\n"
+"PO-Revision-Date: 2020-09-04 21:54+0000\n"
+"Last-Translator: KwonYevin <Unknown>\n"
 "Language-Team: Korean <ko@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-04-15 14:44+0000\n"
-"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:36+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -30,8 +31,9 @@ msgid ""
 "circumstances. So, we provide tools that make Edubuntu one of the most "
 "accessible operating systems around."
 msgstr ""
-"신체적으로 불편한 사람이라도 에듀분투를 잘 사용하셨으면 좋겠습니다. 그래서 저희는 에듀분투가 최고의 접근성을 가질 수 있도록 다양한 "
-"도구들을 제공해 드리고 있습니다."
+"신체적으로 불편한 사람이라도 에듀분투를 잘 사용하셨으면 좋겠습니다. 그래서 저"
+"희는 에듀분투가 최고의 접근성을 가질 수 있도록 다양한 도구들을 제공해 드리고 "
+"있습니다."
 
 #. The string "Assistive Technologies Preferences" is describing a particular menu item: System >
 #. Preferences > Assistive Technologies, and the string "System menu" describes that section of the main menu. Note that certain words are kept the same to make the menu items discoverable. It is intentional that we are using soft descriptions instead of mapping out a rigid path for the user to follow. Please, if it is natural for your locale, consider the same convention.
@@ -43,9 +45,10 @@ msgid ""
 "helpful tools like <em>Orca</em>, to speak text on the screen, or dwell "
 "click to press mouse buttons automatically."
 msgstr ""
-"이러한 도구들은 시스템 메뉴의 <em>보조 기술 설정</em>에서 확인하실 수 있습니다. 보조 기술 설정에서 사용자는 화면에 있는 "
-"텍스트를 읽어주는 <em>Orca</em>나, 마우스 버튼을 자동으로 눌러주는 Dwell 클릭 같은 유용한 도구를 활성화 하실 수 "
-"있습니다."
+"이러한 도구들은 시스템 메뉴의 <em>보조 기술 설정</em>에서 확인하실 수 있습니"
+"다. 보조 기술 설정에서 사용자는 화면에 있는 텍스트를 읽어주는 <em>Orca</em>"
+"나, 마우스 버튼을 자동으로 눌러주는 Dwell 클릭 같은 유용한 도구를 활성화 하"
+"실 수 있습니다."
 
 #. As before, the string "Appearance Preferences" is describing a particular menu item: System >
 #. Preferences > Appearance. Certain words were kept the same to make the menu item discoverable.
@@ -56,13 +59,14 @@ msgid ""
 "choose between different visual styles and even change the fonts that are "
 "used by applications."
 msgstr ""
-"<em>모양 설정</em>을 확인해 보시는 것도 잊지 마세요. 이곳에서는 여러 가지 화려한 스타일을 선택하실 수 있으시고 프로그램에서 "
-"사용되는 폰트를 바꾸실 수도 있습니다."
+"<em>모양 설정</em>을 확인해 보시는 것도 잊지 마세요. 이곳에서는 여러 가지 화"
+"려한 스타일을 선택하실 수 있으시고 프로그램에서 사용되는 폰트를 바꾸실 수도 "
+"있습니다."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/arkose.html:1
 msgid "Safely Run Software"
-msgstr ""
+msgstr "안전하게 소프트웨어를 실행하십시오."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:6
@@ -76,6 +80,8 @@ msgid ""
 "You can now test downloaded software in a protected environment easily "
 "before deploying."
 msgstr ""
+"이제 다운로드 받은 소프트웨어를 사용하기 전에 안전한 환경에서 쉽게 시험해볼 "
+"수 있습니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/arkose.html:8
@@ -87,14 +93,16 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calc.html:1
 msgid "Calculate Everything"
-msgstr ""
+msgstr "모든것을 계산하십시오."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome "
-"Calculator</em>."
-msgstr "에듀뷴튜는 강력한 계산기인 <em>그놈 계산기</em>를 기본으로 제공해 드리고 있습니다."
+"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
+"em>."
+msgstr ""
+"에듀뷴튜는 강력한 계산기인 <em>그놈 계산기</em>를 기본으로 제공해 드리고 있습"
+"니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:7
@@ -119,21 +127,24 @@ msgstr "당신의 전자책 서재를 관리하십시오"
 #: slideshows/edubuntu/slides/calibre.html:6
 msgid ""
 "<em>Calibre</em> is an e-library solution for cataloging electronic books."
-msgstr "<em>Calibre</em>는 전자책 목록 작성을 위한 전자 서재 관리 솔루션입니다."
+msgstr ""
+"<em>Calibre</em>는 전자책 목록 작성을 위한 전자 서재 관리 솔루션입니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:7
 msgid ""
 "It supports many formats, including MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, "
 "RTF, PDF and more."
-msgstr "MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, RTF, PDF 등 다양한 형식을 지원합니다."
+msgstr ""
+"MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, RTF, PDF 등 다양한 형식을 지원합니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:8
 msgid ""
 "Supports for many different hardware platforms, including the most popular "
 "commercial e-book platforms available."
-msgstr "유명한 상업 전자책 플랫폼을 포함해서, 수 많은 하드웨어 플랫폼을 지원합니다."
+msgstr ""
+"유명한 상업 전자책 플랫폼을 포함해서, 수 많은 하드웨어 플랫폼을 지원합니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:9
@@ -150,21 +161,26 @@ msgstr "뛰어난 데스크탑 프로그램"
 msgid ""
 "<em>LibreOffice</em> is a powerful office software suite that is easy to "
 "understand."
-msgstr "<em>LibreOffice</em>은 배우기 쉽고 강력한 오피스 프로그램 슈트(suite) 입니다."
+msgstr ""
+"<em>LibreOffice</em>은 배우기 쉽고 강력한 오피스 프로그램 슈트(suite) 입니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:7
 msgid ""
 "<em>Firefox</em> provides a safe and easy web browsing experience with many "
 "useful add-ons available."
-msgstr "<em>파이어폭스</em>는 안전하고 쉬운 웹브라우징을 제공해 드립니다. 물론 많은 종류의 유용한 애드온들도 있습니다."
+msgstr ""
+"<em>파이어폭스</em>는 안전하고 쉬운 웹브라우징을 제공해 드립니다. 물론 많은 "
+"종류의 유용한 애드온들도 있습니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:8
 msgid ""
 "<em>Inkscape</em> is a vector drawing program capable of exporting to many "
 "popular formats."
-msgstr "<em>잉크스케이프</em>는 대부분의 파일 형식을 지원하는 벡터 그리기 프로그램 입니다."
+msgstr ""
+"<em>잉크스케이프</em>는 대부분의 파일 형식을 지원하는 벡터 그리기 프로그램 입"
+"니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:9
@@ -183,8 +199,8 @@ msgid ""
 "If you need help, try <em>Help and Support</em> from the System menu, or the "
 "<em>Help</em> menu in most applications."
 msgstr ""
-"만약 도움이 필요하시다면, 시스템 메뉴의 <em>도움말과 지원</em>을 이용하시거나, 프로그램의 <em>도움말</em>메뉴를 이용하시기 "
-"바랍니다."
+"만약 도움이 필요하시다면, 시스템 메뉴의 <em>도움말과 지원</em>을 이용하시거"
+"나, 프로그램의 <em>도움말</em>메뉴를 이용하시기 바랍니다."
 
 #. The url "edubuntu.org/support" should not be translated
 #. type: Content of: <div><div><ul><li><a>
@@ -195,8 +211,9 @@ msgid ""
 "available through Canonical, its partners and approved companies. Learn more "
 "at <a href=\"http://www.edubuntu.org/documentation\">"
 msgstr ""
-"도움말에 추가로, 에듀분투 커뮤니티는 인터넷을 통해 무료로 기술 지원을 해 드리고 있습니다. 상용 지원 또한 공인된 회사인 캐노니컬을 "
-"통해서 가능합니다. <a href=\"http://www.edubuntu.org/documentation\"> 에서 확인해 보세요."
+"도움말에 추가로, 에듀분투 커뮤니티는 인터넷을 통해 무료로 기술 지원을 해 드리"
+"고 있습니다. 상용 지원 또한 공인된 회사인 캐노니컬을 통해서 가능합니다. <a "
+"href=\"http://www.edubuntu.org/documentation\"> 에서 확인해 보세요."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:7
@@ -207,9 +224,10 @@ msgstr "edubuntu.org</a>"
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a "
-"href=\"http://edubuntu.com/community\">"
-msgstr "에듀분투의 사용기를 공유해 주세요! <a href=\"http://edubuntu.com/community\">"
+"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
+"community\">"
+msgstr ""
+"에듀분투의 사용기를 공유해 주세요! <a href=\"http://edubuntu.com/community\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -221,7 +239,9 @@ msgstr "edubuntu.org/community</a>"
 msgid ""
 "Thanks for viewing our slideshow, if you selected additional options, then "
 "the installation process will take a bit longer to complete."
-msgstr "슬라이드쇼를 봐 주셔서 감사합니다. 추가 옵션을 선택하셨을 경우 설치 시간은 조금 더 길어질 수 있습니다."
+msgstr ""
+"슬라이드쇼를 봐 주셔서 감사합니다. 추가 옵션을 선택하셨을 경우 설치 시간은 조"
+"금 더 길어질 수 있습니다."
 
 #. type: Content of: <div><div><p>
 #: slideshows/edubuntu/slides/documentation.html:11
@@ -238,7 +258,9 @@ msgstr ""
 msgid ""
 "The <em>Edubuntu Menu Editor</em> allows administrators to create and apply "
 "custom menus."
-msgstr "<em>에듀분투 메뉴 에디터</em>는 시스템 관리자로 하여금 커스텀 메뉴를 만들고 적용하실 수 있게 도와드립니다."
+msgstr ""
+"<em>에듀분투 메뉴 에디터</em>는 시스템 관리자로 하여금 커스텀 메뉴를 만들고 "
+"적용하실 수 있게 도와드립니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:7
@@ -253,7 +275,7 @@ msgstr "설정은 사용자에게만 적용되거나 시스템 전반적으로 �
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/empathy.html:1
 msgid "Connect to your World"
-msgstr ""
+msgstr "당신의 세계와 연결하십시오."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:6
@@ -262,6 +284,9 @@ msgid ""
 "broadcast services including Facebook, Twitter, Windows Live and Google Talk "
 "easier than ever."
 msgstr ""
+"<em>Empathy</em>와 함께라면, 에듀분투는 페이스북, 트위터, 윈도우 라이브와 구"
+"글 토크를 포함하는 온라인 채팅과 방송 서비스에 연결하는 것을 보다 쉽게 만들어"
+"줍니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:7
@@ -269,13 +294,16 @@ msgid ""
 "Click the envelope near the clock to log in to your accounts. New messages "
 "appear there too, so you can see what's happening at a glance."
 msgstr ""
+"계정에 로그인하기 위해서 시계 근처의 봉투를 클릭하세요. 새로운 메세지들도 그"
+"곳에 나타나기 때문에, 무슨일이 일어나는지 한눈에 볼 수 있습니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/empathy.html:8
 msgid ""
 "If you're busy, click your name at the top of the screen to change your "
 "status."
-msgstr "만약 바쁘시다면 화면 상단의 이름을 클릭하셔서 나의 상태를 바꾸실 수 있습니다."
+msgstr ""
+"만약 바쁘시다면 화면 상단의 이름을 클릭하셔서 나의 상태를 바꾸실 수 있습니다."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/epoptes.html:1
@@ -284,14 +312,12 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
-msgid ""
-"<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:7
-msgid ""
-"Broadcast a desktop session to all users to demonstrate a new concept."
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
@@ -356,6 +382,8 @@ msgstr ""
 msgid ""
 "Organize your goals, future plans, events and more with this great tool!"
 msgstr ""
+"당신의 목표, 미래 계획, 일정 그리고 더 많은 것들을 이 멋진 도구를 사용하여 정"
+"리하세요!"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/gbrainy.html:1
@@ -367,7 +395,9 @@ msgstr ""
 msgid ""
 "Edubuntu ships with <em>gbrainy</em>, a platform to train memory, "
 "arithmetical and logical capabilities."
-msgstr "에듀분투는 기억력과 수학적, 논리적 능력을 길러주는 <em>gbrainy</em>라는 프로그램을 기본으로 제공해 드립니다."
+msgstr ""
+"에듀분투는 기억력과 수학적, 논리적 능력을 길러주는 <em>gbrainy</em>라는 프로"
+"그램을 기본으로 제공해 드립니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/gbrainy.html:7
@@ -390,7 +420,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/installing-software.html:1
 msgid "Get More Software"
-msgstr ""
+msgstr "더 많은 소프트웨어 얻기"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:6
@@ -398,8 +428,8 @@ msgid ""
 "Need more software? Try the <em>Ubuntu Software Center</em> to choose from "
 "thousands of extras you can download for free."
 msgstr ""
-"더 많은 프로그램이 필요하세요? <em>우분투 소프트웨어 센터</em>를 사용해 보세요. 수 천여 가지에 달하는 프로그램을 무료로 "
-"내려받으실 수 있습니다."
+"더 많은 프로그램이 필요하세요? <em>우분투 소프트웨어 센터</em>를 사용해 보세"
+"요. 수 천여 가지에 달하는 프로그램을 무료로 내려받으실 수 있습니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:7
@@ -415,8 +445,9 @@ msgid ""
 "Everything in Software Center is stored in our online repository. We are "
 "careful to keep it safe and updates will be delivered directly to you."
 msgstr ""
-"소프트웨어 센터에 있는 프로그램들은 저희의 온라인 저장소에 저장되어 있습니다. 저희는 최대한 프로그램들을 안전하게 유지하고 업데이트를 "
-"빠르게 적용하는데 심혈을 기울이고 있습니다."
+"소프트웨어 센터에 있는 프로그램들은 저희의 온라인 저장소에 저장되어 있습니"
+"다. 저희는 최대한 프로그램들을 안전하게 유지하고 업데이트를 빠르게 적용하는"
+"데 심혈을 기울이고 있습니다."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/kdeedu.html:1
@@ -429,8 +460,8 @@ msgid ""
 "<em>The KDE Education suite</em> includes edutainment software for kids aged "
 "3 to 18."
 msgstr ""
-"<em>KDE 교육 슈트(suite)</em>은 3~18세 아이들이 사용할 수 있는 에듀테인먼트(에듀케이션 + 엔터테인먼트) 프로그램을 "
-"제공하고 있습니다."
+"<em>KDE 교육 슈트(suite)</em>은 3~18세 아이들이 사용할 수 있는 에듀테인먼트"
+"(에듀케이션 + 엔터테인먼트) 프로그램을 제공하고 있습니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/kdeedu.html:7
@@ -467,11 +498,12 @@ msgid ""
 "Create technical drawings such as building plans, interiors or mechanical "
 "parts."
 msgstr ""
+"건축 계획, 인테리어 그리고 기계 부품과 같이 기술적인 그림들을 만드세요."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/librecad.html:8
 msgid "Draw up schemas and diagrams."
-msgstr ""
+msgstr "도식과 도표를 작성하세요."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/ltsp.html:1
@@ -481,7 +513,9 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:6
 msgid "Edubuntu ships with <em>LTSP</em>, the Linux Terminal Server Project."
-msgstr "에듀분투는 리눅스 터미널 서버 프로젝트인 <em>LTSP</em>를 기본으로 제공해 드리고 있습니다."
+msgstr ""
+"에듀분투는 리눅스 터미널 서버 프로젝트인 <em>LTSP</em>를 기본으로 제공해 드리"
+"고 있습니다."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:7
@@ -493,7 +527,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:8
 msgid "Rapidly deploy many diskless machines with low maintenance."
-msgstr ""
+msgstr "손이 많이 가지 않는  디스크리스 머신 여러대를 신속하게 배치하세요."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/pencil.html:1
@@ -508,7 +542,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pencil.html:7
 msgid "Create traditional hand-drawn animations or cartoons."
-msgstr ""
+msgstr "전통적인 손으로 그린 애니메이션 또는 만화를 만들어보세요."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pencil.html:8
@@ -518,7 +552,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/pencil.html:9
 msgid "Start a comic-strip or draw a self-portrait!"
-msgstr ""
+msgstr "여러컷의 만화를 시작해보거나 자화상을 그려보세요!"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/testdrive.html:1
@@ -599,8 +633,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:8
 msgid ""
-"Learn basic computer skills and unleash your creativity with "
-"<em>TuxPaint</em>."
+"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
+"em>."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
