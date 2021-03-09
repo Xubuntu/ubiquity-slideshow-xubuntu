@@ -1,27 +1,27 @@
 # Indonesian translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# Copyright (c) 2020 Rosetta Contributors and Canonical Ltd 2020
 # This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-06 09:05+0800\n"
-"PO-Revision-Date: 2014-08-27 18:04+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2019-03-13 15:38+0000\n"
+"PO-Revision-Date: 2020-03-31 12:35+0000\n"
+"Last-Translator: Chotibul Umam <sevenfold212@gmail.com>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-16 05:53+0000\n"
-"X-Generator: Launchpad (build 17196)\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:36+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/01_welcome.html:2
 msgid "Welcome to Ubuntu MATE"
-msgstr ""
+msgstr "Selamat datang di Ubuntu MATE"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/01_welcome.html:7
@@ -29,11 +29,13 @@ msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
 msgstr ""
+"Sistem operasi berbasis Ubuntu yang dikembangkan oleh komunitas terintegrasi "
+"cantik dengan desktop MATE."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/02_about.html:2
 msgid "About"
-msgstr ""
+msgstr "Tentang"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/02_about.html:7
@@ -44,19 +46,29 @@ msgid ""
 "requirements it is suitable for modern workstations, single board computers "
 "and older hardware alike."
 msgstr ""
+"Ubuntu MATE adalah sistem operasi yang stabil, mudah digunakan dengan "
+"lingkungan desktop yang dapat dikonfigurasi. Ideal untuk siapa saja yang "
+"menginginkan yang terbaik untuk komputer mereka dan lebih suka metafor "
+"desktop tradisional. Dengan perssyaratan perangkat keras yang sederhana, "
+"cocok untuk stasiun kerja modern, komputer papan tunggal atau perangkat "
+"keras lama."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/02_about.html:14
 msgid ""
-"For users coming from other operating systems Ubuntu MATE can adapt the user "
-"interface with one-click to something more modern or something that you "
-"might be more familar with via <strong>MATE Tweak</strong>."
+"For users coming from other operating systems, Ubuntu MATE can adapt the "
+"user interface with one-click to something more modern or something that you "
+"might be more familiar with via <strong>MATE Tweak</strong>."
 msgstr ""
+"Untuk pengguna yang berasal dari sistem operasi lain, Ubuntu MATE dapat "
+"menyesuaikan antarmuka pengguna dengan satu kali ke sesuatu yang lebih "
+"modern atau sesuatu yang mungkin Anda lebih familiar dengan melalui "
+"<strong>MATE Tweak</strong>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:2
 msgid "Get up and running faster"
-msgstr ""
+msgstr "Bangun dan berjalan lebih cepat"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:7
@@ -70,6 +82,14 @@ msgid ""
 "monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
 "off point to the community."
 msgstr ""
+"Ubuntu MATE Welcome menyambut dan membantu pengguna baru dan kembali. "
+"Panduan <strong>Memulai Penggunaan</strong> akan memandu Anda melalui "
+"pemasangan but pasca pemasangan pertama dan konfigurasi periferal dan "
+"perangkat tambahan dan dokumentasi akan membantu mengarahkan pengguna baru. "
+"Bagian <strong>Spesifikasi Sistem</strong> akan membantu Anda mengeksplorasi "
+"perangkat keras Anda dan dan menawarkan pemasangan sekali klik dan "
+"meluncurkan banyak alat pemantauan sistem yang berguna. Saat Anda "
+"membutuhkan dukungan, Ubuntu MATE Welcome adalah titik tolak bagi komunitas."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:18
@@ -78,20 +98,20 @@ msgstr ""
 #: slideshows/ubuntu-mate/slides/06_browse.html:16
 #: slideshows/ubuntu-mate/slides/08_music.html:16
 #: slideshows/ubuntu-mate/slides/09_photos.html:16
-#: slideshows/ubuntu-mate/slides/10_video.html:18
+#: slideshows/ubuntu-mate/slides/10_video.html:16
 #: slideshows/ubuntu-mate/slides/11_office.html:13
 msgid "Included software"
-msgstr ""
+msgstr "Termasuk perangkat lunak"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:22
 msgid "Ubuntu MATE Welcome"
-msgstr ""
+msgstr "Ubuntu MATE Welcome"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/04_software.html:2
 msgid "Find the best software"
-msgstr ""
+msgstr "Temukan perangkat lunak terbaik"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/04_software.html:7
@@ -103,30 +123,36 @@ msgid ""
 "Experienced users can simply queue up all their favourite software for "
 "install and process it in one operation."
 msgstr ""
+"Ucapkan selamat tinggal pada pencarian web untuk perangkat lunak baru. Ada "
+"banyak perangkat lunak yang tersedia untuk Ubuntu MATE dan beberapa orang "
+"merasa pilihan itu luar biasa. <strong>Software Boutique</strong> adalah "
+"pilihan aplikasi terbaik dikelasnya yang diseleksi dengan hati-hati yang "
+"melengkapi Ubuntu MATE. Pengguna yang berpengalaman dapat dengan mudah "
+"mengantri semua perangkat lunak favorit mereka untuk menginstal dan "
+"memprosesnya dalam satu operasi."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/04_software.html:20
 msgid "Software Boutique"
-msgstr ""
+msgstr "Software Boutique"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/04_software.html:23
 #: slideshows/ubuntu-mate/slides/06_browse.html:27
 #: slideshows/ubuntu-mate/slides/07_games.html:15
 #: slideshows/ubuntu-mate/slides/09_photos.html:23
-#: slideshows/ubuntu-mate/slides/10_video.html:25
 msgid "Supported software"
-msgstr ""
+msgstr "Perangkat lunak yang didukung"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/04_software.html:27
 msgid "Ubuntu Software"
-msgstr ""
+msgstr "Perangkat Lunak Ubuntu"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:2
 msgid "Personalised computing"
-msgstr ""
+msgstr "Komputasi personal"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:7
@@ -141,16 +167,26 @@ msgid ""
 "<strong>Comptemporary</strong>. Experienced users can customise the user "
 "interface and save their creations."
 msgstr ""
+"Antarmuka pengguna Ubuntu MATE baku intuitif dan mudah digunakan. Tetapi "
+"kami memahami orang-orang memiliki selera dan preferensi yang berbeda, "
+"itulah sebabnya kami membuat <strong>MATE Tweak</strong>, alat untuk "
+"mengubah antarmuka pengguna untuk meniru sistem operasi lain. Datang dari "
+"Windows? Coba <strong>Redmond</strong>. Lebih suka tata letak macOS? Coba "
+"<strong>Cupertino</strong>. Untuk penggemar Ubuntu Unity lihatlah "
+"<strong>Mutiny</strong>. Atau untuk pengguna antarmuka pengguna hibrid, coba "
+"<strong>Pantheon</strong> atau <strong>Comptemporary</strong>. Pengguna "
+"berpengalaman dapat menyesuaikan antarmuka pengguna dan menyimpan kreasi "
+"mereka."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:23
 msgid "MATE Tweak"
-msgstr ""
+msgstr "MATE Tweak"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/06_browse.html:2
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Manfaatkan web sepenuhnya"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:7
@@ -162,26 +198,32 @@ msgid ""
 "<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
 "strong> in the Software Boutique."
 msgstr ""
+"Ubuntu MATE menyertakan <strong>Firefox</strong>, peramban web yang mudah "
+"dan aman digunakan oleh jutaan orang diseluruh dunia. Didesain dengan "
+"mempertimbangkan privasi, mencangkup fitur keamanan yang ditingkatkan untuk "
+"melindungi Anda dari ancaman daring. Anda juga akan menemukan <strong>Brave</"
+"strong>, <strong>Chromium</strong>, <strong>Google Chrome</strong>, "
+"<strong>Opera</strong> dan <strong>Vivaldi</strong> di Software Boutique."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:20
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:24
 msgid "Thunderbird Mail"
-msgstr ""
+msgstr "Surat Thunderbird"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:31
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/07_games.html:2
 msgid "Get your game on!"
-msgstr ""
+msgstr "Mulai permainan Anda!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:7
@@ -193,21 +235,27 @@ msgid ""
 "ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
 "person shooters."
 msgstr ""
+"Ubuntu MATE tidak hanya tentang pekerjaan, Ubuntu MATE juga bagus untuk "
+"bermain! Anda akan menemukan <strong>Steam</strong> dan <strong>Minecraft</"
+"strong> di <strong>Software Boutique</strong>. Kami juga telah memilih game "
+"sumber terbuka terbaik dan mengisi Software Boutique dengan platformer, "
+"tembak-menembak, balapan, simulator penerbangan, teka-teki, strategi "
+"berbasis giliran, dan penembak orang pertama."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:19
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:23
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/08_music.html:2
 msgid "Take your music with you"
-msgstr ""
+msgstr "Bawa musik bersama Anda"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/08_music.html:7
@@ -219,22 +267,29 @@ msgid ""
 "<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
 "many popular streaming services, in the <strong>Software Boutique</strong>"
 msgstr ""
+"Ubuntu MATE hadir dengan pemutar musik Rhythmbox yang menakjubkan. Dengan "
+"opsi pemutar lanjutan, mudah untuk mengantri lagu yang sempurna. Dan itu "
+"bekerja sangat baik dengan CD dan pemutar musik portabel, sehingga Anda "
+"dapat menikmati semua musik Anda ke manapun Anda pergi. Jika Anda lebih suka "
+"layanan pengaliran, Anda akan menemukan <strong>Spotify</strong>  "
+"<strong>Pemutar Nuvola</strong>, yang mendukung banyak layanan pengaliran "
+"populer, di <strong>Software Boutique</strong>"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/08_music.html:20
 msgid "Rhythmbox Music Player"
-msgstr ""
+msgstr "Pemutar Musik Rhythmbox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/08_music.html:24
-#: slideshows/ubuntu-mate/slides/10_video.html:22
+#: slideshows/ubuntu-mate/slides/10_video.html:20
 msgid "VLC"
-msgstr ""
+msgstr "VLC"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/09_photos.html:2
 msgid "Organise your photos"
-msgstr ""
+msgstr "Atur foto Anda"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/09_photos.html:7
@@ -246,21 +301,27 @@ msgid ""
 "<strong>Luminance HDR</strong> that offer virtual lightable and darkroom for "
 "RAW and HDR image workflows."
 msgstr ""
+"Shotwell adalah pengelola foto praktis yang siap untuk gawai Anda. Hubungkan "
+"kamera atau telepon untuk mentransfer foto Anda, maka mudah untuk "
+"membagikannya dan menjaganya tetap aman. Untuk penggemar fotografi digital "
+"dan profesional, Software Boutique menyertakan <strong>Darktable</strong> "
+"dan <strong>Luminance HDR</strong> yang menawarkan ruang terang dan gelap "
+"maya untuk alur kerja gambar RAW dan HDR."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/09_photos.html:20
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "Manajer Foto Shotwell"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/09_photos.html:27
 msgid "GIMP Image Editor"
-msgstr ""
+msgstr "Editor Gambar GIMP"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/10_video.html:2
 msgid "Grab some popcorn!"
-msgstr ""
+msgstr "Ambil berondong!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/10_video.html:7
@@ -270,24 +331,24 @@ msgid ""
 "content from your favourite streaming services such as <strong>Netflix</"
 "strong> and <strong>YouTube</strong>."
 msgstr ""
+"Ubuntu MATE hadir dengan <strong>Firefox</strong> yang sudah terpasang dan "
+"<strong>Google Chrome</strong> ada di Software Boutique sehingga Anda dapat "
+"menonton konten dari layanan pengaliran favorit Anda seperti "
+"<strong>Netflix</strong> dan <strong>YouTube</strong>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/10_video.html:12
 msgid ""
 "With <strong>VLC</strong> installed by default you can watch all you local "
-"video with ease and <strong>Emby</strong> media server is one-click away "
-"from the Software Boutique to create your own streaming server."
+"video with ease."
 msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/10_video.html:29
-msgid "Emby"
-msgstr ""
+"Dengan <strong>VLC</strong> yang terpasang secara bawaan, Anda bisa menonton "
+"semua video lokal dengan mudah."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/11_office.html:2
 msgid "Everything you need for the office"
-msgstr ""
+msgstr "Semua yang Anda butuhkan untuk perkantoran"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/11_office.html:7
@@ -296,26 +357,30 @@ msgid ""
 "documents, spreadsheets and presentations.  Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"LibreOffice adalah paket perkantoran bebas yang dikemas dengan semua yang "
+"Anda butuhkan untuk membuat dokumen, spreadsheet dan presentasi. Kompatibel "
+"dengan format berkas Microsoft Office, ini memberi Anda semua fitur yang "
+"Anda butuhkan, tanpa label harga."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/11_office.html:17
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/11_office.html:21
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/11_office.html:25
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/12_accessibility.html:2
 msgid "Accessible for everyone"
-msgstr ""
+msgstr "Dapat diakses untuk semua orang"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/12_accessibility.html:7
@@ -325,36 +390,40 @@ msgid ""
 "language, colour scheme and text size, Ubuntu MATE makes computing easy - "
 "whoever and wherever you are."
 msgstr ""
+"Inti filosofi Ubuntu MATE adalah keyakinan bahwa komputasi adalah untuk "
+"semua orang. Dengan alat aksesibilitas canggih dan opsi untuk mengubah "
+"bahasa, skema warna, dan ukuran teks, Ubuntu MATE memudahkan komputasi - "
+"siapa pun dan di mana pun Anda berada."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/12_accessibility.html:13
 msgid "Customization options"
-msgstr ""
+msgstr "Opsi penyesuaian"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/12_accessibility.html:17
 msgid "Appearance"
-msgstr ""
+msgstr "Penampilan"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/12_accessibility.html:21
 msgid "Assistive technologies"
-msgstr ""
+msgstr "Teknologi bantu"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/12_accessibility.html:25
 msgid "Language support"
-msgstr ""
+msgstr "Dukungan bahasa"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/13_community.html:2
 msgid "Join the community"
-msgstr ""
+msgstr "Bergabunglah dengan komunitas"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/13_community.html:7
 msgid "Discussion & Support"
-msgstr ""
+msgstr "Diskusi dan Dukungan"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:11
@@ -362,6 +431,8 @@ msgid ""
 "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
 "Forum</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Forum Ubuntu "
+"MATE</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:15
@@ -369,23 +440,28 @@ msgid ""
 "<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
 "\"caption\">Google+</a>"
 msgstr ""
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
+"\"caption\">Google+</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:19
 msgid ""
 "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Obrolan Langsung</"
+"a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/13_community.html:22
 msgid "Announcements"
-msgstr ""
+msgstr "Pengumuman"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:26
 msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
+"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:30
@@ -393,17 +469,20 @@ msgid ""
 "<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
 "\">Facebook</a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
+"\">Facebook</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/13_community.html:33
 msgid "Development"
-msgstr ""
+msgstr "Pengembangan"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:37
 msgid ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Kode</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:41
@@ -411,3 +490,5 @@ msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
 msgstr ""
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Pelacak "
+"Kutu</a>"

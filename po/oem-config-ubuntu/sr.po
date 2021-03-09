@@ -3,25 +3,27 @@
 # This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
 # Мирослав Николић <miroslavnikolic@rocketmail.com>, 2012, 2014.
+# Саша Петровић <salepetronije@gmail.com>, 2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:38+0000\n"
-"PO-Revision-Date: 2016-11-11 16:32+0000\n"
+"PO-Revision-Date: 2020-02-12 13:27+0000\n"
 "Last-Translator: Саша Петровић <salepetronije@gmail.com>\n"
-"Language-Team: Serbian <gnom@prevod.org>\n"
+"Language-Team: српски <>\n"
+"Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
-"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
-"Language: sr\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
 msgid "Access for everyone"
-msgstr "Приступ за свакога"
+msgstr "Приступ свима"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:8
@@ -31,10 +33,10 @@ msgid ""
 "colour scheme and text size, Ubuntu makes computing easy – whoever and "
 "wherever you are."
 msgstr ""
-"Срж мудрости Убунта је уверење да је рачунарство намењено свима. Са "
-"напредним прибором за приступачност и испомоћ и могућностима промене језика, "
-"обрасца боја и величине писма, Убунту олакшава употребу рачунара. Било ко и "
-"било где да сте."
+"Главна водиља Убунта је уверење да је рачунарство намењено свима. Напредним "
+"прибором за приступачност и испомоћ и могућностима промене језика, обрасца "
+"боја и величине писма, Убунту олакшава употребу рачунара. Било ко и било где "
+"да сте."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:12
@@ -49,7 +51,7 @@ msgstr "Изглед"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:20
 msgid "Assistive technologies"
-msgstr "Технологије за испомоћ"
+msgstr "Технологије испомоћи"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:24
@@ -69,10 +71,10 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
-"Убунту долази са Фајерфоксом, прегледачем мреже кога користе милиони људи "
-"широм света. А програме веба које често користите (нпр. Фејсбук, Гуглову "
-"пошту, и сл.) можете да прикачите на радну површ зарад бржег приступа, "
-"управо као и програме на вашем рачунару."
+"Убунту садржи Фајерфокс, прегледач мреже кога користе милиони људи широм "
+"света. А програме веба које често користите (нпр. Фејсбук, Гуглову пошту, и "
+"сл.) можете да прикачите на радну површ зарад бржег приступа, управо као и "
+"програме на вашем рачунару."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:12
@@ -80,7 +82,7 @@ msgstr ""
 #: slideshows/oem-config-ubuntu/slides/office.html:12
 #: slideshows/oem-config-ubuntu/slides/photos.html:12
 msgid "Included software"
-msgstr "Укључени програми"
+msgstr "Садржај програма"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:16
@@ -111,33 +113,38 @@ msgid ""
 "href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
 "Dock."
 msgstr ""
+"<span class=\"app\" data-app=\"docs\">Званична документација</span>покрива "
+"већину области о Убунтуу. Доступне су како <a href=\"https://help.ubuntu.com"
+"\">на мрежи</a> тако и на сличици помоћи на Полетнику."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a "
-"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
 msgstr ""
 "На <a href=\"http://askubuntu.com\">Питајте Убунту</a> можете да поставите "
-"питања и да претражите завидну збирку већ одговорених питања. Подршку на "
-"српском језику обезбеђује <a href=\"http://loco.ubuntu.com/teams/\">екипа "
+"питања да претражите завидну збирку већ одговорених питања. Подршку на "
+"српском језику обезбеђује <a href=\"http://loco.ubuntu.com/teams/\">чланство "
 "локалне заједнице</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a "
-"href=\"https://www.ubuntu.com/support/community-support\">Community "
-"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
-"support</a>."
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
 msgstr ""
+"За смернице ка корисним изворима података, посетите <a href=\"https://www."
+"ubuntu.com/support/community-support\">Подршку заједнице</a> или <a href="
+"\"http://www.ubuntu.com/support\">Комерцијалну подршку</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:2
 msgid "Take your music with you"
-msgstr "Понесите вашу музику са собом"
+msgstr "Понесите своју музику са собом"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:7
@@ -147,36 +154,36 @@ msgid ""
 "CDs and portable music players, so you can enjoy all your music wherever you "
 "go."
 msgstr ""
-"Убунту долази са невероватном Ритам Машином програмом за слушање музике. Са "
-"напредним могућностима пуштања, веома је лако поређати списак омиљених "
-"песама. И ради одлично са звучним дисковима и преносивим уређајима за "
-"пуштање музике, тако да можете уживати у вашим песмама где год да се "
+"Убунту долази са невероватном Ритам-машином програмом за слушање музике. Са "
+"напредним могућностима извођења музике, веома је лако поређати списак "
+"омиљених песама. И ради одлично са звучним дисковима и преносивим уређајима "
+"за извођење музике, тако да можете уживати у својим песмама где год да се "
 "налазите."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
-msgstr "Ритам машина музички програм"
+msgstr "Ритам-машина музички програм"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/music.html:18
 msgid "Available software"
-msgstr ""
+msgstr "Доступни програми"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:22
 msgid "Spotify"
-msgstr ""
+msgstr "Спотифи"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:26
 msgid "VLC"
-msgstr ""
+msgstr "ВЛЦ"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
 msgid "Everything you need for the office"
-msgstr "Све што ће вам икада требати у канцеларији"
+msgstr "Све што ће вам икада требати у уреду"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:8
@@ -185,29 +192,29 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
-"Либреофис је бесплатан канцеларијски пакет који садржи све што вам је "
-"потребно за прављење докумената, таблица и презентација. Усаглашен је са "
-"форматима Мајкрософт Офиса, даје вам све потребне могућности и то бесплатно."
+"Либреофис је слободан уређивачки пакет који садржи све што вам је потребно "
+"за прављење докумената, таблица и презентација. Усклађен је са форматима "
+"Мајкрософтовог Офиса, даје вам све потребне могућности и то бесплатно."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:16
 msgid "LibreOffice Writer"
-msgstr "Либреофис писац"
+msgstr "Либреофисов писац"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:20
 msgid "LibreOffice Calc"
-msgstr "Либреофис рачун"
+msgstr "Либреофисов рачун"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/office.html:24
 msgid "LibreOffice Impress"
-msgstr "Либреофис презентација"
+msgstr "Либреофисова презентација"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/photos.html:1
 msgid "Have fun with your photos"
-msgstr "Поиграјте се са вашим сликама"
+msgstr "Уживајте са својим сликама"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:8
@@ -217,10 +224,10 @@ msgid ""
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
 "from the Ubuntu Software Center."
 msgstr ""
-"Фото-бунар је користан управник слика који подржава све ваше справице. "
-"Повежите фотоапарат или телефон да пренесете ваше слике и затим их са "
-"лакоћом делите и чувајте. Ако сте маштовити онда можете пробати и многе "
-"друге програме намењене фотографијама из Убунтуовог софтверског центра."
+"Фото-бунар је користан управник слика спреман за све Ваше уређаје. Повежите "
+"фотоапарат или телефон да пренесете ваше слике и затим их са лакоћом делите "
+"и чувајте. Ако сте маштовити онда можете пробати и многе друге програме "
+"намењене фотографијама из Убунтуовог софтверског центра."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:16
@@ -230,17 +237,17 @@ msgstr "Управник слика Фото-бунар"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:23
 msgid "GIMP Image Editor"
-msgstr "Гимп програм за обраду слика"
+msgstr "ГИМП програм за обраду слика"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:27
 msgid "Pitivi Video Editor"
-msgstr "Питиви видео уредник"
+msgstr "Питиви уредник видеа"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1
 msgid "Find even more software"
-msgstr "Пронађите још више програма"
+msgstr "Пронађите још програма"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/usc.html:8
@@ -251,6 +258,11 @@ msgid ""
 "as Graphics & Photography, Games and Productivity, alongside helpful reviews "
 "from other users."
 msgstr ""
+"Кажите довиђења претрагама мреже за новим програмима. Приступом складишту "
+"снопова и Убунтовој остави програма можете наћи и уградити нове програме са "
+"лакоћом. Само укуцајте шта тражите и истражите по врстама као што су графика "
+"и слике, игре и продуктивност, уз корисне прилике осталих корисника тих "
+"програма."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/welcome.html:1

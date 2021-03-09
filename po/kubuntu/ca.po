@@ -6,17 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2017-03-17 07:34+0000\n"
+"PO-Revision-Date: 2020-03-28 18:06+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2019-10-10 13:36+0000\n"
-"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
-"Language: ca\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:36+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/00_Welcome.html:3
@@ -39,6 +39,8 @@ msgid ""
 "Kubuntu combines the best of the KDE Community's software with Ubuntu's base "
 "to make a great desktop experience."
 msgstr ""
+"El Kubuntu combina el millor del programari de la comunitat KDE amb la base "
+"d'Ubuntu per fer-ne una gran experiència d'escriptori."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:13
@@ -46,6 +48,8 @@ msgid ""
 "This slideshow will go over the default applications, how to get help, and "
 "how to contribute to Kubuntu."
 msgstr ""
+"Aquesta presentació ensenyarà les aplicacions per omissió, com obtenir ajuda "
+"i com contribuir a Kubuntu."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:14
@@ -53,6 +57,8 @@ msgid ""
 "Some of the listed applications are only included in the default "
 "installation option."
 msgstr ""
+"Algunes de les aplicacions de la llista només s'inclouen a l¡opció "
+"d'instaŀlació per omissió."
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/01_Applications.html:3
@@ -73,6 +79,8 @@ msgid ""
 "For everything else, you can install more software in Discover, our software "
 "center."
 msgstr ""
+"Per la resta, podeu instaŀlar més programari a Discover, el nostre centre de "
+"programari."
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:13
@@ -92,7 +100,7 @@ msgstr "Kontact"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:19
 msgid "PIM Suite"
-msgstr ""
+msgstr "Suite de gestió d'informació personal"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:23
@@ -117,12 +125,12 @@ msgstr "Centre de programari"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:35
 msgid "VLC"
-msgstr ""
+msgstr "VLC"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:36
 msgid "Media Player"
-msgstr ""
+msgstr "Reproductor de suports"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:40
@@ -137,7 +145,7 @@ msgstr "Visualitzador de documents"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:45
 msgid "Dolphin"
-msgstr ""
+msgstr "Dolphin"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:46
@@ -147,12 +155,12 @@ msgstr "Gestor de fitxers"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:50
 msgid "Kate"
-msgstr ""
+msgstr "Kate"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:51
 msgid "Text Editor"
-msgstr ""
+msgstr "Editor de text"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/02_Accessibility.html:3
@@ -173,7 +181,7 @@ msgstr ""
 #. type: Content of: outside any tag (error?)
 #: slideshows/kubuntu/slides/02_Accessibility.html:16
 msgid "r"
-msgstr ""
+msgstr "r"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/03_Get-Help.html:3
@@ -184,8 +192,8 @@ msgstr "Com obtenir ajuda amb el Kubuntu"
 #: slideshows/kubuntu/slides/03_Get-Help.html:11
 msgid ""
 "If you need help, try Help from the menu, or the Help menu in most "
-"applications.  Let us know about your Kubuntu experience at <a "
-"href=\"http://www.kubuntu.org/community\">Kubuntu Community</a>!"
+"applications.  Let us know about your Kubuntu experience at <a href=\"http://"
+"www.kubuntu.org/community\">Kubuntu Community</a>!"
 msgstr ""
 "Si necessiteu ajuda, proveu l'Ajuda del menú o el menú d'Ajuda que hi ha a "
 "la majoria de les aplicacions. Feu-nos arribar la vostra experiència amb "
@@ -199,27 +207,34 @@ msgid ""
 "conjunction with the Ubuntu community, provides free technical support in "
 "person and over the Internet."
 msgstr ""
+"A més de la nostra extensa ajuda escrita, la comunitat Kubuntu, juntament "
+"amb la comunitat Ubuntu, proveeix de suport tècnic en persona per Internet."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/03_Get-Help.html:18
 msgid ""
 "Learn more at <a href=\"http://www.kubuntu.org/support\">Kubuntu Support</a>."
 msgstr ""
+"Apreneu més a <a href=\"http://www.kubuntu.org/support\">Suport del Kubuntu</"
+"a>."
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:21
 msgid ""
-"Kubuntu Community: <a "
-"href=\"https://www.kubuntu.org/community\">http://www.kubuntu.org/community</"
-"a>"
+"Kubuntu Community: <a href=\"https://www.kubuntu.org/community\">http://www."
+"kubuntu.org/community</a>"
 msgstr ""
+"Comunitat Kubuntu: <a href=\"https://www.kubuntu.org/community\">http://www."
+"kubuntu.org/community</a>"
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/03_Get-Help.html:22
 msgid ""
-"Kubuntu Support: <a "
-"href=\"https://www.kubuntu.org/support\">http://www.kubuntu.org/support</a>"
+"Kubuntu Support: <a href=\"https://www.kubuntu.org/support\">http://www."
+"kubuntu.org/support</a>"
 msgstr ""
+"Suport al Kubuntu: <a href=\"https://www.kubuntu.org/support\">http://www."
+"kubuntu.org/support</a>"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:3
@@ -229,7 +244,7 @@ msgstr "Com involucrar-te amb el Kubuntu"
 #. type: Attribute 'alt' of: <div><div><img>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:7
 msgid "breeze users icon"
-msgstr ""
+msgstr "icona d'usuaris breeze"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:12
@@ -239,6 +254,10 @@ msgid ""
 "of the distribution, providing advice and technical support, as well as "
 "helping to promote Kubuntu to a wider audience."
 msgstr ""
+"La comunitat Kubuntu és un grup d'individus que s'ha convertit en un dels "
+"millors equips a la comunitat del programari lliure, treballant en diversos "
+"aspectes de la distribució, proveint consells i suport tècnic, així com "
+"ajudant a promoure el Kubuntu a una audiència més gran."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:19
@@ -247,6 +266,9 @@ msgid ""
 "of Kubuntu is easy, and you are more than welcome to help out.  The work you "
 "do will be seen by millions of people around the world."
 msgstr ""
+"Tant se val el vostre nivell d'habilitats, involucrar-se i ajudar a modelar "
+"el futur de la Kubuntu és fàcil, i sou més que benvingut a ajudar. La feina "
+"que feu la veuran milions de persones per tot el món."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:25
@@ -256,6 +278,8 @@ msgstr "La instal·lació acabarà aviat. Esperem que gaudiu del Kubuntu!"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/04_Get-Involved.html:28
 msgid ""
-"Kubuntu Manual: <a "
-"href=\"https://kubuntu.org/support/\">https://kubuntu.org/support</a>"
+"Kubuntu Manual: <a href=\"https://kubuntu.org/support/\">https://kubuntu.org/"
+"support</a>"
 msgstr ""
+"Manual del Kubuntu: <a href=\"https://kubuntu.org/support/\">https://kubuntu."
+"org/support</a>"
