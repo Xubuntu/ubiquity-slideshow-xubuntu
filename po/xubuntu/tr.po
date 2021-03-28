@@ -1,22 +1,24 @@
-# Turkish translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
+# 
+# Translators:
+# Sean Davis <bluesabre@ubuntu.com>, 2020
+# demods <burakerdem@gmail.com>, 2021
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2019-02-06 23:09+0000\n"
-"Last-Translator: Enes UNAL <aenesunal@gmail.com>\n"
-"Language-Team: Turkish <tr@li.org>\n"
-"Language: tr\n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: demods <burakerdem@gmail.com>, 2021\n"
+"Language-Team: Turkish (https://www.transifex.com/xubuntu/teams/110148/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
-"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
+"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
@@ -51,6 +53,8 @@ msgid ""
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
 msgstr ""
+"<em>Resmi Belgeler</em>, Xubuntu'ya başlamanıza yardımcı olacaktır. "
+"Belgeleri, uygulamalar menüsünde <em>Yardım</em> altında bulabilirsiniz."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
@@ -64,9 +68,11 @@ msgstr ""
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
+"<a href=\"https://docs.xubuntu.org/1804/\">Çevrimiçi Resmi Belgeler</a><a "
+"href=\"https://xubuntu.org/help/\">Tüm destek yöntemleri</a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
@@ -77,22 +83,24 @@ msgstr "Anında destek"
 #: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking"
+" here</a>."
 msgstr ""
 "Canlı çevrimiçi desteğe <em>İngilizce</em> olarak erişebilmek için, IRC "
-"kanalımıza katılın, <em>#xubuntu</em>. Görüntülemek için <a href=\"http://"
-"webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">tıklayın</"
-"a>."
+"kanalımıza katılın, <em>#xubuntu</em>. Görüntülemek için <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">tıklayın</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
-"<em>Diğer dillerde</em> destek için, tüm liste olarak <a href=\"https://wiki."
-"ubuntu.com/IRC/ChannelList/Local\">yerel destek kanallarını görüntüleyin</a>."
+"<em>Diğer dillerde</em> destek için, tüm liste olarak <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">yerel destek "
+"kanallarını görüntüleyin</a>."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/03_support-live.html:16
@@ -111,7 +119,8 @@ msgid ""
 "Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
 "Xubuntu ile olan deneyimlerinizi duymak isteriz. Bunları Xubuntu "
-"kullanıcıları posta listesinde veya #xubuntu-offtopic IRC kanalında paylaşın."
+"kullanıcıları posta listesinde veya #xubuntu-offtopic IRC kanalında "
+"paylaşın."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -121,6 +130,10 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
+"Xubuntu'yu daha da iyi hale getirmek için her zaman yardıma ihtiyacımız var."
+" Katkıda bulunmak için belirli bir beceriye gerek yoktur. Mevcut tüm "
+"fırsatları okumak için web sitemizin <a "
+"href=\"https://xubuntu.org/contribute/\">Dahil Olun</a> bölümüne gidin."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
