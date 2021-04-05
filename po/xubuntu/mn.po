@@ -1,34 +1,35 @@
-# Mongolian translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
+# 
+# Translators:
+# Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2010-10-12 23:26+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Mongolian <mn@li.org>\n"
-"Language: mn\n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020\n"
+"Language-Team: Mongolian (https://www.transifex.com/xubuntu/teams/110148/mn/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
-"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
+"Language: mn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
+"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
 msgid "Welcome to Xubuntu"
-msgstr ""
+msgstr "Xubuntu-д тавтай морилно уу"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:5
 msgid ""
 "Start exploring your new desktop by making yourself familiar with the "
 "applications menu."
-msgstr ""
+msgstr "Өөрийнхөө шинэ ажлын ширээний талаар судалж эхлэхпрограмын цэс."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:6
@@ -36,11 +37,13 @@ msgid ""
 "Use the Software application to install more applications and the Settings "
 "Manager to customize the look and feel of your desktop."
 msgstr ""
+"Програм хангамжийн програмыг ашиглан илүү олон програм, Тохиргоо суулгахТаны"
+" ширээний харагдах байдал, мэдрэмжийг тохируулах менежер."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_support.html:2
 msgid "Help & Support"
-msgstr ""
+msgstr "Тусламж ба Дэмжлэг"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:5
@@ -49,6 +52,8 @@ msgid ""
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
 msgstr ""
+"<em> Албан ёсны баримт бичиг </em> нь таныг эхлэхэд тусална.Xubuntu. Та <em>"
+" Тусламж </em> хуудасны доороос баримтыг олж болно.програмын цэс."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
@@ -56,43 +61,57 @@ msgid ""
 "If the documentation doesn't answer your questions, check the full list of "
 "support methods from the Xubuntu website."
 msgstr ""
+"Хэрэв баримт бичиг нь таны асуултанд хариулахгүй байвал бүрэн жагсаалтыг "
+"шалгана уу.дэмжих аргыг Xubuntu вэбсайтаас."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
+"<a href=\"https://docs.xubuntu.org/1804/\"> Онлайнаар албан ёсны "
+"баримтжуулалт </a><a href=\"https://xubuntu.org/help/\"> Бүх дэмжлэг үзүүлэх"
+" арга </a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
 msgid "Real-time support"
-msgstr ""
+msgstr "Бодит цагийн дэмжлэг"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking"
+" here</a>."
 msgstr ""
+"Шууд, онлайн дэмжлэг үзүүлэх <em> Англи хэл дээр </em>, манай IRC сувагт "
+"нэгдэнэ үү.<em> #xubuntu </em>, <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">"
+" дээр даржэнд </a>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
+"<em> бусад хэл дээр </em> дэмжлэг үзүүлэх бол, "
+"<ahref=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">орон нутгийн "
+"тусламж сувгууд </a>."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/03_support-live.html:16
 msgid "Meow"
-msgstr ""
+msgstr "Meow"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/04_community.html:3
 msgid "Join the community"
-msgstr ""
+msgstr "Нийгэмд нэгдээрэй"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
@@ -100,6 +119,9 @@ msgid ""
 "We'd love to hear about your experiences with Xubuntu. Share them on the "
 "Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
+"Xubuntu-тай хийсэн туршлагынхаа талаар бид сонсохыг хүсч байна. Тэдэнтэй "
+"хуваалцахыгXubuntu-ийн хэрэглэгчдийн мэйлийн жагсаалт эсвэл # xubuntu-"
+"offtopic IRC суваг дээр."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -109,8 +131,12 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
+"Xubuntu-г улам бүр сайжруулахын тулд бидэнд үргэлж тусламж хэрэгтэй байдаг. "
+"Тодорхой ур чадвар байхгүй болно.байгаа бүх боломжийн талаар уншихын тулд <a"
+" href=\"https://xubuntu.org/contribute/\"> Оролцох </a>манай вэбсайтын "
+"хэсэг."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
-msgstr ""
+msgstr "Хөөе, суулгацынхаа медиаг найздаа дамжуулах гэж байна уу?"

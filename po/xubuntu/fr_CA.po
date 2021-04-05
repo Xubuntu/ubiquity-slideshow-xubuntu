@@ -1,22 +1,24 @@
-# French (Canada) translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
-#
+# 
+# Translators:
+# Sean Davis <bluesabre@ubuntu.com>, 2020
+# Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2019-11-09 15:52+0000\n"
-"Last-Translator: AO <Unknown>\n"
-"Language-Team: French (Canada) <fr_CA@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020\n"
+"Language-Team: French (Canada) (https://www.transifex.com/xubuntu/teams/110148/fr_CA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
-"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
+"Language: fr_CA\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
+"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
@@ -29,8 +31,8 @@ msgid ""
 "Start exploring your new desktop by making yourself familiar with the "
 "applications menu."
 msgstr ""
-"Commencez l’exploration de votre nouveau bureau en vous familiarisant avec "
-"le menu des applications."
+"Commencez à explorer votre nouveau bureau en vous familiarisant avec le menu"
+" des applications."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:6
@@ -38,14 +40,13 @@ msgid ""
 "Use the Software application to install more applications and the Settings "
 "Manager to customize the look and feel of your desktop."
 msgstr ""
-"Utilisez l'application Logithèque pour installer plus d'applications et le "
-"Gestionnaire de paramètres pour personnaliser l'aspect et la convivialité de "
-"votre bureau."
+"Utilisez l'application logicielle pour installer d'autres applications et le"
+" gestionnaire de paramètres pour personnaliser l'apparence de votre bureau."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_support.html:2
 msgid "Help & Support"
-msgstr "Aide et assistance"
+msgstr "Aide et soutien"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:5
@@ -54,8 +55,8 @@ msgid ""
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
 msgstr ""
-"La <em>documentation officielle</em> guidera vos premiers pas dans Xubuntu. "
-"Vous trouverez la documentation sous <em>Aide</em> du menu d’applications."
+"La documentation officielle vous aidera à démarrer avec Xubuntu. Vous pouvez"
+" trouver la documentation sous Aide dans le menu des applications."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
@@ -63,18 +64,15 @@ msgid ""
 "If the documentation doesn't answer your questions, check the full list of "
 "support methods from the Xubuntu website."
 msgstr ""
-"Si la documentation ne répond pas à vos questions, vérifiez la liste "
-"complète de méthodes d’assistance sur le site Web de Xubuntu."
+"Si la documentation ne répond pas à vos questions, consultez la liste "
+"complète des méthodes d'assistance sur le site Web de Xubuntu."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
-msgstr ""
-"<a href=\"https://docs.xubuntu.org/1804/\">Documentation officielle en "
-"ligne</a> <a href=\"https://xubuntu.org/help/\">Toutes les méthodes "
-"d’assistance</a>"
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
+msgstr "Documentation officielle en ligne Toutes les méthodes d'assistance"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
@@ -85,18 +83,21 @@ msgstr "Soutien en temps réel"
 #: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking"
+" here</a>."
 msgstr ""
 "Pour un soutien en ligne en direct <em>en anglais</em>, rejoignez notre "
-"canal IRC, <em>#xubuntu</em>, en <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">cliquant ici</a>."
+"canal IRC, <em>#xubuntu</em>, en <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">cliquant"
+" ici</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
 "Pour un soutien en <em>d’autres langues</em>, consulter la liste complète "
 "des <a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">canaux de "
@@ -110,7 +111,7 @@ msgstr "Miaou"
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/04_community.html:3
 msgid "Join the community"
-msgstr "Joignez-vous à la communauté"
+msgstr "Rejoignez la communauté"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
@@ -118,8 +119,8 @@ msgid ""
 "We'd love to hear about your experiences with Xubuntu. Share them on the "
 "Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
-"Nous aimerions connaître vos expériences avec Xubuntu. Partagez-les sur la "
-"liste de diffusion des utilisateurs de Xubuntu ou sur le canal IRC #xubuntu-"
+"JNous aimerions connaître vos expériences avec Xubuntu. Partagez-les sur la "
+"liste de diffusion des utilisateurs Xubuntu ou sur le canal IRC # xubuntu-"
 "offtopic."
 
 #. type: Content of: <div><div><p>
@@ -130,13 +131,13 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
-"Nous avons toujours besoin d’aide pour améliorer Xubuntu encore plus. Aucune "
-"compétence particulière n’est requise pour contribuer. Pour en savoir plus "
-"sur toutes les occasions proposées, rendez-vous à la section <a href="
-"\"https://xubuntu.org/contribute/\">Get Involved</a> (en anglais) de notre "
-"site Web."
+"Nous avons toujours besoin d'aide pour améliorer encore Xubuntu. Aucune "
+"compétence spécifique n'est requise pour contribuer. Pour en savoir plus sur"
+" toutes les opportunités disponibles, rendez-vous dans la section Participez"
+" à notre site Web."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
-msgstr "Et si vous passiez votre support d’installation à un ami !"
+msgstr ""
+"Hé, que diriez-vous de transmettre votre support d'installation à un ami!"
