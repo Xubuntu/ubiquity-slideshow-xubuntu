@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2020-03-13 09:47+0800\n"
-"PO-Revision-Date: 2019-06-14 12:47+0000\n"
-"Last-Translator: Joel Pickett <jlkpcktt@gmail.com>\n"
+"PO-Revision-Date: 2020-11-28 04:37+0000\n"
+"Last-Translator: Jared Norris <jarednorris@ubuntu.com>\n"
 "Language-Team: English (Australia) <en_AU@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-10-20 12:36+0000\n"
-"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
+"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
+"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/community.html:5
@@ -39,7 +39,7 @@ msgstr ""
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/control-center.html:5
 msgid "UKUI Control Center"
-msgstr ""
+msgstr "UKUI Control Centre"
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/control-center.html:7
@@ -47,18 +47,18 @@ msgid ""
 "More accurate classification, more convenient operation, and more concise "
 "interface"
 msgstr ""
+"More accurate classification, more convenient operation, and more concise "
+"interface"
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/hardware.html:4
 msgid "Mainstream Hardware Platforms"
-msgstr ""
+msgstr "Mainstream Hardware Platforms"
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/hardware.html:5
-msgid ""
-"Supporting mainstream hardware platforms including Intel, AMD, Kunpeng and "
-"Phytium"
-msgstr ""
+msgid "Supporting mainstream hardware platforms including Intel, AMD, ARM"
+msgstr "Supporting mainstream hardware platforms including Intel, AMD, ARM"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/kylin-burner.html:5
@@ -95,32 +95,32 @@ msgstr ""
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/long-support.html:4
 msgid "Long-term Online Support"
-msgstr ""
+msgstr "Long-term Online Support"
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/long-support.html:6
 msgid "Free system support and updates for up to 5 years"
-msgstr ""
+msgstr "Free system support and updates for up to 5 years"
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/newdesktop-environment.html:5
 msgid "New Desktop Environment"
-msgstr ""
+msgstr "New Desktop Environment"
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/newdesktop-environment.html:7
 msgid "Brand new design, more concise and easy to use"
-msgstr ""
+msgstr "Brand new design, more concise and easy to use"
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/panel.html:5
 msgid "UKUI Panel"
-msgstr ""
+msgstr "UKUI Panel"
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/panel.html:7
 msgid "Quick app preview, easy notification management, unified plugin style"
-msgstr ""
+msgstr "Quick app preview, easy notification management, unified plugin style"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/pdf.html:5
@@ -141,12 +141,12 @@ msgstr ""
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/rich-applications.html:5
 msgid "Rich Featured Applications"
-msgstr ""
+msgstr "Rich Featured Applications"
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/rich-applications.html:7
 msgid "Kylin series applications installed, pursuing ultimate user experience"
-msgstr ""
+msgstr "Kylin series applications installed, pursuing ultimate user experience"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/software-center.html:5
@@ -183,17 +183,17 @@ msgstr ""
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/stablekernel.html:5
 msgid "Latest Stable Kernel"
-msgstr ""
+msgstr "Latest Stable Kernel"
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/stablekernel.html:7
-msgid "Linux 5.4 LTS kernel inside, covering latest cutting-edge technologies"
-msgstr ""
+msgid "Linux 5.8 LTS kernel inside, covering latest cutting-edge technologies"
+msgstr "Linux 5.8 LTS kernel inside, covering latest cutting-edge technologies"
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/startmenu.html:5
 msgid "UKUI Start Menu"
-msgstr ""
+msgstr "UKUI Start Menu"
 
 #. type: Content of: <div><div><h3>
 #: slideshows/ubuntukylin/slides/startmenu.html:7
@@ -201,6 +201,8 @@ msgid ""
 "Amazing upgrades with noval dark theme, full screen browsing and application "
 "classification"
 msgstr ""
+"Amazing upgrades with novel dark theme, full screen browsing and application "
+"classification"
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/ukui.html:3
@@ -248,11 +250,16 @@ msgid ""
 "operating systems with Windows-like operating experiences for users "
 "worldwide. This release version is 19.10."
 msgstr ""
+"Ubuntu Kylin is an open-source desktop Linux operating system created in "
+"2013 and is one of the official Ubuntu flavour. With hundreds of thousands "
+"of active users worldwide, the goal is to provide Linux open source desktop "
+"operating systems with Windows-like operating experiences for users "
+"worldwide. This release version is 19.10."
 
 #. type: Content of: <div><div><div><h6><p>
 #: slideshows/ubuntukylin/slides/welcome.html:11
 msgid "The following pictures will show you what we have done."
-msgstr ""
+msgstr "The following pictures will show you what we have done."
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/ubuntukylin/slides/wps.html:5
