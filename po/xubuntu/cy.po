@@ -1,27 +1,28 @@
-# Welsh translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
+# 
+# Translators:
+# Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2010-12-15 21:47+0000\n"
-"Last-Translator: Owen Llywelyn <owen.llywelyn@gmail.com>\n"
-"Language-Team: Welsh <cy@li.org>\n"
-"Language: cy\n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020\n"
+"Language-Team: Welsh (https://www.transifex.com/xubuntu/teams/110148/cy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:25+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
+"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
 msgid "Welcome to Xubuntu"
-msgstr ""
+msgstr "Croeso i Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:5
@@ -29,6 +30,8 @@ msgid ""
 "Start exploring your new desktop by making yourself familiar with the "
 "applications menu."
 msgstr ""
+"Dechreuwch archwilio eich bwrdd gwaith newydd drwy wneud eich hun yn "
+"gyfarwydd â'rdewislen ceisiadau."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:6
@@ -36,11 +39,13 @@ msgid ""
 "Use the Software application to install more applications and the Settings "
 "Manager to customize the look and feel of your desktop."
 msgstr ""
+"Defnyddiwch y rhaglen feddalwedd i osod mwy o geisiadau a'r "
+"gosodiadauRheolwr i addasu edrychiad a theimlad eich bwrdd gwaith."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_support.html:2
 msgid "Help & Support"
-msgstr ""
+msgstr "Helpu gynorthwyo"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:5
@@ -49,6 +54,9 @@ msgid ""
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
 msgstr ""
+"Bydd y </em> ddogfennaeth swyddogol <em> yn eich helpu i ddechrau arni "
+"gydaXubuntu. Gallwch ddod o hyd i'r ddogfennaeth dan <em> help </em> ar y "
+"dewislen ceisiadau."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
@@ -56,43 +64,55 @@ msgid ""
 "If the documentation doesn't answer your questions, check the full list of "
 "support methods from the Xubuntu website."
 msgstr ""
+"Os nad yw'r ddogfennaeth yn ateb eich cwestiynau, edrychwch ar y rhestr lawn"
+" odulliau cymorth o wefan Xubuntu."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
+"<aa href = \" https://docs.xubuntu.org/1804/\">Dogfennaeth Swyddogol ar-lein"
+" </a><aa href = \" https: sx xubuntu.org/help/\">Pob dull cymorth </a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
 msgid "Real-time support"
-msgstr ""
+msgstr "Cymorth amser real"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking"
+" here</a>."
 msgstr ""
+"I gael cymorth byw, ar-lein <em> yn </em> Saesneg, ymunwch â'n sianel "
+"IRC,<em> #xubuntu </em>, gan <ahref = \" http://webchat.freenode.net/? "
+"sianeli = xubuntu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
+"Am gefnogaeth yn <em> ieithoedd eraill </em>, edrychwch ar y rhestr lawn o "
+"<a0href = \" https://wiki.ubuntu.com/IRC/ChannelList/Local\"} local "
+"supportsianeli </a>."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/03_support-live.html:16
 msgid "Meow"
-msgstr ""
+msgstr "Meow"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/04_community.html:3
 msgid "Join the community"
-msgstr ""
+msgstr "Ymunwch â'r gymuned"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
@@ -100,6 +120,9 @@ msgid ""
 "We'd love to hear about your experiences with Xubuntu. Share them on the "
 "Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
+"Byddem wrth ein boddau yn clywed am eich profiadau gyda Xubuntu. Rhannwch "
+"nhw ar y Rhestr bostio defnyddwyr xubuntu neu ar y sianel IRC #xubuntu-"
+"offtopic."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -109,8 +132,12 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
+"Mae angen help arnom bob amser i wneud Xubuntu hyd yn oed yn well. Nid oes "
+"unrhyw sgiliau penodol yn yn ofynnol i gyfrannu. I ddarllen am yr holl "
+"gyfleoedd sydd ar gael, pen i'r <aa href = \" https: sx "
+"xubuntu.org/cyfrante/\"} Cymryd Rhan </a>adran o'n gwefan."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
-msgstr ""
+msgstr "Hei, beth am drosglwyddo eich cyfryngau gosod i ffrind!"

@@ -1,22 +1,25 @@
-# Albanian translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
+# 
+# Translators:
+# Sean Davis <bluesabre@ubuntu.com>, 2020
+# Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020
+# Joan Jani <igiann7@gmail.com>, 2020
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2017-03-04 01:51+0000\n"
-"Last-Translator: Vilson Gjeci <vilsongjeci@gmail.com>\n"
-"Language-Team: Albanian <sq@li.org>\n"
-"Language: sq\n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: Joan Jani <igiann7@gmail.com>, 2020\n"
+"Language-Team: Albanian (https://www.transifex.com/xubuntu/teams/110148/sq/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:25+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"Language: sq\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
+"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
@@ -29,6 +32,8 @@ msgid ""
 "Start exploring your new desktop by making yourself familiar with the "
 "applications menu."
 msgstr ""
+"Filloni të eksploroni desktopin tuaj të ri duke e bërë veten të njohur me "
+"menunë e aplikacioneve."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:6
@@ -36,6 +41,9 @@ msgid ""
 "Use the Software application to install more applications and the Settings "
 "Manager to customize the look and feel of your desktop."
 msgstr ""
+"Përdorni aplikacionin Softuer për të instaluar më shumë aplikacione dhe "
+"Menaxherin e Cilësimeve për të rregulluar pamjen dhe ndjenjën e desktopit "
+"tuaj."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_support.html:2
@@ -49,6 +57,8 @@ msgid ""
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
 msgstr ""
+"Dokumentacioni Zyrtar do t'ju ndihmojë të filloni me Xubuntu. Ju mund të "
+"gjeni dokumentacionin nën Ndihmë në menunë e aplikacioneve."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
@@ -56,33 +66,47 @@ msgid ""
 "If the documentation doesn't answer your questions, check the full list of "
 "support methods from the Xubuntu website."
 msgstr ""
+"Nëse dokumentacioni nuk u përgjigjet pyetjeve tuaja, kontrolloni listën e "
+"plotë të metodave të mbështetjes nga faqja e internetit e Xubuntu."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
+"<a href=\"https://docs.xubuntu.org/1804/\">Dokumentacioni Zyrtar në "
+"internet</a><a href=\"https://xubuntu.org/help/\"> Të gjitha metodat e "
+"mbështetjes</a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
 msgid "Real-time support"
-msgstr ""
+msgstr "Mbështetje në kohë reale"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking"
+" here</a>."
 msgstr ""
+"Për ndihmë të drejtpërdrejtë, në internet<em> në anglisht</em>, bashkohuni "
+"me kanalin tonë IRC, <em>#xubuntu</em>, duke <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">klikuar"
+" këtu</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
+"Për mbështetje në <em>gjuhë të tjera</em> , shikoni listën e plotë të <em<a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">>kanaleve lokale të "
+"mbështetjes</a>."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/03_support-live.html:16
@@ -92,7 +116,7 @@ msgstr "Mjau"
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/04_community.html:3
 msgid "Join the community"
-msgstr ""
+msgstr "Bashkohuni me komunitetin"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
@@ -100,6 +124,9 @@ msgid ""
 "We'd love to hear about your experiences with Xubuntu. Share them on the "
 "Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
+"Do të donim shumë të dëgjonim për përvojat tuaja me Xubuntu. Ndajini ato në "
+"listën e postimeve të përdoruesve Xubuntu ose në kanalin IRC # xubuntu-"
+"offtopic."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -109,8 +136,13 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
+"Gjithmonë kemi nevojë për ndihmë për ta bërë Xubuntu edhe më të mirë. Asnjë "
+"aftësi specifike nuk kërkohet të kontribuojë. Për të lexuar në lidhje me të "
+"gjitha mundësitë në dispozicion, drejtohuni tek seksioni  <a "
+"href=\"https://xubuntu.org/contribute/\">Përfshihu </a>në faqen tonë të "
+"internetit."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
-msgstr ""
+msgstr "Hej, po në lidhje me kalimin në media tuaj të instalimit një mik!"

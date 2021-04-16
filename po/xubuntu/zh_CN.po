@@ -1,48 +1,47 @@
-# Chinese (Simplified) translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
+# 
+# Translators:
+# YuHeng Chou <wojiushixxx@126.com>, 2020
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2012-04-08 11:03+0000\n"
-"Last-Translator: Carlos Gong <Unknown>\n"
-"Language-Team: Chinese (Simplified) <i18n-zh@googlegroups.com>\n"
-"Language: \n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: YuHeng Chou <wojiushixxx@126.com>, 2020\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/xubuntu/teams/110148/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:25+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
-"X-Poedit-Language: zh_CN\n"
-"X-Poedit-SourceCharset: UTF-8\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
+"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
 msgid "Welcome to Xubuntu"
-msgstr ""
+msgstr "欢迎来到 Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:5
 msgid ""
 "Start exploring your new desktop by making yourself familiar with the "
 "applications menu."
-msgstr ""
+msgstr "通过熟悉应用程序菜单开始探索新桌面。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:6
 msgid ""
 "Use the Software application to install more applications and the Settings "
 "Manager to customize the look and feel of your desktop."
-msgstr ""
+msgstr "使用软件应用程序安装更多应用程序，使用设置管理器自定义桌面的外观。"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_support.html:2
 msgid "Help & Support"
-msgstr ""
+msgstr "帮助和支持"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:5
@@ -50,58 +49,66 @@ msgid ""
 "The <em>Official Documentation</em> will help you getting started with "
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
-msgstr ""
+msgstr "<em>官方文档</em>将帮助你入门 Xubuntu。你可以在应用程序的<em>帮助</em>菜单下找到文档。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
 msgid ""
 "If the documentation doesn't answer your questions, check the full list of "
 "support methods from the Xubuntu website."
-msgstr ""
+msgstr "如果文档没有回答你的问题，从 Xubuntu 网站查看完整的支持方法列表。"
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
+"<a href=\"https://docs.xubuntu.org/1804/\">官方在线文档</a> <a "
+"href=\"https://xubuntu.org/help/\">所有支持方法</a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
 msgid "Real-time support"
-msgstr ""
+msgstr "实时支持"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking"
+" here</a>."
 msgstr ""
+"要获得<em>英语版</em>的实时在线支持，加入我们的 IRC 频道，<em>#xubuntu</em>，<a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">点击这里</a>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
+"要获得<em>其他语言</em>的支持，请查看<a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">本地支持频道的完整列表。"
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/03_support-live.html:16
 msgid "Meow"
-msgstr ""
+msgstr "喵"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/04_community.html:3
 msgid "Join the community"
-msgstr ""
+msgstr "加入社区"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
 msgid ""
 "We'd love to hear about your experiences with Xubuntu. Share them on the "
 "Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
-msgstr ""
+msgstr "我们很想听听你和 Xubuntu 的经历。在 Xubuntu 用户邮件列表或 #Xubuntu 非主题IRC频道上共享它们。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -111,8 +118,10 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
+"我们总是需要帮助，让Xubuntu变得更好。不需要特定的技能就可以做出贡献。要了解所有可用的机会，请访问我们网站的<a "
+"href=\"https://xubuntu.org/contribute/\">参与</a>部分。"
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
-msgstr ""
+msgstr "嘿，把你的安装介质传给朋友怎么样！"

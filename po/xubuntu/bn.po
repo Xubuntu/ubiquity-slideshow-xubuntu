@@ -1,22 +1,24 @@
-# Bengali translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
+# 
+# Translators:
+# Sean Davis <bluesabre@ubuntu.com>, 2020
+# Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2016-06-03 11:49+0000\n"
-"Last-Translator: Pavlushka <pavelsayekat@gmail.com>\n"
-"Language-Team: Bengali <bn@li.org>\n"
-"Language: bn\n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020\n"
+"Language-Team: Bengali (https://www.transifex.com/xubuntu/teams/110148/bn/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:25+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
+"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
@@ -29,6 +31,8 @@ msgid ""
 "Start exploring your new desktop by making yourself familiar with the "
 "applications menu."
 msgstr ""
+"অ্যাপ্লিকেশন মেনুটির সাথে নিজেকে পরিচিত করে আপনার নতুন ডেস্কটপ অন্বেষণ শুরু "
+"করুন।"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:6
@@ -36,6 +40,8 @@ msgid ""
 "Use the Software application to install more applications and the Settings "
 "Manager to customize the look and feel of your desktop."
 msgstr ""
+"আপনার ডেস্কটপের চেহারা ও অনুভূতিটি কাস্টমাইজ করতে আরও অ্যাপ্লিকেশন এবং "
+"সেটিংস ম্যানেজার ইনস্টল করতে সফ্টওয়্যার অ্যাপ্লিকেশন ব্যবহার করুন।"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_support.html:2
@@ -49,6 +55,8 @@ msgid ""
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
 msgstr ""
+"অফিশিয়াল ডকুমেন্টেশন আপনাকে জুবুন্টু দিয়ে শুরু করতে সহায়তা করবে। আপনি "
+"অ্যাপ্লিকেশন মেনুতে সহায়তার অধীনে ডকুমেন্টেশন সন্ধান করতে পারেন।"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
@@ -56,13 +64,15 @@ msgid ""
 "If the documentation doesn't answer your questions, check the full list of "
 "support methods from the Xubuntu website."
 msgstr ""
+"যদি ডকুমেন্টেশন আপনার প্রশ্নের উত্তর না দেয় তবে জুবুন্টু ওয়েবসাইট থেকে "
+"সমর্থন পদ্ধতির সম্পূর্ণ তালিকাটি পরীক্ষা করে দেখুন।"
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
-msgstr ""
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
+msgstr "অফিসিয়াল ডকুমেন্টেশন অনলাইন সমস্ত সমর্থন পদ্ধতি"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
@@ -73,22 +83,26 @@ msgstr "তাৎক্ষণিক সাপোর্ট"
 #: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking"
+" here</a>."
 msgstr ""
-"তাৎক্ষণিক এবং অনলাইন সাপোর্ট <em>ইংরেজিতে</em>, পেতে হলে , <em>#xubuntu</em> "
-"আই আর সি চ্যানেলে যোগ দিন, এই লিংকে <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">ক্লিক করার মাধ্যমে</a> ।"
+"তাৎক্ষণিক এবং অনলাইন সাপোর্ট <em>ইংরেজিতে</em>, পেতে হলে , <em>#xubuntu</em>"
+" আই আর সি চ্যানেলে যোগ দিন, এই লিংকে <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">ক্লিক"
+" করার মাধ্যমে</a> ।"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
-"<em>অন্যান্য ভাষাসমুহ</em> তে সাপোর্টের জন্য এই লিঙ্কে ক্লিক করে  লোাকাল সাপোর্ট "
-"চ্যানেল এর সম্পূর্ণ তালিকা দেখুন <a href=\"https://wiki.ubuntu.com/IRC/"
-"ChannelList/Local\">local support channels</a>"
+"<em>অন্যান্য ভাষাসমুহ</em> তে সাপোর্টের জন্য এই লিঙ্কে ক্লিক করে  লোাকাল "
+"সাপোর্ট চ্যানেল এর সম্পূর্ণ তালিকা দেখুন <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>"
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/03_support-live.html:16
@@ -98,7 +112,7 @@ msgstr "Meow"
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/04_community.html:3
 msgid "Join the community"
-msgstr ""
+msgstr "সম্প্রদায়ে যোগদান করুন"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
@@ -106,6 +120,8 @@ msgid ""
 "We'd love to hear about your experiences with Xubuntu. Share them on the "
 "Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
+"আমরা জুবুন্টুর সাথে আপনার অভিজ্ঞতাগুলি শুনতে আগ্রহী। এগুলি জুবুন্টু "
+"ব্যবহারকারীদের মেলিং তালিকায় বা # xubuntu- অফটপিক আইআরসি চ্যানেলে ভাগ করুন।"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -115,8 +131,11 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
+"জুবুন্টুকে আরও উন্নত করতে আমাদের সর্বদা সহায়তা প্রয়োজন। অবদানের জন্য কোনও "
+"নির্দিষ্ট দক্ষতার প্রয়োজন নেই। উপলভ্য সমস্ত সুযোগ সম্পর্কে পড়তে, আমাদের "
+"ওয়েবসাইটের অন্তর্ভুক্ত পান বিভাগে যান।"
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
-msgstr ""
+msgstr "আরে, আপনার ইনস্টলেশন মিডিয়ায় কোনও বন্ধুর কাছে যাওয়ার কী আছে!"

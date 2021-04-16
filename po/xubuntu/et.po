@@ -1,34 +1,35 @@
-# Estonian translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
+# 
+# Translators:
+# Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2013-04-08 13:40+0000\n"
-"Last-Translator: Jalakas <Unknown>\n"
-"Language-Team: Estonian <et@li.org>\n"
-"Language: et\n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020\n"
+"Language-Team: Estonian (https://www.transifex.com/xubuntu/teams/110148/et/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:25+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
+"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
 msgid "Welcome to Xubuntu"
-msgstr ""
+msgstr "Tere tulemast Xubuntu"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:5
 msgid ""
 "Start exploring your new desktop by making yourself familiar with the "
 "applications menu."
-msgstr ""
+msgstr "Alustage oma uue töölaua uurimist, tutvustades endrakenduste menüü."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:6
@@ -36,11 +37,13 @@ msgid ""
 "Use the Software application to install more applications and the Settings "
 "Manager to customize the look and feel of your desktop."
 msgstr ""
+"Kasutage tarkvararakendust, et installida rohkem rakendusi ja "
+"sätteidHaldaja, et kohandada oma töölaua välimust ja olemust."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_support.html:2
 msgid "Help & Support"
-msgstr ""
+msgstr "Abi ja tugi"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:5
@@ -49,6 +52,8 @@ msgid ""
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
 msgstr ""
+"Abi ja tugi <em> Ametlik dokumentatsioon </em> aitab teil alustadaXubuntu. "
+"Dokumentatsiooni leiate jaotise <em> spikker </em> altrakenduste menüü."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
@@ -56,43 +61,56 @@ msgid ""
 "If the documentation doesn't answer your questions, check the full list of "
 "support methods from the Xubuntu website."
 msgstr ""
+"Kui dokumentatsioon ei vasta teie küsimustele, vaadake täielikku "
+"loendittugimeetodid Xubuntu veebisaidilt."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+"<a href=\"https://docs.xubuntu.org/1804/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
+"<a href=\"https://docs.xubuntu.org/1804/\"> Ametlik dokumentatsioon veebis "
+"</a><a href=\"https://xubuntu.org/help/\"> Kõik tugimeetodid </a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
 msgid "Real-time support"
-msgstr ""
+msgstr "Reaalajas tugi"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"http://webchat.freenode.net/?"
-"channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"http://webchat.freenode.net/?channels=xubuntu&nick=xubuntu..i&prompt=1\">clicking"
+" here</a>."
 msgstr ""
+"Veebipõhise veebitoe <em> inglise keeles </em> saamiseks liituge meie IRC "
+"kanaliga,<em> #xubuntu </em>, autor "
+"<ahref=\"http://webchat.freenode.net/?channel=xubuntu&nick=xubuntu..i&prompt=1\">"
+" klõpsatessiin </a>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
+"<em> teistes keeltes </em> tugiteenuste saamiseks vaadake "
+"<ahref=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">kohalik tugikanalid"
+" </a>"
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/03_support-live.html:16
 msgid "Meow"
-msgstr ""
+msgstr "Mjäu"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/04_community.html:3
 msgid "Join the community"
-msgstr ""
+msgstr "Liitu kogukonnaga"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
@@ -100,6 +118,8 @@ msgid ""
 "We'd love to hear about your experiences with Xubuntu. Share them on the "
 "Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
 msgstr ""
+"Meile meeldiks teada teie kogemustest Xubuntuga. Jagage neid lehelXubuntu "
+"kasutajate meililisti või # xubuntu-offtopic IRC kanalil."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -109,8 +129,12 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
+"Vajame Xubuntu veelgi paremaks muutmisel abi. Spetsiifilisi oskusi "
+"polekohustatud panustama. Lugege kõigi võimalike võimaluste kohta,minge <a "
+"href=\"https://xubuntu.org/contribute/\"> kaasage </a>meie veebisaidi "
+"jaotis."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
-msgstr ""
+msgstr "Hei, kuidas oleks teie installikandja edastamisega sõbrale!"
