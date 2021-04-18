@@ -1,21 +1,21 @@
 # Serbian translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# Copyright © 2016 Rosetta Contributors and Canonical Ltd 2016
 # This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# Мирослав Николић <miroslavnikolic@rocketmail.com>, 2016.
+# Мирослав Николић <miroslavnikolic@rocketmail.com>, 2016–2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 15:38+0000\n"
-"PO-Revision-Date: 2016-10-14 18:12+0000\n"
+"PO-Revision-Date: 2021-02-20 22:18+0000\n"
 "Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
 "Language-Team: српски <gnome-sr@googlegroups.org>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-10-20 12:36+0000\n"
-"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
+"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
+"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/01_welcome.html:2
@@ -28,13 +28,13 @@ msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
 msgstr ""
-"Оперативни систем заснован на Убунтуу који развија заједница а који на диван "
+"Оперативни систем заснован на Убунтуу који развија заједница који на леп "
 "начин обједињује Мејтову радну површ."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/02_about.html:2
 msgid "About"
-msgstr "О пројекту"
+msgstr "Опис"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/02_about.html:7
@@ -45,11 +45,11 @@ msgid ""
 "requirements it is suitable for modern workstations, single board computers "
 "and older hardware alike."
 msgstr ""
-"Убунту Мејт је стабилан, лак за употребу оперативни систем са подесивим "
-"радним окружењем. Идеалан за оне који желе највише од својих рачунара и "
-"којима више одговара традиционална метафора радне површи. Са скромним "
-"хардверским захтевима погодан је за савремене радне станице, појединачне "
-"рачунаре као и за старији хардвер."
+"Убунту Мејт је стабилан оперативни систем који је лак за коришћење са "
+"подесивим радним окружењем. Идеалан за оне који желе најбоље од својих "
+"рачунара и желе традиционалну радну површ. Са осредњим хардверским захтевима "
+"погодан је за савремене радне станице, засебне поставе рачунара као и за "
+"старији хардвер."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/02_about.html:14
@@ -58,11 +58,14 @@ msgid ""
 "user interface with one-click to something more modern or something that you "
 "might be more familiar with via <strong>MATE Tweak</strong>."
 msgstr ""
+"За кориснике који долазе из других оперативних система, Убунту Мејт може "
+"једним кликом да прилагоди корисничко сучеље нечему савременијем или нечему "
+"са чиме бисте можда били познатији путем <strong>Мејтовог Лицка</strong>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:2
 msgid "Get up and running faster"
-msgstr ""
+msgstr "Устаните и потрчите брже"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:7
@@ -76,6 +79,14 @@ msgid ""
 "monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
 "off point to the community."
 msgstr ""
+"Убунту Мејт Добродошлица поздравља и помаже новим и корисницима "
+"повратницима. Чаробњак <strong>Први кораци</strong> водиће вас кроз прву "
+"поставку подизања система након инсталације и подешавање додатних периферија "
+"и уређаја, а документација ће помоћи у оријентацији нових корисника. Одељак "
+"<strong>Спецификације система</strong> ће вам помоћи да истражите свој "
+"хардвер и нуди вам инсталацију и покретање многих корисних алата за надзор "
+"система једним кликом. Када вам је потребна подршка Убунту Мејт Добродошлица "
+"је одскочна тачка ка заједници."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:18
@@ -97,7 +108,7 @@ msgstr "Добродошлица Убунту Мејта"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/04_software.html:2
 msgid "Find the best software"
-msgstr ""
+msgstr "Нађите најбољи софтвер"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/04_software.html:7
@@ -109,11 +120,17 @@ msgid ""
 "Experienced users can simply queue up all their favourite software for "
 "install and process it in one operation."
 msgstr ""
+"Опростите се од претраживања веба за новим софтвером. На располагању вам је "
+"обиље софтвера за Убунту Мејт а неки људи сматрају да је тај избор неодољив. "
+"<strong>Софтверски Бутик</strong> је пажљиво одабран избор најбољих "
+"апликација у класи који допуњују Убунту Мејт. Искусни корисници могу "
+"једноставно ставити свој омиљени софтвер у ред за инсталирање и обрадити га "
+"у једној операцији."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/04_software.html:20
 msgid "Software Boutique"
-msgstr ""
+msgstr "Софтверски Бутик"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/04_software.html:23
@@ -126,12 +143,12 @@ msgstr "Подржани програми"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/04_software.html:27
 msgid "Ubuntu Software"
-msgstr ""
+msgstr "Убутну софтвер"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:2
 msgid "Personalised computing"
-msgstr ""
+msgstr "Персонализовано рачунарство"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:7
@@ -146,11 +163,20 @@ msgid ""
 "<strong>Comptemporary</strong>. Experienced users can customise the user "
 "interface and save their creations."
 msgstr ""
+"Основно Убунту Мејт корисничко сучеље је интуитиван и лак за употребу. Али "
+"ми разумемо да људи имају различите укусе и жеље, због чега смо створили "
+"<strong>Мејтовог Лицка</strong>, алат за промену корисничког сучеља који "
+"опонаша друге оперативне системе. Долазите из Виндоуза? Пробајте "
+"<strong>Редмонд</strong>. Више вам одговара начин на који мекОС изгледа? "
+"Пробајте <strong>Купертино</strong>. За љубитеље Убунту Јунитија погледајте "
+"<strong>Мјутини</strong>. Или за хибридно корисничко сучеље, испробајте "
+"<strong>Пантеон</strong> или <strong>Комптемпорари</strong>. Искусни "
+"корисници могу прилагодити корисничко сучеље и сачувати своје творевине."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:23
 msgid "MATE Tweak"
-msgstr ""
+msgstr "Мејтов Лицко"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/06_browse.html:2
@@ -167,11 +193,17 @@ msgid ""
 "<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
 "strong> in the Software Boutique."
 msgstr ""
+"Убунту Мејт укључује <strong>Фајерфокс</strong>, лаган и сигуран веб "
+"прегледач који користе милиони људи широм света. Осмишљен са приватношћу на "
+"уму, укључује побољшане безбедносне функције да вас заштити од претњи на "
+"мрежи. Такође ћете пронаћи и <strong>Brave</strong>, <strong>Хромијум</"
+"strong>, <strong>Гугл Хром</strong>, <strong>Оперу</strong> и "
+"<strong>Вивалди</strong> у Софтверском Бутику."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:20
 msgid "Firefox"
-msgstr ""
+msgstr "Фајерфокс"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:24
@@ -186,7 +218,7 @@ msgstr "Хромијум"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/07_games.html:2
 msgid "Get your game on!"
-msgstr ""
+msgstr "Набавите ваше игрице!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:7
@@ -198,16 +230,21 @@ msgid ""
 "ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
 "person shooters."
 msgstr ""
+"Убунту Мејт није само посао, већ је одличан и за игру! Наћићете "
+"<strong>Стим</strong> и <strong>Мајнекрафт</strong> у <strong>Софтверском "
+"Бутику</strong>. Такође смо изабрали најбоље игре отвореног кода и опремили "
+"Софтверски Бутик платформистима, пуцачима, тркачима, симулаторима летења, "
+"загонеткама, стратешким и пуцачима у првом лицу."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:19
 msgid "Steam"
-msgstr ""
+msgstr "Стим"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:23
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/08_music.html:2
@@ -224,6 +261,13 @@ msgid ""
 "<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
 "many popular streaming services, in the <strong>Software Boutique</strong>"
 msgstr ""
+"Убунту Мејт долази са невероватном Музичком машином програмом за пуштање "
+"музике. Уз напредне опције пуштања, врло је једноставно ставити у ред "
+"савршене песме. И одлично ради са ЦД дисковима и преносним музичким "
+"уређајима, тако да можете уживати у свој својој музици где год да идете. Ако "
+"више волите услуге токова, у <strong>Софтверском Бутику</strong> наћи ћете "
+"<strong>Спотифи</strong> и <strong>Нувола Плејер</strong> који подржава "
+"многе популарне услуге токова"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/08_music.html:20
@@ -234,12 +278,12 @@ msgstr "Ритам машина музички програм"
 #: slideshows/ubuntu-mate/slides/08_music.html:24
 #: slideshows/ubuntu-mate/slides/10_video.html:20
 msgid "VLC"
-msgstr ""
+msgstr "ВЛЦ"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/09_photos.html:2
 msgid "Organise your photos"
-msgstr "Организујте ваше фотографије"
+msgstr "Средите ваше фотографије"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/09_photos.html:7
@@ -251,11 +295,17 @@ msgid ""
 "<strong>Luminance HDR</strong> that offer virtual lightable and darkroom for "
 "RAW and HDR image workflows."
 msgstr ""
+"Фото-бунар је згодан управник фотографија који је спреман за ваше справице. "
+"Повежите фотоапарат или телефон да пренесете фотографије, те ћете их лако "
+"делити и заштитити. За љубитеље дигиталне фотографије и професионалце, "
+"Софтверски Бутик укључује <strong>Darktable</strong> и <strong>Luminance "
+"HDR</strong> који нуде виртуелну осветљиву и тамну комору за радне токове "
+"сирових и ХДР слика."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/09_photos.html:20
 msgid "Shotwell Photo Manager"
-msgstr "Фото-бунар управник фотографија"
+msgstr "Управник фотографија Фото-бунар"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/09_photos.html:27
@@ -265,7 +315,7 @@ msgstr "Гимп програм за обраду слика"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/10_video.html:2
 msgid "Grab some popcorn!"
-msgstr ""
+msgstr "Набавите мало кокица!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/10_video.html:7
@@ -275,6 +325,10 @@ msgid ""
 "content from your favourite streaming services such as <strong>Netflix</"
 "strong> and <strong>YouTube</strong>."
 msgstr ""
+"Убунту Мејт долази са унапред инсталираним, <strong>Фајерфоксом</strong> а "
+"<strong>Гугл Хром</strong> се налази у Софтверском Бутику, тако да можете "
+"гледати садржај са својих омиљених услуга токова, као што је "
+"<strong>Нетфликс</strong> и <strong>ЈуТуб</strong>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/10_video.html:12
@@ -282,6 +336,8 @@ msgid ""
 "With <strong>VLC</strong> installed by default you can watch all you local "
 "video with ease."
 msgstr ""
+"Са <strong>ВЛЦ-ом</strong> инсталираним по основи можете гледати све ваше "
+"снимке са лакоћом."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/11_office.html:2
@@ -295,6 +351,10 @@ msgid ""
 "documents, spreadsheets and presentations.  Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"ЛибреОфис је бесплатан канцеларијски пакет са свим што вам је потребно за "
+"стварање докумената, табела и презентација. Сагласан са форматима датотека "
+"Мајкрософт Офиса, пружа вам све функције које су вам потребне, без икакве "
+"наплате."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/11_office.html:17
@@ -314,7 +374,7 @@ msgstr "Либреофис презентација"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/12_accessibility.html:2
 msgid "Accessible for everyone"
-msgstr "Приступачан за свакога"
+msgstr "Приступачност за свакога"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/12_accessibility.html:7
@@ -324,10 +384,10 @@ msgid ""
 "language, colour scheme and text size, Ubuntu MATE makes computing easy - "
 "whoever and wherever you are."
 msgstr ""
-"Срж филозофије Убунту Мејта је уверење да су рачунари за свакога. Са "
-"напредним алаткама за приступачност и испомоћ и могућностима промене језика, "
-"шеме боја и величине текста, Убунту Мејт вам олакшава употребу рачунара — "
-"било ко и било где да сте."
+"У срцу Убунтуове Мејт филозофије је веровање да је рачунарство за свакога. "
+"Са напредним алатима приступачности и могућностима промене језика, шеме боја "
+"и величине текста, Убунту Мејт олакшава рад на рачунару — било где и било ко "
+"да сте."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/12_accessibility.html:13
@@ -357,7 +417,7 @@ msgstr "Приступите заједници"
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/13_community.html:7
 msgid "Discussion & Support"
-msgstr ""
+msgstr "Расправа и подршка"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:11
@@ -365,6 +425,8 @@ msgid ""
 "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
 "Forum</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Форум Убунту "
+"Мејта</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:15
@@ -372,17 +434,20 @@ msgid ""
 "<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
 "\"caption\">Google+</a>"
 msgstr ""
+"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
+"\"caption\">Гугл+</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:19
 msgid ""
 "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Ћаскање уживо</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/13_community.html:22
 msgid "Announcements"
-msgstr "Објављивања"
+msgstr "Најаве"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:26
@@ -410,6 +475,7 @@ msgstr "Развој"
 msgid ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Код</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:41

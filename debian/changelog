@@ -1,3 +1,35 @@
+ubiquity-slideshow-ubuntu (167) hirsute; urgency=medium
+
+  * Update Ubuntu slideshow for Hirsute
+
+ -- Jean-Baptiste Lallement <jean-baptiste.lallement@ubuntu.com>  Fri, 16 Apr 2021 16:28:53 +0200
+
+ubiquity-slideshow-ubuntu (166) hirsute; urgency=medium
+
+  * The LP translation update clobbered Transifex Xubuntu translations. Fix it
+    by reverting their import.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Fri, 16 Apr 2021 11:52:12 +0200
+
+ubiquity-slideshow-ubuntu (165) hirsute; urgency=medium
+
+  [ Pasi Lallinaho ]
+  * Update Xubuntu translations from Transifex.
+
+  [ Łukasz 'sil2100' Zemczak ] 
+  * Updated launchpad translations
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Thu, 15 Apr 2021 17:14:48 +0200
+
+ubiquity-slideshow-ubuntu (164) hirsute; urgency=medium
+
+  * Updated the default artwork for Ubuntu
+
+  [ Martin Wimpress]
+  * Update Ubuntu MATE slideshows for Hirsute Hippo
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 01 Apr 2021 16:28:16 +0200
+
 ubiquity-slideshow-ubuntu (163ubuntu1) hirsute; urgency=medium
 
   [ Brian Murray ]
