@@ -1,22 +1,26 @@
-# Basque translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Sean Davis <bluesabre@ubuntu.com>, 2020
+# Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020
+# Xabier Etxezarreta <xabi1500@gmail.com>, 2021
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2014-03-30 22:10+0000\n"
-"Last-Translator: Ibai Oihanguren Sala <Unknown>\n"
-"Language-Team: Basque <eu@li.org>\n"
-"Language: eu\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-08-20 05:12-0400\n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: Xabier Etxezarreta <xabi1500@gmail.com>, 2021\n"
+"Language-Team: Basque (https://www.transifex.com/xubuntu/teams/110148/eu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
-"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
+"Language: eu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
@@ -28,7 +32,7 @@ msgstr "Ongi etorri Xubuntura"
 msgid ""
 "Start exploring your new desktop by making yourself familiar with the "
 "applications menu."
-msgstr ""
+msgstr "Hasi aplikazioen menua ezagutuz zure mahaigain berria aztertzen."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:6
@@ -36,6 +40,8 @@ msgid ""
 "Use the Software application to install more applications and the Settings "
 "Manager to customize the look and feel of your desktop."
 msgstr ""
+"Erabili Software aplikazioa aplikazio gehiago instalatzeko eta ezarpenen "
+"kudeatzailea zure mahaigainaren itxura pertsonalizatzeko."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_support.html:2
@@ -49,6 +55,8 @@ msgid ""
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
 msgstr ""
+"Dokumentazio Ofizialak Xubuntu erabiltzen hastea lagungarri izango zaizu. "
+"Aplikazioen menuan Laguntzaren azpian dagoen dokumentazioa aurki dezakezu."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
@@ -56,13 +64,17 @@ msgid ""
 "If the documentation doesn't answer your questions, check the full list of "
 "support methods from the Xubuntu website."
 msgstr ""
+"Dokumentazio Ofizialak Xubuntuk hainbat lagun izango ditu. Aplikazioen menua"
+" Laguntzaren azpian dokumentazioei buruzko dokumentazioa aplikatu daiteke."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/2004/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+"<a href=\"https://docs.xubuntu.org/2004/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
+"<a href=\"https://docs.xubuntu.org/2004/\">Dokumentazio ofiziala "
+"online</a><a href=\"https://xubuntu.org/help/\">Laguntza metodo guztiak</a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
@@ -73,33 +85,49 @@ msgstr "Denbora errealeko sostengua"
 #: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"https://kiwiirc.com/nextclient/irc.libera."
-"chat?nick=xubuntu?i#xubuntu\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu\">clicking"
+" here</a>."
 msgstr ""
+"Online eta zuzeneko laguntza ingelesez eskuratzeko, sartu gure #xubuntu IRC "
+"kanalera<a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu\">hemen"
+" klik eginez</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
+"Beste hizkuntza batzuetan laguntza lortzeko, ikusi tokiko laguntza kanalen "
+"zerrenda osoa."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/03_support-live.html:16
 msgid "Meow"
-msgstr ""
+msgstr "Miau"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/xubuntu/slides/04_community.html:3
 msgid "Join the community"
-msgstr ""
+msgstr "Sartu komunitatera"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
 msgid ""
-"We'd love to hear about your experiences with Xubuntu. Share them on the "
-"Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
+"We'd love to hear about your experiences with Xubuntu. Share them on the <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users\">Xubuntu "
+"users mailing list</a> or on the <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i"
+"#xubuntu-offtopic\">#xubuntu-offtopic IRC channel</a>."
 msgstr ""
+"Gustatuko litzaiguke Xubunturekin izandako esperientzien berri izatea. "
+"Partekatu <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-"
+"users\">Xubuntu erabiltzaileen posta zerrendan</a> edo <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i"
+"#xubuntu-offtopic\">#xubuntu-offtopic IRC kanalean</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -109,8 +137,11 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
+"Xubuntu hobetzeko laguntza behar dugu beti. Ez da gaitasun zehatzik behar. "
+"Eskuragarri dauden aukera guztiei buruz irakurtzeko, zoaz gure web orriaren "
+"Parte Hartu atalera."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
-msgstr ""
+msgstr "Hey, zure instalazioko euskarria lagun bati pasatzeaz!"
