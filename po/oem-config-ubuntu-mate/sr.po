@@ -5,25 +5,25 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:38+0000\n"
-"PO-Revision-Date: 2021-02-19 11:06+0000\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2021-04-22 01:42+0200\n"
+"PO-Revision-Date: 2021-07-10 05:57+0000\n"
 "Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
-"Language-Team: српски <gnome-sr@googlegroups.org>\n"
-"Language: sr\n"
+"Language-Team: Serbian <(nothing)>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2021-10-03 10:41+0000\n"
+"X-Generator: Launchpad (build 1ce78163f6a09ed42b4201fe7d3f0e3a2eba7d02)\n"
+"Language: sr\n"
 
-#. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:2
+#. type: Content of: <div><div><h1>
+#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:3
 msgid "Welcome to Ubuntu MATE"
 msgstr "Добро дошли у Убунту Мејт"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:7
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:4
 msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
@@ -41,26 +41,31 @@ msgstr "Опис"
 msgid ""
 "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
 "desktop environment. Ideal for those who want the most out of their "
-"computers and prefer a traditional desktop metaphor. With modest hardware "
-"requirements it is suitable for modern workstations, single board computers "
-"and older hardware alike."
+"computers and prefer a traditional desktop metaphor."
 msgstr ""
-"Убунту Мејт је стабилан оперативни систем који је лак за коришћење са "
-"подесивим радним окружењем. Идеалан за оне који желе најбоље од својих "
-"рачунара и желе традиционалну радну површ. Са осредњим хардверским захтевима "
-"погодан је за савремене радне станице, засебне поставе рачунара као и за "
-"старији хардвер."
+"Убунту Мејт је стабилан, лак за употребу оперативни систем са подесивим "
+"радним окружењем. Идеалан за оне који желе највише од својих рачунара и више "
+"воле традиционалну метафору радне површи."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:14
+#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:11
+msgid ""
+"With modest hardware requirements it is suitable for modern workstations, "
+"single board computers and older hardware alike."
+msgstr ""
+"Са скромним хардверским захтевима, погодан је за модерне радне станице, "
+"рачунаре са једном матичном плочом и старијим хардвером."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:17
 msgid ""
 "For users coming from other operating systems, Ubuntu MATE can adapt the "
 "user interface with one-click to something more modern or something that you "
 "might be more familiar with via <strong>MATE Tweak</strong>."
 msgstr ""
-"За кориснике који долазе из других оперативних система, Убунту Мејт може "
+"За кориснике који долазе са других оперативних система, Убунту Мејт може "
 "једним кликом да прилагоди корисничко сучеље нечему савременијем или нечему "
-"са чиме бисте можда били познатији путем <strong>Мејтовог Лицка</strong>."
+"са чиме бисте можда били упознатији путем <strong>Мејтовог Лицка</strong>."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:2
@@ -72,28 +77,28 @@ msgstr "Устаните и потрчите брже"
 msgid ""
 "Ubuntu MATE Welcome greets and assists new and returning users. The "
 "<strong>Getting Started</strong> wizard will guide you through the first "
-"boot post-installation setup and configuration of additional peripherals and "
-"devices and the documentation will help orientate new users. The "
+"boot post-installation setup and the configuration of additional peripherals "
+"and devices, while the documentation will help orientate new users. The "
 "<strong>Systems Specifications</strong> section will help you explore your "
-"hardware and offers one-click install and launch of many useful system "
-"monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
-"off point to the community."
+"hardware and offers one-click installation for many useful system monitoring "
+"tools. When you need help Ubuntu MATE Welcome is the jumping off point to "
+"the community."
 msgstr ""
 "Убунту Мејт Добродошлица поздравља и помаже новим и корисницима "
 "повратницима. Чаробњак <strong>Први кораци</strong> водиће вас кроз прву "
 "поставку подизања система након инсталације и подешавање додатних периферија "
-"и уређаја, а документација ће помоћи у оријентацији нових корисника. Одељак "
+"и уређаја, док ће документација помоћи у усмерењу нових корисника. Одељак "
 "<strong>Спецификације система</strong> ће вам помоћи да истражите свој "
-"хардвер и нуди вам инсталацију и покретање многих корисних алата за надзор "
-"система једним кликом. Када вам је потребна подршка Убунту Мејт Добродошлица "
-"је одскочна тачка ка заједници."
+"хардвер и нуди вам инсталацију многих корисних алата за надзор система "
+"једним кликом. Када вам је потребна подршка Убунту Мејт Добродошлица је "
+"одскочна тачка ка заједници."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:18
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:16
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:19
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:16
-#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:15
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:16
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:16
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:13
@@ -154,18 +159,18 @@ msgstr "Персонализовано рачунарство"
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:7
 msgid ""
 "The default Ubuntu MATE user interface is intuitive and easy to use. But we "
-"understand people have different tastes and preferences which is why we "
-"created <strong>MATE Tweak</strong>, a tool to change the user interface to "
-"mimic other operating systems. Coming from Windows? Try <strong>Redmond</"
-"strong>.  Prefer the way macOS is layed out? Try <strong>Cupertino</"
-"strong>.  For Ubuntu Unity fans take a look at <strong>Mutiny</strong>.  Or "
-"for a hybrid user interface, try <strong>Pantheon</strong> or "
-"<strong>Comptemporary</strong>. Experienced users can customise the user "
-"interface and save their creations."
+"understand people have different tastes and preferences, which is why we "
+"created <strong>MATE Tweak</strong>; a tool to change the user interface to "
+"mimic other operating systems. Coming from Windows? Try "
+"<strong>Redmond</strong>.  Prefer the way macOS is layed out? Try "
+"<strong>Cupertino</strong>.  For Ubuntu Unity fans take a look at "
+"<strong>Mutiny</strong>.  Or for a hybrid user interface, try "
+"<strong>Pantheon</strong> or <strong>Comptemporary</strong>. Experienced "
+"users can customise the user interface and save their creations."
 msgstr ""
 "Основно Убунту Мејт корисничко сучеље је интуитиван и лак за употребу. Али "
 "ми разумемо да људи имају различите укусе и жеље, због чега смо створили "
-"<strong>Мејтовог Лицка</strong>, алат за промену корисничког сучеља који "
+"<strong>Мејтовог Лицка</strong>; алат за промену корисничког сучеља који "
 "опонаша друге оперативне системе. Долазите из Виндоуза? Пробајте "
 "<strong>Редмонд</strong>. Више вам одговара начин на који мекОС изгледа? "
 "Пробајте <strong>Купертино</strong>. За љубитеље Убунту Јунитија погледајте "
@@ -190,15 +195,15 @@ msgid ""
 "used by millions of people around the world.  Designed with privacy in mind "
 "it includes enhanced security features to protect you from online threats. "
 "You'll also find <strong>Brave</strong>, <strong>Chromium</strong>, "
-"<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
-"strong> in the Software Boutique."
+"<strong>Google Chrome</strong>, <strong>Opera</strong> and "
+"<strong>Vivaldi</strong> in the Software Boutique."
 msgstr ""
 "Убунту Мејт укључује <strong>Фајерфокс</strong>, лаган и сигуран веб "
 "прегледач који користе милиони људи широм света. Осмишљен са приватношћу на "
 "уму, укључује побољшане безбедносне функције да вас заштити од претњи на "
-"мрежи. Такође ћете пронаћи и <strong>Brave</strong>, <strong>Хромијум</"
-"strong>, <strong>Гугл Хром</strong>, <strong>Оперу</strong> и "
-"<strong>Вивалди</strong> у Софтверском Бутику."
+"мрежи. Такође ћете пронаћи и <strong>Brave</strong>, "
+"<strong>Хромијум</strong>, <strong>Гугл Хром</strong>, "
+"<strong>Оперу</strong> и <strong>Вивалди</strong> у Софтверском Бутику."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:20
@@ -207,8 +212,8 @@ msgstr "Фајерфокс"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:24
-msgid "Thunderbird Mail"
-msgstr "Тандерберд пошта"
+msgid "Evolution"
+msgstr "Еволуција"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:31
@@ -227,7 +232,7 @@ msgid ""
 "<strong>Steam</strong> and <strong>Minecraft</strong> in the "
 "<strong>Software Boutique</strong>. We've also selected the very best open "
 "source games and stocked the Software Boutique with platformers, shoot 'em "
-"ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
+"ups, racers, flight simulators, puzzlers, turn based strategy and first "
 "person shooters."
 msgstr ""
 "Убунту Мејт није само посао, већ је одличан и за игру! Наћићете "
@@ -258,27 +263,25 @@ msgid ""
 "playback options, it's simple to queue up the perfect songs. And it works "
 "great with CDs and portable music players, so you can enjoy all your music "
 "wherever you go. If you prefer streaming services you'll find "
-"<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
-"many popular streaming services, in the <strong>Software Boutique</strong>"
+"<strong>Spotify</strong> in the <strong>Software Boutique</strong>."
 msgstr ""
 "Убунту Мејт долази са невероватном Музичком машином програмом за пуштање "
 "музике. Уз напредне опције пуштања, врло је једноставно ставити у ред "
 "савршене песме. И одлично ради са ЦД дисковима и преносним музичким "
 "уређајима, тако да можете уживати у свој својој музици где год да идете. Ако "
-"више волите услуге токова, у <strong>Софтверском Бутику</strong> наћи ћете "
-"<strong>Спотифи</strong> и <strong>Нувола Плејер</strong> који подржава "
-"многе популарне услуге токова"
+"више волите услуге токова, наћи ћете <strong>Спотифи</strong> у "
+"<strong>Софтверском Бутику</strong>."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:20
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:19
 msgid "Rhythmbox Music Player"
 msgstr "Ритам машина музички програм"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:24
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:23
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:20
-msgid "VLC"
-msgstr "ВЛЦ"
+msgid "Celluloid"
+msgstr "Целулоид"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:2
@@ -322,8 +325,8 @@ msgstr "Набавите мало кокица!"
 msgid ""
 "Ubuntu MATE comes with <strong>Firefox</strong> pre-installed and "
 "<strong>Google Chrome</strong> is in the Software Boutique so you can watch "
-"content from your favourite streaming services such as <strong>Netflix</"
-"strong> and <strong>YouTube</strong>."
+"content from your favourite streaming services such as "
+"<strong>Netflix</strong> and <strong>YouTube</strong>."
 msgstr ""
 "Убунту Мејт долази са унапред инсталираним, <strong>Фајерфоксом</strong> а "
 "<strong>Гугл Хром</strong> се налази у Софтверском Бутику, тако да можете "
@@ -333,11 +336,11 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:12
 msgid ""
-"With <strong>VLC</strong> installed by default you can watch all you local "
-"video with ease."
+"With <strong>Celluloid</strong> installed by default you can watch all your "
+"local video with ease."
 msgstr ""
-"Са <strong>ВЛЦ-ом</strong> инсталираним по основи можете гледати све ваше "
-"снимке са лакоћом."
+"Са <strong>Целулоидом</strong> инсталираним по основи можете с лакоћом "
+"гледати све ваше локалне видео снимке."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:2
@@ -431,57 +434,158 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:15
 msgid ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+</a>"
+"<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">Live "
+"Chat</a>"
 msgstr ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Гугл+</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:19
-msgid ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
-msgstr ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Ћаскање уживо</a>"
+"<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">Ћаскање "
+"уживо</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:22
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:18
 msgid "Announcements"
 msgstr "Најаве"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:26
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:22
 msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Твитер</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:30
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:26
 msgid ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
-"\">Facebook</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 msgstr ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
-"\">Фејсбук</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Фејсбук</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:33
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:29
 msgid "Development"
 msgstr "Развој"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:37
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:33
 msgid ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Код</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:41
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:37
 msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
 msgstr ""
-"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption"
-"\">Пратилац грешака</a>"
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" "
+"class=\"caption\">Пратилац грешака</a>"
+
+#~ msgid ""
+#~ "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
+#~ "desktop environment. Ideal for those who want the most out of their "
+#~ "computers and prefer a traditional desktop metaphor. With modest hardware "
+#~ "requirements it is suitable for modern workstations, single board computers "
+#~ "and older hardware alike."
+#~ msgstr ""
+#~ "Убунту Мејт је стабилан оперативни систем који је лак за коришћење са "
+#~ "подесивим радним окружењем. Идеалан за оне који желе најбоље од својих "
+#~ "рачунара и желе традиционалну радну површ. Са осредњим хардверским захтевима "
+#~ "погодан је за савремене радне станице, засебне поставе рачунара као и за "
+#~ "старији хардвер."
+
+#~ msgid "Thunderbird Mail"
+#~ msgstr "Тандерберд пошта"
+
+#~ msgid ""
+#~ "Ubuntu MATE Welcome greets and assists new and returning users. The "
+#~ "<strong>Getting Started</strong> wizard will guide you through the first "
+#~ "boot post-installation setup and configuration of additional peripherals and "
+#~ "devices and the documentation will help orientate new users. The "
+#~ "<strong>Systems Specifications</strong> section will help you explore your "
+#~ "hardware and offers one-click install and launch of many useful system "
+#~ "monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
+#~ "off point to the community."
+#~ msgstr ""
+#~ "Убунту Мејт Добродошлица поздравља и помаже новим и корисницима "
+#~ "повратницима. Чаробњак <strong>Први кораци</strong> водиће вас кроз прву "
+#~ "поставку подизања система након инсталације и подешавање додатних периферија "
+#~ "и уређаја, а документација ће помоћи у оријентацији нових корисника. Одељак "
+#~ "<strong>Спецификације система</strong> ће вам помоћи да истражите свој "
+#~ "хардвер и нуди вам инсталацију и покретање многих корисних алата за надзор "
+#~ "система једним кликом. Када вам је потребна подршка Убунту Мејт Добродошлица "
+#~ "је одскочна тачка ка заједници."
+
+#~ msgid ""
+#~ "The default Ubuntu MATE user interface is intuitive and easy to use. But we "
+#~ "understand people have different tastes and preferences which is why we "
+#~ "created <strong>MATE Tweak</strong>, a tool to change the user interface to "
+#~ "mimic other operating systems. Coming from Windows? Try "
+#~ "<strong>Redmond</strong>.  Prefer the way macOS is layed out? Try "
+#~ "<strong>Cupertino</strong>.  For Ubuntu Unity fans take a look at "
+#~ "<strong>Mutiny</strong>.  Or for a hybrid user interface, try "
+#~ "<strong>Pantheon</strong> or <strong>Comptemporary</strong>. Experienced "
+#~ "users can customise the user interface and save their creations."
+#~ msgstr ""
+#~ "Основно Убунту Мејт корисничко сучеље је интуитиван и лак за употребу. Али "
+#~ "ми разумемо да људи имају различите укусе и жеље, због чега смо створили "
+#~ "<strong>Мејтовог Лицка</strong>, алат за промену корисничког сучеља који "
+#~ "опонаша друге оперативне системе. Долазите из Виндоуза? Пробајте "
+#~ "<strong>Редмонд</strong>. Више вам одговара начин на који мекОС изгледа? "
+#~ "Пробајте <strong>Купертино</strong>. За љубитеље Убунту Јунитија погледајте "
+#~ "<strong>Мјутини</strong>. Или за хибридно корисничко сучеље, испробајте "
+#~ "<strong>Пантеон</strong> или <strong>Комптемпорари</strong>. Искусни "
+#~ "корисници могу прилагодити корисничко сучеље и сачувати своје творевине."
+
+#~ msgid ""
+#~ "Ubuntu MATE is not just about work, it's also great for play! You'll find "
+#~ "<strong>Steam</strong> and <strong>Minecraft</strong> in the "
+#~ "<strong>Software Boutique</strong>. We've also selected the very best open "
+#~ "source games and stocked the Software Boutique with platformers, shoot 'em "
+#~ "ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
+#~ "person shooters."
+#~ msgstr ""
+#~ "Убунту Мејт није само посао, већ је одличан и за игру! Наћићете "
+#~ "<strong>Стим</strong> и <strong>Мајнекрафт</strong> у <strong>Софтверском "
+#~ "Бутику</strong>. Такође смо изабрали најбоље игре отвореног кода и опремили "
+#~ "Софтверски Бутик платформистима, пуцачима, тркачима, симулаторима летења, "
+#~ "загонеткама, стратешким и пуцачима у првом лицу."
+
+#~ msgid ""
+#~ "Ubuntu MATE comes with the amazing Rhythmbox music player.  With advanced "
+#~ "playback options, it's simple to queue up the perfect songs. And it works "
+#~ "great with CDs and portable music players, so you can enjoy all your music "
+#~ "wherever you go. If you prefer streaming services you'll find "
+#~ "<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
+#~ "many popular streaming services, in the <strong>Software Boutique</strong>"
+#~ msgstr ""
+#~ "Убунту Мејт долази са невероватном Музичком машином програмом за пуштање "
+#~ "музике. Уз напредне опције пуштања, врло је једноставно ставити у ред "
+#~ "савршене песме. И одлично ради са ЦД дисковима и преносним музичким "
+#~ "уређајима, тако да можете уживати у свој својој музици где год да идете. Ако "
+#~ "више волите услуге токова, у <strong>Софтверском Бутику</strong> наћи ћете "
+#~ "<strong>Спотифи</strong> и <strong>Нувола Плејер</strong> који подржава "
+#~ "многе популарне услуге токова"
+
+#~ msgid "VLC"
+#~ msgstr "ВЛЦ"
+
+#~ msgid ""
+#~ "With <strong>VLC</strong> installed by default you can watch all you local "
+#~ "video with ease."
+#~ msgstr ""
+#~ "Са <strong>ВЛЦ-ом</strong> инсталираним по основи можете гледати све ваше "
+#~ "снимке са лакоћом."
+
+#~ msgid ""
+#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
+#~ "class=\"caption\">Google+</a>"
+#~ msgstr ""
+#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
+#~ "class=\"caption\">Гугл+</a>"
+
+#~ msgid ""
+#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
+#~ msgstr ""
+#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Ћаскање уживо</a>"

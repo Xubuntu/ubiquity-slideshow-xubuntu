@@ -6,17 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2019-07-13 21:31+0000\n"
-"Last-Translator: Artyom Pozharov <Unknown>\n"
-"Language-Team: Russian <ru@li.org>\n"
-"Language: ru\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2021-04-22 01:42+0200\n"
+"PO-Revision-Date: 2021-09-16 13:54+0000\n"
+"Last-Translator: vofka <Unknown>\n"
+"Language-Team: Russian Ubuntu Translators <ubuntu-l10n-ru@lists.ubuntu.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2021-10-03 10:36+0000\n"
+"X-Generator: Launchpad (build 1ce78163f6a09ed42b4201fe7d3f0e3a2eba7d02)\n"
+"Language: ru\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -87,16 +87,21 @@ msgstr "Установленные программы"
 msgid "Firefox web browser"
 msgstr "Веб-браузер Firefox"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/browse.html:20
+msgid "Thunderbird"
+msgstr "Почтовый клиент Thunderbird"
+
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:19
+#: slideshows/ubuntu/slides/browse.html:23
 #: slideshows/ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "Поддерживаемые приложения"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:23
+#: slideshows/ubuntu/slides/browse.html:27
 msgid "Chromium"
-msgstr "Chromium"
+msgstr "Веб-браузер Chromium"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/gethelp.html:1
@@ -112,32 +117,35 @@ msgid ""
 "Dock."
 msgstr ""
 "<span class=\"app\" data-app=\"docs\">Официальная документация</span> "
-"разъясняет общие аспекты Ubuntu. Она доступна как в <a href=\"https://help."
-"ubuntu.com\">сети</a>, так и вызовом через значок Справки на панели."
+"разъясняет общие аспекты Ubuntu. Она доступна как в <a "
+"href=\"https://help.ubuntu.com\">сети</a>, так и вызовом через значок "
+"Справки на панели."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
-"teams/\">Local Community Team</a>."
+"your own language may be provided by your <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
 msgstr ""
 "На <a href=\"http://askubuntu.com\">Ask Ubuntu</a> можно задать вопрос или "
 "выполнить поиск по обширной коллекции готовых ответов на вопросы. Поддержку "
-"на вашем родном языке может предоставить <a href=\"http://loco.ubuntu.com/"
-"teams/\">команда местного сообщества</a>."
+"на вашем родном языке может предоставить <a "
+"href=\"http://loco.ubuntu.com/teams/\">команда местного сообщества</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"https://www."
-"ubuntu.com/support/community-support\">Community support</a> or <a href="
-"\"http://www.ubuntu.com/support\">Commercial support</a>."
+"For pointers to other useful resources, please visit <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Community "
+"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
+"support</a>."
 msgstr ""
-"Ссылки на другие полезные ресурсы, располагаются в разделе <a href=\"https://"
-"www.ubuntu.com/support/community-support\">Поддержка сообщества</a> или <a "
-"href=\"http://www.ubuntu.com/support\">Коммерческая поддержка</a>."
+"Ссылки на другие полезные ресурсы, располагаются в разделе <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Поддержка "
+"сообщества</a> или <a href=\"http://www.ubuntu.com/support\">Коммерческая "
+"поддержка</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -221,13 +229,14 @@ msgstr "Наслаждайтесь вашими фотографиями"
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"keep them safe. And if you’re feeling creative, you can find many other "
+"photo apps in Ubuntu Software."
 msgstr ""
-"Shotwell — это удобный менеджер фотографий. Подсоедините фотоаппарат или "
-"телефон, скопируйте фотографии для безопасного хранения и быстрого доступа. "
-"Попробуйте множество программ для редактирования фотографий в Центре "
-"приложений Ubuntu."
+"Shotwell — удобный менеджер фотографий, готовый для использования с вашими "
+"устройствами. Подключите фотоаппарат или телефон к компьютеру и перенесите "
+"фотографии на него, тогда будет легко хранить их и делиться ими. И если вы "
+"творческая натура, то вы можете найти множество других приложений для работы "
+"с фотографиями в Центре приложений Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -241,8 +250,8 @@ msgstr "Редактор изображений GIMP"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "Видеоредактор Pitivi"
+msgid "Shotcut Video Editor"
+msgstr "Видеоредактор Shotcut"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
@@ -275,5 +284,20 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
-"Быстрая и современная, последняя версия Ubuntu упрощает работу за "
-"компьютером. Здесь перечислены некоторые новые возможности…"
+"Быстрая и полная возможностей, последняя версия Ubuntu упрощает работу за "
+"компьютером. Вот только некоторые из возможностей, на которые стоит обратить "
+"внимание..."
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Видеоредактор Pitivi"
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
+#~ "camera or a phone to transfer your photos, then it’s easy to share them and "
+#~ "keep them safe. If you’re feeling creative, you can try lots of photo apps "
+#~ "from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "Shotwell — это удобный менеджер фотографий. Подсоедините фотоаппарат или "
+#~ "телефон, скопируйте фотографии для безопасного хранения и быстрого доступа. "
+#~ "Попробуйте множество программ для редактирования фотографий в Центре "
+#~ "приложений Ubuntu."

@@ -6,25 +6,24 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:38+0000\n"
-"PO-Revision-Date: 2019-11-04 11:27+0000\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2021-04-22 01:42+0200\n"
+"PO-Revision-Date: 2021-08-28 12:20+0000\n"
 "Last-Translator: Yaron <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
-"Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2021-10-03 10:41+0000\n"
+"X-Generator: Launchpad (build 1ce78163f6a09ed42b4201fe7d3f0e3a2eba7d02)\n"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu-mate/slides/01_welcome.html:2
+#. type: Content of: <div><div><h1>
+#: slideshows/ubuntu-mate/slides/01_welcome.html:3
 msgid "Welcome to Ubuntu MATE"
 msgstr "ברוך בואך לאובונטו MATE"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-mate/slides/01_welcome.html:7
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu-mate/slides/01_welcome.html:4
 msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
@@ -40,17 +39,23 @@ msgstr "על אודות"
 msgid ""
 "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
 "desktop environment. Ideal for those who want the most out of their "
-"computers and prefer a traditional desktop metaphor. With modest hardware "
-"requirements it is suitable for modern workstations, single board computers "
-"and older hardware alike."
+"computers and prefer a traditional desktop metaphor."
 msgstr ""
-"אובונטו MATE היא מערכת הפעלה יציבה ופשוטה לשימוש עם סביבת שולחן עבודה גמיש. "
-"מומלץ במיוחד לאלו שמעוניינים להפיק את המיטב מהמחשבים שלהם ומעדיפים שולחן "
-"עבודה מעט יותר מסורתי. עקב דרישות חומרה צנועות המערכת מותאמת לתחנות עבודה "
-"מודרניות, מחשבים על לוח אחוד וחומרה ישנה דומה."
+"אובונטו MATE  היא מערכת הפעלה יציבה ופשוטה לשימוש עם סביבת שולחן עבודה "
+"גמישה. מתאימה לכאלו שרוצים למצות את השימוש במחשב שלהם ומעדיפים סביבת שולחן "
+"עבודה מסורתית."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-mate/slides/02_about.html:14
+#: slideshows/ubuntu-mate/slides/02_about.html:11
+msgid ""
+"With modest hardware requirements it is suitable for modern workstations, "
+"single board computers and older hardware alike."
+msgstr ""
+"עם דרישות חומרה צנועות המערכת מתאימה לתחנות עבודה מודרניות, מחשבים על לוח "
+"בודד ומחשבים ישנים כאחד."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-mate/slides/02_about.html:17
 msgid ""
 "For users coming from other operating systems, Ubuntu MATE can adapt the "
 "user interface with one-click to something more modern or something that you "
@@ -70,26 +75,20 @@ msgstr "להקים את הסביבה שלך בקלות"
 msgid ""
 "Ubuntu MATE Welcome greets and assists new and returning users. The "
 "<strong>Getting Started</strong> wizard will guide you through the first "
-"boot post-installation setup and configuration of additional peripherals and "
-"devices and the documentation will help orientate new users. The "
+"boot post-installation setup and the configuration of additional peripherals "
+"and devices, while the documentation will help orientate new users. The "
 "<strong>Systems Specifications</strong> section will help you explore your "
-"hardware and offers one-click install and launch of many useful system "
-"monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
-"off point to the community."
+"hardware and offers one-click installation for many useful system monitoring "
+"tools. When you need help Ubuntu MATE Welcome is the jumping off point to "
+"the community."
 msgstr ""
-"ברוך בואך לאובונטו MATE מברכת ומסייעת למשתמשים חדשים וחוזרים. האשף "
-"ל<strong>מתחילים</strong> ינחה אותך במהלך ההפעלה הראשונה והתצורה של התקנים "
-"נוספים לצד תיעוד לסיוע הכוונה למשתמשים חדשים. סעיף <strong>מפרט המערכת</"
-"strong> יסייע לך לסייר בחומרה שלך ומציע התקנה פשוטה בלחיצה אחת והפעלה של "
-"מגוון כלי ניטור מערכת שימושיים. אם יש לך צורך בעזרה, ברוך בואך לאובונטו MATE "
-"הוא נקודה למפגש עם הקהילה."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:18
 #: slideshows/ubuntu-mate/slides/04_software.html:16
 #: slideshows/ubuntu-mate/slides/05_tweak.html:19
 #: slideshows/ubuntu-mate/slides/06_browse.html:16
-#: slideshows/ubuntu-mate/slides/08_music.html:16
+#: slideshows/ubuntu-mate/slides/08_music.html:15
 #: slideshows/ubuntu-mate/slides/09_photos.html:16
 #: slideshows/ubuntu-mate/slides/10_video.html:16
 #: slideshows/ubuntu-mate/slides/11_office.html:13
@@ -148,23 +147,15 @@ msgstr "מחשוב אישי"
 #: slideshows/ubuntu-mate/slides/05_tweak.html:7
 msgid ""
 "The default Ubuntu MATE user interface is intuitive and easy to use. But we "
-"understand people have different tastes and preferences which is why we "
-"created <strong>MATE Tweak</strong>, a tool to change the user interface to "
-"mimic other operating systems. Coming from Windows? Try <strong>Redmond</"
-"strong>.  Prefer the way macOS is layed out? Try <strong>Cupertino</"
-"strong>.  For Ubuntu Unity fans take a look at <strong>Mutiny</strong>.  Or "
-"for a hybrid user interface, try <strong>Pantheon</strong> or "
-"<strong>Comptemporary</strong>. Experienced users can customise the user "
-"interface and save their creations."
+"understand people have different tastes and preferences, which is why we "
+"created <strong>MATE Tweak</strong>; a tool to change the user interface to "
+"mimic other operating systems. Coming from Windows? Try "
+"<strong>Redmond</strong>.  Prefer the way macOS is layed out? Try "
+"<strong>Cupertino</strong>.  For Ubuntu Unity fans take a look at "
+"<strong>Mutiny</strong>.  Or for a hybrid user interface, try "
+"<strong>Pantheon</strong> or <strong>Comptemporary</strong>. Experienced "
+"users can customise the user interface and save their creations."
 msgstr ""
-"מנשק המשתמש של MATE כבררת מחדל הוא יחסית נוח ומאיר פנים. עם זאת, ברור לנו "
-"שלאנשים יש טעם והעדפות שונים, לכן יצרנו את <strong>MATE Tweak</strong>, כלי "
-"לשינוי מנשק המשתמש כדי לחקות מערכות הפעלה אחרות. הגעת מ־Windows? כדאי לנסות "
-"את <strong>Redmond</strong>.  המראה של macOS קוסם לך? יש את "
-"<strong>Cupertino</strong>.  חובבי Unity מבית אובונטו מוזמנים לנסות את "
-"<strong>Mutiny</strong>.  או לקבלת חוויה מעורבת, אפשר להתנסות ב־"
-"<strong>Pantheon</strong> או ב־<strong>Comptemporary</strong>. משתמשים "
-"מנוסים יכולים להתאים את מנשק המשתמש לטעמם ולשמור את התוצרים."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:23
@@ -183,14 +174,15 @@ msgid ""
 "used by millions of people around the world.  Designed with privacy in mind "
 "it includes enhanced security features to protect you from online threats. "
 "You'll also find <strong>Brave</strong>, <strong>Chromium</strong>, "
-"<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
-"strong> in the Software Boutique."
+"<strong>Google Chrome</strong>, <strong>Opera</strong> and "
+"<strong>Vivaldi</strong> in the Software Boutique."
 msgstr ""
 "אובונטו MATE מגיעה עם <strong>Firefox</strong>, דפדפן מאובטח ופשוט עם "
 "מיליוני משתמשים בכל רחבי העולם.  תוכנן לטיפול ממוקד בפרטיות ועם אפשרויות "
 "אבטחה מתקדמות כדי להגן עליך מפני איומים מקוונים. נוסף על כך ניתן למצוא את "
-"<strong>Brave</strong>, <strong>Chromium</strong>, <strong>Google Chrome</"
-"strong>, <strong>Opera</strong> ואת <strong>Vivaldi</strong> בוטיק התכנה."
+"<strong>Brave</strong>, <strong>Chromium</strong>, <strong>Google "
+"Chrome</strong>, <strong>Opera</strong> ואת <strong>Vivaldi</strong> בוטיק "
+"התכנה."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:20
@@ -199,8 +191,8 @@ msgstr "Firefox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:24
-msgid "Thunderbird Mail"
-msgstr "תכנית הדוא״ל Thunderbird"
+msgid "Evolution"
+msgstr "Evolution"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:31
@@ -219,14 +211,9 @@ msgid ""
 "<strong>Steam</strong> and <strong>Minecraft</strong> in the "
 "<strong>Software Boutique</strong>. We've also selected the very best open "
 "source games and stocked the Software Boutique with platformers, shoot 'em "
-"ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
+"ups, racers, flight simulators, puzzlers, turn based strategy and first "
 "person shooters."
 msgstr ""
-"אובונטו MATE אינה מיועדת רק לעבודה, היא מעולה גם למשחקים! ניתן למצוא את "
-"<strong>Steam</strong> ואת <strong>Minecraft</strong> ב<strong>בוטיק התכנה</"
-"strong>. כמו כן, בחרנו את המשחקים הטובים ביותר בקוד פתוח והעמסנו את בוטיק "
-"התכנה במשחקי פלטפורמה, יריות, מרוצים, מדמי טיסה, חידות, משחקי אסטרטגיה לפי "
-"תור ומשחקי ירי מנקודת היורה."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:19
@@ -250,25 +237,24 @@ msgid ""
 "playback options, it's simple to queue up the perfect songs. And it works "
 "great with CDs and portable music players, so you can enjoy all your music "
 "wherever you go. If you prefer streaming services you'll find "
-"<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
-"many popular streaming services, in the <strong>Software Boutique</strong>"
+"<strong>Spotify</strong> in the <strong>Software Boutique</strong>."
 msgstr ""
-"באובונטו MATE ניתן למצוא את נגן המוזיקה המדהים Rhythmbox.  בזכות אפשרויות "
-"נגינה מתקדמות, קל ופשוט להכין רשימת נגינה עם השירים הכי מושלמים, כדי לאפשר "
-"לך ליהנות מהמוזיקה שלך בכל מקום. אם שירותי הזרמת מוזיקה יותר זורמים לך ניתן "
-"למצוא את <strong>Spotify</strong> ואת <strong>הנגן Nuvola</strong>, שתומכים "
-"במגוון שירותי הזרמה, הישר ב<strong>בוטיק התכנה</strong>"
+"לאובונטו MATE מצורף נגן המוזיקה המהולל Rhythmbox. שמגיש אפשרויות נגינה "
+"מתקדמות, פשוט מאוד להציב את השירים האהובים עליך בתור לנגינה. הוא עובד מצוין "
+"עם תקליטורים ונגני מוזיקה ניידים כך שניתן ליהנות מכל המוזיקה שלך בכל מקום. "
+"אם שירותי הזרמה זה הקטע שלך אפשר למצוא את <strong>Spotify</strong> "
+"ב<strong>בוטיק התכנה</strong>."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/08_music.html:20
+#: slideshows/ubuntu-mate/slides/08_music.html:19
 msgid "Rhythmbox Music Player"
 msgstr "נגן המוזיקה Rhythmbox"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/08_music.html:24
+#: slideshows/ubuntu-mate/slides/08_music.html:23
 #: slideshows/ubuntu-mate/slides/10_video.html:20
-msgid "VLC"
-msgstr "VLC"
+msgid "Celluloid"
+msgstr "Celluloid"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/09_photos.html:2
@@ -311,20 +297,21 @@ msgstr "תביאו פופוקורן!"
 msgid ""
 "Ubuntu MATE comes with <strong>Firefox</strong> pre-installed and "
 "<strong>Google Chrome</strong> is in the Software Boutique so you can watch "
-"content from your favourite streaming services such as <strong>Netflix</"
-"strong> and <strong>YouTube</strong>."
+"content from your favourite streaming services such as "
+"<strong>Netflix</strong> and <strong>YouTube</strong>."
 msgstr ""
-"באובונטו MATE כבר מותקן <strong>Firefox</strong> ואת <strong>Google Chrome</"
-"strong> ניתן להתקין מבוטיק התכנה כדי לאפשר לך לצפות בתוכן משירותי ההזרמה "
-"המועדפים עליך כגון <strong>Netflix</strong> ו־<strong>YouTube</strong>."
+"באובונטו MATE כבר מותקן <strong>Firefox</strong> ואת <strong>Google "
+"Chrome</strong> ניתן להתקין מבוטיק התכנה כדי לאפשר לך לצפות בתוכן משירותי "
+"ההזרמה המועדפים עליך כגון <strong>Netflix</strong> "
+"ו־<strong>YouTube</strong>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/10_video.html:12
 msgid ""
-"With <strong>VLC</strong> installed by default you can watch all you local "
-"video with ease."
+"With <strong>Celluloid</strong> installed by default you can watch all your "
+"local video with ease."
 msgstr ""
-"עם התקנה מראש של <strong>VLC</strong> כבררת מחדל ניתן לצפות בכל הסרטונים "
+"עם התקנה של <strong>Celluloid</strong> כבררת מחדל ניתן לצפות בכל הסרטונים "
 "המקומיים שלך בקלי קלות."
 
 #. type: Content of: <div><h1>
@@ -417,56 +404,152 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:15
 msgid ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+</a>"
+"<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">Live "
+"Chat</a>"
 msgstr ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:19
-msgid ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
-msgstr "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">צ׳אט חי</a>"
+"<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">צ׳אט "
+"בזמן אמת</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/13_community.html:22
+#: slideshows/ubuntu-mate/slides/13_community.html:18
 msgid "Announcements"
 msgstr "הכרזות"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:26
+#: slideshows/ubuntu-mate/slides/13_community.html:22
 msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">טוויטר</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:30
+#: slideshows/ubuntu-mate/slides/13_community.html:26
 msgid ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
-"\">Facebook</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 msgstr ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
-"\">פייסבוק</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">פייסבוק</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/13_community.html:33
+#: slideshows/ubuntu-mate/slides/13_community.html:29
 msgid "Development"
 msgstr "פיתוח"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:37
+#: slideshows/ubuntu-mate/slides/13_community.html:33
 msgid ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">קוד</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:41
+#: slideshows/ubuntu-mate/slides/13_community.html:37
 msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
 msgstr ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">עוקב "
 "התקלות</a>"
+
+#~ msgid "Thunderbird Mail"
+#~ msgstr "תכנית הדוא״ל Thunderbird"
+
+#~ msgid ""
+#~ "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
+#~ "desktop environment. Ideal for those who want the most out of their "
+#~ "computers and prefer a traditional desktop metaphor. With modest hardware "
+#~ "requirements it is suitable for modern workstations, single board computers "
+#~ "and older hardware alike."
+#~ msgstr ""
+#~ "אובונטו MATE היא מערכת הפעלה יציבה ופשוטה לשימוש עם סביבת שולחן עבודה גמיש. "
+#~ "מומלץ במיוחד לאלו שמעוניינים להפיק את המיטב מהמחשבים שלהם ומעדיפים שולחן "
+#~ "עבודה מעט יותר מסורתי. עקב דרישות חומרה צנועות המערכת מותאמת לתחנות עבודה "
+#~ "מודרניות, מחשבים על לוח אחוד וחומרה ישנה דומה."
+
+#~ msgid "VLC"
+#~ msgstr "VLC"
+
+#~ msgid ""
+#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
+#~ msgstr ""
+#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">צ׳אט חי</a>"
+
+#~ msgid ""
+#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
+#~ "class=\"caption\">Google+</a>"
+#~ msgstr ""
+#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
+#~ "class=\"caption\">Google+</a>"
+
+#~ msgid ""
+#~ "Ubuntu MATE Welcome greets and assists new and returning users. The "
+#~ "<strong>Getting Started</strong> wizard will guide you through the first "
+#~ "boot post-installation setup and configuration of additional peripherals and "
+#~ "devices and the documentation will help orientate new users. The "
+#~ "<strong>Systems Specifications</strong> section will help you explore your "
+#~ "hardware and offers one-click install and launch of many useful system "
+#~ "monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
+#~ "off point to the community."
+#~ msgstr ""
+#~ "ברוך בואך לאובונטו MATE מברכת ומסייעת למשתמשים חדשים וחוזרים. האשף "
+#~ "ל<strong>מתחילים</strong> ינחה אותך במהלך ההפעלה הראשונה והתצורה של התקנים "
+#~ "נוספים לצד תיעוד לסיוע הכוונה למשתמשים חדשים. סעיף <strong>מפרט "
+#~ "המערכת</strong> יסייע לך לסייר בחומרה שלך ומציע התקנה פשוטה בלחיצה אחת "
+#~ "והפעלה של מגוון כלי ניטור מערכת שימושיים. אם יש לך צורך בעזרה, ברוך בואך "
+#~ "לאובונטו MATE הוא נקודה למפגש עם הקהילה."
+
+#~ msgid ""
+#~ "With <strong>VLC</strong> installed by default you can watch all you local "
+#~ "video with ease."
+#~ msgstr ""
+#~ "עם התקנה מראש של <strong>VLC</strong> כבררת מחדל ניתן לצפות בכל הסרטונים "
+#~ "המקומיים שלך בקלי קלות."
+
+#~ msgid ""
+#~ "The default Ubuntu MATE user interface is intuitive and easy to use. But we "
+#~ "understand people have different tastes and preferences which is why we "
+#~ "created <strong>MATE Tweak</strong>, a tool to change the user interface to "
+#~ "mimic other operating systems. Coming from Windows? Try "
+#~ "<strong>Redmond</strong>.  Prefer the way macOS is layed out? Try "
+#~ "<strong>Cupertino</strong>.  For Ubuntu Unity fans take a look at "
+#~ "<strong>Mutiny</strong>.  Or for a hybrid user interface, try "
+#~ "<strong>Pantheon</strong> or <strong>Comptemporary</strong>. Experienced "
+#~ "users can customise the user interface and save their creations."
+#~ msgstr ""
+#~ "מנשק המשתמש של MATE כבררת מחדל הוא יחסית נוח ומאיר פנים. עם זאת, ברור לנו "
+#~ "שלאנשים יש טעם והעדפות שונים, לכן יצרנו את <strong>MATE Tweak</strong>, כלי "
+#~ "לשינוי מנשק המשתמש כדי לחקות מערכות הפעלה אחרות. הגעת מ־Windows? כדאי לנסות "
+#~ "את <strong>Redmond</strong>.  המראה של macOS קוסם לך? יש את "
+#~ "<strong>Cupertino</strong>.  חובבי Unity מבית אובונטו מוזמנים לנסות את "
+#~ "<strong>Mutiny</strong>.  או לקבלת חוויה מעורבת, אפשר להתנסות "
+#~ "ב־<strong>Pantheon</strong> או ב־<strong>Comptemporary</strong>. משתמשים "
+#~ "מנוסים יכולים להתאים את מנשק המשתמש לטעמם ולשמור את התוצרים."
+
+#~ msgid ""
+#~ "Ubuntu MATE is not just about work, it's also great for play! You'll find "
+#~ "<strong>Steam</strong> and <strong>Minecraft</strong> in the "
+#~ "<strong>Software Boutique</strong>. We've also selected the very best open "
+#~ "source games and stocked the Software Boutique with platformers, shoot 'em "
+#~ "ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
+#~ "person shooters."
+#~ msgstr ""
+#~ "אובונטו MATE אינה מיועדת רק לעבודה, היא מעולה גם למשחקים! ניתן למצוא את "
+#~ "<strong>Steam</strong> ואת <strong>Minecraft</strong> ב<strong>בוטיק "
+#~ "התכנה</strong>. כמו כן, בחרנו את המשחקים הטובים ביותר בקוד פתוח והעמסנו את "
+#~ "בוטיק התכנה במשחקי פלטפורמה, יריות, מרוצים, מדמי טיסה, חידות, משחקי אסטרטגיה "
+#~ "לפי תור ומשחקי ירי מנקודת היורה."
+
+#~ msgid ""
+#~ "Ubuntu MATE comes with the amazing Rhythmbox music player.  With advanced "
+#~ "playback options, it's simple to queue up the perfect songs. And it works "
+#~ "great with CDs and portable music players, so you can enjoy all your music "
+#~ "wherever you go. If you prefer streaming services you'll find "
+#~ "<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
+#~ "many popular streaming services, in the <strong>Software Boutique</strong>"
+#~ msgstr ""
+#~ "באובונטו MATE ניתן למצוא את נגן המוזיקה המדהים Rhythmbox.  בזכות אפשרויות "
+#~ "נגינה מתקדמות, קל ופשוט להכין רשימת נגינה עם השירים הכי מושלמים, כדי לאפשר "
+#~ "לך ליהנות מהמוזיקה שלך בכל מקום. אם שירותי הזרמת מוזיקה יותר זורמים לך ניתן "
+#~ "למצוא את <strong>Spotify</strong> ואת <strong>הנגן Nuvola</strong>, שתומכים "
+#~ "במגוון שירותי הזרמה, הישר ב<strong>בוטיק התכנה</strong>"

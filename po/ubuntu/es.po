@@ -6,17 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2019-03-17 11:24+0000\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2021-04-22 01:42+0200\n"
+"PO-Revision-Date: 2021-05-17 12:52+0000\n"
 "Last-Translator: Rodrigo Lledó <rodhos92@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:25+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2021-10-03 10:36+0000\n"
+"X-Generator: Launchpad (build 1ce78163f6a09ed42b4201fe7d3f0e3a2eba7d02)\n"
+"Language: es\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -88,14 +88,19 @@ msgstr "Software incluido"
 msgid "Firefox web browser"
 msgstr "Navegador web Firefox"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/browse.html:20
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:19
+#: slideshows/ubuntu/slides/browse.html:23
 #: slideshows/ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "Software compatible"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:23
+#: slideshows/ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -113,8 +118,8 @@ msgid ""
 "Dock."
 msgstr ""
 "La <span class=\"app\" data-app=\"docs\">documentación oficial</span> cubre "
-"muchas de las áreas más comunes acerca de Ubuntu. Está disponible <a href="
-"\"https://help.ubuntu.com\">en línea</a> y también mediante el icono de "
+"muchas de las áreas más comunes acerca de Ubuntu. Está disponible <a "
+"href=\"https://help.ubuntu.com\">en línea</a> y también mediante el icono de "
 "ayuda del lanzador."
 
 #. type: Content of: <div><div><div><p>
@@ -122,8 +127,8 @@ msgstr ""
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
-"teams/\">Local Community Team</a>."
+"your own language may be provided by your <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
 msgstr ""
 "En <a href=\"http://askubuntu.com\">Ask Ubuntu</a> puede realizar preguntas "
 "y explorar una inmensa colección de dudas ya respondidas. Es posible que su "
@@ -133,13 +138,14 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"https://www."
-"ubuntu.com/support/community-support\">Community support</a> or <a href="
-"\"http://www.ubuntu.com/support\">Commercial support</a>."
+"For pointers to other useful resources, please visit <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Community "
+"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
+"support</a>."
 msgstr ""
-"Para explorar más recursos, visite las páginas de <a href=\"https://www."
-"ubuntu.com/support/community-support/\">asistencia comunitaria</a> y <a href="
-"\"https://www.ubuntu.com/support\">comercial</a>."
+"Para explorar más recursos, visite las páginas de <a "
+"href=\"https://www.ubuntu.com/support/community-support/\">asistencia "
+"comunitaria</a> y <a href=\"https://www.ubuntu.com/support\">comercial</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -222,14 +228,13 @@ msgstr "Diviértase con sus fotos"
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"keep them safe. And if you’re feeling creative, you can find many other "
+"photo apps in Ubuntu Software."
 msgstr ""
-"Shotwell es un práctico administrador de imágenes que está listo para sus "
-"dispositivos. Conecte una cámara o un teléfono para transferir sus fotos, es "
-"muy fácil compartirlas y mantenerlas seguras. Si se siente creativo, puede "
-"probar muchas aplicaciones para fotografía en el Centro de software de "
-"Ubuntu."
+"Shotwell es un administrador de fotos útil que está listo para sus "
+"dispositivos. Conecte una cámara o un teléfono para transferir sus fotos, "
+"luego es fácil compartirlas y mantenerlas seguras. Y si se siente creativo, "
+"puede encontrar muchas otras aplicaciones de fotos en el software de Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -243,8 +248,8 @@ msgstr "Editor de imágenes GIMP"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "Editor de vídeo Pitivi"
+msgid "Shotcut Video Editor"
+msgstr "Editor de video Shotcut"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
@@ -279,3 +284,18 @@ msgid ""
 msgstr ""
 "Rápido y repleto de características nuevas, la versión más reciente de "
 "Ubuntu hace que la computación sea más fácil que nunca. Echemos un vistazo…"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Editor de vídeo Pitivi"
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
+#~ "camera or a phone to transfer your photos, then it’s easy to share them and "
+#~ "keep them safe. If you’re feeling creative, you can try lots of photo apps "
+#~ "from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "Shotwell es un práctico administrador de imágenes que está listo para sus "
+#~ "dispositivos. Conecte una cámara o un teléfono para transferir sus fotos, es "
+#~ "muy fácil compartirlas y mantenerlas seguras. Si se siente creativo, puede "
+#~ "probar muchas aplicaciones para fotografía en el Centro de software de "
+#~ "Ubuntu."

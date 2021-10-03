@@ -6,17 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:38+0000\n"
-"PO-Revision-Date: 2019-03-13 19:35+0000\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2021-04-22 01:42+0200\n"
+"PO-Revision-Date: 2021-09-30 16:59+0000\n"
 "Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
 "Language-Team: Danish <da@li.org>\n"
-"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2021-10-03 10:36+0000\n"
+"X-Generator: Launchpad (build 1ce78163f6a09ed42b4201fe7d3f0e3a2eba7d02)\n"
+"Language: da\n"
 "X-Poedit-Language: Danish\n"
 
 #. type: Content of: <div><h1>
@@ -88,14 +88,19 @@ msgstr "Medfølgende programmer"
 msgid "Firefox web browser"
 msgstr "Firefox-webbrowser"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/browse.html:20
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/browse.html:19
+#: slideshows/oem-config-ubuntu/slides/browse.html:23
 #: slideshows/oem-config-ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "Understøttede programmer"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/browse.html:23
+#: slideshows/oem-config-ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -121,20 +126,21 @@ msgstr ""
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
-"teams/\">Local Community Team</a>."
+"your own language may be provided by your <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
 msgstr ""
 "På <a href=\"http://askubuntu.com\">Ask Ubuntu</a> kan du stille spørgsmål "
 "og søge i en imponerende samling af spørgsmål som allerede er besvaret. "
-"Hjælp på dit eget sprog kan være tilgængelig gennem dit <a href=\"http://"
-"loco.ubuntu.com/teams/\">lokale fællesskab</a>."
+"Hjælp på dit eget sprog kan være tilgængelig gennem dit <a "
+"href=\"http://loco.ubuntu.com/teams/\">lokale fællesskab</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"https://www."
-"ubuntu.com/support/community-support\">Community support</a> or <a href="
-"\"http://www.ubuntu.com/support\">Commercial support</a>."
+"For pointers to other useful resources, please visit <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Community "
+"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
+"support</a>."
 msgstr ""
 "Besøg <a href=\"https://www.ubuntu.com/support/community-support\">Community "
 "support</a> eller <a href=\"http://www.ubuntu.com/support\">Commercial "
@@ -220,13 +226,9 @@ msgstr "Hav det sjovt med dine billeder"
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"keep them safe. And if you’re feeling creative, you can find many other "
+"photo apps in Ubuntu Software."
 msgstr ""
-"Shotwell er en handy billedhåndtering, der er klar til dine gadgets. Tilslut "
-"et kamera eller en telefon for at overføre dine billeder, og derefter er det "
-"nemt at dele dem og opbevare dem sikkert. Hvis du føler dig kreativ, kan du "
-"prøve masser af billedprogrammer fra Softwarecenteret i Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:16
@@ -240,8 +242,8 @@ msgstr "GIMP-billedredigering"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "Pitivi-videoredigering"
+msgid "Shotcut Video Editor"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1
@@ -277,3 +279,17 @@ msgstr ""
 "Hurtig og fuld af nye funktioner: Den seneste version af Ubuntu gør det "
 "lettere end nogensinde at bruge din computer. Her er nogle af de fede ting "
 "du kan kigge på..."
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
+#~ "camera or a phone to transfer your photos, then it’s easy to share them and "
+#~ "keep them safe. If you’re feeling creative, you can try lots of photo apps "
+#~ "from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "Shotwell er en handy billedhåndtering, der er klar til dine gadgets. Tilslut "
+#~ "et kamera eller en telefon for at overføre dine billeder, og derefter er det "
+#~ "nemt at dele dem og opbevare dem sikkert. Hvis du føler dig kreativ, kan du "
+#~ "prøve masser af billedprogrammer fra Softwarecenteret i Ubuntu."
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Pitivi-videoredigering"

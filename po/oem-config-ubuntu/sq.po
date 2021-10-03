@@ -6,17 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:38+0000\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2021-04-22 01:42+0200\n"
 "PO-Revision-Date: 2020-03-29 16:45+0000\n"
 "Last-Translator: Florind Murtezi <Unknown>\n"
 "Language-Team: Albanian <sq@li.org>\n"
-"Language: sq\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2021-10-03 10:36+0000\n"
+"X-Generator: Launchpad (build 1ce78163f6a09ed42b4201fe7d3f0e3a2eba7d02)\n"
+"Language: sq\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -87,14 +87,19 @@ msgstr "Programet e përfshira"
 msgid "Firefox web browser"
 msgstr "Shfletuesi i rrjetit Firefox"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/browse.html:20
+msgid "Thunderbird"
+msgstr ""
+
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/browse.html:19
+#: slideshows/oem-config-ubuntu/slides/browse.html:23
 #: slideshows/oem-config-ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "Programet e mbështetura"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/browse.html:23
+#: slideshows/oem-config-ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -112,28 +117,30 @@ msgid ""
 "Dock."
 msgstr ""
 "the <span class=\"app\" data-app=\"dosc\">dokumentat zyrtare</span>perfshine "
-"zonat me te zakonshme rreth Ubuntu. Eshte i disponushem bashke <a href="
-"\"http://help.ubuntu.com\">online</a> dhe nepermjet ikones Ndihme ne Dok."
+"zonat me te zakonshme rreth Ubuntu. Eshte i disponushem bashke <a "
+"href=\"http://help.ubuntu.com\">online</a> dhe nepermjet ikones Ndihme ne "
+"Dok."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
-"teams/\">Local Community Team</a>."
+"your own language may be provided by your <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
 msgstr ""
 "Tek <a href=\"http://askubuntu.com\">Pyet Ubuntu</a> ju mund të bëni pyetje "
 "dhe të kërkoni një koleksion mbreslënës të pyetjeve që tashmë u është dhënë "
-"përgjigje. Mbështetje në gjuhën tuaj mund të gjeni tek <a href=\"http://loco."
-"ubuntu.com/teams/\">Skuadra e Bashkësisë Lokale</a>."
+"përgjigje. Mbështetje në gjuhën tuaj mund të gjeni tek <a "
+"href=\"http://loco.ubuntu.com/teams/\">Skuadra e Bashkësisë Lokale</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"https://www."
-"ubuntu.com/support/community-support\">Community support</a> or <a href="
-"\"http://www.ubuntu.com/support\">Commercial support</a>."
+"For pointers to other useful resources, please visit <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Community "
+"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
+"support</a>."
 msgstr ""
 "Për t'u drejtuar në rezerva të tjera të dobishme, ju lutemi të vizitoni  <a "
 "href=\"https://www.ubuntu.com/support/community-support\">Mbështetjen e "
@@ -220,14 +227,9 @@ msgstr "Kënaquni me fotot tuaja"
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"keep them safe. And if you’re feeling creative, you can find many other "
+"photo apps in Ubuntu Software."
 msgstr ""
-"Showtell është një menaxhues i përdorshëm fotosh që është gati për mjetet e "
-"tuah. Lidhni një kamera apo telefon për të transferuar fotot tuaja, pastaj "
-"është e lehtë ti shpërndani ato dhe ti mbani të sigurta. Nëse ndiheni "
-"krijues, ju mund të provoni shumë programe për fotot nga Qendra e Programeve "
-"të Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:16
@@ -241,8 +243,8 @@ msgstr "Redaktuesi i Pamjeve GIMP"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "Pitivi Modifikues Videosh"
+msgid "Shotcut Video Editor"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1
@@ -278,3 +280,18 @@ msgstr ""
 "I shpejtë dhe plot me mjete të reja, versioni i ri i Ubuntu e bën "
 "kompjuterin më të lehtë se kurrë. Ja disa nga gjërat e reja për të cilat "
 "mund të kërkoni..."
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Pitivi Modifikues Videosh"
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
+#~ "camera or a phone to transfer your photos, then it’s easy to share them and "
+#~ "keep them safe. If you’re feeling creative, you can try lots of photo apps "
+#~ "from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "Showtell është një menaxhues i përdorshëm fotosh që është gati për mjetet e "
+#~ "tuah. Lidhni një kamera apo telefon për të transferuar fotot tuaja, pastaj "
+#~ "është e lehtë ti shpërndani ato dhe ti mbani të sigurta. Nëse ndiheni "
+#~ "krijues, ju mund të provoni shumë programe për fotot nga Qendra e Programeve "
+#~ "të Ubuntu."

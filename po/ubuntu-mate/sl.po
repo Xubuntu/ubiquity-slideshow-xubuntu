@@ -6,25 +6,24 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:38+0000\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2021-04-22 01:42+0200\n"
 "PO-Revision-Date: 2017-10-20 13:47+0000\n"
 "Last-Translator: Dražen Matešić <Unknown>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
-"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2021-10-03 10:41+0000\n"
+"X-Generator: Launchpad (build 1ce78163f6a09ed42b4201fe7d3f0e3a2eba7d02)\n"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu-mate/slides/01_welcome.html:2
+#. type: Content of: <div><div><h1>
+#: slideshows/ubuntu-mate/slides/01_welcome.html:3
 msgid "Welcome to Ubuntu MATE"
 msgstr "Pozdravljeni v Ubuntu MATE"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-mate/slides/01_welcome.html:7
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu-mate/slides/01_welcome.html:4
 msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
@@ -42,18 +41,18 @@ msgstr "O programu"
 msgid ""
 "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
 "desktop environment. Ideal for those who want the most out of their "
-"computers and prefer a traditional desktop metaphor. With modest hardware "
-"requirements it is suitable for modern workstations, single board computers "
-"and older hardware alike."
+"computers and prefer a traditional desktop metaphor."
 msgstr ""
-"Ubuntu MATE je stabilen operacijski sistem, enostaven za uporabo, z "
-"nastavljivim namiznim okoljem. Primeren je za tiste, ki želijo izkoristiti "
-"največ iz svojih osebnih računalnikov in so jim všeč tradicionalna "
-"računalniška namizja. S skromnimi zahtevami po strojni opremi je uporaben "
-"tako na starejših, kot tudi modernih računalnikih."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-mate/slides/02_about.html:14
+#: slideshows/ubuntu-mate/slides/02_about.html:11
+msgid ""
+"With modest hardware requirements it is suitable for modern workstations, "
+"single board computers and older hardware alike."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-mate/slides/02_about.html:17
 msgid ""
 "For users coming from other operating systems, Ubuntu MATE can adapt the "
 "user interface with one-click to something more modern or something that you "
@@ -70,28 +69,20 @@ msgstr "Hitreje začnite z delom"
 msgid ""
 "Ubuntu MATE Welcome greets and assists new and returning users. The "
 "<strong>Getting Started</strong> wizard will guide you through the first "
-"boot post-installation setup and configuration of additional peripherals and "
-"devices and the documentation will help orientate new users. The "
+"boot post-installation setup and the configuration of additional peripherals "
+"and devices, while the documentation will help orientate new users. The "
 "<strong>Systems Specifications</strong> section will help you explore your "
-"hardware and offers one-click install and launch of many useful system "
-"monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
-"off point to the community."
+"hardware and offers one-click installation for many useful system monitoring "
+"tools. When you need help Ubuntu MATE Welcome is the jumping off point to "
+"the community."
 msgstr ""
-"Ubuntu MATE Welcome pozdravi in pomaga novim in obstoječim uporabnikom. "
-"Čarovnik <strong>Kako začeti</strong> vas bo vodil po namestitvi in "
-"nastavitvi dodatnih zunanjih naprav in ostalih naprav, medtem ko bo "
-"dokumentacija pomagala usmeriti nove uporabnike. Odsek <strong>Sistemska "
-"določila</strong> bo pomagal raziskati vašo strojno opremo in omogočil "
-"namestitev in zagon številnih uporabnih orodij za spremljanje sistema z enim "
-"klikom. Ko potrebujete pomoč je Ubuntu MATE Welcome odskočni korak k "
-"skupnosti."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:18
 #: slideshows/ubuntu-mate/slides/04_software.html:16
 #: slideshows/ubuntu-mate/slides/05_tweak.html:19
 #: slideshows/ubuntu-mate/slides/06_browse.html:16
-#: slideshows/ubuntu-mate/slides/08_music.html:16
+#: slideshows/ubuntu-mate/slides/08_music.html:15
 #: slideshows/ubuntu-mate/slides/09_photos.html:16
 #: slideshows/ubuntu-mate/slides/10_video.html:16
 #: slideshows/ubuntu-mate/slides/11_office.html:13
@@ -152,25 +143,15 @@ msgstr "Prilagojeno računalništvo"
 #: slideshows/ubuntu-mate/slides/05_tweak.html:7
 msgid ""
 "The default Ubuntu MATE user interface is intuitive and easy to use. But we "
-"understand people have different tastes and preferences which is why we "
-"created <strong>MATE Tweak</strong>, a tool to change the user interface to "
-"mimic other operating systems. Coming from Windows? Try <strong>Redmond</"
-"strong>.  Prefer the way macOS is layed out? Try <strong>Cupertino</"
-"strong>.  For Ubuntu Unity fans take a look at <strong>Mutiny</strong>.  Or "
-"for a hybrid user interface, try <strong>Pantheon</strong> or "
-"<strong>Comptemporary</strong>. Experienced users can customise the user "
-"interface and save their creations."
+"understand people have different tastes and preferences, which is why we "
+"created <strong>MATE Tweak</strong>; a tool to change the user interface to "
+"mimic other operating systems. Coming from Windows? Try "
+"<strong>Redmond</strong>.  Prefer the way macOS is layed out? Try "
+"<strong>Cupertino</strong>.  For Ubuntu Unity fans take a look at "
+"<strong>Mutiny</strong>.  Or for a hybrid user interface, try "
+"<strong>Pantheon</strong> or <strong>Comptemporary</strong>. Experienced "
+"users can customise the user interface and save their creations."
 msgstr ""
-"Ubuntu MATE privzeti uporabniški vmesnik je intuitiven in enostaven za "
-"uporabo. Vendar razumemo, da imajo ljudje različne okuse in želje, zato smo "
-"ustvarili <strong>MATE Tweak</strong>, orodje s katerim lahko spremenite "
-"uporabniški vmesnik, ki posnema druge operacijske sisteme. Prihajate iz "
-"Windowsov? Poskusite <strong>Redmond</strong>. Vam je bolj všeč postavitev  "
-"macOS? Poskusite <strong>Cupertino</strong>. Za oboževalce Ubuntu Unity "
-"poglejte <strong>Mutiny</strong>. Ali želite hibridni uporabniški vmesnik, "
-"poskusite <strong>Pantheon</strong> ali <strong>Comptemporary</strong>. "
-"Napredni uporabniki lahko prilagodijo uporabniški vmesnik in shranijo svoje "
-"kreacije."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:23
@@ -189,15 +170,15 @@ msgid ""
 "used by millions of people around the world.  Designed with privacy in mind "
 "it includes enhanced security features to protect you from online threats. "
 "You'll also find <strong>Brave</strong>, <strong>Chromium</strong>, "
-"<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
-"strong> in the Software Boutique."
+"<strong>Google Chrome</strong>, <strong>Opera</strong> and "
+"<strong>Vivaldi</strong> in the Software Boutique."
 msgstr ""
 "Ubuntu MATE vključuje <strong>Firefox</strong>, enostaven in varen "
 "brskalnik, ki ga uporablja milijone ljudi po vsem svetu. Zasnovan z mislijo "
 "na zasebnost, vključuje izboljšane varnostne funkcije, ki vas ščitijo pred "
-"spletnimi grožnjami. V Trgovini programov boste našli tudi  <strong>Brave</"
-"strong>, <strong>Chromium</strong>, <strong>Google Chrome</strong>, "
-"<strong>Opera</strong> in <strong>Vivaldi</strong>."
+"spletnimi grožnjami. V Trgovini programov boste našli tudi  "
+"<strong>Brave</strong>, <strong>Chromium</strong>, <strong>Google "
+"Chrome</strong>, <strong>Opera</strong> in <strong>Vivaldi</strong>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:20
@@ -206,8 +187,8 @@ msgstr "Firefox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:24
-msgid "Thunderbird Mail"
-msgstr "Pošta Thunderbird"
+msgid "Evolution"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:31
@@ -226,14 +207,9 @@ msgid ""
 "<strong>Steam</strong> and <strong>Minecraft</strong> in the "
 "<strong>Software Boutique</strong>. We've also selected the very best open "
 "source games and stocked the Software Boutique with platformers, shoot 'em "
-"ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
+"ups, racers, flight simulators, puzzlers, turn based strategy and first "
 "person shooters."
 msgstr ""
-"Ubuntu MATE ni samo za delo, odličen je tudi za igro. V <strong>Trgovini "
-"programov</strong> boste našli <strong>Steam</strong> in <strong>Minecraft</"
-"strong>. Prav tako smo izbrali najboljše odprtokodne igre in založili "
-"Trgovino programov z raznimi platformami, strelskimi, dirkaškimi, miselnimi "
-"in strateškimi igrami ter simulacijam letenja."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:19
@@ -257,26 +233,19 @@ msgid ""
 "playback options, it's simple to queue up the perfect songs. And it works "
 "great with CDs and portable music players, so you can enjoy all your music "
 "wherever you go. If you prefer streaming services you'll find "
-"<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
-"many popular streaming services, in the <strong>Software Boutique</strong>"
+"<strong>Spotify</strong> in the <strong>Software Boutique</strong>."
 msgstr ""
-"Ubuntu MATE vključuje odličen predvajalnik glasbe Rhythmbox. Z naprednimi "
-"možnostmi predvajanja vaših najljubših skladb. Odlično deluje tudi s CD-ji "
-"in prenosnimi glasbenimi predvajalniki, tako da lahko uživate v vaši glasbi "
-"kamorkoli greste. V <strong>Trgovini programov</strong> najdete tudi "
-"programa za pretočne storitve <strong>Spotify</strong> in <strong>Nuvola "
-"Player</strong>."
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/08_music.html:20
+#: slideshows/ubuntu-mate/slides/08_music.html:19
 msgid "Rhythmbox Music Player"
 msgstr "Predvajalnik glasbe Rhythmbox"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/08_music.html:24
+#: slideshows/ubuntu-mate/slides/08_music.html:23
 #: slideshows/ubuntu-mate/slides/10_video.html:20
-msgid "VLC"
-msgstr "VLC"
+msgid "Celluloid"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/09_photos.html:2
@@ -320,8 +289,8 @@ msgstr "Zgrabite pokovko!"
 msgid ""
 "Ubuntu MATE comes with <strong>Firefox</strong> pre-installed and "
 "<strong>Google Chrome</strong> is in the Software Boutique so you can watch "
-"content from your favourite streaming services such as <strong>Netflix</"
-"strong> and <strong>YouTube</strong>."
+"content from your favourite streaming services such as "
+"<strong>Netflix</strong> and <strong>YouTube</strong>."
 msgstr ""
 "Ubuntu MATE ima prednameščen brskalnik<strong>Firefox</strong> "
 "in<strong>Google Chrome</strong>, ki ga najdete v Trgovini programov, tako "
@@ -331,8 +300,8 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/10_video.html:12
 msgid ""
-"With <strong>VLC</strong> installed by default you can watch all you local "
-"video with ease."
+"With <strong>Celluloid</strong> installed by default you can watch all your "
+"local video with ease."
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -427,57 +396,149 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:15
 msgid ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+</a>"
+"<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">Live "
+"Chat</a>"
 msgstr ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:19
-msgid ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
-msgstr ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Klepet v živo</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/13_community.html:22
+#: slideshows/ubuntu-mate/slides/13_community.html:18
 msgid "Announcements"
 msgstr "Objave"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:26
+#: slideshows/ubuntu-mate/slides/13_community.html:22
 msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:30
+#: slideshows/ubuntu-mate/slides/13_community.html:26
 msgid ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
-"\">Facebook</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 msgstr ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
-"\">Facebook</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/13_community.html:33
+#: slideshows/ubuntu-mate/slides/13_community.html:29
 msgid "Development"
 msgstr "Razvoj"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:37
+#: slideshows/ubuntu-mate/slides/13_community.html:33
 msgid ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Koda</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:41
+#: slideshows/ubuntu-mate/slides/13_community.html:37
 msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
 msgstr ""
-"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption"
-"\">Sledilnik Hroščev</a>"
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" "
+"class=\"caption\">Sledilnik Hroščev</a>"
+
+#~ msgid ""
+#~ "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
+#~ "desktop environment. Ideal for those who want the most out of their "
+#~ "computers and prefer a traditional desktop metaphor. With modest hardware "
+#~ "requirements it is suitable for modern workstations, single board computers "
+#~ "and older hardware alike."
+#~ msgstr ""
+#~ "Ubuntu MATE je stabilen operacijski sistem, enostaven za uporabo, z "
+#~ "nastavljivim namiznim okoljem. Primeren je za tiste, ki želijo izkoristiti "
+#~ "največ iz svojih osebnih računalnikov in so jim všeč tradicionalna "
+#~ "računalniška namizja. S skromnimi zahtevami po strojni opremi je uporaben "
+#~ "tako na starejših, kot tudi modernih računalnikih."
+
+#~ msgid "Thunderbird Mail"
+#~ msgstr "Pošta Thunderbird"
+
+#~ msgid ""
+#~ "The default Ubuntu MATE user interface is intuitive and easy to use. But we "
+#~ "understand people have different tastes and preferences which is why we "
+#~ "created <strong>MATE Tweak</strong>, a tool to change the user interface to "
+#~ "mimic other operating systems. Coming from Windows? Try "
+#~ "<strong>Redmond</strong>.  Prefer the way macOS is layed out? Try "
+#~ "<strong>Cupertino</strong>.  For Ubuntu Unity fans take a look at "
+#~ "<strong>Mutiny</strong>.  Or for a hybrid user interface, try "
+#~ "<strong>Pantheon</strong> or <strong>Comptemporary</strong>. Experienced "
+#~ "users can customise the user interface and save their creations."
+#~ msgstr ""
+#~ "Ubuntu MATE privzeti uporabniški vmesnik je intuitiven in enostaven za "
+#~ "uporabo. Vendar razumemo, da imajo ljudje različne okuse in želje, zato smo "
+#~ "ustvarili <strong>MATE Tweak</strong>, orodje s katerim lahko spremenite "
+#~ "uporabniški vmesnik, ki posnema druge operacijske sisteme. Prihajate iz "
+#~ "Windowsov? Poskusite <strong>Redmond</strong>. Vam je bolj všeč postavitev  "
+#~ "macOS? Poskusite <strong>Cupertino</strong>. Za oboževalce Ubuntu Unity "
+#~ "poglejte <strong>Mutiny</strong>. Ali želite hibridni uporabniški vmesnik, "
+#~ "poskusite <strong>Pantheon</strong> ali <strong>Comptemporary</strong>. "
+#~ "Napredni uporabniki lahko prilagodijo uporabniški vmesnik in shranijo svoje "
+#~ "kreacije."
+
+#~ msgid "VLC"
+#~ msgstr "VLC"
+
+#~ msgid ""
+#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
+#~ "class=\"caption\">Google+</a>"
+#~ msgstr ""
+#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
+#~ "class=\"caption\">Google+</a>"
+
+#~ msgid ""
+#~ "Ubuntu MATE is not just about work, it's also great for play! You'll find "
+#~ "<strong>Steam</strong> and <strong>Minecraft</strong> in the "
+#~ "<strong>Software Boutique</strong>. We've also selected the very best open "
+#~ "source games and stocked the Software Boutique with platformers, shoot 'em "
+#~ "ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
+#~ "person shooters."
+#~ msgstr ""
+#~ "Ubuntu MATE ni samo za delo, odličen je tudi za igro. V <strong>Trgovini "
+#~ "programov</strong> boste našli <strong>Steam</strong> in "
+#~ "<strong>Minecraft</strong>. Prav tako smo izbrali najboljše odprtokodne igre "
+#~ "in založili Trgovino programov z raznimi platformami, strelskimi, "
+#~ "dirkaškimi, miselnimi in strateškimi igrami ter simulacijam letenja."
+
+#~ msgid ""
+#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
+#~ msgstr ""
+#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Klepet v živo</a>"
+
+#~ msgid ""
+#~ "Ubuntu MATE comes with the amazing Rhythmbox music player.  With advanced "
+#~ "playback options, it's simple to queue up the perfect songs. And it works "
+#~ "great with CDs and portable music players, so you can enjoy all your music "
+#~ "wherever you go. If you prefer streaming services you'll find "
+#~ "<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
+#~ "many popular streaming services, in the <strong>Software Boutique</strong>"
+#~ msgstr ""
+#~ "Ubuntu MATE vključuje odličen predvajalnik glasbe Rhythmbox. Z naprednimi "
+#~ "možnostmi predvajanja vaših najljubših skladb. Odlično deluje tudi s CD-ji "
+#~ "in prenosnimi glasbenimi predvajalniki, tako da lahko uživate v vaši glasbi "
+#~ "kamorkoli greste. V <strong>Trgovini programov</strong> najdete tudi "
+#~ "programa za pretočne storitve <strong>Spotify</strong> in <strong>Nuvola "
+#~ "Player</strong>."
+
+#~ msgid ""
+#~ "Ubuntu MATE Welcome greets and assists new and returning users. The "
+#~ "<strong>Getting Started</strong> wizard will guide you through the first "
+#~ "boot post-installation setup and configuration of additional peripherals and "
+#~ "devices and the documentation will help orientate new users. The "
+#~ "<strong>Systems Specifications</strong> section will help you explore your "
+#~ "hardware and offers one-click install and launch of many useful system "
+#~ "monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
+#~ "off point to the community."
+#~ msgstr ""
+#~ "Ubuntu MATE Welcome pozdravi in pomaga novim in obstoječim uporabnikom. "
+#~ "Čarovnik <strong>Kako začeti</strong> vas bo vodil po namestitvi in "
+#~ "nastavitvi dodatnih zunanjih naprav in ostalih naprav, medtem ko bo "
+#~ "dokumentacija pomagala usmeriti nove uporabnike. Odsek <strong>Sistemska "
+#~ "določila</strong> bo pomagal raziskati vašo strojno opremo in omogočil "
+#~ "namestitev in zagon številnih uporabnih orodij za spremljanje sistema z enim "
+#~ "klikom. Ko potrebujete pomoč je Ubuntu MATE Welcome odskočni korak k "
+#~ "skupnosti."

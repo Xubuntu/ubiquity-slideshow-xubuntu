@@ -6,17 +6,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2019-10-22 08:42+0000\n"
-"Last-Translator: Cédric VALMARY (Tot en òc) <cvalmary@yahoo.fr>\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2021-04-22 01:42+0200\n"
+"PO-Revision-Date: 2021-05-31 15:14+0000\n"
+"Last-Translator: Quentin PAGÈS <Unknown>\n"
 "Language-Team: Occitan (post 1500) <oc@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2021-10-03 10:36+0000\n"
+"X-Generator: Launchpad (build 1ce78163f6a09ed42b4201fe7d3f0e3a2eba7d02)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -34,7 +33,7 @@ msgstr ""
 "Al còr de la filosofia d'Ubuntu se tròba la conviccion que l'informatica deu "
 "èsser accessibla a totes. Prepausa d'aisinas d'accessibilitat avançadas e "
 "d'opcions talas coma la causida de la lenga, del tèma de colors, de la talha "
-"de las poliças, Ubuntu vos rend l'informatica aisida  – qual que siatz, ont "
+"de las poliças, Ubuntu vos rend l'informatica facila – qual que siatz, ont "
 "que siatz."
 
 #. type: Content of: <div><div><div><h2>
@@ -88,14 +87,19 @@ msgstr "Logicials incluses"
 msgid "Firefox web browser"
 msgstr "Navigador Web Firefox"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/browse.html:20
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:19
+#: slideshows/ubuntu/slides/browse.html:23
 #: slideshows/ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "Logicials preses en carga"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:23
+#: slideshows/ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -122,8 +126,8 @@ msgstr ""
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
-"teams/\">Local Community Team</a>."
+"your own language may be provided by your <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
 msgstr ""
 "Sus <a href=\"http://askubuntu.com\">Ask Ubuntu</a>, podètz pausar de "
 "questions e recercar dins una colleccion impressionanta de questions qu'an "
@@ -134,9 +138,10 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"https://www."
-"ubuntu.com/support/community-support\">Community support</a> or <a href="
-"\"http://www.ubuntu.com/support\">Commercial support</a>."
+"For pointers to other useful resources, please visit <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Community "
+"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
+"support</a>."
 msgstr ""
 "Per d'entresenhas cap a d'autras ressorsas utilas, referissètz-vos a l'<a "
 "href=\"https://www.ubuntu.com/support/community-support\">assisténcia "
@@ -223,13 +228,13 @@ msgstr "Profitatz plenament de vòstras fòtos"
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"keep them safe. And if you’re feeling creative, you can find many other "
+"photo apps in Ubuntu Software."
 msgstr ""
-"Shotwell es un gestionari de fòtos fòrça practic. Connectatz un aparelh de "
-"fòto o un telefòn per transferir vòstras fòtos e las partejar o ne conservar "
-"una còpia de secors. Se vos sentissètz l'anma creatritz, ensajtz doncas las "
-"nombrosas autras aplicacions per la fòto disponiblas dins la Logitèca Ubuntu."
+"Shotwell es un gestionari de fòto pratic qu’es prèst per vòstres gadgets. "
+"Connectatz una camèra o un telefòn per transferir vòstras fòtos, puèi es "
+"facil per las partejar e las gardar en lòc segur. Sètz vos sentissètz "
+"creatiu, podètz trobar d’autras aplicacions de fòto a la botiga Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -243,8 +248,8 @@ msgstr "Editor d'imatges GIMP"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "Editor vidèo Pitivi"
+msgid "Shotcut Video Editor"
+msgstr "Editor de vidèo Shotcut"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
@@ -279,3 +284,17 @@ msgstr ""
 "Rapida e cofla de novèlas foncionalitats, la darrièra version d'Ubuntu fa "
 "l'informatica mai aisida que non pas jamai. Aquí sonque qualques noveltats "
 "de descobrir…"
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Editor vidèo Pitivi"
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
+#~ "camera or a phone to transfer your photos, then it’s easy to share them and "
+#~ "keep them safe. If you’re feeling creative, you can try lots of photo apps "
+#~ "from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "Shotwell es un gestionari de fòtos fòrça practic. Connectatz un aparelh de "
+#~ "fòto o un telefòn per transferir vòstras fòtos e las partejar o ne conservar "
+#~ "una còpia de secors. Se vos sentissètz l'anma creatritz, ensajtz doncas las "
+#~ "nombrosas autras aplicacions per la fòto disponiblas dins la Logitèca Ubuntu."

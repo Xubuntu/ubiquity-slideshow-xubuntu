@@ -6,25 +6,24 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:38+0000\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2021-04-22 01:42+0200\n"
 "PO-Revision-Date: 2020-04-06 19:13+0000\n"
 "Last-Translator: Simos Xenitellis  <Unknown>\n"
 "Language-Team: Greek <el@li.org>\n"
-"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2021-10-03 10:41+0000\n"
+"X-Generator: Launchpad (build 1ce78163f6a09ed42b4201fe7d3f0e3a2eba7d02)\n"
 
-#. type: Content of: <div><h1>
-#: slideshows/ubuntu-mate/slides/01_welcome.html:2
+#. type: Content of: <div><div><h1>
+#: slideshows/ubuntu-mate/slides/01_welcome.html:3
 msgid "Welcome to Ubuntu MATE"
 msgstr "Καλωσήρθατε στο Ubuntu MATE"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-mate/slides/01_welcome.html:7
+#. type: Content of: <div><div><p>
+#: slideshows/ubuntu-mate/slides/01_welcome.html:4
 msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
@@ -42,19 +41,18 @@ msgstr "Περί"
 msgid ""
 "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
 "desktop environment. Ideal for those who want the most out of their "
-"computers and prefer a traditional desktop metaphor. With modest hardware "
-"requirements it is suitable for modern workstations, single board computers "
-"and older hardware alike."
+"computers and prefer a traditional desktop metaphor."
 msgstr ""
-"Το Ubuntu MATE είναι ένα σταθερό, εύκολο στη χρήση λειτουργικό σύστημα με "
-"ένα παραμετροποιήσιμο περιβάλλον εργασίας. Είναι ιδανικό για αυτούς που "
-"επιθυμούν τα μέγιστα από τους υπολογιστές τους αλλά προτιμούν μια "
-"παραδοσιακή επιφάνεια εργασίας. Με χαμηλές απαιτήσεις υλικού (hardware) "
-"είναι κατάλληλο για σύγχρονους σταθμούς εργασίας, single board computers και "
-"παλαιότερο υλικό."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/ubuntu-mate/slides/02_about.html:14
+#: slideshows/ubuntu-mate/slides/02_about.html:11
+msgid ""
+"With modest hardware requirements it is suitable for modern workstations, "
+"single board computers and older hardware alike."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/ubuntu-mate/slides/02_about.html:17
 msgid ""
 "For users coming from other operating systems, Ubuntu MATE can adapt the "
 "user interface with one-click to something more modern or something that you "
@@ -74,29 +72,20 @@ msgstr ""
 msgid ""
 "Ubuntu MATE Welcome greets and assists new and returning users. The "
 "<strong>Getting Started</strong> wizard will guide you through the first "
-"boot post-installation setup and configuration of additional peripherals and "
-"devices and the documentation will help orientate new users. The "
+"boot post-installation setup and the configuration of additional peripherals "
+"and devices, while the documentation will help orientate new users. The "
 "<strong>Systems Specifications</strong> section will help you explore your "
-"hardware and offers one-click install and launch of many useful system "
-"monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
-"off point to the community."
+"hardware and offers one-click installation for many useful system monitoring "
+"tools. When you need help Ubuntu MATE Welcome is the jumping off point to "
+"the community."
 msgstr ""
-"Η οθόνη καλωσορίσματος του Ubuntu MATE υποδέχεται και βοηθά νέους χρήστες "
-"και χρήστες που επιστρέφουν. Ο οδηγός <strong>Getting Started</strong> θα "
-"σας καθοδηγήσει στην πρώτη εκκίνηση μετά την εγκατάσταση και στη διαμόρφωση "
-"πρόσθετων περιφερειακών και συσκευών και η τεκμηρίωση θα βοηθήσει στον "
-"προσανατολισμό των νέων χρηστών. Ο τομέας <strong>Systems Specifications</"
-"strong> θα σας βοηθήσει να εξερευνήσετε το υλικό σας ενώ προσφέρει και "
-"εγκατάσταση με ένα κλικ και εκτέλεση πολλών χρήσιμων εργαλείων "
-"παρακολούθησης του συστήματος. Όποτε χρειαστείτε υποστήριξη η οθόνη "
-"καλωσορίσματος του Ubuntu MATE είναι το παράθυρό σας προς την κοινότητα."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:18
 #: slideshows/ubuntu-mate/slides/04_software.html:16
 #: slideshows/ubuntu-mate/slides/05_tweak.html:19
 #: slideshows/ubuntu-mate/slides/06_browse.html:16
-#: slideshows/ubuntu-mate/slides/08_music.html:16
+#: slideshows/ubuntu-mate/slides/08_music.html:15
 #: slideshows/ubuntu-mate/slides/09_photos.html:16
 #: slideshows/ubuntu-mate/slides/10_video.html:16
 #: slideshows/ubuntu-mate/slides/11_office.html:13
@@ -158,26 +147,15 @@ msgstr "Προσωποποιημένη χρήση υπολογιστή"
 #: slideshows/ubuntu-mate/slides/05_tweak.html:7
 msgid ""
 "The default Ubuntu MATE user interface is intuitive and easy to use. But we "
-"understand people have different tastes and preferences which is why we "
-"created <strong>MATE Tweak</strong>, a tool to change the user interface to "
-"mimic other operating systems. Coming from Windows? Try <strong>Redmond</"
-"strong>.  Prefer the way macOS is layed out? Try <strong>Cupertino</"
-"strong>.  For Ubuntu Unity fans take a look at <strong>Mutiny</strong>.  Or "
-"for a hybrid user interface, try <strong>Pantheon</strong> or "
-"<strong>Comptemporary</strong>. Experienced users can customise the user "
-"interface and save their creations."
+"understand people have different tastes and preferences, which is why we "
+"created <strong>MATE Tweak</strong>; a tool to change the user interface to "
+"mimic other operating systems. Coming from Windows? Try "
+"<strong>Redmond</strong>.  Prefer the way macOS is layed out? Try "
+"<strong>Cupertino</strong>.  For Ubuntu Unity fans take a look at "
+"<strong>Mutiny</strong>.  Or for a hybrid user interface, try "
+"<strong>Pantheon</strong> or <strong>Comptemporary</strong>. Experienced "
+"users can customise the user interface and save their creations."
 msgstr ""
-"Η προεπιλεγμένη διεπαφή χρήστη του Ubuntu MATE είναι διαισθητική και εύκολη "
-"στη χρήση. Αλλά κατανοούμε ότι οι άνθρωποι έχουν διαφορετικές προτιμήσεις "
-"και αυτός είναι ο λόγος που δημιουργήσαμε το <strong>MATE Tweak</strong>, "
-"ένα εργαλείο αλλαγής της διεπαφής χρήστη προκειμένου να προσομοιάζει σε άλλα "
-"λειτουργικά συστήματα. Έρχεστε από τα Windows; Δοκιμάστε το <strong>Redmond</"
-"strong>. Προτιμάτε τη διάρθρωση του macOS; Δοκιμάστε το <strong>Cupertino</"
-"strong>. Για όσους προτιμούν το Ubuntu Unity ρίξτε μια ματιά στο "
-"<strong>Mutiny</strong>. Ή για μία υβριδική διεπαφή χρήστη, δοκιμάστε το "
-"<strong>Pantheon</strong> ή το <strong>Comptemporary</strong>. Οι έμπειροι "
-"χρήστες μπορούν να προσαρμόσουν τη διεπαφή χρήστη και να αποθηκεύσουν τις "
-"δημιουργίες τους."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:23
@@ -196,16 +174,16 @@ msgid ""
 "used by millions of people around the world.  Designed with privacy in mind "
 "it includes enhanced security features to protect you from online threats. "
 "You'll also find <strong>Brave</strong>, <strong>Chromium</strong>, "
-"<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
-"strong> in the Software Boutique."
+"<strong>Google Chrome</strong>, <strong>Opera</strong> and "
+"<strong>Vivaldi</strong> in the Software Boutique."
 msgstr ""
 "Το Ubuntu MATE συμπεριλαμβάνει το <strong>Firefox</strong>, έναν εύκολο και "
 "ασφαλή περιηγητή διαδικτύου που χρησιμοποιείται από εκατομμύρια ανθρώπους σε "
 "όλον τον κόσμο. Σχεδιασμένος με την ιδιωτικότητα κατά νου, συμπεριλαμβάνει "
 "επαυξημένα χαρακτηριστικά ασφαλείας για την προστασία από διαδικτυακές "
 "απειλές. Επίσης, στο Software Boutique μπορείτε να βρείτε τους "
-"<strong>Brave</strong>, <strong>Chromium</strong>, <strong>Google Chrome</"
-"strong>, <strong>Opera</strong> και <strong>Vivaldi</strong>."
+"<strong>Brave</strong>, <strong>Chromium</strong>, <strong>Google "
+"Chrome</strong>, <strong>Opera</strong> και <strong>Vivaldi</strong>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:20
@@ -214,8 +192,8 @@ msgstr "Firefox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:24
-msgid "Thunderbird Mail"
-msgstr "Ηλεκτρονική αλληλογραφία Thunderbird"
+msgid "Evolution"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:31
@@ -234,15 +212,9 @@ msgid ""
 "<strong>Steam</strong> and <strong>Minecraft</strong> in the "
 "<strong>Software Boutique</strong>. We've also selected the very best open "
 "source games and stocked the Software Boutique with platformers, shoot 'em "
-"ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
+"ups, racers, flight simulators, puzzlers, turn based strategy and first "
 "person shooters."
 msgstr ""
-"Το Ubuntu MATE δεν είναι μόνο για εργασία. Είναι εξαιρετικό και για "
-"παιχνίδια. Μπορείτε να βρείτε το <strong>Steam</strong> και το "
-"<strong>Minecraft</strong> στο <strong>Software Boutique</strong>.  Έχουμε "
-"επιλέξει τα καλύτερα παιχνίδια ελεύθερου λογισμικού και έχουμε εφοδιάσει το "
-"<strong>Software Boutique</strong> με platformers, shoot 'em ups, αγώνες "
-"ταχύτητας, προσομοιωτές πτήσεων, παζλ, στρατηγικής και first person shooters."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:19
@@ -266,28 +238,19 @@ msgid ""
 "playback options, it's simple to queue up the perfect songs. And it works "
 "great with CDs and portable music players, so you can enjoy all your music "
 "wherever you go. If you prefer streaming services you'll find "
-"<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
-"many popular streaming services, in the <strong>Software Boutique</strong>"
+"<strong>Spotify</strong> in the <strong>Software Boutique</strong>."
 msgstr ""
-"Το Ubuntu MATE έρχεται με τον εξαιρετικό αναπαραγωγέα μουσικής Rhythmbox. Με "
-"προηγμένες επιλογές αναπαραγωγής, είναι απλό στη προσθέσετε στην σειρά "
-"αναπαραγωγής τα καλύτερα τραγούδια. Και δουλεύει εξαιρετικά με τα CD και "
-"τους φορητούς αναπαραγωγείς μουσικής, έτσι ώστε να μπορείτε να απολαύσετε "
-"όλη τη μουσική σας οπουδήποτε και να πάτε. Εάν προτιμάτε υπηρεσίες ροής "
-"(streaming) θα βρείτε το <strong>Spotify</strong> και το <strong>Nuvola "
-"Player</strong>, που υποστηρίζουν πολλές τέτοιες υπηρεσίες στο "
-"<strong>Software Boutique</strong>"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/08_music.html:20
+#: slideshows/ubuntu-mate/slides/08_music.html:19
 msgid "Rhythmbox Music Player"
 msgstr "Αναπαραγωγή μουσικής Rhythmbox"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu-mate/slides/08_music.html:24
+#: slideshows/ubuntu-mate/slides/08_music.html:23
 #: slideshows/ubuntu-mate/slides/10_video.html:20
-msgid "VLC"
-msgstr "Αναπαραγωγή πολυμέσων VLC"
+msgid "Celluloid"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/09_photos.html:2
@@ -308,10 +271,10 @@ msgstr ""
 "για τα gadget σας. Συνδέστε μια φωτογραφική μηχανή ή ένα τηλέφωνο για να "
 "μεταφέρετε τις φωτογραφίες σας, μετά είναι εύκολο να τις μοιραστείτε και να "
 "τις διατηρήσετε ασφαλείς. Για τους λάτρεις της ψηφιακής φωτογραφίας και τους "
-"επαγγελματίες στο Software Boutique περιλαμβάνονται το <strong>Darktable</"
-"strong> και το <strong>Luminance HDR</strong> που προσφέρουν ψηφιακά φωτεινή "
-"τράπεζα και σκοτεινό δωμάτιο για επεξεργασία ροών εργασίας εικόνας RAW και "
-"HDR"
+"επαγγελματίες στο Software Boutique περιλαμβάνονται το "
+"<strong>Darktable</strong> και το <strong>Luminance HDR</strong> που "
+"προσφέρουν ψηφιακά φωτεινή τράπεζα και σκοτεινό δωμάτιο για επεξεργασία ροών "
+"εργασίας εικόνας RAW και HDR"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/09_photos.html:20
@@ -333,8 +296,8 @@ msgstr "Πάρτε λίγο ποπκόρν!"
 msgid ""
 "Ubuntu MATE comes with <strong>Firefox</strong> pre-installed and "
 "<strong>Google Chrome</strong> is in the Software Boutique so you can watch "
-"content from your favourite streaming services such as <strong>Netflix</"
-"strong> and <strong>YouTube</strong>."
+"content from your favourite streaming services such as "
+"<strong>Netflix</strong> and <strong>YouTube</strong>."
 msgstr ""
 "Το Ubuntu MATE έρχεται με το <strong>Firefox</strong> προεγκατεστημένο ενώ "
 "το <strong>Google Chrome</strong> βρίσκεται στο Software Boutique, έτσι ώστε "
@@ -344,11 +307,9 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/10_video.html:12
 msgid ""
-"With <strong>VLC</strong> installed by default you can watch all you local "
-"video with ease."
+"With <strong>Celluloid</strong> installed by default you can watch all your "
+"local video with ease."
 msgstr ""
-"Με το <strong>VLC</strong> εγκατεστημένο από προεπιλογή, μπορείτε να δείτε "
-"όλα τα τοπικά σας βίντεο με ευκολία."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/11_office.html:2
@@ -443,58 +404,163 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntu-mate/slides/13_community.html:15
 msgid ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+</a>"
+"<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">Live "
+"Chat</a>"
 msgstr ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:19
-msgid ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
-msgstr ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/13_community.html:22
+#: slideshows/ubuntu-mate/slides/13_community.html:18
 msgid "Announcements"
 msgstr "Ανακοινώσεις"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:26
+#: slideshows/ubuntu-mate/slides/13_community.html:22
 msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:30
+#: slideshows/ubuntu-mate/slides/13_community.html:26
 msgid ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
-"\">Facebook</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 msgstr ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
-"\">Facebook</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu-mate/slides/13_community.html:33
+#: slideshows/ubuntu-mate/slides/13_community.html:29
 msgid "Development"
 msgstr "Ανάπτυξη λογισμικού"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:37
+#: slideshows/ubuntu-mate/slides/13_community.html:33
 msgid ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
-"<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Κώδικας</"
-"a>"
+"<a href=\"https://ubuntu-mate.org/development/\" "
+"class=\"caption\">Κώδικας</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/ubuntu-mate/slides/13_community.html:41
+#: slideshows/ubuntu-mate/slides/13_community.html:37
 msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
 msgstr ""
-"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption"
-"\">Διαχείριση διορθώσεων</a>"
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" "
+"class=\"caption\">Διαχείριση διορθώσεων</a>"
+
+#~ msgid ""
+#~ "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
+#~ "desktop environment. Ideal for those who want the most out of their "
+#~ "computers and prefer a traditional desktop metaphor. With modest hardware "
+#~ "requirements it is suitable for modern workstations, single board computers "
+#~ "and older hardware alike."
+#~ msgstr ""
+#~ "Το Ubuntu MATE είναι ένα σταθερό, εύκολο στη χρήση λειτουργικό σύστημα με "
+#~ "ένα παραμετροποιήσιμο περιβάλλον εργασίας. Είναι ιδανικό για αυτούς που "
+#~ "επιθυμούν τα μέγιστα από τους υπολογιστές τους αλλά προτιμούν μια "
+#~ "παραδοσιακή επιφάνεια εργασίας. Με χαμηλές απαιτήσεις υλικού (hardware) "
+#~ "είναι κατάλληλο για σύγχρονους σταθμούς εργασίας, single board computers και "
+#~ "παλαιότερο υλικό."
+
+#~ msgid ""
+#~ "Ubuntu MATE Welcome greets and assists new and returning users. The "
+#~ "<strong>Getting Started</strong> wizard will guide you through the first "
+#~ "boot post-installation setup and configuration of additional peripherals and "
+#~ "devices and the documentation will help orientate new users. The "
+#~ "<strong>Systems Specifications</strong> section will help you explore your "
+#~ "hardware and offers one-click install and launch of many useful system "
+#~ "monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
+#~ "off point to the community."
+#~ msgstr ""
+#~ "Η οθόνη καλωσορίσματος του Ubuntu MATE υποδέχεται και βοηθά νέους χρήστες "
+#~ "και χρήστες που επιστρέφουν. Ο οδηγός <strong>Getting Started</strong> θα "
+#~ "σας καθοδηγήσει στην πρώτη εκκίνηση μετά την εγκατάσταση και στη διαμόρφωση "
+#~ "πρόσθετων περιφερειακών και συσκευών και η τεκμηρίωση θα βοηθήσει στον "
+#~ "προσανατολισμό των νέων χρηστών. Ο τομέας <strong>Systems "
+#~ "Specifications</strong> θα σας βοηθήσει να εξερευνήσετε το υλικό σας ενώ "
+#~ "προσφέρει και εγκατάσταση με ένα κλικ και εκτέλεση πολλών χρήσιμων εργαλείων "
+#~ "παρακολούθησης του συστήματος. Όποτε χρειαστείτε υποστήριξη η οθόνη "
+#~ "καλωσορίσματος του Ubuntu MATE είναι το παράθυρό σας προς την κοινότητα."
+
+#~ msgid ""
+#~ "The default Ubuntu MATE user interface is intuitive and easy to use. But we "
+#~ "understand people have different tastes and preferences which is why we "
+#~ "created <strong>MATE Tweak</strong>, a tool to change the user interface to "
+#~ "mimic other operating systems. Coming from Windows? Try "
+#~ "<strong>Redmond</strong>.  Prefer the way macOS is layed out? Try "
+#~ "<strong>Cupertino</strong>.  For Ubuntu Unity fans take a look at "
+#~ "<strong>Mutiny</strong>.  Or for a hybrid user interface, try "
+#~ "<strong>Pantheon</strong> or <strong>Comptemporary</strong>. Experienced "
+#~ "users can customise the user interface and save their creations."
+#~ msgstr ""
+#~ "Η προεπιλεγμένη διεπαφή χρήστη του Ubuntu MATE είναι διαισθητική και εύκολη "
+#~ "στη χρήση. Αλλά κατανοούμε ότι οι άνθρωποι έχουν διαφορετικές προτιμήσεις "
+#~ "και αυτός είναι ο λόγος που δημιουργήσαμε το <strong>MATE Tweak</strong>, "
+#~ "ένα εργαλείο αλλαγής της διεπαφής χρήστη προκειμένου να προσομοιάζει σε άλλα "
+#~ "λειτουργικά συστήματα. Έρχεστε από τα Windows; Δοκιμάστε το "
+#~ "<strong>Redmond</strong>. Προτιμάτε τη διάρθρωση του macOS; Δοκιμάστε το "
+#~ "<strong>Cupertino</strong>. Για όσους προτιμούν το Ubuntu Unity ρίξτε μια "
+#~ "ματιά στο <strong>Mutiny</strong>. Ή για μία υβριδική διεπαφή χρήστη, "
+#~ "δοκιμάστε το <strong>Pantheon</strong> ή το <strong>Comptemporary</strong>. "
+#~ "Οι έμπειροι χρήστες μπορούν να προσαρμόσουν τη διεπαφή χρήστη και να "
+#~ "αποθηκεύσουν τις δημιουργίες τους."
+
+#~ msgid ""
+#~ "Ubuntu MATE comes with the amazing Rhythmbox music player.  With advanced "
+#~ "playback options, it's simple to queue up the perfect songs. And it works "
+#~ "great with CDs and portable music players, so you can enjoy all your music "
+#~ "wherever you go. If you prefer streaming services you'll find "
+#~ "<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
+#~ "many popular streaming services, in the <strong>Software Boutique</strong>"
+#~ msgstr ""
+#~ "Το Ubuntu MATE έρχεται με τον εξαιρετικό αναπαραγωγέα μουσικής Rhythmbox. Με "
+#~ "προηγμένες επιλογές αναπαραγωγής, είναι απλό στη προσθέσετε στην σειρά "
+#~ "αναπαραγωγής τα καλύτερα τραγούδια. Και δουλεύει εξαιρετικά με τα CD και "
+#~ "τους φορητούς αναπαραγωγείς μουσικής, έτσι ώστε να μπορείτε να απολαύσετε "
+#~ "όλη τη μουσική σας οπουδήποτε και να πάτε. Εάν προτιμάτε υπηρεσίες ροής "
+#~ "(streaming) θα βρείτε το <strong>Spotify</strong> και το <strong>Nuvola "
+#~ "Player</strong>, που υποστηρίζουν πολλές τέτοιες υπηρεσίες στο "
+#~ "<strong>Software Boutique</strong>"
+
+#~ msgid ""
+#~ "With <strong>VLC</strong> installed by default you can watch all you local "
+#~ "video with ease."
+#~ msgstr ""
+#~ "Με το <strong>VLC</strong> εγκατεστημένο από προεπιλογή, μπορείτε να δείτε "
+#~ "όλα τα τοπικά σας βίντεο με ευκολία."
+
+#~ msgid ""
+#~ "Ubuntu MATE is not just about work, it's also great for play! You'll find "
+#~ "<strong>Steam</strong> and <strong>Minecraft</strong> in the "
+#~ "<strong>Software Boutique</strong>. We've also selected the very best open "
+#~ "source games and stocked the Software Boutique with platformers, shoot 'em "
+#~ "ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
+#~ "person shooters."
+#~ msgstr ""
+#~ "Το Ubuntu MATE δεν είναι μόνο για εργασία. Είναι εξαιρετικό και για "
+#~ "παιχνίδια. Μπορείτε να βρείτε το <strong>Steam</strong> και το "
+#~ "<strong>Minecraft</strong> στο <strong>Software Boutique</strong>.  Έχουμε "
+#~ "επιλέξει τα καλύτερα παιχνίδια ελεύθερου λογισμικού και έχουμε εφοδιάσει το "
+#~ "<strong>Software Boutique</strong> με platformers, shoot 'em ups, αγώνες "
+#~ "ταχύτητας, προσομοιωτές πτήσεων, παζλ, στρατηγικής και first person shooters."
+
+#~ msgid "Thunderbird Mail"
+#~ msgstr "Ηλεκτρονική αλληλογραφία Thunderbird"
+
+#~ msgid "VLC"
+#~ msgstr "Αναπαραγωγή πολυμέσων VLC"
+
+#~ msgid ""
+#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
+#~ msgstr ""
+#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
+
+#~ msgid ""
+#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
+#~ "class=\"caption\">Google+</a>"
+#~ msgstr ""
+#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
+#~ "class=\"caption\">Google+</a>"

@@ -6,17 +6,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:37+0000\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2021-04-22 01:42+0200\n"
 "PO-Revision-Date: 2021-03-25 12:57+0000\n"
 "Last-Translator: Pyae Sone <Unknown>\n"
 "Language-Team: Burmese <my@li.org>\n"
-"Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:25+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2021-10-03 10:36+0000\n"
+"X-Generator: Launchpad (build 1ce78163f6a09ed42b4201fe7d3f0e3a2eba7d02)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -31,8 +30,9 @@ msgid ""
 "colour scheme and text size, Ubuntu makes computing easy – whoever and "
 "wherever you are."
 msgstr ""
-"Ubuntu ၏ခံယူချက်မှာ လူတိုင်းကွန်ပျူတာနှင့် အကျွမ်းဝင်စေရန်ဖြစ်သည်။ အသုံးပြုရလွယ်ကူသော ကိရိယာများ၊ "
-"ဘာသာစကား ပြောင်းလဲအသုံးပြုနိုင်မှု၊ အရောင်အစီအစဉ်နှင့်စာသားအရွယ်အစား စသည်တို့ဖြင့် မည်သူမဆို "
+"Ubuntu ၏ခံယူချက်မှာ လူတိုင်းကွန်ပျူတာနှင့် အကျွမ်းဝင်စေရန်ဖြစ်သည်။ "
+"အသုံးပြုရလွယ်ကူသော ကိရိယာများ၊ ဘာသာစကား ပြောင်းလဲအသုံးပြုနိုင်မှု၊ "
+"အရောင်အစီအစဉ်နှင့်စာသားအရွယ်အစား စသည်တို့ဖြင့် မည်သူမဆို "
 "မည်သည့်နေရာတွင်ဖြစ်စေ အသုံးပြုရလွယ်ကူအောင် Ubuntu မှပြုလုပ်ပေးထားပါသည်။"
 
 #. type: Content of: <div><div><div><h2>
@@ -68,10 +68,10 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
-"Ubuntu တွင် ကမ္ဘာ တစ်ဝှမ်းသန်းပေါင်းများစွာသောလူများအသုံးပြုနေသော Firefox  ပါဝင်ပါသည်။  "
-"သင်အကြိမ်များစွာအသုံးပြုသော  web applications ( facebook သို့ Gmail "
-"များကဲ့သို့ )များကိုအလျှင်အမြန်ရယူ သုံးစွဲနိုင်ရန် သင်၏Desktop ပေါ် တွင် သင့်ကွန်ပျူ တာ အတွင်း ရှိ "
-"application များကဲ့သို့ မှတ်သားထားနိုင်သည်"
+"Ubuntu တွင် ကမ္ဘာ တစ်ဝှမ်းသန်းပေါင်းများစွာသောလူများအသုံးပြုနေသော Firefox  "
+"ပါဝင်ပါသည်။  သင်အကြိမ်များစွာအသုံးပြုသော  web applications ( facebook သို့ "
+"Gmail များကဲ့သို့ )များကိုအလျှင်အမြန်ရယူ သုံးစွဲနိုင်ရန် သင်၏Desktop ပေါ် "
+"တွင် သင့်ကွန်ပျူ တာ အတွင်း ရှိ application များကဲ့သို့ မှတ်သားထားနိုင်သည်"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -86,14 +86,19 @@ msgstr "ထည့်သွင်းထားသော ဆော့ဖ်ဝဲ�
 msgid "Firefox web browser"
 msgstr "Firefox ဝဘ်အသုံးပြု ဆော့ဖ်ဝဲလ်"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/browse.html:20
+msgid "Thunderbird"
+msgstr ""
+
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:19
+#: slideshows/ubuntu/slides/browse.html:23
 #: slideshows/ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "ထောက်ပံ့ပေးနိုင်သော ဆော့ဖ်ဝဲများ"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:23
+#: slideshows/ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -110,32 +115,36 @@ msgid ""
 "href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
 "Dock."
 msgstr ""
-"<span class = \"app\" data-app = \"docs\"> တရားဝင်စာရွက်စာတမ်းများ </span> သည် "
-"Ubuntu ၏အသုံးအများဆုံးနေရာများကိုဖော်ပြသည်။ ၎င်းသည် <a href=\"https://help.ubuntu.com"
-"\"> အွန်လိုင်း </a> နှင့် Dock ရှိ Help icon မှတဆင့်ရနိုင်သည်။"
+"<span class = \"app\" data-app = \"docs\"> တရားဝင်စာရွက်စာတမ်းများ </span> "
+"သည် Ubuntu ၏အသုံးအများဆုံးနေရာများကိုဖော်ပြသည်။ ၎င်းသည် <a "
+"href=\"https://help.ubuntu.com\"> အွန်လိုင်း </a> နှင့် Dock ရှိ Help icon "
+"မှတဆင့်ရနိုင်သည်။"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
-"teams/\">Local Community Team</a>."
+"your own language may be provided by your <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
 msgstr ""
-"<a href=\"http://askubuntu.com\">Ask Ubuntu</a> တွင် သိလိုသည်များကို မေးမြန်း "
-"ရှာဖွေနိုင်ပြီး သင်စိတ်ကျေနပ်လောက်ဖွယ် အဖြေများကို စုစည်းထားပါတယ်။ သင့်ဘာသာစကားကို <a href="
-"\"http://loco.ubuntu.com/teams/\">Local Community Team</a>မှ ထောက်ပံ့ပါလိမ့်မည်။"
+"<a href=\"http://askubuntu.com\">Ask Ubuntu</a> တွင် သိလိုသည်များကို "
+"မေးမြန်း ရှာဖွေနိုင်ပြီး သင်စိတ်ကျေနပ်လောက်ဖွယ် အဖြေများကို စုစည်းထားပါတယ်။ "
+"သင့်ဘာသာစကားကို <a href=\"http://loco.ubuntu.com/teams/\">Local Community "
+"Team</a>မှ ထောက်ပံ့ပါလိမ့်မည်။"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"https://www."
-"ubuntu.com/support/community-support\">Community support</a> or <a href="
-"\"http://www.ubuntu.com/support\">Commercial support</a>."
+"For pointers to other useful resources, please visit <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Community "
+"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
+"support</a>."
 msgstr ""
-"အခြားသော အသုံးဝင်သည့် လမ်းညွှန်မှုရင်းမြစ်များအတွက် <a href=\"https://www.ubuntu.com/"
-"support/community-support\">လူစုလူဝေး အထောက်အပံ့</a> သို့မဟုတ် <a href=\"http://www."
-"ubuntu.com/support\">စီးပွားဖြစ် အထောက်အပံ့</a>သို့ သွားပါ။"
+"အခြားသော အသုံးဝင်သည့် လမ်းညွှန်မှုရင်းမြစ်များအတွက် <a "
+"href=\"https://www.ubuntu.com/support/community-support\">လူစုလူဝေး "
+"အထောက်အပံ့</a> သို့မဟုတ် <a "
+"href=\"http://www.ubuntu.com/support\">စီးပွားဖြစ် အထောက်အပံ့</a>သို့ သွားပါ။"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -150,9 +159,10 @@ msgid ""
 "CDs and portable music players, so you can enjoy all your music wherever you "
 "go."
 msgstr ""
-"Ubuntu မှာ အံ့အားသင့်ဖွယ် Rhythmbox ဂီတဖွင့်ဆော့ဖ်ဝဲ ပါဝင်လာပါပြီ။ အထူးလုပ်ဆောင်ချက်များနှင့် "
-"သီချင်းများကို လွယ်ကူစွာစီစဥ်နိုင်ပါတယ်။ ထို့ပြင် CD ခွေများနှင့် အိတ်ဆောင်သီချင်းဖွင့်စက်များကဲ့သို "
-"အလုပ်လုပ်နိုင်သဖြင့် သင်သွားလေရာတွင် ဂီတကိုခံစားနားဆင်နိုင်ပါပြီ။"
+"Ubuntu မှာ အံ့အားသင့်ဖွယ် Rhythmbox ဂီတဖွင့်ဆော့ဖ်ဝဲ ပါဝင်လာပါပြီ။ "
+"အထူးလုပ်ဆောင်ချက်များနှင့် သီချင်းများကို လွယ်ကူစွာစီစဥ်နိုင်ပါတယ်။ ထို့ပြင် "
+"CD ခွေများနှင့် အိတ်ဆောင်သီချင်းဖွင့်စက်များကဲ့သို အလုပ်လုပ်နိုင်သဖြင့် "
+"သင်သွားလေရာတွင် ဂီတကိုခံစားနားဆင်နိုင်ပါပြီ။"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:15
@@ -187,8 +197,9 @@ msgid ""
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
 "LibreOffice သင်စာရွက်စာတမ်းများ, spreadsheet "
-"နှင့်တင်ပြချက်များကိုဖန်တီးရန်လိုအပ်ပါတယ်အရာအားလုံးနှင့်အတူသိပ်သည်းတဲ့အခမဲ့ Office suite တစ်ခုဖြစ်ပါတယ်။ "
-"Microsoft Office ဖိုင် Format နှင့်အတူလိုက်ဖက်တဲ့ကြောင့်စျေးနှုန်း tag "
+"နှင့်တင်ပြချက်များကိုဖန်တီးရန်လိုအပ်ပါတယ်အရာအားလုံးနှင့်အတူသိပ်သည်းတဲ့အခမဲ့ "
+"Office suite တစ်ခုဖြစ်ပါတယ်။ Microsoft Office ဖိုင် Format "
+"နှင့်အတူလိုက်ဖက်တဲ့ကြောင့်စျေးနှုန်း tag "
 "ကိုမပါဘဲသင်လိုအပ်သမျှအင်္ဂါရပ်များကိုပေးသည်။"
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -216,14 +227,9 @@ msgstr "သင့်ဓါတ်ပုံများဖြင့် ပျေ�
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"keep them safe. And if you’re feeling creative, you can find many other "
+"photo apps in Ubuntu Software."
 msgstr ""
-"Shotwell သည် သင့် gadget များအတွက် အသုံးဝင်စေမည့် ဓါတ်ပုံ ထိန်းသိမ်းမှုဆော့ဖ်ဝဲလ်တစ်ုခ ဖြစ်ပါသည်။ သင့် "
-"ဖုန်း (သို့မဟုတ်)ကင်မရာ နှင့်ဆက်သွယ်၍ ဓါတ်ပုံများအား ရွေ့ပြောင်းပါ။ ဤနည်းသည် ဓါတ်ပုံများ ဖြန့်ဝေခြင်းနှင့် "
-"လုံခြုံစွာ ထိန်းသိမ်းခြင်းတို့အတွက် အလွယ်ကူဆုံးနည်းလမ်းဖြစ်ပါသည်။ဓါတ်များအား ဆန်းသစ်ဖန်တီးလိုပါကလည်း ဓါတ်ပုံ "
-"ဆော့ဖ်ဝဲလ် များကို Ubuntu ဆော့ဖ်ဝဲလ်ဌာန မှရယူ၍လည်း ဓါတ်ပုံတည်းဖြတ်ခြင်း၊ ပြင်ဆင်ခြင်းများ "
-"ပြုလုပ်နိုင်ပါသည်။"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -237,8 +243,8 @@ msgstr "GIMP ရုပ်ပုံ တည်းဖြတ် ဆော့ဖ်�
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "Pitivi ဗီဒီယို တည်းဖြတ် ဆော့ဖ်ဝဲ"
+msgid "Shotcut Video Editor"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
@@ -254,10 +260,11 @@ msgid ""
 "as Graphics & Photography, Games and Productivity, alongside helpful reviews "
 "from other users."
 msgstr ""
-"ဆော့ဖ်ဝဲလ်အသစ်များ ဝက်ဘ်ပေါ်တွင်ရှာနေရခြင်းအား လက်ပြနှုတ်ဆက်လိုက်ပါ။ Snap စတိုးနှင့် ဦးဘွန်တု ဆော့ဖ်ဝဲလ် "
-"မော်ကွန်းတိုက်မှ ရယူခြင်းဖြင့် အက်ပ်အသစ်များကို လွယ်လင့်တကူ ရှာဖွေတပ်ဆင်နိုင်ပါပြီ။ မိမိအလိုရှိရာ သို့မဟုတ် "
-"အကြောင်းအရာအလိုက် ဂရပ်ဖစ်နှင့် ဓါတ်ပုံပညာ၊ ဂိမ်းများနှင့် အခြားအသုံးပြုသူများ၏ "
-"အသုံးဝင်သောမှတ်ချက်များနှင့်တွဲလျက် ထုတ်ကုန်မျ"
+"ဆော့ဖ်ဝဲလ်အသစ်များ ဝက်ဘ်ပေါ်တွင်ရှာနေရခြင်းအား လက်ပြနှုတ်ဆက်လိုက်ပါ။ Snap "
+"စတိုးနှင့် ဦးဘွန်တု ဆော့ဖ်ဝဲလ် မော်ကွန်းတိုက်မှ ရယူခြင်းဖြင့် "
+"အက်ပ်အသစ်များကို လွယ်လင့်တကူ ရှာဖွေတပ်ဆင်နိုင်ပါပြီ။ မိမိအလိုရှိရာ သို့မဟုတ် "
+"အကြောင်းအရာအလိုက် ဂရပ်ဖစ်နှင့် ဓါတ်ပုံပညာ၊ ဂိမ်းများနှင့် "
+"အခြားအသုံးပြုသူများ၏ အသုံးဝင်သောမှတ်ချက်များနှင့်တွဲလျက် ထုတ်ကုန်မျ"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -270,5 +277,23 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
-"ကြွယ်ဝလျင်မြန်သော လုပ်ဆောင်ချက်အသစ်များဖြင့် နောက်ဆုံးထွက် ဦးဘွန်တုဗားရှင်းက ယခင်ထက်တွက်ချက်မှုများကို "
-"ပိုမိုလွယ်ကူစေလိမ့်မည်။ သိထားရမည့် အကောင်းစား အကြောင်းအရာအသစ်များမှာ..."
+"ကြွယ်ဝလျင်မြန်သော လုပ်ဆောင်ချက်အသစ်များဖြင့် နောက်ဆုံးထွက် "
+"ဦးဘွန်တုဗားရှင်းက ယခင်ထက်တွက်ချက်မှုများကို ပိုမိုလွယ်ကူစေလိမ့်မည်။ "
+"သိထားရမည့် အကောင်းစား အကြောင်းအရာအသစ်များမှာ..."
+
+#~ msgid "Pitivi Video Editor"
+#~ msgstr "Pitivi ဗီဒီယို တည်းဖြတ် ဆော့ဖ်ဝဲ"
+
+#~ msgid ""
+#~ "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
+#~ "camera or a phone to transfer your photos, then it’s easy to share them and "
+#~ "keep them safe. If you’re feeling creative, you can try lots of photo apps "
+#~ "from the Ubuntu Software Center."
+#~ msgstr ""
+#~ "Shotwell သည် သင့် gadget များအတွက် အသုံးဝင်စေမည့် ဓါတ်ပုံ "
+#~ "ထိန်းသိမ်းမှုဆော့ဖ်ဝဲလ်တစ်ုခ ဖြစ်ပါသည်။ သင့် ဖုန်း (သို့မဟုတ်)ကင်မရာ "
+#~ "နှင့်ဆက်သွယ်၍ ဓါတ်ပုံများအား ရွေ့ပြောင်းပါ။ ဤနည်းသည် ဓါတ်ပုံများ "
+#~ "ဖြန့်ဝေခြင်းနှင့် လုံခြုံစွာ ထိန်းသိမ်းခြင်းတို့အတွက် "
+#~ "အလွယ်ကူဆုံးနည်းလမ်းဖြစ်ပါသည်။ဓါတ်များအား ဆန်းသစ်ဖန်တီးလိုပါကလည်း ဓါတ်ပုံ "
+#~ "ဆော့ဖ်ဝဲလ် များကို Ubuntu ဆော့ဖ်ဝဲလ်ဌာန မှရယူ၍လည်း ဓါတ်ပုံတည်းဖြတ်ခြင်း၊ "
+#~ "ပြင်ဆင်ခြင်းများ ပြုလုပ်နိုင်ပါသည်။"
