@@ -1,21 +1,22 @@
 # Danish translation for ubiquity-slideshow-ubuntu
 # Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
 # This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+# Alan Mortensen <alanmortensen.am@gmail.com>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2021-04-22 01:42+0200\n"
-"PO-Revision-Date: 2019-09-27 15:22+0000\n"
-"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
+"POT-Creation-Date: 2022-03-28 22:49+0200\n"
+"PO-Revision-Date: 2021-10-15 15:03+0000\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
 "Language-Team: Danish <da@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-10-03 10:41+0000\n"
-"X-Generator: Launchpad (build 1ce78163f6a09ed42b4201fe7d3f0e3a2eba7d02)\n"
+"X-Launchpad-Export-Date: 2022-04-10 14:52+0000\n"
+"X-Generator: Launchpad (build 4c58cf79c82ce3fbd42288b21369cc838fb5b9e0)\n"
+"Language: da\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/ubuntu-mate/slides/01_welcome.html:3
@@ -43,6 +44,10 @@ msgid ""
 "desktop environment. Ideal for those who want the most out of their "
 "computers and prefer a traditional desktop metaphor."
 msgstr ""
+"Ubuntu MATE er et stabilt og brugervenligt styresystem med et "
+"skrivebordsmiljø, der kan tilpasses. Ideelt for dem der vil have det "
+"maksimale udbytte af deres computere og foretrækker en traditionel "
+"skrivebordsmetafor."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/02_about.html:11
@@ -50,6 +55,8 @@ msgid ""
 "With modest hardware requirements it is suitable for modern workstations, "
 "single board computers and older hardware alike."
 msgstr ""
+"Med beskedne krav til hardwaren er det lige egnet til moderne "
+"arbejdsstationer, pc'er og ældre hardware."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-mate/slides/02_about.html:17
@@ -79,6 +86,14 @@ msgid ""
 "tools. When you need help Ubuntu MATE Welcome is the jumping off point to "
 "the community."
 msgstr ""
+"Ubuntu MATE Velkommen hjælper nye så vel som tidligere brugere. <strong>Kom "
+"godt i gang</strong>-guiden vil lede dig igennem opsætningen under den "
+"første opstart efter installeringen og hjælpe med konfigurering af "
+"(eksterne) enheder, mens dokumentationen vil hjælpe med at orientere nye "
+"brugere. Afsnittet <strong>Systemspecifikationer</strong> vil hjælpe dig med "
+"at udforske din hardware og giver mulighed for installering af mange nyttige "
+"værktøjer til systemovervågning med et enkelt klik. Har du brug for hjælp, "
+"leder Ubuntu MATE Velkommen dig videre til fællesskabet."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/03_getting_started.html:18
@@ -155,6 +170,15 @@ msgid ""
 "<strong>Pantheon</strong> or <strong>Comptemporary</strong>. Experienced "
 "users can customise the user interface and save their creations."
 msgstr ""
+"Ubuntu MATEs standardbrugergrænseflade er intuitiv og nemt at bruge. Men "
+"folk har forskellig smag, hvorfor vi har lavet <strong>MATE "
+"Tilpasning</strong>; et værktøj til ændring af brugergrænsefladen, så den "
+"ligner andre styresystemer. Brugte du tidligere Windows? Prøv "
+"<strong>Redmond</strong>. Foretrækker du udseendet på macOS? Prøv "
+"<strong>Cupertino</strong>. Ubuntu Unity-fans kan se på "
+"<strong>Mutiny</strong>. Foretrækker du en blandet brugergrænseflade, så "
+"prøv <strong>Pantheon</strong> eller <strong>Comptemporary</strong>. Erfarne "
+"brugere kan tilpasse brugergrænsefladen og gemme deres kreationer."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/05_tweak.html:23
@@ -191,7 +215,7 @@ msgstr "Firefox"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:24
 msgid "Evolution"
-msgstr ""
+msgstr "Evolution"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/06_browse.html:31
@@ -213,6 +237,11 @@ msgid ""
 "ups, racers, flight simulators, puzzlers, turn based strategy and first "
 "person shooters."
 msgstr ""
+"Ubuntu MATE er ikke kun til arbejde, men er også fantastisk til spil! Du "
+"finder <strong>Steam</strong> og <strong>Minecraft</strong> i "
+"<strong>Softwarebutikken</strong>. Vi har også valgt de bedste open source-"
+"spil og fyldt Softwarebutikken med platformsspil, skydespil, racerspil, "
+"flysimulatorer, hovedbrud, tur-baseret strategi og førstepersonsskydespil."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/07_games.html:19
@@ -238,6 +267,11 @@ msgid ""
 "wherever you go. If you prefer streaming services you'll find "
 "<strong>Spotify</strong> in the <strong>Software Boutique</strong>."
 msgstr ""
+"Ubuntu MATE har den fantastiske Rhythmbox-musikafspiller. Med avancerede "
+"afspilningsmuligheder er det nemt at sætte dine sange i kø. Og den virker "
+"fint med cd'er og bærbare musikafspillere, så du kan nyde musikken, hvor end "
+"du bevæger dig hen. Foretrækker du streamingtjenester, finder du "
+"<strong>Spotify</strong> i <strong>Softwarebutikken</strong>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu-mate/slides/08_music.html:19
@@ -248,7 +282,7 @@ msgstr "Rhythmbox-musikafspiller"
 #: slideshows/ubuntu-mate/slides/08_music.html:23
 #: slideshows/ubuntu-mate/slides/10_video.html:20
 msgid "Celluloid"
-msgstr ""
+msgstr "Celluloid"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/09_photos.html:2
@@ -306,6 +340,8 @@ msgid ""
 "With <strong>Celluloid</strong> installed by default you can watch all your "
 "local video with ease."
 msgstr ""
+"Med <strong>Celluloid</strong>, der er installeret som standard, kan du nemt "
+"se alle dine lokale videoer."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-mate/slides/11_office.html:2
@@ -402,6 +438,8 @@ msgid ""
 "<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">Live "
 "Chat</a>"
 msgstr ""
+"<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">Live "
+"Chat</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu-mate/slides/13_community.html:18
@@ -444,112 +482,3 @@ msgid ""
 msgstr ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
-
-#~ msgid "Thunderbird Mail"
-#~ msgstr "Thunderbird Mail"
-
-#~ msgid ""
-#~ "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
-#~ "desktop environment. Ideal for those who want the most out of their "
-#~ "computers and prefer a traditional desktop metaphor. With modest hardware "
-#~ "requirements it is suitable for modern workstations, single board computers "
-#~ "and older hardware alike."
-#~ msgstr ""
-#~ "Ubuntu MATE er et stabilt, letanvendeligt styresystem med et "
-#~ "skrivebordsmiljø som kan tilpasses. Ideelt for de som ønsker mest mulig fra "
-#~ "deres computere og som foretrækker en traditionel skrivebordsmetafor. Med "
-#~ "beskedne hardwarekrav egner den sig lige godt til moderne arbejdsstationer, "
-#~ "enkeltkort-computere og ældre hardware."
-
-#~ msgid "VLC"
-#~ msgstr "VLC"
-
-#~ msgid ""
-#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
-#~ msgstr ""
-#~ "<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Livechat</a>"
-
-#~ msgid ""
-#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
-#~ "class=\"caption\">Google+</a>"
-#~ msgstr ""
-#~ "<a href=\"https://plus.google.com/communities/108331279007926658904\" "
-#~ "class=\"caption\">Google+</a>"
-
-#~ msgid ""
-#~ "Ubuntu MATE is not just about work, it's also great for play! You'll find "
-#~ "<strong>Steam</strong> and <strong>Minecraft</strong> in the "
-#~ "<strong>Software Boutique</strong>. We've also selected the very best open "
-#~ "source games and stocked the Software Boutique with platformers, shoot 'em "
-#~ "ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
-#~ "person shooters."
-#~ msgstr ""
-#~ "Ubuntu MATE handler ikke kun om arbejde. Den er også god til spil! Du finder "
-#~ "<strong>Steam</strong> og <strong>Minecraft</strong> i "
-#~ "<strong>Softwarebutikken</strong>. Vi har også de aller bedste open source-"
-#~ "spil og har fyldt softwarebutikken med platformspil, shoot 'em ups, "
-#~ "racerspil, flysimulatorer, puzzlers, tur-baseret spil og first person "
-#~ "shooters."
-
-#~ msgid ""
-#~ "Ubuntu MATE comes with the amazing Rhythmbox music player.  With advanced "
-#~ "playback options, it's simple to queue up the perfect songs. And it works "
-#~ "great with CDs and portable music players, so you can enjoy all your music "
-#~ "wherever you go. If you prefer streaming services you'll find "
-#~ "<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
-#~ "many popular streaming services, in the <strong>Software Boutique</strong>"
-#~ msgstr ""
-#~ "Ubuntu MATE kommer med den fantastiske Rhythmbox-musikafspiller. Med "
-#~ "avancerede afspilningsmuligheder er det lige til at sætte de perfekte sange "
-#~ "i kø. Og den virker godt med CD'er og transportable afspillere, så du kan "
-#~ "nyde al din musik hvor end du er. Hvis du foretrækker streamingtjenester så "
-#~ "finder du <strong>Spotify</strong> og <strong>Nuvola Player</strong>, der "
-#~ "understøtter mange populære streamingtjenester, i "
-#~ "<strong>Softwarebutikken</strong>"
-
-#~ msgid ""
-#~ "The default Ubuntu MATE user interface is intuitive and easy to use. But we "
-#~ "understand people have different tastes and preferences which is why we "
-#~ "created <strong>MATE Tweak</strong>, a tool to change the user interface to "
-#~ "mimic other operating systems. Coming from Windows? Try "
-#~ "<strong>Redmond</strong>.  Prefer the way macOS is layed out? Try "
-#~ "<strong>Cupertino</strong>.  For Ubuntu Unity fans take a look at "
-#~ "<strong>Mutiny</strong>.  Or for a hybrid user interface, try "
-#~ "<strong>Pantheon</strong> or <strong>Comptemporary</strong>. Experienced "
-#~ "users can customise the user interface and save their creations."
-#~ msgstr ""
-#~ "Ubuntu MATEs standardbrugerflade er intuitiv og let at bruge. Men vi forstå "
-#~ "at folk har forskellig smag og præferencer, hvilket er årsagen til at vi "
-#~ "skabte <strong>MATE Tweak</strong>, et værktøj til at skifte brugerfladen så "
-#~ "den efterligner andre styresystemer. Kommer du fra Windows? Så prøv "
-#~ "<strong>Redmond</strong>. Foretrækker du layoutet i macOS? Så prøv "
-#~ "<strong>Cupertino</strong>. Ubuntu Unity-fans kan kigge på "
-#~ "<strong>Mutiny</strong>. Eller for en hybrid-brugerflade, prøv "
-#~ "<strong>Pantheon</strong> eller <strong>Comptemporary</strong>. Erfarne "
-#~ "brugere kan tilpasse brugerfladen og gemme deres kreationer."
-
-#~ msgid ""
-#~ "Ubuntu MATE Welcome greets and assists new and returning users. The "
-#~ "<strong>Getting Started</strong> wizard will guide you through the first "
-#~ "boot post-installation setup and configuration of additional peripherals and "
-#~ "devices and the documentation will help orientate new users. The "
-#~ "<strong>Systems Specifications</strong> section will help you explore your "
-#~ "hardware and offers one-click install and launch of many useful system "
-#~ "monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
-#~ "off point to the community."
-#~ msgstr ""
-#~ "Ubuntu MATE Velkommen hilser på og assisterer nye og tilbagevendende "
-#~ "brugere. <strong>Getting Started</strong>-assistenten guider dig efter "
-#~ "installationen gennem den første boot-opsætning og konfiguration af "
-#~ "yderligere eksterne enheder og enheder, og dokumentationen hjælper nye "
-#~ "brugere i gang. <strong>Systems Specifications</strong>-afsnittet hjælper "
-#~ "dig med at udforske din hardware og tilbyder installation med ét klik, og "
-#~ "start af mange nyttige systemovervågningsværktøjer. Når du har brug for "
-#~ "support så er Ubuntu MATE Velkommen startpunktet til fællesskabet."
-
-#~ msgid ""
-#~ "With <strong>VLC</strong> installed by default you can watch all you local "
-#~ "video with ease."
-#~ msgstr ""
-#~ "Med <strong>VLC</strong> installeret som standard kan du let se alle dine "
-#~ "lokale videoer."
