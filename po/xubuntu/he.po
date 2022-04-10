@@ -1,22 +1,25 @@
-# Hebrew translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Sean Davis <bluesabre@ubuntu.com>, 2020
+# Omer I.S. <omeritzicschwartz@gmail.com>, 2022
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2018-05-07 15:49+0000\n"
-"Last-Translator: Yaron <sh.yaron@gmail.com>\n"
-"Language-Team: Hebrew <he@li.org>\n"
-"Language: he\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-08-20 05:12-0400\n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: Omer I.S. <omeritzicschwartz@gmail.com>, 2022\n"
+"Language-Team: Hebrew (https://www.transifex.com/xubuntu/teams/110148/he/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
-"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
+"Language: he\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
@@ -68,11 +71,11 @@ msgstr ""
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/2004/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+"<a href=\"https://docs.xubuntu.org/2004/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
-"<a href=\"https://docs.xubuntu.org/2004/\">תיעוד רשמי מקוון</a> <a href="
-"\"https://xubuntu.org/help/\">כל שיטות התמיכה</a>"
+"<a href=\"https://docs.xubuntu.org/2004/\">התיעוד הרשמי באינטרנט</a> <a "
+"href=\"https://xubuntu.org/help/\">כל הדרכים לקבלת תמיכה</a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
@@ -83,21 +86,25 @@ msgstr "תמיכה בזמן אמת"
 #: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"https://kiwiirc.com/nextclient/irc.libera."
-"chat?nick=xubuntu?i#xubuntu\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu\">clicking"
+" here</a>."
 msgstr ""
-"לקבלת תמיכה אנושית באופן מקוון <em>באנגלית</em>, ניתן להצטרף לערוץ ה־IRC‏, "
-"<em>#‎xubuntu</em>, על ידי <a href=\"https://kiwiirc.com/nextclient/irc.libera."
-"chat?nick=xubuntu?i#xubuntu\">לחיצה כאן</a>."
+"לקבלת תמיכה ישירה ברשת <em>בשפה האנגלית</em>, אפשר להצטרף לערוץ ה־IRC שלנו, "
+"<em>#xubuntu</em>, בעזרת <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu\">לחיצה"
+" כאן</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
-"לתמיכה ב<em>שפות נוספות</em>, ניתן לצפות ברשימה המלאה של <a href=\"https://"
-"wiki.ubuntu.com/IRC/ChannelList/Local\">ערוצי התמיכה המקומיים</a>."
+"לתמיכה ב<em>שפות נוספות</em>, ניתן לצפות ברשימה המלאה של <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">ערוצי התמיכה "
+"המקומיים</a>."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/03_support-live.html:16
@@ -112,11 +119,17 @@ msgstr "הצטרפות לקהילה"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
 msgid ""
-"We'd love to hear about your experiences with Xubuntu. Share them on the "
-"Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
+"We'd love to hear about your experiences with Xubuntu. Share them on the <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users\">Xubuntu "
+"users mailing list</a> or on the <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu-"
+"offtopic\">#xubuntu-offtopic IRC channel</a>."
 msgstr ""
-"נשמח לשמוע על החוויות שלך עם זובונטו. ניתן לשתף אותן ברשימת הדיוור של משתמשי "
-"זובונטו או בערוץ ה־IRC בשם ‎#xubuntu-offtopic"
+"נשמח לשמוע על החוויה שלך עם זובונטו. אפשר לשתף אותה ב<a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users\">רשימת "
+"הדיוור של משתמשי זובונטו</a> או ב<a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu-"
+"offtopic\">ערוץ ב־IRC ‏#xubuntu-offtopic</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -127,10 +140,10 @@ msgid ""
 "section of our website."
 msgstr ""
 "אנו תמיד שמחים לעזרה בשיפור זובונטו. לא נדרשת מיומנות מסוימת על מנת לתרום. "
-"כדי לקרוא עוד על ההזדמנויות האפשרויות, כדאי לפנות אל הסעיף <a href=\"https://"
-"xubuntu.org/contribute/\">לקחת חלק</a> באתר שלנו."
+"כדי לקרוא עוד על ההזדמנויות האפשרויות, כדאי לפנות אל הסעיף <a "
+"href=\"https://xubuntu.org/contribute/\">לקחת חלק</a> באתר שלנו."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
-msgstr "היי, אולי כדאי לך להעביר את אמצעי ההתקנה שלך לחבר!"
+msgstr "הֵי, אולי כדאי להשאיל את אמצעי ההתקנה שלך לחבר!"
