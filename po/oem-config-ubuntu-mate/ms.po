@@ -6,25 +6,24 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:38+0000\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2022-03-28 22:49+0200\n"
 "PO-Revision-Date: 2020-04-17 15:11+0000\n"
 "Last-Translator: abuyop <Unknown>\n"
 "Language-Team: Malay <ms@li.org>\n"
-"Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2022-04-10 14:52+0000\n"
+"X-Generator: Launchpad (build 4c58cf79c82ce3fbd42288b21369cc838fb5b9e0)\n"
 
-#. type: Content of: <div><h1>
-#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:2
+#. type: Content of: <div><div><h1>
+#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:3
 msgid "Welcome to Ubuntu MATE"
 msgstr "Selamat Datang ke Ubuntu MATE"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:7
+#. type: Content of: <div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:4
 msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
@@ -42,19 +41,18 @@ msgstr "Perihal"
 msgid ""
 "Ubuntu MATE is a stable, easy-to-use operating system with a configurable "
 "desktop environment. Ideal for those who want the most out of their "
-"computers and prefer a traditional desktop metaphor. With modest hardware "
-"requirements it is suitable for modern workstations, single board computers "
-"and older hardware alike."
+"computers and prefer a traditional desktop metaphor."
 msgstr ""
-"Ubuntu MATE merupakan sistem pengoperasian yang stabil dan mudah digunakan "
-"dengan persekitaran atas meja yang boleh dikonfigurkan. Ia sesuai untuk "
-"sesiapa sahaja yang mahukan yang terbaik untuk komputer mereka dengan "
-"metafora atas meja ala tradisional. Dengan keperluan perkakasan yang "
-"sederhana ia sesuai untuk stesen kerja modern, komputer lama dengan "
-"perkakasan yang berusia."
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:14
+#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:11
+msgid ""
+"With modest hardware requirements it is suitable for modern workstations, "
+"single board computers and older hardware alike."
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu-mate/slides/02_about.html:17
 msgid ""
 "For users coming from other operating systems, Ubuntu MATE can adapt the "
 "user interface with one-click to something more modern or something that you "
@@ -74,29 +72,20 @@ msgstr "Bersedia dan beroperasi lebih pantas"
 msgid ""
 "Ubuntu MATE Welcome greets and assists new and returning users. The "
 "<strong>Getting Started</strong> wizard will guide you through the first "
-"boot post-installation setup and configuration of additional peripherals and "
-"devices and the documentation will help orientate new users. The "
+"boot post-installation setup and the configuration of additional peripherals "
+"and devices, while the documentation will help orientate new users. The "
 "<strong>Systems Specifications</strong> section will help you explore your "
-"hardware and offers one-click install and launch of many useful system "
-"monitoring tools. When you need support Ubuntu MATE Welcome is the jumping "
-"off point to the community."
+"hardware and offers one-click installation for many useful system monitoring "
+"tools. When you need help Ubuntu MATE Welcome is the jumping off point to "
+"the community."
 msgstr ""
-"Aluan Ubuntu MATE dapat membantu para pengguna baharu mahupun yang sedia "
-"ada.  Bestari <strong>Membiasakan Diri</strong> dapat memimpin anda lalui "
-"persediaan pasca-pemasangan but pertama kali dan seterusnya mengkonfigur "
-"persisian-persisian dan peranti-peranti tambahan. Dokumentasi yang "
-"disediakan dapat memudahkan para pengguna baharu. Seksyen "
-"<strong>Spesifikasi Sistem</strong> akan membantu anda jelajahi perkakasan "
-"anda dan menawarkan pemasangan sekali-klik serta melancarkan banyak alatan "
-"pemantauan sistem. Sekiranya anda memerlukan sokongan Alaun Ubuntu MATE "
-"dapat membuka pautan terus ke komuniti."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:18
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:16
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:19
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:16
-#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:16
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:15
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:16
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:16
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:13
@@ -156,26 +145,15 @@ msgstr "Pengkomputeran diperibadikan"
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:7
 msgid ""
 "The default Ubuntu MATE user interface is intuitive and easy to use. But we "
-"understand people have different tastes and preferences which is why we "
-"created <strong>MATE Tweak</strong>, a tool to change the user interface to "
-"mimic other operating systems. Coming from Windows? Try <strong>Redmond</"
-"strong>.  Prefer the way macOS is layed out? Try <strong>Cupertino</"
-"strong>.  For Ubuntu Unity fans take a look at <strong>Mutiny</strong>.  Or "
-"for a hybrid user interface, try <strong>Pantheon</strong> or "
-"<strong>Comptemporary</strong>. Experienced users can customise the user "
-"interface and save their creations."
+"understand people have different tastes and preferences, which is why we "
+"created <strong>MATE Tweak</strong>; a tool to change the user interface to "
+"mimic other operating systems. Coming from Windows? Try "
+"<strong>Redmond</strong>.  Prefer the way macOS is layed out? Try "
+"<strong>Cupertino</strong>.  For Ubuntu Unity fans take a look at "
+"<strong>Mutiny</strong>.  Or for a hybrid user interface, try "
+"<strong>Pantheon</strong> or <strong>Comptemporary</strong>. Experienced "
+"users can customise the user interface and save their creations."
 msgstr ""
-"Antara muka pengguna Ubuntu MATE lalai bersifat intuitif dan mudah "
-"digunakan. Walaubagaimanapun kami memahami setiap orang mempunyai citarasa "
-"dan keutamaan berbeza. Maka kami telah mencipta <strong>Tweak MATE</strong>, "
-"iaitu sebuah alat yang dapat mengubah antara muka pengguna dengan menyerupai "
-"lain-lain sistem pengoperasian. Baru beralih dari Windows? Cubalah "
-"<strong>Redmond</strong>. Menyukai bentangan ala macOS? Cubalah "
-"<strong>Cupertino</strong>. Untuk peminat Unity Ubuntu Unity boleh mencuba "
-"<strong>Mutiny</strong>. Atau mahukan antara muka pengguna kacukan, cubalah "
-"<strong>Pantheon</strong> atau <strong>Comptemporary</strong>. Para pengguna "
-"mahir boleh terus menyuai antara muka pengguna sendiri dan seterusnya simpan "
-"hasil ciptaan mereka."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:23
@@ -194,17 +172,17 @@ msgid ""
 "used by millions of people around the world.  Designed with privacy in mind "
 "it includes enhanced security features to protect you from online threats. "
 "You'll also find <strong>Brave</strong>, <strong>Chromium</strong>, "
-"<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
-"strong> in the Software Boutique."
+"<strong>Google Chrome</strong>, <strong>Opera</strong> and "
+"<strong>Vivaldi</strong> in the Software Boutique."
 msgstr ""
 "Ubuntu MATE menyertakan <strong>Firefox</strong>, iaitu sebuah pelayar "
 "sesawang ringkas dan selamat yang telah digunakan oleh berjuta-juta individu "
 "di serata dunia.  Direka dengan kebersendirian atau privasi diutamakan yang "
 "dilengkapi dengan fitur-fitur keselamatan dipertingkatkan untuk melindungi "
 "diri anda daripada ancaman-ancaman dalam talian. Pelayar sesawang "
-"<strong>Brave</strong>, <strong>Chromium</strong>, <strong>Google Chrome</"
-"strong>, <strong>Opera</strong> dan <strong>Vivaldi</strong> juga disediakan "
-"dalam Butik Perisian."
+"<strong>Brave</strong>, <strong>Chromium</strong>, <strong>Google "
+"Chrome</strong>, <strong>Opera</strong> dan <strong>Vivaldi</strong> juga "
+"disediakan dalam Butik Perisian."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:20
@@ -213,8 +191,8 @@ msgstr "Firefox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:24
-msgid "Thunderbird Mail"
-msgstr "Mel Thunderbird"
+msgid "Evolution"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:31
@@ -233,16 +211,9 @@ msgid ""
 "<strong>Steam</strong> and <strong>Minecraft</strong> in the "
 "<strong>Software Boutique</strong>. We've also selected the very best open "
 "source games and stocked the Software Boutique with platformers, shoot 'em "
-"ups, racers, flight simulators, puzzlers, turn based stratgegy and first "
+"ups, racers, flight simulators, puzzlers, turn based strategy and first "
 "person shooters."
 msgstr ""
-"Ubuntu MATE bukan semata-mata untuk kerja, ia juga sesuai dijadikan sebagai "
-"platform permainan! <strong>Steam</strong> dan <strong>Minecraft</strong> "
-"juga tersedia di dalam <strong>Butik Perisian</strong>. Kami juga telah "
-"memilih beberapa permainan sumber-terbuka yang terbaik dan tersenarai di "
-"dalam Butik Perisian sama ada berbentuk platform, tembak-menembak, "
-"perlumbaan, simulasi penerbangan, teka-teki, strategi mengikut giliran dan "
-"akhir sekali penembak pihak-pertama."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:19
@@ -266,28 +237,19 @@ msgid ""
 "playback options, it's simple to queue up the perfect songs. And it works "
 "great with CDs and portable music players, so you can enjoy all your music "
 "wherever you go. If you prefer streaming services you'll find "
-"<strong>Spotify</strong> and <strong>Nuvola Player</strong>, which supports "
-"many popular streaming services, in the <strong>Software Boutique</strong>"
+"<strong>Spotify</strong> in the <strong>Software Boutique</strong>."
 msgstr ""
-"Ubuntu MATE disertakan dengan pemain muzik Rhythmbox yang hebat.  Dengan "
-"pilihan main balik lanjutan, ia dapat memudahkan baris-gilir lagu yang "
-"dikehendaki. Dan juga berfungsi baik dengan CD dan pemain muzik mudah alih, "
-"jadi anda boleh menikmati semua muzik anda di mana sahaja anda pergi. Jika "
-"anda menyukai perkhidmatan penstriman, <strong>Spotify</strong> dan "
-"<strong>Pemain Nuvola</strong> ada, kedua-duanya dapat menyokongan banyak "
-"perkhidmatan penstriman terkenal, tersedia di dalam <strong>Butik Perisian</"
-"strong>"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:20
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:19
 msgid "Rhythmbox Music Player"
 msgstr "Pemain Muzik Rhythmbox"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:24
+#: slideshows/oem-config-ubuntu-mate/slides/08_music.html:23
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:20
-msgid "VLC"
-msgstr "VLC"
+msgid "Celluloid"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:2
@@ -332,8 +294,8 @@ msgstr "Jom kita tonton!"
 msgid ""
 "Ubuntu MATE comes with <strong>Firefox</strong> pre-installed and "
 "<strong>Google Chrome</strong> is in the Software Boutique so you can watch "
-"content from your favourite streaming services such as <strong>Netflix</"
-"strong> and <strong>YouTube</strong>."
+"content from your favourite streaming services such as "
+"<strong>Netflix</strong> and <strong>YouTube</strong>."
 msgstr ""
 "Ubuntu MATE disertakan dengan <strong>Firefox</strong> dipra-pasang dan juga "
 "<strong>Google Chrome</strong> tersedia di dalam Butik Perisian untuk "
@@ -343,11 +305,9 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:12
 msgid ""
-"With <strong>VLC</strong> installed by default you can watch all you local "
-"video with ease."
+"With <strong>Celluloid</strong> installed by default you can watch all your "
+"local video with ease."
 msgstr ""
-"Dengan <strong>VLC</strong> terpasang secara lalai, anda boleh menonton "
-"video sedia ada dengan mudah."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:2
@@ -441,58 +401,48 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:15
 msgid ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+</a>"
+"<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">Live "
+"Chat</a>"
 msgstr ""
-"<a href=\"https://plus.google.com/communities/108331279007926658904\" class="
-"\"caption\">Google+</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:19
-msgid ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Live Chat</a>"
-msgstr ""
-"<a href=\"https://ubuntu-mate.org/irc/\" class=\"caption\">Sembang Langsung</"
-"a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:22
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:18
 msgid "Announcements"
 msgstr "Pengumuman"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:26
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:22
 msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:30
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:26
 msgid ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
-"\">Facebook</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 msgstr ""
-"<a href=\"https://www.facebook.com/UbuntuMATEedition\" class=\"caption"
-"\">Facebook</a>"
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:33
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:29
 msgid "Development"
 msgstr "Pembangunan"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:37
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:33
 msgid ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Kod</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:41
+#: slideshows/oem-config-ubuntu-mate/slides/13_community.html:37
 msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
 msgstr ""
-"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption"
-"\">Penjejak Pepijat</a>"
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" "
+"class=\"caption\">Penjejak Pepijat</a>"

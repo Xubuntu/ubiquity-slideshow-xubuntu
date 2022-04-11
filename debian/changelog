@@ -1,8 +1,80 @@
-ubiquity-slideshow-ubuntu (170) UNRELEASED; urgency=medium
+ubiquity-slideshow-ubuntu (180) jammy; urgency=medium
 
+  * Updated music.png and photos.png in the slideshow for jammy (LP: #1968481)
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Mon, 11 Apr 2022 09:24:55 -0400
+
+ubiquity-slideshow-ubuntu (179) jammy; urgency=medium
+
+  [ Jianfeng Li ]
+  * Updated Ubuntu Kylin slideshow
+
+  [ Sean Davis ]
+  * Update xubuntu translations from
+    https://github.com/Xubuntu/ubiquity-slideshow-xubuntu
+
+  [ Gunnar Hjalmarsson ]
+  * Update slideshow-ubuntukylin.pot
+  * Update translations from Launchpad
+    - Xubuntu LP translations excluded
+
+ -- Gunnar Hjalmarsson <gunnarhj@ubuntu.com>  Sun, 10 Apr 2022 17:48:39 +0200
+
+ubiquity-slideshow-ubuntu (178) jammy; urgency=medium
+
+  * Update translation templates (po/*/slideshow-*.pot files)
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Mon, 28 Mar 2022 22:51:32 +0200
+
+ubiquity-slideshow-ubuntu (177) jammy; urgency=medium
+
+  * Updated the default artwork for Ubuntu
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 17 Mar 2022 16:47:25 +0100
+
+ubiquity-slideshow-ubuntu (176) jammy; urgency=medium
+
+  [ Martin Wimpress ]
+  * Update and optimise artwork for Ubuntu MATE Jammy Jellyfish.
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Fri, 11 Mar 2022 20:58:05 +0100
+
+ubiquity-slideshow-ubuntu (175) jammy; urgency=medium
+
+  * Updated kubuntu slideshow
+
+ -- Aaron Honeycutt <aaronhoneycutt@ubuntu.com >  Fri, 25 Feb 2022 22:39:26 +0100
+
+ubiquity-slideshow-ubuntu (173) impish; urgency=medium
+
+  * Updated customize.png, music.png, and photos.png in the slideshow
+    for impish (LP: #1945977)
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Wed, 06 Oct 2021 21:47:58 -0400
+
+ubiquity-slideshow-ubuntu (172) impish; urgency=medium
+
+  [ Martin Wimpress ]
+  * Update images for Ubuntu MATE Impish release
+
+ -- Gunnar Hjalmarsson <gunnarhj@ubuntu.com>  Wed, 06 Oct 2021 15:47:00 +0200
+
+ubiquity-slideshow-ubuntu (171) impish; urgency=medium
+
+  * Updated translations from Launchpad
+    - Xubuntu LP translations excluded
+  * Dropped PO files for Lubuntu
+
+ -- Gunnar Hjalmarsson <gunnarhj@ubuntu.com>  Sun, 03 Oct 2021 16:39:17 +0200
+
+ubiquity-slideshow-ubuntu (170) impish; urgency=medium
+
+  * Updated the default artwork for Ubuntu
+
+  [ Sean Davis ]
   * Update Xubuntu slideshow and translations
 
- -- Sean Davis <sean@bluesabre.org>  Sat, 21 Aug 2021 08:48:41 -0400
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 23 Sep 2021 15:27:32 +0200
 
 ubiquity-slideshow-ubuntu (169) impish; urgency=medium
 

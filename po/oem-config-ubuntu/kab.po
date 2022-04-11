@@ -6,17 +6,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:38+0000\n"
-"PO-Revision-Date: 2020-02-09 19:53+0000\n"
-"Last-Translator: Belkacem Mohammed <belkacem77@gmail.com>\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2022-03-28 22:49+0200\n"
+"PO-Revision-Date: 2021-07-17 19:57+0000\n"
+"Last-Translator: tasutlelli17 <Unknown>\n"
 "Language-Team: Kabyle <kab@li.org>\n"
-"Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2022-04-10 14:52+0000\n"
+"X-Generator: Launchpad (build 4c58cf79c82ce3fbd42288b21369cc838fb5b9e0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -87,14 +86,19 @@ msgstr "Iddad-d aseɣzan"
 msgid "Firefox web browser"
 msgstr "Iminig web Firefox"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/browse.html:20
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
 #. type: Content of: <div><div><div><h2>
-#: slideshows/oem-config-ubuntu/slides/browse.html:19
+#: slideshows/oem-config-ubuntu/slides/browse.html:23
 #: slideshows/oem-config-ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "Iseɣzanen yettusefraken"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/oem-config-ubuntu/slides/browse.html:23
+#: slideshows/oem-config-ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Kṛum"
 
@@ -112,32 +116,34 @@ msgid ""
 "Dock."
 msgstr ""
 "<span class=\"app\" data-app=\"docs\">Tasemlit tuṣibt</span> tegber ddeqs n "
-"yeḥricen imugan ɣef Ubuntu. Yella deg <a href=\"https://help.ubuntu.com"
-"\">srid</a> neɣ s tignit n tallelt deg  Dock."
+"yeḥricen imugan ɣef Ubuntu. Yella deg <a "
+"href=\"https://help.ubuntu.com\">srid</a> neɣ s tignit n tallelt deg  Dock."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
-"teams/\">Local Community Team</a>."
+"your own language may be provided by your <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
 msgstr ""
 "Deg <a href=\"http://askubuntu.com\">Suter Ubuntu</a> tzemreḍad testeqsid "
 "daɣen ad tnadiḍ ddeqs n tegrummiwin n yisteqsiyen i yesɛan yakan tiririyin. "
-"Tallelt s tutlayt-ik izmer ad tettunefk deg <a href=\"http://loco.ubuntu.com/"
-"teams/\">Tarbaɛt-ik Tadigant</a>."
+"Tallelt s tutlayt-ik izmer ad tettunefk deg <a "
+"href=\"http://loco.ubuntu.com/teams/\">Tarbaɛt-ik Tadigant</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"https://www."
-"ubuntu.com/support/community-support\">Community support</a> or <a href="
-"\"http://www.ubuntu.com/support\">Commercial support</a>."
+"For pointers to other useful resources, please visit <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Community "
+"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
+"support</a>."
 msgstr ""
-"I tansiwin ɣer tiɣbula iwulmen, rzu maulacaɣilif ɣer <a href=\"https://www."
-"ubuntu.com/support/community-support\">Tarbaɛt n tallelt</a> neɣ <a href="
-"\"http://www.ubuntu.com/support\">Tallelt s tedrimt</a>."
+"I tansiwin ɣer tiɣbula iwulmen, rzu maulacaɣilif ɣer <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Tarbaɛt n "
+"tallelt</a> neɣ <a href=\"http://www.ubuntu.com/support\">Tallelt s "
+"tedrimt</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/music.html:2
@@ -219,13 +225,13 @@ msgstr "Zhu s tewlafin-ik"
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"keep them safe. And if you’re feeling creative, you can find many other "
+"photo apps in Ubuntu Software."
 msgstr ""
-"Shotwell d amsefrak n tewlafin s ufus, i iheggan i yilellucen-ik. Qqen "
-"takamiṛat neɣ tiliɣri akken ad tessiwḍeḍ tiwlafin-ik, sakin d ayen fessusen "
-"meṛṛaakken ad tent-tebḍuḍ daɣen ad tent-tḥerzeḍ. Ma tḥulfaḍd amesnulfuy, "
-"tzemreḍ ad tɛerḍeḍddeqs n yisnasen n tewlafin seg Wammas n Yiseɣẓanen n "
+"Shotwell d amsefrak n tewlafin anesbaɣur, iwejden i tɣawsiwin-ik·im. Qqen "
+"takamiṛat neɣ tilifun i tuzna n tewlafin-ik·im, syen yeshel ad tent-tebḍuḍ "
+"neɣ ad tent-tḥerzeḍ s wudem aɣellsan. Ma yella twalaḍ iman-ik·im tzemreḍ ad "
+"d-tesnulfuḍ, tzemreḍ ad tafeḍ aṭas n yisnasen-nniḍen n tewlafin deg useɣẓan "
 "Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -240,8 +246,8 @@ msgstr "Amaẓrag n tugniwin GIMP"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "Amaẓrag n tvidut Pitivi"
+msgid "Shotcut Video Editor"
+msgstr "Amaẓrag n tvidyut Shotcut"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1

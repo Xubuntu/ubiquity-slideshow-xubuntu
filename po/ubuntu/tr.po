@@ -6,17 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2018-08-24 21:10+0000\n"
-"Last-Translator: E Karaca <Unknown>\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2022-03-28 22:49+0200\n"
+"PO-Revision-Date: 2022-03-03 09:07+0000\n"
+"Last-Translator: Volkan Gezer <Unknown>\n"
 "Language-Team: Turkish <tr@li.org>\n"
-"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:25+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2022-04-10 14:52+0000\n"
+"X-Generator: Launchpad (build 4c58cf79c82ce3fbd42288b21369cc838fb5b9e0)\n"
+"Language: tr\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -87,14 +87,19 @@ msgstr "Dahil Olan Yazılım"
 msgid "Firefox web browser"
 msgstr "Firefox web tarayıcısı"
 
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/browse.html:20
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:19
+#: slideshows/ubuntu/slides/browse.html:23
 #: slideshows/ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "Desteklenen yazılım"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:23
+#: slideshows/ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -112,17 +117,17 @@ msgid ""
 "Dock."
 msgstr ""
 "<span class=\"app\" data-app=\"docs\">Resmi dökümantasyon</span> Ubuntu "
-"hakkındaki en yaygın alanların birçoğunu kapsamaktadır.  Ona hem <a href="
-"\"https://help.ubuntu.com\">çevrimiçi</a> olarak, hem de rıhtımdaki Yardım "
-"simgesi ile ulaşılabilir."
+"hakkındaki en yaygın alanların birçoğunu kapsamaktadır.  Ona hem <a "
+"href=\"https://help.ubuntu.com\">çevrimiçi</a> olarak, hem de rıhtımdaki "
+"Yardım simgesi ile ulaşılabilir."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
-"teams/\">Local Community Team</a>."
+"your own language may be provided by your <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
 msgstr ""
 "<a href=\"http://askubuntu.com\">Ask Ubuntu</a>'da soru sorabilir ve "
 "yanıtlanmış etkileyici sorularda araştırma yapabilirsiniz. Kendi dilinizdeki "
@@ -132,13 +137,15 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"https://www."
-"ubuntu.com/support/community-support\">Community support</a> or <a href="
-"\"http://www.ubuntu.com/support\">Commercial support</a>."
+"For pointers to other useful resources, please visit <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Community "
+"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
+"support</a>."
 msgstr ""
-"Diğer yararlı kaynaklar için <a href=\"https://www.ubuntu.com/support/"
-"community-support\">Topluluk desteğini </a> veya <a href=\"http://www.ubuntu."
-"com/support\">Şirket desteğini</a> ziyaret edebilirsiniz."
+"Diğer yararlı kaynaklar için <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Topluluk desteğini "
+"</a> veya <a href=\"http://www.ubuntu.com/support\">Şirket desteğini</a> "
+"ziyaret edebilirsiniz."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -191,10 +198,10 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
-"LibreOffice; belge, elektronik tablo ve sunum oluşturabilmeniz  için "
-"gerekli  her şeyi sunan ücretsiz bir ofis yazılımıdır. Microsoft Office "
-"dosya biçimleriyle de uyumlu olan LibreOffice, ihtiyacınız olan her şeyi "
-"ücret talep etmeden size sunar."
+"LibreOffice; belge, elektronik tablo ve sunum oluşturabilmeniz  için gerekli "
+" her şeyi sunan ücretsiz bir ofis yazılımıdır. Microsoft Office dosya "
+"biçimleriyle de uyumlu olan LibreOffice, ihtiyacınız olan her şeyi ücret "
+"talep etmeden size sunar."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
@@ -221,14 +228,14 @@ msgstr "Fotoğraflarınızla eğlenceli anlar yaşayın"
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"keep them safe. And if you’re feeling creative, you can find many other "
+"photo apps in Ubuntu Software."
 msgstr ""
-"Shotwell, elektronik aygıtlarınıza yönelik kullanışlı bir fotoğraf "
-"yöneticisidir. Fotoğraflarınızı aktarmak için bir fotoğraf makinesini veya "
-"telefonu bilgisayarınıza bağlayın. Artık fotoğraflarınızı paylaşmak ve "
-"güvende tutmak çok kolay olacak. Kendinizi yaratıcı buluyorsanız, Ubuntu "
-"Yazılım Merkezi'nde bolca bulunan fotoğraf uygulamalarını deneyebilirsiniz."
+"Shotwell, araçlarınız için kullanışlı bir fotoğraf yöneticisidir. "
+"Fotoğraflarınızı aktarmak için bir kamera veya telefon bağlayın, ardından "
+"bunları paylaşmak ve güvende tutmak çok kolay. Kendinizi yaratıcı "
+"hissediyorsanız, Ubuntu Yazılımları'nda başka birçok fotoğraf uygulaması "
+"bulabilirsiniz."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -242,8 +249,8 @@ msgstr "GIMP Görüntü Düzenleyicisi"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "Pitivi Video Düzenleyicisi"
+msgid "Shotcut Video Editor"
+msgstr "Shotcut Video Düzenleyici"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
@@ -259,12 +266,11 @@ msgid ""
 "as Graphics & Photography, Games and Productivity, alongside helpful reviews "
 "from other users."
 msgstr ""
-"Yeni yazılım için genel ağda araştırma yapmaya hoşçakal diyebilirsiniz. Snap "
-"mağazası ve Ubuntu yazılım arşivine ulaşımınız sayesinde yeni yazılımları "
-"kolaylıkla bulup kurabilirsiniz. Neyi arıyorsanız onu yazmanız yeterlidir. "
-"Ayrıca Grafikler & Fotoğrafçılık, Oyunlar ve Üretkenlik gibi kategorilerden "
-"istediğiniz yazılımları sıralayabilirsiniz. İsterseniz diğer kullanıcıların "
-"yazılımlar hakkındaki görüş ve yardımsever önerilerini de okuyabilirsiniz."
+"Artık web'de uygulama aramaya son. Snap Mağazası ve Ubuntu yazılım arşivi "
+"sayesinde kolaylıkla yeni uygulamalar bulabilir ve kurabilirsiniz. Sadece ne "
+"aramak istediğinizi yazın veya Oyunlar, Grafik ve Fotoğrafçılık, ve "
+"Verimlilik gibi pek çok kategoriyi diğer kullanıcıların faydalı "
+"incelemeleriyle beraber keşfedin."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1

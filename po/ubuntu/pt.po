@@ -6,17 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2020-04-23 21:37+0000\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2022-03-28 22:49+0200\n"
+"PO-Revision-Date: 2022-03-07 17:45+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
-"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-04-15 14:24+0000\n"
-"X-Generator: Launchpad (build 929bdb49da44562d032228b8f93c5c598dae8678)\n"
+"X-Launchpad-Export-Date: 2022-04-10 14:52+0000\n"
+"X-Generator: Launchpad (build 4c58cf79c82ce3fbd42288b21369cc838fb5b9e0)\n"
+"Language: pt\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -31,10 +31,10 @@ msgid ""
 "colour scheme and text size, Ubuntu makes computing easy – whoever and "
 "wherever you are."
 msgstr ""
-"No coração da filosofia Ubuntu está a aposta de que a informática é para "
-"todos. Com ferramentas avançadas de acessibilidade e opções tal como o "
-"esquema de cores personalizado, tamanho de texto e idioma, o Ubuntu facilita "
-"a computação - quem quer que você seja e onde estiver."
+"No centro da filosofia do Ubuntu está a convicção de que a informática é "
+"para todos. Com ferramentas de acessibilidade avançadas e opções para "
+"alterar o idioma, esquema de cores e tamanho do texto, o Ubuntu torna a "
+"informática fácil a quem quer que seja e onde quer que esteja."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
@@ -59,7 +59,7 @@ msgstr "Suporte de idioma"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr "Aproveite ao máximo a web"
+msgstr "Aproveite a Internet ao máximo"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
@@ -71,7 +71,7 @@ msgid ""
 msgstr ""
 "O Ubuntu inclui o Firefox, o navegador de internet utilizado por milhões de "
 "pessoas em todo o mundo. As aplicações de internet que usa frequentemente "
-"(como o Facebook ou Gmail, por exemplo) podem ser afixadas ao seu ambiente "
+"(como o Facebook ou Gmail, por exemplo)  podem ser fixadas ao seu ambiente "
 "de trabalho para um acesso mais rápido, tal como as aplicações do seu "
 "computador."
 
@@ -86,16 +86,21 @@ msgstr "Software incluído"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:16
 msgid "Firefox web browser"
-msgstr "Navegador de internet Firefox"
+msgstr "Navegador de Internet Firefox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/browse.html:20
+msgid "Thunderbird"
+msgstr "Thunderbird"
 
 #. type: Content of: <div><div><div><h2>
-#: slideshows/ubuntu/slides/browse.html:19
+#: slideshows/ubuntu/slides/browse.html:23
 #: slideshows/ubuntu/slides/photos.html:19
 msgid "Supported software"
 msgstr "Software suportado"
 
 #. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:23
+#: slideshows/ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -113,32 +118,35 @@ msgid ""
 "Dock."
 msgstr ""
 "A <span class=\"app\" data-app=\"docs\">documentação oficial</span> cobre "
-"muitas da maioria das áreas comuns sobre o Ubuntu. Encontra-se disponivel <a "
-"href=\"https://help.ubuntu.com\">online</a> e o icone de ajuda na doca."
+"muitas das áreas mais comuns sobre o Ubuntu. Ambas encontram-se disponíveis "
+"<a href=\"https://help.ubuntu.com\">online</a> e através do ícone de Ajuda "
+"na Doca."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
-"teams/\">Local Community Team</a>."
+"your own language may be provided by your <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
 msgstr ""
 "No <a href=\"http://askubuntu.com\">Ask Ubuntu</a> pode colocar questões e "
-"pesquisar uma colecção impressionante de questões já respondidas. Suporte na "
-"sua própria língua pode ser fornecido pela sua <a href=\"http://loco.ubuntu."
-"com/teams/\">Equipa Comunitária Local</a>."
+"pesquisar uma coleção impressionante de questões já respondidas. O suporte "
+"no seu próprio idioma pode ser fornecido pela sua <a "
+"href=\"http://loco.ubuntu.com/teams/\">Equipa Comunitária Local</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a href=\"https://www."
-"ubuntu.com/support/community-support\">Community support</a> or <a href="
-"\"http://www.ubuntu.com/support\">Commercial support</a>."
+"For pointers to other useful resources, please visit <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Community "
+"support</a> or <a href=\"http://www.ubuntu.com/support\">Commercial "
+"support</a>."
 msgstr ""
-"Para indicadores de recursos uteis, por favor visite <a href=\"https://www."
-"ubuntu.com/support/community-support\">Suporte comunidade</a> or <a href="
-"\"http://www.ubuntu.com/support\">Suporte comercial</a>."
+"Para indicadores de recursos uteis, por favor visite <a "
+"href=\"https://www.ubuntu.com/support/community-support\">Suporte "
+"comunidade</a> or <a href=\"http://www.ubuntu.com/support\">Suporte "
+"comercial</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -190,10 +198,10 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
-"O LibreOffice é uma suite de produtividade gratuita com tudo o que precisa "
-"para criar documentos, folhas de cálculo e apresentações. Compatível com os "
-"formatos do Microsoft Office, dá-lhe todas as funcionalidades que precisa, "
-"mas sem um custo associado."
+"LibreOffice é uma suite de produtividade gratuita com tudo o que precisa "
+"para criar documentos, folhas de cálculo e apresentações. Totalmente "
+"compatível com os formatos do Microsoft Office, dá-lhe todas as "
+"funcionalidades que precisa, mas sem um custo associado."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
@@ -220,19 +228,19 @@ msgstr "Divirta-se com as suas fotos"
 msgid ""
 "Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
 "camera or a phone to transfer your photos, then it’s easy to share them and "
-"keep them safe. If you’re feeling creative, you can try lots of photo apps "
-"from the Ubuntu Software Center."
+"keep them safe. And if you’re feeling creative, you can find many other "
+"photo apps in Ubuntu Software."
 msgstr ""
-"O Shotwell é um conveniente gestor de fotos que está preparado para todos os "
-"seus aparelhos. Ligue uma câmara ou um telemóvel para transferir as suas "
-"fotos, torna-se então fácil partilhá-las e mantê-las em segurança. Se sentir-"
-"se criativo, poderá experimentar várias aplicações de fotografia existentes "
-"no Centro de Software Ubuntu."
+"O Shotwell é um prático gestor de fotos que está pronto para os seus "
+"equipamentos. Ligue uma câmara ou um telefone para transferir as suas fotos, "
+"depois será fácil partilhá-las e mantê-las seguras. E se está a sentir-se "
+"criativo, pode encontrar muitos outras aplicações de fotos no software "
+"Ubuntu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
 msgid "Shotwell Photo Manager"
-msgstr "Gestor de fotos Shotwell"
+msgstr "Organizador de fotos Shotwell"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:23
@@ -241,13 +249,13 @@ msgstr "Editor de Imagens GIMP"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
-msgid "Pitivi Video Editor"
-msgstr "Editor de Vídeo Pitivi"
+msgid "Shotcut Video Editor"
+msgstr "Editor de Vídeo Shotcut"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
 msgid "Find even more software"
-msgstr "Procurar ainda mais software"
+msgstr "Encontre ainda mais software"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
@@ -258,11 +266,11 @@ msgid ""
 "as Graphics & Photography, Games and Productivity, alongside helpful reviews "
 "from other users."
 msgstr ""
-"Diga adeus à procura na web por novo software. Com o acesso à Snap Store e "
-"ao arquivo Ubuntu software, pode encontrar novas aplicações facilmente. "
-"Apenas escreva o que deseja encontrar, ou explore as categorias como "
-"gráficos e fotografia, jogos e produtividade juntamente com revisões de "
-"outros utilizadores."
+"Diga adeus à procura por novo software na Internet. Com o acesso à Snap "
+"Store e ao arquivo de software do Ubuntu, pode encontrar novas aplicações "
+"facilmente. Escreva apenas o que deseja encontrar, ou explore as categorias "
+"como gráficos e fotografia, jogos e produtividade juntamente com comentários "
+"úteis de outros utilizadores."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1
@@ -277,4 +285,4 @@ msgid ""
 msgstr ""
 "Rápido e cheio de novas funcionalidades, a nova versão do Ubuntu faz com que "
 "a utilização do computador seja mais simples do que nunca. Eis algumas "
-"coisas interessantes para descobrir..."
+"coisas interessantes a descobrir..."
