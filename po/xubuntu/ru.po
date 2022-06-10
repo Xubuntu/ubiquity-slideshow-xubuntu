@@ -1,22 +1,25 @@
-# Russian translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
-#
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Sean Davis <bluesabre@ubuntu.com>, 2020
+# Dmitry Unruh <dmitryunruh@googlemail.com>, 2022
+# 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:37+0000\n"
-"PO-Revision-Date: 2018-07-20 06:54+0000\n"
-"Last-Translator: Aleksey Kabanov <Unknown>\n"
-"Language-Team: Russian <ru@li.org>\n"
-"Language: ru\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-08-20 05:12-0400\n"
+"PO-Revision-Date: 2020-05-23 17:48+0000\n"
+"Last-Translator: Dmitry Unruh <dmitryunruh@googlemail.com>, 2022\n"
+"Language-Team: Russian (https://www.transifex.com/xubuntu/teams/110148/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
-"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
@@ -37,6 +40,8 @@ msgid ""
 "Use the Software application to install more applications and the Settings "
 "Manager to customize the look and feel of your desktop."
 msgstr ""
+"Используйте Центр приложений для установки дополнительных программ и "
+"Диспетчер настроек для настройки внешнего вида вашего рабочего стола."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_support.html:2
@@ -66,12 +71,12 @@ msgstr ""
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/2004/\">Official Documentation online</a> "
-"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
+"<a href=\"https://docs.xubuntu.org/2004/\">Official Documentation online</a>"
+" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
-"<a href=\"https://docs.xubuntu.org/2004/\">Официальная документация в "
-"Интернете</a> <a href=\"https://xubuntu.org/help/\">Все варианты поддержки</"
-"a>"
+"<a href=\"https://docs.xubuntu.org/2004/\">Официальная онлайн "
+"документация</a> <a href=\"https://xubuntu.org/help/\">Все способы "
+"поддержки</a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
@@ -82,18 +87,21 @@ msgstr "Интерактивная поддержка"
 #: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a href=\"https://kiwiirc.com/nextclient/irc.libera."
-"chat?nick=xubuntu?i#xubuntu\">clicking here</a>."
+"<em>#xubuntu</em>, by <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu\">clicking"
+" here</a>."
 msgstr ""
-"Для живой интернет-поддержки <em>на английском</em> подключитесь к нашему "
-"каналу IRC <em>#xubuntu</em>, <a href=\"https://kiwiirc.com/nextclient/irc.libera."
-"chat?nick=xubuntu?i#xubuntu\">щёлкнув здесь</a>."
+"Для онлайн поддержки в режиме реального времени <em>на английском "
+"языке</em>, присоединяйтесь к нашему IRC-каналу, <em>#xubuntu</em>, <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu\">нажатием"
+" тут</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
 msgid ""
-"For support in <em>other languages</em>, view the full list of <a href="
-"\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support channels</a>."
+"For support in <em>other languages</em>, view the full list of <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
+"channels</a>."
 msgstr ""
 "Для поддержки на <em>других языках</em> ознакомьтесь с полным списком <a "
 "href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">локальных каналов "
@@ -112,11 +120,17 @@ msgstr "Присоединяйтесь к сообществу"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
 msgid ""
-"We'd love to hear about your experiences with Xubuntu. Share them on the "
-"Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
+"We'd love to hear about your experiences with Xubuntu. Share them on the <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users\">Xubuntu "
+"users mailing list</a> or on the <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu-"
+"offtopic\">#xubuntu-offtopic IRC channel</a>."
 msgstr ""
-"Мы будем рады узнать ваше мнение о Xubuntu. Поделитесь им в списке почтовой "
-"рассылки пользователей Xubuntu или на IRC-канале #xubuntu-offtopic."
+"Мы были бы рады услышать о вашем опыте работы с Xubuntu. Поделитесь своим "
+"опытом <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users\">в"
+" пользовательском списке почтовой рассылки Xubuntu</a> или <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu-"
+"offtopic\">на IRC-канале #xubuntu-offtopic</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -128,10 +142,11 @@ msgid ""
 msgstr ""
 "Нам всегда пригодится ваша помощь, чтобы сделать Xubuntu ещё лучше. Для "
 "участия не требуется никаких особых умений. Чтобы узнать о всех доступных "
-"возможностях участия, обратитесь к разделу нашего веб-сайта <a href="
-"\"https://xubuntu.org/contribute/\">Get Involved</a>."
+"возможностях участия, обратитесь к разделу нашего веб-сайта <a "
+"href=\"https://xubuntu.org/contribute/\">Get Involved</a>."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
 msgstr ""
+"Эй, а как насчёт того, чтобы передать свой установочный носитель другу?"
