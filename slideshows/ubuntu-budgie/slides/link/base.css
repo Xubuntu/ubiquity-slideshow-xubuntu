@@ -81,35 +81,37 @@ strong {
 	height:100%;
 }
 
+/* */
 .control-arrow {
-	display:block;
-	position:absolute;
+	z-index: 100;
+	position: absolute;
+	top: 290px;
 
-	z-index:100;
-	top:378px;
-	height:64px;
-	width:33px;
+	width: 55px;
+	height: 55px;
 
-	background-repeat:no-repeat;
-	cursor:pointer;
+	background: none;
+	background-position: 0 0;
 }
 .control-arrow.disabled {
 	cursor:default;
 }
-.control-arrow:hover {
-	background-position: 0px -65px;
+.control-arrow:hover, .control-arrow:focus {
+	background-position: 0 -55px;
 }
 .control-arrow:active {
-	background-position: 0px -130px;
+	/*background-position: 0 -110px;*/
 }
-.control-arrow#prev-slide {
-	background-image:url('arrow-back.png');
-	left:686px;
+#prev-slide {
+	left: 0;
+	background-image: url(arrow-prev.png);
 }
-.control-arrow#next-slide {
-	background-image:url('arrow-next.png');
-	left:719px; /* 752px - 33px */
+#next-slide {
+	left: 700px;
+	background-image: url(arrow-next.png);
 }
+
+/* */
 
 /* Fixed container for a slide's title */
 .header {
