@@ -2,24 +2,25 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020
 # Oukiki Saleh <salehoukiki@gmail.com>, 2021
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-22 01:42+0200\n"
+"POT-Creation-Date: 2021-08-20 05:12-0400\n"
 "PO-Revision-Date: 2020-05-23 17:48+0000\n"
 "Last-Translator: Oukiki Saleh <salehoukiki@gmail.com>, 2021\n"
 "Language-Team: Arabic (https://www.transifex.com/xubuntu/teams/110148/ar/)\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ar\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
@@ -71,11 +72,11 @@ msgstr ""
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
 msgid ""
-"<a href=\"https://docs.xubuntu.org/2004/\">Official Documentation online</a>"
-" <a href=\"https://xubuntu.org/help/\">All support methods</a>"
+"<a href=\"https://docs.xubuntu.org/2004/\">Official Documentation online</a> "
+"<a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
-"<a href=\"https://docs.xubuntu.org/2004/\">الوثائق الرسمية على "
-"الإنترنت</a><a href=\"https://xubuntu.org/help/\"> جميع طرق الدعم</a>"
+"<a href=\"https://docs.xubuntu.org/2004/\">الوثائق الرسمية على الإنترنت</"
+"a><a href=\"https://xubuntu.org/help/\"> جميع طرق الدعم</a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
@@ -86,14 +87,12 @@ msgstr "دعم في الوقت الحقيقي"
 #: slideshows/xubuntu/slides/03_support-live.html:6
 msgid ""
 "For live, online support <em>in English</em>, join our IRC channel, "
-"<em>#xubuntu</em>, by <a "
-"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu\">clicking"
-" here</a>."
+"<em>#xubuntu</em>, by <a href=\"https://kiwiirc.com/nextclient/irc.libera."
+"chat?nick=xubuntu?i#xubuntu\">clicking here</a>."
 msgstr ""
-"للحصول على الدعم المباشر عبر الإنترنت <em> باللغة الإنجليزية</em> ، انضم إلى"
-" قناة<em> IRC ،</em> #xubuntu ، <a "
-"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu\">بالنقر"
-" هنا</a>."
+"للحصول على الدعم المباشر عبر الإنترنت <em> باللغة الإنجليزية</em> ، انضم إلى "
+"قناة<em> IRC ،</em> #xubuntu ، <a href=\"https://kiwiirc.com/nextclient/irc."
+"libera.chat?nick=xubuntu?i#xubuntu\">بالنقر هنا</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
@@ -103,8 +102,8 @@ msgid ""
 "channels</a>."
 msgstr ""
 "للحصول على الدعم<em> بلغات أخرى</em> ، اعرض القائمة الكاملة <a "
-"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">لقنوات الدعم "
-"المحلية</a>."
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">لقنوات الدعم المحلية</"
+"a>."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/03_support-live.html:16
@@ -118,9 +117,13 @@ msgstr "الانضمام إلى المجتمع"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
+#, fuzzy
 msgid ""
-"We'd love to hear about your experiences with Xubuntu. Share them on the "
-"Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
+"We'd love to hear about your experiences with Xubuntu. Share them on the <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users\">Xubuntu "
+"users mailing list</a> or on the <a href=\"https://kiwiirc.com/nextclient/"
+"irc.libera.chat?nick=xubuntu?i#xubuntu-offtopic\">#xubuntu-offtopic IRC "
+"channel</a>."
 msgstr ""
 "نود أن نسمع عن تجاربك مع Xubuntu. شاركها على القائمة البريدية لمستخدمي "
 "Xubuntu أو على # قناة xubuntu offtopic IRC."
@@ -134,8 +137,8 @@ msgid ""
 "section of our website."
 msgstr ""
 "نحتاج دائمًا إلى المساعدة في جعل Xubuntu أفضل. لا توجد مهارات محددة مطلوبة "
-"للمساهمة. لقراءة جميع الفرص المتاحة ، توجه إلى قسم <a "
-"href=\"https://xubuntu.org/contribute/\">Get Involved</a> على موقعنا."
+"للمساهمة. لقراءة جميع الفرص المتاحة ، توجه إلى قسم <a href=\"https://xubuntu."
+"org/contribute/\">Get Involved</a> على موقعنا."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10

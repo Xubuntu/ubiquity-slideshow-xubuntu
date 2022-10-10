@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2022-03-28 22:49+0200\n"
-"PO-Revision-Date: 2018-10-06 13:44+0000\n"
-"Last-Translator: Luo Yufan <Unknown>\n"
+"PO-Revision-Date: 2022-04-24 03:49+0000\n"
+"Last-Translator: Luke Luo <Unknown>\n"
 "Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-04-10 14:52+0000\n"
-"X-Generator: Launchpad (build 4c58cf79c82ce3fbd42288b21369cc838fb5b9e0)\n"
+"X-Launchpad-Export-Date: 2022-10-10 16:12+0000\n"
+"X-Generator: Launchpad (build 762fb15a975e8b23af6a1f86e44e46bfd0451459)\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"Language: \n"
 "X-Poedit-Language: zh_CN\n"
 
 #. type: Content of: <div><div><h1>
@@ -28,7 +28,7 @@ msgstr "欢迎使用 Kubuntu"
 #. type: Attribute 'alt' of: <div><div><img>
 #: slideshows/kubuntu/slides/00_Welcome.html:7
 msgid "kubuntu logo"
-msgstr ""
+msgstr "kubuntu 标志"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:11
@@ -41,20 +41,21 @@ msgid ""
 "Kubuntu combines the best of the KDE Community's software with Ubuntu's base "
 "to make a great desktop experience."
 msgstr ""
+"Kubuntu 将 KDE 社区的绝佳软件与 Ubuntu 的基础相结合，打造了出色的桌面体验。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:13
 msgid ""
 "This slideshow will go over the default applications, how to get help, and "
 "how to contribute to Kubuntu."
-msgstr ""
+msgstr "此幻灯片将介绍默认的应用程序，如何获得帮助，以及如何向Kubuntu做贡献"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:14
 msgid ""
 "Some of the listed applications are only included in the default "
 "installation option."
-msgstr ""
+msgstr "某些列出的应用程序仅包含在默认安装选项中"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/01_Applications.html:3
@@ -72,12 +73,12 @@ msgstr "Kubuntu 预装了大部分您每天所需的应用程序。"
 msgid ""
 "For everything else, you can install more software in Discover, our software "
 "center."
-msgstr ""
+msgstr "至于其他内容，你可以在我们的软件中心Discover安装更多的软件"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:13
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox 浏览器"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:14
@@ -87,7 +88,7 @@ msgstr "网络浏览器"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:18
 msgid "LibreOffice"
-msgstr "LibreOffice"
+msgstr "LibreOffice 办公套件"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:19
@@ -117,12 +118,12 @@ msgstr "文件管理器"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:35
 msgid "KDE Connect"
-msgstr ""
+msgstr "KDE 连接"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:36
 msgid "Mobile Connect"
-msgstr ""
+msgstr "移动连接"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:40
@@ -137,17 +138,17 @@ msgstr "媒体播放器"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:45
 msgid "Spectacle"
-msgstr ""
+msgstr "Spectacle"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:46
 msgid "Screenshot Tool"
-msgstr ""
+msgstr "截图工具"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:50
 msgid "Discover"
-msgstr ""
+msgstr "Discover"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:51
@@ -158,173 +159,173 @@ msgstr "软件中心"
 #: slideshows/kubuntu/slides/02_QT.html:3
 #: slideshows/kubuntu/slides/03_GTK.html:3
 msgid "Looking for more awesome applications?"
-msgstr ""
+msgstr "寻找更棒的应用程序？"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/02_QT.html:7
 #: slideshows/kubuntu/slides/03_GTK.html:7
 msgid "All of these applications are installable from Discover."
-msgstr ""
+msgstr "所有这些应用程序都可以从 Discover 安装。"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:12
 msgid "Kdenlive"
-msgstr ""
+msgstr "Kdenlive"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:13
 msgid "Video Editor"
-msgstr ""
+msgstr "视频编辑器"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:17
 msgid "digiKam"
-msgstr ""
+msgstr "digiKam"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:18
 msgid "Photo Manager"
-msgstr ""
+msgstr "照片管理器"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:22
 msgid "Krita"
-msgstr ""
+msgstr "Krita"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:23
 msgid "Digital Printing"
-msgstr ""
+msgstr "数字打印"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:27
 msgid "Kdevelop"
-msgstr ""
+msgstr "Kdevelop 开发工具"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:28
 msgid "Development IDE"
-msgstr ""
+msgstr "开发环境 IDE"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:34
 msgid "GCompris"
-msgstr ""
+msgstr "GCompris 教育软件"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:35
 msgid "Educational Suite"
-msgstr ""
+msgstr "教育套件"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:39
 msgid "Minuet"
-msgstr ""
+msgstr "Minuet 音乐教育软件"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:40
 msgid "Music Education"
-msgstr ""
+msgstr "音乐教育"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:44
 msgid "Peruse"
-msgstr ""
+msgstr "Peruse 阅读器"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:45
 msgid "Comic Reader"
-msgstr ""
+msgstr "Comic 阅读器"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:49
 msgid "Labplot"
-msgstr ""
+msgstr "Labplot 科研绘图"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:50
 msgid "Data Visualization"
-msgstr ""
+msgstr "数据可视化"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:12
 msgid "Blender"
-msgstr ""
+msgstr "Blender"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:13
 msgid "3D Graphics"
-msgstr ""
+msgstr "3D 图形"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:17
 msgid "GIMP"
-msgstr ""
+msgstr "GIMP"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:18
 msgid "Graphics Editor"
-msgstr ""
+msgstr "图形编辑器"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:22
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape 图形编辑器"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:23
 msgid "SVG Editor"
-msgstr ""
+msgstr "SVG 编辑器"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:27
 msgid "Darktable"
-msgstr ""
+msgstr "Darktable"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:28
 msgid "RAW Editor"
-msgstr ""
+msgstr "RAW 编辑器"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:34
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:35
 msgid "Gaming Platform"
-msgstr ""
+msgstr "游戏平台"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:39
 msgid "OBS"
-msgstr ""
+msgstr "OBS 视频录制与直播推流"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:40
 msgid "Broadcasting Software"
-msgstr ""
+msgstr "广播软件"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:44
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird 邮件客户端"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:45
 msgid "Email Client"
-msgstr ""
+msgstr "电子邮件客户端"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:49
 msgid "VirtualBox"
-msgstr ""
+msgstr "VirtualBox"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:50
 msgid "Virtualization Software"
-msgstr ""
+msgstr "虚拟化软件"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/04_Get-Help.html:3
@@ -335,9 +336,12 @@ msgstr "获得 Kubuntu 的使用帮助"
 #: slideshows/kubuntu/slides/04_Get-Help.html:11
 msgid ""
 "If you need help, try Help from the menu, or the Help menu in most "
-"applications.  Let us know about your Kubuntu experience at <a "
-"href=\"http://www.kubuntu.org/community\">Kubuntu Community</a>!"
+"applications.  Let us know about your Kubuntu experience at <a href=\"http://"
+"www.kubuntu.org/community\">Kubuntu Community</a>!"
 msgstr ""
+"如果需要帮助，请尝试菜单中的帮助，或在大多数应用程序中使用帮助菜单。让我们了"
+"解您在<a href=\"http://www.kubuntu.org/community\">Kubuntu社区</a>的Kubuntu体"
+"验！"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Help.html:14
@@ -346,32 +350,34 @@ msgid ""
 "conjunction with the Ubuntu community, provides free technical support in "
 "person and over the Internet."
 msgstr ""
+"除了我们广泛的书面帮助外，Kubuntu 社区与 Ubuntu 社区一起，通过 Internet 提供"
+"免费的技术支持。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Help.html:18
 msgid ""
 "Learn more at <a href=\"http://www.kubuntu.org/support\">Kubuntu Support</a>."
 msgstr ""
+"了解更多信息，请前往<a href=\"http://www.kubuntu.org/support\">Kubuntu支持</"
+"a>。"
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/04_Get-Help.html:21
 msgid ""
-"Kubuntu Community: <a "
-"href=\"https://www.kubuntu.org/community\">http://www.kubuntu.org/community</"
-"a>"
+"Kubuntu Community: <a href=\"https://www.kubuntu.org/community\">http://www."
+"kubuntu.org/community</a>"
 msgstr ""
-"Kubuntu 社区：<a "
-"href=\"https://www.kubuntu.org/community\">http://www.kubuntu.org/community</"
-"a>"
+"Kubuntu 社区：<a href=\"https://www.kubuntu.org/community\">http://www."
+"kubuntu.org/community</a>"
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/04_Get-Help.html:22
 msgid ""
-"Kubuntu Support: <a "
-"href=\"https://www.kubuntu.org/support\">http://www.kubuntu.org/support</a>"
+"Kubuntu Support: <a href=\"https://www.kubuntu.org/support\">http://www."
+"kubuntu.org/support</a>"
 msgstr ""
-"Kubuntu 支持：<a "
-"href=\"https://www.kubuntu.org/support\">http://www.kubuntu.org/support</a>"
+"Kubuntu 支持：<a href=\"https://www.kubuntu.org/support\">http://www.kubuntu."
+"org/support</a>"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/05_Get-Involved.html:3
@@ -381,7 +387,7 @@ msgstr "加入 Kubuntu"
 #. type: Attribute 'alt' of: <div><div><img>
 #: slideshows/kubuntu/slides/05_Get-Involved.html:7
 msgid "breeze users icon"
-msgstr ""
+msgstr "breeze用户图标"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/05_Get-Involved.html:12
@@ -391,6 +397,8 @@ msgid ""
 "of the distribution, providing advice and technical support, as well as "
 "helping to promote Kubuntu to a wider audience."
 msgstr ""
+"Kubuntu 社区是一个集体，他们组成了开源社区中最伟大的团队之一，致力于本发行版"
+"的各个方面，提供建议和技术支持，并帮助向更广泛的受众推广 Kubuntu。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/05_Get-Involved.html:19
@@ -399,6 +407,8 @@ msgid ""
 "of Kubuntu is easy, and you are more than welcome to help out.  The work you "
 "do will be seen by millions of people around the world."
 msgstr ""
+"无论您的技术水平如何，参与并帮助塑造Kubuntu的未来都很容易，我们非常欢迎您提供"
+"帮助。你所做的工作将被全世界数百万人看到。"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/05_Get-Involved.html:25
@@ -408,20 +418,8 @@ msgstr "安装即将完成。我们希望您能喜欢 Kubuntu！"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/05_Get-Involved.html:28
 msgid ""
-"Kubuntu Manual: <a "
-"href=\"https://kubuntu.org/support/\">https://kubuntu.org/support</a>"
+"Kubuntu Manual: <a href=\"https://kubuntu.org/support/\">https://kubuntu.org/"
+"support</a>"
 msgstr ""
-"Kubuntu 手册：<a "
-"href=\"https://kubuntu.org/support/\">https://kubuntu.org/support</a>"
-
-#~ msgid "We want Kubuntu to work for everyone."
-#~ msgstr "我们希望 Kbuntu 为每一个人工作。"
-
-#~ msgid "Kubuntu: for all users"
-#~ msgstr "Kubuntu：为了所有用户"
-
-#~ msgid "Text Editor"
-#~ msgstr "文本编辑器"
-
-#~ msgid "Kate"
-#~ msgstr "Kate"
+"Kubuntu 手册：<a href=\"https://kubuntu.org/support/\">https://kubuntu.org/"
+"support</a>"

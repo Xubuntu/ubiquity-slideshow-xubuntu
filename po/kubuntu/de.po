@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2022-03-28 22:49+0200\n"
-"PO-Revision-Date: 2020-04-17 20:02+0000\n"
-"Last-Translator: Nico Lick <nico.lick@gmail.com>\n"
+"PO-Revision-Date: 2022-07-25 20:19+0000\n"
+"Last-Translator: Stephan Woidowski <swoidowski@t-online.de>\n"
 "Language-Team: German <de@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-04-10 14:52+0000\n"
-"X-Generator: Launchpad (build 4c58cf79c82ce3fbd42288b21369cc838fb5b9e0)\n"
-"Language: de\n"
+"X-Launchpad-Export-Date: 2022-10-10 16:12+0000\n"
+"X-Generator: Launchpad (build 762fb15a975e8b23af6a1f86e44e46bfd0451459)\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/00_Welcome.html:3
@@ -31,7 +31,7 @@ msgstr "Kubuntu-Logo"
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:11
 msgid "Thanks for picking Kubuntu!"
-msgstr "Danke, dass Sie Kubuntu ausgewählt haben!"
+msgstr "Danke, dass Sie sich für Kubuntu entschieden haben!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:12
@@ -39,8 +39,8 @@ msgid ""
 "Kubuntu combines the best of the KDE Community's software with Ubuntu's base "
 "to make a great desktop experience."
 msgstr ""
-"Kubuntu kombiniert das Beste der KDE-Gemeinschaftssoftware mit Ubuntus Basis "
-"um eine großartige Desktoperfahrung zu erstellen."
+"Kubuntu vereint das Beste der Software aus der KDE-Community mit der Basis "
+"von Ubuntu, um eine großartige Desktoperfahrung zu schaffen."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/00_Welcome.html:13
@@ -48,7 +48,7 @@ msgid ""
 "This slideshow will go over the default applications, how to get help, and "
 "how to contribute to Kubuntu."
 msgstr ""
-"Diese Diaschau gibt einen Überblick über die Standardanwendungen, wie man "
+"Diese Slideshow gibt einen Überblick über die Standard-Anwendungen, wo man "
 "Hilfe erhält und wie man zur Entwicklung von Kubuntu beitragen kann."
 
 #. type: Content of: <div><div><p>
@@ -63,14 +63,15 @@ msgstr ""
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/01_Applications.html:3
 msgid "Find everything you need on your new install"
-msgstr "Alles was Sie benötigen ist bei Neuinstallation vorhanden"
+msgstr "Finde alles, was Sie für Ihre neue Installation brauchen"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/01_Applications.html:7
 msgid ""
 "Kubuntu comes with most of the applications that you need on a daily basis."
 msgstr ""
-"Kubuntu enthält bereits die meisten Anwendungen für die tägliche Arbeit."
+"Kubuntu enthält eine Reihe an Anwendungen, die für den Alltag benötigt "
+"werden."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/01_Applications.html:8
@@ -89,7 +90,7 @@ msgstr "Firefox"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:14
 msgid "Web Browser"
-msgstr "Browser"
+msgstr "Webbrowser"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:18
@@ -119,17 +120,17 @@ msgstr "Dolphin"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:29
 msgid "File Manager"
-msgstr "Dateiverwaltung"
+msgstr "Dateimanager"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:35
 msgid "KDE Connect"
-msgstr ""
+msgstr "KDE Connect"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:36
 msgid "Mobile Connect"
-msgstr ""
+msgstr "Mobile Connect"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:40
@@ -139,17 +140,17 @@ msgstr "VLC"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:41
 msgid "Media Player"
-msgstr "Medienspieler"
+msgstr "Media Player"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:45
 msgid "Spectacle"
-msgstr ""
+msgstr "Spectacle"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:46
 msgid "Screenshot Tool"
-msgstr ""
+msgstr "Werkzeug für Bildschirmfotos"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:50
@@ -165,173 +166,173 @@ msgstr "Software-Center"
 #: slideshows/kubuntu/slides/02_QT.html:3
 #: slideshows/kubuntu/slides/03_GTK.html:3
 msgid "Looking for more awesome applications?"
-msgstr ""
+msgstr "Suchen Sie nach weiteren tollen Anwendungen?"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/02_QT.html:7
 #: slideshows/kubuntu/slides/03_GTK.html:7
 msgid "All of these applications are installable from Discover."
-msgstr ""
+msgstr "Alle Anwendungen sind über Discover installierbar."
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:12
 msgid "Kdenlive"
-msgstr ""
+msgstr "Kdenlive"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:13
 msgid "Video Editor"
-msgstr ""
+msgstr "Videoeditor"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:17
 msgid "digiKam"
-msgstr ""
+msgstr "digiKam"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:18
 msgid "Photo Manager"
-msgstr ""
+msgstr "Fotoverwaltung"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:22
 msgid "Krita"
-msgstr ""
+msgstr "Krita"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:23
 msgid "Digital Printing"
-msgstr ""
+msgstr "Digitaldruck"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:27
 msgid "Kdevelop"
-msgstr ""
+msgstr "Kdevelop"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:28
 msgid "Development IDE"
-msgstr ""
+msgstr "Entwicklerumgebung"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:34
 msgid "GCompris"
-msgstr ""
+msgstr "GCompris"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:35
 msgid "Educational Suite"
-msgstr ""
+msgstr "Lernsoftwarepaket"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:39
 msgid "Minuet"
-msgstr ""
+msgstr "Minuet"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:40
 msgid "Music Education"
-msgstr ""
+msgstr "Musikausbildung"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:44
 msgid "Peruse"
-msgstr ""
+msgstr "Stöbern"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:45
 msgid "Comic Reader"
-msgstr ""
+msgstr "Comic-Reader"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:49
 msgid "Labplot"
-msgstr ""
+msgstr "Laborplan"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:50
 msgid "Data Visualization"
-msgstr ""
+msgstr "Datenvisualisierung"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:12
 msgid "Blender"
-msgstr ""
+msgstr "Blender"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:13
 msgid "3D Graphics"
-msgstr ""
+msgstr "3D-Grafik"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:17
 msgid "GIMP"
-msgstr ""
+msgstr "GIMP"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:18
 msgid "Graphics Editor"
-msgstr ""
+msgstr "Grafikeditor"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:22
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:23
 msgid "SVG Editor"
-msgstr ""
+msgstr "SVG-Editor"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:27
 msgid "Darktable"
-msgstr ""
+msgstr "Darktable"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:28
 msgid "RAW Editor"
-msgstr ""
+msgstr "RAW-Editor"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:34
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:35
 msgid "Gaming Platform"
-msgstr ""
+msgstr "Spieleplattform"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:39
 msgid "OBS"
-msgstr ""
+msgstr "OBS"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:40
 msgid "Broadcasting Software"
-msgstr ""
+msgstr "Streaming-Software"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:44
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:45
 msgid "Email Client"
-msgstr ""
+msgstr "E-Mail-Programm"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:49
 msgid "VirtualBox"
-msgstr ""
+msgstr "VirtualBox"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:50
 msgid "Virtualization Software"
-msgstr ""
+msgstr "Virtualisierungssoftware"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/04_Get-Help.html:3
@@ -342,13 +343,13 @@ msgstr "Unterstützung für Kubuntu erhalten"
 #: slideshows/kubuntu/slides/04_Get-Help.html:11
 msgid ""
 "If you need help, try Help from the menu, or the Help menu in most "
-"applications.  Let us know about your Kubuntu experience at <a "
-"href=\"http://www.kubuntu.org/community\">Kubuntu Community</a>!"
+"applications.  Let us know about your Kubuntu experience at <a href=\"http://"
+"www.kubuntu.org/community\">Kubuntu Community</a>!"
 msgstr ""
-"Falls Sie Hilfe benötigen, rufen Sie die Hilfe aus dem Menü auf oder nutzen "
-"das Hilfemenü in den meisten Anwendungen. Wir freuen uns auf Ihre "
-"Erfahrungen mit Kubuntu auf <a "
-"href=\"http://www.kubuntu.org/community\">Kubuntu Community</a>!"
+"Fall Sie Hilfe benötigen, rufen Sie \"Hilfe\" über das Menü auf oder nutzen "
+"Sie das Hilfemenü in den meisten Anwendungen. Lassen Sie uns Ihre Erfahrung "
+"mit Kubuntu wissen auf <a href=\"http://www.kubuntu.org/community\">Kubuntu "
+"Community</a>!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/04_Get-Help.html:14
@@ -372,22 +373,20 @@ msgstr ""
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/04_Get-Help.html:21
 msgid ""
-"Kubuntu Community: <a "
-"href=\"https://www.kubuntu.org/community\">http://www.kubuntu.org/community</"
-"a>"
+"Kubuntu Community: <a href=\"https://www.kubuntu.org/community\">http://www."
+"kubuntu.org/community</a>"
 msgstr ""
-"Kubuntu Gemeinschaft: <a "
-"href=\"https://www.kubuntu.org/community\">http://www.kubuntu.org/community</"
-"a>"
+"Kubuntu-Community: <a href=\"https://www.kubuntu.org/community\">http://www."
+"kubuntu.org/community</a>"
 
 #. type: Content of: <div><div><p><ul><li>
 #: slideshows/kubuntu/slides/04_Get-Help.html:22
 msgid ""
-"Kubuntu Support: <a "
-"href=\"https://www.kubuntu.org/support\">http://www.kubuntu.org/support</a>"
+"Kubuntu Support: <a href=\"https://www.kubuntu.org/support\">http://www."
+"kubuntu.org/support</a>"
 msgstr ""
-"Kubuntu Hilfeseiten: <a "
-"href=\"https://www.kubuntu.org/support\">http://www.kubuntu.org/support</a>"
+"Kubuntu-Hilfeseiten: <a href=\"https://www.kubuntu.org/support\">http://www."
+"kubuntu.org/support</a>"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/05_Get-Involved.html:3
@@ -407,10 +406,11 @@ msgid ""
 "of the distribution, providing advice and technical support, as well as "
 "helping to promote Kubuntu to a wider audience."
 msgstr ""
-"Die Kubuntu-Gemeinschaft besteht aus einer Gruppe von Einzelpersonen, die "
-"eins der besten Teams in der Open Source Welt geschaffen hat. Sie arbeiten "
-"an verschiedenen Bereichen der Distribution, beraten und geben technische "
-"Hilfe und helfen dabei, Kubuntu einem größeren Publikum vorzustellen."
+"Die Kubuntu-Community besteht aus einer Gruppe von Einzelpersonen, die sich "
+"zu eine der besten Communitys in der Welt von Open Source "
+"zusammengeschlossen haben. Sie arbeiten an verschiedenen Bereichen der "
+"Distribution, beraten und geben technische Hilfe und helfen dabei, Kubuntu "
+"einem größeren Publikum zugänglich zu machen."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/05_Get-Involved.html:19
@@ -419,10 +419,9 @@ msgid ""
 "of Kubuntu is easy, and you are more than welcome to help out.  The work you "
 "do will be seen by millions of people around the world."
 msgstr ""
-"Egal wie wie gut Ihre Kenntnisse und Fähigkeiten sind, dabeisein, mitmachen "
-"und die Zukunft von Kubuntu zu formen ist leicht. Sie sind  mehr als "
-"willkommen, um zu helfen. Ihre Arbeit wird von Millionen Menschen auf der "
-"ganzen Welt gesehen."
+"Egal, wo Ihre Stärken liegen, das Mitmachen und die Zukunft von Kubuntu "
+"mitzugestalten ist einfach, und Sie sind herzlich eingeladen, dabei zu sein! "
+"Ihre Arbeit wird von Millionen von Menschen auf der ganzen Welt gesehen."
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/05_Get-Involved.html:25
@@ -434,33 +433,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/kubuntu/slides/05_Get-Involved.html:28
 msgid ""
-"Kubuntu Manual: <a "
-"href=\"https://kubuntu.org/support/\">https://kubuntu.org/support</a>"
+"Kubuntu Manual: <a href=\"https://kubuntu.org/support/\">https://kubuntu.org/"
+"support</a>"
 msgstr ""
-"Das Kubuntu-Handbuch: <a "
-"href=\"https://kubuntu.org/support/\">https://kubuntu.org/support</a>"
-
-#~ msgid "Kontact"
-#~ msgstr "Kontakt"
-
-#~ msgid "r"
-#~ msgstr "r"
-
-#~ msgid "We want Kubuntu to work for everyone."
-#~ msgstr "Wir möchten, dass Kubuntu für jeden geeignet ist."
-
-#~ msgid "Kubuntu: for all users"
-#~ msgstr "Kubuntu: für jeden"
-
-#~ msgid "PIM Suite"
-#~ msgstr "Werkzeuge für das persönliche Informationsmanagement"
-
-#~ msgid "Kate"
-#~ msgstr "Kate"
-
-#~ msgid "Text Editor"
-#~ msgstr "Textbearbeitung"
-
-#~ msgid "We include a screen reader, modifier keys and more."
-#~ msgstr ""
-#~ "Es gibt einen Bildschirmvorleser, Spezialtasten und weitere Funktionen"
+"Das Kubuntu-Handbuch: <a href=\"https://kubuntu.org/support/\">https://"
+"kubuntu.org/support</a>"
