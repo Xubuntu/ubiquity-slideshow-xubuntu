@@ -8,31 +8,32 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2022-03-28 22:49+0200\n"
-"PO-Revision-Date: 2020-07-20 06:48+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2022-04-24 03:56+0000\n"
+"Last-Translator: Luke Luo <Unknown>\n"
 "Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-04-10 14:52+0000\n"
-"X-Generator: Launchpad (build 4c58cf79c82ce3fbd42288b21369cc838fb5b9e0)\n"
+"X-Launchpad-Export-Date: 2022-10-10 16:20+0000\n"
+"X-Generator: Launchpad (build 762fb15a975e8b23af6a1f86e44e46bfd0451459)\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:3
 msgid "Welcome to Ubuntu MATE"
-msgstr ""
+msgstr "欢迎使用 Ubuntu MATE"
 
 #. type: Content of: <div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:4
 msgid ""
 "A community developed Ubuntu based operating system that beautifully "
 "integrates the MATE desktop."
-msgstr ""
+msgstr "一个集成 MATE 桌面环境的 Ubuntu 的社区发行版"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:2
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:7
@@ -41,13 +42,15 @@ msgid ""
 "desktop environment. Ideal for those who want the most out of their "
 "computers and prefer a traditional desktop metaphor."
 msgstr ""
+"Ubuntu MATE 是一个稳定、易用的操作系统，具有可配置的桌面环境。 它非常适合那些"
+"希望充分利用计算机并喜欢传统桌面布局的人。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:11
 msgid ""
 "With modest hardware requirements it is suitable for modern workstations, "
 "single board computers and older hardware alike."
-msgstr ""
+msgstr "它对硬件要求适中，适用于现代工作站、单板计算机、旧硬件之类的平台。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:17
@@ -56,11 +59,13 @@ msgid ""
 "user interface with one-click to something more modern or something that you "
 "might be more familiar with via <strong>MATE Tweak</strong>."
 msgstr ""
+"对于来自其他操作系统的用户，Ubuntu MATE 可以通过<strong> MATE Tweak </ "
+"strong>一键调整用户界面，使其适应更现代的功能或您可能更熟悉的功能。"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:2
 msgid "Get up and running faster"
-msgstr ""
+msgstr "启动快，运行也快"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:7
@@ -85,17 +90,17 @@ msgstr ""
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:16
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:13
 msgid "Included software"
-msgstr ""
+msgstr "预装软件"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:22
 msgid "Ubuntu MATE Welcome"
-msgstr ""
+msgstr "Ubuntu MATE 欢迎"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:2
 msgid "Find the best software"
-msgstr ""
+msgstr "寻找最佳软件"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:7
@@ -111,7 +116,7 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:20
 msgid "Software Boutique"
-msgstr ""
+msgstr "Software Boutique 软件中心"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:23
@@ -119,17 +124,17 @@ msgstr ""
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:15
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:23
 msgid "Supported software"
-msgstr ""
+msgstr "支持的软件"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:27
 msgid "Ubuntu Software"
-msgstr ""
+msgstr "Ubuntu 软件"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:2
 msgid "Personalised computing"
-msgstr ""
+msgstr "个性化计算"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:7
@@ -137,23 +142,30 @@ msgid ""
 "The default Ubuntu MATE user interface is intuitive and easy to use. But we "
 "understand people have different tastes and preferences, which is why we "
 "created <strong>MATE Tweak</strong>; a tool to change the user interface to "
-"mimic other operating systems. Coming from Windows? Try "
-"<strong>Redmond</strong>.  Prefer the way macOS is layed out? Try "
-"<strong>Cupertino</strong>.  For Ubuntu Unity fans take a look at "
-"<strong>Mutiny</strong>.  Or for a hybrid user interface, try "
-"<strong>Pantheon</strong> or <strong>Comptemporary</strong>. Experienced "
-"users can customise the user interface and save their creations."
+"mimic other operating systems. Coming from Windows? Try <strong>Redmond</"
+"strong>.  Prefer the way macOS is layed out? Try <strong>Cupertino</"
+"strong>.  For Ubuntu Unity fans take a look at <strong>Mutiny</strong>.  Or "
+"for a hybrid user interface, try <strong>Pantheon</strong> or "
+"<strong>Comptemporary</strong>. Experienced users can customise the user "
+"interface and save their creations."
 msgstr ""
+"默认的 Ubuntu MATE 用户界面直观且易于使用，但我们意识到人们有不同的品味和偏"
+"好，这就是为什么我们创建了 <strong>MATE Tweak</strong> 这款允许将用户界面修改"
+"成类似其他操作系统的工具。您来自 Windows？来试试 <strong>Redmond</strong>。喜"
+"欢 macOS 的布局方式？来看看 <strong>Cupertino</strong>。 Ubuntu Unity 的粉丝"
+"请搜搜 <strong>Mutiny</strong>。如果您喜欢混合用户界面，<strong>Pantheon</"
+"strong> 和 <strong>Comptemporary</strong> 或许是一个不错的选择。有经验的用户"
+"可以自定义用户界面布局。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:23
 msgid "MATE Tweak"
-msgstr ""
+msgstr "MATE Tweak"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:2
 msgid "Make the most of the web"
-msgstr ""
+msgstr "网页浏览 顺畅自如"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:7
@@ -162,29 +174,29 @@ msgid ""
 "used by millions of people around the world.  Designed with privacy in mind "
 "it includes enhanced security features to protect you from online threats. "
 "You'll also find <strong>Brave</strong>, <strong>Chromium</strong>, "
-"<strong>Google Chrome</strong>, <strong>Opera</strong> and "
-"<strong>Vivaldi</strong> in the Software Boutique."
+"<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
+"strong> in the Software Boutique."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:20
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox 浏览器"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:24
 msgid "Evolution"
-msgstr ""
+msgstr "Evolution"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:31
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium 浏览器"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:2
 msgid "Get your game on!"
-msgstr ""
+msgstr "开始你的游戏！"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:7
@@ -196,11 +208,15 @@ msgid ""
 "ups, racers, flight simulators, puzzlers, turn based strategy and first "
 "person shooters."
 msgstr ""
+"Ubuntu Mate 除了可以用于工作，同样可以进行娱乐。您可以在 <strong>Software "
+"Boutique</strong> 中发现 <strong>Steam</strong> and <strong>Minecraft（我的世"
+"界）</strong> 。我们还精心挑选了精彩的开源游戏，并为 Software Boutique 中提供"
+"平台、射击、赛车、飞行模拟、益智、回合制策略和第一人称射击游戏。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:19
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:23
@@ -210,7 +226,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:2
 msgid "Take your music with you"
-msgstr ""
+msgstr "至美音乐 随时相伴"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:7
@@ -221,22 +237,26 @@ msgid ""
 "wherever you go. If you prefer streaming services you'll find "
 "<strong>Spotify</strong> in the <strong>Software Boutique</strong>."
 msgstr ""
+"Ubuntu MATE 预装了绝佳的 Rhythmbox 音乐播放器。借助高级播放选项，您可以将好听"
+"的歌曲加入播放列表中。它与 CD 、随身听完美适配，因此您无论在何处，都可以随时"
+"享受音乐。 如果您更喜欢流媒体服务，您可以在<strong>Software Boutique</"
+"strong> 中搜索 <strong>Spotify</strong>。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:19
 msgid "Rhythmbox Music Player"
-msgstr ""
+msgstr "Rhythmbox 音乐播放器"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:23
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:20
 msgid "Celluloid"
-msgstr ""
+msgstr "Celluloid"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:2
 msgid "Organise your photos"
-msgstr ""
+msgstr "整理您的照片"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:7
@@ -252,26 +272,29 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:20
 msgid "Shotwell Photo Manager"
-msgstr ""
+msgstr "Shotwell 照片管理器"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:27
 msgid "GIMP Image Editor"
-msgstr ""
+msgstr "GIMP 图片编辑器"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:2
 msgid "Grab some popcorn!"
-msgstr ""
+msgstr "来点爆米花吧！"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:7
 msgid ""
 "Ubuntu MATE comes with <strong>Firefox</strong> pre-installed and "
 "<strong>Google Chrome</strong> is in the Software Boutique so you can watch "
-"content from your favourite streaming services such as "
-"<strong>Netflix</strong> and <strong>YouTube</strong>."
+"content from your favourite streaming services such as <strong>Netflix</"
+"strong> and <strong>YouTube</strong>."
 msgstr ""
+"Ubuntu MATE 预装了 <strong>Firefox 浏览器</strong>，并且在 Software Boutique "
+"中上架了 <strong>Google Chrome</strong>，因此您可以观看您所中意的 "
+"<strong>Netflix</strong> 、<strong>YouTube</strong> 流媒体服务。"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:12
@@ -279,11 +302,12 @@ msgid ""
 "With <strong>Celluloid</strong> installed by default you can watch all your "
 "local video with ease."
 msgstr ""
+"预装的 <strong>Celluloid</strong> 软件可以让你轻松观看存储在本地的视频。"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:2
 msgid "Everything you need for the office"
-msgstr ""
+msgstr "办公所需 一应俱全"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:7
@@ -292,26 +316,28 @@ msgid ""
 "documents, spreadsheets and presentations.  Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"LibreOffice 是一款自由的办公套件，包含创建文档、电子表格和演示文稿所需的一"
+"切。它与 Microsoft Office 文件格式兼容，提供您所需要的所有功能，而无需付费。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:17
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice 文字处理"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:21
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice 电子表格"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:25
 msgid "LibreOffice Impress"
-msgstr ""
+msgstr "LibreOffice 演示文稿"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:2
 msgid "Accessible for everyone"
-msgstr ""
+msgstr "人人皆可访问"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:7
@@ -321,36 +347,38 @@ msgid ""
 "language, colour scheme and text size, Ubuntu MATE makes computing easy - "
 "whoever and wherever you are."
 msgstr ""
+"Ubuntu MATE 哲学的核心是相信计算适合每个人。借助先进的辅助工具和更改语言、配"
+"色方案和文本大小的选项，Ubuntu MATE 让计算变得容易——无论您身在何处。"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:13
 msgid "Customization options"
-msgstr ""
+msgstr "自定义选项"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:17
 msgid "Appearance"
-msgstr ""
+msgstr "外观"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:21
 msgid "Assistive technologies"
-msgstr ""
+msgstr "辅助技术"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:25
 msgid "Language support"
-msgstr ""
+msgstr "语言支持"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:2
 msgid "Join the community"
-msgstr ""
+msgstr "加入社区"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:7
 msgid "Discussion & Support"
-msgstr ""
+msgstr "讨论和支持"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:11
@@ -358,6 +386,8 @@ msgid ""
 "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
 "Forum</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE 论坛"
+"</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:15
@@ -365,17 +395,20 @@ msgid ""
 "<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">Live "
 "Chat</a>"
 msgstr ""
+"<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">实时聊天"
+"</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:18
 msgid "Announcements"
-msgstr ""
+msgstr "公告"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:22
 msgid ""
 "<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 msgstr ""
+"<a href=\"https://twitter.com/ubuntu_mate\" class=\"caption\">Twitter</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:26
@@ -383,17 +416,20 @@ msgid ""
 "<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
 "class=\"caption\">Facebook</a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/UbuntuMATEedition\" "
+"class=\"caption\">Facebook</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:29
 msgid "Development"
-msgstr ""
+msgstr "开发"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:33
 msgid ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">代码</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:37
@@ -401,3 +437,5 @@ msgid ""
 "<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug "
 "Tracker</a>"
 msgstr ""
+"<a href=\"https://bugs.launchpad.net/ubuntu-mate\" class=\"caption\">Bug 追踪"
+"器</a>"
