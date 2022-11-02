@@ -1,7 +1,0 @@
-#!/usr/bin/make -f
-
-%:
-	dh $@
-
-# Not an automated build test
-override_dh_auto_test:
