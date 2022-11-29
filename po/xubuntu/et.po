@@ -1,35 +1,38 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
 # Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020
+# Priit Jõerüüt <transifex@joeruut.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 15:37+0000\n"
+"POT-Creation-Date: 2021-08-20 05:12-0400\n"
 "PO-Revision-Date: 2020-05-23 17:48+0000\n"
-"Last-Translator: Leonardo Muñoz <leonardoptc2015@gmail.com>, 2020\n"
+"Last-Translator: Priit Jõerüüt <transifex@joeruut.com>, 2022\n"
 "Language-Team: Estonian (https://www.transifex.com/xubuntu/teams/110148/et/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: et\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
-"X-Launchpad-Export-Date: 2019-10-10 13:37+0000\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/01_welcome.html:2
 msgid "Welcome to Xubuntu"
-msgstr "Tere tulemast Xubuntu"
+msgstr "Tere tulemast Xubuntu kasutajaks"
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:5
 msgid ""
 "Start exploring your new desktop by making yourself familiar with the "
 "applications menu."
-msgstr "Alustage oma uue töölaua uurimist, tutvustades endrakenduste menüü."
+msgstr ""
+"Tutvumist oma uue töölauakeskkonnaga alusta rakenduste menüü uurimisest."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/01_welcome.html:6
@@ -37,8 +40,8 @@ msgid ""
 "Use the Software application to install more applications and the Settings "
 "Manager to customize the look and feel of your desktop."
 msgstr ""
-"Kasutage tarkvararakendust, et installida rohkem rakendusi ja "
-"sätteidHaldaja, et kohandada oma töölaua välimust ja olemust."
+"Kasuta Tarkvarahaldurit, et installida rohkem rakendusi ning Seadistuste "
+"haldurit oma töölaua välimuse ja olemuse kohendamiseks."
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/02_support.html:2
@@ -52,8 +55,9 @@ msgid ""
 "Xubuntu. You can find the documentation under <em>Help</em> on the "
 "applications menu."
 msgstr ""
-"Abi ja tugi <em> Ametlik dokumentatsioon </em> aitab teil alustadaXubuntu. "
-"Dokumentatsiooni leiate jaotise <em> spikker </em> altrakenduste menüü."
+"<em> Ametlikust dokumentatsioonist </em> leiad abiteavet Xubuntu kasutamise "
+"osas. Dokumentatsiooni leiad rakenduste menüüst jaotisest <em> Abiteave "
+"</em> ."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/02_support.html:6
@@ -61,8 +65,8 @@ msgid ""
 "If the documentation doesn't answer your questions, check the full list of "
 "support methods from the Xubuntu website."
 msgstr ""
-"Kui dokumentatsioon ei vasta teie küsimustele, vaadake täielikku "
-"loendittugimeetodid Xubuntu veebisaidilt."
+"Kui dokumentatsioonist ei leidu vastust sinu küsimustele, siis kõik muud "
+"kasutajatoe võimalused on kirjas Xubuntu veebisaidis."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/02_support.html:10
@@ -70,13 +74,14 @@ msgid ""
 "<a href=\"https://docs.xubuntu.org/2004/\">Official Documentation online</a>"
 " <a href=\"https://xubuntu.org/help/\">All support methods</a>"
 msgstr ""
-"<a href=\"https://docs.xubuntu.org/2004/\"> Ametlik dokumentatsioon veebis "
-"</a><a href=\"https://xubuntu.org/help/\"> Kõik tugimeetodid </a>"
+"<a href=\"https://docs.xubuntu.org/2004/\">Ametlik dokumentatsioon meie "
+"veebisadis</a> <a href=\"https://xubuntu.org/help/\">Kõik kasutajatoe "
+"võimalused</a>"
 
 #. type: Content of: <div><h1>
 #: slideshows/xubuntu/slides/03_support-live.html:2
 msgid "Real-time support"
-msgstr "Reaalajas tugi"
+msgstr "Kasutajatugi reaalajas"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:6
@@ -86,10 +91,10 @@ msgid ""
 "href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu\">clicking"
 " here</a>."
 msgstr ""
-"Veebipõhise veebitoe <em> inglise keeles </em> saamiseks liituge meie IRC "
-"kanaliga,<em> #xubuntu </em>, autor "
-"<a href=\"https://kiwiirc.com/nextclient/irc.libera.chat?channel=xubuntu&nick=xubuntu..i&prompt=1\">"
-" klõpsatessiin </a>"
+"<em>Ingliskeelse kasutajatoe jaoks</em> liitu meie IRC kanaliga "
+"<em>#xubuntu</em> <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu\">klõpsides"
+" siin</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/xubuntu/slides/03_support-live.html:7
@@ -98,9 +103,9 @@ msgid ""
 "href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">local support "
 "channels</a>."
 msgstr ""
-"<em> teistes keeltes </em> tugiteenuste saamiseks vaadake "
-"<a href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">kohalik tugikanalid"
-" </a>"
+"<em> Teistes keeltes </em> pakutavate tugiteenuste loendi leiad <a "
+"href=\"https://wiki.ubuntu.com/IRC/ChannelList/Local\">kohalikud "
+"tygiteenused</a> lehelt."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/03_support-live.html:16
@@ -115,11 +120,17 @@ msgstr "Liitu kogukonnaga"
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:5
 msgid ""
-"We'd love to hear about your experiences with Xubuntu. Share them on the "
-"Xubuntu users mailing list or on the #xubuntu-offtopic IRC channel."
+"We'd love to hear about your experiences with Xubuntu. Share them on the <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-users\">Xubuntu "
+"users mailing list</a> or on the <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu-"
+"offtopic\">#xubuntu-offtopic IRC channel</a>."
 msgstr ""
-"Meile meeldiks teada teie kogemustest Xubuntuga. Jagage neid lehelXubuntu "
-"kasutajate meililisti või # xubuntu-offtopic IRC kanalil."
+"Me tahaksime teada kuidas sul Xubuntu kasutamine on sujunud. Teavet saad "
+"jagada <a href=\"https://lists.ubuntu.com/mailman/listinfo/xubuntu-"
+"users\">Xubuntu kasutajate postiloendis</a> või <a "
+"href=\"https://kiwiirc.com/nextclient/irc.libera.chat?nick=xubuntu?i#xubuntu-"
+"offtopic\">#xubuntu-offtopic IRC kanalil</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/xubuntu/slides/04_community.html:6
@@ -129,12 +140,12 @@ msgid ""
 "head to the <a href=\"https://xubuntu.org/contribute/\">Get Involved</a> "
 "section of our website."
 msgstr ""
-"Vajame Xubuntu veelgi paremaks muutmisel abi. Spetsiifilisi oskusi "
-"polekohustatud panustama. Lugege kõigi võimalike võimaluste kohta,minge <a "
-"href=\"https://xubuntu.org/contribute/\"> kaasage </a>meie veebisaidi "
-"jaotis."
+"Vajame Xubuntu veelgi paremaks muutmisel abi. Selleks pole väga "
+"spetsiifilisi oskusi vaja. Kõigi võimaluste kohta leiad teavet meie "
+"veebisaidi <a href=\"https://xubuntu.org/contribute/\"> Osale </a>lehelt."
 
 #. type: Content of: <div><div>
 #: slideshows/xubuntu/slides/04_community.html:10
 msgid "Hey, what about passing on your installation media to a friend!"
-msgstr "Hei, kuidas oleks teie installikandja edastamisega sõbrale!"
+msgstr ""
+"Nüüd, kus sul Xubuntu töölaud toimib, anna paigaldusmeedia sõbrale edasi!"
